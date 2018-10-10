@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an5.46",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.46",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Success",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wealth",
+      "uid": "an5.47"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Overflowing Merit",
+      "uid": "an5.45"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.46:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.46:0.2",
+          "pli": "5. Muṇḍarājavagga",
+          "en": "5. With King Muṇḍa"
+        },
+        {
+          "scid": "an5.46:0.3",
+          "pli": "46. Sampadāsutta",
+          "en": "46. Success"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.46:1.1",
+          "pli": "“Pañcimā, bhikkhave, sampadā.",
+          "en": "“Mendicants, there are five accomplishments."
+        },
+        {
+          "scid": "an5.46:1.2",
+          "pli": "Katamā pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.46:1.3",
+          "pli": "Saddhāsampadā, sīlasampadā, sutasampadā, cāgasampadā, paññāsampadā—",
+          "en": "Accomplishment in faith, ethics, learning, generosity, and wisdom."
+        },
+        {
+          "scid": "an5.46:1.4",
+          "pli": "imā kho, bhikkhave, pañca sampadā”ti.",
+          "en": "These are the five accomplishments.”"
+        },
+        {
+          "scid": "an5.46:1.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.46/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.46",
+    "volpages": "AN iii 53",
+    "uid": "an5.46",
+    "blurb": "Kinds of spiritual success, in brief.",
+    "difficulty": null,
+    "original_title": "Sampadā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Success",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.46_sujato",
+        "segmented": true,
+        "title": "Success"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an5.46_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Accomplishments"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

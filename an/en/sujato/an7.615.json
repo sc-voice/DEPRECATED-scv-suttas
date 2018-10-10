@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an7.615",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.615",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an7.616"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an7.96-614"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.615:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.615:0.2",
+          "pli": "11. Rāgapeyyāla",
+          "en": "11. Abbreviated Texts Beginning With Greed"
+        },
+        {
+          "scid": "an7.615:0.3",
+          "pli": "615",
+          "en": "615"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.615:1.1",
+          "pli": "“Rāgassa, bhikkhave, abhiññāya satta dhammā bhāvetabbā.",
+          "en": "“Mendicants, for insight into greed, seven things should be developed."
+        },
+        {
+          "scid": "an7.615:1.2",
+          "pli": "Katame satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.615:1.3",
+          "pli": "Satisambojjhaṅgo … pe …",
+          "en": "The awakening factor of mindfulness …"
+        },
+        {
+          "scid": "an7.615:1.4",
+          "pli": "upekkhāsambojjhaṅgo—",
+          "en": "equanimity."
+        },
+        {
+          "scid": "an7.615:1.5",
+          "pli": "rāgassa, bhikkhave, abhiññāya ime satta dhammā bhāvetabbā”ti.",
+          "en": "These seven things should be developed for insight into greed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.615/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "an7.615",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.615_sujato",
+        "segmented": true,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

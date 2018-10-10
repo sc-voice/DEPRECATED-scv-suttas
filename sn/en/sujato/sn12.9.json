@@ -1,0 +1,105 @@
+{
+  "sutta_uid": "sn12.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Kassapa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gotama",
+      "uid": "sn12.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Koṇāgamana",
+      "uid": "sn12.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.9:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.9:0.2",
+          "pli": "1. Buddhavagga",
+          "en": "1. The Buddhas"
+        },
+        {
+          "scid": "sn12.9:0.3",
+          "pli": "9. Kassapasutta",
+          "en": "9. Kassapa"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.9:1.1",
+          "pli": "“Kassapassa, bhikkhave, bhagavato arahato sammāsambuddhassa … pe ….",
+          "en": "“Kassapa, the Blessed One, the perfected one, the fully awakened Buddha …”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Kassapa…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.9",
+    "volpages": "SN ii 9",
+    "uid": "sn12.9",
+    "blurb": "In the far past, the Buddha Kassapa reflected on how the world had fallen into suffering, and became awakened by understanding dependent origination.",
+    "difficulty": null,
+    "original_title": "Kassapa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kassapa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.9_sujato",
+        "segmented": true,
+        "title": "Kassapa"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 9
+  }
+}

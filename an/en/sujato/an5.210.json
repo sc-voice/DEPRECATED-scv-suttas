@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "an5.210",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.210",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Unmindful",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "An Abuser",
+      "uid": "an5.211"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Sound of Singing",
+      "uid": "an5.209"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.210:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.210:0.2",
+          "pli": "21. Kimilavagga",
+          "en": "21. With Kimbila"
+        },
+        {
+          "scid": "an5.210:0.3",
+          "pli": "210. Muṭṭhassatisutta",
+          "en": "210. Unmindful"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.210:1.1",
+          "pli": "“Pañcime, bhikkhave, ādīnavā muṭṭhassatissa asampajānassa niddaṃ okkamayato.",
+          "en": "“Mendicants, there are these five drawbacks of falling asleep unmindful and unaware."
+        },
+        {
+          "scid": "an5.210:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.210:1.3",
+          "pli": "Dukkhaṃ supati, dukkhaṃ paṭibujjhati, pāpakaṃ supinaṃ passati, devatā na rakkhanti, asuci muccati.",
+          "en": "You sleep badly and wake miserably. You have bad dreams. The deities don’t protect you. And you emit semen."
+        },
+        {
+          "scid": "an5.210:1.4",
+          "pli": "Ime kho, bhikkhave, pañca ādīnavā muṭṭhassatissa asampajānassa niddaṃ okkamayato.",
+          "en": "These are the five drawbacks of falling asleep unmindful and unaware."
+        },
+        {
+          "scid": "an5.210:2.1",
+          "pli": "Pañcime, bhikkhave, ānisaṃsā upaṭṭhitassatissa sampajānassa niddaṃ okkamayato.",
+          "en": "There are these five benefits of falling asleep mindful and aware."
+        },
+        {
+          "scid": "an5.210:2.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.210:2.3",
+          "pli": "Sukhaṃ supati, sukhaṃ paṭibujjhati, na pāpakaṃ supinaṃ passati, devatā rakkhanti, asuci na muccati.",
+          "en": "You sleep well and wake happily. You don’t have bad dreams. The deities protect you. And you don’t emit semen."
+        },
+        {
+          "scid": "an5.210:2.4",
+          "pli": "Ime kho, bhikkhave, pañca ānisaṃsā upaṭṭhitassatissa sampajānassa niddaṃ okkamayato”ti.",
+          "en": "These are the five benefits of falling asleep mindful and aware.”"
+        },
+        {
+          "scid": "an5.210:2.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an5.210:2.6",
+          "pli": "Kimilavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "an5.210:3.1",
+          "pli": "Kimilo dhammassavanaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "an5.210:3.2",
+          "pli": "ājānīyo balaṃ khilaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "an5.210:3.3",
+          "pli": "Vinibandhaṃ yāgu kaṭṭhaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "an5.210:3.4",
+          "pli": "gītaṃ muṭṭhassatinā cāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.210/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.210",
+    "volpages": "AN iii 251",
+    "uid": "an5.210",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Muṭṭhassati Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Unmindful",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.210_sujato",
+        "segmented": true,
+        "title": "Unmindful"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 10
+  }
+}

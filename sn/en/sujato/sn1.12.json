@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Delight",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nothing Equals a Child",
+      "uid": "sn1.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Garden of Delight",
+      "uid": "sn1.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.12:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.12:0.2",
+          "pli": "2. Nandanavagga",
+          "en": "2. The Garden of Delight"
+        },
+        {
+          "scid": "sn1.12:0.3",
+          "pli": "12. Nandatisutta",
+          "en": "12. Delight"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.12:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn1.12:1.2",
+          "pli": "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn1.12:2.1",
+          "pli": "“Nandati puttehi puttimā,",
+          "en": "“Your children bring you delight!"
+        },
+        {
+          "scid": "sn1.12:2.2",
+          "pli": "Gomā gohi tatheva nandati;",
+          "en": "Your cattle also bring you delight!"
+        },
+        {
+          "scid": "sn1.12:2.3",
+          "pli": "Upadhīhi narassa nandanā,",
+          "en": "For attachments are a man’s delight;"
+        },
+        {
+          "scid": "sn1.12:2.4",
+          "pli": "Na hi so nandati yo nirūpadhī”ti.",
+          "en": "without attachments there’s no delight.”"
+        },
+        {
+          "scid": "sn1.12:3.1",
+          "pli": "“Socati puttehi puttimā,",
+          "en": "“Your children bring you sorrow."
+        },
+        {
+          "scid": "sn1.12:3.2",
+          "pli": "Gomā gohi tatheva socati;",
+          "en": "Your cattle also bring you sorrow."
+        },
+        {
+          "scid": "sn1.12:3.3",
+          "pli": "Upadhīhi narassa socanā,",
+          "en": "For attachments are a man’s sorrow;"
+        },
+        {
+          "scid": "sn1.12:3.4",
+          "pli": "Na hi so socati yo nirūpadhī”ti.",
+          "en": "without attachments there are no sorrows.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.12//SN 12",
+    "volpages": "SN i 6//SN i 11",
+    "uid": "sn1.12",
+    "blurb": "We think our attachments bring us happiness, but they really bring sorrow.",
+    "difficulty": null,
+    "original_title": "Nandati Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Delight",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.12_sujato",
+        "segmented": true,
+        "title": "Delight"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.12_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Delight"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 2
+  }
+}

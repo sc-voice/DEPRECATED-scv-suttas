@@ -1,0 +1,935 @@
+{
+  "sutta_uid": "an2.32-41",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an2.32-41",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an2.42-51"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an2.21-31"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an2.32-41:0.1",
+          "pli": "Aṅguttara Nikāya 2",
+          "en": "Numbered Discourses 2"
+        },
+        {
+          "scid": "an2.32-41:0.2",
+          "pli": "4. Samacittavagga",
+          "en": "4. Peaceful Mind"
+        },
+        {
+          "scid": "an2.32-41:0.3",
+          "pli": "32",
+          "en": "32"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an2.32-41:32.1.1",
+          "pli": "“Asappurisabhūmiñca vo, bhikkhave, desessāmi sappurisabhūmiñca.",
+          "en": "“Mendicants, I will teach you the level of the bad person and the level of the good person."
+        },
+        {
+          "scid": "an2.32-41:32.1.2",
+          "pli": "Taṃ suṇātha, sādhukaṃ manasi karotha. bhāsissāmī”ti.",
+          "en": "Listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "an2.32-41:32.1.3",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "an2.32-41:32.1.4",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "an2.32-41:32.2.1",
+          "pli": "“Katamā ca, bhikkhave, asappurisabhūmi?",
+          "en": "“What is the level of the bad person?"
+        },
+        {
+          "scid": "an2.32-41:32.2.2",
+          "pli": "Asappuriso, bhikkhave, akataññū hoti akatavedī.",
+          "en": "The bad person is ungrateful and thankless,"
+        },
+        {
+          "scid": "an2.32-41:32.2.3",
+          "pli": "Asabbhi hetaṃ, bhikkhave, upaññātaṃ yadidaṃ akataññutā akataveditā.",
+          "en": "for the wicked only know how to be ungrateful and thankless."
+        },
+        {
+          "scid": "an2.32-41:32.2.4",
+          "pli": "Kevalā esā, bhikkhave, asappurisabhūmi yadidaṃ akataññutā akataveditā. ()",
+          "en": "It is totally the level of a bad person to be ungrateful and thankless."
+        },
+        {
+          "scid": "an2.32-41:32.2.5",
+          "pli": "Sappuriso ca kho, bhikkhave, kataññū hoti katavedī.",
+          "en": "The good person is grateful and thankful,"
+        },
+        {
+          "scid": "an2.32-41:32.2.6",
+          "pli": "Sabbhi hetaṃ, bhikkhave, upaññātaṃ yadidaṃ kataññutā kataveditā.",
+          "en": "for the virtuous only know how to be grateful and thankful."
+        },
+        {
+          "scid": "an2.32-41:32.2.7",
+          "pli": "Kevalā esā, bhikkhave, sappurisabhūmi yadidaṃ kataññutā kataveditā”ti.",
+          "en": "It is totally the level of a good person to be grateful and thankful.”"
+        },
+        {
+          "scid": "an2.32-41:32.2.8",
+          "pli": "33",
+          "en": "33"
+        },
+        {
+          "scid": "an2.32-41:33.1.1",
+          "pli": "“Dvinnāhaṃ, bhikkhave, na suppatikāraṃ vadāmi.",
+          "en": "“Mendicants, I say that these two people cannot easily be repaid."
+        },
+        {
+          "scid": "an2.32-41:33.1.2",
+          "pli": "Katamesaṃ dvinnaṃ?",
+          "en": "What two?"
+        },
+        {
+          "scid": "an2.32-41:33.1.3",
+          "pli": "Mātu ca pitu ca.",
+          "en": "Mother and father."
+        },
+        {
+          "scid": "an2.32-41:33.1.4",
+          "pli": "Ekena, bhikkhave, aṃsena mātaraṃ parihareyya, ekena aṃsena pitaraṃ parihareyya vassasatāyuko vassasatajīvī so ca nesaṃ ucchādanaparimaddananhāpanasambāhanena.",
+          "en": "You would not have done enough to repay your mother and father even if you were to carry your mother around on one shoulder, and your father on the other, and if you lived like this for a hundred years, and if you were to anoint, massage, bathe, and rub them;"
+        },
+        {
+          "scid": "an2.32-41:33.1.5",
+          "pli": "Te ca tattheva muttakarīsaṃ cajeyyuṃ, na tveva, bhikkhave, mātāpitūnaṃ kataṃ vā hoti paṭikataṃ vā.",
+          "en": "and even if they were to defecate and urinate right there."
+        },
+        {
+          "scid": "an2.32-41:33.1.6",
+          "pli": "Imissā ca, bhikkhave, mahāpathaviyā pahūtarattaratanāya mātāpitaro issarādhipacce rajje patiṭṭhāpeyya, na tveva, bhikkhave, mātāpitūnaṃ kataṃ vā hoti paṭikataṃ vā.",
+          "en": "Even if you were to establish your mother and father as supreme monarchs of this great earth, abounding in the seven treasures, you would still not have done enough to repay them."
+        },
+        {
+          "scid": "an2.32-41:33.1.7",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an2.32-41:33.1.8",
+          "pli": "Bahukārā, bhikkhave, mātāpitaro puttānaṃ āpādakā posakā imassa lokassa dassetāro.",
+          "en": "Parents are very helpful to their children, they raise them, nurture them, and show them the world."
+        },
+        {
+          "scid": "an2.32-41:33.1.9",
+          "pli": "Yo ca kho, bhikkhave, mātāpitaro assaddhe saddhāsampadāya samādapeti niveseti patiṭṭhāpeti, dussīle sīlasampadāya samādapeti niveseti patiṭṭhāpeti, maccharī cāgasampadāya samādapeti niveseti patiṭṭhāpeti, duppaññe paññāsampadāya samādapeti niveseti patiṭṭhāpeti, ettāvatā kho, bhikkhave, mātāpitūnaṃ katañca hoti paṭikatañcā”ti.",
+          "en": "But you have done enough, more than enough, to repay them if you encourage, settle, and ground unfaithful parents in faith, unethical parents in ethical conduct, stingy parents in generosity, or ignorant parents in wisdom.”"
+        },
+        {
+          "scid": "an2.32-41:33.1.10",
+          "pli": "34",
+          "en": "34"
+        },
+        {
+          "scid": "an2.32-41:34.1.1",
+          "pli": "Atha kho aññataro brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ … pe … ekamantaṃ nisinno kho so brāhmaṇo bhagavantaṃ etadavoca:",
+          "en": "Then a certain brahmin went up to the Buddha, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to the Buddha:"
+        },
+        {
+          "scid": "an2.32-41:34.1.2",
+          "pli": "“kiṃvādī bhavaṃ gotamo kimakkhāyī”ti?",
+          "en": "“What does Master Gotama teach? What does he explain?”"
+        },
+        {
+          "scid": "an2.32-41:34.1.3",
+          "pli": "“Kiriyavādī cāhaṃ, brāhmaṇa, akiriyavādī cā”ti.",
+          "en": "“Brahmin, I teach action and inaction.”"
+        },
+        {
+          "scid": "an2.32-41:34.1.4",
+          "pli": "“Yathākathaṃ pana bhavaṃ gotamo kiriyavādī ca akiriyavādī cā”ti?",
+          "en": "“But in what way does Master Gotama teach action and inaction?”"
+        },
+        {
+          "scid": "an2.32-41:34.2.1",
+          "pli": "“Akiriyaṃ kho ahaṃ, brāhmaṇa, vadāmi kāyaduccaritassa vacīduccaritassa manoduccaritassa, anekavihitānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ akiriyaṃ vadāmi.",
+          "en": "“I teach inaction regarding bad bodily, verbal, and mental conduct, and the many kinds of unskillful things."
+        },
+        {
+          "scid": "an2.32-41:34.2.2",
+          "pli": "Kiriyañca kho ahaṃ, brāhmaṇa, vadāmi kāyasucaritassa vacīsucaritassa manosucaritassa, anekavihitānaṃ kusalānaṃ dhammānaṃ kiriyaṃ vadāmi.",
+          "en": "I teach action regarding good bodily, verbal, and mental conduct, and the many kinds of skillful things."
+        },
+        {
+          "scid": "an2.32-41:34.2.3",
+          "pli": "Evaṃ kho ahaṃ, brāhmaṇa, kiriyavādī ca akiriyavādī cā”ti.",
+          "en": "This is the kind of action and inaction that I teach.”"
+        },
+        {
+          "scid": "an2.32-41:34.3.1",
+          "pli": "“Abhikkantaṃ, bho gotama … pe … upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "“Excellent, Master Gotama! … From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "an2.32-41:34.3.2",
+          "pli": "35",
+          "en": "35"
+        },
+        {
+          "scid": "an2.32-41:35.1.1",
+          "pli": "Atha kho anāthapiṇḍiko gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho anāthapiṇḍiko gahapati bhagavantaṃ etadavoca:",
+          "en": "Then the householder Anāthapiṇḍika went up to the Buddha, bowed, sat down to one side, and said to the Buddha:"
+        },
+        {
+          "scid": "an2.32-41:35.1.2",
+          "pli": "“kati nu kho, bhante, loke dakkhiṇeyyā, kattha ca dānaṃ dātabban”ti?",
+          "en": "“How many kinds of people in the world are worthy of a teacher’s offering? And where should a gift be given?”"
+        },
+        {
+          "scid": "an2.32-41:35.1.3",
+          "pli": "“Dve kho, gahapati, loke dakkhiṇeyyā—",
+          "en": "“Householder, there are two kinds of people in the world who are worthy of a teacher’s offering:"
+        },
+        {
+          "scid": "an2.32-41:35.1.4",
+          "pli": "sekho ca asekho ca.",
+          "en": "the trainee and the master."
+        },
+        {
+          "scid": "an2.32-41:35.1.5",
+          "pli": "Ime kho, gahapati, dve loke dakkhiṇeyyā, ettha ca dānaṃ dātabban”ti.",
+          "en": "These are two kinds of people in the world who are worthy of a teacher’s offering, and that’s where you should give a gift.”"
+        },
+        {
+          "scid": "an2.32-41:35.2.1",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "an2.32-41:35.2.2",
+          "pli": "Idaṃ vatvāna sugato athāparaṃ etadavoca satthā:",
+          "en": "Then the Holy One, the Teacher, went on to say:"
+        },
+        {
+          "scid": "an2.32-41:35.3.1",
+          "pli": "“Sekho asekho ca imasmiṃ loke,",
+          "en": "“In this world, the trainee and the master,"
+        },
+        {
+          "scid": "an2.32-41:35.3.2",
+          "pli": "Āhuneyyā yajamānānaṃ honti;",
+          "en": "are worthy of the offerings of those who sponsor sacrifices."
+        },
+        {
+          "scid": "an2.32-41:35.3.3",
+          "pli": "Te ujjubhūtā kāyena,",
+          "en": "They are upright in body,"
+        },
+        {
+          "scid": "an2.32-41:35.3.4",
+          "pli": "Vācāya uda cetasā;",
+          "en": "speech, and mind."
+        },
+        {
+          "scid": "an2.32-41:35.3.5",
+          "pli": "Khettaṃ taṃ yajamānānaṃ,",
+          "en": "This is the field for sponsors of sacrifice—"
+        },
+        {
+          "scid": "an2.32-41:35.3.6",
+          "pli": "Ettha dinnaṃ mahapphalan”ti.",
+          "en": "what’s given here is very fruitful.”"
+        },
+        {
+          "scid": "an2.32-41:35.3.7",
+          "pli": "36",
+          "en": "36"
+        },
+        {
+          "scid": "an2.32-41:36.1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "an2.32-41:36.1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "an2.32-41:36.1.3",
+          "pli": "Tena kho pana samayena āyasmā sāriputto sāvatthiyaṃ viharati pubbārāme migāramātupāsāde.",
+          "en": "Now at that time Venerable Sāriputta was staying near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother."
+        },
+        {
+          "scid": "an2.32-41:36.1.4",
+          "pli": "Tatra kho āyasmā sāriputto bhikkhū āmantesi:",
+          "en": "There Sāriputta addressed the mendicants:"
+        },
+        {
+          "scid": "an2.32-41:36.1.5",
+          "pli": "“āvuso bhikkhave”ti.",
+          "en": "“Reverends, mendicants!”"
+        },
+        {
+          "scid": "an2.32-41:36.1.6",
+          "pli": "“Āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ.",
+          "en": "“Reverend,” they replied."
+        },
+        {
+          "scid": "an2.32-41:36.1.7",
+          "pli": "Āyasmā sāriputto etadavoca:",
+          "en": "Sāriputta said this:"
+        },
+        {
+          "scid": "an2.32-41:36.1.8",
+          "pli": "“ajjhattasaṃyojanañca, āvuso, puggalaṃ desessāmi bahiddhāsaṃyojanañca.",
+          "en": "“I will teach you about a person fettered internally and one fettered externally."
+        },
+        {
+          "scid": "an2.32-41:36.1.9",
+          "pli": "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+          "en": "Listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "an2.32-41:36.1.10",
+          "pli": "“Evamāvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ.",
+          "en": "“Yes, reverend,” they replied."
+        },
+        {
+          "scid": "an2.32-41:36.1.11",
+          "pli": "Āyasmā sāriputto etadavoca:",
+          "en": "Sāriputta said this:"
+        },
+        {
+          "scid": "an2.32-41:36.2.1",
+          "pli": "“Katamo cāvuso, ajjhattasaṃyojano puggalo?",
+          "en": "“Who is a person fettered internally?"
+        },
+        {
+          "scid": "an2.32-41:36.2.2",
+          "pli": "Idhāvuso, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.",
+          "en": "It’s a mendicant who is ethical, restrained in the monastic code, and accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+        },
+        {
+          "scid": "an2.32-41:36.2.3",
+          "pli": "So kāyassa bhedā paraṃ maraṇā aññataraṃ devanikāyaṃ upapajjati.",
+          "en": "When their body breaks up, after death, they’re reborn in one of the orders of gods."
+        },
+        {
+          "scid": "an2.32-41:36.2.4",
+          "pli": "So tato cuto āgāmī hoti, āgantā itthattaṃ.",
+          "en": "When they pass away from there, they’re a returner, who comes back to this state of existence."
+        },
+        {
+          "scid": "an2.32-41:36.2.5",
+          "pli": "Ayaṃ vuccati, āvuso, ajjhattasaṃyojano puggalo āgāmī hoti, āgantā itthattaṃ.",
+          "en": "This is called a person who is fettered internally, a returner, who comes back to this state of existence."
+        },
+        {
+          "scid": "an2.32-41:36.3.1",
+          "pli": "Katamo cāvuso, bahiddhāsaṃyojano puggalo?",
+          "en": "Who is a person fettered externally?"
+        },
+        {
+          "scid": "an2.32-41:36.3.2",
+          "pli": "Idhāvuso, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.",
+          "en": "It’s a mendicant who is ethical, restrained in the monastic code, and accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+        },
+        {
+          "scid": "an2.32-41:36.3.3",
+          "pli": "So aññataraṃ santaṃ cetovimuttiṃ upasampajja viharati.",
+          "en": "They enter and remain in a certain peaceful state of freed mind."
+        },
+        {
+          "scid": "an2.32-41:36.3.4",
+          "pli": "So kāyassa bhedā paraṃ maraṇā aññataraṃ devanikāyaṃ upapajjati.",
+          "en": "When their body breaks up, after death, they’re reborn in one of the orders of gods."
+        },
+        {
+          "scid": "an2.32-41:36.3.5",
+          "pli": "So tato cuto anāgāmī hoti, anāgantā itthattaṃ.",
+          "en": "When they pass away from there, they’re a non-returner, not coming back to this state of existence."
+        },
+        {
+          "scid": "an2.32-41:36.3.6",
+          "pli": "Ayaṃ vuccatāvuso, bahiddhāsaṃyojano puggalo anāgāmī hoti, anāgantā itthattaṃ.",
+          "en": "This is called a person who is fettered externally, a non-returner, who does not come back to this state of existence."
+        },
+        {
+          "scid": "an2.32-41:36.4.1",
+          "pli": "Puna caparaṃ, āvuso, bhikkhu sīlavā hoti … pe … samādāya sikkhati sikkhāpadesu.",
+          "en": "Furthermore, a mendicant is ethical … they keep the rules they’ve undertaken."
+        },
+        {
+          "scid": "an2.32-41:36.4.2",
+          "pli": "So kāmānaṃyeva nibbidāya virāgāya nirodhāya paṭipanno hoti.",
+          "en": "They simply practice for the disillusionment, fading away, and cessation of sensual pleasures."
+        },
+        {
+          "scid": "an2.32-41:36.4.3",
+          "pli": "So bhavānaṃyeva nibbidāya virāgāya nirodhāya paṭipanno hoti.",
+          "en": "They simply practice for the disillusionment, fading away, and cessation of rebirth in future states of existence."
+        },
+        {
+          "scid": "an2.32-41:36.4.4",
+          "pli": "So taṇhākkhayāya paṭipanno hoti.",
+          "en": "They practice for the ending of craving."
+        },
+        {
+          "scid": "an2.32-41:36.4.5",
+          "pli": "So lobhakkhayāya paṭipanno hoti.",
+          "en": "They practice for the ending of greed."
+        },
+        {
+          "scid": "an2.32-41:36.4.6",
+          "pli": "So kāyassa bhedā paraṃ maraṇā aññataraṃ devanikāyaṃ upapajjati.",
+          "en": "When their body breaks up, after death, they are reborn in one of the orders of gods."
+        },
+        {
+          "scid": "an2.32-41:36.4.7",
+          "pli": "So tato cuto anāgāmī hoti, anāgantā itthattaṃ.",
+          "en": "When they pass away from there, they are non-returners, not coming back to this state of existence."
+        },
+        {
+          "scid": "an2.32-41:36.4.8",
+          "pli": "Ayaṃ vuccatāvuso, bahiddhāsaṃyojano puggalo anāgāmī hoti, anāgantā itthattan”ti.",
+          "en": "This is called a person who is fettered externally, a non-returner, who does not come back to this state of existence.”"
+        },
+        {
+          "scid": "an2.32-41:36.5.1",
+          "pli": "Atha kho sambahulā samacittā devatā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho tā devatā bhagavantaṃ etadavocuṃ:",
+          "en": "Then several peaceful-minded deities went up to the Buddha, bowed, stood to one side, and said to the Buddha:"
+        },
+        {
+          "scid": "an2.32-41:36.5.2",
+          "pli": "“eso, bhante, āyasmā sāriputto pubbārāme migāramātupāsāde bhikkhūnaṃ ajjhattasaṃyojanañca puggalaṃ deseti bahiddhāsaṃyojanañca.",
+          "en": "“Sir, Venerable Sāriputta is in the Eastern Monastery, the stilt longhouse of Migāra’s mother, where he is teaching the mendicants about a person with internal fetters and one with external fetters."
+        },
+        {
+          "scid": "an2.32-41:36.5.3",
+          "pli": "Haṭṭhā, bhante, parisā.",
+          "en": "The assembly is overjoyed!"
+        },
+        {
+          "scid": "an2.32-41:36.5.4",
+          "pli": "Sādhu, bhante, bhagavā yenāyasmā sāriputto tenupasaṅkamatu anukampaṃ upādāyā”ti.",
+          "en": "Sir, please go to Venerable Sāriputta out of compassion.”"
+        },
+        {
+          "scid": "an2.32-41:36.5.5",
+          "pli": "Adhivāsesi bhagavā tuṇhībhāvena.",
+          "en": "The Buddha consented in silence."
+        },
+        {
+          "scid": "an2.32-41:36.5.6",
+          "pli": "Atha kho bhagavā—seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya; evamevaṃ—jetavane antarahito pubbārāme migāramātupāsāde āyasmato sāriputtassa sammukhe pāturahosi.",
+          "en": "Then the Buddha, as easily as a strong person would extend or contract their arm, vanished from Jeta’s Grove and reappeared in the Eastern Monastery, the stilt longhouse of Migāra’s mother, in front of Sāriputta."
+        },
+        {
+          "scid": "an2.32-41:36.5.7",
+          "pli": "Nisīdi bhagavā paññatte āsane.",
+          "en": "He sat on the seat spread out."
+        },
+        {
+          "scid": "an2.32-41:36.5.8",
+          "pli": "Āyasmāpi kho sāriputto bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.",
+          "en": "Sāriputta bowed to the Buddha and sat down to one side."
+        },
+        {
+          "scid": "an2.32-41:36.5.9",
+          "pli": "Ekamantaṃ nisinnaṃ kho āyasmantaṃ sāriputtaṃ bhagavā etadavoca:",
+          "en": "The Buddha said to him:"
+        },
+        {
+          "scid": "an2.32-41:36.6.1",
+          "pli": "“Idha, sāriputta, sambahulā samacittā devatā yenāhaṃ tenupasaṅkamiṃsu; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho, sāriputta, tā devatā maṃ etadavocuṃ:",
+          "en": "“Just now, Sāriputta, several peaceful-minded deities came up to me, bowed, and stood to one side. Those deities said to me:"
+        },
+        {
+          "scid": "an2.32-41:36.6.2",
+          "pli": "‘eso, bhante, āyasmā sāriputto pubbārāme migāramātupāsāde bhikkhūnaṃ ajjhattasaṃyojanañca puggalaṃ deseti bahiddhāsaṃyojanañca.",
+          "en": "‘Sir, Venerable Sāriputta is in the Eastern Monastery, the stilt longhouse of Migāra’s mother, where he is teaching the mendicants about a person with internal fetters and one with external fetters."
+        },
+        {
+          "scid": "an2.32-41:36.6.3",
+          "pli": "Haṭṭhā, bhante, parisā.",
+          "en": "The assembly is overjoyed!"
+        },
+        {
+          "scid": "an2.32-41:36.6.4",
+          "pli": "Sādhu, bhante, bhagavā yena āyasmā sāriputto tenupasaṅkamatu anukampaṃ upādāyā’ti.",
+          "en": "Sir, please go to Venerable Sāriputta out of compassion.’"
+        },
+        {
+          "scid": "an2.32-41:36.6.5",
+          "pli": "Tā kho pana, sāriputta, devatā dasapi hutvā vīsampi hutvā tiṃsampi hutvā cattālīsampi hutvā paññāsampi hutvā saṭṭhipi hutvā āraggakoṭinitudanamattepi tiṭṭhanti, na ca aññamaññaṃ byābādhenti.",
+          "en": "Those deities, though they number ten, twenty, thirty, forty, fifty, or sixty, can stand on the point of a needle without bumping up against each other."
+        },
+        {
+          "scid": "an2.32-41:36.6.6",
+          "pli": "Siyā kho pana, sāriputta, evamassa:",
+          "en": "Sāriputta, you might think:"
+        },
+        {
+          "scid": "an2.32-41:36.6.7",
+          "pli": "‘tattha nūna tāsaṃ devatānaṃ tathā cittaṃ bhāvitaṃ yena tā devatā dasapi hutvā vīsampi hutvā tiṃsampi hutvā cattālīsampi hutvā paññāsampi hutvā saṭṭhipi hutvā āraggakoṭinitudanamattepi tiṭṭhanti na ca aññamaññaṃ byābādhentī’ti.",
+          "en": "‘Surely those deities, since so many of them can stand on the point of a needle without bumping up against each other, must have developed their minds in that place.’"
+        },
+        {
+          "scid": "an2.32-41:36.6.8",
+          "pli": "Na kho panetaṃ, sāriputta, evaṃ daṭṭhabbaṃ.",
+          "en": "But you should not see it like this."
+        },
+        {
+          "scid": "an2.32-41:36.6.9",
+          "pli": "Idheva kho, sāriputta, tāsaṃ devatānaṃ tathā cittaṃ bhāvitaṃ, yena tā devatā dasapi hutvā … pe … na ca aññamaññaṃ byābādhenti.",
+          "en": "It was right here that those deities developed their minds."
+        },
+        {
+          "scid": "an2.32-41:36.6.10",
+          "pli": "Tasmātiha, sāriputta, evaṃ sikkhitabbaṃ:",
+          "en": "So you should train like this:"
+        },
+        {
+          "scid": "an2.32-41:36.6.11",
+          "pli": "‘santindriyā bhavissāma santamānasā’ti.",
+          "en": "‘We shall have peaceful faculties and peaceful minds.’"
+        },
+        {
+          "scid": "an2.32-41:36.6.12",
+          "pli": "Evañhi vo, sāriputta, sikkhitabbaṃ.",
+          "en": "That’s how you should train."
+        },
+        {
+          "scid": "an2.32-41:36.6.13",
+          "pli": "‘Santindriyānañhi vo, sāriputta, santamānasānaṃ santaṃyeva kāyakammaṃ bhavissati santaṃ vacīkammaṃ santaṃ manokammaṃ.",
+          "en": "When your faculties and mind are peaceful, your acts of body, speech, and mind will be peaceful, thinking:"
+        },
+        {
+          "scid": "an2.32-41:36.6.14",
+          "pli": "Santaṃyeva upahāraṃ upaharissāma sabrahmacārīsū’ti.",
+          "en": "‘We shall present the gift of peace to our spiritual companions.’"
+        },
+        {
+          "scid": "an2.32-41:36.6.15",
+          "pli": "‘Evañhi vo, sāriputta, sikkhitabbaṃ.",
+          "en": "That’s how you should train."
+        },
+        {
+          "scid": "an2.32-41:36.6.16",
+          "pli": "Anassuṃ kho, sāriputta, aññatitthiyā paribbājakā ye imaṃ dhammapariyāyaṃ nāssosun’”ti.",
+          "en": "Those wanderers who follow other paths, Sāriputta, who have not heard this exposition of the teaching are lost.”"
+        },
+        {
+          "scid": "an2.32-41:36.6.17",
+          "pli": "37",
+          "en": "37"
+        },
+        {
+          "scid": "an2.32-41:37.1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "an2.32-41:37.1.2",
+          "pli": "ekaṃ samayaṃ āyasmā mahākaccāno varaṇāyaṃ viharati bhaddasāritīre.",
+          "en": "At one time Venerable Mahākaccāna was staying at Varaṇā, on the bank of the Kaddama Lake."
+        },
+        {
+          "scid": "an2.32-41:37.1.3",
+          "pli": "Atha kho ārāmadaṇḍo brāhmaṇo yenāyasmā mahākaccāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahākaccānena saddhiṃ sammodi.",
+          "en": "Then the brahmin Ārāmadaṇḍa went up to Mahākaccāna, and exchanged greetings with him."
+        },
+        {
+          "scid": "an2.32-41:37.1.4",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho ārāmadaṇḍo brāhmaṇo āyasmantaṃ mahākaccānaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side and said to Mahākaccāna:"
+        },
+        {
+          "scid": "an2.32-41:37.1.5",
+          "pli": "“ko nu kho, bho kaccāna, hetu ko paccayo yena khattiyāpi khattiyehi vivadanti, brāhmaṇāpi brāhmaṇehi vivadanti, gahapatikāpi gahapatikehi vivadantī”ti?",
+          "en": "“What is the cause, Master Kaccāna, what is the reason why aristocrats fight with aristocrats, brahmins fight with brahmins, and householders fight with householders?”"
+        },
+        {
+          "scid": "an2.32-41:37.1.6",
+          "pli": "“Kāmarāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānahetu kho, brāhmaṇa, khattiyāpi khattiyehi vivadanti, brāhmaṇāpi brāhmaṇehi vivadanti, gahapatikāpi gahapatikehi vivadantī”ti.",
+          "en": "“It is because of their insistence on sensual desire, their attachment, greed, and obsession, that aristocrats fight with aristocrats, brahmins fight with brahmins, and householders fight with householders.”"
+        },
+        {
+          "scid": "an2.32-41:37.2.1",
+          "pli": "“Ko pana, bho kaccāna, hetu ko paccayo yena samaṇāpi samaṇehi vivadantī”ti?",
+          "en": "“What is the cause, Master Kaccāna, what is the reason why ascetics fight with ascetics?”"
+        },
+        {
+          "scid": "an2.32-41:37.2.2",
+          "pli": "“Diṭṭhirāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānahetu kho, brāhmaṇa, samaṇāpi samaṇehi vivadantī”ti.",
+          "en": "“It is because of their insistence on views, their attachment, greed, and obsession, that ascetics fight with ascetics.”"
+        },
+        {
+          "scid": "an2.32-41:37.3.1",
+          "pli": "“Atthi pana, bho kaccāna, koci lokasmiṃ yo imañceva kāmarāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto, imañca diṭṭhirāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto”ti?",
+          "en": "“Master Kaccāna, is there anyone in the world who has gone beyond the insistence on sensual desire and the insistence on views?”"
+        },
+        {
+          "scid": "an2.32-41:37.3.2",
+          "pli": "“Atthi, brāhmaṇa, lokasmiṃ yo imañceva kāmarāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto, imañca diṭṭhirāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto”ti.",
+          "en": "“There is, brahmin.”"
+        },
+        {
+          "scid": "an2.32-41:37.4.1",
+          "pli": "“Ko pana so, bho kaccāna, lokasmiṃ yo imañceva kāmarāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto, imañca diṭṭhirāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto”ti?",
+          "en": "“Who in the world has gone beyond the insistence on sensual desire and the insistence on views?”"
+        },
+        {
+          "scid": "an2.32-41:37.4.2",
+          "pli": "“Atthi, brāhmaṇa, puratthimesu janapadesu sāvatthī nāma nagaraṃ.",
+          "en": "“In the eastern lands there is a city called Sāvatthī."
+        },
+        {
+          "scid": "an2.32-41:37.4.3",
+          "pli": "Tattha so bhagavā etarahi viharati arahaṃ sammāsambuddho.",
+          "en": "There the Blessed One is now staying, the perfected one, the fully awakened Buddha."
+        },
+        {
+          "scid": "an2.32-41:37.4.4",
+          "pli": "So hi, brāhmaṇa, bhagavā imañceva kāmarāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto, imañca diṭṭhirāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto”ti.",
+          "en": "He, brahmin, has gone beyond the insistence on sensual desire and the insistence on views.”"
+        },
+        {
+          "scid": "an2.32-41:37.5.1",
+          "pli": "Evaṃ vutte, ārāmadaṇḍo brāhmaṇo uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā dakkhiṇaṃ jāṇumaṇḍalaṃ pathaviyaṃ nihantvā yena bhagavā tenañjaliṃ paṇāmetvā tikkhattuṃ udānaṃ udānesi:",
+          "en": "When this was said, the brahmin Ārāmadaṇḍa got up from his seat, arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and spoke these words of inspiration three times:"
+        },
+        {
+          "scid": "an2.32-41:37.6.1",
+          "pli": "“Namo tassa bhagavato arahato sammāsambuddhassa.",
+          "en": "“Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
+        },
+        {
+          "scid": "an2.32-41:37.7.1",
+          "pli": "Namo tassa bhagavato arahato sammāsambuddhassa.",
+          "en": "Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
+        },
+        {
+          "scid": "an2.32-41:37.8.1",
+          "pli": "Namo tassa bhagavato arahato sammāsambuddhassa.",
+          "en": "Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
+        },
+        {
+          "scid": "an2.32-41:37.9.1",
+          "pli": "Yo hi so bhagavā imañceva kāmarāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto, imañca diṭṭhirāgābhinivesavinibandhapaligedhapariyuṭṭhānajjhosānaṃ samatikkanto”ti.",
+          "en": "He who has gone beyond the insistence on sensual desire and the insistence on views."
+        },
+        {
+          "scid": "an2.32-41:37.10.1",
+          "pli": "“Abhikkantaṃ, bho kaccāna, abhikkantaṃ, bho kaccāna.",
+          "en": "Excellent, Master Kaccāna! Excellent!"
+        },
+        {
+          "scid": "an2.32-41:37.10.2",
+          "pli": "Seyyathāpi, bho kaccāna, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya; andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhotā kaccānena anekapariyāyena dhammo pakāsito.",
+          "en": "As if he was righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Kaccāna has made the teaching clear in many ways."
+        },
+        {
+          "scid": "an2.32-41:37.10.3",
+          "pli": "Esāhaṃ, bho kaccāna, taṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca.",
+          "en": "I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha."
+        },
+        {
+          "scid": "an2.32-41:37.10.4",
+          "pli": "Upāsakaṃ maṃ bhavaṃ kaccāno dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "From this day forth, may Master Kaccāna remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "an2.32-41:37.10.5",
+          "pli": "38",
+          "en": "38"
+        },
+        {
+          "scid": "an2.32-41:38.1.1",
+          "pli": "Ekaṃ samayaṃ āyasmā mahākaccāno madhurāyaṃ viharati gundāvane.",
+          "en": "At one time Venerable Mahākaccāna was staying near Madhurā, in Gunda’s Grove."
+        },
+        {
+          "scid": "an2.32-41:38.1.2",
+          "pli": "Atha kho kandarāyano brāhmaṇo yenāyasmā mahākaccāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahākaccānena saddhiṃ … pe … ekamantaṃ nisinno kho kandarāyano brāhmaṇo āyasmantaṃ mahākaccānaṃ etadavoca:",
+          "en": "Then the brahmin Kandarāyana went up to Mahākaccāna, and exchanged greetings with him … He sat down to one side and said to Mahākaccāna:"
+        },
+        {
+          "scid": "an2.32-41:38.1.3",
+          "pli": "“sutaṃ metaṃ, bho kaccāna, ‘na samaṇo kaccāno brāhmaṇe jiṇṇe vuddhe mahallake addhagate vayoanuppatte abhivādeti vā paccuṭṭheti vā āsanena vā nimantetī’ti.",
+          "en": "“I have heard, Master Kaccāna, that the ascetic Kaccāna doesn’t bow to old brahmins, the elderly and senior, who are advanced in years and have reached the final stage of life; nor does he rise in their presence or offer them a seat."
+        },
+        {
+          "scid": "an2.32-41:38.1.4",
+          "pli": "Tayidaṃ, bho kaccāna, tatheva?",
+          "en": "And this is indeed the case,"
+        },
+        {
+          "scid": "an2.32-41:38.1.5",
+          "pli": "Na hi bhavaṃ kaccāno brāhmaṇe jiṇṇe vuddhe mahallake addhagate vayoanuppatte abhivādeti vā paccuṭṭheti vā āsanena vā nimanteti.",
+          "en": "for the ascetic Kaccāna does not bow to old brahmins, elderly and senior, who are advanced in years and have reached the final stage of life; nor does he rise in their presence or offer them a seat."
+        },
+        {
+          "scid": "an2.32-41:38.1.6",
+          "pli": "Tayidaṃ, bho kaccāna, na sampannamevā”ti.",
+          "en": "This is not appropriate, Master Kaccāna.”"
+        },
+        {
+          "scid": "an2.32-41:38.2.1",
+          "pli": "“Atthi, brāhmaṇa, tena bhagavatā jānatā passatā arahatā sammāsambuddhena vuddhabhūmi ca akkhātā daharabhūmi ca.",
+          "en": "“There is the stage of an elder and the stage of youth as explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha."
+        },
+        {
+          "scid": "an2.32-41:38.2.2",
+          "pli": "Vuddho cepi, brāhmaṇa, hoti āsītiko vā nāvutiko vā vassasatiko vā jātiyā, so ca kāme paribhuñjati kāmamajjhāvasati kāmapariḷāhena pariḍayhati kāmavitakkehi khajjati kāmapariyesanāya ussuko.",
+          "en": "If an elder, though eighty, ninety, or a hundred years old, still dwells in the midst of sensual pleasures, enjoying them, consumed by thoughts of them, burning with fever for them, and eagerly seeking more,"
+        },
+        {
+          "scid": "an2.32-41:38.2.3",
+          "pli": "Atha kho so bālo na therotveva saṅkhyaṃ gacchati.",
+          "en": "they are reckoned as a child, not a senior."
+        },
+        {
+          "scid": "an2.32-41:38.2.4",
+          "pli": "Daharo cepi, brāhmaṇa, hoti yuvā susukāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā.",
+          "en": "If a youth, young, black-haired, blessed with youth, in the prime of life,"
+        },
+        {
+          "scid": "an2.32-41:38.2.5",
+          "pli": "So ca na kāme paribhuñjati na kāmamajjhāvasati, na kāmapariḷāhena pariḍayhati, na kāmavitakkehi khajjati, na kāmapariyesanāya ussuko.",
+          "en": "does not dwell in the midst of sensual pleasures, enjoying them, consumed by thoughts of them, burning with fever for them, and eagerly seeking more,"
+        },
+        {
+          "scid": "an2.32-41:38.2.6",
+          "pli": "Atha kho so paṇḍito therotveva saṅkhyaṃ gacchatī”ti.",
+          "en": "they are reckoned as astute, a senior.”"
+        },
+        {
+          "scid": "an2.32-41:38.3.1",
+          "pli": "Evaṃ vutte, kandarāyano brāhmaṇo uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā daharānaṃ sataṃ bhikkhūnaṃ pāde sirasā vandati:",
+          "en": "When this was said, the brahmin Kandarāyana got up from his seat, placed his robe over one shoulder, and bowed with his head at the feet of the young mendicants, saying:"
+        },
+        {
+          "scid": "an2.32-41:38.3.2",
+          "pli": "“vuddhā bhavanto, vuddhabhūmiyaṃ ṭhitā.",
+          "en": "“The masters are elders, at the stage of the elder;"
+        },
+        {
+          "scid": "an2.32-41:38.3.3",
+          "pli": "Daharā mayaṃ, daharabhūmiyaṃ ṭhitā”ti.",
+          "en": "we are youths, at the stage of youth."
+        },
+        {
+          "scid": "an2.32-41:38.4.1",
+          "pli": "“Abhikkantaṃ, bho kaccāna … pe … upāsakaṃ maṃ bhavaṃ kaccāno dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "Excellent, Master Kaccāna! … From this day forth, may Master Kaccāna remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "an2.32-41:38.4.2",
+          "pli": "39",
+          "en": "39"
+        },
+        {
+          "scid": "an2.32-41:39.1.1",
+          "pli": "“Yasmiṃ, bhikkhave, samaye corā balavanto honti, rājāno tasmiṃ samaye dubbalā honti.",
+          "en": "“At a time when bandits are strong, kings are weak."
+        },
+        {
+          "scid": "an2.32-41:39.1.2",
+          "pli": "Tasmiṃ, bhikkhave, samaye rañño na phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ.",
+          "en": "Then the king is not at ease when going out or coming back or when touring the provinces."
+        },
+        {
+          "scid": "an2.32-41:39.1.3",
+          "pli": "Brāhmaṇagahapatikānampi tasmiṃ samaye na phāsu hoti atiyātuṃ vā niyyātuṃ vā bāhirāni vā kammantāni paṭivekkhituṃ.",
+          "en": "The brahmins and householders, likewise, are not at ease when going out or coming back, or when inspecting their business activities."
+        },
+        {
+          "scid": "an2.32-41:39.1.4",
+          "pli": "Evamevaṃ kho, bhikkhave, yasmiṃ samaye pāpabhikkhū balavanto honti, pesalā bhikkhū tasmiṃ samaye dubbalā honti.",
+          "en": "In the same way, at a time when bad mendicants are strong, good-hearted mendicants are weak."
+        },
+        {
+          "scid": "an2.32-41:39.1.5",
+          "pli": "Tasmiṃ, bhikkhave, samaye pesalā bhikkhū tuṇhībhūtā tuṇhībhūtāva saṃghamajjhe saṅkasāyanti paccantime vā janapade acchanti.",
+          "en": "Then the good-hearted mendicants continually adhere to silence in the midst of the Saṅgha, or they stay in the borderlands."
+        },
+        {
+          "scid": "an2.32-41:39.1.6",
+          "pli": "Tayidaṃ, bhikkhave, hoti bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+          "en": "This is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans."
+        },
+        {
+          "scid": "an2.32-41:39.2.1",
+          "pli": "Yasmiṃ, bhikkhave, samaye rājāno balavanto honti, corā tasmiṃ samaye dubbalā honti.",
+          "en": "At a time when kings are strong, bandits are weak."
+        },
+        {
+          "scid": "an2.32-41:39.2.2",
+          "pli": "Tasmiṃ, bhikkhave, samaye rañño phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ.",
+          "en": "Then the king is at ease when going out or coming back or when inspecting the provinces."
+        },
+        {
+          "scid": "an2.32-41:39.2.3",
+          "pli": "Brāhmaṇagahapatikānampi tasmiṃ samaye phāsu hoti atiyātuṃ vā niyyātuṃ vā bāhirāni vā kammantāni paṭivekkhituṃ.",
+          "en": "The brahmins and householders, likewise, are at ease when going out or coming back, or when inspecting their business activities."
+        },
+        {
+          "scid": "an2.32-41:39.2.4",
+          "pli": "Evamevaṃ kho, bhikkhave, yasmiṃ samaye pesalā bhikkhū balavanto honti, pāpabhikkhū tasmiṃ samaye dubbalā honti.",
+          "en": "In the same way, at a time when good-hearted mendicants are strong, bad mendicants are weak."
+        },
+        {
+          "scid": "an2.32-41:39.2.5",
+          "pli": "Tasmiṃ, bhikkhave, samaye pāpabhikkhū tuṇhībhūtā tuṇhībhūtāva saṃghamajjhe saṅkasāyanti, yena vā pana tena pakkamanti.",
+          "en": "Then the bad mendicants continually adhere to silence in the midst of the Saṅgha, or they leave for some place or other."
+        },
+        {
+          "scid": "an2.32-41:39.2.6",
+          "pli": "Tayidaṃ, bhikkhave, hoti bahujanahitāya bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānan”ti.",
+          "en": "This is for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”"
+        },
+        {
+          "scid": "an2.32-41:39.2.7",
+          "pli": "40",
+          "en": "40"
+        },
+        {
+          "scid": "an2.32-41:40.1.1",
+          "pli": "“Dvinnāhaṃ, bhikkhave, micchāpaṭipattiṃ na vaṇṇemi, gihissa vā pabbajitassa vā.",
+          "en": "“Mendicants, I don’t praise wrong practice for these two, for laypeople and renunciates."
+        },
+        {
+          "scid": "an2.32-41:40.1.2",
+          "pli": "Gihī vā, bhikkhave, pabbajito vā micchāpaṭipanno micchāpaṭipattādhikaraṇahetu na ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "Because of wrong practice, neither laypeople nor renunciates succeed in completing the procedure of the skillful teaching."
+        },
+        {
+          "scid": "an2.32-41:40.2.1",
+          "pli": "Dvinnāhaṃ, bhikkhave, sammāpaṭipattiṃ vaṇṇemi, gihissa vā pabbajitassa vā.",
+          "en": "I praise right practice for these two, for laypeople and renunciates."
+        },
+        {
+          "scid": "an2.32-41:40.2.2",
+          "pli": "Gihī vā, bhikkhave, pabbajito vā sammāpaṭipanno sammāpaṭipattādhikaraṇahetu ārādhako hoti ñāyaṃ dhammaṃ kusalan”ti.",
+          "en": "Because of right practice, both laypeople and renunciates succeed in completing the procedure of the skillful teaching.”"
+        },
+        {
+          "scid": "an2.32-41:40.2.3",
+          "pli": "41",
+          "en": "41"
+        },
+        {
+          "scid": "an2.32-41:41.1.1",
+          "pli": "“Ye te, bhikkhave, bhikkhū duggahitehi suttantehi byañjanappatirūpakehi atthañca dhammañca paṭibāhanti te, bhikkhave, bhikkhū bahujanāhitāya paṭipannā bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+          "en": "“Mendicants, by memorizing the discourses incorrectly, taking only a semblance of the phrasing, some mendicants shut out the meaning and the teaching. They act for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans."
+        },
+        {
+          "scid": "an2.32-41:41.1.2",
+          "pli": "Bahuñca te, bhikkhave, bhikkhū apuññaṃ pasavanti, te cimaṃ saddhammaṃ antaradhāpenti.",
+          "en": "They make much bad karma and make the true teaching disappear."
+        },
+        {
+          "scid": "an2.32-41:41.2.1",
+          "pli": "Ye te, bhikkhave, bhikkhū suggahitehi suttantehi byañjanappatirūpakehi atthañca dhammañca anulomenti te, bhikkhave, bhikkhū bahujanahitāya paṭipannā bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ.",
+          "en": "But by memorizing the discourses well, not taking only a semblance of the phrasing, some mendicants reinforce the meaning and the teaching. They act for the welfare and happiness of the people, for the benefit, welfare, and happiness of the people, of gods and humans."
+        },
+        {
+          "scid": "an2.32-41:41.2.2",
+          "pli": "Bahuñca te, bhikkhave, bhikkhū puññaṃ pasavanti, te cimaṃ saddhammaṃ ṭhapentī”ti.",
+          "en": "They make much merit and make the true teaching continue.”"
+        },
+        {
+          "scid": "an2.32-41:41.2.3",
+          "pli": "Samacittavaggo catuttho.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an2.32-41/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "an2.32-41",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Samacitta Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an2.32-41_sujato",
+        "segmented": true,
+        "title": ""
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an2.32-41_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Gratitude"
+      }
+    ],
+    "parallel_count": 23,
+    "biblio": null,
+    "num": 1
+  }
+}

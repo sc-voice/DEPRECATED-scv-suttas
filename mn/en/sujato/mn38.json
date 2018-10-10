@@ -1,0 +1,2330 @@
+{
+  "sutta_uid": "mn38",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn38",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Longer Discourse on the Ending of Craving",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Longer Discourse at Assapura",
+      "uid": "mn39"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Shorter Discourse on the Ending of Craving",
+      "uid": "mn37"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn38:0.1",
+          "pli": "Majjhima Nikāya 38",
+          "en": "Middle Discourses 38"
+        },
+        {
+          "scid": "mn38:0.2",
+          "pli": "Mahātaṇhāsaṅkhayasutta",
+          "en": "The Longer Discourse on the Ending of Craving"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 38…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn38:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn38:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn38:2.1",
+          "pli": "Tena kho pana samayena sātissa nāma bhikkhuno kevaṭṭaputtassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ hoti:",
+          "en": "Now at that time a mendicant called Sāti, the fisherman’s son, had the following harmful misconception:"
+        },
+        {
+          "scid": "mn38:2.2",
+          "pli": "“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati anaññan”ti.",
+          "en": "“As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another.”"
+        },
+        {
+          "scid": "mn38:3.1",
+          "pli": "Assosuṃ kho sambahulā bhikkhū:",
+          "en": "Several mendicants heard about this."
+        },
+        {
+          "scid": "mn38:3.2",
+          "pli": "“sātissa kira nāma bhikkhuno kevaṭṭaputtassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn38:3.3",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:3.4",
+          "pli": "Atha kho te bhikkhū yena sāti bhikkhu kevaṭṭaputto tenupasaṅkamiṃsu; upasaṅkamitvā sātiṃ bhikkhuṃ kevaṭṭaputtaṃ etadavocuṃ:",
+          "en": "They went up to Sāti and said to him:"
+        },
+        {
+          "scid": "mn38:3.5",
+          "pli": "“saccaṃ kira te, āvuso sāti, evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": "“Is it really true, Reverend Sāti, that you have such a harmful misconception:"
+        },
+        {
+          "scid": "mn38:3.6",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan’”ti?",
+          "en": "‘As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another’?”"
+        },
+        {
+          "scid": "mn38:3.7",
+          "pli": "“Evaṃ byā kho ahaṃ, āvuso, bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan”ti.",
+          "en": "“Absolutely, reverends. As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another.”"
+        },
+        {
+          "scid": "mn38:3.8",
+          "pli": "Atha kho te bhikkhū sātiṃ bhikkhuṃ kevaṭṭaputtaṃ etasmā pāpakā diṭṭhigatā vivecetukāmā samanuyuñjanti samanugāhanti samanubhāsanti:",
+          "en": "Then, wishing to dissuade Sāti from his view, the mendicants engaged, pressed, and kept talking with him:"
+        },
+        {
+          "scid": "mn38:3.9",
+          "pli": "“mā evaṃ, āvuso sāti, avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya.",
+          "en": "“Don’t say that, Sāti! Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that."
+        },
+        {
+          "scid": "mn38:3.10",
+          "pli": "Anekapariyāyenāvuso sāti, paṭiccasamuppannaṃ viññāṇaṃ vuttaṃ bhagavatā, aññatra paccayā natthi viññāṇassa sambhavo”ti.",
+          "en": "In many ways the Buddha has said that consciousness is dependently originated, since consciousness does not arise without a cause.”"
+        },
+        {
+          "scid": "mn38:3.11",
+          "pli": "Evampi kho sāti bhikkhu kevaṭṭaputto tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno tadeva pāpakaṃ diṭṭhigataṃ thāmasā parāmāsā abhinivissa voharati:",
+          "en": "But even though the mendicants pressed him in this way, Sāti obstinately held on to his misconception and insisted on stating it."
+        },
+        {
+          "scid": "mn38:3.12",
+          "pli": "“evaṃ byā kho ahaṃ, āvuso, bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati anaññan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.1",
+          "pli": "Yato kho te bhikkhū nāsakkhiṃsu sātiṃ bhikkhuṃ kevaṭṭaputtaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ, atha kho te bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
+          "en": "When they weren’t able to dissuade Sāti from his view, the mendicants went to the Buddha, bowed, sat down to one side, and told him what had happened."
+        },
+        {
+          "scid": "mn38:4.2",
+          "pli": "“sātissa nāma, bhante, bhikkhuno kevaṭṭaputtassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.3",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.4",
+          "pli": "Assumha kho mayaṃ, bhante, sātissa kira nāma bhikkhuno kevaṭṭaputtassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.5",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.6",
+          "pli": "Atha kho mayaṃ, bhante, yena sāti bhikkhu kevaṭṭaputto tenupasaṅkamimha; upasaṅkamitvā sātiṃ bhikkhuṃ kevaṭṭaputtaṃ etadavocumha:",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.7",
+          "pli": "‘saccaṃ kira te, āvuso sāti, evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.8",
+          "pli": "“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan”’ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.9",
+          "pli": "Evaṃ vutte, bhante, sāti bhikkhu kevaṭṭaputto amhe etadavoca:",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.10",
+          "pli": "‘evaṃ byā kho ahaṃ, āvuso, bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.11",
+          "pli": "Atha kho mayaṃ, bhante, sātiṃ bhikkhuṃ kevaṭṭaputtaṃ etasmā pāpakā diṭṭhigatā vivecetukāmā samanuyuñjimha samanugāhimha samanubhāsimha:",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.12",
+          "pli": "‘mā evaṃ, āvuso sāti, avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.13",
+          "pli": "Anekapariyāyenāvuso sāti, paṭiccasamuppannaṃ viññāṇaṃ vuttaṃ bhagavatā, aññatra paccayā natthi viññāṇassa sambhavo’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.14",
+          "pli": "Evampi kho, bhante, sāti bhikkhu kevaṭṭaputto amhehi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno tadeva pāpakaṃ diṭṭhigataṃ thāmasā parāmasā abhinivissa voharati:",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.15",
+          "pli": "‘evaṃ byā kho ahaṃ, āvuso, bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:4.16",
+          "pli": "Yato kho mayaṃ, bhante, nāsakkhimha sātiṃ bhikkhuṃ kevaṭṭaputtaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ, atha mayaṃ etamatthaṃ bhagavato ārocemā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:5.1",
+          "pli": "Atha kho bhagavā aññataraṃ bhikkhuṃ āmantesi:",
+          "en": "So the Buddha said to a certain monk:"
+        },
+        {
+          "scid": "mn38:5.2",
+          "pli": "“ehi tvaṃ bhikkhu, mama vacanena sātiṃ bhikkhuṃ kevaṭṭaputtaṃ āmantehi:",
+          "en": "“Please, monk, in my name tell the mendicant Sāti that"
+        },
+        {
+          "scid": "mn38:5.3",
+          "pli": "‘satthā taṃ, āvuso sāti, āmantetī’”ti.",
+          "en": "the teacher summons him.”"
+        },
+        {
+          "scid": "mn38:5.4",
+          "pli": "“Evaṃ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yena sāti bhikkhu kevaṭṭaputto tenupasaṅkami; upasaṅkamitvā sātiṃ bhikkhuṃ kevaṭṭaputtaṃ etadavoca:",
+          "en": "“Yes, sir,” that monk replied. He went to Sāti and said to him:"
+        },
+        {
+          "scid": "mn38:5.5",
+          "pli": "“satthā taṃ, āvuso sāti, āmantetī”ti.",
+          "en": "“Reverend Sāti, the teacher summons you.”"
+        },
+        {
+          "scid": "mn38:5.6",
+          "pli": "“Evamāvuso”ti kho sāti bhikkhu kevaṭṭaputto tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho sātiṃ bhikkhuṃ kevaṭṭaputtaṃ bhagavā etadavoca:",
+          "en": "“Yes, reverend,” Sāti replied. He went to the Buddha, bowed, and sat down to one side. The Buddha said to him:"
+        },
+        {
+          "scid": "mn38:5.7",
+          "pli": "“saccaṃ kira te, sāti, evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": "“Is it really true, Sāti, that you have such a harmful misconception:"
+        },
+        {
+          "scid": "mn38:5.8",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan’”ti?",
+          "en": "‘As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another’?”"
+        },
+        {
+          "scid": "mn38:5.9",
+          "pli": "“Evaṃ byā kho ahaṃ, bhante, bhagavatā dhammaṃ desitaṃ ājānāmi yathā tadevidaṃ viññāṇaṃ sandhāvati saṃsarati, anaññan”ti.",
+          "en": "“Absolutely, sir. As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another.”"
+        },
+        {
+          "scid": "mn38:5.10",
+          "pli": "“Katamaṃ taṃ, sāti, viññāṇan”ti?",
+          "en": "“Sāti, what is that consciousness?”"
+        },
+        {
+          "scid": "mn38:5.11",
+          "pli": "“Yvāyaṃ, bhante, vado vedeyyo tatra tatra kalyāṇapāpakānaṃ kammānaṃ vipākaṃ paṭisaṃvedetī”ti.",
+          "en": "“Sir, it is he who speaks and feels and experiences the results of good and bad deeds in all the different realms.”"
+        },
+        {
+          "scid": "mn38:5.12",
+          "pli": "“Kassa nu kho nāma tvaṃ, moghapurisa, mayā evaṃ dhammaṃ desitaṃ ājānāsi?",
+          "en": "“Foolish man, who on earth have you ever known me to teach in that way?"
+        },
+        {
+          "scid": "mn38:5.13",
+          "pli": "Nanu mayā, moghapurisa, anekapariyāyena paṭiccasamuppannaṃ viññāṇaṃ vuttaṃ, aññatra paccayā natthi viññāṇassa sambhavoti?",
+          "en": "Haven’t I said in many ways that consciousness is dependently originated, since consciousness does not arise without a cause?"
+        },
+        {
+          "scid": "mn38:5.14",
+          "pli": "Atha ca pana tvaṃ, moghapurisa, attanā duggahitena amhe ceva abbhācikkhasi, attānañca khaṇasi, bahuñca apuññaṃ pasavasi.",
+          "en": "But still you misrepresent me by your wrong grasp, harm yourself, and make much bad karma."
+        },
+        {
+          "scid": "mn38:5.15",
+          "pli": "Tañhi te, moghapurisa, bhavissati dīgharattaṃ ahitāya dukkhāyā”ti.",
+          "en": "This will be for your lasting harm and suffering.”"
+        },
+        {
+          "scid": "mn38:6.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "mn38:6.2",
+          "pli": "“Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "“What do you think, mendicants? "
+        },
+        {
+          "scid": "mn38:6.3",
+          "pli": "api nāyaṃ sāti bhikkhu kevaṭṭaputto usmīkatopi imasmiṃ dhammavinaye”ti?",
+          "en": "Has this mendicant Sāti even begun to warm up in this teaching and training?”"
+        },
+        {
+          "scid": "mn38:6.4",
+          "pli": "“Kiñhi siyā, bhante?",
+          "en": "“How could that be, sir?"
+        },
+        {
+          "scid": "mn38:6.5",
+          "pli": "No hetaṃ, bhante”ti.",
+          "en": "No, sir.”"
+        },
+        {
+          "scid": "mn38:6.6",
+          "pli": "Evaṃ vutte, sāti bhikkhu kevaṭṭaputto tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi.",
+          "en": "When this was said, Sāti sat silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say."
+        },
+        {
+          "scid": "mn38:6.7",
+          "pli": "Atha kho bhagavā sātiṃ bhikkhuṃ kevaṭṭaputtaṃ tuṇhībhūtaṃ maṅkubhūtaṃ pattakkhandhaṃ adhomukhaṃ pajjhāyantaṃ appaṭibhānaṃ viditvā sātiṃ bhikkhuṃ kevaṭṭaputtaṃ etadavoca:",
+          "en": "Knowing this, the Buddha said:"
+        },
+        {
+          "scid": "mn38:6.8",
+          "pli": "“paññāyissasi kho tvaṃ, moghapurisa, etena sakena pāpakena diṭṭhigatena.",
+          "en": "“Foolish man, you will be known by your own harmful misconception."
+        },
+        {
+          "scid": "mn38:6.9",
+          "pli": "Idhāhaṃ bhikkhū paṭipucchissāmī”ti.",
+          "en": "I’ll question the mendicants about this.”"
+        },
+        {
+          "scid": "mn38:7.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "mn38:7.2",
+          "pli": "“tumhepi me, bhikkhave, evaṃ dhammaṃ desitaṃ ājānātha yathāyaṃ sāti bhikkhu kevaṭṭaputto attanā duggahitena amhe ceva abbhācikkhati, attānañca khaṇati, bahuñca apuññaṃ pasavatī”ti?",
+          "en": "“Mendicants, do you understand my teachings as Sāti does, when he misrepresents me by his wrong grasp, harms himself, and makes much bad karma?”"
+        },
+        {
+          "scid": "mn38:7.3",
+          "pli": "“No hetaṃ, bhante.",
+          "en": "“No, sir."
+        },
+        {
+          "scid": "mn38:7.4",
+          "pli": "Anekapariyāyena hi no, bhante, paṭiccasamuppannaṃ viññāṇaṃ vuttaṃ bhagavatā, aññatra paccayā natthi viññāṇassa sambhavo”ti.",
+          "en": "For in many ways the Buddha has told us that consciousness is dependently originated, since consciousness does not arise without a cause.”"
+        },
+        {
+          "scid": "mn38:7.5",
+          "pli": "“Sādhu sādhu, bhikkhave.",
+          "en": "“Good, good, mendicants!"
+        },
+        {
+          "scid": "mn38:7.6",
+          "pli": "Sādhu kho me tumhe, bhikkhave, evaṃ dhammaṃ desitaṃ ājānātha.",
+          "en": "It’s good that you understand my teaching like this."
+        },
+        {
+          "scid": "mn38:7.7",
+          "pli": "Anekapariyāyena hi vo, bhikkhave, paṭiccasamuppannaṃ viññāṇaṃ vuttaṃ mayā, aññatra paccayā natthi viññāṇassa sambhavo”ti.",
+          "en": "For in many ways I have told you that consciousness is dependently originated, since consciousness does not arise without a cause."
+        },
+        {
+          "scid": "mn38:7.8",
+          "pli": "Atha ca panāyaṃ sāti bhikkhu kevaṭṭaputto attanā duggahitena amhe ceva abbhācikkhati, attānañca khaṇati, bahuñca apuññaṃ pasavati.",
+          "en": "But still this Sāti misrepresents me by his wrong grasp, harms himself, and makes much bad karma."
+        },
+        {
+          "scid": "mn38:7.9",
+          "pli": "Tañhi tassa moghapurisassa bhavissati dīgharattaṃ ahitāya dukkhāya.",
+          "en": "This will be for his lasting harm and suffering."
+        },
+        {
+          "scid": "mn38:8.1",
+          "pli": "“Yaṃ yadeva, bhikkhave, paccayaṃ paṭicca uppajjati viññāṇaṃ, tena teneva viññāṇantveva saṅkhyaṃ gacchati.",
+          "en": "Consciousness is reckoned according the specific conditions dependent upon which it arises."
+        },
+        {
+          "scid": "mn38:8.2",
+          "pli": "Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṃ, cakkhuviññāṇantveva saṅkhyaṃ gacchati;",
+          "en": "Consciousness that arises dependent on the eye and sights is reckoned as eye consciousness."
+        },
+        {
+          "scid": "mn38:8.3",
+          "pli": "sotañca paṭicca sadde ca uppajjati viññāṇaṃ, sotaviññāṇantveva saṅkhyaṃ gacchati;",
+          "en": "Consciousness that arises dependent on the ear and sounds is reckoned as ear consciousness."
+        },
+        {
+          "scid": "mn38:8.4",
+          "pli": "ghānañca paṭicca gandhe ca uppajjati viññāṇaṃ, ghānaviññāṇantveva saṅkhyaṃ gacchati;",
+          "en": "Consciousness that arises dependent on the nose and smells is reckoned as nose consciousness."
+        },
+        {
+          "scid": "mn38:8.5",
+          "pli": "jivhañca paṭicca rase ca uppajjati viññāṇaṃ, jivhāviññāṇantveva saṅkhyaṃ gacchati;",
+          "en": "Consciousness that arises dependent on the tongue and tastes is reckoned as tongue consciousness."
+        },
+        {
+          "scid": "mn38:8.6",
+          "pli": "kāyañca paṭicca phoṭṭhabbe ca uppajjati viññāṇaṃ, kāyaviññāṇantveva saṅkhyaṃ gacchati;",
+          "en": "Consciousness that arises dependent on the body and touches is reckoned as body consciousness."
+        },
+        {
+          "scid": "mn38:8.7",
+          "pli": "manañca paṭicca dhamme ca uppajjati viññāṇaṃ, manoviññāṇantveva saṅkhyaṃ gacchati.",
+          "en": "Consciousness that arises dependent on the mind and thoughts is reckoned as mind consciousness."
+        },
+        {
+          "scid": "mn38:8.8",
+          "pli": "Seyyathāpi, bhikkhave, yaṃ yadeva paccayaṃ paṭicca aggi jalati tena teneva saṅkhyaṃ gacchati.",
+          "en": "It’s like fire, which is reckoned according to the specific conditions dependent upon which it burns."
+        },
+        {
+          "scid": "mn38:8.9",
+          "pli": "Kaṭṭhañca paṭicca aggi jalati, kaṭṭhaggitveva saṅkhyaṃ gacchati;",
+          "en": "A fire that burns dependent on logs is reckoned as a log fire."
+        },
+        {
+          "scid": "mn38:8.10",
+          "pli": "sakalikañca paṭicca aggi jalati, sakalikaggitveva saṅkhyaṃ gacchati;",
+          "en": "A fire that burns dependent on twigs is reckoned as a twig fire."
+        },
+        {
+          "scid": "mn38:8.11",
+          "pli": "tiṇañca paṭicca aggi jalati, tiṇaggitveva saṅkhyaṃ gacchati;",
+          "en": "A fire that burns dependent on grass is reckoned as a grass fire."
+        },
+        {
+          "scid": "mn38:8.12",
+          "pli": "gomayañca paṭicca aggi jalati, gomayaggitveva saṅkhyaṃ gacchati;",
+          "en": "A fire that burns dependent on cowdung is reckoned as a cowdung fire."
+        },
+        {
+          "scid": "mn38:8.13",
+          "pli": "thusañca paṭicca aggi jalati, thusaggitveva saṅkhyaṃ gacchati;",
+          "en": "A fire that burns dependent on husks is reckoned as a husk fire."
+        },
+        {
+          "scid": "mn38:8.14",
+          "pli": "saṅkārañca paṭicca aggi jalati, saṅkāraggitveva saṅkhyaṃ gacchati.",
+          "en": "A fire that burns dependent on rubbish is reckoned as a rubbish fire."
+        },
+        {
+          "scid": "mn38:8.15",
+          "pli": "Evameva kho, bhikkhave, yaṃ yadeva paccayaṃ paṭicca uppajjati viññāṇaṃ, tena teneva saṅkhyaṃ gacchati.",
+          "en": "In the same way, consciousness is reckoned according the specific conditions dependent upon which it arises. …"
+        },
+        {
+          "scid": "mn38:8.16",
+          "pli": "Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṃ, cakkhuviññāṇantveva saṅkhyaṃ gacchati;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:8.17",
+          "pli": "sotañca paṭicca sadde ca uppajjati viññāṇaṃ, sotaviññāṇantveva saṅkhyaṃ gacchati, ",
+          "en": ""
+        },
+        {
+          "scid": "mn38:8.18",
+          "pli": "ghānañca paṭicca gandhe ca uppajjati viññāṇaṃ, ghānaviññāṇantveva saṅkhyaṃ gacchati, ",
+          "en": ""
+        },
+        {
+          "scid": "mn38:8.19",
+          "pli": "jivhañca paṭicca rase ca uppajjati viññāṇaṃ, jivhāviññāṇantveva saṅkhyaṃ gacchati.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:8.20",
+          "pli": "Kāyañca paṭicca phoṭṭhabbe ca uppajjati viññāṇaṃ, kāyaviññāṇantveva saṅkhyaṃ gacchati.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:8.21",
+          "pli": "Manañca paṭicca dhamme ca uppajjati viññāṇaṃ, manoviññāṇantveva saṅkhyaṃ gacchati.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:9.1",
+          "pli": "Bhūtamidanti, bhikkhave, passathā”ti?",
+          "en": "Mendicants, do you see that this has come to be?”"
+        },
+        {
+          "scid": "mn38:9.2",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:9.3",
+          "pli": "“Tadāhārasambhavanti, bhikkhave, passathā”ti?",
+          "en": "“Do you see that it originated with that as fuel?”"
+        },
+        {
+          "scid": "mn38:9.4",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:9.5",
+          "pli": "“Tadāhāranirodhā yaṃ bhūtaṃ, taṃ nirodhadhammanti, bhikkhave, passathā”ti?",
+          "en": "“Do you see that when that fuel ceases, what has come to be is liable to cease?”"
+        },
+        {
+          "scid": "mn38:9.6",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:10.1",
+          "pli": "“Bhūtamidaṃ nossūti, bhikkhave, kaṅkhato uppajjati vicikicchā”ti?",
+          "en": "“Does doubt arise when you’re uncertain whether or not this has come to be?”"
+        },
+        {
+          "scid": "mn38:10.2",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:10.3",
+          "pli": "“Tadāhārasambhavaṃ nossūti, bhikkhave, kaṅkhato uppajjati vicikicchā”ti?",
+          "en": "“Does doubt arise when you’re uncertain whether or not this has originated with that as fuel?”"
+        },
+        {
+          "scid": "mn38:10.4",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:10.5",
+          "pli": "“Tadāhāranirodhā yaṃ bhūtaṃ, taṃ nirodhadhammaṃ nossūti, bhikkhave, kaṅkhato uppajjati vicikicchā”ti?",
+          "en": "“Does doubt arise when you’re uncertain whether or not when that fuel ceases, what has come to be is liable to cease?”"
+        },
+        {
+          "scid": "mn38:10.6",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:11.1",
+          "pli": "“Bhūtamidanti, bhikkhave, yathābhūtaṃ sammappaññāya passato yā vicikicchā sā pahīyatī”ti?",
+          "en": "“Is doubt given up in someone who truly sees with proper understanding that this has come to be?”"
+        },
+        {
+          "scid": "mn38:11.2",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:11.3",
+          "pli": "“Tadāhārasambhavanti, bhikkhave, yathābhūtaṃ sammappaññāya passato yā vicikicchā sā pahīyatī”ti?",
+          "en": "“Is doubt given up in someone who truly sees with proper understanding that this has originated with that as fuel?”"
+        },
+        {
+          "scid": "mn38:11.4",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:11.5",
+          "pli": "“Tadāhāranirodhā yaṃ bhūtaṃ, taṃ nirodhadhammanti, bhikkhave, yathābhūtaṃ sammappaññāya passato yā vicikicchā sā pahīyatī”ti?",
+          "en": "“Is doubt given up in someone who truly sees with proper understanding that when that fuel ceases, what has come to be is liable to cease?”"
+        },
+        {
+          "scid": "mn38:11.6",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:12.1",
+          "pli": "“Bhūtamidanti, bhikkhave, itipi vo ettha nibbicikicchā”ti?",
+          "en": "“Are you free of doubt as to whether this has come to be?”"
+        },
+        {
+          "scid": "mn38:12.2",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:12.3",
+          "pli": "“Tadāhārasambhavanti, bhikkhave, itipi vo ettha nibbicikicchā”ti?",
+          "en": "“Are you free of doubt as to whether this has originated with that as fuel?”"
+        },
+        {
+          "scid": "mn38:12.4",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:12.5",
+          "pli": "“Tadāhāranirodhā yaṃ bhūtaṃ taṃ nirodhadhammanti, bhikkhave, itipi vo ettha nibbicikicchā”ti?",
+          "en": "“Are you free of doubt as to whether when that fuel ceases, what has come to be is liable to cease?”"
+        },
+        {
+          "scid": "mn38:12.6",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:13.1",
+          "pli": "“Bhūtamidanti, bhikkhave, yathābhūtaṃ sammappaññāya sudiṭṭhan”ti?",
+          "en": "“Have you truly seen clearly with proper understanding that this has come to be?”"
+        },
+        {
+          "scid": "mn38:13.2",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:13.3",
+          "pli": "“Tadāhārasambhavanti, bhikkhave, yathābhūtaṃ sammappaññāya sudiṭṭhan”ti?",
+          "en": "“Have you truly seen clearly with proper understanding that this has originated with that as fuel?”"
+        },
+        {
+          "scid": "mn38:13.4",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:13.5",
+          "pli": "“Tadāhāranirodhā yaṃ bhūtaṃ taṃ nirodhadhammanti, bhikkhave, yathābhūtaṃ sammappaññāya sudiṭṭhan”ti?",
+          "en": "“Have you truly seen clearly with proper understanding that when that fuel ceases, what has come to be is liable to cease?”"
+        },
+        {
+          "scid": "mn38:13.6",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:14.1",
+          "pli": "“Imañce tumhe, bhikkhave, diṭṭhiṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ allīyetha kelāyetha dhanāyetha mamāyetha, api nu me tumhe, bhikkhave, kullūpamaṃ dhammaṃ desitaṃ ājāneyyātha nittharaṇatthāya no gahaṇatthāyā”ti?",
+          "en": "“Pure and bright as this view is, mendicants, if you cherish it, fancy it, treasure it, and treat it as your own, would you be understanding how the Dhamma is similar to a raft: for crossing over, not for holding on?”"
+        },
+        {
+          "scid": "mn38:14.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn38:14.3",
+          "pli": "“Imañce tumhe, bhikkhave, diṭṭhiṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ na allīyetha na kelāyetha na dhanāyetha na mamāyetha, api nu me tumhe, bhikkhave, kullūpamaṃ dhammaṃ desitaṃ ājāneyyātha nittharaṇatthāya no gahaṇatthāyā”ti?",
+          "en": "“Pure and bright as this view is, mendicants, if you don’t cherish it, fancy it, treasure it, and treat it as your own, would you be understanding how the Dhamma is similar to a raft: for crossing over, not for holding on?”"
+        },
+        {
+          "scid": "mn38:14.4",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:15.1",
+          "pli": "“Cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā, sambhavesīnaṃ vā anuggahāya.",
+          "en": "“Mendicants, there are these four fuels. They maintain sentient beings that have been born and help those that are about to be born."
+        },
+        {
+          "scid": "mn38:15.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "mn38:15.3",
+          "pli": "Kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ.",
+          "en": "Solid food, whether coarse or fine; contact is the second, mental intention the third, and consciousness the fourth."
+        },
+        {
+          "scid": "mn38:16.1",
+          "pli": "Ime ca, bhikkhave, cattāro āhārā kiṃnidānā kiṃsamudayā kiṃjātikā kiṃpabhavā?",
+          "en": "What is the source, origin, birthplace, and root of these four fuels?"
+        },
+        {
+          "scid": "mn38:16.2",
+          "pli": "Ime cattāro āhārā taṇhānidānā taṇhāsamudayā taṇhājātikā taṇhāpabhavā.",
+          "en": "Craving."
+        },
+        {
+          "scid": "mn38:16.3",
+          "pli": "Taṇhā cāyaṃ, bhikkhave, kiṃnidānā kiṃsamudayā kiṃjātikā kiṃpabhavā?",
+          "en": "And what is the source of craving?"
+        },
+        {
+          "scid": "mn38:16.4",
+          "pli": "Taṇhā vedanānidānā vedanāsamudayā vedanājātikā vedanāpabhavā.",
+          "en": "Feeling."
+        },
+        {
+          "scid": "mn38:16.5",
+          "pli": "Vedanā cāyaṃ, bhikkhave, kiṃnidānā kiṃsamudayā kiṃjātikā kiṃpabhavā?",
+          "en": "And what is the source of feeling?"
+        },
+        {
+          "scid": "mn38:16.6",
+          "pli": "Vedanā phassanidānā phassasamudayā phassajātikā phassapabhavā.",
+          "en": "Contact."
+        },
+        {
+          "scid": "mn38:16.7",
+          "pli": "Phasso cāyaṃ, bhikkhave, kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo?",
+          "en": "And what is the source of contact?"
+        },
+        {
+          "scid": "mn38:16.8",
+          "pli": "Phasso saḷāyatananidāno saḷāyatanasamudayo saḷāyatanajātiko saḷāyatanapabhavo.",
+          "en": "The six sense fields."
+        },
+        {
+          "scid": "mn38:16.9",
+          "pli": "Saḷāyatanañcidaṃ, bhikkhave, kiṃnidānaṃ kiṃsamudayaṃ kiṃjātikaṃ kiṃpabhavaṃ?",
+          "en": "And what is the source of the six sense fields?"
+        },
+        {
+          "scid": "mn38:16.10",
+          "pli": "Saḷāyatanaṃ nāmarūpanidānaṃ nāmarūpasamudayaṃ nāmarūpajātikaṃ nāmarūpapabhavaṃ.",
+          "en": "Name and form."
+        },
+        {
+          "scid": "mn38:16.11",
+          "pli": "Nāmarūpañcidaṃ, bhikkhave, kiṃnidānaṃ kiṃsamudayaṃ kiṃjātikaṃ kiṃpabhavaṃ?",
+          "en": "And what is the source of name and form?"
+        },
+        {
+          "scid": "mn38:16.12",
+          "pli": "Nāmarūpaṃ viññāṇanidānaṃ viññāṇasamudayaṃ viññāṇajātikaṃ viññāṇapabhavaṃ.",
+          "en": "Consciousness."
+        },
+        {
+          "scid": "mn38:16.13",
+          "pli": "Viññāṇañcidaṃ, bhikkhave, kiṃnidānaṃ kiṃsamudayaṃ kiṃjātikaṃ kiṃpabhavaṃ?",
+          "en": "And what is the source of consciousness?"
+        },
+        {
+          "scid": "mn38:16.14",
+          "pli": "Viññāṇaṃ saṅkhāranidānaṃ saṅkhārasamudayaṃ saṅkhārajātikaṃ saṅkhārapabhavaṃ.",
+          "en": "Choices."
+        },
+        {
+          "scid": "mn38:16.15",
+          "pli": "Saṅkhārā cime, bhikkhave, kiṃnidānā kiṃsamudayā kiṃjātikā kiṃpabhavā?",
+          "en": "And what is the source of choices?"
+        },
+        {
+          "scid": "mn38:16.16",
+          "pli": "Saṅkhārā avijjānidānā avijjāsamudayā avijjājātikā avijjāpabhavā.",
+          "en": "Ignorance."
+        },
+        {
+          "scid": "mn38:17.1",
+          "pli": "Iti kho, bhikkhave, avijjāpaccayā saṅkhārā, ",
+          "en": "So: ignorance is a condition for choices. "
+        },
+        {
+          "scid": "mn38:17.2",
+          "pli": "saṅkhārapaccayā viññāṇaṃ, ",
+          "en": "Choices are a condition for consciousness. "
+        },
+        {
+          "scid": "mn38:17.3",
+          "pli": "viññāṇapaccayā nāmarūpaṃ, ",
+          "en": "Consciousness is a condition for name and form. "
+        },
+        {
+          "scid": "mn38:17.4",
+          "pli": "nāmarūpapaccayā saḷāyatanaṃ, ",
+          "en": "Name and form are conditions for the six sense fields. "
+        },
+        {
+          "scid": "mn38:17.5",
+          "pli": "saḷāyatanapaccayā phasso, ",
+          "en": "The six sense fields are conditions for contact. "
+        },
+        {
+          "scid": "mn38:17.6",
+          "pli": "phassapaccayā vedanā, ",
+          "en": "Contact is a condition for feeling. "
+        },
+        {
+          "scid": "mn38:17.7",
+          "pli": "vedanāpaccayā taṇhā, ",
+          "en": "Feeling is a condition for craving. "
+        },
+        {
+          "scid": "mn38:17.8",
+          "pli": "taṇhāpaccayā upādānaṃ, ",
+          "en": "Craving is a condition for grasping. "
+        },
+        {
+          "scid": "mn38:17.9",
+          "pli": "upādānapaccayā bhavo, ",
+          "en": "Grasping is a condition for continued existence. "
+        },
+        {
+          "scid": "mn38:17.10",
+          "pli": "bhavapaccayā jāti, ",
+          "en": "Continued existence is a condition for rebirth. "
+        },
+        {
+          "scid": "mn38:17.11",
+          "pli": "jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.",
+          "en": "Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be."
+        },
+        {
+          "scid": "mn38:17.12",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "mn38:18.1",
+          "pli": "Jātipaccayā jarāmaraṇanti iti kho panetaṃ vuttaṃ;",
+          "en": "‘Rebirth is a condition for old age and death.’ That’s what I said."
+        },
+        {
+          "scid": "mn38:18.2",
+          "pli": "jātipaccayā nu kho, bhikkhave, jarāmaraṇaṃ, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": "Is that how you see this or not?”"
+        },
+        {
+          "scid": "mn38:18.3",
+          "pli": "“Jātipaccayā, bhante, jarāmaraṇaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.4",
+          "pli": "evaṃ no ettha hoti—",
+          "en": "“That’s how we see it.”"
+        },
+        {
+          "scid": "mn38:18.5",
+          "pli": "jātipaccayā jarāmaraṇan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.6",
+          "pli": "“Bhavapaccayā jātīti iti kho panetaṃ vuttaṃ;",
+          "en": "“‘Continued existence is a condition for rebirth.’ …"
+        },
+        {
+          "scid": "mn38:18.7",
+          "pli": "bhavapaccayā nu kho, bhikkhave, jāti, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.8",
+          "pli": "“Bhavapaccayā, bhante, jāti;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.9",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.10",
+          "pli": "bhavapaccayā jātī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.11",
+          "pli": "“Upādānapaccayā bhavoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.12",
+          "pli": "upādānapaccayā nu kho, bhikkhave, bhavo, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.13",
+          "pli": "“Upādānapaccayā, bhante, bhavo;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.14",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.15",
+          "pli": "upādānapaccayā bhavo”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.16",
+          "pli": "“Taṇhāpaccayā upādānanti iti kho panetaṃ vuttaṃ, taṇhāpaccayā nu kho, bhikkhave, upādānaṃ, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.17",
+          "pli": "“Taṇhāpaccayā, bhante, upādānaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.18",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.19",
+          "pli": "taṇhāpaccayā upādānan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.20",
+          "pli": "“Vedanāpaccayā taṇhāti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.21",
+          "pli": "vedanāpaccayā nu kho, bhikkhave, taṇhā, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.22",
+          "pli": "“Vedanāpaccayā, bhante, taṇhā;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.23",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.24",
+          "pli": "vedanāpaccayā taṇhā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.25",
+          "pli": "“Phassapaccayā vedanāti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.26",
+          "pli": "phassapaccayā nu kho, bhikkhave, vedanā, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.27",
+          "pli": "“Phassapaccayā, bhante, vedanā;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.28",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.29",
+          "pli": "phassapaccayā vedanā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.30",
+          "pli": "“Saḷāyatanapaccayā phassoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.31",
+          "pli": "saḷāyatanapaccayā nu kho, bhikkhave, phasso, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.32",
+          "pli": "“Saḷāyatanapaccayā, bhante, phasso;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.33",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.34",
+          "pli": "saḷāyatanapaccayā phasso”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.35",
+          "pli": "“Nāmarūpapaccayā saḷāyatananti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.36",
+          "pli": "nāmarūpapaccayā nu kho, bhikkhave, saḷāyatanaṃ, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.37",
+          "pli": "“Nāmarūpapaccayā, bhante, saḷāyatanaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.38",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.39",
+          "pli": "nāmarūpapaccayā saḷāyatanan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.40",
+          "pli": "“Viññāṇapaccayā nāmarūpanti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.41",
+          "pli": "viññāṇapaccayā nu kho, bhikkhave, nāmarūpaṃ, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.42",
+          "pli": "“Viññāṇapaccayā, bhante, nāmarūpaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.43",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.44",
+          "pli": "viññāṇapaccayā nāmarūpan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.45",
+          "pli": "“Saṅkhārapaccayā viññāṇanti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.46",
+          "pli": "saṅkhārapaccayā nu kho, bhikkhave, viññāṇaṃ, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.47",
+          "pli": "“Saṅkhārapaccayā, bhante, viññāṇaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.48",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.49",
+          "pli": "saṅkhārapaccayā viññāṇan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.50",
+          "pli": "“Avijjāpaccayā saṅkhārāti iti kho panetaṃ vuttaṃ;",
+          "en": "‘Ignorance is a condition for choices.’ That’s what I said."
+        },
+        {
+          "scid": "mn38:18.51",
+          "pli": "avijjāpaccayā nu kho, bhikkhave, saṅkhārā, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": "Is that how you see this or not?”"
+        },
+        {
+          "scid": "mn38:18.52",
+          "pli": "“Avijjāpaccayā, bhante, saṅkhārā;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:18.53",
+          "pli": "evaṃ no ettha hoti—",
+          "en": "“That’s how we see it.”"
+        },
+        {
+          "scid": "mn38:18.54",
+          "pli": "avijjāpaccayā saṅkhārā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:19.1",
+          "pli": "“Sādhu, bhikkhave.",
+          "en": "“Good, mendicants!"
+        },
+        {
+          "scid": "mn38:19.2",
+          "pli": "Iti kho, bhikkhave, tumhepi evaṃ vadetha, ahampi evaṃ vadāmi—",
+          "en": "So both you and I say this."
+        },
+        {
+          "scid": "mn38:19.3",
+          "pli": "imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati, yadidaṃ—",
+          "en": "When this exists, that is; due to the arising of this, that arises. That is:"
+        },
+        {
+          "scid": "mn38:19.4",
+          "pli": "avijjāpaccayā saṅkhārā, ",
+          "en": "Ignorance is a condition for choices. "
+        },
+        {
+          "scid": "mn38:19.5",
+          "pli": "saṅkhārapaccayā viññāṇaṃ, ",
+          "en": "Choices are a condition for consciousness. "
+        },
+        {
+          "scid": "mn38:19.6",
+          "pli": "viññāṇapaccayā nāmarūpaṃ, ",
+          "en": "Consciousness is a condition for name and form. "
+        },
+        {
+          "scid": "mn38:19.7",
+          "pli": "nāmarūpapaccayā saḷāyatanaṃ, ",
+          "en": "Name and form are conditions for the six sense fields. "
+        },
+        {
+          "scid": "mn38:19.8",
+          "pli": "saḷāyatanapaccayā phasso, ",
+          "en": "The six sense fields are conditions for contact. "
+        },
+        {
+          "scid": "mn38:19.9",
+          "pli": "phassapaccayā vedanā, ",
+          "en": "Contact is a condition for feeling. "
+        },
+        {
+          "scid": "mn38:19.10",
+          "pli": "vedanāpaccayā taṇhā, ",
+          "en": "Feeling is a condition for craving. "
+        },
+        {
+          "scid": "mn38:19.11",
+          "pli": "taṇhāpaccayā upādānaṃ, ",
+          "en": "Craving is a condition for grasping. "
+        },
+        {
+          "scid": "mn38:19.12",
+          "pli": "upādānapaccayā bhavo, ",
+          "en": "Grasping is a condition for continued existence. "
+        },
+        {
+          "scid": "mn38:19.13",
+          "pli": "bhavapaccayā jāti, ",
+          "en": "Continued existence is a condition for rebirth. "
+        },
+        {
+          "scid": "mn38:19.14",
+          "pli": "jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.",
+          "en": "Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be."
+        },
+        {
+          "scid": "mn38:19.15",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "mn38:20.1",
+          "pli": "Avijjāya tveva asesavirāganirodhā saṅkhāranirodho, ",
+          "en": "When ignorance fades away and ceases with nothing left over, choices cease. "
+        },
+        {
+          "scid": "mn38:20.2",
+          "pli": "saṅkhāranirodhā viññāṇanirodho, ",
+          "en": "When choices cease, consciousness ceases. "
+        },
+        {
+          "scid": "mn38:20.3",
+          "pli": "viññāṇanirodhā nāmarūpanirodho, ",
+          "en": "When consciousness ceases, name and form cease. "
+        },
+        {
+          "scid": "mn38:20.4",
+          "pli": "nāmarūpanirodhā saḷāyatananirodho, ",
+          "en": "When name and form cease, the six sense fields cease. "
+        },
+        {
+          "scid": "mn38:20.5",
+          "pli": "saḷāyatananirodhā phassanirodho, ",
+          "en": "When the six sense fields cease, contact ceases. "
+        },
+        {
+          "scid": "mn38:20.6",
+          "pli": "phassanirodhā vedanānirodho, ",
+          "en": "When contact ceases, feeling ceases. "
+        },
+        {
+          "scid": "mn38:20.7",
+          "pli": "vedanānirodhā taṇhānirodho, ",
+          "en": "When feeling ceases, craving ceases. "
+        },
+        {
+          "scid": "mn38:20.8",
+          "pli": "taṇhānirodhā upādānanirodho, ",
+          "en": "When craving ceases, grasping ceases. "
+        },
+        {
+          "scid": "mn38:20.9",
+          "pli": "upādānanirodhā bhavanirodho, ",
+          "en": "When grasping ceases, continued existence ceases. "
+        },
+        {
+          "scid": "mn38:20.10",
+          "pli": "bhavanirodhā jātinirodho, ",
+          "en": "When continued existence ceases, rebirth ceases. "
+        },
+        {
+          "scid": "mn38:20.11",
+          "pli": "jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti.",
+          "en": "When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease."
+        },
+        {
+          "scid": "mn38:20.12",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+          "en": "That is how this entire mass of suffering ceases."
+        },
+        {
+          "scid": "mn38:21.1",
+          "pli": "Jātinirodhā jarāmaraṇanirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": "‘When rebirth ceases, old age and death cease.’ That’s what I said."
+        },
+        {
+          "scid": "mn38:21.2",
+          "pli": "jātinirodhā nu kho, bhikkhave, jarāmaraṇanirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": "Is that how you see this or not?”"
+        },
+        {
+          "scid": "mn38:21.3",
+          "pli": "“Jātinirodhā, bhante, jarāmaraṇanirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.4",
+          "pli": "evaṃ no ettha hoti—",
+          "en": "“That’s how we see it.”"
+        },
+        {
+          "scid": "mn38:21.5",
+          "pli": "jātinirodhā jarāmaraṇanirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.6",
+          "pli": "“Bhavanirodhā jātinirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": "‘When continued existence ceases, rebirth ceases.’ …"
+        },
+        {
+          "scid": "mn38:21.7",
+          "pli": "bhavanirodhā nu kho, bhikkhave, jātinirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.8",
+          "pli": "“Bhavanirodhā, bhante, jātinirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.9",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.10",
+          "pli": "bhavanirodhā jātinirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.11",
+          "pli": "“Upādānanirodhā bhavanirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.12",
+          "pli": "upādānanirodhā nu kho, bhikkhave, bhavanirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.13",
+          "pli": "“Upādānanirodhā, bhante, bhavanirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.14",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.15",
+          "pli": "upādānanirodhā bhavanirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.16",
+          "pli": "“Taṇhānirodhā upādānanirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.17",
+          "pli": "taṇhānirodhā nu kho, bhikkhave, upādānanirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.18",
+          "pli": "“Taṇhānirodhā, bhante, upādānanirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.19",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.20",
+          "pli": "taṇhānirodhā upādānanirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.21",
+          "pli": "“Vedanānirodhā taṇhānirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.22",
+          "pli": "vedanānirodhā nu kho, bhikkhave, taṇhānirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.23",
+          "pli": "“Vedanānirodhā, bhante, taṇhānirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.24",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.25",
+          "pli": "vedanānirodhā taṇhānirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.26",
+          "pli": "“Phassanirodhā vedanānirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.27",
+          "pli": "phassanirodhā nu kho, bhikkhave, vedanānirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.28",
+          "pli": "“Phassanirodhā, bhante, vedanānirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.29",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.30",
+          "pli": "phassanirodhā vedanānirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.31",
+          "pli": "“Saḷāyatananirodhā phassanirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.32",
+          "pli": "saḷāyatananirodhā nu kho, bhikkhave, phassanirodho, no vā, kathaṃ vā ettha hotīti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.33",
+          "pli": "Saḷāyatananirodhā, bhante, phassanirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.34",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.35",
+          "pli": "saḷāyatananirodhā phassanirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.36",
+          "pli": "“Nāmarūpanirodhā saḷāyatananirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.37",
+          "pli": "nāmarūpanirodhā nu kho, bhikkhave, saḷāyatananirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.38",
+          "pli": "“Nāmarūpanirodhā, bhante, saḷāyatananirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.39",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.40",
+          "pli": "nāmarūpanirodhā saḷāyatananirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.41",
+          "pli": "“Viññāṇanirodhā nāmarūpanirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.42",
+          "pli": "viññāṇanirodhā nu kho, bhikkhave, nāmarūpanirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.43",
+          "pli": "“Viññāṇanirodhā, bhante, nāmarūpanirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.44",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.45",
+          "pli": "viññāṇanirodhā nāmarūpanirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.46",
+          "pli": "“Saṅkhāranirodhā viññāṇanirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.47",
+          "pli": "saṅkhāranirodhā nu kho, bhikkhave, viññāṇanirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.48",
+          "pli": "“Saṅkhāranirodhā, bhante, viññāṇanirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.49",
+          "pli": "evaṃ no ettha hoti—",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.50",
+          "pli": "saṅkhāranirodhā viññāṇanirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.51",
+          "pli": "“Avijjānirodhā saṅkhāranirodhoti iti kho panetaṃ vuttaṃ;",
+          "en": "‘When ignorance ceases, choices cease.’ That’s what I said."
+        },
+        {
+          "scid": "mn38:21.52",
+          "pli": "avijjānirodhā nu kho, bhikkhave, saṅkhāranirodho, no vā, kathaṃ vā ettha hotī”ti?",
+          "en": "Is that how you see this or not?”"
+        },
+        {
+          "scid": "mn38:21.53",
+          "pli": "“Avijjānirodhā, bhante, saṅkhāranirodho;",
+          "en": ""
+        },
+        {
+          "scid": "mn38:21.54",
+          "pli": "evaṃ no ettha hoti—",
+          "en": "“That’s how we see it.”"
+        },
+        {
+          "scid": "mn38:21.55",
+          "pli": "avijjānirodhā saṅkhāranirodho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn38:22.1",
+          "pli": "“Sādhu, bhikkhave.",
+          "en": "“Good, mendicants!"
+        },
+        {
+          "scid": "mn38:22.2",
+          "pli": "Iti kho, bhikkhave, tumhepi evaṃ vadetha, ahampi evaṃ vadāmi—",
+          "en": "So both you and I say this."
+        },
+        {
+          "scid": "mn38:22.3",
+          "pli": "imasmiṃ asati idaṃ na hoti, imassa nirodhā idaṃ nirujjhati, yadidaṃ—",
+          "en": "When this doesn’t exist, that is not; due to the cessation of this, that ceases. That is:"
+        },
+        {
+          "scid": "mn38:22.4",
+          "pli": "avijjānirodhā saṅkhāranirodho, ",
+          "en": "When ignorance ceases, choices cease. "
+        },
+        {
+          "scid": "mn38:22.5",
+          "pli": "saṅkhāranirodhā viññāṇanirodho, ",
+          "en": "When choices cease, consciousness ceases. "
+        },
+        {
+          "scid": "mn38:22.6",
+          "pli": "viññāṇanirodhā nāmarūpanirodho, ",
+          "en": "When consciousness ceases, name and form cease. "
+        },
+        {
+          "scid": "mn38:22.7",
+          "pli": "nāmarūpanirodhā saḷāyatananirodho, ",
+          "en": "When name and form cease, the six sense fields cease. "
+        },
+        {
+          "scid": "mn38:22.8",
+          "pli": "saḷāyatananirodhā phassanirodho, ",
+          "en": "When the six sense fields cease, contact ceases. "
+        },
+        {
+          "scid": "mn38:22.9",
+          "pli": "phassanirodhā vedanānirodho, ",
+          "en": "When contact ceases, feeling ceases. "
+        },
+        {
+          "scid": "mn38:22.10",
+          "pli": "vedanānirodhā taṇhānirodho, ",
+          "en": "When feeling ceases, craving ceases. "
+        },
+        {
+          "scid": "mn38:22.11",
+          "pli": "taṇhānirodhā upādānanirodho, ",
+          "en": "When craving ceases, grasping ceases. "
+        },
+        {
+          "scid": "mn38:22.12",
+          "pli": "upādānanirodhā bhavanirodho, ",
+          "en": "When grasping ceases, continued existence ceases. "
+        },
+        {
+          "scid": "mn38:22.13",
+          "pli": "bhavanirodhā jātinirodho, ",
+          "en": "When continued existence ceases, rebirth ceases. "
+        },
+        {
+          "scid": "mn38:22.14",
+          "pli": "jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti.",
+          "en": "When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease."
+        },
+        {
+          "scid": "mn38:22.15",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+          "en": "That is how this entire mass of suffering ceases."
+        },
+        {
+          "scid": "mn38:23.1",
+          "pli": "Api nu tumhe, bhikkhave, evaṃ jānantā evaṃ passantā pubbantaṃ vā paṭidhāveyyātha:",
+          "en": "Knowing and seeing in this way, mendicants, would you turn back to the past, thinking:"
+        },
+        {
+          "scid": "mn38:23.2",
+          "pli": "‘ahesumha nu kho mayaṃ atītamaddhānaṃ, nanu kho ahesumha atītamaddhānaṃ, kiṃ nu kho ahesumha atītamaddhānaṃ, kathaṃ nu kho ahesumha atītamaddhānaṃ, kiṃ hutvā kiṃ ahesumha nu kho mayaṃ atītamaddhānan’”ti?",
+          "en": "‘Did we exist in the past? Did we not exist in the past? What were we in the past? How were we in the past? After being what, what did we become in the past?’?”"
+        },
+        {
+          "scid": "mn38:23.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn38:23.4",
+          "pli": "“Api nu tumhe, bhikkhave, evaṃ jānantā evaṃ passantā aparantaṃ vā paṭidhāveyyātha—",
+          "en": "“Knowing and seeing in this way, mendicants, would you turn forward to the future, thinking:"
+        },
+        {
+          "scid": "mn38:23.5",
+          "pli": "bhavissāma nu kho mayaṃ anāgatamaddhānaṃ, nanu kho bhavissāma anāgatamaddhānaṃ, kiṃ nu kho bhavissāma anāgatamaddhānaṃ, kathaṃ nu kho bhavissāma anāgatamaddhānaṃ, kiṃ hutvā kiṃ bhavissāma nu kho mayaṃ anāgatamaddhānan”ti?",
+          "en": "‘Will we exist in the future? Will we not exist in the future? What will we be in the future? How will we be in the future? After being what, what will we become in the future?’?”"
+        },
+        {
+          "scid": "mn38:23.6",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn38:24.1",
+          "pli": "“Api nu tumhe, bhikkhave, evaṃ jānantā evaṃ passantā etarahi vā paccuppannamaddhānaṃ ajjhattaṃ kathaṅkathī assatha—",
+          "en": "“Knowing and seeing in this way, mendicants, would you be undecided about the present, thinking:"
+        },
+        {
+          "scid": "mn38:24.2",
+          "pli": "ahaṃ nu khosmi, no nu khosmi, kiṃ nu khosmi, kathaṃ nu khosmi, ayaṃ nu kho satto kuto āgato, so kuhiṃ gāmī bhavissatī”ti?",
+          "en": "‘Am I? Am I not? What am I? How am I? This sentient being—where did it come from? And where will it go?’?”"
+        },
+        {
+          "scid": "mn38:24.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn38:24.4",
+          "pli": "“Api nu tumhe, bhikkhave, evaṃ jānantā evaṃ passantā evaṃ vadeyyātha—",
+          "en": "“Knowing and seeing in this way, would you say:"
+        },
+        {
+          "scid": "mn38:24.5",
+          "pli": "satthā no garu, satthugāravena ca mayaṃ evaṃ vademā”ti?",
+          "en": "‘Our teacher is respected. We speak like this out of respect for our teacher.’?”"
+        },
+        {
+          "scid": "mn38:24.6",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn38:24.7",
+          "pli": "“Api nu tumhe, bhikkhave, evaṃ jānantā evaṃ passantā evaṃ vadeyyātha—",
+          "en": "“Knowing and seeing in this way, would you say:"
+        },
+        {
+          "scid": "mn38:24.8",
+          "pli": "samaṇo evamāha, samaṇā ca nāma mayaṃ evaṃ vademā”ti?",
+          "en": "‘Our ascetic says this. It’s only because of him that we say this’?”"
+        },
+        {
+          "scid": "mn38:24.9",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn38:24.10",
+          "pli": "“Api nu tumhe, bhikkhave, evaṃ jānantā evaṃ passantā aññaṃ satthāraṃ uddiseyyāthā”ti?",
+          "en": "“Knowing and seeing in this way, would you acknowledge another teacher?”"
+        },
+        {
+          "scid": "mn38:24.11",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn38:24.12",
+          "pli": "“Api nu tumhe, bhikkhave, evaṃ jānantā evaṃ passantā yāni tāni puthusamaṇabrāhmaṇānaṃ vata kotūhalamaṅgalāni tāni sārato paccāgaccheyyāthā”ti?",
+          "en": "“Knowing and seeing in this way, would you believe that the observances and noisy, superstitious rites of the various ascetics and brahmins are the most important things?”"
+        },
+        {
+          "scid": "mn38:24.13",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn38:24.14",
+          "pli": "“Nanu, bhikkhave, yadeva tumhākaṃ sāmaṃ ñātaṃ sāmaṃ diṭṭhaṃ sāmaṃ viditaṃ, tadeva tumhe vadethā”ti.",
+          "en": "“Are you not speaking only of what you have known and seen and realized for yourselves?”"
+        },
+        {
+          "scid": "mn38:24.15",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn38:25.1",
+          "pli": "“Sādhu, bhikkhave, upanītā kho me tumhe, bhikkhave, iminā sandiṭṭhikena dhammena akālikena ehipassikena opaneyyikena paccattaṃ veditabbena viññūhi.",
+          "en": "“Good, mendicants! You have been guided by me with this teaching that’s realizable in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves."
+        },
+        {
+          "scid": "mn38:25.2",
+          "pli": "Sandiṭṭhiko ayaṃ, bhikkhave, dhammo akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhi—",
+          "en": "For when I said that this teaching is realizable in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves,"
+        },
+        {
+          "scid": "mn38:25.3",
+          "pli": "iti yantaṃ vuttaṃ, idametaṃ paṭicca vuttanti.",
+          "en": "this is what I was referring to."
+        },
+        {
+          "scid": "mn38:26.1",
+          "pli": "Tiṇṇaṃ kho pana, bhikkhave, sannipātā gabbhassāvakkanti hoti.",
+          "en": "Mendicants, when three things come together an embryo is conceived."
+        },
+        {
+          "scid": "mn38:26.2",
+          "pli": "Idha mātāpitaro ca sannipatitā honti, mātā ca na utunī hoti, gandhabbo ca na paccupaṭṭhito hoti, neva tāva gabbhassāvakkanti hoti.",
+          "en": "In a case where the mother and father come together, but the mother is not in the fertile part of her menstrual cycle, and the spirit being reborn is not present, the embryo is not conceived."
+        },
+        {
+          "scid": "mn38:26.3",
+          "pli": "Idha mātāpitaro ca sannipatitā honti, mātā ca utunī hoti, gandhabbo ca na paccupaṭṭhito hoti, neva tāva gabbhassāvakkanti hoti.",
+          "en": "In a case where the mother and father come together, the mother is in the fertile part of her menstrual cycle, but the spirit being reborn is not present, the embryo is not conceived."
+        },
+        {
+          "scid": "mn38:26.4",
+          "pli": "Yato ca kho, bhikkhave, mātāpitaro ca sannipatitā honti, mātā ca utunī hoti, gandhabbo ca paccupaṭṭhito hoti—evaṃ tiṇṇaṃ sannipātā gabbhassāvakkanti hoti.",
+          "en": "But when these three things come together—the mother and father come together, the mother is in the fertile part of her menstrual cycle, and the spirit being reborn is present—an embryo is conceived."
+        },
+        {
+          "scid": "mn38:27.1",
+          "pli": "Tamenaṃ, bhikkhave, mātā nava vā dasa vā māse gabbhaṃ kucchinā pariharati mahatā saṃsayena garubhāraṃ.",
+          "en": "The mother nurtures the embryo in her womb for nine or ten months at great risk to her heavy burden."
+        },
+        {
+          "scid": "mn38:27.2",
+          "pli": "Tamenaṃ, bhikkhave, mātā navannaṃ vā dasannaṃ vā māsānaṃ accayena vijāyati mahatā saṃsayena garubhāraṃ.",
+          "en": "When nine or ten months have passed, the mother gives birth at great risk to her heavy burden."
+        },
+        {
+          "scid": "mn38:27.3",
+          "pli": "Tamenaṃ jātaṃ samānaṃ sakena lohitena poseti.",
+          "en": "When the infant is born she nourishes it with her own blood."
+        },
+        {
+          "scid": "mn38:27.4",
+          "pli": "Lohitañhetaṃ, bhikkhave, ariyassa vinaye yadidaṃ mātuthaññaṃ.",
+          "en": "For mother’s milk is regarded as blood in the training of the noble one."
+        },
+        {
+          "scid": "mn38:28.1",
+          "pli": "Sa kho so, bhikkhave, kumāro vuddhimanvāya indriyānaṃ paripākamanvāya ",
+          "en": "That boy grows up and his faculties mature. "
+        },
+        {
+          "scid": "mn38:28.2",
+          "pli": "yāni tāni kumārakānaṃ kīḷāpanakāni tehi kīḷati, seyyathidaṃ—vaṅkakaṃ ghaṭikaṃ mokkhacikaṃ ciṅgulakaṃ pattāḷhakaṃ rathakaṃ dhanukaṃ.",
+          "en": "He accordingly plays childish games such as toy ploughs, tipcat, somersaults, pinwheels, toy measures, toy carts, and toy bows."
+        },
+        {
+          "scid": "mn38:29.1",
+          "pli": "Sa kho so, bhikkhave, kumāro vuddhimanvāya indriyānaṃ paripākamanvāya ",
+          "en": "That boy grows up and his faculties mature further. "
+        },
+        {
+          "scid": "mn38:29.2",
+          "pli": "pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti—",
+          "en": "He accordingly amuses himself, supplied and provided with the five kinds of sensual stimulation."
+        },
+        {
+          "scid": "mn38:29.3",
+          "pli": "cakkhuviññeyyehi rūpehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi, ",
+          "en": "Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. "
+        },
+        {
+          "scid": "mn38:29.4",
+          "pli": "sotaviññeyyehi saddehi …",
+          "en": "Sounds known by the ear …"
+        },
+        {
+          "scid": "mn38:29.5",
+          "pli": "ghānaviññeyyehi gandhehi …",
+          "en": "Smells known by the nose …"
+        },
+        {
+          "scid": "mn38:29.6",
+          "pli": "jivhāviññeyyehi rasehi …",
+          "en": "Tastes known by the tongue …"
+        },
+        {
+          "scid": "mn38:29.7",
+          "pli": "kāyaviññeyyehi phoṭṭhabbehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi.",
+          "en": "Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing."
+        },
+        {
+          "scid": "mn38:30.1",
+          "pli": "So cakkhunā rūpaṃ disvā piyarūpe rūpe sārajjati, appiyarūpe rūpe byāpajjati, anupaṭṭhitakāyasati ca viharati parittacetaso. ",
+          "en": "When they see a sight with their eyes, if it’s pleasant they desire it, but if it’s unpleasant they dislike it. They live with mindfulness of the body unestablished and their heart restricted. "
+        },
+        {
+          "scid": "mn38:30.2",
+          "pli": "Tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te pāpakā akusalā dhammā aparisesā nirujjhanti.",
+          "en": "And they don’t truly understand the freedom of heart and freedom by wisdom where those arisen bad, unskillful qualities cease without anything left over."
+        },
+        {
+          "scid": "mn38:30.3",
+          "pli": "So evaṃ anurodhavirodhaṃ samāpanno yaṃ kiñci vedanaṃ vedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā, so taṃ vedanaṃ abhinandati abhivadati ajjhosāya tiṭṭhati.",
+          "en": "Being so full of favoring and opposing, when they experience any kind of feeling—pleasant, unpleasant, or neutral—they approve, welcome, and keep clinging to it."
+        },
+        {
+          "scid": "mn38:30.4",
+          "pli": "Tassa taṃ vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī.",
+          "en": "This gives rise to relishing."
+        },
+        {
+          "scid": "mn38:30.5",
+          "pli": "Yā vedanāsu nandī tadupādānaṃ, tassupādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.",
+          "en": "Relishing feelings is grasping. Their grasping is a condition for continued existence. Continued existence is a condition for rebirth. Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be."
+        },
+        {
+          "scid": "mn38:30.6",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "mn38:30.7",
+          "pli": "Sotena saddaṃ sutvā … pe …",
+          "en": "When they hear a sound with their ears …"
+        },
+        {
+          "scid": "mn38:30.8",
+          "pli": "ghānena gandhaṃ ghāyitvā … pe …",
+          "en": "When they smell an odor with their nose …"
+        },
+        {
+          "scid": "mn38:30.9",
+          "pli": "jivhāya rasaṃ sāyitvā … pe …",
+          "en": "When they taste a flavor with their tongue …"
+        },
+        {
+          "scid": "mn38:30.10",
+          "pli": "kāyena phoṭṭhabbaṃ phusitvā … pe …",
+          "en": "When they feel a touch with their body …"
+        },
+        {
+          "scid": "mn38:30.11",
+          "pli": "manasā dhammaṃ viññāya piyarūpe dhamme sārajjati, appiyarūpe dhamme byāpajjati, anupaṭṭhitakāyasati ca viharati parittacetaso. ",
+          "en": "When they cognize a thought with their mind, if it’s pleasant they desire it, but if it’s unpleasant they dislike it. They live with mindfulness of the body unestablished and their heart restricted. "
+        },
+        {
+          "scid": "mn38:30.12",
+          "pli": "Tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te pāpakā akusalā dhammā aparisesā nirujjhanti.",
+          "en": "And they don’t truly understand the freedom of heart and freedom by wisdom where those arisen bad, unskillful qualities cease without anything left over."
+        },
+        {
+          "scid": "mn38:30.13",
+          "pli": "So evaṃ anurodhavirodhaṃ samāpanno yaṃ kiñci vedanaṃ vedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā, so taṃ vedanaṃ abhinandati abhivadati ajjhosāya tiṭṭhati.",
+          "en": "Being so full of favoring and opposing, when they experience any kind of feeling—pleasant, unpleasant, or neutral—they approve, welcome, and keep clinging to it."
+        },
+        {
+          "scid": "mn38:30.14",
+          "pli": "Tassa taṃ vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī.",
+          "en": "This gives rise to relishing."
+        },
+        {
+          "scid": "mn38:30.15",
+          "pli": "Yā vedanāsu nandī tadupādānaṃ, tassupādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.",
+          "en": "Relishing feelings is grasping. Their grasping is a condition for continued existence. Continued existence is a condition for rebirth. Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be."
+        },
+        {
+          "scid": "mn38:30.16",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "mn38:31.1",
+          "pli": "Idha, bhikkhave, tathāgato loke uppajjati arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā.",
+          "en": "But consider when a Realized One arises in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed."
+        },
+        {
+          "scid": "mn38:31.2",
+          "pli": "So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti.",
+          "en": "He has realized with his own insight this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—and he makes it known to others."
+        },
+        {
+          "scid": "mn38:31.3",
+          "pli": "So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ;",
+          "en": "He proclaims a teaching that is good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing."
+        },
+        {
+          "scid": "mn38:31.4",
+          "pli": "kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.",
+          "en": "He reveals an entirely full and pure spiritual life."
+        },
+        {
+          "scid": "mn38:32.1",
+          "pli": "Taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā kule paccājāto.",
+          "en": "A householder hears that teaching, or a householder’s child, or someone reborn in some good family."
+        },
+        {
+          "scid": "mn38:32.2",
+          "pli": "So taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati.",
+          "en": "They gain faith in the Realized One,"
+        },
+        {
+          "scid": "mn38:32.3",
+          "pli": "So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati:",
+          "en": "and reflect:"
+        },
+        {
+          "scid": "mn38:32.4",
+          "pli": "‘sambādho gharāvāso rajāpatho, abbhokāso pabbajjā.",
+          "en": "‘Living in a house is cramped and dirty, but the life of one gone forth is wide open."
+        },
+        {
+          "scid": "mn38:32.5",
+          "pli": "Nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ.",
+          "en": "It’s not easy for someone living at home to lead the spiritual life utterly full and pure, like a polished shell."
+        },
+        {
+          "scid": "mn38:32.6",
+          "pli": "Yannūnāhaṃ kesamassuṃ ohāretvā, kāsāyāni vatthāni acchādetvā, agārasmā anagāriyaṃ pabbajeyyan’”ti.",
+          "en": "Why don’t I cut off my hair and beard, dress in ocher robes, and go forth from lay life to homelessness?’"
+        },
+        {
+          "scid": "mn38:32.7",
+          "pli": "So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya, mahantaṃ vā bhogakkhandhaṃ pahāya, appaṃ vā ñātiparivaṭṭaṃ pahāya, mahantaṃ vā ñātiparivaṭṭaṃ pahāya, kesamassuṃ ohāretvā, kāsāyāni vatthāni acchādetvā, agārasmā anagāriyaṃ pabbajati.",
+          "en": "After some time they give up a large or small fortune, and a large or small family circle. They shave off hair and beard, dress in ocher robes, and go forth from the lay life to homelessness."
+        },
+        {
+          "scid": "mn38:33.1",
+          "pli": "So evaṃ pabbajito samāno bhikkhūnaṃ sikkhāsājīvasamāpanno pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti, nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati.",
+          "en": "Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings."
+        },
+        {
+          "scid": "mn38:33.2",
+          "pli": "Adinnādānaṃ pahāya adinnādānā paṭivirato hoti, dinnādāyī dinnapāṭikaṅkhī athenena sucibhūtena attanā viharati.",
+          "en": "They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving."
+        },
+        {
+          "scid": "mn38:33.3",
+          "pli": "Abrahmacariyaṃ pahāya brahmacārī hoti, ārācārī virato methunā gāmadhammā.",
+          "en": "They give up unchastity. They are celibate, set apart, avoiding the common practice of sex."
+        },
+        {
+          "scid": "mn38:33.4",
+          "pli": "Musāvādaṃ pahāya musāvādā paṭivirato hoti, saccavādī saccasandho theto paccayiko avisaṃvādako lokassa.",
+          "en": "They give up lying. They speak the truth and stick to the truth. They’re honest and trustworthy, and don’t trick the world with their words."
+        },
+        {
+          "scid": "mn38:33.5",
+          "pli": "Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti—ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya. Iti bhinnānaṃ vā sandhātā, sahitānaṃ vā anuppadātā samaggārāmo samaggarato samagganandī, samaggakaraṇiṃ vācaṃ bhāsitā hoti.",
+          "en": "They give up divisive speech. They don’t repeat in one place what they heard in another so as to divide people against each other. Instead, they reconcile those who are divided, supporting unity, delighting in harmony, loving harmony, speaking words that promote harmony."
+        },
+        {
+          "scid": "mn38:33.6",
+          "pli": "Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti—yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti.",
+          "en": "They give up harsh speech. They speak in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people."
+        },
+        {
+          "scid": "mn38:33.7",
+          "pli": "Samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti, kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṃ vācaṃ bhāsitā kālena, sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ.",
+          "en": "They give up talking nonsense. Their words are timely, true, and meaningful, in line with the teaching and training. They say things at the right time which are valuable, reasonable, succinct, and beneficial."
+        },
+        {
+          "scid": "mn38:33.8",
+          "pli": "So bījagāmabhūtagāmasamārambhā paṭivirato hoti, ",
+          "en": "They avoid injuring plants and seeds. "
+        },
+        {
+          "scid": "mn38:33.9",
+          "pli": "ekabhattiko hoti rattūparato, virato vikālabhojanā.",
+          "en": "They eat in one part of the day, abstaining from eating at night and food at the wrong time."
+        },
+        {
+          "scid": "mn38:33.10",
+          "pli": "Naccagītavāditavisūkadassanā paṭivirato hoti, ",
+          "en": "They avoid dancing, singing, music, and seeing shows. "
+        },
+        {
+          "scid": "mn38:33.11",
+          "pli": "mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭivirato hoti, ",
+          "en": "They avoid beautifying and adorning themselves with garlands, perfumes, and makeup. "
+        },
+        {
+          "scid": "mn38:33.12",
+          "pli": "uccāsayanamahāsayanā paṭivirato hoti, ",
+          "en": "They avoid high and luxurious beds. "
+        },
+        {
+          "scid": "mn38:33.13",
+          "pli": "jātarūparajatapaṭiggahaṇā paṭivirato hoti, ",
+          "en": "They avoid receiving gold and money, "
+        },
+        {
+          "scid": "mn38:33.14",
+          "pli": "āmakadhaññapaṭiggahaṇā paṭivirato hoti, ",
+          "en": "raw grains, "
+        },
+        {
+          "scid": "mn38:33.15",
+          "pli": "āmakamaṃsapaṭiggahaṇā paṭivirato hoti, ",
+          "en": "raw meat, "
+        },
+        {
+          "scid": "mn38:33.16",
+          "pli": "itthikumārikapaṭiggahaṇā paṭivirato hoti, ",
+          "en": "women and girls, "
+        },
+        {
+          "scid": "mn38:33.17",
+          "pli": "dāsidāsapaṭiggahaṇā paṭivirato hoti, ",
+          "en": "male and female bondservants, "
+        },
+        {
+          "scid": "mn38:33.18",
+          "pli": "ajeḷakapaṭiggahaṇā paṭivirato hoti, ",
+          "en": "goats and sheep, "
+        },
+        {
+          "scid": "mn38:33.19",
+          "pli": "kukkuṭasūkarapaṭiggahaṇā paṭivirato hoti, ",
+          "en": "chickens and pigs, "
+        },
+        {
+          "scid": "mn38:33.20",
+          "pli": "hatthigavāssavaḷavapaṭiggahaṇā paṭivirato hoti, ",
+          "en": "elephants, cows, horses, and mares, "
+        },
+        {
+          "scid": "mn38:33.21",
+          "pli": "khettavatthupaṭiggahaṇā paṭivirato hoti, ",
+          "en": "and fields and land. "
+        },
+        {
+          "scid": "mn38:33.22",
+          "pli": "dūteyyapahiṇagamanānuyogā paṭivirato hoti, ",
+          "en": "They avoid running errands and messages; "
+        },
+        {
+          "scid": "mn38:33.23",
+          "pli": "kayavikkayā paṭivirato hoti, ",
+          "en": "buying and selling; "
+        },
+        {
+          "scid": "mn38:33.24",
+          "pli": "tulākūṭakaṃsakūṭamānakūṭā paṭivirato hoti, ",
+          "en": "falsifying weights, metals, or measures; "
+        },
+        {
+          "scid": "mn38:33.25",
+          "pli": "ukkoṭanavañcananikatisāciyogā paṭivirato hoti, ",
+          "en": "bribery, fraud, cheating, and duplicity; "
+        },
+        {
+          "scid": "mn38:33.26",
+          "pli": "chedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato hoti.",
+          "en": "mutilation, murder, abduction, banditry, plunder, and violence."
+        },
+        {
+          "scid": "mn38:34.1",
+          "pli": "So santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati.",
+          "en": "They’re content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things."
+        },
+        {
+          "scid": "mn38:34.2",
+          "pli": "Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti;",
+          "en": "They’re like a bird: wherever it flies, wings are its only burden."
+        },
+        {
+          "scid": "mn38:34.3",
+          "pli": "evameva bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena, kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati.",
+          "en": "In the same way, a mendicant is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things."
+        },
+        {
+          "scid": "mn38:34.4",
+          "pli": "So iminā ariyena sīlakkhandhena samannāgato ajjhattaṃ anavajjasukhaṃ paṭisaṃvedeti.",
+          "en": "When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves."
+        },
+        {
+          "scid": "mn38:35.1",
+          "pli": "So cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī.",
+          "en": "When they see a sight with their eyes, they don’t get caught up in the features and details."
+        },
+        {
+          "scid": "mn38:35.2",
+          "pli": "Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati.",
+          "en": "If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint."
+        },
+        {
+          "scid": "mn38:35.3",
+          "pli": "Sotena saddaṃ sutvā … pe …",
+          "en": "When they hear a sound with their ears …"
+        },
+        {
+          "scid": "mn38:35.4",
+          "pli": "ghānena gandhaṃ ghāyitvā … pe …",
+          "en": "When they smell an odor with their nose …"
+        },
+        {
+          "scid": "mn38:35.5",
+          "pli": "jivhāya rasaṃ sāyitvā … pe …",
+          "en": "When they taste a flavor with their tongue …"
+        },
+        {
+          "scid": "mn38:35.6",
+          "pli": "kāyena phoṭṭhabbaṃ phusitvā … pe …",
+          "en": "When they feel a touch with their body …"
+        },
+        {
+          "scid": "mn38:35.7",
+          "pli": "manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī.",
+          "en": "When they know a thought with their mind, they don’t get caught up in the features and details."
+        },
+        {
+          "scid": "mn38:35.8",
+          "pli": "Yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjati, rakkhati manindriyaṃ manindriye saṃvaraṃ āpajjati.",
+          "en": "If the faculty of mind were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of mind, and achieving its restraint."
+        },
+        {
+          "scid": "mn38:35.9",
+          "pli": "So iminā ariyena indriyasaṃvarena samannāgato ajjhattaṃ abyāsekasukhaṃ paṭisaṃvedeti.",
+          "en": "When they have this noble sense restraint, they experience an unsullied bliss inside themselves."
+        },
+        {
+          "scid": "mn38:36.1",
+          "pli": "So abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.",
+          "en": "They act with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent."
+        },
+        {
+          "scid": "mn38:37.1",
+          "pli": "So iminā ca ariyena sīlakkhandhena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, iminā ca ariyena indriyasaṃvarena samannāgato, iminā ca ariyena satisampajaññena samannāgato, ",
+          "en": "When they have this noble spectrum of ethics, this noble sense restraint, and this noble mindfulness and situational awareness, "
+        },
+        {
+          "scid": "mn38:37.2",
+          "pli": "vivittaṃ senāsanaṃ bhajati—araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ.",
+          "en": "they frequent a secluded lodging—a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw."
+        },
+        {
+          "scid": "mn38:38.1",
+          "pli": "So pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya, parimukhaṃ satiṃ upaṭṭhapetvā.",
+          "en": "After the meal, they return from alms-round, sit down cross-legged with their body straight, and establish mindfulness right there."
+        },
+        {
+          "scid": "mn38:38.2",
+          "pli": "So abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṃ parisodheti;",
+          "en": "Giving up desire for the world, they meditate with a heart rid of desire, cleansing the mind of desire."
+        },
+        {
+          "scid": "mn38:38.3",
+          "pli": "byāpādapadosaṃ pahāya abyāpannacitto viharati, sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṃ parisodheti;",
+          "en": "Giving up ill will and malevolence, they meditate with a mind rid of ill will, full of compassion for all living beings, cleansing the mind of ill will."
+        },
+        {
+          "scid": "mn38:38.4",
+          "pli": "thinamiddhaṃ pahāya vigatathinamiddho viharati ālokasaññī, sato sampajāno, thinamiddhā cittaṃ parisodheti;",
+          "en": "Giving up dullness and drowsiness, they meditate with a mind rid of dullness and drowsiness, perceiving light, mindful and aware, cleansing the mind of dullness and drowsiness."
+        },
+        {
+          "scid": "mn38:38.5",
+          "pli": "uddhaccakukkuccaṃ pahāya anuddhato viharati ajjhattaṃ vūpasantacitto, uddhaccakukkuccā cittaṃ parisodheti;",
+          "en": "Giving up restlessness and remorse, they meditate without restlessness, their mind peaceful inside, cleansing the mind of restlessness and remorse."
+        },
+        {
+          "scid": "mn38:38.6",
+          "pli": "vicikicchaṃ pahāya tiṇṇavicikiccho viharati akathaṃkathī kusalesu dhammesu, vicikicchāya cittaṃ parisodheti.",
+          "en": "Giving up doubt, they meditate having gone beyond doubt, not undecided about skillful qualities, cleansing the mind of doubt."
+        },
+        {
+          "scid": "mn38:39.1",
+          "pli": "So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe, ",
+          "en": "They give up these five hindrances, corruptions of the heart that weaken wisdom. "
+        },
+        {
+          "scid": "mn38:39.2",
+          "pli": "vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn38:39.3",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ … pe …",
+          "en": "Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption …"
+        },
+        {
+          "scid": "mn38:39.4",
+          "pli": "tatiyaṃ jhānaṃ … pe …",
+          "en": "third absorption …"
+        },
+        {
+          "scid": "mn38:39.5",
+          "pli": "catutthaṃ jhānaṃ upasampajja viharati.",
+          "en": "fourth absorption."
+        },
+        {
+          "scid": "mn38:40.1",
+          "pli": "So cakkhunā rūpaṃ disvā piyarūpe rūpe na sārajjati, appiyarūpe rūpe na byāpajjati, upaṭṭhitakāyasati ca viharati appamāṇacetaso. ",
+          "en": "When they see a sight with their eyes, if it’s pleasant they don’t desire it, and if it’s unpleasant they don’t dislike it. They live with mindfulness of the body established and a limitless heart. "
+        },
+        {
+          "scid": "mn38:40.2",
+          "pli": "Tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ pajānāti yatthassa te pāpakā akusalā dhammā aparisesā nirujjhanti.",
+          "en": "And they truly understand the freedom of heart and freedom by wisdom where those arisen bad, unskillful qualities cease without anything left over."
+        },
+        {
+          "scid": "mn38:40.3",
+          "pli": "So evaṃ anurodhavirodhavippahīno yaṃ kiñci vedanaṃ vedeti, sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā, so taṃ vedanaṃ nābhinandati nābhivadati nājjhosāya tiṭṭhati.",
+          "en": "Having given up favoring and opposing, when they experience any kind of feeling—pleasant, unpleasant, or neutral—they don’t approve, welcome, or keep clinging to it."
+        },
+        {
+          "scid": "mn38:40.4",
+          "pli": "Tassa taṃ vedanaṃ anabhinandato anabhivadato anajjhosāya tiṭṭhato yā vedanāsu nandī sā nirujjhati.",
+          "en": "As a result, relishing of feelings ceases."
+        },
+        {
+          "scid": "mn38:40.5",
+          "pli": "Tassa nandīnirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti.",
+          "en": "When their relishing ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease."
+        },
+        {
+          "scid": "mn38:40.6",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+          "en": "That is how this entire mass of suffering ceases."
+        },
+        {
+          "scid": "mn38:41.1",
+          "pli": "Sotena saddaṃ sutvā … pe …",
+          "en": "When they hear a sound with their ears …"
+        },
+        {
+          "scid": "mn38:41.2",
+          "pli": "ghānena gandhaṃ ghāyitvā … pe …",
+          "en": "When they smell an odor with their nose …"
+        },
+        {
+          "scid": "mn38:41.3",
+          "pli": "jivhāya rasaṃ sāyitvā … pe …",
+          "en": "When they taste a flavor with their tongue …"
+        },
+        {
+          "scid": "mn38:41.4",
+          "pli": "kāyena phoṭṭhabbaṃ phusitvā … pe …",
+          "en": "When they feel a touch with their body …"
+        },
+        {
+          "scid": "mn38:41.5",
+          "pli": "manasā dhammaṃ viññāya piyarūpe dhamme na sārajjati, appiyarūpe dhamme na byāpajjati, upaṭṭhitakāyasati ca viharati appamāṇacetaso, ",
+          "en": "When they know a thought with their mind, if it’s pleasant they don’t desire it, and if it’s unpleasant they don’t dislike it. They live with mindfulness of the body established and a limitless heart. "
+        },
+        {
+          "scid": "mn38:41.6",
+          "pli": "tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ pajānāti yatthassa te pāpakā akusalā dhammā aparisesā nirujjhanti.",
+          "en": "And they truly understand the freedom of heart and freedom by wisdom where those arisen bad, unskillful qualities cease without anything left over."
+        },
+        {
+          "scid": "mn38:41.7",
+          "pli": "So evaṃ anurodhavirodhavippahīno yaṃ kiñci vedanaṃ vedeti, sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā, so taṃ vedanaṃ nābhinandati nābhivadati nājjhosāya tiṭṭhati.",
+          "en": "Having given up favoring and opposing, when they experience any kind of feeling—pleasant, unpleasant, or neutral—they don’t approve, welcome, or keep clinging to it."
+        },
+        {
+          "scid": "mn38:41.8",
+          "pli": "Tassa taṃ vedanaṃ anabhinandato anabhivadato anajjhosāya tiṭṭhato yā vedanāsu nandī sā nirujjhati.",
+          "en": "As a result, relishing of feelings ceases."
+        },
+        {
+          "scid": "mn38:41.9",
+          "pli": "Tassa nandīnirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti.",
+          "en": "When their relishing ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease."
+        },
+        {
+          "scid": "mn38:41.10",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+          "en": "That is how this entire mass of suffering ceases."
+        },
+        {
+          "scid": "mn38:41.11",
+          "pli": "Imaṃ kho me tumhe, bhikkhave, saṅkhittena taṇhāsaṅkhayavimuttiṃ dhāretha, sātiṃ pana bhikkhuṃ kevaṭṭaputtaṃ mahātaṇhājālataṇhāsaṅghāṭappaṭimukkan”ti.",
+          "en": "Mendicants, you should memorize that brief statement on freedom through the ending of craving. But the mendicant Sāti, the fisherman’s son, is caught in a vast net of craving, a tangle of craving.”"
+        },
+        {
+          "scid": "mn38:41.12",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn38:41.13",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn38:41.14",
+          "pli": "Mahātaṇhāsaṅkhayasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn38/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 38",
+    "volpages": "MN i 256",
+    "uid": "mn38",
+    "blurb": "To counter the wrong view that a self-identical consciousness transmigrates from one life to the next, the Buddha teaches dependent origination, showing that consciousness invariably arises dependent on conditions.",
+    "difficulty": 3,
+    "original_title": "Mahātaṇhāsaṅkhaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Longer Discourse on the Ending of Craving",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn38_sujato",
+        "segmented": true,
+        "title": "The Longer Discourse on the Ending of Craving"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn38_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Greater Discourse on the Destruction of Craving"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn38_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Greater Discourse on the Destruction of Craving"
+      }
+    ],
+    "parallel_count": 63,
+    "biblio": null,
+    "num": 8
+  }
+}

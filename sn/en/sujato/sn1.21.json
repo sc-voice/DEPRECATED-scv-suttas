@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.21",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.21",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Sword",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Impact",
+      "uid": "sn1.22"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Samiddhi",
+      "uid": "sn1.20"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.21:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.21:0.2",
+          "pli": "3. Sattivagga",
+          "en": "3. A Sword"
+        },
+        {
+          "scid": "sn1.21:0.3",
+          "pli": "21. Sattisutta",
+          "en": "21. A Sword"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.21:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn1.21:1.2",
+          "pli": "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn1.21:2.1",
+          "pli": "“Sattiyā viya omaṭṭho,",
+          "en": "“Like they’re struck by a sword,"
+        },
+        {
+          "scid": "sn1.21:2.2",
+          "pli": "ḍayhamānova matthake;",
+          "en": "like their head were on fire,"
+        },
+        {
+          "scid": "sn1.21:2.3",
+          "pli": "Kāmarāgappahānāya,",
+          "en": "a mendicant should go forth mindfully,"
+        },
+        {
+          "scid": "sn1.21:2.4",
+          "pli": "sato bhikkhu paribbaje”ti.",
+          "en": "to give up sensual desire.”"
+        },
+        {
+          "scid": "sn1.21:3.1",
+          "pli": "“Sattiyā viya omaṭṭho,",
+          "en": "“Like they’re struck by a sword,"
+        },
+        {
+          "scid": "sn1.21:3.2",
+          "pli": "ḍayhamānova matthake;",
+          "en": "like their head were on fire,"
+        },
+        {
+          "scid": "sn1.21:3.3",
+          "pli": "Sakkāyadiṭṭhippahānāya,",
+          "en": "a mendicant should go forth mindfully,"
+        },
+        {
+          "scid": "sn1.21:3.4",
+          "pli": "sato bhikkhu paribbaje”ti.",
+          "en": "to give up identity view.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.21/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.21//SN 21",
+    "volpages": "SN i 13//SN i 27",
+    "uid": "sn1.21",
+    "blurb": "A mendicant should live as if their head was on fire.",
+    "difficulty": null,
+    "original_title": "Satti Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Sword",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.21_sujato",
+        "segmented": true,
+        "title": "A Sword"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.21_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Sword"
+      }
+    ],
+    "parallel_count": 9,
+    "biblio": null,
+    "num": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn54.19",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn54.19",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Completely Understanding the Course of Time",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ending of Defilements",
+      "uid": "sn54.20"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uprooting the Tendencies",
+      "uid": "sn54.18"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn54.19:0.1",
+          "pli": "Saṃyutta Nikāya 54",
+          "en": "Linked Discourses 54"
+        },
+        {
+          "scid": "sn54.19:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn54.19:0.3",
+          "pli": "19. Addhānapariññāsutta",
+          "en": "19. Completely Understanding the Course of Time"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 54…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn54.19:1.1",
+          "pli": "“… Addhānapariññāya saṃvattati ….",
+          "en": "“Mendicants, when immersion due to mindfulness of breathing is developed and cultivated it leads to completely understanding the course of time …”"
+        },
+        {
+          "scid": "sn54.19:1.2",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn54.19/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 54.19",
+    "volpages": "SN v 340",
+    "uid": "sn54.19",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Addhānapariññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Completely Understanding the Course of Time",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn54.19_sujato",
+        "segmented": true,
+        "title": "Completely Understanding the Course of Time"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

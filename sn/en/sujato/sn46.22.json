@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn46.22",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.22",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Teaching on the Awakening Factors",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Grounds",
+      "uid": "sn46.23"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "To Awakening",
+      "uid": "sn46.21"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.22:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.22:0.2",
+          "pli": "3. Udāyivagga",
+          "en": "3. With Udāyī"
+        },
+        {
+          "scid": "sn46.22:0.3",
+          "pli": "22. Bojjhaṅgadesanāsutta",
+          "en": "22. A Teaching on the Awakening Factors"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.22:1.1",
+          "pli": "“Satta vo, bhikkhave, bojjhaṅge desessāmi;",
+          "en": "“Mendicants, I will teach you the seven awakening factors."
+        },
+        {
+          "scid": "sn46.22:1.2",
+          "pli": "taṃ suṇātha.",
+          "en": "Listen …"
+        },
+        {
+          "scid": "sn46.22:1.3",
+          "pli": "Katame ca, bhikkhave, satta bojjhaṅgā?",
+          "en": "And what are the seven awakening factors?"
+        },
+        {
+          "scid": "sn46.22:1.4",
+          "pli": "Satisambojjhaṅgo … pe … upekkhāsambojjhaṅgo—",
+          "en": "The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity."
+        },
+        {
+          "scid": "sn46.22:1.5",
+          "pli": "ime kho, bhikkhave, satta bojjhaṅgā”ti.",
+          "en": "These are the seven awakening factors.”"
+        },
+        {
+          "scid": "sn46.22:1.6",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.22/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.22",
+    "volpages": "SN v 83",
+    "uid": "sn46.22",
+    "blurb": "A simple statement on the awakening factors.",
+    "difficulty": null,
+    "original_title": "Bojjhaṅgadesanā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Teaching on the Awakening Factors",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.22_sujato",
+        "segmented": true,
+        "title": "A Teaching on the Awakening Factors"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn46.22_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Teaching"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

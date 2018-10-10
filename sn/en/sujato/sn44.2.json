@@ -1,0 +1,595 @@
+{
+  "sutta_uid": "sn44.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn44.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Anurādha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sāriputta and Koṭṭhita (1st)",
+      "uid": "sn44.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Khemā",
+      "uid": "sn44.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn44.2:0.1",
+          "pli": "Saṃyutta Nikāya 44",
+          "en": "Linked Discourses 44"
+        },
+        {
+          "scid": "sn44.2:0.2",
+          "pli": "1. Abyākatavagga",
+          "en": "1. The Undeclared Points"
+        },
+        {
+          "scid": "sn44.2:0.3",
+          "pli": "2. Anurādhasutta",
+          "en": "2. With Anurādha"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 44…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn44.2:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ.",
+          "en": "At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof."
+        },
+        {
+          "scid": "sn44.2:1.2",
+          "pli": "Tena kho pana samayena āyasmā anurādho bhagavato avidūre araññakuṭikāyaṃ viharati.",
+          "en": "Now at that time Venerable Anurādha was staying not far from the Buddha in a wilderness hut."
+        },
+        {
+          "scid": "sn44.2:1.3",
+          "pli": "Atha kho sambahulā aññatitthiyā paribbājakā yenāyasmā anurādho tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā anurādhena saddhiṃ sammodiṃsu.",
+          "en": "Then several wanderers who follow other paths went up to Venerable Anurādha and exchanged greetings with him."
+        },
+        {
+          "scid": "sn44.2:1.4",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te aññatitthiyā paribbājakā āyasmantaṃ anurādhaṃ etadavocuṃ:",
+          "en": "When the greetings and polite conversation were over, they sat down to one side and said to him:"
+        },
+        {
+          "scid": "sn44.2:1.5",
+          "pli": "“yo so, āvuso anurādha, tathāgato uttamapuriso paramapuriso paramapattipatto, taṃ tathāgato imesu catūsu ṭhānesu paññāpayamāno paññāpeti:",
+          "en": "“Reverend Anurādha, when a Realized One is describing a Realized One—a supreme person, highest of people, who has reached the highest point—they describe them in these four ways:"
+        },
+        {
+          "scid": "sn44.2:1.6",
+          "pli": "‘hoti tathāgato paraṃ maraṇā’ti vā, ‘na hoti tathāgato paraṃ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti vā”ti?",
+          "en": "After death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist.”"
+        },
+        {
+          "scid": "sn44.2:1.7",
+          "pli": "“Yo so, āvuso, tathāgato uttamapuriso paramapuriso paramapattipatto, taṃ tathāgato aññatra imehi catūhi ṭhānehi paññāpayamāno paññāpeti:",
+          "en": "“Reverends, when a Realized One is describing a Realized One—a supreme person, highest of people, who has reached the highest point—they describe them other than these four ways:"
+        },
+        {
+          "scid": "sn44.2:1.8",
+          "pli": "‘hoti tathāgato paraṃ maraṇā’ti vā, ‘na hoti tathāgato paraṃ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’ti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vā”ti.",
+          "en": "After death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist.”"
+        },
+        {
+          "scid": "sn44.2:1.9",
+          "pli": "Evaṃ vutte, te aññatitthiyā paribbājakā āyasmantaṃ anurādhaṃ etadavocuṃ:",
+          "en": "When he said this, the wanderers said to him:"
+        },
+        {
+          "scid": "sn44.2:1.10",
+          "pli": "“so cāyaṃ bhikkhu navo bhavissati acirapabbajito, thero vā pana bālo abyatto”ti.",
+          "en": "“This mendicant must be junior, recently gone forth, or else a foolish, incompetent senior mendicant.”"
+        },
+        {
+          "scid": "sn44.2:1.11",
+          "pli": "Atha kho te aññatitthiyā paribbājakā āyasmantaṃ anurādhaṃ navavādena ca bālavādena ca apasādetvā uṭṭhāyāsanā pakkamiṃsu.",
+          "en": "Then, after rebuking Venerable Anurādha by calling him “junior” and “foolish”, the wanderers got up from their seat and left."
+        },
+        {
+          "scid": "sn44.2:2.1",
+          "pli": "Atha kho āyasmato anurādhassa acirapakkantesu aññatitthiyesu paribbājakesu etadahosi:",
+          "en": "Soon after they had left, Anurādha thought:"
+        },
+        {
+          "scid": "sn44.2:2.2",
+          "pli": "“sace kho maṃ te aññatitthiyā paribbājakā uttariṃ puccheyyuṃ, ",
+          "en": "“If those wanderers were to inquire further, "
+        },
+        {
+          "scid": "sn44.2:2.3",
+          "pli": "kathaṃ byākaramāno nu khvāhaṃ tesaṃ aññatitthiyānaṃ paribbājakānaṃ vuttavādī ceva bhagavato assaṃ, na ca bhagavantaṃ abhūtena abbhācikkheyyaṃ, dhammassa cānudhammaṃ byākareyyaṃ, na ca koci sahadhammiko vādānuvādo gārayhaṃ ṭhānaṃ āgaccheyyā”ti?",
+          "en": "how should I answer them so as to repeat what the Buddha has said, and not misrepresent him with an untruth? How should I explain in line with his teaching, so that there would be no legitimate grounds for rebuke and criticism?”"
+        },
+        {
+          "scid": "sn44.2:2.4",
+          "pli": "Atha kho āyasmā anurādho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā anurādho bhagavantaṃ etadavoca:",
+          "en": "Then Venerable Anurādha went up to the Buddha, bowed, sat down to one side, and told him what had happened."
+        },
+        {
+          "scid": "sn44.2:2.5",
+          "pli": "“idhāhaṃ, bhante, bhagavato avidūre araññakuṭikāyaṃ viharāmi.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.6",
+          "pli": "Atha kho, bhante, sambahulā aññatitthiyā paribbājakā yenāhaṃ tenupasaṅkamiṃsu; upasaṅkamitvā mayā saddhiṃ sammodiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.7",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho, bhante, te aññatitthiyā paribbājakā maṃ etadavocuṃ:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.8",
+          "pli": "‘yo so, āvuso anurādha, tathāgato uttamapuriso paramapuriso paramapattipatto, taṃ tathāgato imesu catūsu ṭhānesu paññāpayamāno paññāpeti:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.9",
+          "pli": "“hoti tathāgato paraṃ maraṇā”ti vā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.10",
+          "pli": "“neva hoti na na hoti tathāgato paraṃ maraṇā”ti vā’ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.11",
+          "pli": "Evaṃ vuttāhaṃ, bhante, te aññatitthiye paribbājake etadavocaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.12",
+          "pli": "‘yo so, āvuso, tathāgato uttamapuriso paramapuriso paramapattipatto, taṃ tathāgato aññatra imehi catūhi ṭhānehi paññāpayamāno paññāpeti:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.13",
+          "pli": "“hoti tathāgato paraṃ maraṇā”ti vā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.14",
+          "pli": "“neva hoti na na hoti tathāgato paraṃ maraṇā”ti vā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.15",
+          "pli": "Evaṃ vutte, bhante, te aññatitthiyā paribbājakā maṃ etadavocuṃ:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.16",
+          "pli": "‘so cāyaṃ bhikkhu navo bhavissati acirapabbajito thero vā pana bālo abyatto’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.17",
+          "pli": "Atha kho maṃ, bhante, te aññatitthiyā paribbājakā navavādena ca bālavādena ca apasādetvā uṭṭhāyāsanā pakkamiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.18",
+          "pli": "Tassa mayhaṃ, bhante, acirapakkantesu tesu aññatitthiyesu paribbājakesu etadahosi:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:2.19",
+          "pli": "‘sace kho maṃ te aññatitthiyā paribbājakā uttariṃ puccheyyuṃ, kathaṃ byākaramāno nu khvāhaṃ tesaṃ aññatitthiyānaṃ paribbājakānaṃ vuttavādī ceva bhagavato assaṃ, na ca bhagavantaṃ abhūtena abbhācikkheyyaṃ, dhammassa cānudhammaṃ byākareyyaṃ, na ca koci sahadhammiko vādānuvādo gārayhaṃ ṭhānaṃ āgaccheyyā’”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:3.1",
+          "pli": "“Taṃ kiṃ maññasi, anurādha, ",
+          "en": "“What do you think, Anurādha? "
+        },
+        {
+          "scid": "sn44.2:3.2",
+          "pli": "rūpaṃ niccaṃ vā aniccaṃ vā”ti?",
+          "en": "Is form permanent or impermanent?”"
+        },
+        {
+          "scid": "sn44.2:4.1",
+          "pli": "“Aniccaṃ, bhante”.",
+          "en": "“Impermanent, sir.”"
+        },
+        {
+          "scid": "sn44.2:5.1",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?",
+          "en": "“But if it’s impermanent, is it suffering or happiness?”"
+        },
+        {
+          "scid": "sn44.2:6.1",
+          "pli": "“Dukkhaṃ, bhante”.",
+          "en": "“Suffering, sir.”"
+        },
+        {
+          "scid": "sn44.2:7.1",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:",
+          "en": "“But if it’s impermanent, suffering, and liable to fall apart, is it fit to be regarded thus:"
+        },
+        {
+          "scid": "sn44.2:7.2",
+          "pli": "‘etaṃ mama, esohamasmi, eso me attā’”ti?",
+          "en": "‘This is mine, I am this, this is my self’?”"
+        },
+        {
+          "scid": "sn44.2:8.1",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:9.1",
+          "pli": "“Vedanā niccā vā aniccā vā”ti?",
+          "en": "“Is feeling …"
+        },
+        {
+          "scid": "sn44.2:9.2",
+          "pli": "… pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:9.3",
+          "pli": "Saññā … pe …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn44.2:9.4",
+          "pli": "saṅkhārā … pe …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn44.2:9.5",
+          "pli": "“viññāṇaṃ niccaṃ vā aniccaṃ vā”ti?",
+          "en": "consciousness permanent or impermanent?”"
+        },
+        {
+          "scid": "sn44.2:10.1",
+          "pli": "“Aniccaṃ, bhante”.",
+          "en": "“Impermanent, sir.”"
+        },
+        {
+          "scid": "sn44.2:11.1",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?",
+          "en": "“But if it’s impermanent, is it suffering or happiness?”"
+        },
+        {
+          "scid": "sn44.2:12.1",
+          "pli": "“Dukkhaṃ, bhante”.",
+          "en": "“Suffering, sir.”"
+        },
+        {
+          "scid": "sn44.2:13.1",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:",
+          "en": "“But if it’s impermanent, suffering, and liable to fall apart, is it fit to be regarded thus:"
+        },
+        {
+          "scid": "sn44.2:13.2",
+          "pli": "‘etaṃ mama, esohamasmi, eso me attā’”ti?",
+          "en": "‘This is mine, I am this, this is my self’?”"
+        },
+        {
+          "scid": "sn44.2:14.1",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:15.1",
+          "pli": "“Tasmātiha, anurādha, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "“So, Anurādha, you should truly see any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "sn44.2:15.2",
+          "pli": "Yā kāci vedanā atītānāgatapaccuppannā … pe …",
+          "en": "Any kind of feeling …"
+        },
+        {
+          "scid": "sn44.2:15.3",
+          "pli": "yā kāci saññā … pe …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn44.2:15.4",
+          "pli": "ye keci saṅkhārā … pe …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn44.2:15.5",
+          "pli": "yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ viññāṇaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "consciousness at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "sn44.2:15.6",
+          "pli": "Evaṃ passaṃ, anurādha, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati.",
+          "en": "Seeing this, a learned noble disciple becomes disillusioned with form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "sn44.2:15.7",
+          "pli": "Nibbindaṃ virajjati; virāgā vimuccati; vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.",
+          "en": "Being disillusioned, they become dispassionate. Being dispassionate they’re freed. When freed, they know ‘it is freed’."
+        },
+        {
+          "scid": "sn44.2:15.8",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’"
+        },
+        {
+          "scid": "sn44.2:16.1",
+          "pli": "Taṃ kiṃ maññasi, anurādha, ",
+          "en": "What do you think, Anurādha? "
+        },
+        {
+          "scid": "sn44.2:16.2",
+          "pli": "rūpaṃ tathāgatoti samanupassasī”ti?",
+          "en": "Do you regard the Realized One as form?”"
+        },
+        {
+          "scid": "sn44.2:16.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:16.4",
+          "pli": "“Vedanaṃ tathāgatoti samanupassasī”ti?",
+          "en": "“Do you regard the Realized One as feeling …"
+        },
+        {
+          "scid": "sn44.2:16.5",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:16.6",
+          "pli": "“Saññaṃ tathāgatoti samanupassasī”ti?",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn44.2:16.7",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:16.8",
+          "pli": "“Saṅkhāre tathāgatoti samanupassasī”ti?",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn44.2:16.9",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:16.10",
+          "pli": "“Viññāṇaṃ tathāgatoti samanupassasī”ti?",
+          "en": "consciousness?”"
+        },
+        {
+          "scid": "sn44.2:16.11",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:16.12",
+          "pli": "“Taṃ kiṃ maññasi, anurādha, ",
+          "en": "“What do you think, Anurādha? "
+        },
+        {
+          "scid": "sn44.2:16.13",
+          "pli": "rūpasmiṃ tathāgatoti samanupassasī”ti?",
+          "en": "Do you regard the Realized One as in form?”"
+        },
+        {
+          "scid": "sn44.2:16.14",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:16.15",
+          "pli": "“Aññatra rūpā tathāgatoti samanupassasī”ti?",
+          "en": "“Or do you regard the Realized One as distinct from form?”"
+        },
+        {
+          "scid": "sn44.2:16.16",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:16.17",
+          "pli": "“Vedanāya … pe …",
+          "en": "“Do you regard the Realized One as in feeling …"
+        },
+        {
+          "scid": "sn44.2:16.18",
+          "pli": "aññatra vedanāya … pe …",
+          "en": "or distinct from feeling …"
+        },
+        {
+          "scid": "sn44.2:16.19",
+          "pli": "saññāya … pe …",
+          "en": "as in perception …"
+        },
+        {
+          "scid": "sn44.2:16.20",
+          "pli": "aññatra saññāya … pe …",
+          "en": "or distinct from perception …"
+        },
+        {
+          "scid": "sn44.2:16.21",
+          "pli": "saṅkhāresu … pe …",
+          "en": "as in choices …"
+        },
+        {
+          "scid": "sn44.2:16.22",
+          "pli": "aññatra saṅkhārehi … pe …",
+          "en": "or distinct from choices …"
+        },
+        {
+          "scid": "sn44.2:16.23",
+          "pli": "viññāṇasmiṃ tathāgatoti samanupassasī”ti?",
+          "en": "as in consciousness …"
+        },
+        {
+          "scid": "sn44.2:16.24",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:16.25",
+          "pli": "“Aññatra viññāṇā tathāgatoti samanupassasī”ti?",
+          "en": "or as distinct from consciousness?”"
+        },
+        {
+          "scid": "sn44.2:16.26",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:17.1",
+          "pli": "“Taṃ kiṃ maññasi, anurādha, ",
+          "en": "“What do you think, Anurādha? "
+        },
+        {
+          "scid": "sn44.2:17.2",
+          "pli": "rūpaṃ, vedanaṃ, saññaṃ, saṅkhāre, viññāṇaṃ tathāgatoti samanupassasī”ti?",
+          "en": "Do you regard the Realized One as possessing form, feeling, perception, choices, and consciousness?”"
+        },
+        {
+          "scid": "sn44.2:17.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:17.4",
+          "pli": "“Taṃ kiṃ maññasi, anurādha, ",
+          "en": "“What do you think, Anurādha? "
+        },
+        {
+          "scid": "sn44.2:17.5",
+          "pli": "ayaṃ so arūpī avedano asaññī asaṅkhāro aviññāṇo tathāgatoti samanupassasī”ti?",
+          "en": "Do you regard the Realized One as one who is without form, feeling, perception, choices, and consciousness?”"
+        },
+        {
+          "scid": "sn44.2:17.6",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:17.7",
+          "pli": "“Ettha ca te, anurādha, diṭṭheva dhamme saccato thetato tathāgate anupalabbhiyamāne kallaṃ nu te taṃ veyyākaraṇaṃ—",
+          "en": "“In that case, Anurādha, since you don’t acknowledge the Realized One as a genuine fact in the present life, is it appropriate to declare:"
+        },
+        {
+          "scid": "sn44.2:17.8",
+          "pli": "yo so, āvuso, tathāgato uttamapuriso paramapuriso paramapattipatto, taṃ tathāgato aññatra imehi catūhi ṭhānehi paññāpayamāno paññāpeti:",
+          "en": "‘Reverends, when a Realized One is describing a Realized One—a supreme person, highest of people, who has reached the highest point—they describe them other than these four ways:"
+        },
+        {
+          "scid": "sn44.2:17.9",
+          "pli": "‘hoti tathāgato paraṃ maraṇā’ti vā … pe …",
+          "en": "After death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist’?”"
+        },
+        {
+          "scid": "sn44.2:17.10",
+          "pli": "‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti vā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.2:17.11",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn44.2:17.12",
+          "pli": "“Sādhu sādhu, anurādha.",
+          "en": "“Good, good, Anurādha!"
+        },
+        {
+          "scid": "sn44.2:17.13",
+          "pli": "Pubbe cāhaṃ, anurādha, etarahi ca dukkhañceva paññāpemi dukkhassa ca nirodhan”ti.",
+          "en": "In the past, as today, what I describe is suffering and the cessation of suffering.”"
+        },
+        {
+          "scid": "sn44.2:17.14",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn44.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 44.2",
+    "volpages": "SN iv 380",
+    "uid": "sn44.2",
+    "blurb": "Venerable Anurādha is questioned by a number of ascetics, and ends up by saying that the Realized One is described in terms other than “existing after death” and so on. The wanderers say he’s a fool, so he checks with the Buddha, who says that a Realized One is not even apprehended in this life, so how can he be described after death?",
+    "difficulty": null,
+    "original_title": "Anurādha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Anurādha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn44.2_sujato",
+        "segmented": true,
+        "title": "With Anurādha"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn44.2_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Anuradha"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 2
+  }
+}

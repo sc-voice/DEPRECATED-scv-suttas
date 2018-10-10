@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an3.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Realm of the Gods",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Shopkeeper (1st)",
+      "uid": "an3.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hurting Yourself",
+      "uid": "an3.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.18:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.18:0.2",
+          "pli": "2. Rathakāravagga",
+          "en": "2. The Chariotmaker"
+        },
+        {
+          "scid": "an3.18:0.3",
+          "pli": "18. Devalokasutta",
+          "en": "18. The Realm of the Gods"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.18:1.1",
+          "pli": "“Sace vo, bhikkhave, aññatitthiyā paribbājakā evaṃ puccheyyuṃ:",
+          "en": "“Mendicants, if wanderers who follow another path were to ask you:"
+        },
+        {
+          "scid": "an3.18:1.2",
+          "pli": "‘devalokūpapattiyā, āvuso, samaṇe gotame brahmacariyaṃ vussathā’ti?",
+          "en": "‘Reverend, do you live the spiritual life with the ascetic Gotama so that you can be reborn in the realm of the gods?’"
+        },
+        {
+          "scid": "an3.18:1.3",
+          "pli": "Nanu tumhe, bhikkhave, evaṃ puṭṭhā aṭṭīyeyyātha harāyeyyātha jiguccheyyāthā”ti?",
+          "en": "Being questioned like this, wouldn’t you be horrified, repelled, and disgusted?”"
+        },
+        {
+          "scid": "an3.18:1.4",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "an3.18:1.5",
+          "pli": "“Iti kira tumhe, bhikkhave, dibbena āyunā aṭṭīyatha harāyatha jigucchatha, dibbena vaṇṇena dibbena sukhena dibbena yasena dibbenādhipateyyena aṭṭīyatha harāyatha jigucchatha;",
+          "en": "“So it seems that you are horrified, repelled, and disgusted by divine lifespan, beauty, happiness, fame, and power."
+        },
+        {
+          "scid": "an3.18:1.6",
+          "pli": "pageva kho pana, bhikkhave, tumhehi kāyaduccaritena aṭṭīyitabbaṃ harāyitabbaṃ jigucchitabbaṃ, vacīduccaritena … manoduccaritena aṭṭīyitabbaṃ harāyitabbaṃ jigucchitabban”ti.",
+          "en": "How much more then should you be horrified, embarrassed, and disgusted by bad conduct by way of body, speech, and mind.”"
+        },
+        {
+          "scid": "an3.18:1.7",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.18",
+    "volpages": "AN i 115",
+    "uid": "an3.18",
+    "blurb": "Spiritual practice isn’t for rebirth in heaven.",
+    "difficulty": null,
+    "original_title": "Devaloka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Realm of the Gods",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.18_sujato",
+        "segmented": true,
+        "title": "The Realm of the Gods"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.18_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Deva"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

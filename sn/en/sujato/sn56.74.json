@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn56.74",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.74",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Lying",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Divisive Speech",
+      "uid": "sn56.75"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sexual Misconduct",
+      "uid": "sn56.73"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.74:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.74:0.2",
+          "pli": "8. Dutiyaāmakadhaññapeyyālavagga",
+          "en": "8. Abbreviated Texts on Raw Grain"
+        },
+        {
+          "scid": "sn56.74:0.3",
+          "pli": "74. Musāvādasutta",
+          "en": "74. Lying"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.74:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye musāvādā paṭiviratā; atha kho eteva bahutarā sattā ye musāvādā appaṭiviratā … pe ….",
+          "en": "“… the sentient beings who refrain from lying are few, while those who don’t refrain are many. …”"
+        },
+        {
+          "scid": "sn56.74:1.2",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who refrain from…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.74/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.74",
+    "volpages": "SN v 469",
+    "uid": "sn56.74",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Musāvāda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Lying",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.74_sujato",
+        "segmented": true,
+        "title": "Lying"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 4
+  }
+}

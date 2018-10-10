@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn27.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn27.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Eye",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sights",
+      "uid": "sn27.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Aggregates",
+      "uid": "sn26.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn27.1:0.1",
+          "pli": "Saṃyutta Nikāya 27",
+          "en": "Linked Discourses 27"
+        },
+        {
+          "scid": "sn27.1:0.2",
+          "pli": "1. Kilesavagga",
+          "en": "1. Corruptions"
+        },
+        {
+          "scid": "sn27.1:0.3",
+          "pli": "1. Cakkhusutta",
+          "en": "1. The Eye"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 27…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn27.1:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn27.1:1.2",
+          "pli": "“Yo, bhikkhave, cakkhusmiṃ chandarāgo, cittasseso upakkileso.",
+          "en": "“Mendicants, desire and greed for the eye,"
+        },
+        {
+          "scid": "sn27.1:1.3",
+          "pli": "Yo sotasmiṃ chandarāgo, cittasseso upakkileso.",
+          "en": "ear,"
+        },
+        {
+          "scid": "sn27.1:1.4",
+          "pli": "Yo ghānasmiṃ chandarāgo, cittasseso upakkileso.",
+          "en": "nose,"
+        },
+        {
+          "scid": "sn27.1:1.5",
+          "pli": "Yo jivhāya chandarāgo, cittasseso upakkileso.",
+          "en": "tongue,"
+        },
+        {
+          "scid": "sn27.1:1.6",
+          "pli": "Yo kāyasmiṃ chandarāgo, cittasseso upakkileso.",
+          "en": "body,"
+        },
+        {
+          "scid": "sn27.1:1.7",
+          "pli": "Yo manasmiṃ chandarāgo, cittasseso upakkileso.",
+          "en": "or mind is a corruption of the mind."
+        },
+        {
+          "scid": "sn27.1:1.8",
+          "pli": "Yato kho, bhikkhave, bhikkhuno imesu chasu ṭhānesu cetaso upakkileso pahīno hoti, nekkhammaninnañcassa cittaṃ hoti.",
+          "en": "When a mendicant has given up mental corruption in these six cases, their mind inclines to renunciation."
+        },
+        {
+          "scid": "sn27.1:1.9",
+          "pli": "Nekkhammaparibhāvitaṃ cittaṃ kammaniyaṃ khāyati, abhiññā sacchikaraṇīyesu dhammesū”ti.",
+          "en": "A mind imbued with renunciation is declared to be capable of directly knowing anything that can be realized.”"
+        },
+        {
+          "scid": "sn27.1:1.10",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn27.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 27.1",
+    "volpages": "SN iii 232",
+    "uid": "sn27.1",
+    "blurb": "Desire for six interior sense fields is a corruption of the mind, and letting go such desire one is able to realize the various kinds of direct knowledge.",
+    "difficulty": null,
+    "original_title": "Cakkhu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Eye",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn27.1_sujato",
+        "segmented": true,
+        "title": "The Eye"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

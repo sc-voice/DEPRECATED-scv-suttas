@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an4.84",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.84",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Valuing Anger",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "From Darkness to Darkness",
+      "uid": "an4.85"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Where Criticism Takes You",
+      "uid": "an4.83"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.84:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.84:0.2",
+          "pli": "9. Macalavagga",
+          "en": "9. Confirmed"
+        },
+        {
+          "scid": "an4.84:0.3",
+          "pli": "84. Kodhagarusutta",
+          "en": "84. Valuing Anger"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.84:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "“Mendicants, someone with four qualities is cast down to hell."
+        },
+        {
+          "scid": "an4.84:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.84:1.3",
+          "pli": "Kodhagaru hoti na saddhammagaru, makkhagaru hoti na saddhammagaru, lābhagaru hoti na saddhammagaru, sakkāragaru hoti na saddhammagaru—",
+          "en": "They value anger, or denigration, or material possessions, or honor rather than the true teaching."
+        },
+        {
+          "scid": "an4.84:1.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "Someone with these four qualities is cast down to hell."
+        },
+        {
+          "scid": "an4.84:2.1",
+          "pli": "Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge.",
+          "en": "Someone with four qualities is raised up to heaven."
+        },
+        {
+          "scid": "an4.84:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.84:2.3",
+          "pli": "Saddhammagaru hoti na kodhagaru, saddhammagaru hoti na makkhagaru, saddhammagaru hoti na lābhagaru, saddhammagaru hoti na sakkāragaru—",
+          "en": "They value the true teaching rather than anger, or denigration, or material possessions, or honor."
+        },
+        {
+          "scid": "an4.84:2.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge”ti.",
+          "en": "Someone with these four qualities is raised up to heaven.”"
+        },
+        {
+          "scid": "an4.84:2.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.84/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.84",
+    "volpages": "AN ii 84",
+    "uid": "an4.84",
+    "blurb": "Valuing defilements above the Dharma leads to hell.",
+    "difficulty": null,
+    "original_title": "Kodhagaru Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Valuing Anger",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.84_sujato",
+        "segmented": true,
+        "title": "Valuing Anger"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

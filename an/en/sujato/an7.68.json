@@ -1,0 +1,605 @@
+{
+  "sutta_uid": "an7.68",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.68",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "One Who Knows the Teachings",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Shady Orchid Tree",
+      "uid": "an7.69"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Simile of the Citadel",
+      "uid": "an7.67"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.68:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.68:0.2",
+          "pli": "7. Mahāvagga",
+          "en": "7. The Great Chapter"
+        },
+        {
+          "scid": "an7.68:0.3",
+          "pli": "68. Dhammaññūsutta",
+          "en": "68. One Who Knows the Teachings"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.68:1.1",
+          "pli": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti … pe … anuttaraṃ puññakkhettaṃ lokassa.",
+          "en": "“A mendicant with seven qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is a supreme field of merit for the world."
+        },
+        {
+          "scid": "an7.68:1.2",
+          "pli": "Katamehi sattahi?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.68:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu dhammaññū ca hoti atthaññū ca attaññū ca mattaññū ca kālaññū ca parisaññū ca puggalaparoparaññū ca.",
+          "en": "It’s when a mendicant knows the teachings, knows the meaning, has self-knowledge, knows moderation, knows the right time, knows assemblies, and knows people high and low."
+        },
+        {
+          "scid": "an7.68:2.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu dhammaññū hoti?",
+          "en": "And how is a mendicant one who knows the teachings?"
+        },
+        {
+          "scid": "an7.68:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu dhammaṃ jānāti—",
+          "en": "It’s when a mendicant knows the teachings:"
+        },
+        {
+          "scid": "an7.68:2.3",
+          "pli": "suttaṃ geyyaṃ veyyākaraṇaṃ gāthaṃ udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ.",
+          "en": "statements, songs, discussions, verses, inspired sayings, legends, stories of past lives, amazing stories, and analyses."
+        },
+        {
+          "scid": "an7.68:2.4",
+          "pli": "No ce, bhikkhave, bhikkhu dhammaṃ jāneyya—",
+          "en": "If a mendicant did not know these teachings,"
+        },
+        {
+          "scid": "an7.68:2.5",
+          "pli": "suttaṃ geyyaṃ … pe … abbhutadhammaṃ vedallaṃ, nayidha ‘dhammaññū’ti vucceyya.",
+          "en": "they would not be called ‘one who knows the teachings’."
+        },
+        {
+          "scid": "an7.68:2.6",
+          "pli": "Yasmā ca kho, bhikkhave, bhikkhu dhammaṃ jānāti—",
+          "en": "But because they do know these teachings,"
+        },
+        {
+          "scid": "an7.68:2.7",
+          "pli": "suttaṃ geyyaṃ … pe … abbhutadhammaṃ vedallaṃ, tasmā ‘dhammaññū’ti vuccati.",
+          "en": "they are called ‘one who knows the teachings’."
+        },
+        {
+          "scid": "an7.68:2.8",
+          "pli": "Iti dhammaññū. (1)",
+          "en": "Such is the one who knows the teachings."
+        },
+        {
+          "scid": "an7.68:3.1",
+          "pli": "Atthaññū ca kathaṃ hoti?",
+          "en": "And how are they one who knows the meaning?"
+        },
+        {
+          "scid": "an7.68:3.2",
+          "pli": "Idha, bhikkhave, bhikkhu tassa tasseva bhāsitassa atthaṃ jānāti:",
+          "en": "It’s when a mendicant knows the meaning of this or that statement:"
+        },
+        {
+          "scid": "an7.68:3.3",
+          "pli": "‘ayaṃ imassa bhāsitassa attho, ayaṃ imassa bhāsitassa attho’ti.",
+          "en": "‘This is what that statement means; that is what this statement means.’"
+        },
+        {
+          "scid": "an7.68:3.4",
+          "pli": "No ce, bhikkhave, bhikkhu tassa tasseva bhāsitassa atthaṃ jāneyya:",
+          "en": "If a mendicant did not know the meaning of this or that statement,"
+        },
+        {
+          "scid": "an7.68:3.5",
+          "pli": "‘ayaṃ imassa bhāsitassa attho, ayaṃ imassa bhāsitassa attho’ti, nayidha ‘atthaññū’ti vucceyya.",
+          "en": "they would not be called ‘one who knows the meaning’."
+        },
+        {
+          "scid": "an7.68:3.6",
+          "pli": "Yasmā ca kho, bhikkhave, bhikkhu tassa tasseva bhāsitassa atthaṃ jānāti:",
+          "en": "But because they do know the meaning of this or that statement,"
+        },
+        {
+          "scid": "an7.68:3.7",
+          "pli": "‘ayaṃ imassa bhāsitassa attho, ayaṃ imassa bhāsitassa attho’ti, tasmā ‘atthaññū’ti vuccati.",
+          "en": "they are called ‘one who knows the meaning’."
+        },
+        {
+          "scid": "an7.68:3.8",
+          "pli": "Iti dhammaññū, atthaññū. (2)",
+          "en": "Such is the one who knows the teachings and the one who knows the meaning."
+        },
+        {
+          "scid": "an7.68:4.1",
+          "pli": "Attaññū ca kathaṃ hoti?",
+          "en": "And how are they one who knows themself?"
+        },
+        {
+          "scid": "an7.68:4.2",
+          "pli": "Idha, bhikkhave, bhikkhu attānaṃ jānāti:",
+          "en": "It’s when a mendicant knows themself:"
+        },
+        {
+          "scid": "an7.68:4.3",
+          "pli": "‘ettakomhi saddhāya sīlena sutena cāgena paññāya paṭibhānenā’ti.",
+          "en": "‘This is the extent of my faith, ethics, learning, generosity, wisdom, and eloquence.’"
+        },
+        {
+          "scid": "an7.68:4.4",
+          "pli": "No ce, bhikkhave, bhikkhu attānaṃ jāneyya:",
+          "en": "If a mendicant did not know themself,"
+        },
+        {
+          "scid": "an7.68:4.5",
+          "pli": "‘ettakomhi saddhāya sīlena sutena cāgena paññāya paṭibhānenā’ti, nayidha ‘attaññū’ti vucceyya.",
+          "en": "they would not be called ‘one who knows themself’."
+        },
+        {
+          "scid": "an7.68:4.6",
+          "pli": "Yasmā ca, bhikkhave, bhikkhu attānaṃ jānāti:",
+          "en": "But because they do know themself,"
+        },
+        {
+          "scid": "an7.68:4.7",
+          "pli": "‘ettakomhi saddhāya sīlena sutena cāgena paññāya paṭibhānenā’ti, tasmā ‘attaññū’ti vuccati.",
+          "en": "they are called ‘one who knows themself’."
+        },
+        {
+          "scid": "an7.68:4.8",
+          "pli": "Iti dhammaññū, atthaññū, attaññū. (3)",
+          "en": "Such is the one who knows the teachings, the one who knows the meaning, and the one who knows themself."
+        },
+        {
+          "scid": "an7.68:5.1",
+          "pli": "Mattaññū ca kathaṃ hoti?",
+          "en": "And how are they one who knows moderation?"
+        },
+        {
+          "scid": "an7.68:5.2",
+          "pli": "Idha, bhikkhave, bhikkhu mattaṃ jānāti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānaṃ paṭiggahaṇāya.",
+          "en": "It’s when a mendicant knows moderation when receiving robes, alms-food, lodgings, and medicines and supplies for the sick."
+        },
+        {
+          "scid": "an7.68:5.3",
+          "pli": "No ce, bhikkhave, bhikkhu mattaṃ jāneyya cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānaṃ paṭiggahaṇāya, nayidha ‘mattaññū’ti vucceyya.",
+          "en": "If a mendicant did not know moderation,"
+        },
+        {
+          "scid": "an7.68:5.4",
+          "pli": "Yasmā ca kho, bhikkhave, bhikkhu mattaṃ jānāti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānaṃ paṭiggahaṇāya, tasmā ‘mattaññū’ti vuccati.",
+          "en": "they would not be called ‘one who knows moderation’."
+        },
+        {
+          "scid": "an7.68:5.5",
+          "pli": "Iti dhammaññū, atthaññū, attaññū, mattaññū. (4)",
+          "en": "Such is the one who knows the teachings, the one who knows the meaning, and the one who knows themself, and the one who knows moderation."
+        },
+        {
+          "scid": "an7.68:6.1",
+          "pli": "Kālaññū ca kathaṃ hoti?",
+          "en": "And how are they one who knows the right time?"
+        },
+        {
+          "scid": "an7.68:6.2",
+          "pli": "Idha, bhikkhave, bhikkhu kālaṃ jānāti:",
+          "en": "It’s when a mendicant knows the right time:"
+        },
+        {
+          "scid": "an7.68:6.3",
+          "pli": "‘ayaṃ kālo uddesassa, ayaṃ kālo paripucchāya, ayaṃ kālo yogassa, ayaṃ kālo paṭisallānassā’ti.",
+          "en": "‘This is the time for recitation; this is the time for questioning; this is the time for meditation; this is the time for retreat.’"
+        },
+        {
+          "scid": "an7.68:6.4",
+          "pli": "No ce, bhikkhave, bhikkhu kālaṃ jāneyya:",
+          "en": "If a mendicant did not know the right time,"
+        },
+        {
+          "scid": "an7.68:6.5",
+          "pli": "‘ayaṃ kālo uddesassa, ayaṃ kālo paripucchāya, ayaṃ kālo yogassa, ayaṃ kālo paṭisallānassā’ti, nayidha ‘kālaññū’ti vucceyya.",
+          "en": "they would not be called ‘one who knows the right time’."
+        },
+        {
+          "scid": "an7.68:6.6",
+          "pli": "Yasmā ca kho, bhikkhave, bhikkhu kālaṃ jānāti:",
+          "en": "But because they do know the right time,"
+        },
+        {
+          "scid": "an7.68:6.7",
+          "pli": "‘ayaṃ kālo uddesassa, ayaṃ kālo paripucchāya, ayaṃ kālo yogassa, ayaṃ kālo paṭisallānassā’ti, tasmā ‘kālaññū’ti vuccati.",
+          "en": "they are called ‘one who knows the right time’."
+        },
+        {
+          "scid": "an7.68:6.8",
+          "pli": "Iti dhammaññū, atthaññū, attaññū, mattaññū, kālaññū. (5)",
+          "en": "Such is the one who knows the teachings, the one who knows the meaning, and the one who knows themself, the one who knows moderation, and the one who knows the right time."
+        },
+        {
+          "scid": "an7.68:7.1",
+          "pli": "Parisaññū ca kathaṃ hoti?",
+          "en": "And how are they one who knows assemblies?"
+        },
+        {
+          "scid": "an7.68:7.2",
+          "pli": "Idha, bhikkhave, bhikkhu parisaṃ jānāti:",
+          "en": "It’s when a mendicant knows assemblies:"
+        },
+        {
+          "scid": "an7.68:7.3",
+          "pli": "‘ayaṃ khattiyaparisā, ayaṃ brāhmaṇaparisā, ayaṃ gahapatiparisā, ayaṃ samaṇaparisā.",
+          "en": "‘This is an assembly of aristocrats, of brahmins, of householders, or of ascetics."
+        },
+        {
+          "scid": "an7.68:7.4",
+          "pli": "Tattha evaṃ upasaṅkamitabbaṃ, evaṃ ṭhātabbaṃ, evaṃ kattabbaṃ, evaṃ nisīditabbaṃ, evaṃ bhāsitabbaṃ, evaṃ tuṇhī bhavitabban’ti.",
+          "en": "This one should be approached in this way. This is how to stand, to act, to sit, to speak, or to stay silent when there.’"
+        },
+        {
+          "scid": "an7.68:7.5",
+          "pli": "No ce, bhikkhave, bhikkhu parisaṃ jāneyya:",
+          "en": "If a mendicant did not know assemblies,"
+        },
+        {
+          "scid": "an7.68:7.6",
+          "pli": "‘ayaṃ khattiyaparisā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an7.68:7.7",
+          "pli": "evaṃ tuṇhī bhavitabban’ti, nayidha ‘parisaññū’ti vucceyya.",
+          "en": "they would not be called ‘one who knows assemblies’."
+        },
+        {
+          "scid": "an7.68:7.8",
+          "pli": "Yasmā ca kho, bhikkhave, bhikkhu parisaṃ jānāti:",
+          "en": "But because they do know assemblies,"
+        },
+        {
+          "scid": "an7.68:7.9",
+          "pli": "‘ayaṃ khattiyaparisā, ayaṃ brāhmaṇaparisā, ayaṃ gahapatiparisā, ayaṃ samaṇaparisā.",
+          "en": ""
+        },
+        {
+          "scid": "an7.68:7.10",
+          "pli": "Tattha evaṃ upasaṅkamitabbaṃ, evaṃ ṭhātabbaṃ, evaṃ kattabbaṃ, evaṃ nisīditabbaṃ, evaṃ bhāsitabbaṃ, evaṃ tuṇhī bhavitabban’ti, tasmā ‘parisaññū’ti vuccati.",
+          "en": "they are called ‘one who knows assemblies’."
+        },
+        {
+          "scid": "an7.68:7.11",
+          "pli": "Iti dhammaññū, atthaññū, attaññū, mattaññū, kālaññū, parisaññū. (6)",
+          "en": "Such is the one who knows the teachings, the one who knows the meaning, and the one who knows themself, the one who knows moderation, and the one who knows the right time, and the one who knows assemblies."
+        },
+        {
+          "scid": "an7.68:8.1",
+          "pli": "Puggalaparoparaññū ca kathaṃ hoti?",
+          "en": "And how are they one who knows people high and low?"
+        },
+        {
+          "scid": "an7.68:8.2",
+          "pli": "Idha, bhikkhave, bhikkhuno dvayena puggalā viditā honti.",
+          "en": "It’s when a mendicant understands people in terms of pairs."
+        },
+        {
+          "scid": "an7.68:8.3",
+          "pli": "Dve puggalā—",
+          "en": "Two people:"
+        },
+        {
+          "scid": "an7.68:8.4",
+          "pli": "eko ariyānaṃ dassanakāmo, eko ariyānaṃ na dassanakāmo.",
+          "en": "one likes to see the noble ones, one does not."
+        },
+        {
+          "scid": "an7.68:8.5",
+          "pli": "Yvāyaṃ puggalo ariyānaṃ na dassanakāmo, ",
+          "en": "The person who doesn’t like to see the noble ones "
+        },
+        {
+          "scid": "an7.68:8.6",
+          "pli": "evaṃ so tenaṅgena gārayho.",
+          "en": "is reprehensible in that respect."
+        },
+        {
+          "scid": "an7.68:8.7",
+          "pli": "Yvāyaṃ puggalo ariyānaṃ dassanakāmo, ",
+          "en": "The person who does like to see the noble ones "
+        },
+        {
+          "scid": "an7.68:8.8",
+          "pli": "evaṃ so tenaṅgena pāsaṃso. (7.1)",
+          "en": "is praiseworthy in that respect."
+        },
+        {
+          "scid": "an7.68:9.1",
+          "pli": "Dve puggalā ariyānaṃ dassanakāmā—",
+          "en": "Two people like to see the noble ones:"
+        },
+        {
+          "scid": "an7.68:9.2",
+          "pli": "eko saddhammaṃ sotukāmo, eko saddhammaṃ na sotukāmo.",
+          "en": "one likes to hear the true teaching, one does not."
+        },
+        {
+          "scid": "an7.68:9.3",
+          "pli": "Yvāyaṃ puggalo saddhammaṃ na sotukāmo, ",
+          "en": "The person who doesn’t like to hear the true teaching "
+        },
+        {
+          "scid": "an7.68:9.4",
+          "pli": "evaṃ so tenaṅgena gārayho.",
+          "en": "is reprehensible in that respect."
+        },
+        {
+          "scid": "an7.68:9.5",
+          "pli": "Yvāyaṃ puggalo saddhammaṃ sotukāmo, ",
+          "en": "The person who does like to hear the true teaching "
+        },
+        {
+          "scid": "an7.68:9.6",
+          "pli": "evaṃ so tenaṅgena pāsaṃso. (7.2)",
+          "en": "is praiseworthy in that respect."
+        },
+        {
+          "scid": "an7.68:10.1",
+          "pli": "Dve puggalā saddhammaṃ sotukāmā—",
+          "en": "Two people like to hear the true teaching:"
+        },
+        {
+          "scid": "an7.68:10.2",
+          "pli": "eko ohitasoto dhammaṃ suṇāti, eko anohitasoto dhammaṃ suṇāti.",
+          "en": "one listens well to the teaching, one does not."
+        },
+        {
+          "scid": "an7.68:10.3",
+          "pli": "Yvāyaṃ puggalo anohitasoto dhammaṃ suṇāti, ",
+          "en": "The person who doesn’t listen well to the teaching "
+        },
+        {
+          "scid": "an7.68:10.4",
+          "pli": "evaṃ so tenaṅgena gārayho.",
+          "en": "is reprehensible in that respect."
+        },
+        {
+          "scid": "an7.68:10.5",
+          "pli": "Yvāyaṃ puggalo ohitasoto dhammaṃ suṇāti, ",
+          "en": "The person who does listen well to the teaching "
+        },
+        {
+          "scid": "an7.68:10.6",
+          "pli": "evaṃ so tenaṅgena pāsaṃso. (7.3)",
+          "en": "is praiseworthy in that respect."
+        },
+        {
+          "scid": "an7.68:11.1",
+          "pli": "Dve puggalā ohitasotā dhammaṃ suṇanti—",
+          "en": "Two people listen well to the teaching:"
+        },
+        {
+          "scid": "an7.68:11.2",
+          "pli": "eko sutvā dhammaṃ dhāreti, eko sutvā dhammaṃ na dhāreti.",
+          "en": "one remembers the teaching they’ve heard, one does not."
+        },
+        {
+          "scid": "an7.68:11.3",
+          "pli": "Yvāyaṃ puggalo sutvā na dhammaṃ dhāreti, ",
+          "en": "The person who doesn’t remember the teaching they’ve heard "
+        },
+        {
+          "scid": "an7.68:11.4",
+          "pli": "evaṃ so tenaṅgena gārayho.",
+          "en": "is reprehensible in that respect."
+        },
+        {
+          "scid": "an7.68:11.5",
+          "pli": "Yvāyaṃ puggalo sutvā dhammaṃ dhāreti, ",
+          "en": "The person who does remember the teaching they’ve heard "
+        },
+        {
+          "scid": "an7.68:11.6",
+          "pli": "evaṃ so tenaṅgena pāsaṃso. (7.4)",
+          "en": "is praiseworthy in that respect."
+        },
+        {
+          "scid": "an7.68:12.1",
+          "pli": "Dve puggalā sutvā dhammaṃ dhārenti—",
+          "en": "Two people remember the teaching they’ve heard:"
+        },
+        {
+          "scid": "an7.68:12.2",
+          "pli": "eko dhātānaṃ dhammānaṃ atthaṃ upaparikkhati, eko dhātānaṃ dhammānaṃ atthaṃ na upaparikkhati.",
+          "en": "one reflects on the meaning of the teachings they have remembered, one does not."
+        },
+        {
+          "scid": "an7.68:12.3",
+          "pli": "Yvāyaṃ puggalo dhātānaṃ dhammānaṃ atthaṃ na upaparikkhati, ",
+          "en": "The person who does not reflect on the meaning of the teachings they have remembered "
+        },
+        {
+          "scid": "an7.68:12.4",
+          "pli": "evaṃ so tenaṅgena gārayho.",
+          "en": "is reprehensible in that respect."
+        },
+        {
+          "scid": "an7.68:12.5",
+          "pli": "Yvāyaṃ puggalo dhātānaṃ dhammānaṃ atthaṃ upaparikkhati, ",
+          "en": "The person who does reflect on the meaning of the teachings they have remembered "
+        },
+        {
+          "scid": "an7.68:12.6",
+          "pli": "evaṃ so tenaṅgena pāsaṃso. (7.5)",
+          "en": "is praiseworthy in that respect."
+        },
+        {
+          "scid": "an7.68:13.1",
+          "pli": "Dve puggalā dhātānaṃ dhammānaṃ atthaṃ upaparikkhanti—",
+          "en": "Two people reflect on the meaning of the teachings they have remembered:"
+        },
+        {
+          "scid": "an7.68:13.2",
+          "pli": "eko atthamaññāya dhammamaññāya dhammānudhammappaṭipanno, eko atthamaññāya dhammamaññāya na dhammānudhammappaṭipanno.",
+          "en": "one understands the meaning and the teaching and practices accordingly, one understands the meaning and the teaching but does not practice accordingly."
+        },
+        {
+          "scid": "an7.68:13.3",
+          "pli": "Yvāyaṃ puggalo atthamaññāya dhammamaññāya na dhammānudhammappaṭipanno, ",
+          "en": "The person who understands the meaning and the teaching but does not practice accordingly "
+        },
+        {
+          "scid": "an7.68:13.4",
+          "pli": "evaṃ so tenaṅgena gārayho.",
+          "en": "is reprehensible in that respect."
+        },
+        {
+          "scid": "an7.68:13.5",
+          "pli": "Yvāyaṃ puggalo atthamaññāya dhammamaññāya dhammānudhammappaṭipanno, ",
+          "en": "The person who understands the meaning and the teaching and practices accordingly "
+        },
+        {
+          "scid": "an7.68:13.6",
+          "pli": "evaṃ so tenaṅgena pāsaṃso. (7.6)",
+          "en": "is praiseworthy in that respect."
+        },
+        {
+          "scid": "an7.68:14.1",
+          "pli": "Dve puggalā atthamaññāya dhammamaññāya dhammānudhammappaṭipannā—",
+          "en": "Two people understand the meaning and the teaching and practice accordingly:"
+        },
+        {
+          "scid": "an7.68:14.2",
+          "pli": "eko attahitāya paṭipanno no parahitāya, eko attahitāya ca paṭipanno parahitāya ca.",
+          "en": "one practices to benefit themselves but not others, and one practices to benefit both themselves and others."
+        },
+        {
+          "scid": "an7.68:14.3",
+          "pli": "Yvāyaṃ puggalo attahitāya paṭipanno no parahitāya, ",
+          "en": "The person who practices to benefit themselves but not others "
+        },
+        {
+          "scid": "an7.68:14.4",
+          "pli": "evaṃ so tenaṅgena gārayho.",
+          "en": "is reprehensible in that respect."
+        },
+        {
+          "scid": "an7.68:14.5",
+          "pli": "Yvāyaṃ puggalo attahitāya ca paṭipanno parahitāya ca, ",
+          "en": "The person who practices to benefit both themselves and others "
+        },
+        {
+          "scid": "an7.68:14.6",
+          "pli": "evaṃ so tenaṅgena pāsaṃso. (7.7)",
+          "en": "is praiseworthy in that respect."
+        },
+        {
+          "scid": "an7.68:15.1",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhuno dvayena puggalā viditā honti.",
+          "en": "That’s how a mendicant understands people in terms of pairs."
+        },
+        {
+          "scid": "an7.68:16.1",
+          "pli": "Evaṃ, bhikkhave, bhikkhu puggalaparoparaññū hoti.",
+          "en": "That’s how a mendicant is one who knows people high and low."
+        },
+        {
+          "scid": "an7.68:16.2",
+          "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo … pe … anuttaraṃ puññakkhettaṃ lokassā”ti.",
+          "en": "A mendicant with these seven factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is a supreme field of merit for the world.”"
+        },
+        {
+          "scid": "an7.68:16.3",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“A mendicant with seven qualities is worthy…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.68/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.68//AN 7.64",
+    "volpages": "AN iv 113",
+    "uid": "an7.68",
+    "blurb": "A mendicant who has seven qualities is worthy, with a special emphasis on listening to and learning the teaching.",
+    "difficulty": null,
+    "original_title": "Dhammaññū Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "One Who Knows the Teachings",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.68_sujato",
+        "segmented": true,
+        "title": "One Who Knows the Teachings"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an7.68_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "One With a Sense of Dhamma"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 4
+  }
+}

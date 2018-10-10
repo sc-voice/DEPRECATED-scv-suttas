@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an5.204",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.204",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Powers",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Emotional Barrenness",
+      "uid": "an5.205"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Thoroughbred",
+      "uid": "an5.203"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.204:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.204:0.2",
+          "pli": "21. Kimilavagga",
+          "en": "21. With Kimbila"
+        },
+        {
+          "scid": "an5.204:0.3",
+          "pli": "204. Balasutta",
+          "en": "204. Powers"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.204:1.1",
+          "pli": "“Pañcimāni, bhikkhave, balāni.",
+          "en": "“Mendicants, there are these five powers."
+        },
+        {
+          "scid": "an5.204:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.204:1.3",
+          "pli": "Saddhābalaṃ, hiribalaṃ, ottappabalaṃ, vīriyabalaṃ, paññābalaṃ—",
+          "en": "Faith, conscience, prudence, energy, and wisdom."
+        },
+        {
+          "scid": "an5.204:1.4",
+          "pli": "imāni kho, bhikkhave, pañca balānī”ti.",
+          "en": "These are the five powers.”"
+        },
+        {
+          "scid": "an5.204:1.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.204/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.204",
+    "volpages": "AN iii 248",
+    "uid": "an5.204",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Powers",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.204_sujato",
+        "segmented": true,
+        "title": "Powers"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

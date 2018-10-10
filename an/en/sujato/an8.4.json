@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an8.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an8.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Disliked (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Worldly Conditions (1st)",
+      "uid": "an8.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Disliked (1st)",
+      "uid": "an8.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an8.4:0.1",
+          "pli": "Aṅguttara Nikāya 8",
+          "en": "Numbered Discourses 8"
+        },
+        {
+          "scid": "an8.4:0.2",
+          "pli": "1. Mettāvagga",
+          "en": "1. Love"
+        },
+        {
+          "scid": "an8.4:0.3",
+          "pli": "4. Dutiyaappiyasutta",
+          "en": "4. Disliked (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an8.4:1.1",
+          "pli": "“Aṭṭhahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "“Mendicants, a mendicant with eight qualities is disliked and disapproved by their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an8.4:1.2",
+          "pli": "Katamehi aṭṭhahi?",
+          "en": "What eight?"
+        },
+        {
+          "scid": "an8.4:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu lābhakāmo ca hoti, sakkārakāmo ca, anavaññattikāmo ca, akālaññū ca, amattaññū ca, asuci ca, bahubhāṇī ca, akkosakaparibhāsako ca sabrahmacārīnaṃ.",
+          "en": "It’s when a mendicant desires material possessions, honor, and to be looked up to. They know neither moderation nor the proper time. Their conduct is impure, they talk a lot, and they insult and abuse their spiritual companions."
+        },
+        {
+          "scid": "an8.4:1.4",
+          "pli": "Imehi kho, bhikkhave, aṭṭhahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "A mendicant with these eight qualities is disliked and disapproved by their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an8.4:2.1",
+          "pli": "Aṭṭhahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.",
+          "en": "A mendicant with eight qualities is liked and approved by their spiritual companions, and respected and admired."
+        },
+        {
+          "scid": "an8.4:2.2",
+          "pli": "Katamehi aṭṭhahi?",
+          "en": "What eight?"
+        },
+        {
+          "scid": "an8.4:2.3",
+          "pli": "Idha, bhikkhave, bhikkhu na lābhakāmo ca hoti, na sakkārakāmo ca, na anavaññattikāmo ca, kālaññū ca, mattaññū ca, suci ca, na bahubhāṇī ca, anakkosakaparibhāsako ca sabrahmacārīnaṃ.",
+          "en": "It’s when a mendicant doesn’t desire material possessions, honor, and to be looked up to. They know moderation and the proper time. Their conduct is pure, they don’t talk a lot, and they don’t insult and abuse their spiritual companions."
+        },
+        {
+          "scid": "an8.4:2.4",
+          "pli": "Imehi kho, bhikkhave, aṭṭhahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti.",
+          "en": "A mendicant with these eight qualities is liked and approved by their spiritual companions, and respected and admired.”"
+        },
+        {
+          "scid": "an8.4:2.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an8.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 8.4",
+    "volpages": "AN iv 156",
+    "uid": "an8.4",
+    "blurb": "Due to eight qualities, a mendicant is displeasing to their fellow monastics, but with the opposite qualities is pleasing.",
+    "difficulty": null,
+    "original_title": "Dutiyaappiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Disliked (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an8.4_sujato",
+        "segmented": true,
+        "title": "Disliked (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an8.4_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Pleasing (2)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

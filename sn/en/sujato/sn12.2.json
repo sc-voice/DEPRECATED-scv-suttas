@@ -1,0 +1,490 @@
+{
+  "sutta_uid": "sn12.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Analysis",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Practice",
+      "uid": "sn12.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dependent Origination",
+      "uid": "sn12.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.2:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.2:0.2",
+          "pli": "1. Buddhavagga",
+          "en": "1. The Buddhas"
+        },
+        {
+          "scid": "sn12.2:0.3",
+          "pli": "2. Vibhaṅgasutta",
+          "en": "2. Analysis"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.2:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn12.2:1.2",
+          "pli": "“Paṭiccasamuppādaṃ vo, bhikkhave, desessāmi vibhajissāmi.",
+          "en": "“Mendicants, I will teach and analyze for you dependent origination."
+        },
+        {
+          "scid": "sn12.2:1.3",
+          "pli": "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+          "en": "Listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "sn12.2:1.4",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "sn12.2:1.5",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "sn12.2:2.1",
+          "pli": "“Katamo ca, bhikkhave, paṭiccasamuppādo?",
+          "en": "“And what is dependent origination?"
+        },
+        {
+          "scid": "sn12.2:2.2",
+          "pli": "Avijjāpaccayā, bhikkhave, saṅkhārā;",
+          "en": "Ignorance is a condition for choices."
+        },
+        {
+          "scid": "sn12.2:2.3",
+          "pli": "saṅkhārapaccayā viññāṇaṃ;",
+          "en": "Choices are a condition for consciousness."
+        },
+        {
+          "scid": "sn12.2:2.4",
+          "pli": "viññāṇapaccayā nāmarūpaṃ;",
+          "en": "Consciousness is a condition for name and form."
+        },
+        {
+          "scid": "sn12.2:2.5",
+          "pli": "nāmarūpapaccayā saḷāyatanaṃ;",
+          "en": "Name and form are conditions for the six sense fields."
+        },
+        {
+          "scid": "sn12.2:2.6",
+          "pli": "saḷāyatanapaccayā phasso;",
+          "en": "The six sense fields are conditions for contact."
+        },
+        {
+          "scid": "sn12.2:2.7",
+          "pli": "phassapaccayā vedanā;",
+          "en": "Contact is a condition for feeling."
+        },
+        {
+          "scid": "sn12.2:2.8",
+          "pli": "vedanāpaccayā taṇhā;",
+          "en": "Feeling is a condition for craving."
+        },
+        {
+          "scid": "sn12.2:2.9",
+          "pli": "taṇhāpaccayā upādānaṃ;",
+          "en": "Craving is a condition for grasping."
+        },
+        {
+          "scid": "sn12.2:2.10",
+          "pli": "upādānapaccayā bhavo;",
+          "en": "Grasping is a condition for continued existence."
+        },
+        {
+          "scid": "sn12.2:2.11",
+          "pli": "bhavapaccayā jāti;",
+          "en": "Continued existence is a condition for rebirth."
+        },
+        {
+          "scid": "sn12.2:2.12",
+          "pli": "jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.",
+          "en": "Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be."
+        },
+        {
+          "scid": "sn12.2:2.13",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "sn12.2:3.1",
+          "pli": "Katamañca, bhikkhave, jarāmaraṇaṃ?",
+          "en": "And what is old age and death?"
+        },
+        {
+          "scid": "sn12.2:3.2",
+          "pli": "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko;",
+          "en": "The old age, decrepitude, broken teeth, grey hair, wrinkly skin, diminished vitality, and failing faculties of the various sentient beings in the various orders of sentient beings."
+        },
+        {
+          "scid": "sn12.2:3.3",
+          "pli": "ayaṃ vuccati jarā.",
+          "en": "This is called old age."
+        },
+        {
+          "scid": "sn12.2:3.4",
+          "pli": "Yā tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṃ maccu maraṇaṃ kālakiriyā khandhānaṃ bhedo kaḷevarassa nikkhepo (), ",
+          "en": "The passing away, perishing, disintegration, demise, mortality, death, decease, breaking up of the aggregates, and laying to rest of the corpse of the various sentient beings in the various orders of sentient beings. "
+        },
+        {
+          "scid": "sn12.2:3.5",
+          "pli": "idaṃ vuccati maraṇaṃ.",
+          "en": "This is called death."
+        },
+        {
+          "scid": "sn12.2:3.6",
+          "pli": "Iti ayañca jarā, idañca maraṇaṃ.",
+          "en": "Such is old age, and such is death."
+        },
+        {
+          "scid": "sn12.2:3.7",
+          "pli": "Idaṃ vuccati, bhikkhave, jarāmaraṇaṃ.",
+          "en": "This is called old age and death."
+        },
+        {
+          "scid": "sn12.2:4.1",
+          "pli": "Katamā ca, bhikkhave, jāti?",
+          "en": "And what is rebirth?"
+        },
+        {
+          "scid": "sn12.2:4.2",
+          "pli": "Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho.",
+          "en": "The rebirth, inception, conception, reincarnation, manifestation of the aggregates, and acquisition of the sense fields of the various sentient beings in the various orders of sentient beings."
+        },
+        {
+          "scid": "sn12.2:4.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, jāti.",
+          "en": "This is called rebirth."
+        },
+        {
+          "scid": "sn12.2:5.1",
+          "pli": "Katamo ca, bhikkhave, bhavo?",
+          "en": "And what is continued existence?"
+        },
+        {
+          "scid": "sn12.2:5.2",
+          "pli": "Tayome, bhikkhave, bhavā—",
+          "en": "There are these three states of existence."
+        },
+        {
+          "scid": "sn12.2:5.3",
+          "pli": "kāmabhavo, rūpabhavo, arūpabhavo.",
+          "en": "Existence in the sensual realm, the realm of luminous form, and the formless realm."
+        },
+        {
+          "scid": "sn12.2:5.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, bhavo.",
+          "en": "This is called continued existence."
+        },
+        {
+          "scid": "sn12.2:6.1",
+          "pli": "Katamañca, bhikkhave, upādānaṃ?",
+          "en": "And what is grasping?"
+        },
+        {
+          "scid": "sn12.2:6.2",
+          "pli": "Cattārimāni, bhikkhave, upādānāni—",
+          "en": "There are these four kinds of grasping."
+        },
+        {
+          "scid": "sn12.2:6.3",
+          "pli": "kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ.",
+          "en": "Grasping at sensual pleasures, views, precepts and observances, and theories of a self."
+        },
+        {
+          "scid": "sn12.2:6.4",
+          "pli": "Idaṃ vuccati, bhikkhave, upādānaṃ.",
+          "en": "This is called grasping."
+        },
+        {
+          "scid": "sn12.2:7.1",
+          "pli": "Katamā ca, bhikkhave, taṇhā?",
+          "en": "And what is craving?"
+        },
+        {
+          "scid": "sn12.2:7.2",
+          "pli": "Chayime, bhikkhave, taṇhākāyā—",
+          "en": "There are these six classes of craving."
+        },
+        {
+          "scid": "sn12.2:7.3",
+          "pli": "rūpataṇhā, saddataṇhā, gandhataṇhā, rasataṇhā, phoṭṭhabbataṇhā, dhammataṇhā.",
+          "en": "Craving for sights, sounds, smells, tastes, touches, and thoughts."
+        },
+        {
+          "scid": "sn12.2:7.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, taṇhā.",
+          "en": "This is called craving."
+        },
+        {
+          "scid": "sn12.2:8.1",
+          "pli": "Katamā ca, bhikkhave, vedanā?",
+          "en": "And what is feeling?"
+        },
+        {
+          "scid": "sn12.2:8.2",
+          "pli": "Chayime, bhikkhave, vedanākāyā—",
+          "en": "There are these six classes of feeling."
+        },
+        {
+          "scid": "sn12.2:8.3",
+          "pli": "cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manosamphassajā vedanā.",
+          "en": "Feeling born of contact through the eye, ear, nose, tongue, body, and mind."
+        },
+        {
+          "scid": "sn12.2:8.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, vedanā.",
+          "en": "This is called feeling."
+        },
+        {
+          "scid": "sn12.2:9.1",
+          "pli": "Katamo ca, bhikkhave, phasso?",
+          "en": "And what is contact?"
+        },
+        {
+          "scid": "sn12.2:9.2",
+          "pli": "Chayime, bhikkhave, phassakāyā—",
+          "en": "There are these six classes of contact."
+        },
+        {
+          "scid": "sn12.2:9.3",
+          "pli": "cakkhusamphasso, sotasamphasso, ghānasamphasso, jivhāsamphasso, kāyasamphasso, manosamphasso.",
+          "en": "Contact through the eye, ear, nose, tongue, body, and mind."
+        },
+        {
+          "scid": "sn12.2:9.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, phasso.",
+          "en": "This is called contact."
+        },
+        {
+          "scid": "sn12.2:10.1",
+          "pli": "Katamañca, bhikkhave, saḷāyatanaṃ?",
+          "en": "And what are the six sense fields?"
+        },
+        {
+          "scid": "sn12.2:10.2",
+          "pli": "Cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, manāyatanaṃ—",
+          "en": "The sense fields of the eye, ear, nose, tongue, body, and mind."
+        },
+        {
+          "scid": "sn12.2:10.3",
+          "pli": "idaṃ vuccati, bhikkhave, saḷāyatanaṃ.",
+          "en": "These are called the six sense fields."
+        },
+        {
+          "scid": "sn12.2:11.1",
+          "pli": "Katamañca, bhikkhave, nāmarūpaṃ?",
+          "en": "And what are name and form?"
+        },
+        {
+          "scid": "sn12.2:11.2",
+          "pli": "Vedanā, saññā, cetanā, phasso, manasikāro—",
+          "en": "Feeling, perception, intention, contact, and attention."
+        },
+        {
+          "scid": "sn12.2:11.3",
+          "pli": "idaṃ vuccati nāmaṃ.",
+          "en": "This is called name."
+        },
+        {
+          "scid": "sn12.2:11.4",
+          "pli": "Cattāro ca mahābhūtā, catunnañca mahābhūtānaṃ upādāyarūpaṃ.",
+          "en": "The four primary elements, and form derived from the four primary elements."
+        },
+        {
+          "scid": "sn12.2:11.5",
+          "pli": "Idaṃ vuccati rūpaṃ.",
+          "en": "This is called form."
+        },
+        {
+          "scid": "sn12.2:11.6",
+          "pli": "Iti idañca nāmaṃ, idañca rūpaṃ.",
+          "en": "Such is name and such is form."
+        },
+        {
+          "scid": "sn12.2:11.7",
+          "pli": "Idaṃ vuccati, bhikkhave, nāmarūpaṃ.",
+          "en": "These are called name and form."
+        },
+        {
+          "scid": "sn12.2:12.1",
+          "pli": "Katamañca, bhikkhave, viññāṇaṃ?",
+          "en": "And what is consciousness?"
+        },
+        {
+          "scid": "sn12.2:12.2",
+          "pli": "Chayime, bhikkhave, viññāṇakāyā—",
+          "en": "There are these six classes of consciousness."
+        },
+        {
+          "scid": "sn12.2:12.3",
+          "pli": "cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ, manoviññāṇaṃ.",
+          "en": "Eye, ear, nose, tongue, body, and mind consciousness."
+        },
+        {
+          "scid": "sn12.2:12.4",
+          "pli": "Idaṃ vuccati, bhikkhave, viññāṇaṃ.",
+          "en": "This is called consciousness."
+        },
+        {
+          "scid": "sn12.2:13.1",
+          "pli": "Katame ca, bhikkhave, saṅkhārā?",
+          "en": "And what are choices?"
+        },
+        {
+          "scid": "sn12.2:13.2",
+          "pli": "Tayome, bhikkhave, saṅkhārā—",
+          "en": "There are three kinds of choices."
+        },
+        {
+          "scid": "sn12.2:13.3",
+          "pli": "kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro.",
+          "en": "Choices by way of body, speech, and mind."
+        },
+        {
+          "scid": "sn12.2:13.4",
+          "pli": "Ime vuccanti, bhikkhave, saṅkhārā.",
+          "en": "These are called choices."
+        },
+        {
+          "scid": "sn12.2:14.1",
+          "pli": "Katamā ca, bhikkhave, avijjā?",
+          "en": "And what is ignorance?"
+        },
+        {
+          "scid": "sn12.2:14.2",
+          "pli": "Yaṃ kho, bhikkhave, dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ.",
+          "en": "Not knowing about suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering."
+        },
+        {
+          "scid": "sn12.2:14.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, avijjā.",
+          "en": "This is called ignorance."
+        },
+        {
+          "scid": "sn12.2:15.1",
+          "pli": "Iti kho, bhikkhave, avijjāpaccayā saṅkhārā;",
+          "en": "And so, ignorance is a condition for choices."
+        },
+        {
+          "scid": "sn12.2:15.2",
+          "pli": "saṅkhārapaccayā viññāṇaṃ … pe …",
+          "en": "Choices are a condition for consciousness. …"
+        },
+        {
+          "scid": "sn12.2:15.3",
+          "pli": "evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "sn12.2:15.4",
+          "pli": "Avijjāya tveva asesavirāganirodhā saṅkhāranirodho;",
+          "en": "When ignorance fades away and ceases with nothing left over, choices cease."
+        },
+        {
+          "scid": "sn12.2:15.5",
+          "pli": "saṅkhāranirodhā viññāṇanirodho … pe …",
+          "en": "When choices cease, consciousness ceases. …"
+        },
+        {
+          "scid": "sn12.2:15.6",
+          "pli": "evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.",
+          "en": "That is how this entire mass of suffering ceases.”"
+        },
+        {
+          "scid": "sn12.2:15.7",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.2",
+    "volpages": "SN ii 2",
+    "uid": "sn12.2",
+    "blurb": "The Buddha gives definitions for each of the twelve links. These are general definitions that apply wherever the twelve links are mentioned.",
+    "difficulty": null,
+    "original_title": "Vibhaṅga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Analysis",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.2_sujato",
+        "segmented": true,
+        "title": "Analysis"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn12.2_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Analysis of Dependent Origination"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 2
+  }
+}

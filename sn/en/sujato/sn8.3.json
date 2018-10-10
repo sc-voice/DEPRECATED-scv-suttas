@@ -1,0 +1,210 @@
+{
+  "sutta_uid": "sn8.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn8.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Good-Hearted",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ānanda",
+      "uid": "sn8.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dissatisfaction",
+      "uid": "sn8.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn8.3:0.1",
+          "pli": "Saṃyutta Nikāya 8",
+          "en": "Linked Discourses 8"
+        },
+        {
+          "scid": "sn8.3:0.2",
+          "pli": "1. Vaṅgīsavagga",
+          "en": "1. With Vaṅgīsa"
+        },
+        {
+          "scid": "sn8.3:0.3",
+          "pli": "3. Pesalasutta",
+          "en": "3. Good-Hearted"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn8.3:1.1",
+          "pli": "Ekaṃ samayaṃ āyasmā vaṅgīso āḷaviyaṃ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṃ.",
+          "en": "At one time Venerable Vaṅgīsa was staying near Āḷavī, at the Aggāḷava Tree-shrine, together with his mentor, Venerable Nigrodhakappa."
+        },
+        {
+          "scid": "sn8.3:1.2",
+          "pli": "Tena kho pana samayena āyasmā vaṅgīso attano paṭibhānena aññe pesale bhikkhū atimaññati.",
+          "en": "Now at that time Venerable Vaṅgīsa looked down on other good-hearted mendicants because of his own poetic virtuosity."
+        },
+        {
+          "scid": "sn8.3:1.3",
+          "pli": "Atha kho āyasmato vaṅgīsassa etadahosi:",
+          "en": "Then he thought:"
+        },
+        {
+          "scid": "sn8.3:1.4",
+          "pli": "“alābhā vata me, na vata me lābhā; dulladdhaṃ vata me, na vata me suladdhaṃ; ",
+          "en": "“It’s my loss, my misfortune, "
+        },
+        {
+          "scid": "sn8.3:1.5",
+          "pli": "yvāhaṃ attano paṭibhānena aññe pesale bhikkhū atimaññāmī”ti.",
+          "en": "that I look down on other good-hearted mendicants because of my own poetic virtuosity.”"
+        },
+        {
+          "scid": "sn8.3:1.6",
+          "pli": "Atha kho āyasmā vaṅgīso attanāva attano vippaṭisāraṃ uppādetvā tāyaṃ velāyaṃ imā gāthāyo abhāsi:",
+          "en": "Then, on the occasion of arousing remorse in himself, he recited these verses:"
+        },
+        {
+          "scid": "sn8.3:2.1",
+          "pli": "“Mānaṃ pajahassu gotama,",
+          "en": "“Give up conceit, Gotama!"
+        },
+        {
+          "scid": "sn8.3:2.2",
+          "pli": "Mānapathañca pajahassu;",
+          "en": "Completely abandon the different kinds of conceit!"
+        },
+        {
+          "scid": "sn8.3:2.3",
+          "pli": "Asesaṃ mānapathasmiṃ,",
+          "en": "Infatuated with the different kinds of conceit,"
+        },
+        {
+          "scid": "sn8.3:2.4",
+          "pli": "Samucchito vippaṭisārīhuvā cirarattaṃ.",
+          "en": "you’ve had regrets for a long time."
+        },
+        {
+          "scid": "sn8.3:3.1",
+          "pli": "Makkhena makkhitā pajā,",
+          "en": "Smeared by smears and slain by conceit,"
+        },
+        {
+          "scid": "sn8.3:3.2",
+          "pli": "Mānahatā nirayaṃ papatanti;",
+          "en": "people fall into hell."
+        },
+        {
+          "scid": "sn8.3:3.3",
+          "pli": "Socanti janā cirarattaṃ,",
+          "en": "When people slain by conceit are reborn in hell,"
+        },
+        {
+          "scid": "sn8.3:3.4",
+          "pli": "Mānahatā nirayaṃ upapannā.",
+          "en": "they grieve for a long time."
+        },
+        {
+          "scid": "sn8.3:4.1",
+          "pli": "Na hi socati bhikkhu kadāci,",
+          "en": "But a mendicant who practices rightly,"
+        },
+        {
+          "scid": "sn8.3:4.2",
+          "pli": "Maggajino sammāpaṭipanno;",
+          "en": "owning the path, never grieves."
+        },
+        {
+          "scid": "sn8.3:4.3",
+          "pli": "Kittiñca sukhañca anubhoti,",
+          "en": "They enjoy happiness and a good reputation,"
+        },
+        {
+          "scid": "sn8.3:4.4",
+          "pli": "Dhammadasoti tamāhu pahitattaṃ.",
+          "en": "and they rightly call him a ‘Seer of Truth’."
+        },
+        {
+          "scid": "sn8.3:5.1",
+          "pli": "Tasmā akhilodha padhānavā,",
+          "en": "So don’t be hard-hearted, be energetic,"
+        },
+        {
+          "scid": "sn8.3:5.2",
+          "pli": "Nīvaraṇāni pahāya visuddho;",
+          "en": "with hindrances given up, be pure."
+        },
+        {
+          "scid": "sn8.3:5.3",
+          "pli": "Mānañca pahāya asesaṃ,",
+          "en": "Then with conceit given up completely,"
+        },
+        {
+          "scid": "sn8.3:5.4",
+          "pli": "Vijjāyantakaro samitāvī”ti.",
+          "en": "use knowledge to make an end, and be at peace.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time Venerable Vaṅgīsa was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn8.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 8.3//SN 211",
+    "volpages": "SN i 187//SN i 403",
+    "uid": "sn8.3",
+    "blurb": "As a renowned poet, Vaṅgīsa looked down on less skilled mendicants. Ashamed of his conceit, he exhorted himself in verse to be humble and at peace.",
+    "difficulty": null,
+    "original_title": "Pesala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Good-Hearted",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn8.3_sujato",
+        "segmented": true,
+        "title": "Good-Hearted"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 3
+  }
+}

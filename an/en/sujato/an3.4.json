@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "an3.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Transgression",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Improper",
+      "uid": "an3.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Thinking",
+      "uid": "an3.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.4:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.4:0.2",
+          "pli": "1. Bālavagga",
+          "en": "1. Fools"
+        },
+        {
+          "scid": "an3.4:0.3",
+          "pli": "4. Accayasutta",
+          "en": "4. Transgression"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.4:1.1",
+          "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo.",
+          "en": "“A fool is known by three things."
+        },
+        {
+          "scid": "an3.4:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.4:1.3",
+          "pli": "Accayaṃ accayato na passati, accayaṃ accayato disvā yathādhammaṃ nappaṭikaroti, parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti.",
+          "en": "They don’t recognize when they’ve made a mistake. When they do recognize it they don’t deal with it properly. And when someone else confesses a mistake to them, they don’t accept it properly."
+        },
+        {
+          "scid": "an3.4:1.4",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.",
+          "en": "These are the three things by which a fool is known."
+        },
+        {
+          "scid": "an3.4:2.1",
+          "pli": "Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo.",
+          "en": "An astute person is known by three things."
+        },
+        {
+          "scid": "an3.4:2.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.4:2.3",
+          "pli": "Accayaṃ accayato passati, accayaṃ accayato disvā yathādhammaṃ paṭikaroti, parassa kho pana accayaṃ desentassa yathādhammaṃ paṭiggaṇhāti.",
+          "en": "They recognize when they’ve made a mistake. When they recognize it they deal with it properly. And when someone else confesses a mistake to them, they accept it properly."
+        },
+        {
+          "scid": "an3.4:2.4",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo.",
+          "en": "These are the three things by which an astute person is known."
+        },
+        {
+          "scid": "an3.4:2.5",
+          "pli": "Tasmātiha … pe ….",
+          "en": "So you should train …”"
+        },
+        {
+          "scid": "an3.4:2.6",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“A fool is known by three things…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.4",
+    "volpages": "AN i 103",
+    "uid": "an3.4",
+    "blurb": "Marks of a fool and an astute person: recognizing mistakes.",
+    "difficulty": null,
+    "original_title": "Accaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Transgression",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.4_sujato",
+        "segmented": true,
+        "title": "Transgression"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.4_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Transgression"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 4
+  }
+}

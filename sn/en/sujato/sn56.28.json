@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn56.28",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.28",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The World",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Should Be Completely Understood",
+      "uid": "sn56.29"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Real",
+      "uid": "sn56.27"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.28:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.28:0.2",
+          "pli": "3. Koṭigāmavagga",
+          "en": "3. At the Village of Koṭi"
+        },
+        {
+          "scid": "sn56.28:0.3",
+          "pli": "28. Lokasutta",
+          "en": "28. The World"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.28:1.1",
+          "pli": "“Cattārimāni, bhikkhave, ariyasaccāni.",
+          "en": "“Mendicants, there are these four noble truths."
+        },
+        {
+          "scid": "sn56.28:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn56.28:1.3",
+          "pli": "Dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ ariyasaccaṃ, dukkhanirodhaṃ ariyasaccaṃ, dukkhanirodhagāminī paṭipadā ariyasaccaṃ.",
+          "en": "The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering."
+        },
+        {
+          "scid": "sn56.28:1.4",
+          "pli": "Sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya tathāgato ariyo;",
+          "en": "In this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans, the Realized One is the Noble One."
+        },
+        {
+          "scid": "sn56.28:1.5",
+          "pli": "tasmā ‘ariyasaccānī’ti vuccanti.",
+          "en": "That’s why they’re called ‘noble truths’."
+        },
+        {
+          "scid": "sn56.28:2.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.28:2.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.28/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.28",
+    "volpages": "SN v 435",
+    "uid": "sn56.28",
+    "blurb": "In this world, the Realized One is the noble one, that is why the four truths are noble.",
+    "difficulty": null,
+    "original_title": "Loka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The World",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.28_sujato",
+        "segmented": true,
+        "title": "The World"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.28_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The World"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

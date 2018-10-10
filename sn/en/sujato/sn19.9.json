@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn19.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn19.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Needle Hairs (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pot Balls",
+      "uid": "sn19.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Needle Hairs",
+      "uid": "sn19.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn19.9:0.1",
+          "pli": "Saṃyutta Nikāya 19",
+          "en": "Linked Discourses 19"
+        },
+        {
+          "scid": "sn19.9:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The First Chapter"
+        },
+        {
+          "scid": "sn19.9:0.3",
+          "pli": "9. Dutiyasūcilomasutta",
+          "en": "9. Needle Hairs (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 19…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn19.9:1.1",
+          "pli": "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ sūcilomaṃ purisaṃ vehāsaṃ gacchantaṃ.",
+          "en": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a man whose body hairs were needles flying through the air."
+        },
+        {
+          "scid": "sn19.9:1.2",
+          "pli": "Tassa tā sūciyo sīse pavisitvā mukhato nikkhamanti;",
+          "en": "The needles bored into his head and out his mouth,"
+        },
+        {
+          "scid": "sn19.9:1.3",
+          "pli": "mukhe pavisitvā urato nikkhamanti;",
+          "en": "into his mouth and out his chest,"
+        },
+        {
+          "scid": "sn19.9:1.4",
+          "pli": "ure pavisitvā udarato nikkhamanti;",
+          "en": "into his chest and out his belly,"
+        },
+        {
+          "scid": "sn19.9:1.5",
+          "pli": "udare pavisitvā ūrūhi nikkhamanti;",
+          "en": "into his belly and out his thighs,"
+        },
+        {
+          "scid": "sn19.9:1.6",
+          "pli": "ūrūsu pavisitvā jaṅghāhi nikkhamanti;",
+          "en": "into his thighs and out his calves,"
+        },
+        {
+          "scid": "sn19.9:1.7",
+          "pli": "jaṅghāsu pavisitvā pādehi nikkhamanti;",
+          "en": "and into his calves and out his feet."
+        },
+        {
+          "scid": "sn19.9:1.8",
+          "pli": "so sudaṃ aṭṭassaraṃ karoti … pe …",
+          "en": "And he screamed in pain. …” …"
+        },
+        {
+          "scid": "sn19.9:1.9",
+          "pli": "eso, bhikkhave, satto imasmiṃyeva rājagahe sūcako ahosi … pe ….",
+          "en": "“That being used to be an informant right here in Rājagaha. …”"
+        },
+        {
+          "scid": "sn19.9:1.10",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Just now…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn19.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 19.9",
+    "volpages": "SN ii 257",
+    "uid": "sn19.9",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dutiyasūciloma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Needle Hairs (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn19.9_sujato",
+        "segmented": true,
+        "title": "Needle Hairs (2nd)"
+      }
+    ],
+    "parallel_count": 24,
+    "biblio": null,
+    "num": 9
+  }
+}

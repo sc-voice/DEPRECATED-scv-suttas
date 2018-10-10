@@ -1,0 +1,1220 @@
+{
+  "sutta_uid": "mn10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Mindfulness Meditation",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Shorter Discourse on the Lion’s Roar",
+      "uid": "mn11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Right View",
+      "uid": "mn9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn10:0.1",
+          "pli": "Majjhima Nikāya 10",
+          "en": "Middle Discourses 10"
+        },
+        {
+          "scid": "mn10:0.2",
+          "pli": "Satipaṭṭhānasutta",
+          "en": "Mindfulness Meditation"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn10:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn10:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā kurūsu viharati kammāsadhammaṃ nāma kurūnaṃ nigamo.",
+          "en": "At one time the Buddha was staying in the land of the Kurus, near the Kuru town named Kammāsadamma."
+        },
+        {
+          "scid": "mn10:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "mn10:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "mn10:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "mn10:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn10:2.1",
+          "pli": "“Ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā, sokaparidevānaṃ samatikkamāya, dukkhadomanassānaṃ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṃ cattāro satipaṭṭhānā.",
+          "en": "“Mendicants, the four kinds of mindfulness meditation are the path to convergence. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to complete the procedure, and to realize extinguishment."
+        },
+        {
+          "scid": "mn10:3.1",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "mn10:3.2",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "mn10:3.3",
+          "pli": "vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "They meditate observing an aspect of feelings—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "mn10:3.4",
+          "pli": "citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "They meditate observing an aspect of the mind—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "mn10:3.5",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "They meditate observing an aspect of principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "mn10:3.6",
+          "pli": "Uddeso niṭṭhito.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:3.7",
+          "pli": "1. Kāyānupassanā",
+          "en": "1. Observing the Body"
+        },
+        {
+          "scid": "mn10:3.8",
+          "pli": "1.1. Kāyānupassanāānāpānapabba",
+          "en": "1.1. Mindfulness of Breathing"
+        },
+        {
+          "scid": "mn10:4.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu kāye kāyānupassī viharati?",
+          "en": "And how does a mendicant meditate observing an aspect of the body?"
+        },
+        {
+          "scid": "mn10:4.2",
+          "pli": "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati, pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya, parimukhaṃ satiṃ upaṭṭhapetvā.",
+          "en": "It’s when a mendicant—gone to a wilderness, or to the root of a tree, or to an empty hut—sits down cross-legged, with their body straight, and focuses their mindfulness right there."
+        },
+        {
+          "scid": "mn10:4.3",
+          "pli": "So satova assasati, satova passasati.",
+          "en": "Just mindful, they breathe in. Mindful, they breathe out."
+        },
+        {
+          "scid": "mn10:4.4",
+          "pli": "Dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti, ",
+          "en": "When breathing in heavily they know: ‘I’m breathing in heavily.’ When breathing out heavily they know: ‘I’m breathing out heavily.’ "
+        },
+        {
+          "scid": "mn10:4.5",
+          "pli": "rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti.",
+          "en": "When breathing in lightly they know: ‘I’m breathing in lightly.’ When breathing out lightly they know: ‘I’m breathing out lightly.’"
+        },
+        {
+          "scid": "mn10:4.6",
+          "pli": "‘Sabbakāyapaṭisaṃvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṃvedī passasissāmī’ti sikkhati.",
+          "en": "They practice breathing in experiencing the whole body. They practice breathing out experiencing the whole body."
+        },
+        {
+          "scid": "mn10:4.7",
+          "pli": "‘Passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati.",
+          "en": "They practice breathing in stilling the body’s motion. They practice breathing out stilling the body’s motion."
+        },
+        {
+          "scid": "mn10:4.8",
+          "pli": "Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṃ vā añchanto ‘dīghaṃ añchāmī’ti pajānāti, rassaṃ vā añchanto ‘rassaṃ añchāmī’ti pajānāti;",
+          "en": "It’s like an expert carpenter or carpenter’s apprentice. When making a deep cut they know: ‘I’m making a deep cut,’ and when making a shallow cut they know: ‘I’m making a shallow cut.’"
+        },
+        {
+          "scid": "mn10:4.9",
+          "pli": "evameva kho, bhikkhave, bhikkhu dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti, rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti;",
+          "en": ""
+        },
+        {
+          "scid": "mn10:4.10",
+          "pli": "‘sabbakāyapaṭisaṃvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṃvedī passasissāmī’ti sikkhati;",
+          "en": ""
+        },
+        {
+          "scid": "mn10:4.11",
+          "pli": "‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:5.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati;",
+          "en": "And so they meditate observing an aspect of the body internally, externally, and both internally and externally."
+        },
+        {
+          "scid": "mn10:5.2",
+          "pli": "samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.",
+          "en": "They meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish."
+        },
+        {
+          "scid": "mn10:5.3",
+          "pli": "‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": "Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+        },
+        {
+          "scid": "mn10:5.4",
+          "pli": "Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+          "en": "That’s how a mendicant meditates by observing an aspect of the body."
+        },
+        {
+          "scid": "mn10:5.5",
+          "pli": "Ānāpānapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:5.6",
+          "pli": "1.2. Kāyānupassanāiriyāpathapabba",
+          "en": "1.2. The Postures"
+        },
+        {
+          "scid": "mn10:6.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ti pajānāti, ṭhito vā ‘ṭhitomhī’ti pajānāti, nisinno vā ‘nisinnomhī’ti pajānāti, sayāno vā ‘sayānomhī’ti pajānāti.",
+          "en": "Furthermore, when a mendicant is walking they know: ‘I am walking.’ When standing they know: ‘I am standing.’ When sitting they know: ‘I am sitting.’ And when lying down they know: ‘I am lying down.’"
+        },
+        {
+          "scid": "mn10:6.2",
+          "pli": "Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṃ pajānāti.",
+          "en": "Whatever posture their body is in, they know it."
+        },
+        {
+          "scid": "mn10:7.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati;",
+          "en": "And so they meditate observing an aspect of the body internally, externally, and both internally and externally."
+        },
+        {
+          "scid": "mn10:7.2",
+          "pli": "samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.",
+          "en": "They meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish."
+        },
+        {
+          "scid": "mn10:7.3",
+          "pli": "‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": "Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+        },
+        {
+          "scid": "mn10:7.4",
+          "pli": "Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+          "en": "That too is how a mendicant meditates by observing an aspect of the body."
+        },
+        {
+          "scid": "mn10:7.5",
+          "pli": "Iriyāpathapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:7.6",
+          "pli": "1.3. Kāyānupassanāsampajānapabba",
+          "en": "1.3. Situational Awareness"
+        },
+        {
+          "scid": "mn10:8.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.",
+          "en": "Furthermore, a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent."
+        },
+        {
+          "scid": "mn10:9.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe …",
+          "en": "And so they meditate observing an aspect of the body internally …"
+        },
+        {
+          "scid": "mn10:9.2",
+          "pli": "evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+          "en": "That too is how a mendicant meditates by observing an aspect of the body."
+        },
+        {
+          "scid": "mn10:9.3",
+          "pli": "Sampajānapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:9.4",
+          "pli": "1.4. Kāyānupassanāpaṭikūlamanasikārapabba",
+          "en": "1.4. Focusing on the Repulsive"
+        },
+        {
+          "scid": "mn10:10.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā, adho kesamatthakā, tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati:",
+          "en": "Furthermore, a mendicant examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth."
+        },
+        {
+          "scid": "mn10:10.2",
+          "pli": "‘atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttan’ti.",
+          "en": "‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentry, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’"
+        },
+        {
+          "scid": "mn10:10.3",
+          "pli": "Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṃ—sālīnaṃ vīhīnaṃ muggānaṃ māsānaṃ tilānaṃ taṇḍulānaṃ. Tamenaṃ cakkhumā puriso muñcitvā paccavekkheyya: ‘ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā’ti.",
+          "en": "It’s as if there were a bag with openings at both ends, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents: ‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’"
+        },
+        {
+          "scid": "mn10:10.4",
+          "pli": "Evameva kho, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā, adho kesamatthakā, tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati:",
+          "en": ""
+        },
+        {
+          "scid": "mn10:10.5",
+          "pli": "‘atthi imasmiṃ kāye kesā lomā … pe … muttan’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:11.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe …",
+          "en": "And so they meditate observing an aspect of the body internally …"
+        },
+        {
+          "scid": "mn10:11.2",
+          "pli": "evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+          "en": "That’s how a mendicant meditates by observing an aspect of the body."
+        },
+        {
+          "scid": "mn10:11.3",
+          "pli": "Paṭikūlamanasikārapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:11.4",
+          "pli": "1.5. Kāyānupassanādhātumanasikārapabba",
+          "en": "1.5. Focusing on the Elements"
+        },
+        {
+          "scid": "mn10:12.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati:",
+          "en": "Furthermore, a mendicant examines their own body, whatever its placement or posture, according to the elements:"
+        },
+        {
+          "scid": "mn10:12.2",
+          "pli": "‘atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti.",
+          "en": "‘In this body there is the earth element, the water element, the fire element, and the air element.’"
+        },
+        {
+          "scid": "mn10:12.3",
+          "pli": "Seyyathāpi, bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa.",
+          "en": "It’s as if an expert butcher or butcher’s apprentice were to kill a cow and sit down at the crossroads with the meat cut into portions."
+        },
+        {
+          "scid": "mn10:12.4",
+          "pli": "Evameva kho, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati:",
+          "en": ""
+        },
+        {
+          "scid": "mn10:12.5",
+          "pli": "‘atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:13.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe …",
+          "en": "And so they meditate observing an aspect of the body internally …"
+        },
+        {
+          "scid": "mn10:13.2",
+          "pli": "evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+          "en": "That too is how a mendicant meditates by observing an aspect of the body."
+        },
+        {
+          "scid": "mn10:13.3",
+          "pli": "Dhātumanasikārapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:13.4",
+          "pli": "1.6. Kāyānupassanānavasivathikapabba",
+          "en": "1.6. The Charnel Ground Contemplations"
+        },
+        {
+          "scid": "mn10:14.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ ekāhamataṃ vā dvīhamataṃ vā tīhamataṃ vā uddhumātakaṃ vinīlakaṃ vipubbakajātaṃ.",
+          "en": "Furthermore, suppose a mendicant were to see a corpse thrown in a charnel ground. And it had been dead for one, two, or three days, bloated, livid, and festering."
+        },
+        {
+          "scid": "mn10:14.2",
+          "pli": "So imameva kāyaṃ upasaṃharati:",
+          "en": "They’d compare it with their own body:"
+        },
+        {
+          "scid": "mn10:14.3",
+          "pli": "‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.",
+          "en": "‘This body is also of that same nature, that same kind, and cannot go beyond that.’ "
+        },
+        {
+          "scid": "mn10:15.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn10:15.2",
+          "pli": "evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati. (1)",
+          "en": "That too is how a mendicant meditates by observing an aspect of the body."
+        },
+        {
+          "scid": "mn10:16.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ kākehi vā khajjamānaṃ kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ kaṅkehi vā khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā khajjamānaṃ vividhehi vā pāṇakajātehi khajjamānaṃ.",
+          "en": "Furthermore, suppose they were to see a corpse thrown in a charnel ground being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures."
+        },
+        {
+          "scid": "mn10:16.2",
+          "pli": "So imameva kāyaṃ upasaṃharati:",
+          "en": "They’d compare it with their own body:"
+        },
+        {
+          "scid": "mn10:16.3",
+          "pli": "‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.",
+          "en": "‘This body is also of that same nature, that same kind, and cannot go beyond that.’"
+        },
+        {
+          "scid": "mn10:17.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn10:17.2",
+          "pli": "evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati. (2)",
+          "en": "That too is how a mendicant meditates by observing an aspect of the body."
+        },
+        {
+          "scid": "mn10:18-23.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ samaṃsalohitaṃ nhārusambandhaṃ … pe … (3)",
+          "en": "Furthermore, suppose they were to see a corpse thrown in a charnel ground, a skeleton with flesh and blood, held together by sinews …"
+        },
+        {
+          "scid": "mn10:18-23.2",
+          "pli": "Aṭṭhikasaṅkhalikaṃ nimaṃsalohitamakkhitaṃ nhārusambandhaṃ … pe … (4)",
+          "en": "A skeleton without flesh but smeared with blood, and held together by sinews …"
+        },
+        {
+          "scid": "mn10:18-23.3",
+          "pli": "Aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ … pe … (5)",
+          "en": "A skeleton rid of flesh and blood, held together by sinews …"
+        },
+        {
+          "scid": "mn10:24.1",
+          "pli": "Aṭṭhikāni apagatasambandhāni disā vidisā vikkhittāni, aññena hatthaṭṭhikaṃ aññena pādaṭṭhikaṃ aññena gopphakaṭṭhikaṃ aññena jaṅghaṭṭhikaṃ aññena ūruṭṭhikaṃ aññena kaṭiṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ.",
+          "en": "Bones rid of sinews scattered in every direction. Here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone, there a rib-bone, here a back-bone, there an arm-bone, here a neck-bone, there a jaw-bone, here a tooth, there the skull …"
+        },
+        {
+          "scid": "mn10:24.2",
+          "pli": "So imameva kāyaṃ upasaṃharati:",
+          "en": ""
+        },
+        {
+          "scid": "mn10:24.3",
+          "pli": "‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:25.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn10:25.2",
+          "pli": "evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati. (6)",
+          "en": ""
+        },
+        {
+          "scid": "mn10:26-28.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ, aṭṭhikāni setāni saṅkhavaṇṇapaṭibhāgāni … pe … (7)",
+          "en": "White bones, the color of shells …"
+        },
+        {
+          "scid": "mn10:29.1",
+          "pli": "Aṭṭhikāni puñjakitāni terovassikāni … pe … (8)",
+          "en": "Decrepit bones, heaped in a pile …"
+        },
+        {
+          "scid": "mn10:30.1",
+          "pli": "Aṭṭhikāni pūtīni cuṇṇakajātāni.",
+          "en": "Bones rotted and crumbled to powder."
+        },
+        {
+          "scid": "mn10:30.2",
+          "pli": "So imameva kāyaṃ upasaṃharati:",
+          "en": "They’d compare it with their own body:"
+        },
+        {
+          "scid": "mn10:30.3",
+          "pli": "‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti. (9)",
+          "en": "‘This body is also of that same nature, that same kind, and cannot go beyond that.’"
+        },
+        {
+          "scid": "mn10:31.1",
+          "pli": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati;",
+          "en": "And so they meditate observing an aspect of the body internally, externally, and both internally and externally."
+        },
+        {
+          "scid": "mn10:31.2",
+          "pli": "samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.",
+          "en": "They meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish."
+        },
+        {
+          "scid": "mn10:31.3",
+          "pli": "‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": "Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+        },
+        {
+          "scid": "mn10:31.4",
+          "pli": "Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+          "en": "That too is how a mendicant meditates by observing an aspect of the body."
+        },
+        {
+          "scid": "mn10:31.5",
+          "pli": "Navasivathikapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:31.6",
+          "pli": "Cuddasakāyānupassanā niṭṭhitā.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:31.7",
+          "pli": "2. Vedanānupassanā",
+          "en": "2. Observing the Feelings"
+        },
+        {
+          "scid": "mn10:32.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati?",
+          "en": "And how does a mendicant meditate observing an aspect of feelings?"
+        },
+        {
+          "scid": "mn10:32.2",
+          "pli": "Idha, bhikkhave, bhikkhu sukhaṃ vā vedanaṃ vedayamāno ‘sukhaṃ vedanaṃ vedayāmī’ti pajānāti. (1)",
+          "en": "It’s when a mendicant who feels a pleasant feeling knows: ‘I feel a pleasant feeling.’"
+        },
+        {
+          "scid": "mn10:32.3",
+          "pli": "Dukkhaṃ vā vedanaṃ vedayamāno ‘dukkhaṃ vedanaṃ vedayāmī’ti pajānāti. (2)",
+          "en": "When they feel a painful feeling, they know: ‘I feel a painful feeling.’"
+        },
+        {
+          "scid": "mn10:32.4",
+          "pli": "Adukkhamasukhaṃ vā vedanaṃ vedayamāno ‘adukkhamasukhaṃ vedanaṃ vedayāmī’ti pajānāti. (3)",
+          "en": "When they feel a neutral feeling, they know: ‘I feel a neutral feeling.’"
+        },
+        {
+          "scid": "mn10:32.5",
+          "pli": "Sāmisaṃ vā sukhaṃ vedanaṃ vedayamāno ‘sāmisaṃ sukhaṃ vedanaṃ vedayāmī’ti pajānāti. (4)",
+          "en": "When they feel a carnal pleasant feeling, they know: ‘I feel a carnal pleasant feeling.’"
+        },
+        {
+          "scid": "mn10:32.6",
+          "pli": "Nirāmisaṃ vā sukhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ sukhaṃ vedanaṃ vedayāmī’ti pajānāti. (5)",
+          "en": "When they feel a spiritual pleasant feeling, they know: ‘I feel a spiritual pleasant feeling.’"
+        },
+        {
+          "scid": "mn10:32.7",
+          "pli": "Sāmisaṃ vā dukkhaṃ vedanaṃ vedayamāno ‘sāmisaṃ dukkhaṃ vedanaṃ vedayāmī’ti pajānāti. (6)",
+          "en": "When they feel a carnal painful feeling, they know: ‘I feel a carnal painful feeling.’"
+        },
+        {
+          "scid": "mn10:32.8",
+          "pli": "Nirāmisaṃ vā dukkhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ dukkhaṃ vedanaṃ vedayāmī’ti pajānāti. (7)",
+          "en": "When they feel a spiritual painful feeling, they know: ‘I feel a spiritual painful feeling.’"
+        },
+        {
+          "scid": "mn10:32.9",
+          "pli": "Sāmisaṃ vā adukkhamasukhaṃ vedanaṃ vedayamāno ‘sāmisaṃ adukkhamasukhaṃ vedanaṃ vedayāmī’ti pajānāti. (8)",
+          "en": "When they feel a carnal neutral feeling, they know: ‘I feel a carnal neutral feeling.’"
+        },
+        {
+          "scid": "mn10:32.10",
+          "pli": "Nirāmisaṃ vā adukkhamasukhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ adukkhamasukhaṃ vedanaṃ vedayāmī’ti pajānāti. (9)",
+          "en": "When they feel a spiritual neutral feeling, they know: ‘I feel a spiritual neutral feeling.’"
+        },
+        {
+          "scid": "mn10:33.1",
+          "pli": "Iti ajjhattaṃ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati;",
+          "en": "And so they meditate observing an aspect of the feelings internally, externally, and both internally and externally."
+        },
+        {
+          "scid": "mn10:33.2",
+          "pli": "samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati.",
+          "en": "They meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish."
+        },
+        {
+          "scid": "mn10:33.3",
+          "pli": "‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti.",
+          "en": "Or mindfulness is established that feelings exist,"
+        },
+        {
+          "scid": "mn10:33.4",
+          "pli": "Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": "to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+        },
+        {
+          "scid": "mn10:33.5",
+          "pli": "Evampi kho, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati.",
+          "en": "That’s how a mendicant meditates by observing an aspect of feelings."
+        },
+        {
+          "scid": "mn10:33.6",
+          "pli": "Vedanānupassanā niṭṭhitā.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:33.7",
+          "pli": "3. Cittānupassanā",
+          "en": "3. Observing the Mind"
+        },
+        {
+          "scid": "mn10:34.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu citte cittānupassī viharati?",
+          "en": "And how does a mendicant meditate observing an aspect of the mind?"
+        },
+        {
+          "scid": "mn10:34.2",
+          "pli": "Idha, bhikkhave, bhikkhu sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāti. (1) Vītarāgaṃ vā cittaṃ ‘vītarāgaṃ cittan’ti pajānāti. (2) Sadosaṃ vā cittaṃ ‘sadosaṃ cittan’ti pajānāti. (3) Vītadosaṃ vā cittaṃ ‘vītadosaṃ cittan’ti pajānāti. (4) Samohaṃ vā cittaṃ ‘samohaṃ cittan’ti pajānāti. (5) Vītamohaṃ vā cittaṃ ‘vītamohaṃ cittan’ti pajānāti. (6) Saṅkhittaṃ vā cittaṃ ‘saṅkhittaṃ cittan’ti pajānāti. (7) Vikkhittaṃ vā cittaṃ ‘vikkhittaṃ cittan’ti pajānāti. (8) Mahaggataṃ vā cittaṃ ‘mahaggataṃ cittan’ti pajānāti. (9) Amahaggataṃ vā cittaṃ ‘amahaggataṃ cittan’ti pajānāti. (10) Sauttaraṃ vā cittaṃ ‘sauttaraṃ cittan’ti pajānāti. (11) Anuttaraṃ vā cittaṃ ‘anuttaraṃ cittan’ti pajānāti. (12) Samāhitaṃ vā cittaṃ ‘samāhitaṃ cittan’ti pajānāti. (13) Asamāhitaṃ vā cittaṃ ‘asamāhitaṃ cittan’ti pajānāti. (14) Vimuttaṃ vā cittaṃ ‘vimuttaṃ cittan’ti pajānāti. (15) Avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti. (16)",
+          "en": "It’s when a mendicant knows mind with greed as ‘mind with greed,’ and mind without greed as ‘mind without greed.’ They know mind with hate as ‘mind with hate,’ and mind without hate as ‘mind without hate.’ They know mind with delusion as ‘mind with delusion,’ and mind without delusion as ‘mind without delusion.’ They know contracted mind as ‘contracted mind,’ and scattered mind as ‘scattered mind.’ They know expansive mind as ‘expansive mind,’ and unexpansive mind as ‘unexpansive mind.’ They know mind that is not supreme as ‘mind that is not supreme,’ and mind that is supreme as ‘mind that is supreme.’ They know mind immersed in samādhi as ‘mind immersed in samādhi,’ and mind not immersed in samādhi as ‘mind not immersed in samādhi.’ They know freed mind as ‘freed mind,’ and unfreed mind as ‘unfreed mind.’"
+        },
+        {
+          "scid": "mn10:35.1",
+          "pli": "Iti ajjhattaṃ vā citte cittānupassī viharati, bahiddhā vā citte cittānupassī viharati, ajjhattabahiddhā vā citte cittānupassī viharati;",
+          "en": "And so they meditate observing an aspect of the mind internally, externally, and both internally and externally."
+        },
+        {
+          "scid": "mn10:35.2",
+          "pli": "samudayadhammānupassī vā cittasmiṃ viharati, vayadhammānupassī vā cittasmiṃ viharati, samudayavayadhammānupassī vā cittasmiṃ viharati.",
+          "en": "They meditate observing the mind as liable to originate, as liable to vanish, and as liable to both originate and vanish."
+        },
+        {
+          "scid": "mn10:35.3",
+          "pli": "‘Atthi cittan’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": "Or mindfulness is established that the mind exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+        },
+        {
+          "scid": "mn10:35.4",
+          "pli": "Evampi kho, bhikkhave, bhikkhu citte cittānupassī viharati.",
+          "en": "That’s how a mendicant meditates by observing an aspect of the mind."
+        },
+        {
+          "scid": "mn10:35.5",
+          "pli": "Cittānupassanā niṭṭhitā.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:35.6",
+          "pli": "4. Dhammānupassanā",
+          "en": "4. Observing Principles"
+        },
+        {
+          "scid": "mn10:35.7",
+          "pli": "4.1. Dhammānupassanānīvaraṇapabba",
+          "en": "4.1. The Hindrances"
+        },
+        {
+          "scid": "mn10:36.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu dhammesu dhammānupassī viharati?",
+          "en": "And how does a mendicant meditate observing an aspect of principles?"
+        },
+        {
+          "scid": "mn10:36.2",
+          "pli": "Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu.",
+          "en": "It’s when a mendicant meditates by observing an aspect of principles with respect to the five hindrances."
+        },
+        {
+          "scid": "mn10:36.3",
+          "pli": "Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu?",
+          "en": "And how does a mendicant meditate observing an aspect of principles with respect to the five hindrances?"
+        },
+        {
+          "scid": "mn10:36.4",
+          "pli": "Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ ‘atthi me ajjhattaṃ kāmacchando’ti pajānāti, asantaṃ vā ajjhattaṃ kāmacchandaṃ ‘natthi me ajjhattaṃ kāmacchando’ti pajānāti; yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṃ anuppādo hoti tañca pajānāti. (1)",
+          "en": "It’s when a mendicant who has sensual desire in them understands: ‘I have sensual desire in me.’ When they don’t have sensual desire in them, they understand: ‘I don’t have sensual desire in me.’ They understand how sensual desire arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future."
+        },
+        {
+          "scid": "mn10:36.5",
+          "pli": "Santaṃ vā ajjhattaṃ byāpādaṃ ‘atthi me ajjhattaṃ byāpādo’ti pajānāti, asantaṃ vā ajjhattaṃ byāpādaṃ ‘natthi me ajjhattaṃ byāpādo’ti pajānāti; yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti, yathā ca uppannassa byāpādassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa byāpādassa āyatiṃ anuppādo hoti tañca pajānāti. (2)",
+          "en": "When they have ill will in them, they understand: ‘I have ill will in me.’ When they don’t have ill will in them, they understand: ‘I don’t have ill will in me.’ They understand how ill will arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future."
+        },
+        {
+          "scid": "mn10:36.6",
+          "pli": "Santaṃ vā ajjhattaṃ thinamiddhaṃ ‘atthi me ajjhattaṃ thinamiddhan’ti pajānāti, asantaṃ vā ajjhattaṃ thinamiddhaṃ ‘natthi me ajjhattaṃ thinamiddhan’ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṃ anuppādo hoti tañca pajānāti. (3)",
+          "en": "When they have dullness and drowsiness in them, they understand: ‘I have dullness and drowsiness in me.’ When they don’t have dullness and drowsiness in them, they understand: ‘I don’t have dullness and drowsiness in me.’ They understand how dullness and drowsiness arise; how, when they’ve already arisen, they’re given up; and how, once they’re given up, they don’t arise again in the future."
+        },
+        {
+          "scid": "mn10:36.7",
+          "pli": "Santaṃ vā ajjhattaṃ uddhaccakukkuccaṃ ‘atthi me ajjhattaṃ uddhaccakukkuccan’ti pajānāti, asantaṃ vā ajjhattaṃ uddhaccakukkuccaṃ ‘natthi me ajjhattaṃ uddhaccakukkuccan’ti pajānāti; yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṃ anuppādo hoti tañca pajānāti. (4)",
+          "en": "When they have restlessness and remorse in them, they understand: ‘I have restlessness and remorse in me.’ When they don’t have restlessness and remorse in them, they understand: ‘I don’t have restlessness and remorse in me.’ They understand how restlessness and remorse arise; how, when they’ve already arisen, they’re given up; and how, once they’re given up, they don’t arise again in the future."
+        },
+        {
+          "scid": "mn10:36.8",
+          "pli": "Santaṃ vā ajjhattaṃ vicikicchaṃ ‘atthi me ajjhattaṃ vicikicchā’ti pajānāti, asantaṃ vā ajjhattaṃ vicikicchaṃ ‘natthi me ajjhattaṃ vicikicchā’ti pajānāti; yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti, yathā ca uppannāya vicikicchāya pahānaṃ hoti tañca pajānāti, yathā ca pahīnāya vicikicchāya āyatiṃ anuppādo hoti tañca pajānāti. (5)",
+          "en": "When they have doubt in them, they understand: ‘I have doubt in me.’ When they don’t have doubt in them, they understand: ‘I don’t have doubt in me.’ They understand how doubt arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future."
+        },
+        {
+          "scid": "mn10:37.1",
+          "pli": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati;",
+          "en": "And so they meditate observing an aspect of principles internally, externally, and both internally and externally."
+        },
+        {
+          "scid": "mn10:37.2",
+          "pli": "samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati.",
+          "en": "They meditate observing the principles as liable to originate, as liable to vanish, and as liable to both originate and vanish."
+        },
+        {
+          "scid": "mn10:37.3",
+          "pli": "‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti.",
+          "en": "Or mindfulness is established that principles exist,"
+        },
+        {
+          "scid": "mn10:37.4",
+          "pli": "Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": "to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+        },
+        {
+          "scid": "mn10:37.5",
+          "pli": "Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu.",
+          "en": "That’s how a mendicant meditates by observing an aspect of principles with respect to the five hindrances."
+        },
+        {
+          "scid": "mn10:37.6",
+          "pli": "Nīvaraṇapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:37.7",
+          "pli": "4.2. Dhammānupassanākhandhapabba",
+          "en": "4.2. The Aggregates"
+        },
+        {
+          "scid": "mn10:38.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.",
+          "en": "Furthermore, a mendicant meditates by observing an aspect of principles with respect to the five grasping aggregates."
+        },
+        {
+          "scid": "mn10:38.2",
+          "pli": "Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu?",
+          "en": "And how does a mendicant meditate observing an aspect of principles with respect to the five grasping aggregates?"
+        },
+        {
+          "scid": "mn10:38.3",
+          "pli": "Idha, bhikkhave, bhikkhu:",
+          "en": "It’s when a mendicant contemplates:"
+        },
+        {
+          "scid": "mn10:38.4",
+          "pli": "‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo;",
+          "en": "‘Such is form, such is the origin of form, such is the ending of form."
+        },
+        {
+          "scid": "mn10:38.5",
+          "pli": "iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo;",
+          "en": "Such is feeling, such is the origin of feeling, such is the ending of feeling."
+        },
+        {
+          "scid": "mn10:38.6",
+          "pli": "iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo;",
+          "en": "Such is perception, such is the origin of perception, such is the ending of perception."
+        },
+        {
+          "scid": "mn10:38.7",
+          "pli": "iti saṅkhārā, iti saṅkhārānaṃ samudayo, iti saṅkhārānaṃ atthaṅgamo;",
+          "en": "Such are choices, such is the origin of choices, such is the ending of choices."
+        },
+        {
+          "scid": "mn10:38.8",
+          "pli": "iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti;",
+          "en": "Such is consciousness, such is the origin of consciousness, such is the ending of consciousness.’"
+        },
+        {
+          "scid": "mn10:39.1",
+          "pli": "iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati;",
+          "en": "And so they meditate observing an aspect of principles internally …"
+        },
+        {
+          "scid": "mn10:39.2",
+          "pli": "samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:39.3",
+          "pli": "‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:39.4",
+          "pli": "Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:39.5",
+          "pli": "Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.",
+          "en": "That’s how a mendicant meditates by observing an aspect of principles with respect to the five grasping aggregates."
+        },
+        {
+          "scid": "mn10:39.6",
+          "pli": "Khandhapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:39.7",
+          "pli": "4.3. Dhammānupassanāāyatanapabba",
+          "en": "4.3. The Sense Fields"
+        },
+        {
+          "scid": "mn10:40.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.",
+          "en": "Furthermore, a mendicant meditates by observing an aspect of principles with respect to the six interior and exterior sense fields."
+        },
+        {
+          "scid": "mn10:40.2",
+          "pli": "Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu?",
+          "en": "And how does a mendicant meditate observing an aspect of principles with respect to the six interior and exterior sense fields?"
+        },
+        {
+          "scid": "mn10:40.3",
+          "pli": "Idha, bhikkhave, bhikkhu cakkhuñca pajānāti, rūpe ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti. (1)",
+          "en": "It’s when a mendicant understands the eye, sights, and the fetter that arises dependent on both of these. They understand how the fetter that has not arisen comes to arise; how the arisen fetter comes to be abandoned; and how the abandoned fetter comes to not rise again in the future."
+        },
+        {
+          "scid": "mn10:40.4",
+          "pli": "Sotañca pajānāti, sadde ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti. (2)",
+          "en": "They understand the ear, sounds, and the fetter …"
+        },
+        {
+          "scid": "mn10:40.5",
+          "pli": "Ghānañca pajānāti, gandhe ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti. (3)",
+          "en": "They understand the nose, smells, and the fetter …"
+        },
+        {
+          "scid": "mn10:40.6",
+          "pli": "Jivhañca pajānāti, rase ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti. (4)",
+          "en": "They understand the tongue, tastes, and the fetter …"
+        },
+        {
+          "scid": "mn10:40.7",
+          "pli": "Kāyañca pajānāti, phoṭṭhabbe ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti. (5)",
+          "en": "They understand the body, touches, and the fetter …"
+        },
+        {
+          "scid": "mn10:40.8",
+          "pli": "Manañca pajānāti, dhamme ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti. (6)",
+          "en": "They understand the mind, thoughts, and the fetter that arises dependent on both of these. They understand how the fetter that has not arisen comes to arise; how the arisen fetter comes to be abandoned; and how the abandoned fetter comes to not rise again in the future."
+        },
+        {
+          "scid": "mn10:41.1",
+          "pli": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati;",
+          "en": "And so they meditate observing an aspect of principles internally …"
+        },
+        {
+          "scid": "mn10:41.2",
+          "pli": "samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:41.3",
+          "pli": "‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:41.4",
+          "pli": "Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:41.5",
+          "pli": "Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.",
+          "en": "That’s how a mendicant meditates by observing an aspect of principles with respect to the six internal and external sense fields."
+        },
+        {
+          "scid": "mn10:41.6",
+          "pli": "Āyatanapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:41.7",
+          "pli": "4.4. Dhammānupassanābojjhaṅgapabba",
+          "en": "4.4. The Awakening Factors"
+        },
+        {
+          "scid": "mn10:42.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu.",
+          "en": "Furthermore, a mendicant meditates by observing an aspect of principles with respect to the seven awakening factors."
+        },
+        {
+          "scid": "mn10:42.2",
+          "pli": "Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu?",
+          "en": "And how does a mendicant meditate observing an aspect of principles with respect to the seven awakening factors?"
+        },
+        {
+          "scid": "mn10:42.3",
+          "pli": "Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ satisambojjhaṅgaṃ ‘atthi me ajjhattaṃ satisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ satisambojjhaṅgaṃ ‘natthi me ajjhattaṃ satisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (1)",
+          "en": "It’s when a mendicant who has the awakening factor of mindfulness in them understands: ‘I have the awakening factor of mindfulness in me.’ When they don’t have the awakening factor of mindfulness in them, they understand: ‘I don’t have the awakening factor of mindfulness in me.’ They understand how the awakening factor of mindfulness that has not arisen comes to arise; and how the awakening factor of mindfulness that has arisen becomes fulfilled by development."
+        },
+        {
+          "scid": "mn10:42.4",
+          "pli": "Santaṃ vā ajjhattaṃ dhammavicayasambojjhaṅgaṃ ‘atthi me ajjhattaṃ dhammavicayasambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ dhammavicayasambojjhaṅgaṃ ‘natthi me ajjhattaṃ dhammavicayasambojjhaṅgo’ti pajānāti, yathā ca anuppannassa dhammavicayasambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa dhammavicayasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (2)",
+          "en": "When they have the awakening factor of investigation of principles …"
+        },
+        {
+          "scid": "mn10:42.5",
+          "pli": "Santaṃ vā ajjhattaṃ vīriyasambojjhaṅgaṃ ‘atthi me ajjhattaṃ vīriyasambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ vīriyasambojjhaṅgaṃ ‘natthi me ajjhattaṃ vīriyasambojjhaṅgo’ti pajānāti, yathā ca anuppannassa vīriyasambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa vīriyasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (3)",
+          "en": "energy …"
+        },
+        {
+          "scid": "mn10:42.6",
+          "pli": "Santaṃ vā ajjhattaṃ pītisambojjhaṅgaṃ ‘atthi me ajjhattaṃ pītisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ pītisambojjhaṅgaṃ ‘natthi me ajjhattaṃ pītisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa pītisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa pītisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (4)",
+          "en": "rapture …"
+        },
+        {
+          "scid": "mn10:42.7",
+          "pli": "Santaṃ vā ajjhattaṃ passaddhisambojjhaṅgaṃ ‘atthi me ajjhattaṃ passaddhisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ passaddhisambojjhaṅgaṃ ‘natthi me ajjhattaṃ passaddhisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa passaddhisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa passaddhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (5)",
+          "en": "tranquility …"
+        },
+        {
+          "scid": "mn10:42.8",
+          "pli": "Santaṃ vā ajjhattaṃ samādhisambojjhaṅgaṃ ‘atthi me ajjhattaṃ samādhisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ samādhisambojjhaṅgaṃ ‘natthi me ajjhattaṃ samādhisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa samādhisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa samādhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (6)",
+          "en": "immersion …"
+        },
+        {
+          "scid": "mn10:42.9",
+          "pli": "Santaṃ vā ajjhattaṃ upekkhāsambojjhaṅgaṃ ‘atthi me ajjhattaṃ upekkhāsambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ upekkhāsambojjhaṅgaṃ ‘natthi me ajjhattaṃ upekkhāsambojjhaṅgo’ti pajānāti, yathā ca anuppannassa upekkhāsambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa upekkhāsambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. (7)",
+          "en": "equanimity in them, they understand: ‘I have the awakening factor of equanimity in me.’ When they don’t have the awakening factor of equanimity in them, they understand: ‘I don’t have the awakening factor of equanimity in me.’ They understand how the awakening factor of equanimity that has not arisen comes to arise; and how the awakening factor of equanimity that has arisen becomes fulfilled by development."
+        },
+        {
+          "scid": "mn10:43.1",
+          "pli": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati;",
+          "en": "And so they meditate observing an aspect of principles internally, externally, and both internally and externally."
+        },
+        {
+          "scid": "mn10:43.2",
+          "pli": "samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati.",
+          "en": "They meditate observing the principles as liable to originate, as liable to vanish, and as liable to both originate and vanish."
+        },
+        {
+          "scid": "mn10:43.3",
+          "pli": "‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti.",
+          "en": "Or mindfulness is established that principles exist,"
+        },
+        {
+          "scid": "mn10:43.4",
+          "pli": "Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": "to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+        },
+        {
+          "scid": "mn10:43.5",
+          "pli": "Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu.",
+          "en": "That’s how a mendicant meditates by observing an aspect of principles with respect to the seven awakening factors."
+        },
+        {
+          "scid": "mn10:43.6",
+          "pli": "Bojjhaṅgapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:43.7",
+          "pli": "4.5. Dhammānupassanāsaccapabba",
+          "en": "4.5. The Truths"
+        },
+        {
+          "scid": "mn10:44.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu.",
+          "en": "Furthermore, a mendicant meditates by observing an aspect of principles with respect to the four noble truths."
+        },
+        {
+          "scid": "mn10:44.2",
+          "pli": "Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu?",
+          "en": "And how does a mendicant meditate observing an aspect of principles with respect to the four noble truths?"
+        },
+        {
+          "scid": "mn10:44.3",
+          "pli": "Idha, bhikkhave, bhikkhu ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.",
+          "en": "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering.’"
+        },
+        {
+          "scid": "mn10:45.1",
+          "pli": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati;",
+          "en": "And so they meditate observing an aspect of principles internally, externally, and both internally and externally."
+        },
+        {
+          "scid": "mn10:45.2",
+          "pli": "samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati.",
+          "en": "They meditate observing the principles as liable to originate, as liable to vanish, and as liable to both originate and vanish."
+        },
+        {
+          "scid": "mn10:45.3",
+          "pli": "‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti.",
+          "en": "Or mindfulness is established that principles exist,"
+        },
+        {
+          "scid": "mn10:45.4",
+          "pli": "Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.",
+          "en": "to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+        },
+        {
+          "scid": "mn10:45.5",
+          "pli": "Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu.",
+          "en": "That’s how a mendicant meditates by observing an aspect of principles with respect to the four noble truths."
+        },
+        {
+          "scid": "mn10:45.6",
+          "pli": "Saccapabbaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:45.7",
+          "pli": "Dhammānupassanā niṭṭhitā.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:46.1",
+          "pli": "Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya satta vassāni, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ",
+          "en": "Anyone who develops these four kinds of mindfulness meditation in this way for seven years can expect one of two results:"
+        },
+        {
+          "scid": "mn10:46.2",
+          "pli": "diṭṭheva dhamme aññā; sati vā upādisese anāgāmitā.",
+          "en": "enlightenment in the present life, or if there’s something left over, non-return."
+        },
+        {
+          "scid": "mn10:46.3",
+          "pli": "Tiṭṭhantu, bhikkhave, satta vassāni.",
+          "en": "Let alone seven years,"
+        },
+        {
+          "scid": "mn10:46.4",
+          "pli": "Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya cha vassāni … pe …",
+          "en": "anyone who develops these four kinds of mindfulness meditation in this way for six years …"
+        },
+        {
+          "scid": "mn10:46.5",
+          "pli": "pañca vassāni …",
+          "en": "five years …"
+        },
+        {
+          "scid": "mn10:46.6",
+          "pli": "cattāri vassāni …",
+          "en": "four years …"
+        },
+        {
+          "scid": "mn10:46.7",
+          "pli": "tīṇi vassāni …",
+          "en": "three years …"
+        },
+        {
+          "scid": "mn10:46.8",
+          "pli": "dve vassāni …",
+          "en": "two years …"
+        },
+        {
+          "scid": "mn10:46.9",
+          "pli": "ekaṃ vassaṃ …",
+          "en": "one year …"
+        },
+        {
+          "scid": "mn10:46.10",
+          "pli": "tiṭṭhatu, bhikkhave, ekaṃ vassaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:46.11",
+          "pli": "Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya satta māsāni, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ",
+          "en": "seven months …"
+        },
+        {
+          "scid": "mn10:46.12",
+          "pli": "diṭṭheva dhamme aññā; sati vā upādisese anāgāmitā.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:46.13",
+          "pli": "Tiṭṭhantu, bhikkhave, satta māsāni.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:46.14",
+          "pli": "Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya cha māsāni … pe …",
+          "en": "six months …"
+        },
+        {
+          "scid": "mn10:46.15",
+          "pli": "pañca māsāni …",
+          "en": "five months …"
+        },
+        {
+          "scid": "mn10:46.16",
+          "pli": "cattāri māsāni …",
+          "en": "four months …"
+        },
+        {
+          "scid": "mn10:46.17",
+          "pli": "tīṇi māsāni …",
+          "en": "three months …"
+        },
+        {
+          "scid": "mn10:46.18",
+          "pli": "dve māsāni …",
+          "en": "two months …"
+        },
+        {
+          "scid": "mn10:46.19",
+          "pli": "ekaṃ māsaṃ …",
+          "en": "one month …"
+        },
+        {
+          "scid": "mn10:46.20",
+          "pli": "aḍḍhamāsaṃ …",
+          "en": "a fortnight …"
+        },
+        {
+          "scid": "mn10:46.21",
+          "pli": "tiṭṭhatu, bhikkhave, aḍḍhamāso.",
+          "en": "Let alone a fortnight,"
+        },
+        {
+          "scid": "mn10:46.22",
+          "pli": "Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattāhaṃ, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ ",
+          "en": "anyone who develops these four kinds of mindfulness meditation in this way for seven days can expect one of two results: "
+        },
+        {
+          "scid": "mn10:46.23",
+          "pli": "diṭṭheva dhamme aññā sati vā upādisese anāgāmitāti.",
+          "en": "enlightenment in the present life, or if there’s something left over, non-return."
+        },
+        {
+          "scid": "mn10:47.1",
+          "pli": "‘Ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā sokaparidevānaṃ samatikkamāya dukkhadomanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya yadidaṃ cattāro satipaṭṭhānā’ti.",
+          "en": "‘The four kinds of mindfulness meditation are the path to convergence. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to complete the procedure, and to realize extinguishment.’"
+        },
+        {
+          "scid": "mn10:47.2",
+          "pli": "Iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttan”ti.",
+          "en": "That’s what I said, and this is why I said it.”"
+        },
+        {
+          "scid": "mn10:47.3",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn10:47.4",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn10:47.5",
+          "pli": "Satipaṭṭhānasuttaṃ niṭṭhitaṃ dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:47.6",
+          "pli": "Mūlapariyāyavaggo niṭṭhito paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "mn10:47.7",
+          "pli": "Mūlasusaṃvaradhammadāyādā,",
+          "en": ""
+        },
+        {
+          "scid": "mn10:47.8",
+          "pli": "Bheravānaṅgaṇākaṅkheyyavatthaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn10:47.9",
+          "pli": "Sallekhasammādiṭṭhisatipaṭṭhaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "mn10:47.10",
+          "pli": "Vaggavaro asamo susamatto.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 10",
+    "volpages": "MN i 55",
+    "uid": "mn10",
+    "blurb": "Here the Buddha details the seventh factor of the noble eightfold path, mindfulness meditation. This collects many of the meditation teachings found throughout the canon, especially the foundational practices focusing on the body, and is regarded as one of the most important meditation discourses.",
+    "difficulty": 2,
+    "original_title": "Mahāsatipaṭṭhāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mindfulness Meditation",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn10_sujato",
+        "segmented": true,
+        "title": "Mindfulness Meditation"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn10_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discourse on the Applications of Mindfulness"
+      }
+    ],
+    "parallel_count": 13,
+    "biblio": null,
+    "num": 10
+  }
+}

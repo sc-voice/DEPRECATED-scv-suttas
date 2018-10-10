@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn45.179",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.179",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Lower Fetters",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Higher Fetters",
+      "uid": "sn45.180"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Grasping Aggregates",
+      "uid": "sn45.178"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.179:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.179:0.2",
+          "pli": "14. Oghavagga",
+          "en": "14. Floods"
+        },
+        {
+          "scid": "sn45.179:0.3",
+          "pli": "179. Orambhāgiyasutta",
+          "en": "179. Lower Fetters"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.179:1.1",
+          "pli": "“Pañcimāni, bhikkhave, orambhāgiyāni saṃyojanāni.",
+          "en": "“Mendicants, there are five lower fetters."
+        },
+        {
+          "scid": "sn45.179:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn45.179:1.3",
+          "pli": "Sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo—",
+          "en": "Identity view, doubt, misapprehension of precepts and observances, sensual desire, and ill will."
+        },
+        {
+          "scid": "sn45.179:1.4",
+          "pli": "imāni kho, bhikkhave, pañcorambhāgiyāni saṃyojanāni.",
+          "en": "These are the five lower fetters."
+        },
+        {
+          "scid": "sn45.179:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya … pe … ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
+          "en": "The noble eightfold path should be developed for the direct knowledge, complete understanding, finishing, and giving up of these five lowers fetters.”"
+        },
+        {
+          "scid": "sn45.179:1.6",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.179/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.179",
+    "volpages": "SN v 61",
+    "uid": "sn45.179",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Orambhāgiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Lower Fetters",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.179_sujato",
+        "segmented": true,
+        "title": "Lower Fetters"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.179_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Lower Fetters"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

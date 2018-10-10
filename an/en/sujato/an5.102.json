@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an5.102",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.102",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Suspected",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Master Thief",
+      "uid": "an5.103"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Assurance",
+      "uid": "an5.101"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.102:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.102:0.2",
+          "pli": "11. Phāsuvihāravagga",
+          "en": "11. Living Comfortably"
+        },
+        {
+          "scid": "an5.102:0.3",
+          "pli": "102. Ussaṅkitasutta",
+          "en": "102. Suspected"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.102:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu ussaṅkitaparisaṅkito hoti pāpabhikkhūti api akuppadhammopi.",
+          "en": "“Mendicants, even if a monk is of impeccable character, he might be suspected and distrusted as a ‘bad monk’ for five reasons."
+        },
+        {
+          "scid": "an5.102:2.1",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.102:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu vesiyāgocaro vā hoti, vidhavāgocaro vā hoti, thullakumārikāgocaro vā hoti, paṇḍakagocaro vā hoti, bhikkhunīgocaro vā hoti.",
+          "en": "It’s when a monk frequently collects alms from prostitutes, widows, voluptuous girls, eunuchs, or nuns."
+        },
+        {
+          "scid": "an5.102:3.1",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu ussaṅkitaparisaṅkito hoti pāpabhikkhūti api akuppadhammopī”ti.",
+          "en": "Even if a monk is of impeccable character, he might be suspected and distrusted as a ‘bad monk’ for these five reasons.”"
+        },
+        {
+          "scid": "an5.102:3.2",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.102/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.102",
+    "volpages": "AN iii 128",
+    "uid": "an5.102",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ussaṅkita Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Suspected",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.102_sujato",
+        "segmented": true,
+        "title": "Suspected"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 2
+  }
+}

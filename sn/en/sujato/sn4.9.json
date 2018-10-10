@@ -1,0 +1,210 @@
+{
+  "sutta_uid": "sn4.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn4.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Life Span (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Long Life (2nd)",
+      "uid": "sn4.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Delighting",
+      "uid": "sn4.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn4.9:0.1",
+          "pli": "Saṃyutta Nikāya 4",
+          "en": "Linked Discourses 4"
+        },
+        {
+          "scid": "sn4.9:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. Life Span"
+        },
+        {
+          "scid": "sn4.9:0.3",
+          "pli": "9. Paṭhamaāyusutta",
+          "en": "9. Life Span (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn4.9:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn4.9:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.",
+          "en": "At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground."
+        },
+        {
+          "scid": "sn4.9:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "sn4.9:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "sn4.9:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "sn4.9:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "sn4.9:2.1",
+          "pli": "“Appamidaṃ, bhikkhave, manussānaṃ āyu.",
+          "en": "“Mendicants, the life span of humans is short."
+        },
+        {
+          "scid": "sn4.9:2.2",
+          "pli": "Gamanīyo samparāyo, kattabbaṃ kusalaṃ, caritabbaṃ brahmacariyaṃ.",
+          "en": "You must go to the next life. So you should do what is skillful, you should practice the spiritual life."
+        },
+        {
+          "scid": "sn4.9:2.3",
+          "pli": "Natthi jātassa amaraṇaṃ.",
+          "en": "No-one born is immortal."
+        },
+        {
+          "scid": "sn4.9:2.4",
+          "pli": "Yo, bhikkhave, ciraṃ jīvati, so vassasataṃ appaṃ vā bhiyyo”ti.",
+          "en": "A long life is a hundred years or a little more.”"
+        },
+        {
+          "scid": "sn4.9:3.1",
+          "pli": "Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Then Māra the Wicked went up to the Buddha and addressed him in verse:"
+        },
+        {
+          "scid": "sn4.9:4.1",
+          "pli": "“Dīghamāyu manussānaṃ,",
+          "en": "“The life of humans is long!"
+        },
+        {
+          "scid": "sn4.9:4.2",
+          "pli": "na naṃ hīḷe suporiso;",
+          "en": "A good person wouldn’t scorn it."
+        },
+        {
+          "scid": "sn4.9:4.3",
+          "pli": "Careyya khīramattova,",
+          "en": "Live like a suckling babe,"
+        },
+        {
+          "scid": "sn4.9:4.4",
+          "pli": "natthi maccussa āgamo”ti.",
+          "en": "for Death has not come for you.”"
+        },
+        {
+          "scid": "sn4.9:5.1",
+          "pli": "“Appamāyu manussānaṃ,",
+          "en": "“The life of humans is short,"
+        },
+        {
+          "scid": "sn4.9:5.2",
+          "pli": "hīḷeyya naṃ suporiso;",
+          "en": "and a good person scorns it."
+        },
+        {
+          "scid": "sn4.9:5.3",
+          "pli": "Careyyādittasīsova,",
+          "en": "They should live as though their head were on fire,"
+        },
+        {
+          "scid": "sn4.9:5.4",
+          "pli": "natthi maccussa nāgamo”ti.",
+          "en": "for Death comes for everyone.”"
+        },
+        {
+          "scid": "sn4.9:6.1",
+          "pli": "Atha kho māro … pe … tatthevantaradhāyīti.",
+          "en": "Then Māra … vanished right there."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn4.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 4.9//SN 145",
+    "volpages": "SN i 108//SN i 241",
+    "uid": "sn4.9",
+    "blurb": "Though the Buddha says that life is short, Māra says it is long.",
+    "difficulty": null,
+    "original_title": "Paṭhamaāyu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Life Span (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn4.9_sujato",
+        "segmented": true,
+        "title": "Life Span (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn4.9_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Life Span (1)"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 9
+  }
+}

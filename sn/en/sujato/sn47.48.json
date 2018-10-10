@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn47.48",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.48",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Friends",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Feelings",
+      "uid": "sn47.49"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Conduct",
+      "uid": "sn47.47"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.48:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.48:0.2",
+          "pli": "5. Amatavagga",
+          "en": "5. The Deathless"
+        },
+        {
+          "scid": "sn47.48:0.3",
+          "pli": "48. Mittasutta",
+          "en": "48. Friends"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.48:1.1",
+          "pli": "“Ye, bhikkhave, anukampeyyātha, ye ca kho sotabbaṃ maññeyyuṃ mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, catunnaṃ satipaṭṭhānānaṃ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+          "en": "“Mendicants, those for whom you have sympathy, and those worth listening to—friends and colleagues, relatives and family—should be encouraged, supported, and established in the development of the four kinds of mindfulness meditation."
+        },
+        {
+          "scid": "sn47.48:2.1",
+          "pli": "Katamesaṃ, catunnaṃ?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn47.48:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.48:2.3",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn47.48:2.4",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn47.48:2.5",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.48:2.6",
+          "pli": "Ye, bhikkhave, anukampeyyātha, ye ca sotabbaṃ maññeyyuṃ mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, imesaṃ catunnaṃ satipaṭṭhānānaṃ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā”ti.",
+          "en": "Those for whom you have sympathy, and those worth listening to—friends and colleagues, relatives and family—should be encouraged, supported, and established in the development of the four kinds of mindfulness meditation.”"
+        },
+        {
+          "scid": "sn47.48:2.7",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.48/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 47.48",
+    "volpages": "SN v 189",
+    "uid": "sn47.48",
+    "blurb": "You should encourage your friends to practice the four kinds of mindfulness meditation.",
+    "difficulty": null,
+    "original_title": "Mitta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Friends",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.48_sujato",
+        "segmented": true,
+        "title": "Friends"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.48_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Friends"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,815 @@
+{
+  "sutta_uid": "mn14",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn14",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Shorter Discourse on the Mass of Suffering",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Measuring Up",
+      "uid": "mn15"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Longer Discourse on the Mass of Suffering",
+      "uid": "mn13"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn14:0.1",
+          "pli": "Majjhima Nikāya 14",
+          "en": "Middle Discourses 14"
+        },
+        {
+          "scid": "mn14:0.2",
+          "pli": "Cūḷadukkhakkhandhasutta",
+          "en": "The Shorter Discourse on the Mass of Suffering"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 14…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn14:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn14:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme.",
+          "en": "At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery."
+        },
+        {
+          "scid": "mn14:2.1",
+          "pli": "Atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho mahānāmo sakko bhagavantaṃ etadavoca:",
+          "en": "Then Mahānāma the Sakyan went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "mn14:2.2",
+          "pli": "“dīgharattāhaṃ, bhante, bhagavatā evaṃ dhammaṃ desitaṃ ājānāmi:",
+          "en": "“For a long time, sir, I have understood your teaching like this:"
+        },
+        {
+          "scid": "mn14:2.3",
+          "pli": "‘lobho cittassa upakkileso, doso cittassa upakkileso, moho cittassa upakkileso’ti.",
+          "en": "‘Greed, hate, and delusion are corruptions of the mind.’"
+        },
+        {
+          "scid": "mn14:2.4",
+          "pli": "Evañcāhaṃ, bhante, bhagavatā dhammaṃ desitaṃ ājānāmi:",
+          "en": ""
+        },
+        {
+          "scid": "mn14:2.5",
+          "pli": "‘lobho cittassa upakkileso, doso cittassa upakkileso, moho cittassa upakkileso’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn14:2.6",
+          "pli": "Atha ca pana me ekadā lobhadhammāpi cittaṃ pariyādāya tiṭṭhanti, dosadhammāpi cittaṃ pariyādāya tiṭṭhanti, mohadhammāpi cittaṃ pariyādāya tiṭṭhanti.",
+          "en": "Despite understanding this, sometimes my mind is occupied by thoughts of greed, hate, and delusion."
+        },
+        {
+          "scid": "mn14:2.7",
+          "pli": "Tassa mayhaṃ, bhante, evaṃ hoti:",
+          "en": ""
+        },
+        {
+          "scid": "mn14:2.8",
+          "pli": "‘kosu nāma me dhammo ajjhattaṃ appahīno yena me ekadā lobhadhammāpi cittaṃ pariyādāya tiṭṭhanti, dosadhammāpi cittaṃ pariyādāya tiṭṭhanti, mohadhammāpi cittaṃ pariyādāya tiṭṭhantī’”ti.",
+          "en": "I wonder what qualities remain in me that I have such thoughts?”"
+        },
+        {
+          "scid": "mn14:3.1",
+          "pli": "“So eva kho te, mahānāma, dhammo ajjhattaṃ appahīno yena te ekadā lobhadhammāpi cittaṃ pariyādāya tiṭṭhanti, dosadhammāpi cittaṃ pariyādāya tiṭṭhanti, mohadhammāpi cittaṃ pariyādāya tiṭṭhanti.",
+          "en": "“Mahānāma, there is a quality that remains in you that makes you have such thoughts."
+        },
+        {
+          "scid": "mn14:3.2",
+          "pli": "So ca hi te, mahānāma, dhammo ajjhattaṃ pahīno abhavissa, na tvaṃ agāraṃ ajjhāvaseyyāsi, na kāme paribhuñjeyyāsi.",
+          "en": "For if you had given up that quality you would not still be living at home and enjoying sensual pleasures."
+        },
+        {
+          "scid": "mn14:3.3",
+          "pli": "Yasmā ca kho te, mahānāma, so eva dhammo ajjhattaṃ appahīno tasmā tvaṃ agāraṃ ajjhāvasasi, kāme paribhuñjasi.",
+          "en": "But because you haven’t given up that quality you are still living at home and enjoying sensual pleasures."
+        },
+        {
+          "scid": "mn14:4.1",
+          "pli": "‘Appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—",
+          "en": "Sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks."
+        },
+        {
+          "scid": "mn14:4.2",
+          "pli": "iti cepi, mahānāma, ariyasāvakassa yathābhūtaṃ sammappaññāya sudiṭṭhaṃ hoti, so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṃ nādhigacchati, aññaṃ vā tato santataraṃ;",
+          "en": "Even though a noble disciple has clearly seen this with right wisdom, so long as they don’t achieve the rapture and bliss that are apart from sensual pleasures and unskillful qualities, or something even more peaceful than that,"
+        },
+        {
+          "scid": "mn14:4.3",
+          "pli": "atha kho so neva tāva anāvaṭṭī kāmesu hoti.",
+          "en": "they might still return to sensual pleasures."
+        },
+        {
+          "scid": "mn14:4.4",
+          "pli": "Yato ca kho, mahānāma, ariyasāvakassa ‘appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—evametaṃ yathābhūtaṃ sammappaññāya sudiṭṭhaṃ hoti, so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṃ adhigacchati aññaṃ vā tato santataraṃ;",
+          "en": "But when they do achieve that rapture and bliss, or something more peaceful than that,"
+        },
+        {
+          "scid": "mn14:4.5",
+          "pli": "atha kho so anāvaṭṭī kāmesu hoti.",
+          "en": "they will not return to sensual pleasures."
+        },
+        {
+          "scid": "mn14:5.1",
+          "pli": "Mayhampi kho, mahānāma, pubbeva sambodhā, anabhisambuddhassa bodhisattasseva sato, ",
+          "en": "Before my awakening—when I was still unawakened but intent on awakening—I too clearly saw with right wisdom that: "
+        },
+        {
+          "scid": "mn14:5.2",
+          "pli": "‘appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—evametaṃ yathābhūtaṃ sammappaññāya sudiṭṭhaṃ hoti,",
+          "en": "‘Sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks.’"
+        },
+        {
+          "scid": "mn14:5.3",
+          "pli": "so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṃ nājjhagamaṃ, aññaṃ vā tato santataraṃ;",
+          "en": "But so long as I didn’t achieve the rapture and bliss that are apart from sensual pleasures and unskillful qualities, or something even more peaceful than that,"
+        },
+        {
+          "scid": "mn14:5.4",
+          "pli": "atha khvāhaṃ neva tāva anāvaṭṭī kāmesu paccaññāsiṃ.",
+          "en": "I didn’t announce that I would not return to sensual pleasures."
+        },
+        {
+          "scid": "mn14:5.5",
+          "pli": "Yato ca kho me, mahānāma, ‘appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—evametaṃ yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ahosi, so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṃ ajjhagamaṃ, aññaṃ vā tato santataraṃ;",
+          "en": "But when I did achieve that rapture and bliss, or something more peaceful than that,"
+        },
+        {
+          "scid": "mn14:5.6",
+          "pli": "athāhaṃ anāvaṭṭī kāmesu paccaññāsiṃ.",
+          "en": "I announced that I would not return to sensual pleasures."
+        },
+        {
+          "scid": "mn14:6.1",
+          "pli": "Ko ca, mahānāma, kāmānaṃ assādo?",
+          "en": "And what is the gratification of sensual pleasures?"
+        },
+        {
+          "scid": "mn14:6.2",
+          "pli": "Pañcime, mahānāma, kāmaguṇā.",
+          "en": "There are these five kinds of sensual stimulation."
+        },
+        {
+          "scid": "mn14:6.3",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "mn14:6.4",
+          "pli": "Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā;",
+          "en": "Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing."
+        },
+        {
+          "scid": "mn14:6.5",
+          "pli": "sotaviññeyyā saddā … pe …",
+          "en": "Sounds known by the ear …"
+        },
+        {
+          "scid": "mn14:6.6",
+          "pli": "ghānaviññeyyā gandhā …",
+          "en": "Smells known by the nose …"
+        },
+        {
+          "scid": "mn14:6.7",
+          "pli": "jivhāviññeyyā rasā …",
+          "en": "Tastes known by the tongue …"
+        },
+        {
+          "scid": "mn14:6.8",
+          "pli": "kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā—",
+          "en": "Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing."
+        },
+        {
+          "scid": "mn14:6.9",
+          "pli": "ime kho, mahānāma, pañca kāmaguṇā.",
+          "en": "These are the five kinds of sensual stimulation."
+        },
+        {
+          "scid": "mn14:6.10",
+          "pli": "Yaṃ kho, mahānāma, ime pañca kāmaguṇe paṭicca uppajjati sukhaṃ somanassaṃ—",
+          "en": "The pleasure and happiness that arise from these five kinds of sensual stimulation: this is the gratification of sensual pleasures."
+        },
+        {
+          "scid": "mn14:6.11",
+          "pli": "ayaṃ kāmānaṃ assādo.",
+          "en": ""
+        },
+        {
+          "scid": "mn14:7.1",
+          "pli": "Ko ca, mahānāma, kāmānaṃ ādīnavo?",
+          "en": "And what is the drawback of sensual pleasures?"
+        },
+        {
+          "scid": "mn14:7.2",
+          "pli": "Idha, mahānāma, kulaputto yena sippaṭṭhānena jīvikaṃ kappeti—",
+          "en": "It’s when a respectable person earns a living by means such as"
+        },
+        {
+          "scid": "mn14:7.3",
+          "pli": "yadi muddāya yadi gaṇanāya yadi saṅkhānena yadi kasiyā yadi vaṇijjāya yadi gorakkhena yadi issatthena yadi rājaporisena yadi sippaññatarena, ",
+          "en": "computing, accounting, calculating, farming, trade, raising cattle, archery, government service, or one of the professions. "
+        },
+        {
+          "scid": "mn14:7.4",
+          "pli": "sītassa purakkhato uṇhassa purakkhato ḍaṃsamakasavātātapasarīsapasamphassehi rissamāno khuppipāsāya mīyamāno;",
+          "en": "But they must face cold and heat, being hurt by the touch of flies, mosquitoes, wind, sun, and reptiles, and risking death from hunger and thirst."
+        },
+        {
+          "scid": "mn14:7.5",
+          "pli": "ayampi, mahānāma, kāmānaṃ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn14:8.1",
+          "pli": "Tassa ce, mahānāma, kulaputtassa evaṃ uṭṭhahato ghaṭato vāyamato te bhogā nābhinipphajjanti, ",
+          "en": "That respectable person might try hard, strive, and make an effort, but fail to earn any money. "
+        },
+        {
+          "scid": "mn14:8.2",
+          "pli": "so socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati ‘moghaṃ vata me uṭṭhānaṃ, aphalo vata me vāyāmo’ti.",
+          "en": "If this happens, they sorrow and pine and lament, beating their breast and falling into confusion, saying: ‘Oh, my hard work is wasted. My efforts are fruitless!’"
+        },
+        {
+          "scid": "mn14:8.3",
+          "pli": "Ayampi, mahānāma, kāmānaṃ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn14:9.1",
+          "pli": "Tassa ce, mahānāma, kulaputtassa evaṃ uṭṭhahato ghaṭato vāyamato te bhogā abhinipphajjanti.",
+          "en": "That respectable person might try hard, strive, and make an effort, and succeed in earning money."
+        },
+        {
+          "scid": "mn14:9.2",
+          "pli": "So tesaṃ bhogānaṃ ārakkhādhikaraṇaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti:",
+          "en": "But they experience pain and sadness when they try to protect it, thinking:"
+        },
+        {
+          "scid": "mn14:9.3",
+          "pli": "‘kinti me bhoge neva rājāno hareyyuṃ, na corā hareyyuṃ, na aggi daheyya, na udakaṃ vaheyya, na appiyā vā dāyādā hareyyun’ti.",
+          "en": "‘How can I prevent my wealth from being taken by rulers or bandits, consumed by fire, swept away by flood, or taken by unloved heirs?’"
+        },
+        {
+          "scid": "mn14:9.4",
+          "pli": "Tassa evaṃ ārakkhato gopayato te bhoge rājāno vā haranti, corā vā haranti, aggi vā dahati, udakaṃ vā vahati, appiyā vā dāyādā haranti.",
+          "en": "And even though they protect it and ward it, rulers or bandits take it, or fire consumes it, or flood sweeps it away, or unloved heirs take it."
+        },
+        {
+          "scid": "mn14:9.5",
+          "pli": "So socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati:",
+          "en": "They sorrow and pine and lament, beating their breast and falling into confusion:"
+        },
+        {
+          "scid": "mn14:9.6",
+          "pli": "‘yampi me ahosi tampi no natthī’ti.",
+          "en": "‘What used to be mine is gone.’"
+        },
+        {
+          "scid": "mn14:9.7",
+          "pli": "Ayampi, mahānāma, kāmānaṃ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn14:10.1",
+          "pli": "Puna caparaṃ, mahānāma, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu rājānopi rājūhi vivadanti, khattiyāpi khattiyehi vivadanti, brāhmaṇāpi brāhmaṇehi vivadanti, gahapatīpi gahapatīhi vivadanti, mātāpi puttena vivadati, puttopi mātarā vivadati, pitāpi puttena vivadati, puttopi pitarā vivadati, bhātāpi bhātarā vivadati, bhātāpi bhaginiyā vivadati, bhaginīpi bhātarā vivadati, sahāyopi sahāyena vivadati.",
+          "en": "Furthermore, for the sake of sensual pleasures kings fight with kings, aristocrats fight with aristocrats, brahmins fight with brahmins, and householders fight with householders. A mother fights with her child, child with mother, father with child, and child with father. Brother fights with brother, brother with sister, sister with brother, and friend fights with friend."
+        },
+        {
+          "scid": "mn14:10.2",
+          "pli": "Te tattha kalahaviggahavivādāpannā aññamaññaṃ pāṇīhipi upakkamanti, leḍḍūhipi upakkamanti, daṇḍehipi upakkamanti, satthehipi upakkamanti.",
+          "en": "Once they’ve started quarreling, arguing, and fighting, they attack each other with fists, stones, rods, and swords,"
+        },
+        {
+          "scid": "mn14:10.3",
+          "pli": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṃ.",
+          "en": "resulting in death and deadly pain."
+        },
+        {
+          "scid": "mn14:10.4",
+          "pli": "Ayampi, mahānāma, kāmānaṃ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn14:11.1",
+          "pli": "Puna caparaṃ, mahānāma, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu asicammaṃ gahetvā, dhanukalāpaṃ sannayhitvā, ubhatobyūḷhaṃ saṅgāmaṃ pakkhandanti usūsupi khippamānesu, sattīsupi khippamānāsu, asīsupi vijjotalantesu.",
+          "en": "Furthermore, for the sake of sensual pleasures they don their sword and shield, fasten their bow and arrows, and plunge into a battle massed on both sides, with arrows and spears flying and swords flashing."
+        },
+        {
+          "scid": "mn14:11.2",
+          "pli": "Te tattha usūhipi vijjhanti, sattiyāpi vijjhanti, asināpi sīsaṃ chindanti.",
+          "en": "There they are struck with arrows and spears, and their heads are chopped off,"
+        },
+        {
+          "scid": "mn14:11.3",
+          "pli": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṃ.",
+          "en": "resulting in death and deadly pain."
+        },
+        {
+          "scid": "mn14:11.4",
+          "pli": "Ayampi, mahānāma, kāmānaṃ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn14:12.1",
+          "pli": "Puna caparaṃ, mahānāma, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu asicammaṃ gahetvā, dhanukalāpaṃ sannayhitvā, addāvalepanā upakāriyo pakkhandanti usūsupi khippamānesu, sattīsupi khippamānāsu, asīsupi vijjotalantesu.",
+          "en": "Furthermore, for the sake of sensual pleasures they don their sword and shield, fasten their bow and arrows, and charge wetly plastered bastions, with arrows and spears flying and swords flashing."
+        },
+        {
+          "scid": "mn14:12.2",
+          "pli": "Te tattha usūhipi vijjhanti, sattiyāpi vijjhanti, chakaṇakāyapi osiñcanti, abhivaggenapi omaddanti, asināpi sīsaṃ chindanti.",
+          "en": "There they are struck with arrows and spears, splashed with dung, crushed with spiked blocks, and their heads are chopped off,"
+        },
+        {
+          "scid": "mn14:12.3",
+          "pli": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṃ.",
+          "en": "resulting in death and deadly pain."
+        },
+        {
+          "scid": "mn14:12.4",
+          "pli": "Ayampi, mahānāma, kāmānaṃ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn14:13.1",
+          "pli": "Puna caparaṃ, mahānāma, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu sandhimpi chindanti, nillopampi haranti, ekāgārikampi karonti, paripanthepi tiṭṭhanti, paradārampi gacchanti.",
+          "en": "Furthermore, for the sake of sensual pleasures they break into houses, plunder wealth, steal from isolated buildings, commit highway robbery, and commit adultery."
+        },
+        {
+          "scid": "mn14:13.2",
+          "pli": "Tamenaṃ rājāno gahetvā vividhā kammakāraṇā kārenti—",
+          "en": "The rulers would arrest them and subject them to various punishments—"
+        },
+        {
+          "scid": "mn14:13.3",
+          "pli": "kasāhipi tāḷenti, vettehipi tāḷenti, aḍḍhadaṇḍakehipi tāḷenti; hatthampi chindanti, pādampi chindanti, hatthapādampi chindanti, kaṇṇampi chindanti, nāsampi chindanti, kaṇṇanāsampi chindanti; bilaṅgathālikampi karonti, saṅkhamuṇḍikampi karonti, rāhumukhampi karonti, jotimālikampi karonti, hatthapajjotikampi karonti, erakavattikampi karonti, cīrakavāsikampi karonti, eṇeyyakampi karonti, baḷisamaṃsikampi karonti, kahāpaṇikampi karonti, khārāpatacchikampi karonti, palighaparivattikampi karonti, palālapīṭhakampi karonti, tattenapi telena osiñcanti, sunakhehipi khādāpenti, jīvantampi sūle uttāsenti, asināpi sīsaṃ chindanti.",
+          "en": "whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded."
+        },
+        {
+          "scid": "mn14:13.4",
+          "pli": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṃ.",
+          "en": "These result in death and deadly pain."
+        },
+        {
+          "scid": "mn14:13.5",
+          "pli": "Ayampi, mahānāma, kāmānaṃ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn14:14.1",
+          "pli": "Puna caparaṃ, mahānāma, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu kāyena duccaritaṃ caranti, vācāya duccaritaṃ caranti, manasā duccaritaṃ caranti.",
+          "en": "Furthermore, for the sake of sensual pleasures, they conduct themselves badly by way of body, speech, and mind."
+        },
+        {
+          "scid": "mn14:14.2",
+          "pli": "Te kāyena duccaritaṃ caritvā, vācāya duccaritaṃ caritvā, manasā duccaritaṃ caritvā, kāyassa bhedā paraṃ maraṇā, apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjanti.",
+          "en": "When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "mn14:14.3",
+          "pli": "Ayampi, mahānāma, kāmānaṃ ādīnavo samparāyiko, dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This is a drawback of sensual pleasures to do with lives to come, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn14:15.1",
+          "pli": "Ekamidāhaṃ, mahānāma, samayaṃ rājagahe viharāmi gijjhakūṭe pabbate.",
+          "en": "Mahānāma, this one time I was staying near Rājagaha, on the Vulture’s Peak Mountain."
+        },
+        {
+          "scid": "mn14:15.2",
+          "pli": "Tena kho pana samayena sambahulā nigaṇṭhā isigilipasse kāḷasilāyaṃ ubbhaṭṭhakā honti āsanapaṭikkhittā, opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti.",
+          "en": "Now at that time several Jain ascetics on the slopes of Isigili at the Black Rock were constantly standing, refusing seats. And they felt painful, sharp, severe, acute feelings due to overexertion."
+        },
+        {
+          "scid": "mn14:16.1",
+          "pli": "Atha khvāhaṃ, mahānāma, sāyanhasamayaṃ paṭisallānā vuṭṭhito yena isigilipasse kāḷasilā yena te nigaṇṭhā tenupasaṅkamiṃ; upasaṅkamitvā te nigaṇṭhe etadavocaṃ:",
+          "en": "Then in the late afternoon, I came out of retreat and went to the Black Rock to visit those Jain ascetics. I said to them:"
+        },
+        {
+          "scid": "mn14:16.2",
+          "pli": "‘kiṃ nu tumhe, āvuso nigaṇṭhā, ubbhaṭṭhakā āsanapaṭikkhittā, opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayathā’ti?",
+          "en": "‘Reverends, why are you constantly standing, refusing seats, so that you feel painful, sharp, severe, acute feelings due to overexertion?’"
+        },
+        {
+          "scid": "mn14:17.1",
+          "pli": "Evaṃ vutte, mahānāma, te nigaṇṭhā maṃ etadavocuṃ:",
+          "en": "When I said this, those Jain ascetics said to me:"
+        },
+        {
+          "scid": "mn14:17.2",
+          "pli": "‘nigaṇṭho, āvuso, nāṭaputto sabbaññū sabbadassāvī aparisesaṃ ñāṇadassanaṃ paṭijānāti:",
+          "en": "‘Reverend, the Jain leader Nātaputta claims to be all-knowing and all-seeing, to know and see everything without exception, thus:"
+        },
+        {
+          "scid": "mn14:17.3",
+          "pli": "“carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṃ samitaṃ ñāṇadassanaṃ paccupaṭṭhitan”ti.",
+          "en": "“Knowledge and vision are constantly and continually present to me, while walking, standing, sleeping, and waking.”"
+        },
+        {
+          "scid": "mn14:17.4",
+          "pli": "So evamāha:",
+          "en": "He says:"
+        },
+        {
+          "scid": "mn14:17.5",
+          "pli": "“atthi kho vo, nigaṇṭhā, pubbe pāpakammaṃ kataṃ, taṃ imāya kaṭukāya dukkarakārikāya nijjīretha;",
+          "en": "“O Jain ascetics, you have done bad deeds in a past life. Wear them away with these severe and grueling austerities."
+        },
+        {
+          "scid": "mn14:17.6",
+          "pli": "yaṃ panettha etarahi kāyena saṃvutā vācāya saṃvutā manasā saṃvutā taṃ āyatiṃ pāpassa kammassa akaraṇaṃ;",
+          "en": "But through restraint in body, speech, and mind in this matter you’re not currently doing any bad deeds for the future."
+        },
+        {
+          "scid": "mn14:17.7",
+          "pli": "iti purāṇānaṃ kammānaṃ tapasā byantibhāvā, navānaṃ kammānaṃ akaraṇā, āyatiṃ anavassavo;",
+          "en": "So, due to eliminating past deeds by mortification, and not doing any new deeds, there’s nothing to come up in the future."
+        },
+        {
+          "scid": "mn14:17.8",
+          "pli": "āyatiṃ anavassavā kammakkhayo, kammakkhayā dukkhakkhayo, dukkhakkhayā vedanākkhayo, vedanākkhayā sabbaṃ dukkhaṃ nijjiṇṇaṃ bhavissatī”ti.",
+          "en": "With nothing to come up in the future, deeds end. With the ending of deeds, suffering ends. With the ending of suffering, feeling ends. And with the ending of feeling, all suffering will have been worn away.”"
+        },
+        {
+          "scid": "mn14:17.9",
+          "pli": "Tañca panamhākaṃ ruccati ceva khamati ca, tena camha attamanā’ti.",
+          "en": "We approve and accept this, and we are satisfied with it.’"
+        },
+        {
+          "scid": "mn14:18.1",
+          "pli": "Evaṃ vutte, ahaṃ, mahānāma, te nigaṇṭhe etadavocaṃ:",
+          "en": "When they said this, I said to them:"
+        },
+        {
+          "scid": "mn14:18.2",
+          "pli": "‘kiṃ pana tumhe, āvuso nigaṇṭhā, jānātha—",
+          "en": "‘But reverends, do you know"
+        },
+        {
+          "scid": "mn14:18.3",
+          "pli": "ahuvamheva mayaṃ pubbe na nāhuvamhā’ti?",
+          "en": "for sure that you existed in the past, and it is not the case that you didn’t exist?’"
+        },
+        {
+          "scid": "mn14:18.4",
+          "pli": "‘No hidaṃ, āvuso’.",
+          "en": "‘No we don’t, reverend.’"
+        },
+        {
+          "scid": "mn14:18.5",
+          "pli": "‘Kiṃ pana tumhe, āvuso nigaṇṭhā, jānātha—",
+          "en": "‘But reverends, do you know"
+        },
+        {
+          "scid": "mn14:18.6",
+          "pli": "akaramheva mayaṃ pubbe pāpakammaṃ na nākaramhā’ti?",
+          "en": "for sure that you did bad deeds in the past?’"
+        },
+        {
+          "scid": "mn14:18.7",
+          "pli": "‘No hidaṃ, āvuso’.",
+          "en": "‘No we don’t, reverend.’"
+        },
+        {
+          "scid": "mn14:18.8",
+          "pli": "‘Kiṃ pana tumhe, āvuso nigaṇṭhā, jānātha—",
+          "en": "‘But reverends, do you know"
+        },
+        {
+          "scid": "mn14:18.9",
+          "pli": "evarūpaṃ vā evarūpaṃ vā pāpakammaṃ akaramhā’ti?",
+          "en": "that you did such and such bad deeds?’"
+        },
+        {
+          "scid": "mn14:18.10",
+          "pli": "‘No hidaṃ, āvuso’.",
+          "en": "‘No we don’t, reverend.’"
+        },
+        {
+          "scid": "mn14:18.11",
+          "pli": "‘Kiṃ pana tumhe, āvuso nigaṇṭhā, jānātha—",
+          "en": "‘But reverends, do you know"
+        },
+        {
+          "scid": "mn14:18.12",
+          "pli": "ettakaṃ vā dukkhaṃ nijjiṇṇaṃ, ettakaṃ vā dukkhaṃ nijjīretabbaṃ, ettakamhi vā dukkhe nijjiṇṇe sabbaṃ dukkhaṃ nijjiṇṇaṃ bhavissatī’ti?",
+          "en": "that so much suffering has already been worn away? Or that so much suffering still remains to be worn away? Or that when so much suffering is worn away all suffering will have been worn away?’"
+        },
+        {
+          "scid": "mn14:18.13",
+          "pli": "‘No hidaṃ, āvuso’.",
+          "en": "‘No we don’t, reverend.’"
+        },
+        {
+          "scid": "mn14:18.14",
+          "pli": "‘Kiṃ pana tumhe, āvuso nigaṇṭhā, jānātha—",
+          "en": "‘But reverends, do you know"
+        },
+        {
+          "scid": "mn14:18.15",
+          "pli": "diṭṭheva dhamme akusalānaṃ dhammānaṃ pahānaṃ, kusalānaṃ dhammānaṃ upasampadan’ti?",
+          "en": "about giving up unskillful qualities in the present life and gaining skillful qualities?’"
+        },
+        {
+          "scid": "mn14:18.16",
+          "pli": "‘No hidaṃ, āvuso’.",
+          "en": "‘No we don’t, reverend.’"
+        },
+        {
+          "scid": "mn14:19.1",
+          "pli": "‘Iti kira tumhe, āvuso nigaṇṭhā, na jānātha—",
+          "en": "‘So it seems that you don’t know any of these things."
+        },
+        {
+          "scid": "mn14:19.2",
+          "pli": "ahuvamheva mayaṃ pubbe na nāhuvamhāti, na jānātha—",
+          "en": ""
+        },
+        {
+          "scid": "mn14:19.3",
+          "pli": "akaramheva mayaṃ pubbe pāpakammaṃ na nākaramhāti, na jānātha—",
+          "en": ""
+        },
+        {
+          "scid": "mn14:19.4",
+          "pli": "evarūpaṃ vā evarūpaṃ vā pāpakammaṃ akaramhāti, na jānātha—",
+          "en": ""
+        },
+        {
+          "scid": "mn14:19.5",
+          "pli": "ettakaṃ vā dukkhaṃ nijjiṇṇaṃ, ettakaṃ vā dukkhaṃ nijjīretabbaṃ, ettakamhi vā dukkhe nijjiṇṇe sabbaṃ dukkhaṃ nijjiṇṇaṃ bhavissatīti.",
+          "en": ""
+        },
+        {
+          "scid": "mn14:19.6",
+          "pli": "Na jānātha—",
+          "en": ""
+        },
+        {
+          "scid": "mn14:19.7",
+          "pli": "diṭṭheva dhamme akusalānaṃ dhammānaṃ pahānaṃ, kusalānaṃ dhammānaṃ upasampadaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn14:19.8",
+          "pli": "Evaṃ sante, āvuso nigaṇṭhā, ye loke luddā lohitapāṇino kurūrakammantā manussesu paccājātā te nigaṇṭhesu pabbajantī’ti?",
+          "en": "That being so, when those in the world who are violent and bloody-handed and make their living by cruelty are reborn among humans they go forth as Jain ascetics.’"
+        },
+        {
+          "scid": "mn14:20.1",
+          "pli": "‘Na kho, āvuso gotama, sukhena sukhaṃ adhigantabbaṃ, dukkhena kho sukhaṃ adhigantabbaṃ;",
+          "en": "‘Reverend Gotama, pleasure is not gained through pleasure; pleasure is gained through pain."
+        },
+        {
+          "scid": "mn14:20.2",
+          "pli": "sukhena cāvuso gotama, sukhaṃ adhigantabbaṃ abhavissa, rājā māgadho seniyo bimbisāro sukhaṃ adhigaccheyya, rājā māgadho seniyo bimbisāro sukhavihāritaro āyasmatā gotamenā’ti.",
+          "en": "For if pleasure were to be gained through pleasure, King Seniya Bimbisāra of Māgadha would gain pleasure, since he lives in greater pleasure than Venerable Gotama.’"
+        },
+        {
+          "scid": "mn14:20.3",
+          "pli": "‘Addhāyasmantehi nigaṇṭhehi sahasā appaṭisaṅkhā vācā bhāsitā:",
+          "en": "‘Clearly the venerables have spoken rashly, without thinking."
+        },
+        {
+          "scid": "mn14:20.4",
+          "pli": "“na kho, āvuso gotama, sukhena sukhaṃ adhigantabbaṃ, dukkhena kho sukhaṃ adhigantabbaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn14:20.5",
+          "pli": "sukhena cāvuso gotama, sukhaṃ adhigantabbaṃ abhavissa, rājā māgadho seniyo bimbisāro sukhaṃ adhigaccheyya, rājā māgadho seniyo bimbisāro sukhavihāritaro āyasmatā gotamenā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn14:20.6",
+          "pli": "Api ca ahameva tattha paṭipucchitabbo:",
+          "en": "Rather, I’m the one who should be asked about"
+        },
+        {
+          "scid": "mn14:20.7",
+          "pli": "“ko nu kho āyasmantānaṃ sukhavihāritaro rājā vā māgadho seniyo bimbisāro āyasmā vā gotamo”ti?",
+          "en": "who lives in greater pleasure, King Bimbisāra or Venerable Gotama?’"
+        },
+        {
+          "scid": "mn14:20.8",
+          "pli": "Addhāvuso gotama, amhehi sahasā appaṭisaṅkhā vācā bhāsitā, na kho, āvuso gotama, sukhena sukhaṃ adhigantabbaṃ, dukkhena kho sukhaṃ adhigantabbaṃ;",
+          "en": "‘Clearly we spoke rashly and without thinking."
+        },
+        {
+          "scid": "mn14:20.9",
+          "pli": "sukhena cāvuso gotama, sukhaṃ adhigantabbaṃ abhavissa, rājā māgadho seniyo bimbisāro sukhaṃ adhigaccheyya, rājā māgadho seniyo bimbisāro sukhavihāritaro āyasmatā gotamenāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn14:20.10",
+          "pli": "Api ca tiṭṭhatetaṃ, idānipi mayaṃ āyasmantaṃ gotamaṃ pucchāma:",
+          "en": "But forget about that. Now we ask Venerable Gotama:"
+        },
+        {
+          "scid": "mn14:20.11",
+          "pli": "“ko nu kho āyasmantānaṃ sukhavihāritaro rājā vā māgadho seniyo bimbisāro āyasmā vā gotamo”ti?",
+          "en": "\"Who lives in greater pleasure, King Bimbisāra or Venerable Gotama?\"'"
+        },
+        {
+          "scid": "mn14:21.1",
+          "pli": "Tena hāvuso nigaṇṭhā, tumheva tattha paṭipucchissāmi, yathā vo khameyya tathā naṃ byākareyyātha.",
+          "en": "‘Well then, reverends, I’ll ask you about this in return, and you can answer as you like."
+        },
+        {
+          "scid": "mn14:21.2",
+          "pli": "Taṃ kiṃ maññathāvuso nigaṇṭhā, pahoti rājā māgadho seniyo bimbisāro, ",
+          "en": "What do you think, reverends? "
+        },
+        {
+          "scid": "mn14:21.3",
+          "pli": "aniñjamāno kāyena, abhāsamāno vācaṃ, satta rattindivāni ekantasukhaṃ paṭisaṃvedī viharitun’ti?",
+          "en": "Is King Bimbisāra capable of experiencing perfect happiness for seven days and nights without moving his body or speaking?’"
+        },
+        {
+          "scid": "mn14:21.4",
+          "pli": "‘No hidaṃ, āvuso’.",
+          "en": "‘No he is not, reverend.’"
+        },
+        {
+          "scid": "mn14:21.5",
+          "pli": "‘Taṃ kiṃ maññathāvuso nigaṇṭhā, pahoti rājā māgadho seniyo bimbisāro, ",
+          "en": "‘What do you think, reverends? "
+        },
+        {
+          "scid": "mn14:21.6",
+          "pli": "aniñjamāno kāyena, abhāsamāno vācaṃ, cha rattindivāni … pe …",
+          "en": "Is King Bimbisāra capable of experiencing unalloyed bliss for six days …"
+        },
+        {
+          "scid": "mn14:21.7",
+          "pli": "pañca rattindivāni …",
+          "en": "five days …"
+        },
+        {
+          "scid": "mn14:21.8",
+          "pli": "cattāri rattindivāni …",
+          "en": "four days …"
+        },
+        {
+          "scid": "mn14:21.9",
+          "pli": "tīṇi rattindivāni …",
+          "en": "three days …"
+        },
+        {
+          "scid": "mn14:21.10",
+          "pli": "dve rattindivāni …",
+          "en": "two days …"
+        },
+        {
+          "scid": "mn14:21.11",
+          "pli": "ekaṃ rattindivaṃ ekantasukhaṃ paṭisaṃvedī viharitun’ti?",
+          "en": "one day?’"
+        },
+        {
+          "scid": "mn14:21.12",
+          "pli": "‘No hidaṃ, āvuso’.",
+          "en": "‘No he is not, reverend.’"
+        },
+        {
+          "scid": "mn14:21.13",
+          "pli": "‘Ahaṃ kho, āvuso nigaṇṭhā, pahomi aniñjamāno kāyena, abhāsamāno vācaṃ, ekaṃ rattindivaṃ ekantasukhaṃ paṭisaṃvedī viharituṃ.",
+          "en": "‘But I am capable of experiencing perfect happiness for one day and night without moving my body or speaking."
+        },
+        {
+          "scid": "mn14:21.14",
+          "pli": "Ahaṃ kho, āvuso nigaṇṭhā, pahomi aniñjamāno kāyena, abhāsamāno vācaṃ, dve rattindivāni …",
+          "en": "I am capable of experiencing unalloyed bliss for two days …"
+        },
+        {
+          "scid": "mn14:21.15",
+          "pli": "tīṇi rattindivāni …",
+          "en": "three days …"
+        },
+        {
+          "scid": "mn14:21.16",
+          "pli": "cattāri rattindivāni …",
+          "en": "four days …"
+        },
+        {
+          "scid": "mn14:21.17",
+          "pli": "pañca rattindivāni …",
+          "en": "five days …"
+        },
+        {
+          "scid": "mn14:21.18",
+          "pli": "cha rattindivāni …",
+          "en": "six days …"
+        },
+        {
+          "scid": "mn14:21.19",
+          "pli": "satta rattindivāni ekantasukhaṃ paṭisaṃvedī viharituṃ.",
+          "en": "seven days."
+        },
+        {
+          "scid": "mn14:21.20",
+          "pli": "Taṃ kiṃ maññathāvuso nigaṇṭhā, evaṃ sante ko sukhavihāritaro rājā vā māgadho seniyo bimbisāro ahaṃ vā’ti?",
+          "en": "What do you think, reverends? This being so, who lives in greater pleasure, King Bimbisāra or I?’"
+        },
+        {
+          "scid": "mn14:21.21",
+          "pli": "‘Evaṃ sante āyasmāva gotamo sukhavihāritaro raññā māgadhena seniyena bimbisārenā’”ti.",
+          "en": "‘This being so, Venerable Gotama lives in greater pleasure than King Bimbisāra.’”"
+        },
+        {
+          "scid": "mn14:21.22",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn14:21.23",
+          "pli": "Attamano mahānāmo sakko bhagavato bhāsitaṃ abhinandīti.",
+          "en": "Satisfied, Mahānāma the Sakyan was happy with what the Buddha said."
+        },
+        {
+          "scid": "mn14:21.24",
+          "pli": "Cūḷadukkhakkhandhasuttaṃ niṭṭhitaṃ catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn14/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 14",
+    "volpages": "MN i 91",
+    "uid": "mn14",
+    "blurb": "A lay person is puzzled at how, despite their long practice, they still have greedy or hateful thoughts. The Buddha explains the importance of absorption meditation for letting go such attachments. But he also criticizes self-mortification, and recounts a previous dialog with Jain ascetics.",
+    "difficulty": 2,
+    "original_title": "Cūḷadukkhakkhandha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Shorter Discourse on the Mass of Suffering",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn14_sujato",
+        "segmented": true,
+        "title": "The Shorter Discourse on the Mass of Suffering"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn14_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Lesser Discourse on the Stems of Anguish"
+      }
+    ],
+    "parallel_count": 11,
+    "biblio": null,
+    "num": 4
+  }
+}

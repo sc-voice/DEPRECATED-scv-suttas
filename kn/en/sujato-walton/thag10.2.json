@@ -1,0 +1,149 @@
+{
+  "sutta_uid": "thag10.2",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag10.2",
+    "lang": "en",
+    "is_root": false,
+    "title": "Ekavihāriya",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Mahākappina",
+      "uid": "thag10.3"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Kāḷudāyi",
+      "uid": "thag10.1"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag10.2:0.1",
+          "en": "Theragāthā 10.2"
+        },
+        {
+          "scid": "thag10.2:0.2",
+          "en": "Ekavihāriya",
+          "pli": "Ekavihāriyattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag10.2:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag10.2:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag10.2:1.0.3",
+          "en": "Chapter of the Tens"
+        },
+        {
+          "scid": "thag10.2:1.0.4",
+          "en": "10.2. Ekavihāriya"
+        },
+        {
+          "scid": "thag10.2:1.1.5",
+          "en": "If no-one else is found In front or behind, It’s extremely pleasant, Dwelling alone in a forest grove."
+        },
+        {
+          "scid": "thag10.2:1.2.6",
+          "en": "Come now, I’ll go alone To the wilderness praised by the Buddha. It’s pleasant for a monk Dwelling alone and resolute."
+        },
+        {
+          "scid": "thag10.2:1.3.7",
+          "en": "Alone and self-disciplined, I’ll quickly enter the delightful forest, Which gives joy to meditators, And is frequented by rutting elephants."
+        },
+        {
+          "scid": "thag10.2:1.4.8",
+          "en": "In Sītavana, so full of flowers, In a cool mountain cave, I’ll bathe my limbs And walk meditation alone."
+        },
+        {
+          "scid": "thag10.2:1.5.9",
+          "en": "When will I dwell alone, Without a companion, In the great wood, so delightful, My task complete, free of defilements?"
+        },
+        {
+          "scid": "thag10.2:1.6.10",
+          "en": "This is what I want to do: May my wish succeed! I’ll make it happen myself: No-one can do someone else’s duty."
+        },
+        {
+          "scid": "thag10.2:1.7.11",
+          "en": "Fastening my armour, I’ll enter the forest. I won’t leave here Until I have attained the end of defilements."
+        },
+        {
+          "scid": "thag10.2:1.8.12",
+          "en": "As the cool breeze blows With fragrant scent, I’ll split ignorance apart, Sitting on the mountain-peak."
+        },
+        {
+          "scid": "thag10.2:1.9.13",
+          "en": "In a forest grove covered with blossoms, In a cave so very cool, I take pleasure in Giribbaja, Happy with the happiness of freedom."
+        },
+        {
+          "scid": "thag10.2:1.10.14",
+          "en": "My intentions are fulfilled Like the moon on the fifteenth day. With the utter ending of all defilements, Now there is no more rebirth into any state of existence."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag10.2/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 10.2",
+    "volpages": "Thag 57",
+    "uid": "thag10.2",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ekavihāriyattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ekavihāriya",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag10.2_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Ekavihāriya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

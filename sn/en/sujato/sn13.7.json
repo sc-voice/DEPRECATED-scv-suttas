@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn13.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn13.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Ocean",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ocean (2nd)",
+      "uid": "sn13.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Earth (2nd)",
+      "uid": "sn13.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn13.7:0.1",
+          "pli": "Saṃyutta Nikāya 13",
+          "en": "Linked Discourses 13"
+        },
+        {
+          "scid": "sn13.7:0.2",
+          "pli": "1. Abhisamayavagga",
+          "en": "1. Comprehension"
+        },
+        {
+          "scid": "sn13.7:0.3",
+          "pli": "7. Samuddasutta",
+          "en": "7. The Ocean"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 13…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn13.7:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn13.7:1.2",
+          "pli": "“Seyyathāpi, bhikkhave, puriso mahāsamuddato dve vā tīṇi vā udakaphusitāni uddhareyya.",
+          "en": "“Mendicants, suppose a man was to draw up two or three drops of water from the ocean."
+        },
+        {
+          "scid": "sn13.7:1.3",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "sn13.7:1.4",
+          "pli": "katamaṃ nu kho bahutaraṃ, yāni vā dve vā tīṇi vā udakaphusitāni ubbhatāni yaṃ vā mahāsamudde udakan”ti?",
+          "en": "Which is more: the two or three drops drawn out or the water in the ocean?”"
+        },
+        {
+          "scid": "sn13.7:2.1",
+          "pli": "“Etadeva, bhante, bahutaraṃ, yadidaṃ mahāsamudde udakaṃ;",
+          "en": "“Sir, the water in the ocean is certainly more."
+        },
+        {
+          "scid": "sn13.7:2.2",
+          "pli": "appamattakāni dve vā tīṇi vā udakaphusitāni ubbhatāni.",
+          "en": "The two or three drops drawn out are tiny."
+        },
+        {
+          "scid": "sn13.7:2.3",
+          "pli": "Neva satimaṃ kalaṃ upenti na sahassimaṃ kalaṃ upenti na satasahassimaṃ kalaṃ upenti mahāsamudde udakaṃ upanidhāya dve vā tīṇi vā udakaphusitāni ubbhatānī”ti.",
+          "en": "Compared to the water in the ocean, it’s not nearly a hundredth, a thousandth, or a hundred thousandth part.”"
+        },
+        {
+          "scid": "sn13.7:2.4",
+          "pli": "“Evameva kho, bhikkhave … pe …",
+          "en": "“In the same way, for a noble disciple, the suffering that’s over and done with is more …”"
+        },
+        {
+          "scid": "sn13.7:2.5",
+          "pli": "dhammacakkhupaṭilābho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn13.7:2.6",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn13.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 13.7",
+    "volpages": "SN ii 136",
+    "uid": "sn13.7",
+    "blurb": "For someone who has seen the truth, the suffering eliminated is like the water in the ocean; what remains is like a few drops.",
+    "difficulty": null,
+    "original_title": "Samudda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Ocean",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn13.7_sujato",
+        "segmented": true,
+        "title": "The Ocean"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 7
+  }
+}

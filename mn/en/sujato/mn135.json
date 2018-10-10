@@ -1,0 +1,780 @@
+{
+  "sutta_uid": "mn135",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn135",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Shorter Analysis of Deeds",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Longer Analysis of Deeds",
+      "uid": "mn136"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lomasakaṅgiya and One Fine Night",
+      "uid": "mn134"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn135:0.1",
+          "pli": "Majjhima Nikāya 135",
+          "en": "Middle Discourses 135"
+        },
+        {
+          "scid": "mn135:0.2",
+          "pli": "Cūḷakammavibhaṅgasutta",
+          "en": "The Shorter Analysis of Deeds"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 135…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn135:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn135:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane, anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn135:2.1",
+          "pli": "Atha kho subho māṇavo todeyyaputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi.",
+          "en": "Then the brahmin student Subha, Todeyya’s son, approached the Buddha, and exchanged greetings with him."
+        },
+        {
+          "scid": "mn135:2.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho subho māṇavo todeyyaputto bhagavantaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side and said to the Buddha:"
+        },
+        {
+          "scid": "mn135:3.1",
+          "pli": "“Ko nu kho, bho gotama, hetu ko paccayo yena manussānaṃyeva sataṃ manussabhūtānaṃ dissanti hīnappaṇītatā?",
+          "en": "“What is the cause, Master Gotama, what is the reason why even among those who are human beings some are seen to be inferior and superior?"
+        },
+        {
+          "scid": "mn135:3.2",
+          "pli": "Dissanti hi, bho gotama, manussā appāyukā, dissanti dīghāyukā;",
+          "en": "For people are seen who are short-lived and long-lived,"
+        },
+        {
+          "scid": "mn135:3.3",
+          "pli": "dissanti bavhābādhā, dissanti appābādhā;",
+          "en": "sickly and healthy,"
+        },
+        {
+          "scid": "mn135:3.4",
+          "pli": "dissanti dubbaṇṇā, dissanti vaṇṇavanto;",
+          "en": "ugly and beautiful,"
+        },
+        {
+          "scid": "mn135:3.5",
+          "pli": "dissanti appesakkhā, dissanti mahesakkhā;",
+          "en": "insignificant and illustrious,"
+        },
+        {
+          "scid": "mn135:3.6",
+          "pli": "dissanti appabhogā, dissanti mahābhogā;",
+          "en": "poor and rich,"
+        },
+        {
+          "scid": "mn135:3.7",
+          "pli": "dissanti nīcakulīnā, dissanti uccākulīnā;",
+          "en": "from low and eminent families,"
+        },
+        {
+          "scid": "mn135:3.8",
+          "pli": "dissanti duppaññā, dissanti paññavanto.",
+          "en": "witless and wise."
+        },
+        {
+          "scid": "mn135:3.9",
+          "pli": "Ko nu kho, bho gotama, hetu ko paccayo yena manussānaṃyeva sataṃ manussabhūtānaṃ dissanti hīnappaṇītatā”ti?",
+          "en": "What is the reason why even among those who are human beings some are seen to be inferior and superior?”"
+        },
+        {
+          "scid": "mn135:4.1",
+          "pli": "“Kammassakā, māṇava, sattā kammadāyādā kammayonī kammabandhū kammappaṭisaraṇā.",
+          "en": "“Student, sentient beings are the owners of their deeds and heir to their deeds. Deeds are their womb, their relative, and their refuge."
+        },
+        {
+          "scid": "mn135:4.2",
+          "pli": "Kammaṃ satte vibhajati yadidaṃ—",
+          "en": "It is deeds that divide beings into"
+        },
+        {
+          "scid": "mn135:4.3",
+          "pli": "hīnappaṇītatāyā”ti.",
+          "en": "inferior and superior.”"
+        },
+        {
+          "scid": "mn135:4.4",
+          "pli": "“Na kho ahaṃ imassa bhoto gotamassa saṃkhittena bhāsitassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ ājānāmi.",
+          "en": "“I don’t understand the meaning of what Master Gotama has said in brief, without explaining the details."
+        },
+        {
+          "scid": "mn135:4.5",
+          "pli": "Sādhu me bhavaṃ gotamo tathā dhammaṃ desetu yathā ahaṃ imassa bhoto gotamassa saṃkhittena bhāsitassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ ājāneyyan”ti.",
+          "en": "Master Gotama, please teach me this matter in detail so I can understand the meaning.”"
+        },
+        {
+          "scid": "mn135:4.6",
+          "pli": "“Tena hi, māṇava, suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti.",
+          "en": "“Well then, student, listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "mn135:4.7",
+          "pli": "“Evaṃ, bho”ti kho subho māṇavo todeyyaputto bhagavato paccassosi.",
+          "en": "“Yes, sir,” replied Subha."
+        },
+        {
+          "scid": "mn135:4.8",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn135:5.1",
+          "pli": "“Idha, māṇava, ekacco itthī vā puriso vā pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu.",
+          "en": "“Take some woman or man who kills living creatures. They’re violent, bloody-handed, a hardened killer, merciless to living beings."
+        },
+        {
+          "scid": "mn135:5.2",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, when their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "mn135:5.3",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati appāyuko hoti.",
+          "en": "If they’re not reborn in a place of loss, but return to the human realm, then wherever they’re reborn they’re short-lived."
+        },
+        {
+          "scid": "mn135:5.4",
+          "pli": "Appāyukasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": "For killing living creatures is the path leading to a short lifespan."
+        },
+        {
+          "scid": "mn135:5.5",
+          "pli": "pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. (1)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:6.1",
+          "pli": "Idha pana, māṇava, ekacco itthī vā puriso vā pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati.",
+          "en": "But take some woman or man who gives up killing living creatures. They renounce the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings."
+        },
+        {
+          "scid": "mn135:6.2",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, when their body breaks up, after death, they’re reborn in a good place, a heavenly realm."
+        },
+        {
+          "scid": "mn135:6.3",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati dīghāyuko hoti.",
+          "en": "If they’re not reborn in a heavenly realm, but return to the human realm, then wherever they’re reborn they’re long-lived."
+        },
+        {
+          "scid": "mn135:6.4",
+          "pli": "Dīghāyukasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": "For not killing living creatures is the path leading to a long lifespan."
+        },
+        {
+          "scid": "mn135:6.5",
+          "pli": "pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. (1)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:7.1",
+          "pli": "Idha, māṇava, ekacco itthī vā puriso vā sattānaṃ viheṭhakajātiko hoti, pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā.",
+          "en": "Take some woman or man who habitually hurts living creatures with a fist, stone, rod, or sword."
+        },
+        {
+          "scid": "mn135:7.2",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a place of loss …"
+        },
+        {
+          "scid": "mn135:7.3",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati bavhābādho hoti.",
+          "en": "or if they return to the human realm, they’re sickly …"
+        },
+        {
+          "scid": "mn135:7.4",
+          "pli": "Bavhābādhasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:7.5",
+          "pli": "sattānaṃ viheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā. (2)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:8.1",
+          "pli": "Idha pana, māṇava, ekacco itthī vā puriso vā sattānaṃ aviheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā.",
+          "en": "But take some woman or man who does not habitually hurt living creatures with a fist, stone, rod, or sword."
+        },
+        {
+          "scid": "mn135:8.2",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a heavenly realm …"
+        },
+        {
+          "scid": "mn135:8.3",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati appābādho hoti.",
+          "en": "or if they return to the human realm, they’re healthy …"
+        },
+        {
+          "scid": "mn135:8.4",
+          "pli": "Appābādhasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:8.5",
+          "pli": "sattānaṃ aviheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā. (2)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:9.1",
+          "pli": "Idha, māṇava, ekacco itthī vā puriso vā kodhano hoti upāyāsabahulo. ",
+          "en": "Take some woman or man who is irritable and bad-tempered. "
+        },
+        {
+          "scid": "mn135:9.2",
+          "pli": "Appampi vutto samāno abhisajjati kuppati byāpajjati patiṭṭhīyati kopañca dosañca appaccayañca pātukaroti.",
+          "en": "Even when lightly criticized they lose their temper, becoming annoyed, hostile, and hard-hearted, and displaying annoyance, hate, and bitterness."
+        },
+        {
+          "scid": "mn135:9.3",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a place of loss …"
+        },
+        {
+          "scid": "mn135:9.4",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati dubbaṇṇo hoti.",
+          "en": "or if they return to the human realm, they’re ugly …"
+        },
+        {
+          "scid": "mn135:9.5",
+          "pli": "Dubbaṇṇasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:9.6",
+          "pli": "kodhano hoti upāyāsabahulo;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:9.7",
+          "pli": "appampi vutto samāno abhisajjati kuppati byāpajjati patiṭṭhīyati kopañca dosañca appaccayañca pātukaroti. (3)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:10.1",
+          "pli": "Idha pana, māṇava, ekacco itthī vā puriso vā akkodhano hoti anupāyāsabahulo;",
+          "en": "But take some woman or man who isn’t irritable and bad-tempered."
+        },
+        {
+          "scid": "mn135:10.2",
+          "pli": "bahumpi vutto samāno nābhisajjati na kuppati na byāpajjati na patiṭṭhīyati na kopañca dosañca appaccayañca pātukaroti.",
+          "en": "Even when heavily criticized, they don’t lose their temper, become annoyed, hostile, and hard-hearted, or display annoyance, hate, and bitterness."
+        },
+        {
+          "scid": "mn135:10.3",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a heavenly realm …"
+        },
+        {
+          "scid": "mn135:10.4",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati pāsādiko hoti.",
+          "en": "or if they return to the human realm, they’re lovely …"
+        },
+        {
+          "scid": "mn135:10.5",
+          "pli": "Pāsādikasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:10.6",
+          "pli": "akkodhano hoti anupāyāsabahulo;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:10.7",
+          "pli": "bahumpi vutto samāno nābhisajjati na kuppati na byāpajjati na patiṭṭhīyati na kopañca dosañca appaccayañca pātukaroti. (3)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:11.1",
+          "pli": "Idha, māṇava, ekacco itthī vā puriso vā issāmanako hoti;",
+          "en": "Take some woman or man who is envious."
+        },
+        {
+          "scid": "mn135:11.2",
+          "pli": "paralābhasakkāragarukāramānanavandanapūjanāsu issati upadussati issaṃ bandhati.",
+          "en": "They envy, resent, and begrudge the possessions, honor, respect, reverence, homage, and veneration given to others."
+        },
+        {
+          "scid": "mn135:11.3",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a place of loss …"
+        },
+        {
+          "scid": "mn135:11.4",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati appesakkho hoti.",
+          "en": "or if they return to the human realm, they’re insignificant …"
+        },
+        {
+          "scid": "mn135:11.5",
+          "pli": "Appesakkhasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:11.6",
+          "pli": "issāmanako hoti;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:11.7",
+          "pli": "paralābhasakkāragarukāramānanavandanapūjanāsu issati upadussati issaṃ bandhati. (4)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:12.1",
+          "pli": "Idha pana, māṇava, ekacco itthī vā puriso vā anissāmanako hoti;",
+          "en": "But take some woman or man who is not envious …"
+        },
+        {
+          "scid": "mn135:12.2",
+          "pli": "paralābhasakkāragarukāramānanavandanapūjanāsu na issati na upadussati na issaṃ bandhati.",
+          "en": ""
+        },
+        {
+          "scid": "mn135:12.3",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a heavenly realm …"
+        },
+        {
+          "scid": "mn135:12.4",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati mahesakkho hoti.",
+          "en": "or if they return to the human realm, they’re illustrious …"
+        },
+        {
+          "scid": "mn135:12.5",
+          "pli": "Mahesakkhasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:12.6",
+          "pli": "anissāmanako hoti;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:12.7",
+          "pli": "paralābhasakkāragarukāramānanavandanapūjanāsu na issati na upadussati na issaṃ bandhati. (4)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:13.1",
+          "pli": "Idha, māṇava, ekacco itthī vā puriso vā na dātā hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ.",
+          "en": "Take some woman or man who doesn’t give to ascetics or brahmins such things as food, drink, clothing, vehicles; garlands, perfumes, and makeup; and bed, house, and lighting."
+        },
+        {
+          "scid": "mn135:13.2",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a place of loss …"
+        },
+        {
+          "scid": "mn135:13.3",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati appabhogo hoti.",
+          "en": "or if they return to the human realm, they’re poor …"
+        },
+        {
+          "scid": "mn135:13.4",
+          "pli": "Appabhogasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:13.5",
+          "pli": "na dātā hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. (5)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:14.1",
+          "pli": "Idha pana, māṇava, ekacco itthī vā puriso vā dātā hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ.",
+          "en": "But take some woman or man who does give to ascetics or brahmins …"
+        },
+        {
+          "scid": "mn135:14.2",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a heavenly realm …"
+        },
+        {
+          "scid": "mn135:14.3",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati mahābhogo hoti.",
+          "en": "or if they return to the human realm, they’re rich …"
+        },
+        {
+          "scid": "mn135:14.4",
+          "pli": "Mahābhogasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:14.5",
+          "pli": "dātā hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. (5)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:15.1",
+          "pli": "Idha, māṇava, ekacco itthī vā puriso vā thaddho hoti atimānī—",
+          "en": "Take some woman or man who is obstinate and vain."
+        },
+        {
+          "scid": "mn135:15.2",
+          "pli": "abhivādetabbaṃ na abhivādeti, paccuṭṭhātabbaṃ na paccuṭṭheti, āsanārahassa na āsanaṃ deti, maggārahassa na maggaṃ deti, sakkātabbaṃ na sakkaroti, garukātabbaṃ na garukaroti, mānetabbaṃ na māneti, pūjetabbaṃ na pūjeti.",
+          "en": "They don’t bow to those they should bow to. They don’t rise up for them, offer them a seat, make way for them, or honor, respect, esteem, or venerate those who are worthy of such."
+        },
+        {
+          "scid": "mn135:15.3",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a place of loss …"
+        },
+        {
+          "scid": "mn135:15.4",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati nīcakulīno hoti.",
+          "en": "or if they return to the human realm, they’re reborn in a low class family …"
+        },
+        {
+          "scid": "mn135:15.5",
+          "pli": "Nīcakulīnasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:15.6",
+          "pli": "thaddho hoti atimānī;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:15.7",
+          "pli": "abhivādetabbaṃ na abhivādeti, paccuṭṭhātabbaṃ na paccuṭṭheti, āsanārahassa na āsanaṃ deti, maggārahassa na maggaṃ deti, sakkātabbaṃ na sakkaroti, garukātabbaṃ na garukaroti, mānetabbaṃ na māneti, pūjetabbaṃ na pūjeti. (6)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:16.1",
+          "pli": "Idha pana, māṇava, ekacco itthī vā puriso vā atthaddho hoti anatimānī;",
+          "en": "But take some woman or man who is not obstinate and vain …"
+        },
+        {
+          "scid": "mn135:16.2",
+          "pli": "abhivādetabbaṃ abhivādeti, paccuṭṭhātabbaṃ paccuṭṭheti, āsanārahassa āsanaṃ deti, maggārahassa maggaṃ deti, sakkātabbaṃ sakkaroti, garukātabbaṃ garukaroti, mānetabbaṃ māneti, pūjetabbaṃ pūjeti.",
+          "en": ""
+        },
+        {
+          "scid": "mn135:16.3",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a heavenly realm …"
+        },
+        {
+          "scid": "mn135:16.4",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati uccākulīno hoti.",
+          "en": "or if they return to the human realm, they’re reborn in an eminent family …"
+        },
+        {
+          "scid": "mn135:16.5",
+          "pli": "Uccākulīnasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:16.6",
+          "pli": "atthaddho hoti anatimānī;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:16.7",
+          "pli": "abhivādetabbaṃ abhivādeti, paccuṭṭhātabbaṃ paccuṭṭheti, āsanārahassa āsanaṃ deti, maggārahassa maggaṃ deti, sakkātabbaṃ sakkaroti, garukātabbaṃ garukaroti, mānetabbaṃ māneti, pūjetabbaṃ pūjeti. (6)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:17.1",
+          "pli": "Idha, māṇava, ekacco itthī vā puriso vā samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā na paripucchitā hoti:",
+          "en": "Take some woman or man who doesn’t approach an ascetic or brahmin to ask:"
+        },
+        {
+          "scid": "mn135:17.2",
+          "pli": "‘kiṃ, bhante, kusalaṃ, kiṃ akusalaṃ;",
+          "en": "‘Sir, what is skillful and what is unskillful?"
+        },
+        {
+          "scid": "mn135:17.3",
+          "pli": "kiṃ sāvajjaṃ, kiṃ anavajjaṃ;",
+          "en": "What is blameworthy and what is blameless?"
+        },
+        {
+          "scid": "mn135:17.4",
+          "pli": "kiṃ sevitabbaṃ, kiṃ na sevitabbaṃ;",
+          "en": "What should be cultivated and what should not be cultivated?"
+        },
+        {
+          "scid": "mn135:17.5",
+          "pli": "kiṃ me karīyamānaṃ dīgharattaṃ ahitāya dukkhāya hoti, kiṃ vā pana me karīyamānaṃ dīgharattaṃ hitāya sukhāya hotī’ti?",
+          "en": "What kind of action will lead to my lasting harm and suffering? Or what kind of action will lead to my lasting welfare and happiness?’"
+        },
+        {
+          "scid": "mn135:17.6",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, after death they’re reborn in a place of loss …"
+        },
+        {
+          "scid": "mn135:17.7",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati duppañño hoti.",
+          "en": "or if they return to the human realm, they’re witless …"
+        },
+        {
+          "scid": "mn135:17.8",
+          "pli": "Duppaññasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn135:17.9",
+          "pli": "samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā na paripucchitā hoti:",
+          "en": ""
+        },
+        {
+          "scid": "mn135:17.10",
+          "pli": "‘kiṃ, bhante, kusalaṃ, kiṃ akusalaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:17.11",
+          "pli": "kiṃ sāvajjaṃ, kiṃ anavajjaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:17.12",
+          "pli": "kiṃ sevitabbaṃ, kiṃ na sevitabbaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:17.13",
+          "pli": "kiṃ me karīyamānaṃ dīgharattaṃ ahitāya dukkhāya hoti, kiṃ vā pana me karīyamānaṃ dīgharattaṃ hitāya sukhāya hotī’ti? (7)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:18.1",
+          "pli": "Idha pana, māṇava, ekacco itthī vā puriso vā samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā paripucchitā hoti:",
+          "en": "But take some woman or man who does approach an ascetic or brahmin to ask:"
+        },
+        {
+          "scid": "mn135:18.2",
+          "pli": "‘kiṃ, bhante, kusalaṃ, kiṃ akusalaṃ;",
+          "en": "‘Sir, what is skillful and what is unskillful?"
+        },
+        {
+          "scid": "mn135:18.3",
+          "pli": "kiṃ sāvajjaṃ, kiṃ anavajjaṃ;",
+          "en": "What is blameworthy and what is blameless?"
+        },
+        {
+          "scid": "mn135:18.4",
+          "pli": "kiṃ sevitabbaṃ, kiṃ na sevitabbaṃ;",
+          "en": "What should be cultivated and what should not be cultivated?"
+        },
+        {
+          "scid": "mn135:18.5",
+          "pli": "kiṃ me karīyamānaṃ dīgharattaṃ ahitāya dukkhāya hoti, kiṃ vā pana me karīyamānaṃ dīgharattaṃ hitāya sukhāya hotī’ti?",
+          "en": "What kind of action will lead to my lasting harm and suffering? Or what kind of action will lead to my lasting welfare and happiness?’"
+        },
+        {
+          "scid": "mn135:18.6",
+          "pli": "So tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": "Because of undertaking such deeds, when their body breaks up, after death, they’re reborn in a good place, a heavenly realm."
+        },
+        {
+          "scid": "mn135:18.7",
+          "pli": "No ce kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati mahāpañño hoti.",
+          "en": "If they’re not reborn in a heavenly realm, but return to the human realm, then wherever they’re reborn they’re very wise."
+        },
+        {
+          "scid": "mn135:18.8",
+          "pli": "Mahāpaññasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ—",
+          "en": "For asking questions of ascetics or brahmins is the path leading to wisdom."
+        },
+        {
+          "scid": "mn135:18.9",
+          "pli": "samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā paripucchitā hoti:",
+          "en": ""
+        },
+        {
+          "scid": "mn135:18.10",
+          "pli": "‘kiṃ, bhante, kusalaṃ, kiṃ akusalaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:18.11",
+          "pli": "kiṃ sāvajjaṃ, kiṃ anavajjaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:18.12",
+          "pli": "kiṃ sevitabbaṃ, kiṃ na sevitabbaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn135:18.13",
+          "pli": "kiṃ me karīyamānaṃ dīgharattaṃ ahitāya dukkhāya hoti, kiṃ vā pana me karīyamānaṃ dīgharattaṃ hitāya sukhāya hotī’ti? (7)",
+          "en": ""
+        },
+        {
+          "scid": "mn135:19.1",
+          "pli": "Iti kho, māṇava, appāyukasaṃvattanikā paṭipadā appāyukattaṃ upaneti, dīghāyukasaṃvattanikā paṭipadā dīghāyukattaṃ upaneti;",
+          "en": "So it is the way people live that makes them how they are, whether short-lived or long lived,"
+        },
+        {
+          "scid": "mn135:19.2",
+          "pli": "bavhābādhasaṃvattanikā paṭipadā bavhābādhattaṃ upaneti, appābādhasaṃvattanikā paṭipadā appābādhattaṃ upaneti;",
+          "en": "sickly or healthy,"
+        },
+        {
+          "scid": "mn135:19.3",
+          "pli": "dubbaṇṇasaṃvattanikā paṭipadā dubbaṇṇattaṃ upaneti, pāsādikasaṃvattanikā paṭipadā pāsādikattaṃ upaneti;",
+          "en": "ugly or lovely,"
+        },
+        {
+          "scid": "mn135:19.4",
+          "pli": "appesakkhasaṃvattanikā paṭipadā appesakkhattaṃ upaneti, mahesakkhasaṃvattanikā paṭipadā mahesakkhattaṃ upaneti;",
+          "en": "insignificant or illustrious,"
+        },
+        {
+          "scid": "mn135:19.5",
+          "pli": "appabhogasaṃvattanikā paṭipadā appabhogattaṃ upaneti, mahābhogasaṃvattanikā paṭipadā mahābhogattaṃ upaneti;",
+          "en": "poor or rich,"
+        },
+        {
+          "scid": "mn135:19.6",
+          "pli": "nīcakulīnasaṃvattanikā paṭipadā nīcakulīnattaṃ upaneti, uccākulīnasaṃvattanikā paṭipadā uccākulīnattaṃ upaneti;",
+          "en": "in a low class or eminent family,"
+        },
+        {
+          "scid": "mn135:19.7",
+          "pli": "duppaññasaṃvattanikā paṭipadā duppaññattaṃ upaneti, mahāpaññasaṃvattanikā paṭipadā mahāpaññattaṃ upaneti.",
+          "en": "or witless or wise."
+        },
+        {
+          "scid": "mn135:20.1",
+          "pli": "Kammassakā, māṇava, sattā kammadāyādā kammayonī kammabandhū kammappaṭisaraṇā.",
+          "en": "Sentient beings are the owners of their deeds and heir to their deeds. Deeds are their womb, their relative, and their refuge."
+        },
+        {
+          "scid": "mn135:20.2",
+          "pli": "Kammaṃ satte vibhajati yadidaṃ—",
+          "en": "It is deeds that divide beings into"
+        },
+        {
+          "scid": "mn135:20.3",
+          "pli": "hīnappaṇītatāyā”ti.",
+          "en": "inferior and superior.”"
+        },
+        {
+          "scid": "mn135:21.1",
+          "pli": "Evaṃ vutte, subho māṇavo todeyyaputto bhagavantaṃ etadavoca:",
+          "en": "When he had spoken, Subha said to him:"
+        },
+        {
+          "scid": "mn135:21.2",
+          "pli": "“abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama.",
+          "en": "“Excellent, Master Gotama! Excellent!"
+        },
+        {
+          "scid": "mn135:21.3",
+          "pli": "Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito.",
+          "en": "As if he was righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, just so has Master Gotama made the Teaching clear in many ways."
+        },
+        {
+          "scid": "mn135:21.4",
+          "pli": "Esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca.",
+          "en": "I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha."
+        },
+        {
+          "scid": "mn135:21.5",
+          "pli": "Upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "mn135:21.6",
+          "pli": "Cūḷakammavibhaṅgasuttaṃ niṭṭhitaṃ pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn135/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 135",
+    "volpages": "MN iii 202",
+    "uid": "mn135",
+    "blurb": "The Buddha explains to a brahmin how your deeds in past lives affect you in this life.",
+    "difficulty": 2,
+    "original_title": "Cūḷakammavibhaṅga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Shorter Analysis of Deeds",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn135_sujato",
+        "segmented": true,
+        "title": "The Shorter Analysis of Deeds"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn135_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Shorter Exposition of Action"
+      }
+    ],
+    "parallel_count": 17,
+    "biblio": null,
+    "num": 5
+  }
+}

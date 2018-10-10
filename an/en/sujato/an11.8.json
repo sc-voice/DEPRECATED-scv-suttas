@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "an11.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an11.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Awareness",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sandha",
+      "uid": "an11.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Percipient",
+      "uid": "an11.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an11.8:0.1",
+          "pli": "Aṅguttara Nikāya 11",
+          "en": "Numbered Discourses 11"
+        },
+        {
+          "scid": "an11.8:0.2",
+          "pli": "1. Nissayavagga",
+          "en": "1. Dependence"
+        },
+        {
+          "scid": "an11.8:0.3",
+          "pli": "8. Manasikārasutta",
+          "en": "8. Awareness"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 11…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an11.8:1.1",
+          "pli": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
+          "en": "Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "an11.8:2.1",
+          "pli": "“Siyā nu kho, bhante, bhikkhuno tathārūpo samādhipaṭilābho yathā na cakkhuṃ manasi kareyya, na rūpaṃ manasi kareyya, na sotaṃ manasi kareyya, na saddaṃ manasi kareyya, na ghānaṃ manasi kareyya, na gandhaṃ manasi kareyya, na jivhaṃ manasi kareyya, na rasaṃ manasi kareyya, na kāyaṃ manasi kareyya, na phoṭṭhabbaṃ manasi kareyya, na pathaviṃ manasi kareyya, na āpaṃ manasi kareyya, na tejaṃ manasi kareyya, na vāyaṃ manasi kareyya, na ākāsānañcāyatanaṃ manasi kareyya, na viññāṇañcāyatanaṃ manasi kareyya, na ākiñcaññāyatanaṃ manasi kareyya, na nevasaññānāsaññāyatanaṃ manasi kareyya, na idhalokaṃ manasi kareyya, na paralokaṃ manasi kareyya, yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi na manasi kareyya;",
+          "en": "“Could it be, sir, that a mendicant might gain a state of immersion like this. They wouldn’t be aware of the eye or sights, ear or sounds, nose or smells, tongue or tastes, or body or touches. They wouldn’t be aware of earth in earth, water in water, fire in fire, or air in air. And they wouldn’t be aware of the dimension of infinite space in the dimension of infinite space, the dimension of infinite consciousness in the dimension of infinite consciousness, the dimension of nothingness in the dimension of nothingness, or the dimension of neither perception nor non-perception in the dimension of neither perception nor non-perception. They wouldn’t be aware of this world in this world, or the other world in the other world. And they wouldn’t be aware of what is seen, heard, thought, cognized, attained, sought, or explored by the mind."
+        },
+        {
+          "scid": "an11.8:2.2",
+          "pli": "manasi ca pana kareyyā”ti?",
+          "en": "Yet they would be aware?”"
+        },
+        {
+          "scid": "an11.8:3.1",
+          "pli": "“Siyā, ānanda, bhikkhuno tathārūpo samādhipaṭilābho yathā na cakkhuṃ manasi kareyya, na rūpaṃ manasi kareyya, na sotaṃ manasi kareyya, na saddaṃ manasi kareyya, na ghānaṃ manasi kareyya, na gandhaṃ manasi kareyya, na jivhaṃ manasi kareyya, na rasaṃ manasi kareyya, na kāyaṃ manasi kareyya, na phoṭṭhabbaṃ manasi kareyya, na pathaviṃ manasi kareyya, na āpaṃ manasi kareyya, na tejaṃ manasi kareyya, na vāyaṃ manasi kareyya, na ākāsānañcāyatanaṃ manasi kareyya, na viññāṇañcāyatanaṃ manasi kareyya, na ākiñcaññāyatanaṃ manasi kareyya, na nevasaññānāsaññāyatanaṃ manasi kareyya, na idhalokaṃ manasi kareyya, na paralokaṃ manasi kareyya, yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi na manasi kareyya;",
+          "en": "“It could be, Ānanda.”"
+        },
+        {
+          "scid": "an11.8:3.2",
+          "pli": "manasi ca pana kareyyā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "an11.8:4.1",
+          "pli": "“Yathā kathaṃ pana, bhante, siyā bhikkhuno tathārūpo samādhipaṭilābho yathā na cakkhuṃ manasi kareyya, na rūpaṃ manasi kareyya … pe …",
+          "en": "“But how could this be?”"
+        },
+        {
+          "scid": "an11.8:4.2",
+          "pli": "yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi na manasi kareyya;",
+          "en": ""
+        },
+        {
+          "scid": "an11.8:4.3",
+          "pli": "manasi ca pana kareyyā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "an11.8:5.1",
+          "pli": "“Idhānanda, bhikkhu evaṃ manasi karoti:",
+          "en": "“Ānanda, it’s when a mendicant is aware:"
+        },
+        {
+          "scid": "an11.8:5.2",
+          "pli": "‘etaṃ santaṃ etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti.",
+          "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’"
+        },
+        {
+          "scid": "an11.8:5.3",
+          "pli": "Evaṃ kho, ānanda, siyā bhikkhuno tathārūpo samādhipaṭilābho yathā na cakkhuṃ manasi kareyya, na rūpaṃ manasi kareyya … pe …",
+          "en": "That’s how a mendicant might gain a state of immersion like this. They wouldn’t be aware of the eye or sights, ear or sounds, nose or smells, tongue or tastes, or body or touches. …"
+        },
+        {
+          "scid": "an11.8:5.4",
+          "pli": "yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi na manasi kareyya;",
+          "en": "And they wouldn’t be aware of what is seen, heard, thought, cognized, attained, sought, or explored by the mind."
+        },
+        {
+          "scid": "an11.8:5.5",
+          "pli": "manasi ca pana kareyyā”ti.",
+          "en": "Yet they would be aware.”"
+        },
+        {
+          "scid": "an11.8:5.6",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then Venerable Ānanda went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an11.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 11.8//AN 11.9",
+    "volpages": "AN v 321",
+    "uid": "an11.8",
+    "blurb": "Ānanda asks the Buddha about a deep state of meditation where all normal attention has ceased, but there is still attention The Buddha affirms that such a state exists.",
+    "difficulty": null,
+    "original_title": "Manasikāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Awareness",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an11.8_sujato",
+        "segmented": true,
+        "title": "Awareness"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

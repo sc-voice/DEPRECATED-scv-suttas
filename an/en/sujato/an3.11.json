@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an3.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Well-known",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Commemoration",
+      "uid": "an3.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Stains",
+      "uid": "an3.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.11:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.11:0.2",
+          "pli": "2. Rathakāravagga",
+          "en": "2. The Chariot-maker"
+        },
+        {
+          "scid": "an3.11:0.3",
+          "pli": "11. Ñātasutta",
+          "en": "11. Well-known"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.11:1.1",
+          "pli": "“Tīhi, bhikkhave, dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+          "en": "“Mendicants, a well-known mendicant who has three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans."
+        },
+        {
+          "scid": "an3.11:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.11:1.3",
+          "pli": "Ananulomike kāyakamme samādapeti, ananulomike vacīkamme samādapeti, ananulomikesu dhammesu samādapeti.",
+          "en": "They encourage deeds of body and speech, as well as principles, that don’t reinforce good qualities."
+        },
+        {
+          "scid": "an3.11:1.4",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+          "en": "A well-known mendicant who has these three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans."
+        },
+        {
+          "scid": "an3.11:2.1",
+          "pli": "Tīhi, bhikkhave, dhammehi samannāgato ñāto bhikkhu bahujanahitāya paṭipanno hoti bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ.",
+          "en": "A well-known mendicant who has three qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans."
+        },
+        {
+          "scid": "an3.11:2.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.11:2.3",
+          "pli": "Anulomike kāyakamme samādapeti, anulomike vacīkamme samādapeti, anulomikesu dhammesu samādapeti.",
+          "en": "They encourage deeds of body and speech, as well as principles, that reinforce good qualities."
+        },
+        {
+          "scid": "an3.11:2.4",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato ñāto bhikkhu bahujanahitāya paṭipanno hoti bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānan”ti.",
+          "en": "A well-known mendicant who has these three qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”"
+        },
+        {
+          "scid": "an3.11:2.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.11",
+    "volpages": "AN i 106",
+    "uid": "an3.11",
+    "blurb": "What well-known mendicants should encourage.",
+    "difficulty": null,
+    "original_title": "Ñāta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Well-known",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.11_sujato",
+        "segmented": true,
+        "title": "Well-known"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.11_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Well Known"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

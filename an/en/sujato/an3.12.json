@@ -1,0 +1,205 @@
+{
+  "sutta_uid": "an3.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Commemoration",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hopes",
+      "uid": "an3.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Well-known",
+      "uid": "an3.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.12:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.12:0.2",
+          "pli": "2. Rathakāravagga",
+          "en": "2. The Chariot-maker"
+        },
+        {
+          "scid": "an3.12:0.3",
+          "pli": "12. Sāraṇīyasutta",
+          "en": "12. Commemoration"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.12:1.1",
+          "pli": "“Tīṇimāni, bhikkhave, rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyāni bhavanti.",
+          "en": "“An anointed king should commemorate three places as long as he lives."
+        },
+        {
+          "scid": "an3.12:1.2",
+          "pli": "Katamāni tīṇi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.12:1.3",
+          "pli": "Yasmiṃ, bhikkhave, padese rājā khattiyo muddhāvasitto jāto hoti.",
+          "en": "The place he was born."
+        },
+        {
+          "scid": "an3.12:1.4",
+          "pli": "Idaṃ, bhikkhave, paṭhamaṃ rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyaṃ hoti.",
+          "en": "This is the first place."
+        },
+        {
+          "scid": "an3.12:2.1",
+          "pli": "Puna caparaṃ, bhikkhave, yasmiṃ padese rājā khattiyo muddhāvasitto hoti.",
+          "en": "The place he was anointed as king."
+        },
+        {
+          "scid": "an3.12:2.2",
+          "pli": "Idaṃ, bhikkhave, dutiyaṃ rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyaṃ hoti.",
+          "en": "This is the second place."
+        },
+        {
+          "scid": "an3.12:3.1",
+          "pli": "Puna caparaṃ, bhikkhave, yasmiṃ padese rājā khattiyo muddhāvasitto saṅgāmaṃ abhivijinitvā vijitasaṅgāmo tameva saṅgāmasīsaṃ ajjhāvasati.",
+          "en": "The place where he won victory in battle, establishing himself as foremost in battle."
+        },
+        {
+          "scid": "an3.12:3.2",
+          "pli": "Idaṃ, bhikkhave, tatiyaṃ rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyaṃ hoti.",
+          "en": "This is the third place."
+        },
+        {
+          "scid": "an3.12:3.3",
+          "pli": "Imāni kho, bhikkhave, tīṇi rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyāni bhavanti.",
+          "en": "These are the three places an anointed king should commemorate as long as he lives."
+        },
+        {
+          "scid": "an3.12:4.1",
+          "pli": "Evamevaṃ kho, bhikkhave, tīṇimāni bhikkhussa yāvajīvaṃ sāraṇīyāni bhavanti.",
+          "en": "In the same way, a mendicant should commemorate three places as long as they live."
+        },
+        {
+          "scid": "an3.12:4.2",
+          "pli": "Katamāni tīṇi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.12:4.3",
+          "pli": "Yasmiṃ, bhikkhave, padese bhikkhu kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito hoti.",
+          "en": "The place where the mendicant shaved off their hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness."
+        },
+        {
+          "scid": "an3.12:4.4",
+          "pli": "Idaṃ, bhikkhave, paṭhamaṃ bhikkhussa yāvajīvaṃ sāraṇīyaṃ hoti.",
+          "en": "This is the first place."
+        },
+        {
+          "scid": "an3.12:5.1",
+          "pli": "Puna caparaṃ, bhikkhave, yasmiṃ padese bhikkhu ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.",
+          "en": "The place where the mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+        },
+        {
+          "scid": "an3.12:5.2",
+          "pli": "Idaṃ, bhikkhave, dutiyaṃ bhikkhussa yāvajīvaṃ sāraṇīyaṃ hoti.",
+          "en": "This is the second place."
+        },
+        {
+          "scid": "an3.12:6.1",
+          "pli": "Puna caparaṃ, bhikkhave, yasmiṃ padese bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.",
+          "en": "The place where the mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements."
+        },
+        {
+          "scid": "an3.12:6.2",
+          "pli": "Idaṃ, bhikkhave, tatiyaṃ bhikkhussa yāvajīvaṃ sāraṇīyaṃ hoti.",
+          "en": "This is the third place."
+        },
+        {
+          "scid": "an3.12:6.3",
+          "pli": "Imāni kho, bhikkhave, tīṇi bhikkhussa yāvajīvaṃ sāraṇīyāni bhavantī”ti.",
+          "en": "These are the three places a mendicant should commemorate as long as they live.”"
+        },
+        {
+          "scid": "an3.12:6.4",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“An anointed king should commemorate three places…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.12",
+    "volpages": "AN i 106",
+    "uid": "an3.12",
+    "blurb": "Places that should be commemorated by kings and mendicants.",
+    "difficulty": null,
+    "original_title": "Sāraṇīya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Commemoration",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.12_sujato",
+        "segmented": true,
+        "title": "Commemoration"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.12_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "To be Remembered"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

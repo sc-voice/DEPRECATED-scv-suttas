@@ -1,0 +1,245 @@
+{
+  "sutta_uid": "an3.119",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.119",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Action",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Purity (1st)",
+      "uid": "an3.120"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Loaded Dice",
+      "uid": "an3.118"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.119:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": ""
+        },
+        {
+          "scid": "an3.119:0.2",
+          "pli": "12. Āpāyikavagga",
+          "en": "12. Bound for Loss"
+        },
+        {
+          "scid": "an3.119:0.3",
+          "pli": "119. Kammantasutta",
+          "en": "119. Action"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.119:1.1",
+          "pli": "“Tisso imā, bhikkhave, vipattiyo.",
+          "en": "“Mendicants, there are three failures."
+        },
+        {
+          "scid": "an3.119:1.2",
+          "pli": "Katamā tisso?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.119:1.3",
+          "pli": "Kammantavipatti, ājīvavipatti, diṭṭhivipatti.",
+          "en": "Failure in action, livelihood, and view."
+        },
+        {
+          "scid": "an3.119:1.4",
+          "pli": "Katamā ca, bhikkhave, kammantavipatti?",
+          "en": "And what is failure in action?"
+        },
+        {
+          "scid": "an3.119:1.5",
+          "pli": "Idha, bhikkhave, ekacco pāṇātipātī hoti … pe … samphappalāpī hoti.",
+          "en": "It’s when someone kills living creatures, steals, commits sexual misconduct, and uses speech that’s false, divisive, harsh, or nonsensical."
+        },
+        {
+          "scid": "an3.119:1.6",
+          "pli": "Ayaṃ vuccati, bhikkhave, kammantavipatti.",
+          "en": "This is called ‘failure in action’."
+        },
+        {
+          "scid": "an3.119:2.1",
+          "pli": "Katamā ca, bhikkhave, ājīvavipatti?",
+          "en": "And what is failure in livelihood?"
+        },
+        {
+          "scid": "an3.119:2.2",
+          "pli": "Idha, bhikkhave, ekacco micchāājīvo hoti, micchāājīvena jīvikaṃ kappeti.",
+          "en": "It’s when a noble disciple has wrong livelihood and earns a living by wrong livelihood."
+        },
+        {
+          "scid": "an3.119:2.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, ājīvavipatti.",
+          "en": "This is called ‘failure in livelihood’."
+        },
+        {
+          "scid": "an3.119:3.1",
+          "pli": "Katamā ca, bhikkhave, diṭṭhivipatti?",
+          "en": "And what is failure in view?"
+        },
+        {
+          "scid": "an3.119:3.2",
+          "pli": "Idha, bhikkhave, ekacco micchādiṭṭhiko hoti viparītadassano:",
+          "en": "It’s when someone has wrong view, a distorted perspective, such as:"
+        },
+        {
+          "scid": "an3.119:3.3",
+          "pli": "‘natthi dinnaṃ, natthi yiṭṭhaṃ … pe … ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti.",
+          "en": "‘There’s no meaning in giving, sacrifice, or offerings. There’s no fruit or result of good and bad deeds. There’s no afterlife. There’s no obligation to mother and father. No beings are reborn spontaneously. And there’s no ascetic or brahmin who is well attained and practiced, and who describes the afterlife after realizing it with their own insight.’"
+        },
+        {
+          "scid": "an3.119:3.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, diṭṭhivipatti.",
+          "en": "This is called ‘failure in view’."
+        },
+        {
+          "scid": "an3.119:3.5",
+          "pli": "Imā kho, bhikkhave, tisso vipattiyoti.",
+          "en": "These are the three failures."
+        },
+        {
+          "scid": "an3.119:4.1",
+          "pli": "Tisso imā, bhikkhave, sampadā.",
+          "en": "There are three accomplishments."
+        },
+        {
+          "scid": "an3.119:4.2",
+          "pli": "Katamā tisso?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.119:4.3",
+          "pli": "Kammantasampadā, ājīvasampadā, diṭṭhisampadā.",
+          "en": "Accomplishment in action, livelihood, and view."
+        },
+        {
+          "scid": "an3.119:4.4",
+          "pli": "Katamā ca, bhikkhave, kammantasampadā?",
+          "en": "And what is accomplishment in action?"
+        },
+        {
+          "scid": "an3.119:4.5",
+          "pli": "Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti … pe … samphappalāpā paṭivirato hoti.",
+          "en": "It’s when someone doesn’t kill living creatures, steal, commit sexual misconduct, or use speech that’s false, divisive, harsh, or nonsensical."
+        },
+        {
+          "scid": "an3.119:4.6",
+          "pli": "Ayaṃ vuccati, bhikkhave, kammantasampadā.",
+          "en": "This is called ‘accomplishment in action’."
+        },
+        {
+          "scid": "an3.119:5.1",
+          "pli": "Katamā ca, bhikkhave, ājīvasampadā?",
+          "en": "And what is accomplishment in livelihood?"
+        },
+        {
+          "scid": "an3.119:5.2",
+          "pli": "Idha, bhikkhave, ekacco sammāājīvo hoti, sammāājīvena jīvikaṃ kappeti.",
+          "en": "It’s when a noble disciple has right livelihood and earns a living by right livelihood."
+        },
+        {
+          "scid": "an3.119:5.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, ājīvasampadā.",
+          "en": "This is called accomplishment in livelihood."
+        },
+        {
+          "scid": "an3.119:6.1",
+          "pli": "Katamā ca, bhikkhave, diṭṭhisampadā?",
+          "en": "And what is accomplishment in view?"
+        },
+        {
+          "scid": "an3.119:6.2",
+          "pli": "Idha, bhikkhave, ekacco sammādiṭṭhiko hoti aviparītadassano:",
+          "en": "It’s when someone has right view, a undistorted perspective, such as:"
+        },
+        {
+          "scid": "an3.119:6.3",
+          "pli": "‘atthi dinnaṃ, atthi yiṭṭhaṃ … pe … ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti.",
+          "en": "‘There is meaning in giving, sacrifice, and offerings. There are fruits and results of good and bad deeds. There is an afterlife. There is obligation to mother and father. There are beings reborn spontaneously. And there are ascetics and brahmins who are well attained and practiced, and who describe the afterlife after realizing it with their own insight.’"
+        },
+        {
+          "scid": "an3.119:6.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, diṭṭhisampadā.",
+          "en": "This is called accomplishment in view."
+        },
+        {
+          "scid": "an3.119:6.5",
+          "pli": "Imā kho, bhikkhave, tisso sampadā”ti.",
+          "en": "These are the three accomplishments.”"
+        },
+        {
+          "scid": "an3.119:6.6",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.119/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.119//AN 3.117",
+    "volpages": "AN i 270",
+    "uid": "an3.119",
+    "blurb": "Failure or success in action, livelihood, and view.",
+    "difficulty": null,
+    "original_title": "Kammanta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Action",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.119_sujato",
+        "segmented": true,
+        "title": "Action"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "sutta_uid": "sn22.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Impermanence With Its Cause",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Suffering With Its Cause",
+      "uid": "sn22.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "That Which is Not-Self",
+      "uid": "sn22.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.18:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.18:0.2",
+          "pli": "2. Aniccavagga",
+          "en": "2. Impermanence"
+        },
+        {
+          "scid": "sn22.18:0.3",
+          "pli": "18. Sahetuaniccasutta",
+          "en": "18. Impermanence With Its Cause"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.18:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.18:1.2",
+          "pli": "“Rūpaṃ, bhikkhave, aniccaṃ.",
+          "en": "“Mendicants, form is impermanent."
+        },
+        {
+          "scid": "sn22.18:1.3",
+          "pli": "Yopi hetu, yopi paccayo rūpassa uppādāya, sopi anicco.",
+          "en": "The cause and condition that gives rise to form is also impermanent."
+        },
+        {
+          "scid": "sn22.18:1.4",
+          "pli": "Aniccasambhūtaṃ, bhikkhave, rūpaṃ kuto niccaṃ bhavissati.",
+          "en": "Since form is produced by what is impermanent, how could it be permanent?"
+        },
+        {
+          "scid": "sn22.18:1.5",
+          "pli": "Vedanā aniccā.",
+          "en": "Feeling is impermanent …"
+        },
+        {
+          "scid": "sn22.18:1.6",
+          "pli": "Yopi hetu, yopi paccayo vedanāya uppādāya, sopi anicco.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.18:1.7",
+          "pli": "Aniccasambhūtā, bhikkhave, vedanā kuto niccā bhavissati.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.18:1.8",
+          "pli": "Saññā aniccā …",
+          "en": "Perception is impermanent …"
+        },
+        {
+          "scid": "sn22.18:1.9",
+          "pli": "saṅkhārā aniccā.",
+          "en": "Choices are impermanent …"
+        },
+        {
+          "scid": "sn22.18:1.10",
+          "pli": "Yopi hetu yopi paccayo saṅkhārānaṃ uppādāya, sopi anicco.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.18:1.11",
+          "pli": "Aniccasambhūtā, bhikkhave, saṅkhārā kuto niccā bhavissanti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.18:1.12",
+          "pli": "Viññāṇaṃ aniccaṃ.",
+          "en": "Consciousness is impermanent."
+        },
+        {
+          "scid": "sn22.18:1.13",
+          "pli": "Yopi hetu yopi paccayo viññāṇassa uppādāya, sopi anicco.",
+          "en": "The cause and condition that gives rise to consciousness is also impermanent."
+        },
+        {
+          "scid": "sn22.18:1.14",
+          "pli": "Aniccasambhūtaṃ, bhikkhave, viññāṇaṃ kuto niccaṃ bhavissati.",
+          "en": "Since consciousness is produced by what is impermanent, how could it be permanent?"
+        },
+        {
+          "scid": "sn22.18:1.15",
+          "pli": "Evaṃ passaṃ … pe …",
+          "en": "Seeing this …"
+        },
+        {
+          "scid": "sn22.18:1.16",
+          "pli": "nāparaṃ itthattāyā’ti pajānātī”ti.",
+          "en": "They understand: ‘… there is no return to any state of existence.’”"
+        },
+        {
+          "scid": "sn22.18:1.17",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.18",
+    "volpages": "SN iii 23",
+    "uid": "sn22.18",
+    "blurb": "Since the causes of the aggregates are impermanent, how can the aggregates be permanent?",
+    "difficulty": null,
+    "original_title": "Sahetuanicca Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Impermanence With Its Cause",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.18_sujato",
+        "segmented": true,
+        "title": "Impermanence With Its Cause"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.18_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Impermanent with Cause"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

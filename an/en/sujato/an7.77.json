@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an7.77",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.77",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "An Expert in the Monastic Law (3rd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "An Expert in the Monastic Law (4th)",
+      "uid": "an7.78"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "An Expert in the Monastic Law (2nd)",
+      "uid": "an7.76"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.77:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.77:0.2",
+          "pli": "8. Vinayavagga",
+          "en": "8. The Monastic Law"
+        },
+        {
+          "scid": "an7.77:0.3",
+          "pli": "77. Tatiyavinayadharasutta",
+          "en": "77. An Expert in the Monastic Law (3rd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.77:1.1",
+          "pli": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu vinayadharo hoti.",
+          "en": "“Mendicants, a mendicant with seven qualities is an expert in the monastic law."
+        },
+        {
+          "scid": "an7.77:1.2",
+          "pli": "Katamehi sattahi?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.77:1.3",
+          "pli": "Āpattiṃ jānāti, ",
+          "en": "They know what is an offence. "
+        },
+        {
+          "scid": "an7.77:1.4",
+          "pli": "anāpattiṃ jānāti, ",
+          "en": "They know what is not an offence. "
+        },
+        {
+          "scid": "an7.77:1.5",
+          "pli": "lahukaṃ āpattiṃ jānāti, ",
+          "en": "They know what is a light offence. "
+        },
+        {
+          "scid": "an7.77:1.6",
+          "pli": "garukaṃ āpattiṃ jānāti, ",
+          "en": "They know what is a serious offence. "
+        },
+        {
+          "scid": "an7.77:1.7",
+          "pli": "vinaye kho pana ṭhito hoti asaṃhīro, ",
+          "en": "They’re firm and imperturbable in the training. "
+        },
+        {
+          "scid": "an7.77:1.8",
+          "pli": "catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī, ",
+          "en": "They get the four absorptions—blissful meditations in the present life that belong to the higher mind—when they want, without trouble or difficulty. "
+        },
+        {
+          "scid": "an7.77:1.9",
+          "pli": "āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.",
+          "en": "They realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the end of defilements."
+        },
+        {
+          "scid": "an7.77:1.10",
+          "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu vinayadharo hotī”ti.",
+          "en": "A mendicant with these seven qualities is an expert in the monastic law.”"
+        },
+        {
+          "scid": "an7.77:1.11",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.77/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.77//AN 7.73",
+    "volpages": "AN iv 141",
+    "uid": "an7.77",
+    "blurb": "An expert in monastic conduct has seven qualities.",
+    "difficulty": null,
+    "original_title": "Tatiyavinayadhara Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "An Expert in the Monastic Law (3rd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.77_sujato",
+        "segmented": true,
+        "title": "An Expert in the Monastic Law (3rd)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 3
+  }
+}

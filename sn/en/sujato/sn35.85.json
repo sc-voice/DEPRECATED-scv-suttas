@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn35.85",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.85",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The World is Empty",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Teaching In Brief",
+      "uid": "sn35.86"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wearing Out",
+      "uid": "sn35.84"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.85:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.85:0.2",
+          "pli": "9. Channavagga",
+          "en": "9. With Channa"
+        },
+        {
+          "scid": "sn35.85:0.3",
+          "pli": "85. Suññatalokasutta",
+          "en": "85. The World is Empty"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.85:1.1",
+          "pli": "Atha kho āyasmā ānando … pe … bhagavantaṃ etadavoca:",
+          "en": "And then Venerable Ānanda … said to the Buddha:"
+        },
+        {
+          "scid": "sn35.85:1.2",
+          "pli": "“‘suñño loko, suñño loko’ti, bhante, vuccati.",
+          "en": "“Sir, they say that ‘the world is empty’."
+        },
+        {
+          "scid": "sn35.85:1.3",
+          "pli": "Kittāvatā nu kho, bhante, suñño lokoti vuccatī”ti?",
+          "en": "What does the saying ‘the world is empty’ refer to?”"
+        },
+        {
+          "scid": "sn35.85:1.4",
+          "pli": "“Yasmā ca kho, ānanda, suññaṃ attena vā attaniyena vā tasmā suñño lokoti vuccati.",
+          "en": "“Ānanda, they say that ‘the world is empty’ because it’s empty of self or what belongs to self."
+        },
+        {
+          "scid": "sn35.85:1.5",
+          "pli": "Kiñca, ānanda, suññaṃ attena vā attaniyena vā?",
+          "en": "And what is empty of self or what belongs to self?"
+        },
+        {
+          "scid": "sn35.85:1.6",
+          "pli": "Cakkhu kho, ānanda, suññaṃ attena vā attaniyena vā.",
+          "en": "The eye,"
+        },
+        {
+          "scid": "sn35.85:1.7",
+          "pli": "Rūpā suññā attena vā attaniyena vā, cakkhuviññāṇaṃ suññaṃ attena vā attaniyena vā, cakkhusamphasso suñño attena vā attaniyena vā … pe …",
+          "en": "sights, eye consciousness, and eye contact are empty of self or what belongs to self. …"
+        },
+        {
+          "scid": "sn35.85:1.8",
+          "pli": "yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi suññaṃ attena vā attaniyena vā.",
+          "en": "The pleasant, painful, or neutral feeling that arises conditioned by mind contact is also empty of self or what belongs to self."
+        },
+        {
+          "scid": "sn35.85:1.9",
+          "pli": "Yasmā ca kho, ānanda, suññaṃ attena vā attaniyena vā, tasmā suñño lokoti vuccatī”ti.",
+          "en": "They say that ‘the world is empty’ because it’s empty of self or what belongs to self.”"
+        },
+        {
+          "scid": "sn35.85:1.10",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "And then Venerable Ānanda … said to…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.85/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.85",
+    "volpages": "SN iv 54",
+    "uid": "sn35.85",
+    "blurb": "The Buddha tells Ānanda that the “world” consisting of six sense experience is empty because it is empty of self and what belongs to self.",
+    "difficulty": null,
+    "original_title": "Suññataloka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The World is Empty",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.85_sujato",
+        "segmented": true,
+        "title": "The World is Empty"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.85_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Empty Is the World"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an5.122",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.122",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Mindfulness Well Established",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Carer (1st)",
+      "uid": "an5.123"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sick",
+      "uid": "an5.121"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.122:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.122:0.2",
+          "pli": "13. Gilānavagga",
+          "en": "13. Sick"
+        },
+        {
+          "scid": "an5.122:0.3",
+          "pli": "122. Satisūpaṭṭhitasutta",
+          "en": "122. Mindfulness Well Established"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.122:1.1",
+          "pli": "“Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā pañca dhamme bhāveti pañca dhamme bahulīkaroti, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ—",
+          "en": "“Mendicants, any monk or nun who develops and cultivates five qualities can expect one of two results:"
+        },
+        {
+          "scid": "an5.122:1.2",
+          "pli": "diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā.",
+          "en": "enlightenment in the present life, or if there’s something left over, non-return."
+        },
+        {
+          "scid": "an5.122:2.1",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.122:2.2",
+          "pli": "Idha, bhikkhave, bhikkhuno ajjhattaññeva sati sūpaṭṭhitā hoti dhammānaṃ udayatthagāminiyā paññāya, asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī.",
+          "en": "It’s when a mendicant has well established mindfulness inside themselves in order to understand the arising and passing away of phenomena, meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, and observes the impermanence of all conditions."
+        },
+        {
+          "scid": "an5.122:2.3",
+          "pli": "Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā ime pañca dhamme bhāveti ime pañca dhamme bahulīkaroti, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ—",
+          "en": "Any monk or nun who develops and cultivates these five qualities can expect one of two results:"
+        },
+        {
+          "scid": "an5.122:2.4",
+          "pli": "diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.",
+          "en": "enlightenment in the present life, or if there’s something left over, non-return.”"
+        },
+        {
+          "scid": "an5.122:2.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.122/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.122",
+    "volpages": "AN iii 143",
+    "uid": "an5.122",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Satisūpaṭṭhita Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mindfulness Well Established",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.122_sujato",
+        "segmented": true,
+        "title": "Mindfulness Well Established"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn22.114",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.114",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Knowledge",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Dhamma speaker",
+      "uid": "sn22.115"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ignorance",
+      "uid": "sn22.113"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.114:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.114:0.2",
+          "pli": "12. Dhammakathikavagga",
+          "en": "12. A Dhamma speaker"
+        },
+        {
+          "scid": "sn22.114:0.3",
+          "pli": "114. Vijjāsutta",
+          "en": "114. Knowledge"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.114:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.114:1.2",
+          "pli": "Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Seated to one side, that mendicant said to the Buddha:"
+        },
+        {
+          "scid": "sn22.114:1.3",
+          "pli": "“‘vijjā, vijjā’ti, bhante, vuccati.",
+          "en": "“Sir, they speak of this thing called ‘knowledge’."
+        },
+        {
+          "scid": "sn22.114:1.4",
+          "pli": "Katamā nu kho, bhante, vijjā;",
+          "en": "What is knowledge?"
+        },
+        {
+          "scid": "sn22.114:1.5",
+          "pli": "kittāvatā ca vijjāgato hotī”ti?",
+          "en": "And how is a knowledgeable person defined?”"
+        },
+        {
+          "scid": "sn22.114:1.6",
+          "pli": "“Idha, bhikkhu, sutavā ariyasāvako rūpaṃ pajānāti, rūpasamudayaṃ … rūpanirodhaṃ … rūpanirodhagāminiṃ paṭipadaṃ pajānāti.",
+          "en": "“Mendicant, it’s when an educated noble disciple understands form, its origin, its cessation, and the practice that leads to its cessation."
+        },
+        {
+          "scid": "sn22.114:1.7",
+          "pli": "Vedanaṃ …",
+          "en": "They understand feeling …"
+        },
+        {
+          "scid": "sn22.114:1.8",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.114:1.9",
+          "pli": "saṅkhāre pajānāti … pe …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.114:1.10",
+          "pli": "viññāṇanirodhagāminiṃ paṭipadaṃ pajānāti.",
+          "en": "consciousness, its origin, its cessation, and the practice that leads to its cessation."
+        },
+        {
+          "scid": "sn22.114:1.11",
+          "pli": "Ayaṃ vuccati, bhikkhu, vijjā;",
+          "en": "This is called knowledge."
+        },
+        {
+          "scid": "sn22.114:1.12",
+          "pli": "ettāvatā ca vijjāgato hotī”ti.",
+          "en": "And this is how a knowledgeable person is defined.”"
+        },
+        {
+          "scid": "sn22.114:1.13",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.114/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.114",
+    "volpages": "SN iii 163",
+    "uid": "sn22.114",
+    "blurb": "Knowledge is understanding the aggregates.",
+    "difficulty": null,
+    "original_title": "Vijjā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Knowledge",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.114_sujato",
+        "segmented": true,
+        "title": "Knowledge"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

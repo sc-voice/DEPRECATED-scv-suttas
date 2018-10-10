@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn9.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn9.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Midday",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Undisciplined Faculties",
+      "uid": "sn9.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unskillful Thoughts",
+      "uid": "sn9.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn9.12:0.1",
+          "pli": "Saṃyutta Nikāya 9",
+          "en": "Linked Discourses 9"
+        },
+        {
+          "scid": "sn9.12:0.2",
+          "pli": "1. Vanavagga",
+          "en": "1. In the Woods"
+        },
+        {
+          "scid": "sn9.12:0.3",
+          "pli": "12. Majjhanhikasutta",
+          "en": "12. Midday"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn9.12:1.1",
+          "pli": "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe.",
+          "en": "At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove."
+        },
+        {
+          "scid": "sn9.12:1.2",
+          "pli": "Atha kho tasmiṃ vanasaṇḍe adhivatthā devatā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā tassa bhikkhuno santike imaṃ gāthaṃ abhāsi:",
+          "en": "The deity haunting that forest approached that mendicant and recited this verse in their presence:"
+        },
+        {
+          "scid": "sn9.12:2.1",
+          "pli": "“Ṭhite majjhanhike kāle,",
+          "en": "“In the still of high noon,"
+        },
+        {
+          "scid": "sn9.12:2.2",
+          "pli": "sannisīvesu pakkhisu;",
+          "en": "when the birds have settled down,"
+        },
+        {
+          "scid": "sn9.12:2.3",
+          "pli": "Saṇateva brahāraññaṃ,",
+          "en": "the formidable jungle whispers to itself:"
+        },
+        {
+          "scid": "sn9.12:2.4",
+          "pli": "taṃ bhayaṃ paṭibhāti maṃ.",
+          "en": "that seems so scary to me!”"
+        },
+        {
+          "scid": "sn9.12:3.1",
+          "pli": "Ṭhite majjhanhike kāle,",
+          "en": "“In the still of high noon,"
+        },
+        {
+          "scid": "sn9.12:3.2",
+          "pli": "sannisīvesu pakkhisu;",
+          "en": "when the birds have settled down,"
+        },
+        {
+          "scid": "sn9.12:3.3",
+          "pli": "Saṇateva brahāraññaṃ,",
+          "en": "the formidable jungle whispers to itself:"
+        },
+        {
+          "scid": "sn9.12:3.4",
+          "pli": "sā rati paṭibhāti man”ti.",
+          "en": "that seems so delightful to me!”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time one of the mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn9.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 9.12//SN 232",
+    "volpages": "SN i 203//SN i 437",
+    "uid": "sn9.12",
+    "blurb": "A deity speaks of the fearfulness of the murmuring forest. But to a mendicant it seems delightful.",
+    "difficulty": null,
+    "original_title": "Majjhanhika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Midday",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn9.12_sujato",
+        "segmented": true,
+        "title": "Midday"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 12
+  }
+}

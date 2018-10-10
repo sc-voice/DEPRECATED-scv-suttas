@@ -1,0 +1,815 @@
+{
+  "sutta_uid": "mn108",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn108",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Moggallāna the Guardian",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Longer Discourse on the Full-Moon night",
+      "uid": "mn109"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Moggallāna the Accountant",
+      "uid": "mn107"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn108:0.1",
+          "pli": "Majjhima Nikāya 108",
+          "en": "Middle Discourses 108"
+        },
+        {
+          "scid": "mn108:0.2",
+          "pli": "Gopakamoggallānasutta",
+          "en": "With Moggallāna the Guardian"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 108…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn108:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn108:1.2",
+          "pli": "ekaṃ samayaṃ āyasmā ānando rājagahe viharati veḷuvane kalandakanivāpe aciraparinibbute bhagavati.",
+          "en": "At one time Venerable Ānanda was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground. It was not long after the Buddha had become fully extinguished."
+        },
+        {
+          "scid": "mn108:2.1",
+          "pli": "Tena kho pana samayena rājā māgadho ajātasattu vedehiputto rājagahaṃ paṭisaṅkhārāpeti rañño pajjotassa āsaṅkamāno.",
+          "en": "Now at that time King Ajātasattu Vedehiputta of Magadha, being suspicious of King Pajjota, was having Rājagaha fortified."
+        },
+        {
+          "scid": "mn108:3.1",
+          "pli": "Atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisi.",
+          "en": "Then Venerable Ānanda robed up in the morning and, taking his bowl and robe, entered Rājagaha for alms."
+        },
+        {
+          "scid": "mn108:3.2",
+          "pli": "Atha kho āyasmato ānandassa etadahosi:",
+          "en": "Then Venerable Ānanda thought:"
+        },
+        {
+          "scid": "mn108:3.3",
+          "pli": "“atippago kho tāva rājagahe piṇḍāya carituṃ.",
+          "en": "“It’s too early to wander for alms in Rājagaha."
+        },
+        {
+          "scid": "mn108:3.4",
+          "pli": "Yannūnāhaṃ yena gopakamoggallānassa brāhmaṇassa kammanto, yena gopakamoggallāno brāhmaṇo tenupasaṅkameyyan”ti.",
+          "en": "Why don’t I go to see the brahmin Moggallāna the Guardian at his place of work?”"
+        },
+        {
+          "scid": "mn108:4.1",
+          "pli": "Atha kho āyasmā ānando yena gopakamoggallānassa brāhmaṇassa kammanto, yena gopakamoggallāno brāhmaṇo tenupasaṅkami.",
+          "en": "So that’s what he did."
+        },
+        {
+          "scid": "mn108:4.2",
+          "pli": "Addasā kho gopakamoggallāno brāhmaṇo āyasmantaṃ ānandaṃ dūratova āgacchantaṃ.",
+          "en": "Moggallāna the Guardian saw Ānanda coming off in the distance"
+        },
+        {
+          "scid": "mn108:4.3",
+          "pli": "Disvāna āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "and said to him:"
+        },
+        {
+          "scid": "mn108:4.4",
+          "pli": "“etu kho bhavaṃ ānando.",
+          "en": "“Come, Master Ānanda!"
+        },
+        {
+          "scid": "mn108:4.5",
+          "pli": "Svāgataṃ bhoto ānandassa.",
+          "en": "Welcome, Master Ānanda!"
+        },
+        {
+          "scid": "mn108:4.6",
+          "pli": "Cirassaṃ kho bhavaṃ ānando imaṃ pariyāyamakāsi yadidaṃ idhāgamanāya.",
+          "en": "It’s been a long time since you took the opportunity to come here."
+        },
+        {
+          "scid": "mn108:4.7",
+          "pli": "Nisīdatu bhavaṃ ānando, idamāsanaṃ paññattan”ti.",
+          "en": "Please, sir, sit down, this seat is ready.”"
+        },
+        {
+          "scid": "mn108:4.8",
+          "pli": "Nisīdi kho āyasmā ānando paññatte āsane.",
+          "en": "Ānanda sat down on the seat spread out,"
+        },
+        {
+          "scid": "mn108:4.9",
+          "pli": "Gopakamoggallānopi kho brāhmaṇo aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi.",
+          "en": "while Moggallāna took a low seat and sat to one side."
+        },
+        {
+          "scid": "mn108:4.10",
+          "pli": "Ekamantaṃ nisinno kho gopakamoggallāno brāhmaṇo āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "Then he said to Ānanda:"
+        },
+        {
+          "scid": "mn108:5.1",
+          "pli": "“atthi nu kho, bho ānanda, ekabhikkhupi tehi dhammehi sabbenasabbaṃ sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhavaṃ gotamo ahosi arahaṃ sammāsambuddho”ti?",
+          "en": "“Master Ānanda, is there even a single mendicant who has all the same qualities in each and every way as possessed by Master Gotama, the perfected one, the fully awakened Buddha?”"
+        },
+        {
+          "scid": "mn108:5.2",
+          "pli": "“Natthi kho, brāhmaṇa, ekabhikkhupi tehi dhammehi sabbenasabbaṃ sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhagavā ahosi arahaṃ sammāsambuddho.",
+          "en": "“No, brahmin, there is not."
+        },
+        {
+          "scid": "mn108:5.3",
+          "pli": "So hi, brāhmaṇa, bhagavā anuppannassa maggassa uppādetā, asañjātassa maggassa sañjanetā, anakkhātassa maggassa akkhātā, maggaññū, maggavidū, maggakovido;",
+          "en": "For the Blessed One gave rise to the unarisen path, gave birth to the unborn path, explained the unexplained path. He was the knower of the path, the discoverer of the path, the expert on the path."
+        },
+        {
+          "scid": "mn108:5.4",
+          "pli": "maggānugā ca pana etarahi sāvakā viharanti pacchā samannāgatā”ti.",
+          "en": "And now the disciples live following the path; they acquire it later.”"
+        },
+        {
+          "scid": "mn108:6.1",
+          "pli": "Ayañca hidaṃ āyasmato ānandassa gopakamoggallānena brāhmaṇena saddhiṃ antarākathā vippakatā ahosi.",
+          "en": "But this conversation between Ānanda and Moggallāna the Guardian was left unfinished."
+        },
+        {
+          "scid": "mn108:6.2",
+          "pli": "Atha kho vassakāro brāhmaṇo magadhamahāmatto rājagahe kammante anusaññāyamāno yena gopakamoggallānassa brāhmaṇassa kammanto, yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodi.",
+          "en": "For the brahmin Vassakāra, a chief minister of Magadha, while supervising the work at Rājagaha, approached Āananda at Moggallāna’s place of work and exchanged greetings with him."
+        },
+        {
+          "scid": "mn108:6.3",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vassakāro brāhmaṇo magadhamahāmatto āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side and said to Ānanda:"
+        },
+        {
+          "scid": "mn108:6.4",
+          "pli": "“kāya nuttha, bho ānanda, etarahi kathāya sannisinnā, kā ca pana vo antarākathā vippakatā”ti?",
+          "en": "“Master Ānanda, what were you sitting talking about just now? What conversation was unfinished?”"
+        },
+        {
+          "scid": "mn108:6.5",
+          "pli": "“Idha maṃ, brāhmaṇa, gopakamoggallāno brāhmaṇo evamāha:",
+          "en": "So Ānanda told him of the conversation that they were having when Vassakāra arrived. Vassakāra said:"
+        },
+        {
+          "scid": "mn108:6.6",
+          "pli": "‘atthi nu kho, bho ānanda, ekabhikkhupi tehi dhammehi sabbenasabbaṃ sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhavaṃ gotamo ahosi arahaṃ sammāsambuddho’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:6.7",
+          "pli": "Evaṃ vutte, ahaṃ, brāhmaṇa, gopakamoggallānaṃ brāhmaṇaṃ etadavocaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn108:6.8",
+          "pli": "‘natthi kho, brāhmaṇa, ekabhikkhupi tehi dhammehi sabbenasabbaṃ sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhagavā ahosi arahaṃ sammāsambuddho.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:6.9",
+          "pli": "So hi, brāhmaṇa, bhagavā anuppannassa maggassa uppādetā, asañjātassa maggassa sañjanetā, anakkhātassa maggassa akkhātā, maggaññū, maggavidū, maggakovido;",
+          "en": ""
+        },
+        {
+          "scid": "mn108:6.10",
+          "pli": "maggānugā ca pana etarahi sāvakā viharanti pacchā samannāgatā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:6.11",
+          "pli": "Ayaṃ kho no, brāhmaṇa, gopakamoggallānena brāhmaṇena saddhiṃ antarākathā vippakatā.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:6.12",
+          "pli": "Atha tvaṃ anuppatto”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:7.1",
+          "pli": "“Atthi nu kho, bho ānanda, ekabhikkhupi tena bhotā gotamena ṭhapito:",
+          "en": "“Master Ānanda, is there even a single mendicant who was appointed by Master Gotama, saying:"
+        },
+        {
+          "scid": "mn108:7.2",
+          "pli": "‘ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatī’ti, yaṃ tumhe etarahi paṭipādeyyāthā”ti?",
+          "en": "‘This one will be your refuge when I have passed away,’ to whom you now turn?”"
+        },
+        {
+          "scid": "mn108:7.3",
+          "pli": "“Natthi kho, brāhmaṇa, ekabhikkhupi tena bhagavatā jānatā passatā arahatā sammāsambuddhena ṭhapito:",
+          "en": "“No, there is not.”"
+        },
+        {
+          "scid": "mn108:7.4",
+          "pli": "‘ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatī’ti, yaṃ mayaṃ etarahi paṭipādeyyāmā”ti. ",
+          "en": ""
+        },
+        {
+          "scid": "mn108:8.1",
+          "pli": "“Atthi pana, bho ānanda, ekabhikkhupi saṃghena sammato, sambahulehi therehi bhikkhūhi ṭhapito:",
+          "en": "“But is there even a single mendicant who has been elected to such a position by the Saṅgha and appointed by several senior mendicants?”"
+        },
+        {
+          "scid": "mn108:8.2",
+          "pli": "‘ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatī’ti, yaṃ tumhe etarahi paṭipādeyyāthā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn108:8.3",
+          "pli": "“Natthi kho, brāhmaṇa, ekabhikkhupi saṃghena sammato, sambahulehi therehi bhikkhūhi ṭhapito:",
+          "en": "“No, there is not.”"
+        },
+        {
+          "scid": "mn108:8.4",
+          "pli": "‘ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatī’ti, yaṃ mayaṃ etarahi paṭipādeyyāmā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:9.1",
+          "pli": "“Evaṃ appaṭisaraṇe ca pana, bho ānanda, ko hetu sāmaggiyā”ti?",
+          "en": "“But since you lack a refuge, Master Ānanda, what’s the reason for your harmony?”"
+        },
+        {
+          "scid": "mn108:9.2",
+          "pli": "“Na kho mayaṃ, brāhmaṇa, appaṭisaraṇā;",
+          "en": "“We don’t lack a refuge, brahmin,"
+        },
+        {
+          "scid": "mn108:9.3",
+          "pli": "sappaṭisaraṇā mayaṃ, brāhmaṇa;",
+          "en": "we have a refuge."
+        },
+        {
+          "scid": "mn108:9.4",
+          "pli": "dhammappaṭisaraṇā”ti.",
+          "en": "The teaching is our refuge.”"
+        },
+        {
+          "scid": "mn108:10.1",
+          "pli": "“‘Atthi nu kho, bho ānanda, ekabhikkhupi tena bhotā gotamena ṭhapito—",
+          "en": "“But Master Ānanda, when asked whether there was even a single mendicant—either appointed by the Buddha,"
+        },
+        {
+          "scid": "mn108:10.2",
+          "pli": "ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti, yaṃ tumhe etarahi paṭipādeyyāthā’ti—",
+          "en": ""
+        },
+        {
+          "scid": "mn108:10.3",
+          "pli": "iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi tena bhagavatā jānatā passatā arahatā sammāsambuddhena ṭhapito—",
+          "en": ""
+        },
+        {
+          "scid": "mn108:10.4",
+          "pli": "ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti, yaṃ mayaṃ etarahi paṭipādeyyāmā’ti vadesi;",
+          "en": ""
+        },
+        {
+          "scid": "mn108:10.5",
+          "pli": "‘atthi pana, bho ānanda, ekabhikkhupi saṅghena sammato, sambahulehi therehi bhikkhūhi ṭhapito—",
+          "en": "or elected by the Saṅgha and appointed by several senior mendicants—"
+        },
+        {
+          "scid": "mn108:10.6",
+          "pli": "ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatīti, yaṃ tumhe etarahi paṭipādeyyāthā’ti—",
+          "en": "who serves as your refuge after the Buddha passed away, to whom you now turn,"
+        },
+        {
+          "scid": "mn108:10.7",
+          "pli": "iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi saṅghena sammato, sambahulehi therehi bhikkhūhi ṭhapito—",
+          "en": "you replied, ‘No, there is not.’"
+        },
+        {
+          "scid": "mn108:10.8",
+          "pli": "ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatīti, yaṃ mayaṃ etarahi paṭipādeyyāmā’ti—",
+          "en": ""
+        },
+        {
+          "scid": "mn108:10.9",
+          "pli": "vadesi;",
+          "en": ""
+        },
+        {
+          "scid": "mn108:10.10",
+          "pli": "‘evaṃ appaṭisaraṇe ca pana, bho ānanda, ko hetu sāmaggiyā’ti iti puṭṭho samāno ‘na kho mayaṃ, brāhmaṇa, appaṭisaraṇā;",
+          "en": "But you say that the reason for your harmony is that you have"
+        },
+        {
+          "scid": "mn108:10.11",
+          "pli": "sappaṭisaraṇā mayaṃ, brāhmaṇa;",
+          "en": ""
+        },
+        {
+          "scid": "mn108:10.12",
+          "pli": "dhammappaṭisaraṇā’ti vadesi.",
+          "en": "the teaching as a refuge."
+        },
+        {
+          "scid": "mn108:10.13",
+          "pli": "Imassa pana, bho ānanda, bhāsitassa kathaṃ attho daṭṭhabbo”ti?",
+          "en": "How should I see the meaning of this statement?”"
+        },
+        {
+          "scid": "mn108:10.14",
+          "pli": "“Atthi kho, brāhmaṇa, tena bhagavatā jānatā passatā arahatā sammāsambuddhena bhikkhūnaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhaṃ.",
+          "en": "“The Blessed One, who knows and sees, the perfected one, the fully awakened Buddha laid down training rules and recited the monastic code for the mendicants."
+        },
+        {
+          "scid": "mn108:10.15",
+          "pli": "Te mayaṃ tadahuposathe yāvatikā ekaṃ gāmakhettaṃ upanissāya viharāma te sabbe ekajjhaṃ sannipatāma;",
+          "en": "On the day of the sabbath all of us who live in dependence on one village district gather together as one."
+        },
+        {
+          "scid": "mn108:10.16",
+          "pli": "sannipatitvā yassa taṃ pavattati taṃ ajjhesāma.",
+          "en": "We invite one who has freshly rehearsed the code to recite it."
+        },
+        {
+          "scid": "mn108:10.17",
+          "pli": "Tasmiñce bhaññamāne hoti bhikkhussa āpatti hoti vītikkamo taṃ mayaṃ yathādhammaṃ yathānusiṭṭhaṃ kāremāti.",
+          "en": "If anyone remembers an offense or transgression while they’re reciting, we make them act in line with the teachings and in line with the instructions."
+        },
+        {
+          "scid": "mn108:10.18",
+          "pli": "Na kira no bhavanto kārenti;",
+          "en": "It’s not the venerables that make us act,"
+        },
+        {
+          "scid": "mn108:10.19",
+          "pli": "dhammo no kāreti”.",
+          "en": "it’s the teaching that makes us act.”"
+        },
+        {
+          "scid": "mn108:11.1",
+          "pli": "“Atthi nu kho, bho ānanda, ekabhikkhupi yaṃ tumhe etarahi sakkarotha garuṃ karotha mānetha pūjetha; sakkatvā garuṃ katvā upanissāya viharathā”ti?",
+          "en": "“Master Ānanda, is there even a single mendicant who you honor, respect, revere, venerate, and rely on?”"
+        },
+        {
+          "scid": "mn108:11.2",
+          "pli": "“Natthi kho, brāhmaṇa, ekabhikkhupi yaṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema pūjema; sakkatvā garuṃ katvā upanissāya viharāmā”ti.",
+          "en": "“There is, brahmin.”"
+        },
+        {
+          "scid": "mn108:11.3",
+          "pli": "“‘Atthi nu kho, bho ānanda, ekabhikkhupi tena bhotā gotamena ṭhapito—",
+          "en": "“But Master Ānanda, when asked whether there was even a single mendicant—either appointed by the Buddha,"
+        },
+        {
+          "scid": "mn108:11.4",
+          "pli": "ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti yaṃ tumhe etarahi paṭipādeyyāthā’ti—",
+          "en": ""
+        },
+        {
+          "scid": "mn108:11.5",
+          "pli": "iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi tena bhagavatā jānatā passatā arahatā sammāsambuddhena ṭhapito—",
+          "en": ""
+        },
+        {
+          "scid": "mn108:12.1",
+          "pli": "ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti yaṃ mayaṃ etarahi paṭipādeyyāmā’ti vadesi;",
+          "en": ""
+        },
+        {
+          "scid": "mn108:12.2",
+          "pli": "‘atthi pana, bho ānanda, ekabhikkhupi saṅghena sammato, sambahulehi therehi bhikkhūhi ṭhapito—",
+          "en": "or elected by the Saṅgha and appointed by several senior mendicants—"
+        },
+        {
+          "scid": "mn108:12.3",
+          "pli": "ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatīti yaṃ tumhe etarahi paṭipādeyyāthā’ti—",
+          "en": "who serves as your refuge after the Buddha passed away, to whom you now turn,"
+        },
+        {
+          "scid": "mn108:12.4",
+          "pli": "iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi saṅghena sammato, sambahulehi therehi bhikkhūhi ṭhapito—",
+          "en": "you replied, ‘No, there is not.’"
+        },
+        {
+          "scid": "mn108:12.5",
+          "pli": "ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatīti yaṃ mayaṃ etarahi paṭipādeyyāmā’ti vadesi;",
+          "en": ""
+        },
+        {
+          "scid": "mn108:12.6",
+          "pli": "‘atthi nu kho, bho ānanda, ekabhikkhupi yaṃ tumhe etarahi sakkarotha garuṃ karotha mānetha pūjetha; sakkatvā garuṃ katvā upanissāya viharathā’ti—",
+          "en": "But when asked whether there is even a single mendicant who you honor, respect, revere, venerate, and rely on,"
+        },
+        {
+          "scid": "mn108:12.7",
+          "pli": "iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi yaṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema pūjema; sakkatvā garuṃ katvā upanissāya viharāmā’ti vadesi.",
+          "en": "you replied, ‘There is.’"
+        },
+        {
+          "scid": "mn108:12.8",
+          "pli": "Imassa pana, bho ānanda, bhāsitassa kathaṃ attho daṭṭhabbo”ti?",
+          "en": "How should I see the meaning of this statement?”"
+        },
+        {
+          "scid": "mn108:13.1",
+          "pli": "“Atthi kho, brāhmaṇa, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dasa pasādanīyā dhammā akkhātā.",
+          "en": "“There are ten inspiring things explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha."
+        },
+        {
+          "scid": "mn108:13.2",
+          "pli": "Yasmiṃ no ime dhammā saṃvijjanti taṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema pūjema; sakkatvā garuṃ katvā upanissāya viharāma.",
+          "en": "We honor anyone in whom these things are found."
+        },
+        {
+          "scid": "mn108:13.3",
+          "pli": "Katame dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "mn108:14.1",
+          "pli": "Idha, brāhmaṇa, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu. (1)",
+          "en": "It’s when a mendicant is ethical, restrained in the monastic code, and has appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+        },
+        {
+          "scid": "mn108:15.1",
+          "pli": "Bahussuto hoti sutadharo sutasannicayo.",
+          "en": "They’re very learned, remembering and keeping what they’ve learned."
+        },
+        {
+          "scid": "mn108:15.2",
+          "pli": "Ye te dhammā ādikalyāṇā, majjhekalyāṇā, pariyosānakalyāṇā, sātthaṃ, sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā. (2)",
+          "en": "These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically."
+        },
+        {
+          "scid": "mn108:16.1",
+          "pli": "Santuṭṭho hoti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi. (3)",
+          "en": "They’re content with robes, alms-food, lodgings, and medicines and supplies for the sick."
+        },
+        {
+          "scid": "mn108:17.1",
+          "pli": "Catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī. (4)",
+          "en": "They get the four absorptions—blissful meditations in the present life that belong to the higher mind—when they want, without trouble or difficulty."
+        },
+        {
+          "scid": "mn108:18.1",
+          "pli": "Anekavihitaṃ iddhividhaṃ paccanubhoti—ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṃ tirobhāvaṃ; tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gacchati, seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṃ karoti, seyyathāpi udake; udakepi abhijjamāne gacchati, seyyathāpi pathaviyaṃ; ākāsepi pallaṅkena kamati, seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parimasati parimajjati, yāva brahmalokāpi kāyena vasaṃ vatteti. (5)",
+          "en": "They wield the many kinds of psychic power: multiplying themselves and becoming one again; appearing and disappearing; going unimpeded through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with the hand the sun and moon, so mighty and powerful. They control the body as far as the Brahmā realm."
+        },
+        {
+          "scid": "mn108:19.1",
+          "pli": "Dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti—dibbe ca mānuse ca, ye dūre santike ca. (6)",
+          "en": "With clairaudience that is purified and superhuman, they hear both kinds of sounds, human and divine, whether near or far."
+        },
+        {
+          "scid": "mn108:20.1",
+          "pli": "Parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti. Sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāti, vītarāgaṃ vā cittaṃ ‘vītarāgaṃ cittan’ti pajānāti, sadosaṃ vā cittaṃ ‘sadosaṃ cittan’ti pajānāti, vītadosaṃ vā cittaṃ ‘vītadosaṃ cittan’ti pajānāti, samohaṃ vā cittaṃ ‘samohaṃ cittan’ti pajānāti, vītamohaṃ vā cittaṃ ‘vītamohaṃ cittan’ti pajānāti, saṅkhittaṃ vā cittaṃ ‘saṅkhittaṃ cittan’ti pajānāti, vikkhittaṃ vā cittaṃ ‘vikkhittaṃ cittan’ti pajānāti, mahaggataṃ vā cittaṃ ‘mahaggataṃ cittan’ti pajānāti, amahaggataṃ vā cittaṃ ‘amahaggataṃ cittan’ti pajānāti, sauttaraṃ vā cittaṃ ‘sauttaraṃ cittan’ti pajānāti, anuttaraṃ vā cittaṃ ‘anuttaraṃ cittan’ti pajānāti, samāhitaṃ vā cittaṃ ‘samāhitaṃ cittan’ti pajānāti, asamāhitaṃ vā cittaṃ ‘asamāhitaṃ cittan’ti pajānāti, vimuttaṃ vā cittaṃ ‘vimuttaṃ cittan’ti pajānāti, avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti. (7)",
+          "en": "They understand the minds of other beings and individuals, having comprehended them with their own mind. They understand mind with greed as ‘mind with greed’, and mind without greed as ‘mind without greed’. They understand mind with hate … mind without hate … mind with delusion … mind without delusion … contracted mind … scattered mind … expansive mind … unexpansive mind … mind that is not supreme … mind that is supreme … mind immersed in samādhi … mind not immersed in samādhi … freed mind … They understand unfreed mind as ‘unfreed mind’."
+        },
+        {
+          "scid": "mn108:21.1",
+          "pli": "Anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattārīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe: ‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati. (8)",
+          "en": "They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world evolving, many eons of the world contracting and evolving. They remember: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so they recollect their many kinds of past lives, with features and details."
+        },
+        {
+          "scid": "mn108:22.1",
+          "pli": "Dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāti. (9)",
+          "en": "With clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and superior, beautiful and ugly, in a good place or a bad place. They understand how sentient beings are reborn according to their deeds."
+        },
+        {
+          "scid": "mn108:23.1",
+          "pli": "Āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. (10)",
+          "en": "They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements."
+        },
+        {
+          "scid": "mn108:23.2",
+          "pli": "Ime kho, brāhmaṇa, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dasa pasādanīyā dhammā akkhātā.",
+          "en": "These are the ten inspiring things explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha."
+        },
+        {
+          "scid": "mn108:23.3",
+          "pli": "Yasmiṃ no ime dhammā saṃvijjanti taṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema pūjema; sakkatvā garuṃ katvā upanissāya viharāmā”ti.",
+          "en": "We honor anyone in whom these things are found, and rely on them.”"
+        },
+        {
+          "scid": "mn108:24.1",
+          "pli": "Evaṃ vutte, vassakāro brāhmaṇo magadhamahāmatto upanandaṃ senāpatiṃ āmantesi:",
+          "en": "When he had spoken, Vassakāra addressed General Upananda:"
+        },
+        {
+          "scid": "mn108:24.2",
+          "pli": "“Taṃ kiṃ maññati bhavaṃ senāpati yadime bhonto sakkātabbaṃ sakkaronti, garuṃ kātabbaṃ garuṃ karonti, ",
+          "en": "“What do you think, general? "
+        },
+        {
+          "scid": "mn108:24.3",
+          "pli": "mānetabbaṃ mānenti, pūjetabbaṃ pūjenti”?",
+          "en": "Do these venerables honor, respect, revere, and venerate those who are worthy?”"
+        },
+        {
+          "scid": "mn108:24.4",
+          "pli": "“Tagghime bhonto sakkātabbaṃ sakkaronti, garuṃ kātabbaṃ garuṃ karonti, mānetabbaṃ mānenti, pūjetabbaṃ pūjenti.",
+          "en": "“Indeed they do."
+        },
+        {
+          "scid": "mn108:24.5",
+          "pli": "Imañca hi te bhonto na sakkareyyuṃ na garuṃ kareyyuṃ na māneyyuṃ na pūjeyyuṃ;",
+          "en": "For if these venerables were not to honor, respect, revere, and venerate such a person,"
+        },
+        {
+          "scid": "mn108:24.6",
+          "pli": "atha kiñcarahi te bhonto sakkareyyuṃ garuṃ kareyyuṃ māneyyuṃ pūjeyyuṃ, sakkatvā garuṃ katvā mānetvā pūjetvā upanissāya vihareyyun”ti?",
+          "en": "then who exactly would they honor?”"
+        },
+        {
+          "scid": "mn108:25.1",
+          "pli": "Atha kho vassakāro brāhmaṇo magadhamahāmatto āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "The Vassakāra said to Ānanda:"
+        },
+        {
+          "scid": "mn108:25.2",
+          "pli": "“kahaṃ pana bhavaṃ ānando etarahi viharatī”ti?",
+          "en": "“Where are you staying at present?”"
+        },
+        {
+          "scid": "mn108:25.3",
+          "pli": "“Veḷuvane khohaṃ, brāhmaṇa, etarahi viharāmī”ti.",
+          "en": "“In the Bamboo Grove, brahmin.”"
+        },
+        {
+          "scid": "mn108:25.4",
+          "pli": "“Kacci pana, bho ānanda, veḷuvanaṃ ramaṇīyañceva appasaddañca appanigghosañca vijanavātaṃ manussarāhasseyyakaṃ paṭisallānasāruppan”ti?",
+          "en": "“I hope the Bamboo Grove is delightful, quiet and still, far from the madding crowd, remote from human settlements, and appropriate for retreat?”"
+        },
+        {
+          "scid": "mn108:25.5",
+          "pli": "“Taggha, brāhmaṇa, veḷuvanaṃ ramaṇīyañceva appasaddañca appanigghosañca vijanavātaṃ manussarāhasseyyakaṃ paṭisallānasāruppaṃ, yathā taṃ tumhādisehi rakkhakehi gopakehī”ti.",
+          "en": "“Indeed it is, brahmin. And it is like that owing to such protectors and guardians as yourself.”"
+        },
+        {
+          "scid": "mn108:25.6",
+          "pli": "“Taggha, bho ānanda, veḷuvanaṃ ramaṇīyañceva appasaddañca appanigghosañca vijanavātaṃ manussarāhasseyyakaṃ paṭisallānasāruppaṃ, yathā taṃ bhavantehi jhāyīhi jhānasīlīhi.",
+          "en": "“Surely, Master Ānanda, it is owing to the venerables who meditate, making a habit of meditating."
+        },
+        {
+          "scid": "mn108:25.7",
+          "pli": "Jhāyino ceva bhavanto jhānasīlino ca.",
+          "en": "For the venerables do in fact meditate and make a habit of meditating."
+        },
+        {
+          "scid": "mn108:25.8",
+          "pli": "Ekamidāhaṃ, bho ānanda, samayaṃ so bhavaṃ gotamo vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ.",
+          "en": "This one time, Master Ānanda, Master Gotama was staying near Vesālī, at the Great Wood, in the hall with the peaked roof."
+        },
+        {
+          "scid": "mn108:25.9",
+          "pli": "Atha khvāhaṃ, bho ānanda, yena mahāvanaṃ kūṭāgārasālā yena so bhavaṃ gotamo tenupasaṅkamiṃ.",
+          "en": "So I went there to see him."
+        },
+        {
+          "scid": "mn108:25.10",
+          "pli": "Tatra ca pana so bhavaṃ gotamo anekapariyāyena jhānakathaṃ kathesi.",
+          "en": "And there he spoke about meditation in many ways."
+        },
+        {
+          "scid": "mn108:25.11",
+          "pli": "Jhāyī ceva so bhavaṃ gotamo ahosi jhānasīlī ca.",
+          "en": "He meditated, and made a habit of meditating."
+        },
+        {
+          "scid": "mn108:25.12",
+          "pli": "Sabbañca pana so bhavaṃ gotamo jhānaṃ vaṇṇesī”ti.",
+          "en": "And he praised all kinds of meditation.”"
+        },
+        {
+          "scid": "mn108:26.1",
+          "pli": "“Na ca kho, brāhmaṇa, so bhagavā sabbaṃ jhānaṃ vaṇṇesi, napi so bhagavā sabbaṃ jhānaṃ na vaṇṇesīti.",
+          "en": "“No, brahmin, the Buddha did not praise all kinds of meditation, nor did he dispraise all kinds of meditation."
+        },
+        {
+          "scid": "mn108:26.2",
+          "pli": "Kathaṃ rūpañca, brāhmaṇa, so bhagavā jhānaṃ na vaṇṇesi?",
+          "en": "And what kind of meditation did he not praise?"
+        },
+        {
+          "scid": "mn108:26.3",
+          "pli": "Idha, brāhmaṇa, ekacco kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ nappajānāti;",
+          "en": "It’s when someone’s heart is overcome and mired in sensual desire, and they don’t truly understand the escape from sensual desire that has arisen."
+        },
+        {
+          "scid": "mn108:26.4",
+          "pli": "so kāmarāgaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati apajjhāyati.",
+          "en": "Harboring sensual desire within they meditate and concentrate and contemplate and ruminate."
+        },
+        {
+          "scid": "mn108:26.5",
+          "pli": "Byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena, uppannassa ca byāpādassa nissaraṇaṃ yathābhūtaṃ nappajānāti;",
+          "en": "Their heart is overcome and mired in ill will …"
+        },
+        {
+          "scid": "mn108:26.6",
+          "pli": "so byāpādaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati apajjhāyati.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:26.7",
+          "pli": "Thinamiddhapariyuṭṭhitena cetasā viharati thinamiddhaparetena, uppannassa ca thinamiddhassa nissaraṇaṃ yathābhūtaṃ nappajānāti;",
+          "en": "dullness and drowsiness …"
+        },
+        {
+          "scid": "mn108:26.8",
+          "pli": "so thinamiddhaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati apajjhāyati.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:26.9",
+          "pli": "Uddhaccakukkuccapariyuṭṭhitena cetasā viharati uddhaccakukkuccaparetena, uppannassa ca uddhaccakukkuccassa nissaraṇaṃ yathābhūtaṃ nappajānāti;",
+          "en": "restlessness and remorse …"
+        },
+        {
+          "scid": "mn108:26.10",
+          "pli": "so uddhaccakukkuccaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati apajjhāyati.",
+          "en": ""
+        },
+        {
+          "scid": "mn108:26.11",
+          "pli": "Vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṃ yathābhūtaṃ nappajānāti;",
+          "en": "doubt, and they don’t truly know and see the escape from doubt that has arisen."
+        },
+        {
+          "scid": "mn108:26.12",
+          "pli": "so vicikicchaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati apajjhāyati.",
+          "en": "Harboring doubt within they meditate and concentrate and contemplate and ruminate."
+        },
+        {
+          "scid": "mn108:26.13",
+          "pli": "Evarūpaṃ kho, brāhmaṇa, so bhagavā jhānaṃ na vaṇṇesi.",
+          "en": "The Buddha doesn’t praise this kind of meditation."
+        },
+        {
+          "scid": "mn108:27.1",
+          "pli": "Kathaṃ rūpañca, brāhmaṇa, so bhagavā jhānaṃ vaṇṇesi?",
+          "en": "And what kind of meditation did he praise?"
+        },
+        {
+          "scid": "mn108:27.2",
+          "pli": "Idha, brāhmaṇa, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn108:27.3",
+          "pli": "Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ …",
+          "en": "As the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn108:27.4",
+          "pli": "tatiyaṃ jhānaṃ …",
+          "en": "And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’"
+        },
+        {
+          "scid": "mn108:27.5",
+          "pli": "catutthaṃ jhānaṃ upasampajja viharati.",
+          "en": "Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness."
+        },
+        {
+          "scid": "mn108:27.6",
+          "pli": "Evarūpaṃ kho, brāhmaṇa, so bhagavā jhānaṃ vaṇṇesī”ti.",
+          "en": "The Buddha praised this kind of meditation.”"
+        },
+        {
+          "scid": "mn108:28.1",
+          "pli": "“Gārayhaṃ kira, bho ānanda, so bhavaṃ gotamo jhānaṃ garahi, pāsaṃsaṃ pasaṃsi.",
+          "en": "“Well, Master Ānanda, it seems that Master Gotama criticized the kind of meditation that deserves criticism and praised that deserving of praise."
+        },
+        {
+          "scid": "mn108:28.2",
+          "pli": "Handa ca dāni mayaṃ, bho ānanda, gacchāma;",
+          "en": "Well, now, Master Ānanda, I must go."
+        },
+        {
+          "scid": "mn108:28.3",
+          "pli": "bahukiccā mayaṃ bahukaraṇīyā”ti.",
+          "en": "I have many duties, and much to do.”"
+        },
+        {
+          "scid": "mn108:28.4",
+          "pli": "“Yassadāni tvaṃ, brāhmaṇa, kālaṃ maññasī”ti.",
+          "en": "“Please, brahmin, go at your convenience.”"
+        },
+        {
+          "scid": "mn108:28.5",
+          "pli": "Atha kho vassakāro brāhmaṇo magadhamahāmatto āyasmato ānandassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā pakkāmi.",
+          "en": "Then Vassakāra the brahmin, having approved and agreed with what Venerable Ānanda said, got up from his seat and left."
+        },
+        {
+          "scid": "mn108:29.1",
+          "pli": "Atha kho gopakamoggallāno brāhmaṇo acirapakkante vassakāre brāhmaṇe magadhamahāmatte āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "Soon after he had left, Moggallāna the Guardian said to Ānanda:"
+        },
+        {
+          "scid": "mn108:29.2",
+          "pli": "“yaṃ no mayaṃ bhavantaṃ ānandaṃ apucchimhā taṃ no bhavaṃ ānando na byākāsī”ti.",
+          "en": "“You still haven’t answered my question.”"
+        },
+        {
+          "scid": "mn108:29.3",
+          "pli": "“Nanu te, brāhmaṇa, avocumhā:",
+          "en": "“But brahmin, didn’t I say:"
+        },
+        {
+          "scid": "mn108:29.4",
+          "pli": "‘natthi kho, brāhmaṇa, ekabhikkhupi tehi dhammehi sabbenasabbaṃ sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhagavā ahosi arahaṃ sammāsambuddho.",
+          "en": "‘There is no single mendicant who has all the same qualities in each and every way as possessed by Master Gotama, the perfected one, the fully awakened Buddha."
+        },
+        {
+          "scid": "mn108:29.5",
+          "pli": "So hi, brāhmaṇa, bhagavā anuppannassa maggassa uppādetā, asañjātassa maggassa sañjanetā, anakkhātassa maggassa akkhātā, maggaññū, maggavidū, maggakovido.",
+          "en": "For the Blessed One gave rise to the unarisen path, gave birth to the unborn path, explained the unexplained path. He was the knower of the path, the discoverer of the path, the expert on the path."
+        },
+        {
+          "scid": "mn108:29.6",
+          "pli": "Maggānugā ca pana etarahi sāvakā viharanti pacchā samannāgatā’”ti.",
+          "en": "And now the disciples live following the path; they acquire it later.’”"
+        },
+        {
+          "scid": "mn108:29.7",
+          "pli": "Gopakamoggallānasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn108/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 108",
+    "volpages": "MN iii 7",
+    "uid": "mn108",
+    "blurb": "Amid rising military tensions after the Buddha’s death, Venerable Ananda is questioned about how the Saṅgha planned to continue in their teacher’s absence. As the Buddha refused to appoint a successor, the teaching and practice that he laid down become the teacher, and the Saṅgha resolves issues by consensus.",
+    "difficulty": 1,
+    "original_title": "Gopakamoggallāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Moggallāna the Guardian",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn108_sujato",
+        "segmented": true,
+        "title": "With Moggallāna the Guardian"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn108_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "With Gopaka Moggallāna"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 8
+  }
+}

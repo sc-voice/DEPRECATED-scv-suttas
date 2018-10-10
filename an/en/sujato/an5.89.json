@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.89",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.89",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Trainee (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Trainee (2nd)",
+      "uid": "an5.90"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Senior Mendicants",
+      "uid": "an5.88"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.89:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.89:0.2",
+          "pli": "9. Theravagga",
+          "en": "9. Senior Mendicants"
+        },
+        {
+          "scid": "an5.89:0.3",
+          "pli": "89. Paṭhamasekhasutta",
+          "en": "89. A Trainee (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.89:1.1",
+          "pli": "“Pañcime, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṃvattanti.",
+          "en": "“These five things lead to the decline of a mendicant trainee."
+        },
+        {
+          "scid": "an5.89:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.89:1.3",
+          "pli": "Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, yathāvimuttaṃ cittaṃ na paccavekkhati—",
+          "en": "They relish work, talk, sleep, and company. And they don’t review the extent of their mind’s freedom."
+        },
+        {
+          "scid": "an5.89:1.4",
+          "pli": "ime kho, bhikkhave, pañca dhammā sekhassa bhikkhuno parihānāya saṃvattanti.",
+          "en": "These five things lead to the decline of a mendicant trainee."
+        },
+        {
+          "scid": "an5.89:2.1",
+          "pli": "Pañcime, bhikkhave, dhammā sekhassa bhikkhuno aparihānāya saṃvattanti.",
+          "en": "These five things don’t lead to the decline of a mendicant trainee."
+        },
+        {
+          "scid": "an5.89:2.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.89:2.3",
+          "pli": "Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, yathāvimuttaṃ cittaṃ paccavekkhati—",
+          "en": "They don’t relish work, talk, sleep, and company. And they review the extent of their mind’s freedom."
+        },
+        {
+          "scid": "an5.89:2.4",
+          "pli": "ime kho, bhikkhave, pañca dhammā sekhassa bhikkhuno aparihānāya saṃvattantī”ti.",
+          "en": "These five things don’t lead to the decline of a mendicant trainee.”"
+        },
+        {
+          "scid": "an5.89:2.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“These five things lead to the decline…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.89/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.89",
+    "volpages": "AN iii 116",
+    "uid": "an5.89",
+    "blurb": "Even if a mendicant is a trainee, they won’t progress if they don’t focus on practice. In brief.",
+    "difficulty": null,
+    "original_title": "Paṭhamasekha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Trainee (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.89_sujato",
+        "segmented": true,
+        "title": "A Trainee (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

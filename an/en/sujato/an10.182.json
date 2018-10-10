@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an10.182",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.182",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Teaching",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Defiled",
+      "uid": "an10.183"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Beneficial",
+      "uid": "an10.181"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.182:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.182:0.2",
+          "pli": "18. Sādhuvagga",
+          "en": "18. Good"
+        },
+        {
+          "scid": "an10.182:0.3",
+          "pli": "182. Dhammasutta",
+          "en": "182. The Teaching"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.182:1.1",
+          "pli": "“Dhammañca vo, bhikkhave, desessāmi adhammañca.",
+          "en": "“I will teach you what is the teaching and what is not the teaching. …"
+        },
+        {
+          "scid": "an10.182:1.2",
+          "pli": "Taṃ suṇātha … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an10.182:1.3",
+          "pli": "katamo ca, bhikkhave, adhammo?",
+          "en": "And what is not the teaching?"
+        },
+        {
+          "scid": "an10.182:1.4",
+          "pli": "Pāṇātipāto … pe …",
+          "en": "Killing living creatures …"
+        },
+        {
+          "scid": "an10.182:1.5",
+          "pli": "micchādiṭṭhi—",
+          "en": "wrong view."
+        },
+        {
+          "scid": "an10.182:1.6",
+          "pli": "ayaṃ vuccati, bhikkhave, adhammo.",
+          "en": "This is called what is not the teaching."
+        },
+        {
+          "scid": "an10.182:2.1",
+          "pli": "Katamo ca, bhikkhave, dhammo?",
+          "en": "And what is the teaching?"
+        },
+        {
+          "scid": "an10.182:2.2",
+          "pli": "Pāṇātipātā veramaṇī … pe …",
+          "en": "Not killing living creatures …"
+        },
+        {
+          "scid": "an10.182:2.3",
+          "pli": "sammādiṭṭhi—",
+          "en": "right view."
+        },
+        {
+          "scid": "an10.182:2.4",
+          "pli": "ayaṃ vuccati, bhikkhave, dhammo”ti.",
+          "en": "This is called the teaching.”"
+        },
+        {
+          "scid": "an10.182:2.5",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“I will teach you what is the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.182/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.182",
+    "volpages": "AN v 275",
+    "uid": "an10.182",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Teaching",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.182_sujato",
+        "segmented": true,
+        "title": "The Teaching"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn13.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn13.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Earth (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ocean",
+      "uid": "sn13.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Earth",
+      "uid": "sn13.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn13.6:0.1",
+          "pli": "Saṃyutta Nikāya 13",
+          "en": "Linked Discourses 13"
+        },
+        {
+          "scid": "sn13.6:0.2",
+          "pli": "1. Abhisamayavagga",
+          "en": "1. Comprehension"
+        },
+        {
+          "scid": "sn13.6:0.3",
+          "pli": "6. Dutiyapathavīsutta",
+          "en": "6. The Earth (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 13…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn13.6:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn13.6:1.2",
+          "pli": "“Seyyathāpi, bhikkhave, mahāpathavī parikkhayaṃ pariyādānaṃ gaccheyya, ṭhapetvā satta kolaṭṭhimattiyo guḷikā.",
+          "en": "“Mendicants, suppose the great earth was worn away and eroded except for seven clay balls the size of jujube seeds."
+        },
+        {
+          "scid": "sn13.6:1.3",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "sn13.6:1.4",
+          "pli": "katamaṃ nu kho bahutaraṃ, yaṃ vā mahāpathaviyā parikkhīṇaṃ pariyādiṇṇaṃ yā vā satta kolaṭṭhimattiyo guḷikā avasiṭṭhā”ti?",
+          "en": "Which is more: the great earth that has been worn away and eroded, or the seven clay balls the size of jujube seeds that are left?”"
+        },
+        {
+          "scid": "sn13.6:2.1",
+          "pli": "“Etadeva, bhante, bahutaraṃ, mahāpathaviyā, yadidaṃ parikkhīṇaṃ pariyādiṇṇaṃ;",
+          "en": "“Sir, the great earth that has been worn away and eroded is certainly more."
+        },
+        {
+          "scid": "sn13.6:2.2",
+          "pli": "appamattikā satta kolaṭṭhimattiyo guḷikā avasiṭṭhā.",
+          "en": "The seven clay balls the size of jujube seeds are tiny."
+        },
+        {
+          "scid": "sn13.6:2.3",
+          "pli": "Neva satimaṃ kalaṃ upenti na sahassimaṃ kalaṃ upenti na satasahassimaṃ kalaṃ upenti mahāpathaviyā parikkhīṇaṃ pariyādiṇṇaṃ upanidhāya satta kolaṭṭhimattiyo guḷikā avasiṭṭhā”ti.",
+          "en": "Compared to the great earth that has been worn away and eroded, it’s not nearly a hundredth, a thousandth, or a hundred thousandth part.”"
+        },
+        {
+          "scid": "sn13.6:2.4",
+          "pli": "“Evameva kho, bhikkhave … pe …",
+          "en": "“In the same way, for a noble disciple, the suffering that’s over and done with is more …”"
+        },
+        {
+          "scid": "sn13.6:2.5",
+          "pli": "dhammacakkhupaṭilābho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn13.6:2.6",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn13.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 13.6",
+    "volpages": "SN ii 136",
+    "uid": "sn13.6",
+    "blurb": "For someone who has seen the truth, the suffering eliminated is like the great earth; what remains is like seven balls of clay.",
+    "difficulty": null,
+    "original_title": "Dutiyapathavī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Earth (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn13.6_sujato",
+        "segmented": true,
+        "title": "The Earth (2nd)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 6
+  }
+}

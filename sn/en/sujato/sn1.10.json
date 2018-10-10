@@ -1,0 +1,215 @@
+{
+  "sutta_uid": "sn1.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Wilderness",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Garden of Delight",
+      "uid": "sn1.11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fond of Conceit",
+      "uid": "sn1.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.10:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.10:0.2",
+          "pli": "1. Naḷavagga",
+          "en": "1. A Reed"
+        },
+        {
+          "scid": "sn1.10:0.3",
+          "pli": "10. Araññasutta",
+          "en": "10. Wilderness"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.10:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn1.10:1.2",
+          "pli": "Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Standing to one side, that deity addressed the Buddha in verse:"
+        },
+        {
+          "scid": "sn1.10:2.1",
+          "pli": "“Araññe viharantānaṃ,",
+          "en": "“Living in the wilderness,"
+        },
+        {
+          "scid": "sn1.10:2.2",
+          "pli": "santānaṃ brahmacārinaṃ;",
+          "en": "peaceful spiritual practitioners"
+        },
+        {
+          "scid": "sn1.10:2.3",
+          "pli": "Ekabhattaṃ bhuñjamānānaṃ,",
+          "en": "eat just one meal a day:"
+        },
+        {
+          "scid": "sn1.10:2.4",
+          "pli": "kena vaṇṇo pasīdatī”ti.",
+          "en": "so why is their complexion so clear?”"
+        },
+        {
+          "scid": "sn1.10:3.1",
+          "pli": "“Atītaṃ nānusocanti,",
+          "en": "“They don’t worry about the past,"
+        },
+        {
+          "scid": "sn1.10:3.2",
+          "pli": "nappajappanti nāgataṃ;",
+          "en": "nor do they long for the future;"
+        },
+        {
+          "scid": "sn1.10:3.3",
+          "pli": "Paccuppannena yāpenti,",
+          "en": "feeding on whatever comes in the present day,"
+        },
+        {
+          "scid": "sn1.10:3.4",
+          "pli": "tena vaṇṇo pasīdati.",
+          "en": "that’s why their complexion is so clear."
+        },
+        {
+          "scid": "sn1.10:4.1",
+          "pli": "Anāgatappajappāya,",
+          "en": "Because they long for the future,"
+        },
+        {
+          "scid": "sn1.10:4.2",
+          "pli": "atītassānusocanā;",
+          "en": "and worry about the past,"
+        },
+        {
+          "scid": "sn1.10:4.3",
+          "pli": "Etena bālā sussanti,",
+          "en": "fools wither away,"
+        },
+        {
+          "scid": "sn1.10:4.4",
+          "pli": "naḷova harito luto”ti.",
+          "en": "like a green reed mowed down.”"
+        },
+        {
+          "scid": "sn1.10:4.5",
+          "pli": "Naḷavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn1.10:5.1",
+          "pli": "Oghaṃ nimokkhaṃ upaneyyaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn1.10:5.2",
+          "pli": "Accenti katichindi ca;",
+          "en": ""
+        },
+        {
+          "scid": "sn1.10:5.3",
+          "pli": "Jāgaraṃ appaṭividitā,",
+          "en": ""
+        },
+        {
+          "scid": "sn1.10:5.4",
+          "pli": "Susammuṭṭhā mānakāminā;",
+          "en": ""
+        },
+        {
+          "scid": "sn1.10:5.5",
+          "pli": "Araññe dasamo vutto,",
+          "en": ""
+        },
+        {
+          "scid": "sn1.10:5.6",
+          "pli": "Vaggo tena pavuccati.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.10//SN 10",
+    "volpages": "SN i 5//SN i 9",
+    "uid": "sn1.10",
+    "blurb": "Spiritual practitioners have clear complexions, despite their simple life.",
+    "difficulty": null,
+    "original_title": "Arañña Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Wilderness",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.10_sujato",
+        "segmented": true,
+        "title": "Wilderness"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.10_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Forest"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 10
+  }
+}

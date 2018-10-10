@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an10.88",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.88",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "An Abuser",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kokālika",
+      "uid": "an10.89"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Disciplinary Issues",
+      "uid": "an10.87"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.88:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.88:0.2",
+          "pli": "9. Theravagga",
+          "en": "9. Senior Mendicants"
+        },
+        {
+          "scid": "an10.88:0.3",
+          "pli": "88. Akkosakasutta",
+          "en": "88. An Abuser"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.88:1.1",
+          "pli": "“Yo so, bhikkhave, bhikkhu akkosakaparibhāsako ariyūpavādī sabrahmacārīnaṃ ṭhānametaṃ avakāso yaṃ so dasannaṃ byasanānaṃ aññataraṃ byasanaṃ nigaccheyya.",
+          "en": "“Mendicants, any mendicant who abuses and insults their spiritual companions, speaking ill of the noble ones, will, without a doubt, fall into one or other of these ten disasters."
+        },
+        {
+          "scid": "an10.88:1.2",
+          "pli": "Katamesaṃ dasannaṃ?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.88:1.3",
+          "pli": "Anadhigataṃ nādhigacchati, adhigatā parihāyati, saddhammassa na vodāyanti, saddhammesu vā adhimāniko hoti anabhirato vā brahmacariyaṃ carati, aññataraṃ vā saṃkiliṭṭhaṃ āpattiṃ āpajjati, gāḷhaṃ vā rogātaṅkaṃ phusati, ummādaṃ vā pāpuṇāti cittakkhepaṃ, sammūḷho kālaṃ karoti, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "They don’t achieve the unachieved. What they have achieved falls away. They don’t refine their good qualities. They overestimate their good qualities, or live the spiritual life dissatisfied, or commit a corrupt offence, or contract a severe illness, or go mad and lose their mind. They feel lost when they die. And when their body breaks up, after death, they are reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an10.88:1.4",
+          "pli": "Yo so, bhikkhave, bhikkhu akkosakaparibhāsako ariyūpavādī sabrahmacārīnaṃ, ṭhānametaṃ avakāso yaṃ so imesaṃ dasannaṃ byasanānaṃ aññataraṃ byasanaṃ nigaccheyyā”ti.",
+          "en": "Any mendicant who abuses and insults their spiritual companions, speaking ill of the noble ones, will, without a doubt, fall into one or other of these ten disasters.”"
+        },
+        {
+          "scid": "an10.88:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.88/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.88",
+    "volpages": "AN v 169",
+    "uid": "an10.88",
+    "blurb": "A mendicant who insults their spiritual companions incurs ten disasters.",
+    "difficulty": null,
+    "original_title": "Akkosaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "An Abuser",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.88_sujato",
+        "segmented": true,
+        "title": "An Abuser"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 8
+  }
+}

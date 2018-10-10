@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn29.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn29.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Plain Version",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Better",
+      "uid": "sn29.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sucimukhī",
+      "uid": "sn28.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn29.1:0.1",
+          "pli": "Saṃyutta Nikāya 29",
+          "en": "Linked Discourses 29"
+        },
+        {
+          "scid": "sn29.1:0.2",
+          "pli": "1. Nāgavagga",
+          "en": "1. Dragons"
+        },
+        {
+          "scid": "sn29.1:0.3",
+          "pli": "1. Suddhikasutta",
+          "en": "1. Plain Version"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 29…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn29.1:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn29.1:1.2",
+          "pli": "“Catasso imā, bhikkhave, nāgayoniyo.",
+          "en": "“Mendicants, dragons reproduce in these four ways."
+        },
+        {
+          "scid": "sn29.1:1.3",
+          "pli": "Katamā catasso?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn29.1:1.4",
+          "pli": "Aṇḍajā nāgā, jalābujā nāgā, saṃsedajā nāgā, opapātikā nāgā—",
+          "en": "Dragons are born from eggs, from a womb, from moisture, or spontaneously."
+        },
+        {
+          "scid": "sn29.1:1.5",
+          "pli": "imā kho, bhikkhave, catasso nāgayoniyo”ti.",
+          "en": "These are the four ways that dragons reproduce.”"
+        },
+        {
+          "scid": "sn29.1:1.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn29.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 29.1",
+    "volpages": "SN iii 240",
+    "uid": "sn29.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Suddhika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Plain Version",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn29.1_sujato",
+        "segmented": true,
+        "title": "Plain Version"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 1
+  }
+}

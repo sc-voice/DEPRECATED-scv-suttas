@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an5.243",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.243",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Bad Verbal Conduct (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Mental Conduct (1st)",
+      "uid": "an5.244"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Bodily Conduct (1st)",
+      "uid": "an5.242"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.243:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.243:0.2",
+          "pli": "25. Duccaritavagga",
+          "en": "25. Bad Conduct"
+        },
+        {
+          "scid": "an5.243:0.3",
+          "pli": "243. Paṭhamavacīduccaritasutta",
+          "en": "243. Bad Verbal Conduct (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.243:1.1",
+          "pli": "“Pañcime, bhikkhave, ādīnavā vacīduccarite … pe … ānisaṃsā vacīsucarite … pe ….",
+          "en": "“Mendicants, there are these five drawbacks in bad verbal conduct … benefits in good verbal conduct …”"
+        },
+        {
+          "scid": "an5.243:1.2",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.243/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.243",
+    "volpages": "AN iii 267",
+    "uid": "an5.243",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paṭhamavacīduccarita Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bad Verbal Conduct (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.243_sujato",
+        "segmented": true,
+        "title": "Bad Verbal Conduct (1st)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 3
+  }
+}

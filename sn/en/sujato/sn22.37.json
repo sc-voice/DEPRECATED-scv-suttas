@@ -1,0 +1,235 @@
+{
+  "sutta_uid": "sn22.37",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.37",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Ānanda",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ānanda (2nd)",
+      "uid": "sn22.38"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Mendicant (2nd)",
+      "uid": "sn22.36"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.37:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.37:0.2",
+          "pli": "4. Natumhākavagga",
+          "en": "4. It’s Not Yours"
+        },
+        {
+          "scid": "sn22.37:0.3",
+          "pli": "37. Ānandasutta",
+          "en": "37. With Ānanda"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.37:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.37:1.2",
+          "pli": "Atha kho āyasmā ānando … pe …",
+          "en": "And then Venerable Ānanda …"
+        },
+        {
+          "scid": "sn22.37:1.3",
+          "pli": "ekamantaṃ nisinnaṃ kho āyasmantaṃ ānandaṃ bhagavā etadavoca:",
+          "en": "sitting to one side, the Buddha said to him:"
+        },
+        {
+          "scid": "sn22.37:2.1",
+          "pli": "“Sace taṃ, ānanda, evaṃ puccheyyuṃ:",
+          "en": "“Ānanda, suppose they were to ask you:"
+        },
+        {
+          "scid": "sn22.37:2.2",
+          "pli": "‘katamesaṃ, āvuso ānanda, dhammānaṃ uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyatī’ti?",
+          "en": "‘Reverend Ānanda, what are the things for which arising is evident, vanishing is evident, and change while persisting is evident?’"
+        },
+        {
+          "scid": "sn22.37:2.3",
+          "pli": "Evaṃ puṭṭho tvaṃ, ānanda, kinti byākareyyāsī”ti?",
+          "en": "How would you answer?”"
+        },
+        {
+          "scid": "sn22.37:2.4",
+          "pli": "“Sace maṃ, bhante, evaṃ puccheyyuṃ:",
+          "en": "“Sir, suppose they were to ask me:"
+        },
+        {
+          "scid": "sn22.37:2.5",
+          "pli": "‘katamesaṃ, āvuso ānanda, dhammānaṃ uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyatī’ti?",
+          "en": "‘What are the things for which arising is evident, vanishing is evident, and change while persisting is evident?’"
+        },
+        {
+          "scid": "sn22.37:2.6",
+          "pli": "Evaṃ puṭṭhohaṃ, bhante, evaṃ byākareyyaṃ:",
+          "en": "I’d answer like this:"
+        },
+        {
+          "scid": "sn22.37:2.7",
+          "pli": "‘rūpassa kho, āvuso, uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyati.",
+          "en": "‘Reverend, the arising of form is evident, its vanishing is evident, and change while persisting is evident."
+        },
+        {
+          "scid": "sn22.37:2.8",
+          "pli": "Vedanāya …",
+          "en": "The arising of feeling …"
+        },
+        {
+          "scid": "sn22.37:2.9",
+          "pli": "saññāya …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.37:2.10",
+          "pli": "saṅkhārānaṃ …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.37:2.11",
+          "pli": "viññāṇassa uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyati.",
+          "en": "consciousness is evident, its vanishing is evident, and change while persisting is evident."
+        },
+        {
+          "scid": "sn22.37:2.12",
+          "pli": "Imesaṃ kho, āvuso, dhammānaṃ uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyatī’ti.",
+          "en": "These are the things for which arising is evident, vanishing is evident, and change while persisting is evident.’"
+        },
+        {
+          "scid": "sn22.37:2.13",
+          "pli": "Evaṃ puṭṭhohaṃ, bhante, evaṃ byākareyyan”ti.",
+          "en": "That’s how I’d answer such a question.”"
+        },
+        {
+          "scid": "sn22.37:3.1",
+          "pli": "“Sādhu sādhu, ānanda.",
+          "en": "“Good, good, Ānanda."
+        },
+        {
+          "scid": "sn22.37:3.2",
+          "pli": "Rūpassa kho, ānanda, uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyati.",
+          "en": "The arising of form is evident, its vanishing is evident, and change while persisting is evident."
+        },
+        {
+          "scid": "sn22.37:3.3",
+          "pli": "Vedanāya …",
+          "en": "The arising of feeling …"
+        },
+        {
+          "scid": "sn22.37:3.4",
+          "pli": "saññāya …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.37:3.5",
+          "pli": "saṅkhārānaṃ …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.37:3.6",
+          "pli": "viññāṇassa uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyati.",
+          "en": "consciousness is evident, its vanishing is evident, and change while persisting is evident."
+        },
+        {
+          "scid": "sn22.37:3.7",
+          "pli": "Imesaṃ kho, ānanda, dhammānaṃ uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyatīti.",
+          "en": "These are the things for which arising is evident, vanishing is evident, and change while persisting is evident."
+        },
+        {
+          "scid": "sn22.37:3.8",
+          "pli": "Evaṃ puṭṭho tvaṃ, ānanda, evaṃ byākareyyāsī”ti.",
+          "en": "That’s how you should answer such a question.”"
+        },
+        {
+          "scid": "sn22.37:3.9",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.37/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.37",
+    "volpages": "SN iii 37",
+    "uid": "sn22.37",
+    "blurb": "The Buddha speaks to Ānanda on what at AN 3.47 described as the “characteristics of conditioned phenomena”: arising, ceasing, and change while persisting. This was to become a critical aspect of later theories on the nature of change. Ānanda explains in terms of the aggregates.",
+    "difficulty": null,
+    "original_title": "Ānanda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Ānanda",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.37_sujato",
+        "segmented": true,
+        "title": "With Ānanda"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.37_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Ānanda (1)"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

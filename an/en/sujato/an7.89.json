@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an7.89",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.89",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Bathed",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Knowledge Master",
+      "uid": "an7.90"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Scholar",
+      "uid": "an7.88"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.89:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.89:0.2",
+          "pli": "9. Samaṇavagga",
+          "en": "9. An Ascetic"
+        },
+        {
+          "scid": "an7.89:0.3",
+          "pli": "89. Nhātakasutta",
+          "en": "89. Bathed"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.89:1.1",
+          "pli": "“… Nhātattā nhātako hoti … pe ….",
+          "en": "“Mendicants, it’s because of bathing off seven things that you become a bathed initiate …”"
+        },
+        {
+          "scid": "an7.89:1.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.89/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.89",
+    "volpages": "AN iv 144",
+    "uid": "an7.89",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nhātaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bathed",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.89_sujato",
+        "segmented": true,
+        "title": "Bathed"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

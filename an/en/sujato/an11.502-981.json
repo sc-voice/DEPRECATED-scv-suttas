@@ -1,0 +1,133 @@
+{
+  "sutta_uid": "an11.502-981",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an11.502-981",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an11.982"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an11.454-501"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an11.502-981:1.1",
+          "pli": "Aṅguttara Nikāya 11",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:2.1",
+          "pli": "Paṭhamapaṇṇāsaka",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:3.1",
+          "pli": "Sāmaññavagga",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:4.1",
+          "pli": "AN 11.502–981",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:5.1",
+          "pli": "Ekādasahi, bhikkhave, aṅgehi samannāgato gopālako bhabbo gogaṇaṃ pariharituṃ phātikātuṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:5.2",
+          "pli": "Katamehi ekādasahi?",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:5.3",
+          "pli": "Idha, bhikkhave, gopālako rūpaññū hoti…",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:5.4",
+          "pli": "pe…",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:5.5",
+          "pli": ".",
+          "en": "."
+        },
+        {
+          "scid": "an11.502-981:6.1",
+          "pli": "Evameva kho, bhikkhave, ekādasahi dhammehi samannāgato bhikkhu bhabbo cakkhusmiṃ aniccānupassī viharituṃ…",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:6.2",
+          "pli": "pe…",
+          "en": ""
+        },
+        {
+          "scid": "an11.502-981:6.3",
+          "pli": "paṭinissaggānupassī viharitunti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an11.502-981/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 11.502–981",
+    "volpages": "AN v 360",
+    "uid": "an11.502-981",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an11.502-981_sujato",
+        "segmented": true,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 12
+  }
+}

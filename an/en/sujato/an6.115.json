@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an6.115",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.115",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Hard to Correct",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Restlessness",
+      "uid": "an6.116"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Contentment",
+      "uid": "an6.114"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.115:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.115:0.2",
+          "pli": "11. Tikavagga",
+          "en": "11. Triads"
+        },
+        {
+          "scid": "an6.115:0.3",
+          "pli": "115. Dovacassatāsutta",
+          "en": "115. Hard to Correct"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.115:1.1",
+          "pli": "“Tayome, bhikkhave, dhammā.",
+          "en": "“Mendicants, there are these three things."
+        },
+        {
+          "scid": "an6.115:1.2",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an6.115:1.3",
+          "pli": "Dovacassatā, pāpamittatā, cetaso vikkhepo.",
+          "en": "Being hard to correct, bad friendship, and a scattered mind."
+        },
+        {
+          "scid": "an6.115:1.4",
+          "pli": "Ime kho, bhikkhave, tayo dhammā.",
+          "en": "These are the three things."
+        },
+        {
+          "scid": "an6.115:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā.",
+          "en": "To give up these three things you should develop three things."
+        },
+        {
+          "scid": "an6.115:1.6",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an6.115:1.7",
+          "pli": "Dovacassatāya pahānāya sovacassatā bhāvetabbā, pāpamittatāya pahānāya kalyāṇamittatā bhāvetabbā, cetaso vikkhepassa pahānāya ānāpānassati bhāvetabbā.",
+          "en": "You should develop being easy to correct to give up being hard to correct, good friendship to give up bad friendship, and mindfulness of breathing to give up a scattered mind."
+        },
+        {
+          "scid": "an6.115:1.8",
+          "pli": "Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā”ti.",
+          "en": "These are the three things you should develop to give up those three things.”"
+        },
+        {
+          "scid": "an6.115:1.9",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.115/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.115",
+    "volpages": "AN iii 448",
+    "uid": "an6.115",
+    "blurb": "Antidotes for being hard to correct, bad friendship, and distraction.",
+    "difficulty": null,
+    "original_title": "Dovacassatā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Hard to Correct",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.115_sujato",
+        "segmented": true,
+        "title": "Hard to Correct"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

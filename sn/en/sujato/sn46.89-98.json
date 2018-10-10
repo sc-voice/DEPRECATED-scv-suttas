@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn46.89-98",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.89-98",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Realized One, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hard Work, Etc.",
+      "uid": "sn46.99-110"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ganges River, Etc.",
+      "uid": "sn46.77-88"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.89-98:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.89-98:0.2",
+          "pli": "10. Appamādavagga",
+          "en": "10. Diligence"
+        },
+        {
+          "scid": "sn46.89-98:0.3",
+          "pli": "89–​98. Tathāgatādisutta",
+          "en": "89–​98. A Realized One, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.89-98:1.1",
+          "pli": "“Yāvatā, bhikkhave, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā”ti vitthāretabbaṃ.",
+          "en": "“Mendicants, the Realized One, the perfected one, the fully awakened Buddha, is said to be the best of all sentient beings—be they footless, with two feet, four feet, or many feet …”"
+        },
+        {
+          "scid": "sn46.89-98:1.2",
+          "pli": "Appamādavaggo dasamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn46.89-98:2.1",
+          "pli": "Tathāgataṃ padaṃ kūṭaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn46.89-98:2.2",
+          "pli": "mūlaṃ sārena vassikaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "sn46.89-98:2.3",
+          "pli": "Rājā candimasūriyā ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn46.89-98:2.4",
+          "pli": "vatthena dasamaṃ padanti.",
+          "en": ""
+        },
+        {
+          "scid": "sn46.89-98:3.1",
+          "pli": "(Appamādavaggo bojjhaṅgasaṃyuttassa bojjhaṅgavasena vitthāretabbo.)",
+          "en": "(To be expanded as in SN 45.139–148.)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.89-98/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn46.89-98",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Appamāda Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Realized One, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.89-98_sujato",
+        "segmented": true,
+        "title": "A Realized One, Etc."
+      },
+      {
+        "author": "Frank Lee Woodward",
+        "author_short": "Woodward",
+        "author_uid": "woodward",
+        "id": "en_sn46.89-98_woodward",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Earnestness"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

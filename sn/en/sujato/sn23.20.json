@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn23.20",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn23.20",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Liable To Vanish",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Liable To Originate",
+      "uid": "sn23.21"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Liable To End",
+      "uid": "sn23.19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn23.20:0.1",
+          "pli": "Saṃyutta Nikāya 23",
+          "en": "Linked Discourses 23"
+        },
+        {
+          "scid": "sn23.20:0.2",
+          "pli": "2. Dutiyamāravagga",
+          "en": "2. About Māra (2nd)"
+        },
+        {
+          "scid": "sn23.20:0.3",
+          "pli": "20. Vayadhammasutta",
+          "en": "20. Liable To Vanish"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 23…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn23.20:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn23.20:1.2",
+          "pli": "Ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca:",
+          "en": "Seated to one side, Venerable Rādha said to the Buddha:"
+        },
+        {
+          "scid": "sn23.20:1.3",
+          "pli": "“‘vayadhammo, vayadhammo’ti, bhante, vuccati.",
+          "en": "“Sir, they speak of things being ‘liable to vanish’."
+        },
+        {
+          "scid": "sn23.20:1.4",
+          "pli": "Katamo nu kho, bhante, vayadhammo”ti?",
+          "en": "What is liable to vanish?”"
+        },
+        {
+          "scid": "sn23.20:1.5",
+          "pli": "“Rūpaṃ kho, rādha, vayadhammo, vedanā vayadhammo, saññā vayadhammo, saṅkhārā vayadhammo, viññāṇaṃ vayadhammo.",
+          "en": "“Rādha, form, feeling, perception, choices, and consciousness are liable to vanish."
+        },
+        {
+          "scid": "sn23.20:1.6",
+          "pli": "Evaṃ passaṃ … pe …",
+          "en": "Seeing this …"
+        },
+        {
+          "scid": "sn23.20:1.7",
+          "pli": "nāparaṃ itthattāyāti pajānātī”ti.",
+          "en": "They understand: ‘… there is no return to any state of existence.’”"
+        },
+        {
+          "scid": "sn23.20:1.8",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn23.20/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 23.20",
+    "volpages": "SN iii 197",
+    "uid": "sn23.20",
+    "blurb": "Rādha asks the Buddha about what is liable to vanish, and the Buddha explains in terms of the five aggregates.",
+    "difficulty": null,
+    "original_title": "Vayadhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Liable To Vanish",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn23.20_sujato",
+        "segmented": true,
+        "title": "Liable To Vanish"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

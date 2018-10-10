@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an3.113",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.113",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Bound for Loss",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rare",
+      "uid": "an3.114"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sources (2nd)",
+      "uid": "an3.112"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.113:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.113:0.2",
+          "pli": "12. Āpāyikavagga",
+          "en": "12. Bound for Loss"
+        },
+        {
+          "scid": "an3.113:0.3",
+          "pli": "113. Āpāyikasutta",
+          "en": "113. Bound for Loss"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.113:1.1",
+          "pli": "“Tayome, bhikkhave, āpāyikā nerayikā idamappahāya.",
+          "en": "“Mendicants, three kinds of people are bound for a place of loss, bound for hell, if they don’t give up this fault."
+        },
+        {
+          "scid": "an3.113:1.2",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.113:1.3",
+          "pli": "Yo ca abrahmacārī brahmacāripaṭiñño, ",
+          "en": "Someone who is unchaste, but claims to be celibate;"
+        },
+        {
+          "scid": "an3.113:1.4",
+          "pli": "yo ca suddhaṃ brahmacariyaṃ carantaṃ amūlakena abrahmacariyena anuddhaṃseti, ",
+          "en": "someone who makes a groundless accusation of unchastity against a person whose celibacy is pure; "
+        },
+        {
+          "scid": "an3.113:1.5",
+          "pli": "yo cāyaṃ evaṃvādī evaṃdiṭṭhi: ‘natthi kāmesu doso’ti, so tāya kāmesu pātabyataṃ āpajjati.",
+          "en": "someone who has the view, ‘There is nothing wrong with sensual pleasures,’ so they throw themselves into sensual pleasures."
+        },
+        {
+          "scid": "an3.113:1.6",
+          "pli": "Ime kho, bhikkhave, tayo āpāyikā nerayikā idamappahāyā”ti.",
+          "en": "These are the three kinds of people bound for a place of loss, bound for hell, if they don’t give up this fault.”"
+        },
+        {
+          "scid": "an3.113:1.7",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.113/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.113//AN 3.111",
+    "volpages": "AN i 265",
+    "uid": "an3.113",
+    "blurb": "Hypocrisy leads to downfall.",
+    "difficulty": null,
+    "original_title": "Āpāyika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bound for Loss",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.113_sujato",
+        "segmented": true,
+        "title": "Bound for Loss"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

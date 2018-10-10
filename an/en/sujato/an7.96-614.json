@@ -1,0 +1,605 @@
+{
+  "sutta_uid": "an7.96-614",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.96-614",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an7.615"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an7.95"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.96-614:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.96-614:0.2",
+          "pli": "10. Āhuneyyavagga",
+          "en": "10. Worthy of Offerings"
+        },
+        {
+          "scid": "an7.96-614:0.3",
+          "pli": "96–​614",
+          "en": "96–614"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.96-614:1.1",
+          "pli": "“Sattime, bhikkhave, puggalā āhuneyyā pāhuneyyā … pe … anuttaraṃ puññakkhettaṃ lokassa.",
+          "en": "“Mendicants, there are seven people worthy of offerings …"
+        },
+        {
+          "scid": "an7.96-614:1.2",
+          "pli": "Katame satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.96-614:1.3",
+          "pli": "Idha, bhikkhave, ekacco puggalo cakkhusmiṃ dukkhānupassī viharati … pe …",
+          "en": "First, take a person who meditates observing suffering in the eye. …"
+        },
+        {
+          "scid": "an7.96-614:1.4",
+          "pli": "cakkhusmiṃ anattānupassī viharati … pe …",
+          "en": "observing not-self in the eye. …"
+        },
+        {
+          "scid": "an7.96-614:1.5",
+          "pli": "cakkhusmiṃ khayānupassī viharati … pe …",
+          "en": "observing ending in the eye. …"
+        },
+        {
+          "scid": "an7.96-614:1.6",
+          "pli": "cakkhusmiṃ vayānupassī viharati … pe …",
+          "en": "observing vanishing in the eye. …"
+        },
+        {
+          "scid": "an7.96-614:1.7",
+          "pli": "cakkhusmiṃ virāgānupassī viharati … pe …",
+          "en": "observing fading away in the eye. …"
+        },
+        {
+          "scid": "an7.96-614:1.8",
+          "pli": "cakkhusmiṃ nirodhānupassī viharati … pe …",
+          "en": "observing cessation in the eye. …"
+        },
+        {
+          "scid": "an7.96-614:1.9",
+          "pli": "cakkhusmiṃ paṭinissaggānupassī viharati … pe …. (2–8.)",
+          "en": "observing letting go in the eye. …"
+        },
+        {
+          "scid": "an7.96-614:2.1",
+          "pli": "Sotasmiṃ … pe …",
+          "en": "ear …"
+        },
+        {
+          "scid": "an7.96-614:2.2",
+          "pli": "ghānasmiṃ …",
+          "en": "nose …"
+        },
+        {
+          "scid": "an7.96-614:2.3",
+          "pli": "jivhāya …",
+          "en": "tongue …"
+        },
+        {
+          "scid": "an7.96-614:2.4",
+          "pli": "kāyasmiṃ …",
+          "en": "body …"
+        },
+        {
+          "scid": "an7.96-614:2.5",
+          "pli": "manasmiṃ … pe …. (9–48.)",
+          "en": "mind …"
+        },
+        {
+          "scid": "an7.96-614:3.1",
+          "pli": "Rūpesu … pe …",
+          "en": "sights …"
+        },
+        {
+          "scid": "an7.96-614:3.2",
+          "pli": "saddesu …",
+          "en": "sounds …"
+        },
+        {
+          "scid": "an7.96-614:3.3",
+          "pli": "gandhesu …",
+          "en": "smells …"
+        },
+        {
+          "scid": "an7.96-614:3.4",
+          "pli": "rasesu …",
+          "en": "tastes …"
+        },
+        {
+          "scid": "an7.96-614:3.5",
+          "pli": "phoṭṭhabbesu …",
+          "en": "touches …"
+        },
+        {
+          "scid": "an7.96-614:3.6",
+          "pli": "dhammesu … pe …. (49–96.)",
+          "en": "thoughts …"
+        },
+        {
+          "scid": "an7.96-614:4.1",
+          "pli": "Cakkhuviññāṇe … pe …",
+          "en": "eye consciousness …"
+        },
+        {
+          "scid": "an7.96-614:4.2",
+          "pli": "sotaviññāṇe …",
+          "en": "ear consciousness …"
+        },
+        {
+          "scid": "an7.96-614:4.3",
+          "pli": "ghānaviññāṇe …",
+          "en": "nose consciousness …"
+        },
+        {
+          "scid": "an7.96-614:4.4",
+          "pli": "jivhāviññāṇe …",
+          "en": "tongue consciousness …"
+        },
+        {
+          "scid": "an7.96-614:4.5",
+          "pli": "kāyaviññāṇe …",
+          "en": "body consciousness …"
+        },
+        {
+          "scid": "an7.96-614:4.6",
+          "pli": "manoviññāṇe … pe …. (97–144.)",
+          "en": "mind consciousness …"
+        },
+        {
+          "scid": "an7.96-614:5.1",
+          "pli": "Cakkhusamphasse … pe …",
+          "en": "eye contact …"
+        },
+        {
+          "scid": "an7.96-614:5.2",
+          "pli": "sotasamphasse …",
+          "en": "ear contact …"
+        },
+        {
+          "scid": "an7.96-614:5.3",
+          "pli": "ghānasamphasse …",
+          "en": "nose contact …"
+        },
+        {
+          "scid": "an7.96-614:5.4",
+          "pli": "jivhāsamphasse …",
+          "en": "tongue contact …"
+        },
+        {
+          "scid": "an7.96-614:5.5",
+          "pli": "kāyasamphasse …",
+          "en": "body contact …"
+        },
+        {
+          "scid": "an7.96-614:5.6",
+          "pli": "manosamphasse … pe …. (145–192.)",
+          "en": "mind contact …"
+        },
+        {
+          "scid": "an7.96-614:6.1",
+          "pli": "Cakkhusamphassajāya vedanāya … pe …",
+          "en": "feeling born of eye contact …"
+        },
+        {
+          "scid": "an7.96-614:6.2",
+          "pli": "sotasamphassajāya vedanāya …",
+          "en": "feeling born of ear contact …"
+        },
+        {
+          "scid": "an7.96-614:6.3",
+          "pli": "ghānasamphassajāya vedanāya …",
+          "en": "feeling born of nose contact …"
+        },
+        {
+          "scid": "an7.96-614:6.4",
+          "pli": "jivhāsamphassajāya vedanāya …",
+          "en": "feeling born of tongue contact …"
+        },
+        {
+          "scid": "an7.96-614:6.5",
+          "pli": "kāyasamphassajāya vedanāya …",
+          "en": "feeling born of body contact …"
+        },
+        {
+          "scid": "an7.96-614:6.6",
+          "pli": "manosamphassajāya vedanāya … pe …. (193–240.)",
+          "en": "feeling born of mind contact …"
+        },
+        {
+          "scid": "an7.96-614:7.1",
+          "pli": "Rūpasaññāya … pe …",
+          "en": "perception of sights …"
+        },
+        {
+          "scid": "an7.96-614:7.2",
+          "pli": "saddasaññāya …",
+          "en": "perception of sounds …"
+        },
+        {
+          "scid": "an7.96-614:7.3",
+          "pli": "gandhasaññāya …",
+          "en": "perception of smells …"
+        },
+        {
+          "scid": "an7.96-614:7.4",
+          "pli": "rasasaññāya …",
+          "en": "perception of tastes …"
+        },
+        {
+          "scid": "an7.96-614:7.5",
+          "pli": "phoṭṭhabbasaññāya …",
+          "en": "perception of touches …"
+        },
+        {
+          "scid": "an7.96-614:7.6",
+          "pli": "dhammasaññāya … pe …. (241–288.)",
+          "en": "perception of thoughts …"
+        },
+        {
+          "scid": "an7.96-614:8.1",
+          "pli": "Rūpasañcetanāya … pe …",
+          "en": "intention regarding sights …"
+        },
+        {
+          "scid": "an7.96-614:8.2",
+          "pli": "saddasañcetanāya …",
+          "en": "intention regarding sounds …"
+        },
+        {
+          "scid": "an7.96-614:8.3",
+          "pli": "gandhasañcetanāya …",
+          "en": "intention regarding smells …"
+        },
+        {
+          "scid": "an7.96-614:8.4",
+          "pli": "rasasañcetanāya …",
+          "en": "intention regarding tastes …"
+        },
+        {
+          "scid": "an7.96-614:8.5",
+          "pli": "phoṭṭhabbasañcetanāya …",
+          "en": "intention regarding touches …"
+        },
+        {
+          "scid": "an7.96-614:8.6",
+          "pli": "dhammasañcetanāya … pe …. (289–336.)",
+          "en": "intention regarding thoughts …"
+        },
+        {
+          "scid": "an7.96-614:9.1",
+          "pli": "Rūpataṇhāya … pe …",
+          "en": "craving for sights …"
+        },
+        {
+          "scid": "an7.96-614:9.2",
+          "pli": "saddataṇhāya …",
+          "en": "craving for sounds …"
+        },
+        {
+          "scid": "an7.96-614:9.3",
+          "pli": "gandhataṇhāya …",
+          "en": "craving for smells …"
+        },
+        {
+          "scid": "an7.96-614:9.4",
+          "pli": "rasataṇhāya …",
+          "en": "craving for tastes …"
+        },
+        {
+          "scid": "an7.96-614:9.5",
+          "pli": "phoṭṭhabbataṇhāya …",
+          "en": "craving for touches …"
+        },
+        {
+          "scid": "an7.96-614:9.6",
+          "pli": "dhammataṇhāya … pe …. (337–384.)",
+          "en": "craving for thoughts …"
+        },
+        {
+          "scid": "an7.96-614:10.1",
+          "pli": "Rūpavitakke … pe …",
+          "en": "thoughts about sights …"
+        },
+        {
+          "scid": "an7.96-614:10.2",
+          "pli": "saddavitakke …",
+          "en": "thoughts about sounds …"
+        },
+        {
+          "scid": "an7.96-614:10.3",
+          "pli": "gandhavitakke …",
+          "en": "thoughts about smells …"
+        },
+        {
+          "scid": "an7.96-614:10.4",
+          "pli": "rasavitakke …",
+          "en": "thoughts about tastes …"
+        },
+        {
+          "scid": "an7.96-614:10.5",
+          "pli": "phoṭṭhabbavitakke …",
+          "en": "thoughts about touches …"
+        },
+        {
+          "scid": "an7.96-614:10.6",
+          "pli": "dhammavitakke … pe …. (385–432.)",
+          "en": "thoughts about thoughts …"
+        },
+        {
+          "scid": "an7.96-614:11.1",
+          "pli": "Rūpavicāre … pe …",
+          "en": "considerations regarding sights …"
+        },
+        {
+          "scid": "an7.96-614:11.2",
+          "pli": "saddavicāre …",
+          "en": "considerations regarding sounds …"
+        },
+        {
+          "scid": "an7.96-614:11.3",
+          "pli": "gandhavicāre …",
+          "en": "considerations regarding smells …"
+        },
+        {
+          "scid": "an7.96-614:11.4",
+          "pli": "rasavicāre …",
+          "en": "considerations regarding tastes …"
+        },
+        {
+          "scid": "an7.96-614:11.5",
+          "pli": "phoṭṭhabbavicāre …",
+          "en": "considerations regarding touches …"
+        },
+        {
+          "scid": "an7.96-614:11.6",
+          "pli": "dhammavicāre … pe …. (433–480.)",
+          "en": "considerations regarding thoughts …"
+        },
+        {
+          "scid": "an7.96-614:12.1",
+          "pli": "Pañcakkhandhe … pe …",
+          "en": "meditates observing impermanence in the five masses …"
+        },
+        {
+          "scid": "an7.96-614:12.2",
+          "pli": "rūpakkhandhe …",
+          "en": "the aggregate of form …"
+        },
+        {
+          "scid": "an7.96-614:12.3",
+          "pli": "vedanākkhandhe …",
+          "en": "the aggregate of feeling …"
+        },
+        {
+          "scid": "an7.96-614:12.4",
+          "pli": "saññākkhandhe …",
+          "en": "the aggregate of perception …"
+        },
+        {
+          "scid": "an7.96-614:12.5",
+          "pli": "saṅkhārakkhandhe …",
+          "en": "the aggregate of choices …"
+        },
+        {
+          "scid": "an7.96-614:12.6",
+          "pli": "viññāṇakkhandhe aniccānupassī viharati … pe …",
+          "en": "the aggregate of consciousness …"
+        },
+        {
+          "scid": "an7.96-614:12.7",
+          "pli": "dukkhānupassī viharati …",
+          "en": "meditates observing suffering …"
+        },
+        {
+          "scid": "an7.96-614:12.8",
+          "pli": "anattānupassī viharati …",
+          "en": "not-self …"
+        },
+        {
+          "scid": "an7.96-614:12.9",
+          "pli": "khayānupassī viharati …",
+          "en": "ending …"
+        },
+        {
+          "scid": "an7.96-614:12.10",
+          "pli": "vayānupassī viharati …",
+          "en": "vanishing …"
+        },
+        {
+          "scid": "an7.96-614:12.11",
+          "pli": "virāgānupassī viharati …",
+          "en": "fading away …"
+        },
+        {
+          "scid": "an7.96-614:12.12",
+          "pli": "nirodhānupassī viharati …",
+          "en": "cessation …"
+        },
+        {
+          "scid": "an7.96-614:12.13",
+          "pli": "paṭinissaggānupassī viharati … pe …",
+          "en": "letting go …"
+        },
+        {
+          "scid": "an7.96-614:12.14",
+          "pli": "lokassā”ti. (481–528.)",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:13.1",
+          "pli": "“Chadvārārammaṇesvettha,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:13.2",
+          "pli": "viññāṇesu ca phassesu;",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:13.3",
+          "pli": "Vedanāsu ca dvārassa,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:13.4",
+          "pli": "suttā honti visuṃ aṭṭha.",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:14.1",
+          "pli": "Saññā sañcetanā taṇhā,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:14.2",
+          "pli": "vitakkesu vicāre ca;",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:14.3",
+          "pli": "Gocarassa visuṃ aṭṭha,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:14.4",
+          "pli": "pañcakkhandhe ca pacceke.",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:15.1",
+          "pli": "Soḷasasvettha mūlesu,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:15.2",
+          "pli": "aniccaṃ dukkhamanattā;",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:15.3",
+          "pli": "Khayā vayā virāgā ca,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:15.4",
+          "pli": "nirodhā paṭinissaggā.",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:16.1",
+          "pli": "Kamaṃ aṭṭhānupassanā,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:16.2",
+          "pli": "yojetvāna visuṃ visuṃ;",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:16.3",
+          "pli": "Sampiṇḍitesu sabbesu,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:16.4",
+          "pli": "honti pañca satāni ca;",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:16.5",
+          "pli": "Aṭṭhavīsati suttāni,",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:16.6",
+          "pli": "āhuneyye ca vaggike”.",
+          "en": ""
+        },
+        {
+          "scid": "an7.96-614:16.7",
+          "pli": "Āhuneyyavaggo dasamo.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.96-614/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "an7.96-614",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.96-614_sujato",
+        "segmented": true,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

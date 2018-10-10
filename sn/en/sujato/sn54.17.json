@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn54.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn54.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Giving Up the Fetters",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uprooting the Tendencies",
+      "uid": "sn54.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Several Mendicants (2nd)",
+      "uid": "sn54.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn54.17:0.1",
+          "pli": "Saṃyutta Nikāya 54",
+          "en": "Linked Discourses 54"
+        },
+        {
+          "scid": "sn54.17:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn54.17:0.3",
+          "pli": "17. Saṃyojanappahānasutta",
+          "en": "17. Giving Up the Fetters"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 54…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn54.17:1.1",
+          "pli": "“Ānāpānassatisamādhi, bhikkhave, bhāvito bahulīkato saṃyojanappahānāya saṃvattati … pe ….",
+          "en": "“Mendicants, when immersion due to mindfulness of breathing is developed and cultivated it leads to giving up the fetters …”"
+        },
+        {
+          "scid": "sn54.17:1.2",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn54.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 54.17",
+    "volpages": "SN v 340",
+    "uid": "sn54.17",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Saṃyojanappahāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Giving Up the Fetters",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn54.17_sujato",
+        "segmented": true,
+        "title": "Giving Up the Fetters"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

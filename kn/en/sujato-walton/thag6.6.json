@@ -1,0 +1,129 @@
+{
+  "sutta_uid": "thag6.6",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag6.6",
+    "lang": "en",
+    "is_root": false,
+    "title": "Sappadāsa",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Kātiyāna",
+      "uid": "thag6.7"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Mālukyaputta",
+      "uid": "thag6.5"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag6.6:0.1",
+          "en": "Theragāthā 6.6"
+        },
+        {
+          "scid": "thag6.6:0.2",
+          "en": "Sappadāsa",
+          "pli": "Sappadāsattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag6.6:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag6.6:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag6.6:1.0.3",
+          "en": "Chapter of the Sixes"
+        },
+        {
+          "scid": "thag6.6:1.0.4",
+          "en": "6.6. Sappadāsa"
+        },
+        {
+          "scid": "thag6.6:1.1.5",
+          "en": "In the twenty-five years Since I went forth, I have not found peace of mind, Even for as long as a finger-snap."
+        },
+        {
+          "scid": "thag6.6:1.2.6",
+          "en": "Since I couldn’t get my mind unified, I was tormented by sexual desire. Wailing, with outstretched arms, I burst out of my dwelling."
+        },
+        {
+          "scid": "thag6.6:1.4.7",
+          "en": "Should I … or should I take the knife? What’s the point of living? Rejecting the training, How should one like me come to an end? Then I picked up a razor; And sat on a bench; The razor was ready— To cut my vein."
+        },
+        {
+          "scid": "thag6.6:1.5.8",
+          "en": "Then the realization Came upon me— The danger became clear, And I was firmly repulsed."
+        },
+        {
+          "scid": "thag6.6:1.6.9",
+          "en": "Then my mind was liberated— See the excellence of the Dhamma! I’ve attained the three knowledges, And fulfilled the Buddha’s instructions."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag6.6/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 6.6",
+    "volpages": "Thag 44",
+    "uid": "thag6.6",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sappadāsattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sappadāsa",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag6.6_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Sappadāsa"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 6
+  }
+}

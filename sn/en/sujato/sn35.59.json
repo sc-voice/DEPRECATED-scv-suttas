@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn35.59",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.59",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Uprooting Tendencies",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Complete Understanding of All Grasping",
+      "uid": "sn35.60"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving Up Tendencies",
+      "uid": "sn35.58"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.59:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.59:0.2",
+          "pli": "6. Avijjāvagga",
+          "en": "6. Ignorance"
+        },
+        {
+          "scid": "sn35.59:0.3",
+          "pli": "59. Anusayasamugghātasutta",
+          "en": "59. Uprooting Tendencies"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.59:1.1",
+          "pli": "“Kathaṃ nu kho … pe …",
+          "en": "“Sir, how does one know and see so that the underlying tendencies are uprooted?” …"
+        },
+        {
+          "scid": "sn35.59:1.2",
+          "pli": "anusayā samugghātaṃ gacchantī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.3",
+          "pli": "“Cakkhuṃ kho, bhikkhu, anattato jānato passato anusayā samugghātaṃ gacchanti … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.4",
+          "pli": "sotaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.5",
+          "pli": "ghānaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.6",
+          "pli": "jivhaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.7",
+          "pli": "kāyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.8",
+          "pli": "manaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.9",
+          "pli": "dhamme …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.10",
+          "pli": "manoviññāṇaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.11",
+          "pli": "manosamphassaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.12",
+          "pli": "yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi anattato jānato passato anusayā samugghātaṃ gacchanti.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.13",
+          "pli": "Evaṃ kho, bhikkhu, jānato evaṃ passato anusayā samugghātaṃ gacchantī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.59:1.14",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Sir…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.59/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.59",
+    "volpages": "SN iv 32",
+    "uid": "sn35.59",
+    "blurb": "A mendicant asks the Buddha how to see so as to uproot the underlying tendencies. The Buddha says one should see the six interior and exterior sense fields as not-self.",
+    "difficulty": null,
+    "original_title": "Anusayasamugghāta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uprooting Tendencies",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.59_sujato",
+        "segmented": true,
+        "title": "Uprooting Tendencies"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

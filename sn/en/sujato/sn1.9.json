@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fond of Conceit",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wilderness",
+      "uid": "sn1.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Very Confused",
+      "uid": "sn1.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.9:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.9:0.2",
+          "pli": "1. Naḷavagga",
+          "en": "1. A Reed"
+        },
+        {
+          "scid": "sn1.9:0.3",
+          "pli": "9. Mānakāmasutta",
+          "en": "9. Fond of Conceit"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.9:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn1.9:1.2",
+          "pli": "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn1.9:2.1",
+          "pli": "“Na mānakāmassa damo idhatthi,",
+          "en": "“Someone who’s fond of conceit can’t be tamed,"
+        },
+        {
+          "scid": "sn1.9:2.2",
+          "pli": "Na monamatthi asamāhitassa;",
+          "en": "and someone without immersion can’t be a sage."
+        },
+        {
+          "scid": "sn1.9:2.3",
+          "pli": "Eko araññe viharaṃ pamatto,",
+          "en": "Living negligent alone in the wilderness,"
+        },
+        {
+          "scid": "sn1.9:2.4",
+          "pli": "Na maccudheyyassa tareyya pāran”ti.",
+          "en": "they can’t pass beyond Death’s domain.”"
+        },
+        {
+          "scid": "sn1.9:3.1",
+          "pli": "“Mānaṃ pahāya susamāhitatto,",
+          "en": "“Having given up conceit, serene within oneself,"
+        },
+        {
+          "scid": "sn1.9:3.2",
+          "pli": "Sucetaso sabbadhi vippamutto;",
+          "en": "with a healthy heart, everywhere released;"
+        },
+        {
+          "scid": "sn1.9:3.3",
+          "pli": "Eko araññe viharaṃ appamatto,",
+          "en": "living diligent alone in the wilderness,"
+        },
+        {
+          "scid": "sn1.9:3.4",
+          "pli": "Sa maccudheyyassa tareyya pāran”ti.",
+          "en": "they pass beyond Death’s domain.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.9//SN 9",
+    "volpages": "SN i 4//SN i 8",
+    "uid": "sn1.9",
+    "blurb": "Unless you give up conceit you’ll be trapped in the domain of Death.",
+    "difficulty": null,
+    "original_title": "Mānakāma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fond of Conceit",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.9_sujato",
+        "segmented": true,
+        "title": "Fond of Conceit"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.9_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "One Prone to Conceit"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 9
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.55",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.55",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Gives Birth (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gives Birth (2nd)",
+      "uid": "sn1.56"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Grounds",
+      "uid": "sn1.54"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.55:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.55:0.2",
+          "pli": "6. Jarāvagga",
+          "en": "6. Old Age"
+        },
+        {
+          "scid": "sn1.55:0.3",
+          "pli": "55. Paṭhamajanasutta",
+          "en": "55. Gives Birth (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.55:1.1",
+          "pli": "“Kiṃsu janeti purisaṃ,",
+          "en": "“What gives birth to a person?"
+        },
+        {
+          "scid": "sn1.55:1.2",
+          "pli": "kiṃsu tassa vidhāvati;",
+          "en": "What do they have that runs about?"
+        },
+        {
+          "scid": "sn1.55:1.3",
+          "pli": "Kiṃsu saṃsāramāpādi,",
+          "en": "What enters transmigration?"
+        },
+        {
+          "scid": "sn1.55:1.4",
+          "pli": "kiṃsu tassa mahabbhayan”ti.",
+          "en": "What’s their greatest fear?”"
+        },
+        {
+          "scid": "sn1.55:2.1",
+          "pli": "“Taṇhā janeti purisaṃ,",
+          "en": "“Craving gives birth to a person."
+        },
+        {
+          "scid": "sn1.55:2.2",
+          "pli": "cittamassa vidhāvati;",
+          "en": "Their mind is what runs about."
+        },
+        {
+          "scid": "sn1.55:2.3",
+          "pli": "Satto saṃsāramāpādi,",
+          "en": "A sentient being enters transmigration."
+        },
+        {
+          "scid": "sn1.55:2.4",
+          "pli": "dukkhamassa mahabbhayan”ti.",
+          "en": "Suffering is their greatest fear.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What gives birth to a person…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.55/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.55//SN 55",
+    "volpages": "SN i 37//SN i 82",
+    "uid": "sn1.55",
+    "blurb": "A person is created by craving and fears suffering.",
+    "difficulty": null,
+    "original_title": "Paṭhamajana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Gives Birth (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.55_sujato",
+        "segmented": true,
+        "title": "Gives Birth (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.55_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Produces (1)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 5
+  }
+}

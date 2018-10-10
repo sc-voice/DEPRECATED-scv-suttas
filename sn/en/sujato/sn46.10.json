@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn46.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Arisen (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Living Creatures",
+      "uid": "sn46.11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Arisen (1st)",
+      "uid": "sn46.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.10:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.10:0.2",
+          "pli": "1. Pabbatavagga",
+          "en": "1. Mountains"
+        },
+        {
+          "scid": "sn46.10:0.3",
+          "pli": "10. Dutiyauppannasutta",
+          "en": "10. Arisen (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.10:1.1",
+          "pli": "“Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā.",
+          "en": "“Mendicants, these seven awakening factors don’t arise to be developed and cultivated apart from the Holy One’s training."
+        },
+        {
+          "scid": "sn46.10:1.2",
+          "pli": "Katame satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "sn46.10:1.3",
+          "pli": "Satisambojjhaṅgo … pe … upekkhāsambojjhaṅgo—",
+          "en": "The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity."
+        },
+        {
+          "scid": "sn46.10:1.4",
+          "pli": "ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā”ti.",
+          "en": "These seven awakening factors don’t arise to be developed and cultivated apart from the Holy One’s training.”"
+        },
+        {
+          "scid": "sn46.10:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn46.10:1.6",
+          "pli": "Pabbatavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn46.10:2.1",
+          "pli": "Himavantaṃ kāyaṃ sīlaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn46.10:2.2",
+          "pli": "vatthaṃ bhikkhu ca kuṇḍali;",
+          "en": ""
+        },
+        {
+          "scid": "sn46.10:2.3",
+          "pli": "Kūṭañca upavānañca,",
+          "en": ""
+        },
+        {
+          "scid": "sn46.10:2.4",
+          "pli": "uppannā apare duveti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.10",
+    "volpages": "SN v 77",
+    "uid": "sn46.10",
+    "blurb": "The eightfold path does not rise apart from a Holy One’s training.",
+    "difficulty": null,
+    "original_title": "Dutiyauppanna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Arisen (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.10_sujato",
+        "segmented": true,
+        "title": "Arisen (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn46.10_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Arisen or Arising (2)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 10
+  }
+}

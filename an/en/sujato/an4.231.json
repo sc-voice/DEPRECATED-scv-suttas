@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "an4.231",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.231",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Poets",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Deeds In Brief",
+      "uid": "an4.232"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Witless",
+      "uid": "an4.230"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.231:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.231:0.2",
+          "pli": "23. Duccaritavagga",
+          "en": "23. Bad Conduct"
+        },
+        {
+          "scid": "an4.231:0.3",
+          "pli": "231. Kavisutta",
+          "en": "231. Poets"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.231:1.1",
+          "pli": "“Cattārome, bhikkhave, kavī.",
+          "en": "“Mendicants, there are these four poets."
+        },
+        {
+          "scid": "an4.231:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.231:1.3",
+          "pli": "Cintākavi, sutakavi, atthakavi, paṭibhānakavi—",
+          "en": "A poet who thoughtfully composes their own work, a poet who repeats the oral transmission, a poet who educates, and a poet who improvises."
+        },
+        {
+          "scid": "an4.231:1.4",
+          "pli": "ime kho, bhikkhave, cattāro kavī”ti.",
+          "en": "These are the four poets.”"
+        },
+        {
+          "scid": "an4.231:1.5",
+          "pli": "Ekādasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.231:1.6",
+          "pli": "Duccaritavaggo tatiyo.",
+          "en": ""
+        },
+        {
+          "scid": "an4.231:2.1",
+          "pli": "Duccaritaṃ diṭṭhi akataññū ca,",
+          "en": ""
+        },
+        {
+          "scid": "an4.231:2.2",
+          "pli": "Pāṇātipātāpi dve maggā;",
+          "en": ""
+        },
+        {
+          "scid": "an4.231:2.3",
+          "pli": "Dve vohārapathā vuttā,",
+          "en": ""
+        },
+        {
+          "scid": "an4.231:2.4",
+          "pli": "Ahirikaṃ duppaññakavinā cāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.231/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.231//AN 4.230",
+    "volpages": "AN ii 230",
+    "uid": "an4.231",
+    "blurb": "Four kinds of poets.",
+    "difficulty": null,
+    "original_title": "Kavi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Poets",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.231_sujato",
+        "segmented": true,
+        "title": "Poets"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 11
+  }
+}

@@ -1,0 +1,1900 @@
+{
+  "sutta_uid": "mn22",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn22",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Simile of the Snake",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ant-Hill",
+      "uid": "mn23"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Simile of the Saw",
+      "uid": "mn21"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn22:0.1",
+          "pli": "Majjhima Nikāya 22",
+          "en": "Middle Discourses 22"
+        },
+        {
+          "scid": "mn22:0.2",
+          "pli": "Alagaddūpamasutta",
+          "en": "The Simile of the Snake"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn22:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn22:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn22:2.1",
+          "pli": "Tena kho pana samayena ariṭṭhassa nāma bhikkhuno gaddhabādhipubbassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ hoti:",
+          "en": "Now at that time a mendicant called Ariṭtha, who had previously been a vulture trapper, had the following harmful misconception:"
+        },
+        {
+          "scid": "mn22:2.2",
+          "pli": "“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā”ti.",
+          "en": "“As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them.”"
+        },
+        {
+          "scid": "mn22:2.3",
+          "pli": "Assosuṃ kho sambahulā bhikkhū:",
+          "en": "Several mendicants heard about this."
+        },
+        {
+          "scid": "mn22:2.4",
+          "pli": "“ariṭṭhassa kira nāma bhikkhuno gaddhabādhipubbassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn22:2.5",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.1",
+          "pli": "Atha kho te bhikkhū yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkamiṃsu; upasaṅkamitvā ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etadavocuṃ:",
+          "en": "They went up to Ariṭṭha and said to him:"
+        },
+        {
+          "scid": "mn22:3.2",
+          "pli": "“saccaṃ kira te, āvuso ariṭṭha, evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": "“Is it really true, Reverend Ariṭṭha, that you have such a harmful misconception:"
+        },
+        {
+          "scid": "mn22:3.3",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’”ti.",
+          "en": "‘As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them’?”"
+        },
+        {
+          "scid": "mn22:3.4",
+          "pli": "“Evaṃ byā kho ahaṃ, āvuso, bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā”ti.",
+          "en": "“Absolutely, reverends. As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them.”"
+        },
+        {
+          "scid": "mn22:3.5",
+          "pli": "Atha kho tepi bhikkhū ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etasmā pāpakā diṭṭhigatā vivecetukāmā samanuyuñjanti samanugāhanti samanubhāsanti:",
+          "en": "Then, wishing to dissuade Ariṭṭha from his view, the mendicants engaged, pressed, and kept talking with him:"
+        },
+        {
+          "scid": "mn22:3.6",
+          "pli": "“mā hevaṃ, āvuso ariṭṭha, avaca, mā bhagavantaṃ abbhācikkhi; na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya.",
+          "en": "“Don’t say that, Ariṭṭha! Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that."
+        },
+        {
+          "scid": "mn22:3.7",
+          "pli": "Anekapariyāyenāvuso ariṭṭha, antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāya.",
+          "en": "In many ways the Buddha has said that obstructive acts are obstructive, and that they really do obstruct the one who performs them."
+        },
+        {
+          "scid": "mn22:3.8",
+          "pli": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
+          "en": "The Buddha says that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks."
+        },
+        {
+          "scid": "mn22:3.9",
+          "pli": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā …",
+          "en": "With the similes of a skeleton …"
+        },
+        {
+          "scid": "mn22:3.10",
+          "pli": "maṃsapesūpamā kāmā vuttā bhagavatā …",
+          "en": "a piece of flesh …"
+        },
+        {
+          "scid": "mn22:3.11",
+          "pli": "tiṇukkūpamā kāmā vuttā bhagavatā …",
+          "en": "a grass torch …"
+        },
+        {
+          "scid": "mn22:3.12",
+          "pli": "aṅgārakāsūpamā kāmā vuttā bhagavatā …",
+          "en": "a pit of glowing coals …"
+        },
+        {
+          "scid": "mn22:3.13",
+          "pli": "supinakūpamā kāmā vuttā bhagavatā …",
+          "en": "a dream …"
+        },
+        {
+          "scid": "mn22:3.14",
+          "pli": "yācitakūpamā kāmā vuttā bhagavatā …",
+          "en": "borrowed goods …"
+        },
+        {
+          "scid": "mn22:3.15",
+          "pli": "rukkhaphalūpamā kāmā vuttā bhagavatā …",
+          "en": "fruit on a tree …"
+        },
+        {
+          "scid": "mn22:3.16",
+          "pli": "asisūnūpamā kāmā vuttā bhagavatā …",
+          "en": "a butcher’s knife and chopping block …"
+        },
+        {
+          "scid": "mn22:3.17",
+          "pli": "sattisūlūpamā kāmā vuttā bhagavatā …",
+          "en": "a staking sword …"
+        },
+        {
+          "scid": "mn22:3.18",
+          "pli": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo”ti.",
+          "en": "a snake’s head, the Buddha says that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks.”"
+        },
+        {
+          "scid": "mn22:3.19",
+          "pli": "Evampi kho ariṭṭho bhikkhu gaddhabādhipubbo tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno tadeva pāpakaṃ diṭṭhigataṃ thāmasā parāmāsā abhinivissa voharati:",
+          "en": "But even though the mendicants engaged, pressed, and kept talking with him in this way, Ariṭṭha obstinately held on to his misconception and insisted on stating it."
+        },
+        {
+          "scid": "mn22:3.20",
+          "pli": "“evaṃ byā kho ahaṃ, āvuso, bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.21",
+          "pli": "Yato kho te bhikkhū nāsakkhiṃsu ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ, atha kho te bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
+          "en": "When they weren’t able to dissuade Ariṭṭha from his view, the mendicants went to the Buddha, bowed, sat down to one side, and told him what had happened."
+        },
+        {
+          "scid": "mn22:3.22",
+          "pli": "“ariṭṭhassa nāma, bhante, bhikkhuno gaddhabādhipubbassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.23",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.24",
+          "pli": "Assumha kho mayaṃ, bhante:",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.25",
+          "pli": "‘ariṭṭhassa kira nāma bhikkhuno gaddhabādhipubbassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.26",
+          "pli": "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.27",
+          "pli": "Atha kho mayaṃ, bhante, yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkamimha; upasaṅkamitvā ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etadavocumha:",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.28",
+          "pli": "‘saccaṃ kira te, āvuso ariṭṭha, evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.29",
+          "pli": "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.30",
+          "pli": "Evaṃ vutte, bhante, ariṭṭho bhikkhu gaddhabādhipubbo amhe etadavoca:",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.31",
+          "pli": "‘evaṃ byā kho ahaṃ, āvuso, bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.32",
+          "pli": "Atha kho mayaṃ, bhante, ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etasmā pāpakā diṭṭhigatā vivecetukāmā samanuyuñjimha samanugāhimha samanubhāsimha:",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.33",
+          "pli": "‘mā hevaṃ, āvuso ariṭṭha, avaca, mā bhagavantaṃ abbhācikkhi; na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.34",
+          "pli": "Anekapariyāyenāvuso ariṭṭha, antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.35",
+          "pli": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.36",
+          "pli": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.37",
+          "pli": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.38",
+          "pli": "Evampi kho, bhante, ariṭṭho bhikkhu gaddhabādhipubbo amhehi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno tadeva pāpakaṃ diṭṭhigataṃ thāmasā parāmāsā abhinivissa voharati:",
+          "en": ""
+        },
+        {
+          "scid": "mn22:3.39",
+          "pli": "‘evaṃ byā kho ahaṃ, āvuso, bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:4.1",
+          "pli": "Yato kho mayaṃ, bhante, nāsakkhimha ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ, atha mayaṃ etamatthaṃ bhagavato ārocemā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:5.1",
+          "pli": "Atha kho bhagavā aññataraṃ bhikkhuṃ āmantesi:",
+          "en": "So the Buddha said to a certain monk:"
+        },
+        {
+          "scid": "mn22:5.2",
+          "pli": "“ehi tvaṃ, bhikkhu, mama vacanena ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ āmantehi:",
+          "en": "“Please, monk, in my name tell the mendicant Ariṭṭha, formerly a vulture trapper, that"
+        },
+        {
+          "scid": "mn22:5.3",
+          "pli": "‘satthā taṃ, āvuso ariṭṭha, āmantetī’”ti.",
+          "en": "the teacher summons him.”"
+        },
+        {
+          "scid": "mn22:5.4",
+          "pli": "“Evaṃ, bhante”ti kho so bhikkhu bhagavato paṭissutvā, yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkami; upasaṅkamitvā ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etadavoca:",
+          "en": "“Yes, sir,” that monk replied. He went to Ariṭṭha and said to him:"
+        },
+        {
+          "scid": "mn22:5.5",
+          "pli": "“satthā taṃ, āvuso ariṭṭha, āmantetī”ti.",
+          "en": "“Reverend Ariṭṭha, the teacher summons you.”"
+        },
+        {
+          "scid": "mn22:5.6",
+          "pli": "“Evamāvuso”ti kho ariṭṭho bhikkhu gaddhabādhipubbo tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ bhagavā etadavoca:",
+          "en": "“Yes, reverend,” Ariṭṭha replied. He went to the Buddha, bowed, and sat down to one side. The Buddha said to him:"
+        },
+        {
+          "scid": "mn22:5.7",
+          "pli": "“saccaṃ kira te, ariṭṭha, evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ:",
+          "en": "“Is it really true, Ariṭṭha, that you have such a harmful misconception:"
+        },
+        {
+          "scid": "mn22:5.8",
+          "pli": "‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’”ti?",
+          "en": "‘As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them’?”"
+        },
+        {
+          "scid": "mn22:5.9",
+          "pli": "“Evaṃ byā kho ahaṃ, bhante, bhagavatā dhammaṃ desitaṃ ājānāmi: ‘yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’”ti.",
+          "en": "“Absolutely, sir. As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them.”"
+        },
+        {
+          "scid": "mn22:6.1",
+          "pli": "“Kassa kho nāma tvaṃ, moghapurisa, mayā evaṃ dhammaṃ desitaṃ ājānāsi?",
+          "en": "“Foolish man, who on earth have you ever known me to teach in that way?"
+        },
+        {
+          "scid": "mn22:6.2",
+          "pli": "Nanu mayā, moghapurisa, anekapariyāyena antarāyikā dhammā antarāyikā vuttā? Alañca pana te paṭisevato antarāyāya.",
+          "en": "Haven’t I said in many ways that obstructive acts are obstructive, and that they really do obstruct the one who performs them?"
+        },
+        {
+          "scid": "mn22:6.3",
+          "pli": "Appassādā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
+          "en": "I’ve said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks."
+        },
+        {
+          "scid": "mn22:6.4",
+          "pli": "Aṭṭhikaṅkalūpamā kāmā vuttā mayā …",
+          "en": "With the similes of a skeleton …"
+        },
+        {
+          "scid": "mn22:6.5",
+          "pli": "maṃsapesūpamā kāmā vuttā mayā …",
+          "en": "a piece of flesh …"
+        },
+        {
+          "scid": "mn22:6.6",
+          "pli": "tiṇukkūpamā kāmā vuttā mayā …",
+          "en": "a grass torch …"
+        },
+        {
+          "scid": "mn22:6.7",
+          "pli": "aṅgārakāsūpamā kāmā vuttā mayā …",
+          "en": "a pit of glowing coals …"
+        },
+        {
+          "scid": "mn22:6.8",
+          "pli": "supinakūpamā kāmā vuttā mayā …",
+          "en": "a dream …"
+        },
+        {
+          "scid": "mn22:6.9",
+          "pli": "yācitakūpamā kāmā vuttā mayā …",
+          "en": "borrowed goods …"
+        },
+        {
+          "scid": "mn22:6.10",
+          "pli": "rukkhaphalūpamā kāmā vuttā mayā …",
+          "en": "fruit on a tree …"
+        },
+        {
+          "scid": "mn22:6.11",
+          "pli": "asisūnūpamā kāmā vuttā mayā …",
+          "en": "a butcher’s knife and chopping block …"
+        },
+        {
+          "scid": "mn22:6.12",
+          "pli": "sattisūlūpamā kāmā vuttā mayā …",
+          "en": "a staking sword …"
+        },
+        {
+          "scid": "mn22:6.13",
+          "pli": "sappasirūpamā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
+          "en": "a snake’s head, I’ve said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks."
+        },
+        {
+          "scid": "mn22:6.14",
+          "pli": "Atha ca pana tvaṃ, moghapurisa, attanā duggahitena amhe ceva abbhācikkhasi, attānañca khanasi, bahuñca apuññaṃ pasavasi.",
+          "en": "But still you misrepresent me by your wrong grasp, harm yourself, and make much bad karma."
+        },
+        {
+          "scid": "mn22:6.15",
+          "pli": "Tañhi te, moghapurisa, bhavissati dīgharattaṃ ahitāya dukkhāyā”ti.",
+          "en": "This will be for your lasting harm and suffering.”"
+        },
+        {
+          "scid": "mn22:7.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "mn22:7.2",
+          "pli": "“Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "“What do you think, mendicants? "
+        },
+        {
+          "scid": "mn22:7.3",
+          "pli": "api nāyaṃ ariṭṭho bhikkhu gaddhabādhipubbo usmīkatopi imasmiṃ dhammavinaye”ti?",
+          "en": "Has this mendicant Ariṭṭha even begun to warm up in this teaching and training?”"
+        },
+        {
+          "scid": "mn22:7.4",
+          "pli": "“Kiñhi siyā, bhante;",
+          "en": "“How could that be, sir?"
+        },
+        {
+          "scid": "mn22:7.5",
+          "pli": "no hetaṃ, bhante”ti.",
+          "en": "No, sir.”"
+        },
+        {
+          "scid": "mn22:7.6",
+          "pli": "Evaṃ vutte, ariṭṭho bhikkhu gaddhabādhipubbo tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi.",
+          "en": "When this was said, Ariṭṭha sat silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say."
+        },
+        {
+          "scid": "mn22:7.7",
+          "pli": "Atha kho bhagavā ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ tuṇhībhūtaṃ maṅkubhūtaṃ pattakkhandhaṃ adhomukhaṃ pajjhāyantaṃ appaṭibhānaṃ viditvā ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etadavoca:",
+          "en": "Knowing this, the Buddha said:"
+        },
+        {
+          "scid": "mn22:7.8",
+          "pli": "“paññāyissasi kho tvaṃ, moghapurisa, etena sakena pāpakena diṭṭhigatena.",
+          "en": "“Foolish man, you will be known by your own harmful misconception."
+        },
+        {
+          "scid": "mn22:7.9",
+          "pli": "Idhāhaṃ bhikkhū paṭipucchissāmī”ti.",
+          "en": "I’ll question the mendicants about this.”"
+        },
+        {
+          "scid": "mn22:8.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "mn22:8.2",
+          "pli": "“tumhepi me, bhikkhave, evaṃ dhammaṃ desitaṃ ājānātha yathāyaṃ ariṭṭho bhikkhu gaddhabādhipubbo attanā duggahitena amhe ceva abbhācikkhati, attānañca khanati, bahuñca apuññaṃ pasavatī”ti?",
+          "en": "“Mendicants, do you understand my teachings as Ariṭṭha does, when he misrepresents me by his wrong grasp, harms himself, and makes much bad karma?”"
+        },
+        {
+          "scid": "mn22:8.3",
+          "pli": "“No hetaṃ, bhante.",
+          "en": "“No, sir."
+        },
+        {
+          "scid": "mn22:8.4",
+          "pli": "Anekapariyāyena hi no, bhante, antarāyikā dhammā antarāyikā vuttā bhagavatā;",
+          "en": "For in many ways the Buddha has said that obstructive acts are obstructive, and that they really do obstruct the one who performs them."
+        },
+        {
+          "scid": "mn22:8.5",
+          "pli": "alañca pana te paṭisevato antarāyāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:8.6",
+          "pli": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
+          "en": "The Buddha has said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks."
+        },
+        {
+          "scid": "mn22:8.7",
+          "pli": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā … pe …",
+          "en": "With the similes of a skeleton …"
+        },
+        {
+          "scid": "mn22:8.8",
+          "pli": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo”ti.",
+          "en": "a snake’s head, the Buddha has said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks.”"
+        },
+        {
+          "scid": "mn22:8.9",
+          "pli": "“Sādhu sādhu, bhikkhave, sādhu, kho me tumhe, bhikkhave, evaṃ dhammaṃ desitaṃ ājānātha.",
+          "en": "“Good, good, mendicants! It’s good that you understand my teaching like this."
+        },
+        {
+          "scid": "mn22:8.10",
+          "pli": "Anekapariyāyena hi kho, bhikkhave, antarāyikā dhammā vuttā mayā, alañca pana te paṭisevato antarāyāya.",
+          "en": "For in many ways I have said that obstructive acts are obstructive …"
+        },
+        {
+          "scid": "mn22:8.11",
+          "pli": "Appassādā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:8.12",
+          "pli": "Aṭṭhikaṅkalūpamā kāmā vuttā mayā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn22:8.13",
+          "pli": "sappasirūpamā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
+          "en": "I’ve said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks."
+        },
+        {
+          "scid": "mn22:8.14",
+          "pli": "Atha ca panāyaṃ ariṭṭho bhikkhu gaddhabādhipubbo attanā duggahitena amhe ceva abbhācikkhati, attānañca khanati, bahuñca apuññaṃ pasavati.",
+          "en": "But still this Ariṭṭha misrepresents me by his wrong grasp, harms himself, and makes much bad karma."
+        },
+        {
+          "scid": "mn22:8.15",
+          "pli": "Tañhi tassa moghapurisassa bhavissati dīgharattaṃ ahitāya dukkhāya.",
+          "en": "This will be for his lasting harm and suffering."
+        },
+        {
+          "scid": "mn22:9.1",
+          "pli": "So vata, bhikkhave, aññatreva kāmehi aññatra kāmasaññāya aññatra kāmavitakkehi kāme paṭisevissatīti—netaṃ ṭhānaṃ vijjati.",
+          "en": "Truly, mendicants, it’s not possible to perform sensual acts without sensual pleasures, sensual perceptions, and sensual thoughts."
+        },
+        {
+          "scid": "mn22:10.1",
+          "pli": "Idha, bhikkhave, ekacce moghapurisā dhammaṃ pariyāpuṇanti—",
+          "en": "Take a foolish person who memorizes the teaching—"
+        },
+        {
+          "scid": "mn22:10.2",
+          "pli": "suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ.",
+          "en": "statements, songs, discussions, verses, inspired sayings, legends, stories of past lives, amazing stories, and analyses."
+        },
+        {
+          "scid": "mn22:10.3",
+          "pli": "Te taṃ dhammaṃ pariyāpuṇitvā tesaṃ dhammānaṃ paññāya atthaṃ na upaparikkhanti.",
+          "en": "But they don’t examine the meaning of those teachings with wisdom,"
+        },
+        {
+          "scid": "mn22:10.4",
+          "pli": "Tesaṃ te dhammā paññāya atthaṃ anupaparikkhataṃ na nijjhānaṃ khamanti.",
+          "en": "and so don’t come to a reflective acceptance of them."
+        },
+        {
+          "scid": "mn22:10.5",
+          "pli": "Te upārambhānisaṃsā ceva dhammaṃ pariyāpuṇanti itivādappamokkhānisaṃsā ca.",
+          "en": "They just memorize the teaching for the sake of finding fault and winning debates."
+        },
+        {
+          "scid": "mn22:10.6",
+          "pli": "Yassa catthāya dhammaṃ pariyāpuṇanti tañcassa atthaṃ nānubhonti.",
+          "en": "They don’t realize the goal for which they memorized them."
+        },
+        {
+          "scid": "mn22:10.7",
+          "pli": "Tesaṃ te dhammā duggahitā dīgharattaṃ ahitāya dukkhāya saṃvattanti.",
+          "en": "Because they’re wrongly grasped, those teachings lead to their lasting harm and suffering."
+        },
+        {
+          "scid": "mn22:10.8",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn22:10.9",
+          "pli": "Duggahitattā, bhikkhave, dhammānaṃ.",
+          "en": "Because of their wrong grasp of the teachings."
+        },
+        {
+          "scid": "mn22:10.10",
+          "pli": "Seyyathāpi, bhikkhave, puriso alagaddatthiko alagaddagavesī alagaddapariyesanaṃ caramāno.",
+          "en": "Suppose there was a person in need of a snake. And while wandering in search of a snake"
+        },
+        {
+          "scid": "mn22:10.11",
+          "pli": "So passeyya mahantaṃ alagaddaṃ.",
+          "en": "they’d see a big snake,"
+        },
+        {
+          "scid": "mn22:10.12",
+          "pli": "Tamenaṃ bhoge vā naṅguṭṭhe vā gaṇheyya.",
+          "en": "and grasp it by the coil or the tail."
+        },
+        {
+          "scid": "mn22:10.13",
+          "pli": "Tassa so alagaddo paṭiparivattitvā hatthe vā bāhāya vā aññatarasmiṃ vā aṅgapaccaṅge ḍaṃseyya.",
+          "en": "But that snake would twist back and bite them on the hand or the arm or limb,"
+        },
+        {
+          "scid": "mn22:10.14",
+          "pli": "So tatonidānaṃ maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ.",
+          "en": "resulting in death or deadly pain."
+        },
+        {
+          "scid": "mn22:10.15",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn22:10.16",
+          "pli": "Duggahitattā, bhikkhave, alagaddassa.",
+          "en": "Because of their wrong grasp of the snake."
+        },
+        {
+          "scid": "mn22:10.17",
+          "pli": "Evameva kho, bhikkhave, idhekacce moghapurisā dhammaṃ pariyāpuṇanti—",
+          "en": "In the same way, a foolish person memorizes the teaching …"
+        },
+        {
+          "scid": "mn22:10.18",
+          "pli": "suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:10.19",
+          "pli": "Te taṃ dhammaṃ pariyāpuṇitvā tesaṃ dhammānaṃ paññāya atthaṃ na upaparikkhanti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:10.20",
+          "pli": "Tesaṃ te dhammā paññāya atthaṃ anupaparikkhataṃ na nijjhānaṃ khamanti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:10.21",
+          "pli": "Te upārambhānisaṃsā ceva dhammaṃ pariyāpuṇanti itivādappamokkhānisaṃsā ca.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:10.22",
+          "pli": "Yassa catthāya dhammaṃ pariyāpuṇanti tañcassa atthaṃ nānubhonti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:10.23",
+          "pli": "Tesaṃ te dhammā duggahitā dīgharattaṃ ahitāya dukkhāya saṃvattanti.",
+          "en": "and those teachings lead to their lasting harm and suffering."
+        },
+        {
+          "scid": "mn22:10.24",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn22:10.25",
+          "pli": "Duggahitattā, bhikkhave, dhammānaṃ.",
+          "en": "Because of their wrong grasp of the teachings."
+        },
+        {
+          "scid": "mn22:11.1",
+          "pli": "Idha pana, bhikkhave, ekacce kulaputtā dhammaṃ pariyāpuṇanti—",
+          "en": "Now, take a respectable person who memorizes the teaching—"
+        },
+        {
+          "scid": "mn22:11.2",
+          "pli": "suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ.",
+          "en": "statements, songs, discussions, verses, inspired sayings, legends, stories of past lives, amazing stories, and analyses."
+        },
+        {
+          "scid": "mn22:11.3",
+          "pli": "Te taṃ dhammaṃ pariyāpuṇitvā tesaṃ dhammānaṃ paññāya atthaṃ upaparikkhanti.",
+          "en": "And once they’ve memorized them, they examine their meaning with wisdom,"
+        },
+        {
+          "scid": "mn22:11.4",
+          "pli": "Tesaṃ te dhammā paññāya atthaṃ upaparikkhataṃ nijjhānaṃ khamanti.",
+          "en": "and come to a reflective acceptance of them."
+        },
+        {
+          "scid": "mn22:11.5",
+          "pli": "Te na ceva upārambhānisaṃsā dhammaṃ pariyāpuṇanti na itivādappamokkhānisaṃsā ca.",
+          "en": "They don’t memorize the teaching for the sake of finding fault and winning debates."
+        },
+        {
+          "scid": "mn22:11.6",
+          "pli": "Yassa catthāya dhammaṃ pariyāpuṇanti tañcassa atthaṃ anubhonti.",
+          "en": "They realize the goal for which they memorized them."
+        },
+        {
+          "scid": "mn22:11.7",
+          "pli": "Tesaṃ te dhammā suggahitā dīgharattaṃ hitāya sukhāya saṃvattanti.",
+          "en": "Because they’re correctly grasped, those teachings lead to their lasting welfare and happiness."
+        },
+        {
+          "scid": "mn22:11.8",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn22:11.9",
+          "pli": "Suggahitattā bhikkhave dhammānaṃ.",
+          "en": "Because of their correct grasp of the teachings."
+        },
+        {
+          "scid": "mn22:11.10",
+          "pli": "Seyyathāpi, bhikkhave, puriso alagaddatthiko alagaddagavesī alagaddapariyesanaṃ caramāno.",
+          "en": "Suppose there was a person in need of a snake. And while wandering in search of a snake"
+        },
+        {
+          "scid": "mn22:11.11",
+          "pli": "So passeyya mahantaṃ alagaddaṃ.",
+          "en": "they’d see a big snake,"
+        },
+        {
+          "scid": "mn22:11.12",
+          "pli": "Tamenaṃ ajapadena daṇḍena suniggahitaṃ niggaṇheyya.",
+          "en": "and hold it down carefully with a cleft stick."
+        },
+        {
+          "scid": "mn22:11.13",
+          "pli": "Ajapadena daṇḍena suniggahitaṃ niggahitvā, gīvāya suggahitaṃ gaṇheyya.",
+          "en": "Only then would they correctly grasp it by the neck."
+        },
+        {
+          "scid": "mn22:11.14",
+          "pli": "Kiñcāpi so, bhikkhave, alagaddo tassa purisassa hatthaṃ vā bāhaṃ vā aññataraṃ vā aṅgapaccaṅgaṃ bhogehi paliveṭheyya, atha kho so neva tatonidānaṃ maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ.",
+          "en": "And even though that snake might wrap its coils around that person’s hand or arm or some other limb, that wouldn’t result in death or deadly pain."
+        },
+        {
+          "scid": "mn22:11.15",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn22:11.16",
+          "pli": "Suggahitattā, bhikkhave, alagaddassa.",
+          "en": "Because of their correct grasp of the snake."
+        },
+        {
+          "scid": "mn22:11.17",
+          "pli": "Evameva kho, bhikkhave, idhekacce kulaputtā dhammaṃ pariyāpuṇanti—",
+          "en": "In the same way, a respectable person memorizes the teaching …"
+        },
+        {
+          "scid": "mn22:11.18",
+          "pli": "suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:11.19",
+          "pli": "Te taṃ dhammaṃ pariyāpuṇitvā tesaṃ dhammānaṃ paññāya atthaṃ upaparikkhanti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:11.20",
+          "pli": "Tesaṃ te dhammā paññāya atthaṃ upaparikkhataṃ nijjhānaṃ khamanti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:11.21",
+          "pli": "Te na ceva upārambhānisaṃsā dhammaṃ pariyāpuṇanti, na itivādappamokkhānisaṃsā ca.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:11.22",
+          "pli": "Yassa catthāya dhammaṃ pariyāpuṇanti, tañcassa atthaṃ anubhonti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:11.23",
+          "pli": "Tesaṃ te dhammā suggahitā dīgharattaṃ atthāya hitāya sukhāya saṃvattanti.",
+          "en": "and those teachings lead to their lasting welfare and happiness."
+        },
+        {
+          "scid": "mn22:11.24",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn22:11.25",
+          "pli": "Suggahitattā, bhikkhave, dhammānaṃ.",
+          "en": "Because of their correct grasp of the teachings."
+        },
+        {
+          "scid": "mn22:12.1",
+          "pli": "Tasmātiha, bhikkhave, yassa me bhāsitassa atthaṃ ājāneyyātha, tathā naṃ dhāreyyātha.",
+          "en": "So, mendicants, when you understand what I’ve said, you should remember it accordingly."
+        },
+        {
+          "scid": "mn22:12.2",
+          "pli": "Yassa ca pana me bhāsitassa atthaṃ na ājāneyyātha, ahaṃ vo tattha paṭipucchitabbo, ye vā panāssu viyattā bhikkhū.",
+          "en": "But if I’ve said anything that you don’t understand, you should ask me about it, or some competent mendicants."
+        },
+        {
+          "scid": "mn22:13.1",
+          "pli": "Kullūpamaṃ vo, bhikkhave, dhammaṃ desessāmi nittharaṇatthāya, no gahaṇatthāya.",
+          "en": "Mendicants, I will teach you how the Dhamma is similar to a raft: it’s for crossing over, not for holding on."
+        },
+        {
+          "scid": "mn22:13.2",
+          "pli": "Taṃ suṇātha, sādhukaṃ manasikarotha, bhāsissāmī”ti.",
+          "en": "Listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "mn22:13.3",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "mn22:13.4",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn22:13.5",
+          "pli": "“Seyyathāpi, bhikkhave, puriso addhānamaggappaṭipanno.",
+          "en": "“Suppose there was a person travelling along the road."
+        },
+        {
+          "scid": "mn22:13.6",
+          "pli": "So passeyya mahantaṃ udakaṇṇavaṃ, orimaṃ tīraṃ sāsaṅkaṃ sappaṭibhayaṃ, pārimaṃ tīraṃ khemaṃ appaṭibhayaṃ;",
+          "en": "They’d see a large deluge, whose near shore was dubious and perilous, while the far shore was a sanctuary free of peril."
+        },
+        {
+          "scid": "mn22:13.7",
+          "pli": "na cassa nāvā santāraṇī uttarasetu vā apārā pāraṃ gamanāya.",
+          "en": "But there was no ferryboat or bridge for crossing over."
+        },
+        {
+          "scid": "mn22:13.8",
+          "pli": "Tassa evamassa:",
+          "en": "They’d think:"
+        },
+        {
+          "scid": "mn22:13.9",
+          "pli": "‘ayaṃ kho mahāudakaṇṇavo, orimaṃ tīraṃ sāsaṅkaṃ sappaṭibhayaṃ, pārimaṃ tīraṃ khemaṃ appaṭibhayaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn22:13.10",
+          "pli": "natthi ca nāvā santāraṇī uttarasetu vā apārā pāraṃ gamanāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:13.11",
+          "pli": "Yannūnāhaṃ tiṇakaṭṭhasākhāpalāsaṃ saṅkaḍḍhitvā, kullaṃ bandhitvā, taṃ kullaṃ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṃ uttareyyan’ti.",
+          "en": "‘Why don’t I gather grass, sticks, branches, and leaves and make a raft? Riding on the raft, and paddling with my hands and feet, I can safely reach the far shore.’"
+        },
+        {
+          "scid": "mn22:13.12",
+          "pli": "Atha kho so, bhikkhave, puriso tiṇakaṭṭhasākhāpalāsaṃ saṅkaḍḍhitvā, kullaṃ bandhitvā taṃ kullaṃ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṃ uttareyya.",
+          "en": "And so they’d do exactly that."
+        },
+        {
+          "scid": "mn22:13.13",
+          "pli": "Tassa purisassa uttiṇṇassa pāraṅgatassa evamassa:",
+          "en": "And when they’d crossed over to the far shore, they’d think:"
+        },
+        {
+          "scid": "mn22:13.14",
+          "pli": "‘bahukāro kho me ayaṃ kullo;",
+          "en": "‘This raft has been very helpful to me."
+        },
+        {
+          "scid": "mn22:13.15",
+          "pli": "imāhaṃ kullaṃ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṃ uttiṇṇo.",
+          "en": "Riding on the raft, and paddling with my hands and feet, I have safely crossed over to the far shore."
+        },
+        {
+          "scid": "mn22:13.16",
+          "pli": "Yannūnāhaṃ imaṃ kullaṃ sīse vā āropetvā khandhe vā uccāretvā yena kāmaṃ pakkameyyan’ti.",
+          "en": "Why don’t I hoist it on my head or pick it up on my shoulder and go wherever I want?’"
+        },
+        {
+          "scid": "mn22:13.17",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "mn22:13.18",
+          "pli": "api nu so puriso evaṃkārī tasmiṃ kulle kiccakārī assā”ti?",
+          "en": "Would that person be doing what should be done with that raft?”"
+        },
+        {
+          "scid": "mn22:13.19",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn22:13.20",
+          "pli": "“Kathaṃkārī ca so, bhikkhave, puriso tasmiṃ kulle kiccakārī assa?",
+          "en": "“And what, mendicants, should that person do with the raft?"
+        },
+        {
+          "scid": "mn22:13.21",
+          "pli": "Idha, bhikkhave, tassa purisassa uttiṇṇassa pāraṅgatassa evamassa:",
+          "en": "When they’d crossed over they should think:"
+        },
+        {
+          "scid": "mn22:13.22",
+          "pli": "‘bahukāro kho me ayaṃ kullo;",
+          "en": "‘This raft has been very helpful to me. …"
+        },
+        {
+          "scid": "mn22:13.23",
+          "pli": "imāhaṃ kullaṃ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṃ uttiṇṇo.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:13.24",
+          "pli": "Yannūnāhaṃ imaṃ kullaṃ thale vā ussādetvā udake vā opilāpetvā yena kāmaṃ pakkameyyan’ti.",
+          "en": "Why don’t I beach it on dry land or set it adrift on the water and go wherever I want?’"
+        },
+        {
+          "scid": "mn22:13.25",
+          "pli": "Evaṃkārī kho so, bhikkhave, puriso tasmiṃ kulle kiccakārī assa.",
+          "en": "That’s what that person should do with the raft."
+        },
+        {
+          "scid": "mn22:13.26",
+          "pli": "Evameva kho, bhikkhave, kullūpamo mayā dhammo desito nittharaṇatthāya, no gahaṇatthāya.",
+          "en": "In the same way, I have taught how the teaching is similar to a raft: it’s for crossing over, not for holding on."
+        },
+        {
+          "scid": "mn22:14.1",
+          "pli": "Kullūpamaṃ vo, bhikkhave, dhammaṃ desitaṃ, ājānantehi dhammāpi vo pahātabbā pageva adhammā.",
+          "en": "By understanding the simile of the raft, you will even give up the teachings, let alone what is against the teachings."
+        },
+        {
+          "scid": "mn22:15.1",
+          "pli": "Chayimāni, bhikkhave, diṭṭhiṭṭhānāni.",
+          "en": "Mendicants, there are these six grounds for views."
+        },
+        {
+          "scid": "mn22:15.2",
+          "pli": "Katamāni cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "mn22:15.3",
+          "pli": "Idha, bhikkhave, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto, ",
+          "en": "Take an uneducated ordinary person who has not seen the noble ones, and is neither skilled nor trained in their teaching. They’ve not seen good persons, and are neither skilled nor trained in their teaching. "
+        },
+        {
+          "scid": "mn22:15.4",
+          "pli": "rūpaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassati;",
+          "en": "They regard form like this: ‘This is mine, I am this, this is my self.’"
+        },
+        {
+          "scid": "mn22:15.5",
+          "pli": "vedanaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassati;",
+          "en": "They also regard feeling …"
+        },
+        {
+          "scid": "mn22:15.6",
+          "pli": "saññaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassati;",
+          "en": "perception …"
+        },
+        {
+          "scid": "mn22:15.7",
+          "pli": "saṅkhāre ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassati;",
+          "en": "choices …"
+        },
+        {
+          "scid": "mn22:15.8",
+          "pli": "yampi taṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ, anuvicaritaṃ manasā tampi ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassati;",
+          "en": "whatever is seen, heard, thought, cognized, searched, and explored by the mind like this: ‘This is mine, I am this, this is my self.’"
+        },
+        {
+          "scid": "mn22:15.9",
+          "pli": "yampi taṃ diṭṭhiṭṭhānaṃ—",
+          "en": "And the same for this ground for views:"
+        },
+        {
+          "scid": "mn22:15.10",
+          "pli": "so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tatheva ṭhassāmīti—",
+          "en": "‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’"
+        },
+        {
+          "scid": "mn22:15.11",
+          "pli": "tampi ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassati.",
+          "en": "They also regard this: ‘This is mine, I am this, this is my self.’"
+        },
+        {
+          "scid": "mn22:16.1",
+          "pli": "Sutavā ca kho, bhikkhave, ariyasāvako ariyānaṃ dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisānaṃ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto, ",
+          "en": "But an educated noble disciple has seen the noble ones, and is skilled and trained in their teaching. They’ve seen good persons, and are skilled and trained in their teaching. "
+        },
+        {
+          "scid": "mn22:16.2",
+          "pli": "rūpaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati;",
+          "en": "They regard form like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn22:16.3",
+          "pli": "vedanaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati;",
+          "en": "They also regard feeling …"
+        },
+        {
+          "scid": "mn22:16.4",
+          "pli": "saññaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati;",
+          "en": "perception …"
+        },
+        {
+          "scid": "mn22:16.5",
+          "pli": "saṅkhāre ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati;",
+          "en": "choices …"
+        },
+        {
+          "scid": "mn22:16.6",
+          "pli": "yampi taṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ, anuvicaritaṃ manasā, tampi ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati;",
+          "en": "whatever is seen, heard, thought, cognized, searched, and explored by the mind like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn22:16.7",
+          "pli": "yampi taṃ diṭṭhiṭṭhānaṃ—",
+          "en": "And the same for this ground for views:"
+        },
+        {
+          "scid": "mn22:16.8",
+          "pli": "so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tatheva ṭhassāmīti—",
+          "en": "‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’"
+        },
+        {
+          "scid": "mn22:16.9",
+          "pli": "tampi ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati.",
+          "en": "They also regard this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn22:17.1",
+          "pli": "So evaṃ samanupassanto asati na paritassatī”ti.",
+          "en": "Seeing in this way they’re not anxious about what doesn’t exist.”"
+        },
+        {
+          "scid": "mn22:18.1",
+          "pli": "Evaṃ vutte, aññataro bhikkhu bhagavantaṃ etadavoca:",
+          "en": "When he said this, one of the mendicants asked the Buddha:"
+        },
+        {
+          "scid": "mn22:18.2",
+          "pli": "“siyā nu kho, bhante, bahiddhā asati paritassanā”ti?",
+          "en": "“Sir, can there be anxiety about what doesn’t exist externally?”"
+        },
+        {
+          "scid": "mn22:18.3",
+          "pli": "“Siyā, bhikkhū”ti—bhagavā avoca.",
+          "en": "“There can, mendicant,” said the Buddha."
+        },
+        {
+          "scid": "mn22:18.4",
+          "pli": "“Idha bhikkhu ekaccassa evaṃ hoti:",
+          "en": "“It’s when someone thinks:"
+        },
+        {
+          "scid": "mn22:18.5",
+          "pli": "‘ahu vata me, taṃ vata me natthi;",
+          "en": "‘Oh, but it used to be mine, and it is mine no more."
+        },
+        {
+          "scid": "mn22:18.6",
+          "pli": "siyā vata me, taṃ vatāhaṃ na labhāmī’ti.",
+          "en": "Oh, but it could be mine, and I will get it no more.’"
+        },
+        {
+          "scid": "mn22:18.7",
+          "pli": "So socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati.",
+          "en": "They sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "mn22:18.8",
+          "pli": "Evaṃ kho, bhikkhu, bahiddhā asati paritassanā hotī”ti.",
+          "en": "That’s how there is anxiety about what doesn’t exist externally.”"
+        },
+        {
+          "scid": "mn22:19.1",
+          "pli": "“Siyā pana, bhante, bahiddhā asati aparitassanā”ti?",
+          "en": "“But can there be no anxiety about what doesn’t exist externally?”"
+        },
+        {
+          "scid": "mn22:19.2",
+          "pli": "“Siyā, bhikkhū”ti—bhagavā avoca.",
+          "en": "“There can, mendicant,” said the Buddha."
+        },
+        {
+          "scid": "mn22:19.3",
+          "pli": "“Idha bhikkhu ekaccassa na evaṃ hoti:",
+          "en": "“It’s when someone doesn’t think:"
+        },
+        {
+          "scid": "mn22:19.4",
+          "pli": "‘ahu vata me, taṃ vata me natthi;",
+          "en": "‘Oh, but it used to be mine, and it is mine no more."
+        },
+        {
+          "scid": "mn22:19.5",
+          "pli": "siyā vata me, taṃ vatāhaṃ na labhāmī’ti.",
+          "en": "Oh, but it could be mine, and I will get it no more.’"
+        },
+        {
+          "scid": "mn22:19.6",
+          "pli": "So na socati na kilamati na paridevati na urattāḷiṃ kandati na sammohaṃ āpajjati.",
+          "en": "They don’t sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "mn22:19.7",
+          "pli": "Evaṃ kho, bhikkhu, bahiddhā asati aparitassanā hotī”ti.",
+          "en": "That’s how there is no anxiety about what doesn’t exist externally.”"
+        },
+        {
+          "scid": "mn22:20.1",
+          "pli": "“Siyā nu kho, bhante, ajjhattaṃ asati paritassanā”ti?",
+          "en": "“But can there be anxiety about what doesn’t exist internally?”"
+        },
+        {
+          "scid": "mn22:20.2",
+          "pli": "“Siyā, bhikkhū”ti—bhagavā avoca.",
+          "en": "“There can, mendicant,” said the Buddha."
+        },
+        {
+          "scid": "mn22:20.3",
+          "pli": "“Idha, bhikkhu, ekaccassa evaṃ diṭṭhi hoti:",
+          "en": "“It’s when someone has such a view:"
+        },
+        {
+          "scid": "mn22:20.4",
+          "pli": "‘so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tatheva ṭhassāmī’ti.",
+          "en": "‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’"
+        },
+        {
+          "scid": "mn22:20.5",
+          "pli": "So suṇāti tathāgatassa vā tathāgatasāvakassa vā sabbesaṃ diṭṭhiṭṭhānādhiṭṭhānapariyuṭṭhānābhinivesānusayānaṃ samugghātāya sabbasaṅkhārasamathāya sabbūpadhipaṭinissaggāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammaṃ desentassa.",
+          "en": "They hear the Realized One or their disciple teaching Dhamma for the uprooting of all grounds, commitments, obsession, insistence, and underlying tendencies regarding views; for the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment."
+        },
+        {
+          "scid": "mn22:20.6",
+          "pli": "Tassa evaṃ hoti:",
+          "en": "They think:"
+        },
+        {
+          "scid": "mn22:20.7",
+          "pli": "‘ucchijjissāmi nāmassu, vinassissāmi nāmassu, nassu nāma bhavissāmī’ti.",
+          "en": "‘Whoa, I’m going to be annihilated and destroyed! I won’t exist any more!’"
+        },
+        {
+          "scid": "mn22:20.8",
+          "pli": "So socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati.",
+          "en": "They sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "mn22:20.9",
+          "pli": "Evaṃ kho, bhikkhu, ajjhattaṃ asati paritassanā hotī”ti.",
+          "en": "That’s how there is anxiety about what doesn’t exist internally.”"
+        },
+        {
+          "scid": "mn22:21.1",
+          "pli": "“Siyā pana, bhante, ajjhattaṃ asati aparitassanā”ti?",
+          "en": "“But can there be no anxiety about what doesn’t exist internally?”"
+        },
+        {
+          "scid": "mn22:21.2",
+          "pli": "“Siyā, bhikkhū”ti bhagavā avoca.",
+          "en": "“There can,” said the Buddha."
+        },
+        {
+          "scid": "mn22:21.3",
+          "pli": "“Idha, bhikkhu, ekaccassa na evaṃ diṭṭhi hoti:",
+          "en": "“It’s when someone doesn’t have such a view:"
+        },
+        {
+          "scid": "mn22:21.4",
+          "pli": "‘so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tatheva ṭhassāmī’ti.",
+          "en": "‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’"
+        },
+        {
+          "scid": "mn22:21.5",
+          "pli": "So suṇāti tathāgatassa vā tathāgatasāvakassa vā sabbesaṃ diṭṭhiṭṭhānādhiṭṭhānapariyuṭṭhānābhinivesānusayānaṃ samugghātāya sabbasaṅkhārasamathāya sabbūpadhipaṭinissaggāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammaṃ desentassa.",
+          "en": "They hear the Realized One or their disciple teaching Dhamma for the uprooting of all grounds, commitments, obsession, insistence, and underlying tendencies regarding views; for the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment."
+        },
+        {
+          "scid": "mn22:21.6",
+          "pli": "Tassa na evaṃ hoti:",
+          "en": "It never occurs to them:"
+        },
+        {
+          "scid": "mn22:21.7",
+          "pli": "‘ucchijjissāmi nāmassu, vinassissāmi nāmassu, nassu nāma bhavissāmī’ti.",
+          "en": "‘Whoa, I’m going to be annihilated and destroyed! I won’t exist any more!’"
+        },
+        {
+          "scid": "mn22:21.8",
+          "pli": "So na socati na kilamati na paridevati na urattāḷiṃ kandati na sammohaṃ āpajjati.",
+          "en": "They don’t sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "mn22:21.9",
+          "pli": "Evaṃ kho, bhikkhu, ajjhattaṃ asati aparitassanā hoti.",
+          "en": "That’s how there is no anxiety about what doesn’t exist internally."
+        },
+        {
+          "scid": "mn22:22.1",
+          "pli": "Taṃ, bhikkhave, pariggahaṃ pariggaṇheyyātha, yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tatheva tiṭṭheyya.",
+          "en": "Mendicants, it would make sense to be possessive about something that’s permanent, everlasting, eternal, imperishable, and will last forever and ever."
+        },
+        {
+          "scid": "mn22:22.2",
+          "pli": "Passatha no tumhe, bhikkhave, taṃ pariggahaṃ yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tatheva tiṭṭheyyā”ti?",
+          "en": "But do you see any such possession?”"
+        },
+        {
+          "scid": "mn22:22.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn22:22.4",
+          "pli": "“Sādhu, bhikkhave.",
+          "en": "“Good, mendicants!"
+        },
+        {
+          "scid": "mn22:22.5",
+          "pli": "Ahampi kho taṃ, bhikkhave, pariggahaṃ na samanupassāmi yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo sassatisamaṃ tatheva tiṭṭheyya.",
+          "en": "I also can’t see any such possession."
+        },
+        {
+          "scid": "mn22:23.1",
+          "pli": "Taṃ, bhikkhave, attavādupādānaṃ upādiyetha, yaṃsa attavādupādānaṃ upādiyato na uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā.",
+          "en": "It would make sense to grasp at a doctrine of self that didn’t give rise to sorrow, lamentation, pain, sadness, and distress."
+        },
+        {
+          "scid": "mn22:23.2",
+          "pli": "Passatha no tumhe, bhikkhave, taṃ attavādupādānaṃ yaṃsa attavādupādānaṃ upādiyato na uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā”ti?",
+          "en": "But do you see any such doctrine of self?”"
+        },
+        {
+          "scid": "mn22:23.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn22:23.4",
+          "pli": "“Sādhu, bhikkhave.",
+          "en": "“Good, mendicants!"
+        },
+        {
+          "scid": "mn22:23.5",
+          "pli": "Ahampi kho taṃ, bhikkhave, attavādupādānaṃ na samanupassāmi yaṃsa attavādupādānaṃ upādiyato na uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā.",
+          "en": "I also can’t see any such doctrine of self."
+        },
+        {
+          "scid": "mn22:24.1",
+          "pli": "Taṃ, bhikkhave, diṭṭhinissayaṃ nissayetha yaṃsa diṭṭhinissayaṃ nissayato na uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā.",
+          "en": "It would make sense to rely on a view that didn’t give rise to sorrow, lamentation, pain, sadness, and distress."
+        },
+        {
+          "scid": "mn22:24.2",
+          "pli": "Passatha no tumhe, bhikkhave, taṃ diṭṭhinissayaṃ yaṃsa diṭṭhinissayaṃ nissayato na uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā”ti?",
+          "en": "But do you see any such view to rely on?”"
+        },
+        {
+          "scid": "mn22:24.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn22:24.4",
+          "pli": "“Sādhu, bhikkhave.",
+          "en": "“Good, mendicants!"
+        },
+        {
+          "scid": "mn22:24.5",
+          "pli": "Ahampi kho taṃ, bhikkhave, diṭṭhinissayaṃ na samanupassāmi yaṃsa diṭṭhinissayaṃ nissayato na uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā”.",
+          "en": "I also can’t see any such view to rely on."
+        },
+        {
+          "scid": "mn22:25.1",
+          "pli": "“Attani vā, bhikkhave, sati ‘attaniyaṃ me’ti assā”ti?",
+          "en": "Mendicants, were a self to exist, would there be the thought, ‘Belonging to my self’?”"
+        },
+        {
+          "scid": "mn22:25.2",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn22:25.3",
+          "pli": "“Attaniye vā, bhikkhave, sati ‘attā me’ti assā”ti?",
+          "en": "“Were what belongs to a self to exist, would there be the thought, ‘My self’?”"
+        },
+        {
+          "scid": "mn22:25.4",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn22:25.5",
+          "pli": "“Attani ca, bhikkhave, attaniye ca saccato thetato anupalabbhamāne, yampi taṃ diṭṭhiṭṭhānaṃ:",
+          "en": "“But self and what belongs to a self are not acknowledged as a genuine fact. This being so, is not the following a totally foolish teaching:"
+        },
+        {
+          "scid": "mn22:25.6",
+          "pli": "‘so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tatheva ṭhassāmī’ti—",
+          "en": "‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever’?”"
+        },
+        {
+          "scid": "mn22:25.7",
+          "pli": "nanāyaṃ, bhikkhave, kevalo paripūro bāladhammo”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn22:25.8",
+          "pli": "“Kiñhi no siyā, bhante, kevalo hi, bhante, paripūro bāladhammo”ti.",
+          "en": "“What else could it be, sir? It’s a totally foolish teaching.”"
+        },
+        {
+          "scid": "mn22:26.1",
+          "pli": "“Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "“What do you think, mendicants? "
+        },
+        {
+          "scid": "mn22:26.2",
+          "pli": "rūpaṃ niccaṃ vā aniccaṃ vā”ti?",
+          "en": "Is form permanent or impermanent?”"
+        },
+        {
+          "scid": "mn22:26.3",
+          "pli": "“Aniccaṃ, bhante”.",
+          "en": "“Impermanent, sir.”"
+        },
+        {
+          "scid": "mn22:26.4",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?",
+          "en": "“But if it’s impermanent, is it suffering or happiness?”"
+        },
+        {
+          "scid": "mn22:26.5",
+          "pli": "“Dukkhaṃ, bhante”.",
+          "en": "“Suffering, sir.”"
+        },
+        {
+          "scid": "mn22:26.6",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ—",
+          "en": "“But if it’s impermanent, suffering, and liable to fall apart, is it fit to be regarded thus:"
+        },
+        {
+          "scid": "mn22:26.7",
+          "pli": "etaṃ mama, esohamasmi, eso me attā”ti?",
+          "en": "‘This is mine, I am this, this is my self’?”"
+        },
+        {
+          "scid": "mn22:26.8",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn22:26.9",
+          "pli": "“Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "“What do you think, mendicants? "
+        },
+        {
+          "scid": "mn22:26.10",
+          "pli": "vedanā … pe …",
+          "en": "Is feeling …"
+        },
+        {
+          "scid": "mn22:26.11",
+          "pli": "saññā …",
+          "en": "perception …"
+        },
+        {
+          "scid": "mn22:26.12",
+          "pli": "saṅkhārā …",
+          "en": "choices …"
+        },
+        {
+          "scid": "mn22:26.13",
+          "pli": "viññāṇaṃ niccaṃ vā aniccaṃ vā”ti?",
+          "en": "consciousness permanent or impermanent?”"
+        },
+        {
+          "scid": "mn22:26.14",
+          "pli": "“Aniccaṃ, bhante”.",
+          "en": "“Impermanent, sir.”"
+        },
+        {
+          "scid": "mn22:26.15",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?",
+          "en": "“But if it’s impermanent, is it suffering or happiness?”"
+        },
+        {
+          "scid": "mn22:26.16",
+          "pli": "“Dukkhaṃ, bhante”.",
+          "en": "“Suffering, sir.”"
+        },
+        {
+          "scid": "mn22:26.17",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ—",
+          "en": "“But if it’s impermanent, suffering, and liable to fall apart, is it fit to be regarded thus:"
+        },
+        {
+          "scid": "mn22:26.18",
+          "pli": "etaṃ mama, esohamasmi, eso me attā”ti?",
+          "en": "‘This is mine, I am this, this is my self’?”"
+        },
+        {
+          "scid": "mn22:26.19",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn22:27.1",
+          "pli": "“Tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ, ajjhattaṃ vā bahiddhā vā, oḷārikaṃ vā sukhumaṃ vā, hīnaṃ vā paṇītaṃ vā, yaṃ dūre santike vā, sabbaṃ rūpaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti—evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "“So, mendicants, you should truly see any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn22:27.2",
+          "pli": "Yā kāci vedanā … pe …",
+          "en": "You should truly see any kind of feeling …"
+        },
+        {
+          "scid": "mn22:27.3",
+          "pli": "yā kāci saññā …",
+          "en": "perception …"
+        },
+        {
+          "scid": "mn22:27.4",
+          "pli": "ye keci saṅkhārā …",
+          "en": "choices …"
+        },
+        {
+          "scid": "mn22:27.5",
+          "pli": "yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ, ajjhattaṃ vā bahiddhā vā, oḷārikaṃ vā sukhumaṃ vā, hīnaṃ vā paṇītaṃ vā, yaṃ dūre santike vā, sabbaṃ viññāṇaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti—evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "consciousness at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn22:29.1",
+          "pli": "Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmiṃ nibbindati, vedanāya nibbindati, saññāya nibbindati, saṅkhāresu nibbindati, viññāṇasmiṃ nibbindati,",
+          "en": "Seeing this, a learned noble disciple becomes disillusioned with form, feeling, perception, choices, and consciousness. "
+        },
+        {
+          "scid": "mn22:29.2",
+          "pli": "nibbidā virajjati, virāgā vimuccati, vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.",
+          "en": "Being disillusioned they become dispassionate. Being dispassionate they’re freed. When freed, they know ‘it is freed’."
+        },
+        {
+          "scid": "mn22:29.3",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’"
+        },
+        {
+          "scid": "mn22:30.1",
+          "pli": "Ayaṃ vuccati, bhikkhave, bhikkhu ukkhittapaligho itipi, saṃkiṇṇaparikkho itipi, abbūḷhesiko itipi, niraggaḷo itipi, ariyo pannaddhajo pannabhāro visaṃyutto itipi.",
+          "en": "This is called a mendicant who has lifted up the cross-bar, filled in the trench, and pulled up the pillar; who is unbarred, a noble one with banner and burden put down, detached."
+        },
+        {
+          "scid": "mn22:31.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu ukkhittapaligho hoti?",
+          "en": "And how has a mendicant lifted the cross-bar?"
+        },
+        {
+          "scid": "mn22:31.2",
+          "pli": "Idha, bhikkhave, bhikkhuno avijjā pahīnā hoti, ucchinnamūlā tālāvatthukatā anabhāvaṅkatā, āyatiṃ anuppādadhammā.",
+          "en": "It’s when a mendicant has given up ignorance, cut it off at the root, made it like a palm stump, exterminated it, so it’s unable to arise in the future."
+        },
+        {
+          "scid": "mn22:31.3",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu ukkhittapaligho hoti.",
+          "en": "That’s how a mendicant has lifted the cross-bar."
+        },
+        {
+          "scid": "mn22:32.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu saṅkiṇṇaparikkho hoti?",
+          "en": "And how has a mendicant filled in the trench?"
+        },
+        {
+          "scid": "mn22:32.2",
+          "pli": "Idha, bhikkhave, bhikkhuno ponobbhaviko jātisaṃsāro pahīno hoti, ucchinnamūlo tālāvatthukato anabhāvaṅkato, āyatiṃ anuppādadhammo.",
+          "en": "It’s when a mendicant has given up transmigrating through births in future lives, cut it off at the root, made it like a palm stump, exterminated it, so it’s unable to arise in the future."
+        },
+        {
+          "scid": "mn22:32.3",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu saṅkiṇṇaparikkho hoti.",
+          "en": "That’s how a mendicant has filled in the trench."
+        },
+        {
+          "scid": "mn22:33.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu abbūḷhesiko hoti?",
+          "en": "And how has a mendicant pulled up the pillar?"
+        },
+        {
+          "scid": "mn22:33.2",
+          "pli": "Idha, bhikkhave, bhikkhuno taṇhā pahīnā hoti, ucchinnamūlā tālāvatthukatā anabhāvaṅkatā, āyatiṃ anuppādadhammā.",
+          "en": "It’s when a mendicant has given up craving, cut it off at the root, made it like a palm stump, exterminated it, so it’s unable to arise in the future."
+        },
+        {
+          "scid": "mn22:33.3",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu abbūḷhesiko hoti.",
+          "en": "That’s how a mendicant has pulled up the pillar."
+        },
+        {
+          "scid": "mn22:34.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu niraggaḷo hoti?",
+          "en": "And how is a mendicant unbarred?"
+        },
+        {
+          "scid": "mn22:34.2",
+          "pli": "Idha, bhikkhave, bhikkhuno pañca orambhāgiyāni saṃyojanāni pahīnāni honti, ucchinnamūlāni tālāvatthukatāni anabhāvaṅkatāni, āyatiṃ anuppādadhammāni.",
+          "en": "It’s when a mendicant has given up the five lower fetters, cut them off at the root, made them like a palm stump, exterminated them, so they’re unable to arise in the future."
+        },
+        {
+          "scid": "mn22:34.3",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu niraggaḷo hoti.",
+          "en": "That’s how a mendicant is unbarred."
+        },
+        {
+          "scid": "mn22:35.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu ariyo pannaddhajo pannabhāro visaṃyutto hoti?",
+          "en": "And how is a mendicant a noble one with banner and burden put down, detached?"
+        },
+        {
+          "scid": "mn22:35.2",
+          "pli": "Idha, bhikkhave, bhikkhuno asmimāno pahīno hoti, ucchinnamūlo tālāvatthukato anabhāvaṅkato, āyatiṃ anuppādadhammo.",
+          "en": "It’s when a mendicant has given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, exterminated it, so it’s unable to arise in the future."
+        },
+        {
+          "scid": "mn22:35.3",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu ariyo pannaddhajo pannabhāro visaṃyutto hoti.",
+          "en": "That’s how a mendicant is a noble one with banner and burden put down, detached."
+        },
+        {
+          "scid": "mn22:36.1",
+          "pli": "Evaṃ vimuttacittaṃ kho, bhikkhave, bhikkhuṃ saindā devā sabrahmakā sapajāpatikā anvesaṃ nādhigacchanti:",
+          "en": "When a mendicant’s mind is freed like this, the gods together with Indra, Brahmā, and Pajāpati, search as they may, will not find"
+        },
+        {
+          "scid": "mn22:36.2",
+          "pli": "‘idaṃ nissitaṃ tathāgatassa viññāṇan’ti.",
+          "en": "anything that such a Realized One’s consciousness depends on."
+        },
+        {
+          "scid": "mn22:36.3",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn22:36.4",
+          "pli": "Diṭṭhevāhaṃ, bhikkhave, dhamme tathāgataṃ ananuvijjoti vadāmi.",
+          "en": "Because even in the present life the Realized One is undiscoverable, I say."
+        },
+        {
+          "scid": "mn22:37.1",
+          "pli": "Evaṃvādiṃ kho maṃ, bhikkhave, evamakkhāyiṃ eke samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti:",
+          "en": "Though I speak and explain like this, certain ascetics and brahmins misrepresent me with the false, baseless, lying, untruthful claim:"
+        },
+        {
+          "scid": "mn22:37.2",
+          "pli": "‘venayiko samaṇo gotamo, sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññāpetī’ti.",
+          "en": "‘The ascetic Gotama is an eradicator. He advocates the annihilation, eradication, and extermination of an existing being.’"
+        },
+        {
+          "scid": "mn22:37.3",
+          "pli": "Yathā cāhaṃ na, bhikkhave, yathā cāhaṃ na vadāmi, tathā maṃ te bhonto samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti:",
+          "en": "I have been falsely misrepresented as being what I am not, and saying what I do not say."
+        },
+        {
+          "scid": "mn22:37.4",
+          "pli": "‘venayiko samaṇo gotamo, sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññāpetī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:37.5",
+          "pli": "Pubbe cāhaṃ, bhikkhave, etarahi ca dukkhañceva paññāpemi, dukkhassa ca nirodhaṃ.",
+          "en": "In the past, as today, what I describe is suffering and the cessation of suffering."
+        },
+        {
+          "scid": "mn22:37.6",
+          "pli": "Tatra ce, bhikkhave, pare tathāgataṃ akkosanti paribhāsanti rosenti vihesenti, tatra, bhikkhave, tathāgatassa na hoti āghāto na appaccayo na cetaso anabhiraddhi.",
+          "en": "This being so, if others abuse, attack, harass, and trouble the Realized One, he doesn’t get resentful, bitter, and emotionally exasperated."
+        },
+        {
+          "scid": "mn22:38.1",
+          "pli": "Tatra ce, bhikkhave, pare tathāgataṃ sakkaronti garuṃ karonti mānenti pūjenti, tatra, bhikkhave, tathāgatassa na hoti ānando na somanassaṃ na cetaso uppilāvitattaṃ.",
+          "en": "Or if others honor, respect, revere, or venerate him, he doesn’t get thrilled, elated, and emotionally excited."
+        },
+        {
+          "scid": "mn22:38.2",
+          "pli": "Tatra ce, bhikkhave, pare vā tathāgataṃ sakkaronti garuṃ karonti mānenti pūjenti, tatra, bhikkhave, tathāgatassa evaṃ hoti:",
+          "en": "He just thinks:"
+        },
+        {
+          "scid": "mn22:38.3",
+          "pli": "‘yaṃ kho idaṃ pubbe pariññātaṃ tattha me evarūpā kārā karīyantī’ti.",
+          "en": "‘They do such things for what has already been completely understood.’"
+        },
+        {
+          "scid": "mn22:39.1",
+          "pli": "Tasmātiha, bhikkhave, tumhe cepi pare akkoseyyuṃ paribhāseyyuṃ roseyyuṃ viheseyyuṃ, tatra tumhe hi na āghāto na appaccayo na cetaso anabhiraddhi karaṇīyā.",
+          "en": "So, mendicants, if others abuse, attack, harass, and trouble you, don’t make yourselves resentful, bitter, and emotionally exasperated."
+        },
+        {
+          "scid": "mn22:39.2",
+          "pli": "Tasmātiha, bhikkhave, tumhe cepi pare sakkareyyuṃ garuṃ kareyyuṃ māneyyuṃ pūjeyyuṃ, tatra tumhehi na ānando na somanassaṃ na cetaso uppilāvitattaṃ karaṇīyaṃ.",
+          "en": "Or if others honor, respect, revere, or venerate you, don’t make yourselves thrilled, elated, and emotionally excited."
+        },
+        {
+          "scid": "mn22:39.3",
+          "pli": "Tasmātiha, bhikkhave, tumhe cepi pare sakkareyyuṃ garuṃ kareyyuṃ māneyyuṃ pūjeyyuṃ, tatra tumhākaṃ evamassa:",
+          "en": "Just think:"
+        },
+        {
+          "scid": "mn22:39.4",
+          "pli": "‘yaṃ kho idaṃ pubbe pariññātaṃ, tatthame evarūpā kārā karīyantī’ti.",
+          "en": "‘They do such things for what has already been completely understood.’"
+        },
+        {
+          "scid": "mn22:40.1",
+          "pli": "Tasmātiha, bhikkhave, yaṃ na tumhākaṃ taṃ pajahatha;",
+          "en": "So, mendicants, give up what isn't yours."
+        },
+        {
+          "scid": "mn22:40.2",
+          "pli": "taṃ vo pahīnaṃ dīgharattaṃ hitāya sukhāya bhavissati.",
+          "en": "Giving it up will be for your lasting welfare and happiness."
+        },
+        {
+          "scid": "mn22:41.1",
+          "pli": "Kiñca, bhikkhave, na tumhākaṃ?",
+          "en": "And what isn’t yours?"
+        },
+        {
+          "scid": "mn22:41.2",
+          "pli": "Rūpaṃ, bhikkhave, na tumhākaṃ, taṃ pajahatha;",
+          "en": "Form isn’t yours: give it up."
+        },
+        {
+          "scid": "mn22:41.3",
+          "pli": "taṃ vo pahīnaṃ dīgharattaṃ hitāya sukhāya bhavissati.",
+          "en": "Giving it up will be for your lasting welfare and happiness."
+        },
+        {
+          "scid": "mn22:41.4",
+          "pli": "Vedanā, bhikkhave, na tumhākaṃ, taṃ pajahatha;",
+          "en": "Feeling …"
+        },
+        {
+          "scid": "mn22:41.5",
+          "pli": "sā vo pahīnā dīgharattaṃ hitāya sukhāya bhavissati.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:41.6",
+          "pli": "Saññā, bhikkhave, na tumhākaṃ, taṃ pajahatha;",
+          "en": "perception …"
+        },
+        {
+          "scid": "mn22:41.7",
+          "pli": "sā vo pahīnā dīgharattaṃ hitāya sukhāya bhavissati.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:41.8",
+          "pli": "Saṅkhārā, bhikkhave, na tumhākaṃ, te pajahatha;",
+          "en": "choices …"
+        },
+        {
+          "scid": "mn22:41.9",
+          "pli": "te vo pahīnā dīgharattaṃ hitāya sukhāya bhavissanti.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:41.10",
+          "pli": "Viññāṇaṃ, bhikkhave, na tumhākaṃ, taṃ pajahatha;",
+          "en": "consciousness isn’t yours: give it up."
+        },
+        {
+          "scid": "mn22:41.11",
+          "pli": "taṃ vo pahīnaṃ dīgharattaṃ hitāya sukhāya bhavissati.",
+          "en": "Giving it up will be for your lasting welfare and happiness."
+        },
+        {
+          "scid": "mn22:41.12",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "mn22:41.13",
+          "pli": "yaṃ imasmiṃ jetavane tiṇakaṭṭhasākhāpalāsaṃ, taṃ jano hareyya vā daheyya vā yathāpaccayaṃ vā kareyya.",
+          "en": "Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them."
+        },
+        {
+          "scid": "mn22:41.14",
+          "pli": "Api nu tumhākaṃ evamassa:",
+          "en": "Would you think:"
+        },
+        {
+          "scid": "mn22:41.15",
+          "pli": "‘amhe jano harati vā dahati vā yathāpaccayaṃ vā karotī’”ti?",
+          "en": "‘This person is carrying us off, burning us, or doing what they want with us?’”"
+        },
+        {
+          "scid": "mn22:41.16",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir."
+        },
+        {
+          "scid": "mn22:41.17",
+          "pli": "“Taṃ kissa hetu”?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn22:41.18",
+          "pli": "“Na hi no etaṃ, bhante, attā vā attaniyaṃ vā”ti.",
+          "en": "Because that’s neither self nor belonging to self.”"
+        },
+        {
+          "scid": "mn22:41.19",
+          "pli": "“Evameva kho, bhikkhave, yaṃ na tumhākaṃ taṃ pajahatha;",
+          "en": "“In the same way, mendicants, give up what isn't yours."
+        },
+        {
+          "scid": "mn22:41.20",
+          "pli": "taṃ vo pahīnaṃ dīgharattaṃ hitāya sukhāya bhavissati.",
+          "en": "Giving it up will be for your lasting welfare and happiness."
+        },
+        {
+          "scid": "mn22:41.21",
+          "pli": "Kiñca, bhikkhave, na tumhākaṃ?",
+          "en": "And what isn’t yours?"
+        },
+        {
+          "scid": "mn22:41.22",
+          "pli": "Rūpaṃ, bhikkhave, na tumhākaṃ, taṃ pajahatha;",
+          "en": "Form …"
+        },
+        {
+          "scid": "mn22:41.23",
+          "pli": "taṃ vo pahīnaṃ dīgharattaṃ hitāya sukhāya bhavissati.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:41.24",
+          "pli": "Vedanā, bhikkhave … pe …",
+          "en": "feeling …"
+        },
+        {
+          "scid": "mn22:41.25",
+          "pli": "saññā, bhikkhave …",
+          "en": "perception …"
+        },
+        {
+          "scid": "mn22:41.26",
+          "pli": "saṅkhārā, bhikkhave … pe …",
+          "en": "choices …"
+        },
+        {
+          "scid": "mn22:41.27",
+          "pli": "viññāṇaṃ, bhikkhave, na tumhākaṃ, taṃ pajahatha;",
+          "en": "consciousness isn’t yours: give it up."
+        },
+        {
+          "scid": "mn22:41.28",
+          "pli": "taṃ vo pahīnaṃ dīgharattaṃ hitāya sukhāya bhavissati.",
+          "en": "Giving it up will be for your lasting welfare and happiness."
+        },
+        {
+          "scid": "mn22:42.1",
+          "pli": "Evaṃ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko.",
+          "en": "Thus the teaching has been well explained by me, made clear, opened, illuminated, and stripped of patchwork."
+        },
+        {
+          "scid": "mn22:42.2",
+          "pli": "Evaṃ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike ye te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṃyojanā sammadaññāvimuttā, vaṭṭaṃ tesaṃ natthi paññāpanāya.",
+          "en": "In this teaching there are mendicants who are perfected, who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment. For them, there is no cycle of rebirths to be found. …"
+        },
+        {
+          "scid": "mn22:43.1",
+          "pli": "Evaṃ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:43.2",
+          "pli": "Evaṃ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṃ bhikkhūnaṃ pañcorambhāgiyāni saṃyojanāni pahīnāni, sabbe te opapātikā, tattha parinibbāyino, anāvattidhammā tasmā lokā.",
+          "en": "In this teaching there are mendicants who have given up the five lower fetters. All of them are reborn spontaneously. They are extinguished there, and are not liable to return from that world. …"
+        },
+        {
+          "scid": "mn22:44.1",
+          "pli": "Evaṃ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:44.2",
+          "pli": "Evaṃ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṃ bhikkhūnaṃ tīṇi saṃyojanāni pahīnāni, rāgadosamohā tanubhūtā, sabbe te sakadāgāmino, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karissanti.",
+          "en": "In this teaching there are mendicants who, having given up three fetters, and weakened greed, hate, and delusion, are once-returners. All of them come back to this world once only, then make an end of suffering. …"
+        },
+        {
+          "scid": "mn22:45.1",
+          "pli": "Evaṃ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:45.2",
+          "pli": "Evaṃ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṃ bhikkhūnaṃ tīṇi saṃyojanāni pahīnāni, sabbe te sotāpannā, avinipātadhammā, niyatā sambodhiparāyanā.",
+          "en": "In this teaching there are mendicants who have ended three fetters. All of them are stream-enterers, not liable to be reborn in the underworld, bound for awakening. …"
+        },
+        {
+          "scid": "mn22:46.1",
+          "pli": "Evaṃ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko.",
+          "en": ""
+        },
+        {
+          "scid": "mn22:46.2",
+          "pli": "Evaṃ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike ye te bhikkhū dhammānusārino saddhānusārino sabbe te sambodhiparāyanā.",
+          "en": "In this teaching there are mendicants who are followers of principles, or followers by faith. All of them are bound for awakening."
+        },
+        {
+          "scid": "mn22:47.1",
+          "pli": "Evaṃ svākkhāto, bhikkhave, mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko.",
+          "en": "Thus the teaching has been well explained by me, made clear, opened, illuminated, and stripped of patchwork."
+        },
+        {
+          "scid": "mn22:47.2",
+          "pli": "Evaṃ svākkhāte, bhikkhave, mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṃ mayi saddhāmattaṃ pemamattaṃ sabbe te saggaparāyanā”ti.",
+          "en": "In this teaching there are those who have a degree of faith and love for me. All of them are bound for heaven.”"
+        },
+        {
+          "scid": "mn22:47.3",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn22:47.4",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn22:47.5",
+          "pli": "Alagaddūpamasuttaṃ niṭṭhitaṃ dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn22/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 22",
+    "volpages": "MN i 130",
+    "uid": "mn22",
+    "blurb": "One of the monks denies that prohibited conduct is really a problem. The monks and then the Buddha subject him to an impressive dressing down. The Buddha compares someone who understands only the letter of the teachings to someone who grabs a snake by the tail, and also invokes the famous simile of the raft.",
+    "difficulty": 3,
+    "original_title": "Alagaddūpama Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Simile of the Snake",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn22_sujato",
+        "segmented": true,
+        "title": "The Simile of the Snake"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn22_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discourse on the Parable of the Water-Snake"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn22_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Simile of the Snake"
+      }
+    ],
+    "parallel_count": 16,
+    "biblio": null,
+    "num": 2
+  }
+}

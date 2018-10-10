@@ -1,0 +1,127 @@
+{
+  "sutta_uid": "thig3.5",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig3.5",
+    "lang": "en",
+    "is_root": false,
+    "title": "Ubbiri",
+    "author": "Thanissaro Bhikkhu",
+    "author_short": "Thanissaro",
+    "author_uid": "thanissaro",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Sukkā",
+      "uid": "thig3.6"
+    },
+    "previous": {
+      "author_uid": "thanissaro",
+      "lang": "en",
+      "name": "Dantika and the Elephant",
+      "uid": "thig3.4"
+    }
+  },
+  "metaarea": "\n<p>Translated from the Pali by: <span class=\"author\">Thanissaro Bhikkhu</span>.</p>\n<p>©2005 Thanissaro Bhikkhu. The text of this page is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of the license, visit <a href=\"http://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">http://creativecommons.org/licenses/by-nc/4.0</a>. Documents linked from this page may be subject to other restrictions. Transcribed from a file provided by the translator.</p>\n<p>Access to Insight (Legacy Edition), 30 November 2013, <a href=\"https://www.accesstoinsight.org/\" target=\"_blank\">www.accesstoinsight.org</a></p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.5:0.1",
+          "en": "Therīgāthā 3.5"
+        },
+        {
+          "scid": "thig3.5:0.2",
+          "en": "Ubbiri",
+          "pli": "Ubbiritherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig3.5:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig3.5:1.0.2",
+          "en": "Chapter 3"
+        },
+        {
+          "scid": "thig3.5:1.0.3",
+          "en": "5. Ubbiri"
+        },
+        {
+          "scid": "thig3.5:1.0.4",
+          "en": "\"'Jiva, my daughter,' you cry in the woods. Come to your senses, Ubbiri. 84,000 all named Jiva have been burned in that charnel ground. For which of them do you grieve?\""
+        },
+        {
+          "scid": "thig3.5:1.0.5",
+          "en": "Pulling out — completely out — the arrow so hard to see, embedded in my heart, he expelled from me — overcome with grief — the grief over my daughter."
+        },
+        {
+          "scid": "thig3.5:1.0.6",
+          "en": "Today — with arrow removed, without hunger, entirely Unbound — to the Buddha, Dhamma, & Sangha I go, for refuge to the Sage."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.5/en/thanissaro",
+  "author_uid": "thanissaro",
+  "suttaplex": {
+    "acronym": "Thig 3.5",
+    "volpages": "Thig 128",
+    "uid": "thig3.5",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ubbiritherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ubbiri",
+    "translations": [
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig3.5_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Ubbiri"
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.5_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Ubbirī"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

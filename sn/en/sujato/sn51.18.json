@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn51.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn51.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Mendicant",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Teaching on Psychic Power, Etc.",
+      "uid": "sn51.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics and Brahmins (2nd)",
+      "uid": "sn51.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn51.18:0.1",
+          "pli": "Saṃyutta Nikāya 51",
+          "en": "Linked Discourses 51"
+        },
+        {
+          "scid": "sn51.18:0.2",
+          "pli": "2. Pāsādakampanavagga",
+          "en": "2. Shaking the Stilt Longhouse"
+        },
+        {
+          "scid": "sn51.18:0.3",
+          "pli": "18. Bhikkhusutta",
+          "en": "18. A Mendicant"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 51…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn51.18:1.1",
+          "pli": "“Catunnaṃ, bhikkhave, iddhipādānaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.",
+          "en": "“Mendicants, by developing and cultivating the four bases of psychic power, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements."
+        },
+        {
+          "scid": "sn51.18:2.1",
+          "pli": "Katamesaṃ catunnaṃ?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn51.18:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ",
+          "en": "It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm … "
+        },
+        {
+          "scid": "sn51.18:2.3",
+          "pli": "vīriyasamādhi … pe …",
+          "en": "energy …"
+        },
+        {
+          "scid": "sn51.18:2.4",
+          "pli": "cittasamādhi …",
+          "en": "higher mind …"
+        },
+        {
+          "scid": "sn51.18:2.5",
+          "pli": "vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.",
+          "en": "inquiry, and active effort."
+        },
+        {
+          "scid": "sn51.18:2.6",
+          "pli": "Imesaṃ kho, bhikkhave, catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti.",
+          "en": "By developing and cultivating these four bases of psychic power, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.”"
+        },
+        {
+          "scid": "sn51.18:2.7",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn51.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 51.18",
+    "volpages": "SN v 275",
+    "uid": "sn51.18",
+    "blurb": "It is because of developing the four bases of psychic power that a mendicant ends the defilements.",
+    "difficulty": null,
+    "original_title": "Bhikkhu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Mendicant",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn51.18_sujato",
+        "segmented": true,
+        "title": "A Mendicant"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

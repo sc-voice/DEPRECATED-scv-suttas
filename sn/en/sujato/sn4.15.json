@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn4.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn4.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Mental Snare",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Alms Bowls",
+      "uid": "sn4.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Appropriate",
+      "uid": "sn4.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn4.15:0.1",
+          "pli": "Saṃyutta Nikāya 4",
+          "en": "Linked Discourses 4"
+        },
+        {
+          "scid": "sn4.15:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. Rule"
+        },
+        {
+          "scid": "sn4.15:0.3",
+          "pli": "15. Mānasasutta",
+          "en": "15. A Mental Snare"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn4.15:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn4.15:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "sn4.15:1.3",
+          "pli": "Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Then Māra the Wicked went up to the Buddha and addressed him in verse:"
+        },
+        {
+          "scid": "sn4.15:2.1",
+          "pli": "“Antalikkhacaro pāso,",
+          "en": "“There’s a mental snare"
+        },
+        {
+          "scid": "sn4.15:2.2",
+          "pli": "yvāyaṃ carati mānaso;",
+          "en": "wandering the sky."
+        },
+        {
+          "scid": "sn4.15:2.3",
+          "pli": "Tena taṃ bādhayissāmi,",
+          "en": "I’ll bind you with it—"
+        },
+        {
+          "scid": "sn4.15:2.4",
+          "pli": "na me samaṇa mokkhasī”ti.",
+          "en": "you won’t escape me, ascetic!”"
+        },
+        {
+          "scid": "sn4.15:3.1",
+          "pli": "“Rūpā saddā rasā gandhā,",
+          "en": "“Sights, sounds, tastes, smells,"
+        },
+        {
+          "scid": "sn4.15:3.2",
+          "pli": "Phoṭṭhabbā ca manoramā;",
+          "en": "and touches so delightful:"
+        },
+        {
+          "scid": "sn4.15:3.3",
+          "pli": "Ettha me vigato chando,",
+          "en": "desire for these is gone from me."
+        },
+        {
+          "scid": "sn4.15:3.4",
+          "pli": "Nihato tvamasi antakā”ti.",
+          "en": "You’re defeated, terminator!”"
+        },
+        {
+          "scid": "sn4.15:4.1",
+          "pli": "Atha kho māro pāpimā “jānāti maṃ bhagavā, jānāti maṃ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+          "en": "Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn4.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 4.15//SN 151",
+    "volpages": "SN i 111//SN i 248",
+    "uid": "sn4.15",
+    "blurb": "Māra threatens the Buddha with a “mental snare” in the sky.",
+    "difficulty": null,
+    "original_title": "Mānasa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Mental Snare",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn4.15_sujato",
+        "segmented": true,
+        "title": "A Mental Snare"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn4.15_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Mental"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 5
+  }
+}

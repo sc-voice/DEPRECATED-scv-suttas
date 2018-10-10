@@ -1,0 +1,190 @@
+{
+  "sutta_uid": "sn1.48",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.48",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Jeta’s Grove",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Stingy",
+      "uid": "sn1.49"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Planters",
+      "uid": "sn1.47"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.48:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.48:0.2",
+          "pli": "5. Ādittavagga",
+          "en": "5. On Fire"
+        },
+        {
+          "scid": "sn1.48:0.3",
+          "pli": "48. Jetavanasutta",
+          "en": "48. Jeta’s Grove"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.48:1.1",
+          "pli": "“Idañhi taṃ jetavanaṃ,",
+          "en": "“This is indeed that Jeta’s Grove,"
+        },
+        {
+          "scid": "sn1.48:1.2",
+          "pli": "isisaṃghanisevitaṃ;",
+          "en": "frequented by the Saṅgha of seers,"
+        },
+        {
+          "scid": "sn1.48:1.3",
+          "pli": "Āvutthaṃ dhammarājena,",
+          "en": "where the King of Dhamma stayed:"
+        },
+        {
+          "scid": "sn1.48:1.4",
+          "pli": "pītisañjananaṃ mama.",
+          "en": "it brings me joy!"
+        },
+        {
+          "scid": "sn1.48:2.1",
+          "pli": "Kammaṃ vijjā ca dhammo ca,",
+          "en": "Deeds, knowledge, and principle;"
+        },
+        {
+          "scid": "sn1.48:2.2",
+          "pli": "sīlaṃ jīvitamuttamaṃ;",
+          "en": "ethical conduct, an excellent livelihood;"
+        },
+        {
+          "scid": "sn1.48:2.3",
+          "pli": "Etena maccā sujjhanti,",
+          "en": "by these are mortals purified,"
+        },
+        {
+          "scid": "sn1.48:2.4",
+          "pli": "na gottena dhanena vā.",
+          "en": "not by clan or wealth."
+        },
+        {
+          "scid": "sn1.48:3.1",
+          "pli": "Tasmā hi paṇḍito poso,",
+          "en": "That’s why an astute person,"
+        },
+        {
+          "scid": "sn1.48:3.2",
+          "pli": "sampassaṃ atthamattano;",
+          "en": "seeing what’s good for themselves,"
+        },
+        {
+          "scid": "sn1.48:3.3",
+          "pli": "Yoniso vicine dhammaṃ,",
+          "en": "would examine the teaching rationally,"
+        },
+        {
+          "scid": "sn1.48:3.4",
+          "pli": "evaṃ tattha visujjhati.",
+          "en": "and thus be purified in it."
+        },
+        {
+          "scid": "sn1.48:4.1",
+          "pli": "Sāriputtova paññāya,",
+          "en": "Sāriputta has true wisdom,"
+        },
+        {
+          "scid": "sn1.48:4.2",
+          "pli": "sīlena upasamena ca;",
+          "en": "ethics, and also peace."
+        },
+        {
+          "scid": "sn1.48:4.3",
+          "pli": "Yopi pāraṅgato bhikkhu,",
+          "en": "Any mendicant who has gone beyond"
+        },
+        {
+          "scid": "sn1.48:4.4",
+          "pli": "etāvaparamo siyā”ti.",
+          "en": "can at best equal him.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“This is indeed that Jeta’s Grove…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.48/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.48//SN 48",
+    "volpages": "SN i 33//SN i 71",
+    "uid": "sn1.48",
+    "blurb": "Verses in praise of the Jetavana monastery, the Dhamma, and venerable Sāriputta, apparently spoken by the deity Anāthapiṇḍika.",
+    "difficulty": null,
+    "original_title": "Jetavana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Jeta’s Grove",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.48_sujato",
+        "segmented": true,
+        "title": "Jeta’s Grove"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.48_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Jeta’s Grove"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 8
+  }
+}

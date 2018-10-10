@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn47.39",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.39",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Development",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Analysis",
+      "uid": "sn47.40"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Complete Understanding",
+      "uid": "sn47.38"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.39:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.39:0.2",
+          "pli": "4. Ananussutavagga",
+          "en": "4. Not Learned From Anyone Else"
+        },
+        {
+          "scid": "sn47.39:0.3",
+          "pli": "39. Bhāvanāsutta",
+          "en": "39. Development"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.39:1.1",
+          "pli": "“Catunnaṃ, bhikkhave, satipaṭṭhānānaṃ bhāvanaṃ desessāmi.",
+          "en": "“Mendicants, I will teach you the development of the four kinds of mindfulness meditation."
+        },
+        {
+          "scid": "sn47.39:1.2",
+          "pli": "Taṃ suṇātha.",
+          "en": "Listen …"
+        },
+        {
+          "scid": "sn47.39:1.3",
+          "pli": "Katamā, bhikkhave, catunnaṃ satipaṭṭhānānaṃ bhāvanā?",
+          "en": "And what is the development of the four kinds of mindfulness meditation?"
+        },
+        {
+          "scid": "sn47.39:1.4",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.39:1.5",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn47.39:1.6",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn47.39:1.7",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.39:1.8",
+          "pli": "Ayaṃ kho, bhikkhave, catunnaṃ satipaṭṭhānānaṃ bhāvanā”ti.",
+          "en": "This is the development of the four kinds of mindfulness meditation.”"
+        },
+        {
+          "scid": "sn47.39:1.9",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.39/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 47.39",
+    "volpages": "SN v 182",
+    "uid": "sn47.39",
+    "blurb": "The development of the four kinds of mindfulness meditation.",
+    "difficulty": null,
+    "original_title": "Bhāvanā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Development",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.39_sujato",
+        "segmented": true,
+        "title": "Development"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.39_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Development"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

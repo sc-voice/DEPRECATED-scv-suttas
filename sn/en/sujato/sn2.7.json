@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn2.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Pañcālacaṇḍa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Tāyana",
+      "uid": "sn2.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kāmada",
+      "uid": "sn2.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.7:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.7:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The Sun"
+        },
+        {
+          "scid": "sn2.7:0.3",
+          "pli": "7. Pañcālacaṇḍasutta",
+          "en": "7. With Pañcālacaṇḍa"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.7:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn2.7:1.2",
+          "pli": "Ekamantaṃ ṭhito kho pañcālacaṇḍo devaputto bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, the god Pañcālacaṇḍa recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn2.7:2.1",
+          "pli": "“Sambādhe vata okāsaṃ,",
+          "en": "“The opening amid confinement"
+        },
+        {
+          "scid": "sn2.7:2.2",
+          "pli": "Avindi bhūrimedhaso;",
+          "en": "was discovered by the Buddha of vast intelligence,"
+        },
+        {
+          "scid": "sn2.7:2.3",
+          "pli": "Yo jhānamabujjhi buddho,",
+          "en": "who woke up to absorption,"
+        },
+        {
+          "scid": "sn2.7:2.4",
+          "pli": "Paṭilīnanisabho munī”ti.",
+          "en": "the sage, the solitary bull.”"
+        },
+        {
+          "scid": "sn2.7:3.1",
+          "pli": "“Sambādhe vāpi vindanti, (pañcālacaṇḍāti bhagavā)",
+          "en": "“Even amid confinement they discover,” said the Buddha to Pañcālacaṇḍa,"
+        },
+        {
+          "scid": "sn2.7:3.2",
+          "pli": "Dhammaṃ nibbānapattiyā;",
+          "en": "“the principle for attaining extinguishment."
+        },
+        {
+          "scid": "sn2.7:3.3",
+          "pli": "Ye satiṃ paccalatthaṃsu,",
+          "en": "Those who have acquired mindfulness"
+        },
+        {
+          "scid": "sn2.7:3.4",
+          "pli": "Sammā te susamāhitā”ti.",
+          "en": "are perfectly serene in samādhi.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.7//SN 88",
+    "volpages": "SN i 48//SN i 110",
+    "uid": "sn2.7",
+    "blurb": "Pañcālacaṇḍa praises the Buddha for finding the opening amid the confinement of the world. But the Buddha affirms that anyone with mindfulness and stillness may find such an escape.",
+    "difficulty": null,
+    "original_title": "Pañcālacaṇḍa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Pañcālacaṇḍa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.7_sujato",
+        "segmented": true,
+        "title": "With Pañcālacaṇḍa"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 7
+  }
+}

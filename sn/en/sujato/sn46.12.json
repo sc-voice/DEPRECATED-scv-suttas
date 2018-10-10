@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn46.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Simile of the Sun (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Simile of the Sun (2nd)",
+      "uid": "sn46.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Living Creatures",
+      "uid": "sn46.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.12:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.12:0.2",
+          "pli": "2. Gilānavagga",
+          "en": "2. Sick"
+        },
+        {
+          "scid": "sn46.12:0.3",
+          "pli": "12. Paṭhamasūriyūpamasutta",
+          "en": "12. The Simile of the Sun (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.12:1.1",
+          "pli": "“Sūriyassa, bhikkhave, udayato etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ—aruṇuggaṃ;",
+          "en": "“Mendicants, the dawn is the forerunner and precursor of the sunrise."
+        },
+        {
+          "scid": "sn46.12:1.2",
+          "pli": "evameva kho, bhikkhave, bhikkhuno sattannaṃ bojjhaṅgānaṃ uppādāya etaṃ pubbaṅgamaṃ etaṃ nimittaṃ, yadidaṃ—kalyāṇamittatā.",
+          "en": "In the same way, for a mendicant good friendship is the forerunner and precursor of the arising of the seven awakening factors."
+        },
+        {
+          "scid": "sn46.12:1.3",
+          "pli": "Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ—satta bojjhaṅge bhāvessati, satta bojjhaṅge bahulīkarissati.",
+          "en": "A mendicant with good friends can expect to develop and cultivate the seven awakening factors."
+        },
+        {
+          "scid": "sn46.12:2.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu kalyāṇamitto satta bojjhaṅge bhāveti satta bojjhaṅge bahulīkaroti?",
+          "en": "And how does a mendicant with good friends develop and cultivate the seven awakening factors?"
+        },
+        {
+          "scid": "sn46.12:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ … pe … upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.",
+          "en": "It’s when a mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go."
+        },
+        {
+          "scid": "sn46.12:2.3",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu kalyāṇamitto satta bojjhaṅge bhāveti, satta bojjhaṅge bahulīkarotī”ti.",
+          "en": "That’s how a mendicant with good friends develops and cultivates the seven awakening factors.”"
+        },
+        {
+          "scid": "sn46.12:2.4",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.12",
+    "volpages": "SN v 78",
+    "uid": "sn46.12",
+    "blurb": "Just as the dawn precedes the sun, good friendship precedes the awakening factors.",
+    "difficulty": null,
+    "original_title": "Paṭhamasūriyūpama Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Simile of the Sun (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.12_sujato",
+        "segmented": true,
+        "title": "The Simile of the Sun (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn46.12_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Simile of the Sun (1)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

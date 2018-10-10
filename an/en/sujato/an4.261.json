@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.261",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.261",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Powers",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wilderness",
+      "uid": "an4.262"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Thoroughbred (2nd)",
+      "uid": "an4.260"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.261:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.261:0.2",
+          "pli": "26. Abhiññāvagga",
+          "en": "26. Insight"
+        },
+        {
+          "scid": "an4.261:0.3",
+          "pli": "261. Balasutta",
+          "en": "261. Powers"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.261:1.1",
+          "pli": "“Cattārimāni, bhikkhave, balāni.",
+          "en": "“Mendicants, there are these four powers."
+        },
+        {
+          "scid": "an4.261:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.261:1.3",
+          "pli": "Vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ—",
+          "en": "The powers of energy, mindfulness, immersion, and wisdom."
+        },
+        {
+          "scid": "an4.261:1.4",
+          "pli": "imāni kho, bhikkhave, cattāri balānī”ti.",
+          "en": "These are the four powers.”"
+        },
+        {
+          "scid": "an4.261:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.261/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.261//AN 4.258",
+    "volpages": "AN ii 252",
+    "uid": "an4.261",
+    "blurb": "Four spiritual powers.",
+    "difficulty": null,
+    "original_title": "Bala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Powers",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.261_sujato",
+        "segmented": true,
+        "title": "Powers"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

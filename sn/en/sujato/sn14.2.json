@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn14.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn14.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Diversity of Contacts",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Not Diversity of Contacts",
+      "uid": "sn14.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Diversity of Elements",
+      "uid": "sn14.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn14.2:0.1",
+          "pli": "Saṃyutta Nikāya 14",
+          "en": "Linked Discourses 14"
+        },
+        {
+          "scid": "sn14.2:0.2",
+          "pli": "1. Nānattavagga",
+          "en": "1. Diversity"
+        },
+        {
+          "scid": "sn14.2:0.3",
+          "pli": "2. Phassanānattasutta",
+          "en": "2. Diversity of Contacts"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 14…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn14.2:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn14.2:1.2",
+          "pli": "“Dhātunānattaṃ, bhikkhave, paṭicca uppajjati phassanānattaṃ.",
+          "en": "“Mendicants, diversity of elements gives rise to diversity of contacts."
+        },
+        {
+          "scid": "sn14.2:1.3",
+          "pli": "Katamañca, bhikkhave, dhātunānattaṃ?",
+          "en": "And what is the diversity of elements?"
+        },
+        {
+          "scid": "sn14.2:1.4",
+          "pli": "Cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu manodhātu—",
+          "en": "The eye element, ear element, nose element, tongue element, body element, and mind element."
+        },
+        {
+          "scid": "sn14.2:1.5",
+          "pli": "idaṃ vuccati, bhikkhave, dhātunānattaṃ.",
+          "en": "This is called the diversity of elements."
+        },
+        {
+          "scid": "sn14.2:2.1",
+          "pli": "Kathañca, bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattaṃ?",
+          "en": "And how does diversity of elements give rise to diversity of contacts?"
+        },
+        {
+          "scid": "sn14.2:2.2",
+          "pli": "Cakkhudhātuṃ, bhikkhave, paṭicca uppajjati cakkhusamphasso.",
+          "en": "The eye element gives rise to eye contact."
+        },
+        {
+          "scid": "sn14.2:2.3",
+          "pli": "Sotadhātuṃ paṭicca …",
+          "en": "The ear element …"
+        },
+        {
+          "scid": "sn14.2:2.4",
+          "pli": "ghānadhātuṃ paṭicca …",
+          "en": "nose …"
+        },
+        {
+          "scid": "sn14.2:2.5",
+          "pli": "jivhādhātuṃ paṭicca …",
+          "en": "tongue …"
+        },
+        {
+          "scid": "sn14.2:2.6",
+          "pli": "kāyadhātuṃ paṭicca …",
+          "en": "body …"
+        },
+        {
+          "scid": "sn14.2:2.7",
+          "pli": "manodhātuṃ paṭicca uppajjati manosamphasso.",
+          "en": "The mind element gives rise to mind contact."
+        },
+        {
+          "scid": "sn14.2:2.8",
+          "pli": "Evaṃ kho, bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattan”ti.",
+          "en": "That’s how diversity of elements gives rise to diversity of contacts.”"
+        },
+        {
+          "scid": "sn14.2:2.9",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn14.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 14.2",
+    "volpages": "SN ii 140",
+    "uid": "sn14.2",
+    "blurb": "The diverse internal elements of sense experience give rise to diverse contacts.",
+    "difficulty": null,
+    "original_title": "Phassanānatta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Diversity of Contacts",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn14.2_sujato",
+        "segmented": true,
+        "title": "Diversity of Contacts"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 2
+  }
+}

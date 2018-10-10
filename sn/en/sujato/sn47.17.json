@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn47.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Noble",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Brahmā",
+      "uid": "sn47.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Uttiya",
+      "uid": "sn47.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.17:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.17:0.2",
+          "pli": "2. Nālandavagga",
+          "en": "2. At Nālandā"
+        },
+        {
+          "scid": "sn47.17:0.3",
+          "pli": "17. Ariyasutta",
+          "en": "17. Noble"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.17:1.1",
+          "pli": "“Cattārome, bhikkhave, satipaṭṭhānā bhāvitā bahulīkatā ariyā niyyānikā niyyanti takkarassa sammā dukkhakkhayāya.",
+          "en": "“Mendicants, when these four kinds of mindfulness meditation are developed and cultivated they are noble and emancipating, and bring one who practices them to the complete ending of suffering."
+        },
+        {
+          "scid": "sn47.17:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn47.17:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.17:1.4",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn47.17:1.5",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn47.17:1.6",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.17:1.7",
+          "pli": "Ime kho, bhikkhave, cattāro satipaṭṭhānā bhāvitā bahulīkatā ariyā niyyānikā niyyanti takkarassa sammā dukkhakkhayāyā”ti.",
+          "en": "When these four kinds of mindfulness meditation are developed and cultivated they are noble and emancipating, and bring one who practices them to the complete ending of suffering.”"
+        },
+        {
+          "scid": "sn47.17:1.8",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 47.17",
+    "volpages": "SN v 166",
+    "uid": "sn47.17",
+    "blurb": "The four kinds of mindfulness meditation lead to the end of suffering.",
+    "difficulty": null,
+    "original_title": "Ariya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Noble",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.17_sujato",
+        "segmented": true,
+        "title": "Noble"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.17_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Noble"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

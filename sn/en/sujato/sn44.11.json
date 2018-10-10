@@ -1,0 +1,350 @@
+{
+  "sutta_uid": "sn44.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn44.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Sabhiya Kaccāna",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ignorance",
+      "uid": "sn45.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ānanda",
+      "uid": "sn44.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn44.11:0.1",
+          "pli": "Saṃyutta Nikāya 44",
+          "en": "Linked Discourses 44"
+        },
+        {
+          "scid": "sn44.11:0.2",
+          "pli": "1. Abyākatavagga",
+          "en": "1. The Undeclared Points"
+        },
+        {
+          "scid": "sn44.11:0.3",
+          "pli": "11. Sabhiyakaccānasutta",
+          "en": "11. With Sabhiya Kaccāna"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 44…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn44.11:1.1",
+          "pli": "Ekaṃ samayaṃ āyasmā sabhiyo kaccāno ñātike viharati giñjakāvasathe.",
+          "en": "At one time Venerable Sabhiya Kaccāna was staying at Nādika in the brick house."
+        },
+        {
+          "scid": "sn44.11:1.2",
+          "pli": "Atha kho vacchagotto paribbājako yenāyasmā sabhiyo kaccāno tenupasaṅkami; upasaṅkamitvā āyasmatā sabhiyena kaccānena saddhiṃ sammodi.",
+          "en": "Then the wanderer Vacchagotta went up to him, and exchanged greetings with him."
+        },
+        {
+          "scid": "sn44.11:1.3",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vacchagotto paribbājako āyasmantaṃ sabhiyaṃ kaccānaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side, and said to Sabhiya Kaccāna:"
+        },
+        {
+          "scid": "sn44.11:1.4",
+          "pli": "“kiṃ nu kho bho, kaccāna, hoti tathāgato paraṃ maraṇā”ti?",
+          "en": "“Master Kaccāna, does a Realized One exist after death?”"
+        },
+        {
+          "scid": "sn44.11:1.5",
+          "pli": "“Abyākataṃ kho etaṃ, vaccha, bhagavatā:",
+          "en": "“Vaccha, this has not been declared by the Buddha.”"
+        },
+        {
+          "scid": "sn44.11:1.6",
+          "pli": "‘hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:1.7",
+          "pli": "“Kiṃ pana, bho kaccāna, na hoti tathāgato paraṃ maraṇā”ti?",
+          "en": "“Well then, does a Realized One not exist after death?”"
+        },
+        {
+          "scid": "sn44.11:1.8",
+          "pli": "“Etampi kho, vaccha, abyākataṃ bhagavatā:",
+          "en": "“This too has not been declared by the Buddha.”"
+        },
+        {
+          "scid": "sn44.11:1.9",
+          "pli": "‘na hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:2.1",
+          "pli": "“Kiṃ nu kho, bho kaccāna, hoti ca na ca hoti tathāgato paraṃ maraṇā”ti?",
+          "en": "“Well then, does a Realized One both exist and not exist after death?”"
+        },
+        {
+          "scid": "sn44.11:2.2",
+          "pli": "“Abyākataṃ kho etaṃ, vaccha, bhagavatā:",
+          "en": "“This has not been declared by the Buddha.”"
+        },
+        {
+          "scid": "sn44.11:2.3",
+          "pli": "‘hoti ca na ca hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:2.4",
+          "pli": "“Kiṃ pana, bho kaccāna, neva hoti na na hoti tathāgato paraṃ maraṇā”ti?",
+          "en": "“Well then, does a Realized One neither exist nor not exist after death?”"
+        },
+        {
+          "scid": "sn44.11:2.5",
+          "pli": "“Etampi kho, vaccha, abyākataṃ bhagavatā:",
+          "en": "“This too has not been declared by the Buddha.”"
+        },
+        {
+          "scid": "sn44.11:2.6",
+          "pli": "‘neva hoti na na hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.1",
+          "pli": "“‘Kiṃ nu kho, bho kaccāna, hoti tathāgato paraṃ maraṇā’ti, iti puṭṭho samāno:",
+          "en": "“Master Kaccāna, when asked these questions, you say that this has not been declared by the Buddha."
+        },
+        {
+          "scid": "sn44.11:3.2",
+          "pli": "‘abyākataṃ kho etaṃ, vaccha, bhagavatā—",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.3",
+          "pli": "hoti tathāgato paraṃ maraṇā’ti vadesi.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.4",
+          "pli": "‘Kiṃ pana, bho kaccāna, na hoti tathāgato paraṃ maraṇā’ti, iti puṭṭho samāno:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.5",
+          "pli": "‘abyākataṃ kho etaṃ, vaccha, bhagavatā—",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.6",
+          "pli": "na hoti tathāgato paraṃ maraṇā’ti vadesi.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.7",
+          "pli": "‘Kiṃ nu kho, bho kaccāna, hoti ca na ca hoti tathāgato paraṃ maraṇā’ti, iti puṭṭho samāno:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.8",
+          "pli": "‘abyākataṃ kho etaṃ, vaccha, bhagavatā—",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.9",
+          "pli": "hoti ca na ca hoti tathāgato paraṃ maraṇā’ti vadesi.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.10",
+          "pli": "‘Kiṃ pana, bho kaccāna, neva hoti na na hoti tathāgato paraṃ maraṇā’ti, iti puṭṭho samāno:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.11",
+          "pli": "‘etampi kho, vaccha, abyākataṃ bhagavatā—",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.12",
+          "pli": "neva hoti na na hoti tathāgato paraṃ maraṇā’ti vadesi.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.13",
+          "pli": "Ko nu kho, bho kaccāna, hetu, ko paccayo, yenetaṃ abyākataṃ samaṇena gotamenā”ti?",
+          "en": "What’s the cause, what’s the reason why this has not been declared by the Buddha?”"
+        },
+        {
+          "scid": "sn44.11:3.14",
+          "pli": "“Yo ca, vaccha, hetu, yo ca paccayo paññāpanāya rūpīti vā arūpīti vā saññīti vā asaññīti vā nevasaññīnāsaññīti vā, so ca hetu, so ca paccayo sabbena sabbaṃ sabbathā sabbaṃ aparisesaṃ nirujjheyya.",
+          "en": "“In order to describe him as ‘possessing form’ or ‘formless’ or ‘percipient’ or ‘non-percipient’ or ‘neither percipient nor non-percipient’, there must be some cause or reason for doing so. But if that cause and reason were to totally and utterly cease without anything left over,"
+        },
+        {
+          "scid": "sn44.11:3.15",
+          "pli": "Kena naṃ paññāpayamāno paññāpeyya rūpīti vā arūpīti vā saññīti vā asaññīti vā nevasaññīnāsaññīti vā”ti.",
+          "en": "how could you describe him in any such terms?”"
+        },
+        {
+          "scid": "sn44.11:3.16",
+          "pli": "“Kīvaciraṃ pabbajitosi, bho kaccānā”ti?",
+          "en": "“Master Kaccāna, how long has it been since you went forth?”"
+        },
+        {
+          "scid": "sn44.11:3.17",
+          "pli": "“Naciraṃ, āvuso, tīṇi vassānī”ti.",
+          "en": "“Not long, reverend: three years.”"
+        },
+        {
+          "scid": "sn44.11:3.18",
+          "pli": "“Yassapassa, āvuso, etamettakena ettakameva tampassa bahu, ko pana vādo evaṃ abhikkante”ti.",
+          "en": "“Well, you’ve learned a lot already; and who can say what lies ahead!”"
+        },
+        {
+          "scid": "sn44.11:3.19",
+          "pli": "Ekādasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:3.20",
+          "pli": "Abyākatavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:4.1",
+          "pli": "Khemātherī anurādho,",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:4.2",
+          "pli": "sāriputtoti koṭṭhiko;",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:4.3",
+          "pli": "Moggallāno ca vaccho ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:4.4",
+          "pli": "kutūhalasālānando;",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:4.5",
+          "pli": "Sabhiyo ekādasamanti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:4.6",
+          "pli": "Abyākatasaṃyuttaṃ samattaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:5.1",
+          "pli": "Saḷāyatanavedanā,",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:5.2",
+          "pli": "mātugāmo jambukhādako;",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:5.3",
+          "pli": "Sāmaṇḍako moggallāno,",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:5.4",
+          "pli": "citto gāmaṇi saṅkhataṃ;",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:5.5",
+          "pli": "Abyākatanti dasadhāti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:5.6",
+          "pli": "Saḷāyatanavaggo catuttho.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.11:5.7",
+          "pli": "Saḷāyatanavaggasaṃyuttapāḷi niṭṭhitā.",
+          "en": "The Book of the Aggregates is finished."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time Venerable Sabhiya Kaccāna was…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn44.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 44.11",
+    "volpages": "SN iv 401",
+    "uid": "sn44.11",
+    "blurb": "The wanderer Vacchagotta asks Venerable Sabhiya Kaccāna whether a Realized One exists after death. He answers that the basis for describing a Realized One no longer applies. Vacchagotta is impressed that such a junior monk understands this subtle matter.",
+    "difficulty": null,
+    "original_title": "Sabhiyakaccāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Sabhiya Kaccāna",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn44.11_sujato",
+        "segmented": true,
+        "title": "With Sabhiya Kaccāna"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn44.11_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Sabhiya Kaccana"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 11
+  }
+}

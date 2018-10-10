@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn19.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn19.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Over His Head",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Dung Eater",
+      "uid": "sn19.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pot Balls",
+      "uid": "sn19.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn19.11:0.1",
+          "pli": "Saṃyutta Nikāya 19",
+          "en": "Linked Discourses 19"
+        },
+        {
+          "scid": "sn19.11:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn19.11:0.3",
+          "pli": "11. Sasīsakasutta",
+          "en": "11. Over His Head"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 19…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn19.11:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn19.11:1.2",
+          "pli": "ekaṃ samayaṃ rājagahe veḷuvane.",
+          "en": "At one time near Rājagaha in the Bamboo Grove ..."
+        },
+        {
+          "scid": "sn19.11:1.3",
+          "pli": "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ purisaṃ gūthakūpe sasīsakaṃ nimuggaṃ … pe …",
+          "en": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a man sunk over his head in a sewer. …” …"
+        },
+        {
+          "scid": "sn19.11:1.4",
+          "pli": "eso, bhikkhave, satto imasmiṃyeva rājagahe pāradāriko ahosi … pe ….",
+          "en": "“That being used to be an adulterer right here in Rājagaha. …”"
+        },
+        {
+          "scid": "sn19.11:1.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn19.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 19.11",
+    "volpages": "SN ii 259",
+    "uid": "sn19.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sasīsaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Over His Head",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn19.11_sujato",
+        "segmented": true,
+        "title": "Over His Head"
+      }
+    ],
+    "parallel_count": 24,
+    "biblio": null,
+    "num": 1
+  }
+}

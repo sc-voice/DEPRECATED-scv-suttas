@@ -1,0 +1,260 @@
+{
+  "sutta_uid": "sn12.61",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.61",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Uneducated",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uneducated (2nd)",
+      "uid": "sn12.62"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sources",
+      "uid": "sn12.60"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.61:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.61:0.2",
+          "pli": "7. Mahāvagga",
+          "en": "7. The Great Chapter"
+        },
+        {
+          "scid": "sn12.61:0.3",
+          "pli": "61. Assutavāsutta",
+          "en": "61. Uneducated"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.61:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn12.61:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme …",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. …"
+        },
+        {
+          "scid": "sn12.61:1.3",
+          "pli": "“assutavā, bhikkhave, puthujjano imasmiṃ cātumahābhūtikasmiṃ kāyasmiṃ nibbindeyyapi virajjeyyapi vimucceyyapi.",
+          "en": "“Mendicants, when it comes to this body made up of the four primary elements, an uneducated ordinary person might become disillusioned, dispassionate, and freed."
+        },
+        {
+          "scid": "sn12.61:1.4",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "sn12.61:1.5",
+          "pli": "Dissati, bhikkhave, imassa cātumahābhūtikassa kāyassa ācayopi apacayopi ādānampi nikkhepanampi.",
+          "en": "This body made up of the four primary elements is seen to accumulate and disperse, to be taken up and laid to rest."
+        },
+        {
+          "scid": "sn12.61:1.6",
+          "pli": "Tasmā tatrāssutavā puthujjano nibbindeyyapi virajjeyyapi vimucceyyapi.",
+          "en": "That’s why, when it comes to this body, an uneducated ordinary person might become disillusioned, dispassionate, and freed."
+        },
+        {
+          "scid": "sn12.61:2.1",
+          "pli": "Yañca kho etaṃ, bhikkhave, vuccati cittaṃ itipi, mano itipi, viññāṇaṃ itipi, tatrāssutavā puthujjano nālaṃ nibbindituṃ nālaṃ virajjituṃ nālaṃ vimuccituṃ.",
+          "en": "But when it comes to that which is called ‘mind’ or ‘sentience’ or ‘consciousness’, an uneducated ordinary person is unable to become disillusioned, dispassionate, or freed."
+        },
+        {
+          "scid": "sn12.61:2.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "sn12.61:2.3",
+          "pli": "Dīgharattañhetaṃ, bhikkhave, assutavato puthujjanassa ajjhositaṃ mamāyitaṃ parāmaṭṭhaṃ:",
+          "en": "Because for a long time they’ve been attached to it, thought of it as their own, and mistaken it:"
+        },
+        {
+          "scid": "sn12.61:2.4",
+          "pli": "‘etaṃ mama, esohamasmi, eso me attā’ti.",
+          "en": "‘This is mine, I am this, this is my self.’"
+        },
+        {
+          "scid": "sn12.61:2.5",
+          "pli": "Tasmā tatrāssutavā puthujjano nālaṃ nibbindituṃ nālaṃ virajjituṃ nālaṃ vimuccituṃ.",
+          "en": "That’s why, when it comes to this mind, an uneducated ordinary person is unable to become disillusioned, dispassionate, and freed."
+        },
+        {
+          "scid": "sn12.61:3.1",
+          "pli": "Varaṃ, bhikkhave, assutavā puthujjano imaṃ cātumahābhūtikaṃ kāyaṃ attato upagaccheyya, na tveva cittaṃ.",
+          "en": "But an uneducated ordinary person would be better off taking this body made up of the four primary elements to be their self, rather than the mind."
+        },
+        {
+          "scid": "sn12.61:3.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "sn12.61:3.3",
+          "pli": "Dissatāyaṃ, bhikkhave, cātumahābhūtiko kāyo ekampi vassaṃ tiṭṭhamāno dvepi vassāni tiṭṭhamāno tīṇipi vassāni tiṭṭhamāno cattāripi vassāni tiṭṭhamāno pañcapi vassāni tiṭṭhamāno dasapi vassāni tiṭṭhamāno vīsatipi vassāni tiṭṭhamāno tiṃsampi vassāni tiṭṭhamāno cattārīsampi vassāni tiṭṭhamāno paññāsampi vassāni tiṭṭhamāno vassasatampi tiṭṭhamāno, bhiyyopi tiṭṭhamāno.",
+          "en": "This body made up of the four primary elements is seen to last for a year, or for two, three, four, five, ten, twenty, thirty, forty, fifty, or a hundred years, or even longer."
+        },
+        {
+          "scid": "sn12.61:4.1",
+          "pli": "Yañca kho etaṃ, bhikkhave, vuccati cittaṃ itipi, mano itipi, viññāṇaṃ itipi, taṃ rattiyā ca divasassa ca aññadeva uppajjati aññaṃ nirujjhati.",
+          "en": "But that which is called ‘mind’ or ‘sentience’ or ‘consciousness’ arises as one thing and ceases as another all day and all night."
+        },
+        {
+          "scid": "sn12.61:4.2",
+          "pli": "Seyyathāpi, bhikkhave, makkaṭo araññe pavane caramāno sākhaṃ gaṇhati, taṃ muñcitvā aññaṃ gaṇhati, taṃ muñcitvā aññaṃ gaṇhati;",
+          "en": "It’s like a monkey moving through the forest. It grabs hold of one branch, lets it go, and grabs another; then it lets that go and grabs yet another."
+        },
+        {
+          "scid": "sn12.61:4.3",
+          "pli": "evameva kho, bhikkhave, yamidaṃ vuccati cittaṃ itipi, mano itipi, viññāṇaṃ itipi, taṃ rattiyā ca divasassa ca aññadeva uppajjati aññaṃ nirujjhati.",
+          "en": "In the same way, that which is called ‘mind’ or ‘sentience’ or ‘consciousness’ arises as one thing and ceases as another all day and all night."
+        },
+        {
+          "scid": "sn12.61:5.1",
+          "pli": "Tatra, bhikkhave, sutavā ariyasāvako paṭiccasamuppādaṃyeva sādhukaṃ yoniso manasi karoti:",
+          "en": "In this case, a learned noble disciple carefully and properly attends to dependent origination itself:"
+        },
+        {
+          "scid": "sn12.61:5.2",
+          "pli": "‘iti imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati;",
+          "en": "‘When this exists, that is; due to the arising of this, that arises."
+        },
+        {
+          "scid": "sn12.61:5.3",
+          "pli": "imasmiṃ asati idaṃ na hoti, imassa nirodhā idaṃ nirujjhati—",
+          "en": "When this doesn’t exist, that is not; due to the cessation of this, that ceases. That is:"
+        },
+        {
+          "scid": "sn12.61:5.4",
+          "pli": "yadidaṃ avijjāpaccayā saṅkhārā;",
+          "en": "Ignorance is a condition for choices."
+        },
+        {
+          "scid": "sn12.61:5.5",
+          "pli": "saṅkhārapaccayā viññāṇaṃ … pe …",
+          "en": "Choices are a condition for consciousness. …"
+        },
+        {
+          "scid": "sn12.61:5.6",
+          "pli": "evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "sn12.61:5.7",
+          "pli": "Avijjāya tveva asesavirāganirodhā saṅkhāranirodho;",
+          "en": "When ignorance fades away and ceases with nothing left over, choices cease."
+        },
+        {
+          "scid": "sn12.61:5.8",
+          "pli": "saṅkhāranirodhā viññāṇanirodho … pe …",
+          "en": "When choices cease, consciousness ceases. …"
+        },
+        {
+          "scid": "sn12.61:5.9",
+          "pli": "evametassa kevalassa dukkhakkhandhassa nirodho hotī’ti.",
+          "en": "That is how this entire mass of suffering ceases.’"
+        },
+        {
+          "scid": "sn12.61:6.1",
+          "pli": "Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati;",
+          "en": "Seeing this, a learned noble disciple becomes disillusioned with form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "sn12.61:6.2",
+          "pli": "nibbindaṃ virajjati, virāgā vimuccati, vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.",
+          "en": "Being disillusioned they become dispassionate. Being dispassionate they’re freed. When freed, they know ‘it is freed’."
+        },
+        {
+          "scid": "sn12.61:6.3",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’”"
+        },
+        {
+          "scid": "sn12.61:6.4",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.61/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.61",
+    "volpages": "SN ii 94",
+    "uid": "sn12.61",
+    "blurb": "An ignorant person might become free of attachment to their body, but not their mind. Still, it would be better to attach to the body, as it is less changeable than the mind, which jumps about like a monkey.",
+    "difficulty": null,
+    "original_title": "Assutavā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uneducated",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.61_sujato",
+        "segmented": true,
+        "title": "Uneducated"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn12.61_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Uninstructed (1)"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 1
+  }
+}

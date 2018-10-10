@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "an5.165",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.165",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Asking Questions",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cessation",
+      "uid": "an5.166"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sharing a Way of Life",
+      "uid": "an5.164"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.165:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.165:0.2",
+          "pli": "17. Āghātavagga",
+          "en": "17. Resentment"
+        },
+        {
+          "scid": "an5.165:0.3",
+          "pli": "165. Pañhapucchāsutta",
+          "en": "165. Asking Questions"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.165:1.1",
+          "pli": "Tatra kho āyasmā sāriputto bhikkhū āmantesi … pe … “yo hi koci, āvuso, paraṃ pañhaṃ pucchati, sabbo so pañcahi ṭhānehi, etesaṃ vā aññatarena.",
+          "en": "There Venerable Sāriputta addressed the mendicants: … “Whoever asks a question of another, does so for one or other of these five reasons."
+        },
+        {
+          "scid": "an5.165:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.165:1.3",
+          "pli": "Mandattā momūhattā paraṃ pañhaṃ pucchati, pāpiccho icchāpakato paraṃ pañhaṃ pucchati, paribhavaṃ paraṃ pañhaṃ pucchati, aññātukāmo paraṃ pañhaṃ pucchati, atha vā panevaṃcitto paraṃ pañhaṃ pucchati:",
+          "en": "Someone asks a question of another from stupidity and folly. Or they ask from wicked desires, being naturally full of desires. Or they ask in order to disparage. Or they ask wanting to understand. Or they ask with the thought,"
+        },
+        {
+          "scid": "an5.165:1.4",
+          "pli": "‘sace me pañhaṃ puṭṭho sammadeva byākarissati iccetaṃ kusalaṃ, no ce me pañhaṃ puṭṭho sammadeva byākarissati ahamassa sammadeva byākarissāmī’ti.",
+          "en": "‘If they correctly answer the question I ask it’s good. If not, I’ll correctly answer it for them.’"
+        },
+        {
+          "scid": "an5.165:1.5",
+          "pli": "Yo hi koci, āvuso, paraṃ pañhaṃ pucchati, sabbo so imehi pañcahi ṭhānehi, etesaṃ vā aññatarena.",
+          "en": "Whoever asks a question of another, does so for one or other of these five reasons."
+        },
+        {
+          "scid": "an5.165:1.6",
+          "pli": "Ahaṃ kho panāvuso, evaṃcitto paraṃ pañhaṃ pucchāmi:",
+          "en": "As for myself, I ask with the thought,"
+        },
+        {
+          "scid": "an5.165:1.7",
+          "pli": "‘sace me pañhaṃ puṭṭho sammadeva byākarissati iccetaṃ kusalaṃ, no ce me pañhaṃ puṭṭho sammadeva byākarissati, ahamassa sammadeva byākarissāmī’”ti.",
+          "en": "‘If they correctly answer the question I ask it’s good. If not, I’ll correctly answer it for them.’”"
+        },
+        {
+          "scid": "an5.165:1.8",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "There Venerable Sāriputta addressed the mendicants: ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.165/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.165",
+    "volpages": "AN iii 191",
+    "uid": "an5.165",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Pañhapucchā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Asking Questions",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.165_sujato",
+        "segmented": true,
+        "title": "Asking Questions"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an5.165_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "On Asking Questions"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

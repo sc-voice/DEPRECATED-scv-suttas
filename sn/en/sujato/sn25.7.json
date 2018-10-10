@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn25.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn25.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Intention",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Craving For Sights",
+      "uid": "sn25.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perception",
+      "uid": "sn25.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn25.7:0.1",
+          "pli": "Saṃyutta Nikāya 25",
+          "en": "Linked Discourses 25"
+        },
+        {
+          "scid": "sn25.7:0.2",
+          "pli": "1. Cakkhuvagga",
+          "en": "1. The Eye"
+        },
+        {
+          "scid": "sn25.7:0.3",
+          "pli": "7. Rūpasañcetanāsutta",
+          "en": "7. Intention"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 25…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn25.7:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn25.7:1.2",
+          "pli": "“Rūpasañcetanā, bhikkhave, aniccā vipariṇāmī aññathābhāvī;",
+          "en": "“Mendicants, intention regarding sights is impermanent, perishing, and changing."
+        },
+        {
+          "scid": "sn25.7:1.3",
+          "pli": "saddasañcetanā …",
+          "en": "Intention regarding sounds,"
+        },
+        {
+          "scid": "sn25.7:1.4",
+          "pli": "gandhasañcetanā …",
+          "en": "intention regarding smells,"
+        },
+        {
+          "scid": "sn25.7:1.5",
+          "pli": "rasasañcetanā …",
+          "en": "intention regarding tastes,"
+        },
+        {
+          "scid": "sn25.7:1.6",
+          "pli": "phoṭṭhabbasañcetanā …",
+          "en": "intention regarding touches,"
+        },
+        {
+          "scid": "sn25.7:1.7",
+          "pli": "dhammasañcetanā aniccā vipariṇāmī aññathābhāvī.",
+          "en": "and intentions regarding thoughts are impermanent, perishing, and changing."
+        },
+        {
+          "scid": "sn25.7:1.8",
+          "pli": "Yo, bhikkhave, ime dhamme evaṃ saddahati adhimuccati, ayaṃ vuccati ‘saddhānusārī … pe …",
+          "en": "Someone who has faith and confidence in these principles is called a follower by faith. …”"
+        },
+        {
+          "scid": "sn25.7:1.9",
+          "pli": "sambodhiparāyano’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn25.7:1.10",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn25.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 25.7",
+    "volpages": "SN iii 227",
+    "uid": "sn25.7",
+    "blurb": "One with faith in the teachings on the six kinds of intention is called a “follower by faith”, while someone with conceptual understanding is called a “follower of the teachings”. But someone who sees them directly is called a stream-enterer.",
+    "difficulty": null,
+    "original_title": "Rūpasañcetanā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Intention",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn25.7_sujato",
+        "segmented": true,
+        "title": "Intention"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

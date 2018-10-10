@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.224",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.224",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Stingy",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Visiting Families (1st)",
+      "uid": "an5.225"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Overstaying",
+      "uid": "an5.223"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.224:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.224:0.2",
+          "pli": "23. Dīghacārikavagga",
+          "en": "23. Long Wandering"
+        },
+        {
+          "scid": "an5.224:0.3",
+          "pli": "224. Maccharīsutta",
+          "en": "224. Stingy"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.224:1.1",
+          "pli": "“Pañcime, bhikkhave, ādīnavā atinivāse.",
+          "en": "“Mendicants, there are these five drawbacks of overstaying."
+        },
+        {
+          "scid": "an5.224:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.224:1.3",
+          "pli": "Āvāsamaccharī hoti, kulamaccharī hoti, lābhamaccharī hoti, vaṇṇamaccharī hoti, dhammamaccharī hoti.",
+          "en": "You become stingy with dwellings, families, material possessions, praise, and the teaching."
+        },
+        {
+          "scid": "an5.224:1.4",
+          "pli": "Ime kho, bhikkhave, pañca ādīnavā atinivāse.",
+          "en": "These are the five drawbacks of overstaying."
+        },
+        {
+          "scid": "an5.224:2.1",
+          "pli": "Pañcime, bhikkhave, ānisaṃsā samavatthavāse.",
+          "en": "There are these five benefits of staying for a reasonable length of time."
+        },
+        {
+          "scid": "an5.224:2.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.224:2.3",
+          "pli": "Na āvāsamaccharī hoti, na kulamaccharī hoti, na lābhamaccharī hoti, na vaṇṇamaccharī hoti, na dhammamaccharī hoti.",
+          "en": "You’re not stingy with dwellings, families, material possessions, praise, and the teaching."
+        },
+        {
+          "scid": "an5.224:2.4",
+          "pli": "Ime kho, bhikkhave, pañca ānisaṃsā samavatthavāse”ti.",
+          "en": "These are the five benefits of staying for a reasonable length of time.”"
+        },
+        {
+          "scid": "an5.224:2.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.224/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.224",
+    "volpages": "AN iii 258",
+    "uid": "an5.224",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Maccharī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Stingy",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.224_sujato",
+        "segmented": true,
+        "title": "Stingy"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

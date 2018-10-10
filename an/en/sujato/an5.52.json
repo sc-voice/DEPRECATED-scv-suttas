@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.52",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.52",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Heap of the Unskillful",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Factors That Support Meditation",
+      "uid": "an5.53"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Obstacles",
+      "uid": "an5.51"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.52:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.52:0.2",
+          "pli": "6. Nīvaraṇavagga",
+          "en": "6. Hindrances"
+        },
+        {
+          "scid": "an5.52:0.3",
+          "pli": "52. Akusalarāsisutta",
+          "en": "52. A Heap of the Unskillful"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.52:1.1",
+          "pli": "“Akusalarāsīti, bhikkhave, vadamāno pañca nīvaraṇe sammā vadamāno vadeyya.",
+          "en": "“Mendicants, rightly speaking, you’d call the five hindrances a ‘heap of the unskillful’."
+        },
+        {
+          "scid": "an5.52:1.2",
+          "pli": "Kevalo hāyaṃ, bhikkhave, akusalarāsi yadidaṃ pañca nīvaraṇā.",
+          "en": "For these five hindrances are entirely a heap of the unskillful."
+        },
+        {
+          "scid": "an5.52:1.3",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.52:1.4",
+          "pli": "Kāmacchandanīvaraṇaṃ, byāpādanīvaraṇaṃ, thinamiddhanīvaraṇaṃ, uddhaccakukkuccanīvaraṇaṃ, vicikicchānīvaraṇaṃ.",
+          "en": "The hindrances of sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt."
+        },
+        {
+          "scid": "an5.52:1.5",
+          "pli": "Akusalarāsīti, bhikkhave, vadamāno ime pañca nīvaraṇe sammā vadamāno vadeyya.",
+          "en": "Rightly speaking, you’d call these five hindrances a ‘heap of the unskillful’."
+        },
+        {
+          "scid": "an5.52:1.6",
+          "pli": "Kevalo hāyaṃ, bhikkhave, akusalarāsi yadidaṃ pañca nīvaraṇā”ti.",
+          "en": "For these five hindrances are entirely a heap of the unskillful.”"
+        },
+        {
+          "scid": "an5.52:1.7",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.52/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.52",
+    "volpages": "AN iii 65",
+    "uid": "an5.52",
+    "blurb": "The five hindrances are entirely unwholesome.",
+    "difficulty": null,
+    "original_title": "Akusalarāsi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Heap of the Unskillful",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.52_sujato",
+        "segmented": true,
+        "title": "A Heap of the Unskillful"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an5.52_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Heap"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 2
+  }
+}

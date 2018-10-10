@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.22",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.22",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Impact",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Matted Hair",
+      "uid": "sn1.23"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Sword",
+      "uid": "sn1.21"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.22:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.22:0.2",
+          "pli": "3. Sattivagga",
+          "en": "3. A Sword"
+        },
+        {
+          "scid": "sn1.22:0.3",
+          "pli": "22. Phusatisutta",
+          "en": "22. Impact"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.22:1.1",
+          "pli": "“Nāphusantaṃ phusati ca,",
+          "en": "“It doesn’t impact a person who doesn’t impact others."
+        },
+        {
+          "scid": "sn1.22:1.2",
+          "pli": "phusantañca tato phuse;",
+          "en": "It impacts a person because they impact others."
+        },
+        {
+          "scid": "sn1.22:1.3",
+          "pli": "Tasmā phusantaṃ phusati,",
+          "en": "That’s why it impacts someone who impacts:"
+        },
+        {
+          "scid": "sn1.22:1.4",
+          "pli": "appaduṭṭhapadosinan”ti.",
+          "en": "the one who wrongs one who’s done no wrong.”"
+        },
+        {
+          "scid": "sn1.22:2.1",
+          "pli": "“Yo appaduṭṭhassa narassa dussati,",
+          "en": "“Whoever wrongs a man who’s done no wrong,"
+        },
+        {
+          "scid": "sn1.22:2.2",
+          "pli": "Suddhassa posassa anaṅgaṇassa;",
+          "en": "a pure man with a spotless record,"
+        },
+        {
+          "scid": "sn1.22:2.3",
+          "pli": "Tameva bālaṃ pacceti pāpaṃ,",
+          "en": "the evil backfires on the fool,"
+        },
+        {
+          "scid": "sn1.22:2.4",
+          "pli": "Sukhumo rajo paṭivātaṃva khitto”ti.",
+          "en": "like fine dust thrown upwind.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“It doesn’t impact a person who doesn’t…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.22/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.22//SN 22",
+    "volpages": "SN i 13//SN i 27",
+    "uid": "sn1.22",
+    "blurb": "The evil you do hurts yourself.",
+    "difficulty": null,
+    "original_title": "Phusati Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Impact",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.22_sujato",
+        "segmented": true,
+        "title": "Impact"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.22_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "It Touches"
+      }
+    ],
+    "parallel_count": 11,
+    "biblio": null,
+    "num": 2
+  }
+}

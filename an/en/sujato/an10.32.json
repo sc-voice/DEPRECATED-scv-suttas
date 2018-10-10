@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an10.32",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.32",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Suspending the Recitation of the Monastic Code",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Judge",
+      "uid": "an10.33"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Upāli",
+      "uid": "an10.31"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.32:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.32:0.2",
+          "pli": "4. Upālivagga",
+          "en": "4. With Upāli"
+        },
+        {
+          "scid": "an10.32:0.3",
+          "pli": "32. Pātimokkhaṭṭhapanāsutta",
+          "en": "32. Suspending the Recitation of the Monastic Code"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.32:1.1",
+          "pli": "“Kati nu kho, bhante, pātimokkhaṭṭhapanā”ti?",
+          "en": "“Sir, how many grounds are there to suspend the recitation of the monastic code?”"
+        },
+        {
+          "scid": "an10.32:1.2",
+          "pli": "“Dasa kho, upāli, pātimokkhaṭṭhapanā.",
+          "en": "“Upāli, there are ten grounds to suspend the recitation of the monastic code."
+        },
+        {
+          "scid": "an10.32:1.3",
+          "pli": "Katame dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.32:1.4",
+          "pli": "Pārājiko tassaṃ parisāyaṃ nisinno hoti, pārājikakathā vippakatā hoti, anupasampanno tassaṃ parisāyaṃ nisinno hoti, anupasampannakathā vippakatā hoti, sikkhaṃ paccakkhātako tassaṃ parisāyaṃ nisinno hoti, sikkhaṃ paccakkhātakakathā vippakatā hoti, paṇḍako tassaṃ parisāyaṃ nisinno hoti, paṇḍakakathā vippakatā hoti, bhikkhunidūsako tassaṃ parisāyaṃ nisinno hoti, bhikkhunidūsakakathā vippakatā hoti—",
+          "en": "A mendicant who has committed an expulsion offense is sitting in the assembly. A discussion about whether someone has committed an expulsion offense is unfinished. A person who is not fully ordained is sitting in the assembly. A discussion about whether someone is fully ordained or not is unfinished. Someone who has rejected the training is sitting in the assembly. A discussion about whether someone has rejected the training or not is unfinished. A eunuch is sitting in the assembly. A discussion about whether someone is a eunuch is unfinished. A raper of nuns is sitting in the assembly. A discussion about whether or not someone is a raper of nuns is unfinished."
+        },
+        {
+          "scid": "an10.32:1.5",
+          "pli": "ime kho, upāli, dasa pātimokkhaṭṭhapanā”ti.",
+          "en": "These are the ten grounds to suspend the recitation of the monastic code.”"
+        },
+        {
+          "scid": "an10.32:1.6",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Sir…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.32/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.32",
+    "volpages": "AN v 70",
+    "uid": "an10.32",
+    "blurb": "Ten reasons for suspending the recitation of the code of conduct.",
+    "difficulty": null,
+    "original_title": "Pātimokkhaṭṭhapanā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Suspending the Recitation of the Monastic Code",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.32_sujato",
+        "segmented": true,
+        "title": "Suspending the Recitation of the Monastic Code"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an10.32_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Suspending"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "sutta_uid": "an4.16",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.16",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Subtlety",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Prejudice (1st)",
+      "uid": "an4.17"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Regarded as Foremost",
+      "uid": "an4.15"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.16:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.16:0.2",
+          "pli": "2. Caravagga",
+          "en": "2. Walking"
+        },
+        {
+          "scid": "an4.16:0.3",
+          "pli": "16. Sokhummasutta",
+          "en": "16. Subtlety"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.16:1.1",
+          "pli": "“Cattārimāni, bhikkhave, sokhummāni.",
+          "en": "“Mendicants, there are these four kinds of subtlety."
+        },
+        {
+          "scid": "an4.16:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.16:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu rūpasokhummena samannāgato hoti paramena;",
+          "en": "A mendicant has ultimate subtlety of form."
+        },
+        {
+          "scid": "an4.16:1.4",
+          "pli": "tena ca rūpasokhummena aññaṃ rūpasokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na samanupassati;",
+          "en": "They don’t see any other subtlety of form that’s better or finer than that,"
+        },
+        {
+          "scid": "an4.16:1.5",
+          "pli": "tena ca rūpasokhummena aññaṃ rūpasokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti.",
+          "en": "nor do they aim for it."
+        },
+        {
+          "scid": "an4.16:1.6",
+          "pli": "Vedanāsokhummena samannāgato hoti paramena;",
+          "en": "A mendicant has ultimate subtlety of feeling."
+        },
+        {
+          "scid": "an4.16:1.7",
+          "pli": "tena ca vedanāsokhummena aññaṃ vedanāsokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na samanupassati;",
+          "en": "They don’t see any other subtlety of feeling that’s better or finer than that,"
+        },
+        {
+          "scid": "an4.16:1.8",
+          "pli": "tena ca vedanāsokhummena aññaṃ vedanāsokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti.",
+          "en": "nor do they aim for it."
+        },
+        {
+          "scid": "an4.16:1.9",
+          "pli": "Saññāsokhummena samannāgato hoti paramena;",
+          "en": "A mendicant has ultimate subtlety of perception."
+        },
+        {
+          "scid": "an4.16:1.10",
+          "pli": "tena ca saññāsokhummena aññaṃ saññāsokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na samanupassati;",
+          "en": "They don’t see any other subtlety of perception that’s better or finer than that,"
+        },
+        {
+          "scid": "an4.16:1.11",
+          "pli": "tena ca saññāsokhummena aññaṃ saññāsokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti.",
+          "en": "nor do they aim for it."
+        },
+        {
+          "scid": "an4.16:1.12",
+          "pli": "Saṅkhārasokhummena samannāgato hoti paramena;",
+          "en": "A mendicant has ultimate subtlety of choices."
+        },
+        {
+          "scid": "an4.16:1.13",
+          "pli": "tena ca saṅkhārasokhummena aññaṃ saṅkhārasokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na samanupassati;",
+          "en": "They don’t see any other subtlety of choices that’s better or finer than that,"
+        },
+        {
+          "scid": "an4.16:1.14",
+          "pli": "tena ca saṅkhārasokhummena aññaṃ saṅkhārasokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti.",
+          "en": "nor do they aim for it."
+        },
+        {
+          "scid": "an4.16:1.15",
+          "pli": "Imāni kho, bhikkhave, cattāri sokhummānīti.",
+          "en": "These are the four kinds of subtlety."
+        },
+        {
+          "scid": "an4.16:2.1",
+          "pli": "Rūpasokhummataṃ ñatvā,",
+          "en": "Knowing the subtlety of form,"
+        },
+        {
+          "scid": "an4.16:2.2",
+          "pli": "vedanānañca sambhavaṃ;",
+          "en": "the cause of feelings,"
+        },
+        {
+          "scid": "an4.16:2.3",
+          "pli": "Saññā yato samudeti,",
+          "en": "where perception comes from,"
+        },
+        {
+          "scid": "an4.16:2.4",
+          "pli": "atthaṃ gacchati yattha ca;",
+          "en": "and where it ends;"
+        },
+        {
+          "scid": "an4.16:2.5",
+          "pli": "Saṅkhāre parato ñatvā,",
+          "en": "and knowing choices as other,"
+        },
+        {
+          "scid": "an4.16:2.6",
+          "pli": "dukkhato no ca attato.",
+          "en": "as suffering and not-self,"
+        },
+        {
+          "scid": "an4.16:3.1",
+          "pli": "Sa ve sammaddaso bhikkhu,",
+          "en": "that mendicant sees rightly,"
+        },
+        {
+          "scid": "an4.16:3.2",
+          "pli": "santo santipade rato;",
+          "en": "peaceful, in love with the state of peace."
+        },
+        {
+          "scid": "an4.16:3.3",
+          "pli": "Dhāreti antimaṃ dehaṃ,",
+          "en": "They carry their final body,"
+        },
+        {
+          "scid": "an4.16:3.4",
+          "pli": "jetvā māraṃ savāhinin”ti.",
+          "en": "having defeated Māra and his mount.”"
+        },
+        {
+          "scid": "an4.16:3.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.16/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.16",
+    "volpages": "AN ii 17",
+    "uid": "an4.16",
+    "blurb": "Subtlety of form, feeling, perception, and choices.",
+    "difficulty": null,
+    "original_title": "Sokhumma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Subtlety",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.16_sujato",
+        "segmented": true,
+        "title": "Subtlety"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.16_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Exquisiteness"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

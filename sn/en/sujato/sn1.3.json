@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Led On",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Time Flies",
+      "uid": "sn1.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Liberation",
+      "uid": "sn1.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.3:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.3:0.2",
+          "pli": "1. Naḷavagga",
+          "en": "1. A Reed"
+        },
+        {
+          "scid": "sn1.3:0.3",
+          "pli": "3. Upanīyasutta",
+          "en": "3. Led On"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.3:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn1.3:1.2",
+          "pli": "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn1.3:2.1",
+          "pli": "“Upanīyati jīvitamappamāyu,",
+          "en": "“This life, so very short, is led onward."
+        },
+        {
+          "scid": "sn1.3:2.2",
+          "pli": "Jarūpanītassa na santi tāṇā;",
+          "en": "There’s no shelter for someone who’s been led on by old age."
+        },
+        {
+          "scid": "sn1.3:2.3",
+          "pli": "Etaṃ bhayaṃ maraṇe pekkhamāno,",
+          "en": "Seeing this peril in death,"
+        },
+        {
+          "scid": "sn1.3:2.4",
+          "pli": "Puññāni kayirātha sukhāvahānī”ti.",
+          "en": "you should do good deeds that bring happiness.”"
+        },
+        {
+          "scid": "sn1.3:3.1",
+          "pli": "“Upanīyati jīvitamappamāyu,",
+          "en": "“This life, so very short, is led onward."
+        },
+        {
+          "scid": "sn1.3:3.2",
+          "pli": "Jarūpanītassa na santi tāṇā;",
+          "en": "There’s no shelter for someone who’s been led on by old age."
+        },
+        {
+          "scid": "sn1.3:3.3",
+          "pli": "Etaṃ bhayaṃ maraṇe pekkhamāno,",
+          "en": "Seeing this peril in death,"
+        },
+        {
+          "scid": "sn1.3:3.4",
+          "pli": "Lokāmisaṃ pajahe santipekkho”ti.",
+          "en": "one looking for peace would drop the world’s bait.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.3//SN 3",
+    "volpages": "SN i 2//SN i 4",
+    "uid": "sn1.3",
+    "blurb": "Life is short, so we should drop the world’s bait.",
+    "difficulty": null,
+    "original_title": "Upanīya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Led On",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.3_sujato",
+        "segmented": true,
+        "title": "Led On"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.3_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Reaching"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 3
+  }
+}

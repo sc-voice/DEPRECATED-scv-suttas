@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn55.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Saṅgha of a Thousand Nuns",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Brahmins",
+      "uid": "sn55.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At the Brick Hall (3rd)",
+      "uid": "sn55.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.11:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.11:0.2",
+          "pli": "2. Rājakārāmavagga",
+          "en": "2. A Thousand Nuns"
+        },
+        {
+          "scid": "sn55.11:0.3",
+          "pli": "11. Sahassabhikkhunisaṅghasutta",
+          "en": "11. A Saṅgha of a Thousand Nuns"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.11:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati rājakārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in the Royal Monastery."
+        },
+        {
+          "scid": "sn55.11:1.2",
+          "pli": "Atha kho sahassabhikkhunisaṃgho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho tā bhikkhuniyo bhagavā etadavoca:",
+          "en": "Then a Saṅgha of a thousand nuns went up to the Buddha, bowed, and stood to one side. The Buddha said to them:"
+        },
+        {
+          "scid": "sn55.11:2.1",
+          "pli": "“Catūhi kho, bhikkhuniyo, dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo.",
+          "en": "“Nuns, a noble disciple who has four things is a stream-enterer, not liable to be reborn in the underworld, bound for awakening."
+        },
+        {
+          "scid": "sn55.11:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn55.11:2.3",
+          "pli": "Idha, bhikkhuniyo, ariyasāvako buddhe aveccappasādena samannāgato hoti—",
+          "en": "It’s when a noble disciple has experiential confidence in the Buddha …"
+        },
+        {
+          "scid": "sn55.11:2.4",
+          "pli": "itipi so bhagavā … pe … satthā devamanussānaṃ buddho bhagavāti.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.11:2.5",
+          "pli": "Dhamme … pe …",
+          "en": "the teaching …"
+        },
+        {
+          "scid": "sn55.11:2.6",
+          "pli": "saṅghe … pe …",
+          "en": "the Saṅgha …"
+        },
+        {
+          "scid": "sn55.11:2.7",
+          "pli": "ariyakantehi sīlehi samannāgato hoti, akhaṇḍehi … pe … samādhisaṃvattanikehi.",
+          "en": "And they have the ethical conduct loved by the noble ones … leading to immersion."
+        },
+        {
+          "scid": "sn55.11:2.8",
+          "pli": "Imehi kho, bhikkhuniyo, catūhi dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo”ti.",
+          "en": "A noble disciple who has these four things is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.”"
+        },
+        {
+          "scid": "sn55.11:2.9",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.11",
+    "volpages": "SN v 360",
+    "uid": "sn55.11",
+    "blurb": "The Buddha teaches a thousand nuns the four factors of stream-entry.",
+    "difficulty": null,
+    "original_title": "Sahassabhikkhunisaṃgha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Saṅgha of a Thousand Nuns",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.11_sujato",
+        "segmented": true,
+        "title": "A Saṅgha of a Thousand Nuns"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

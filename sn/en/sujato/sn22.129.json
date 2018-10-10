@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn22.129",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.129",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Gratification",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gratification (2nd)",
+      "uid": "sn22.130"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Liable To Originate (3rd)",
+      "uid": "sn22.128"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.129:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.129:0.2",
+          "pli": "13. Avijjāvagga",
+          "en": "13. Ignorance"
+        },
+        {
+          "scid": "sn22.129:0.3",
+          "pli": "129. Assādasutta",
+          "en": "129. Gratification"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.129:1.1",
+          "pli": "Bārāṇasiyaṃ viharanti isipatane migadāye … pe …",
+          "en": "At Benares."
+        },
+        {
+          "scid": "sn22.129:1.2",
+          "pli": "ekamantaṃ nisinno kho āyasmā mahākoṭṭhiko āyasmantaṃ sāriputtaṃ etadavoca:",
+          "en": "Mahākoṭṭhita said to Sāriputta:"
+        },
+        {
+          "scid": "sn22.129:1.3",
+          "pli": "“‘avijjā, avijjā’ti, āvuso sāriputta, vuccati.",
+          "en": "“Reverend Sāriputta, they speak of this thing called ‘ignorance’."
+        },
+        {
+          "scid": "sn22.129:1.4",
+          "pli": "Katamā nu kho, āvuso, avijjā;",
+          "en": "What is ignorance?"
+        },
+        {
+          "scid": "sn22.129:1.5",
+          "pli": "kittāvatā ca avijjāgato hotī”ti?",
+          "en": "And how is an ignorant person defined?”"
+        },
+        {
+          "scid": "sn22.129:2.1",
+          "pli": "“Idhāvuso assutavā puthujjano rūpassa assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti.",
+          "en": "“Reverend, an uneducated ordinary person doesn’t truly understand the gratification, the drawback, and the escape when it comes to form,"
+        },
+        {
+          "scid": "sn22.129:2.2",
+          "pli": "Vedanāya … pe …",
+          "en": "feeling,"
+        },
+        {
+          "scid": "sn22.129:2.3",
+          "pli": "saññāya …",
+          "en": "perception,"
+        },
+        {
+          "scid": "sn22.129:2.4",
+          "pli": "saṅkhārānaṃ …",
+          "en": "choices,"
+        },
+        {
+          "scid": "sn22.129:2.5",
+          "pli": "viññāṇassa assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti.",
+          "en": "and consciousness."
+        },
+        {
+          "scid": "sn22.129:2.6",
+          "pli": "Ayaṃ vuccatāvuso, avijjā;",
+          "en": "This is called ignorance."
+        },
+        {
+          "scid": "sn22.129:2.7",
+          "pli": "ettāvatā ca avijjāgato hotī”ti.",
+          "en": "And this is how an ignorant person is defined.”"
+        },
+        {
+          "scid": "sn22.129:2.8",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Benares…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.129/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.129",
+    "volpages": "SN iii 173",
+    "uid": "sn22.129",
+    "blurb": "Sāriputta explains to Mahākoṭṭhita that ignorance is not understanding the aggregates in terms of gratification, drawback, and escape.",
+    "difficulty": null,
+    "original_title": "Assāda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Gratification",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.129_sujato",
+        "segmented": true,
+        "title": "Gratification"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 4
+  }
+}

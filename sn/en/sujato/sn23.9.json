@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn23.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn23.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Desire and Greed",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Desire and Greed (2nd)",
+      "uid": "sn23.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Perfected One",
+      "uid": "sn23.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn23.9:0.1",
+          "pli": "Saṃyutta Nikāya 23",
+          "en": "Linked Discourses 23"
+        },
+        {
+          "scid": "sn23.9:0.2",
+          "pli": "1. Paṭhamamāravagga",
+          "en": "1. About Māra"
+        },
+        {
+          "scid": "sn23.9:0.3",
+          "pli": "9. Chandarāgasutta",
+          "en": "9. Desire and Greed"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 23…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn23.9:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn23.9:1.2",
+          "pli": "Ekamantaṃ nisinnaṃ kho āyasmantaṃ rādhaṃ bhagavā etadavoca:",
+          "en": "When Venerable Rādha was seated to one side, the Buddha said to him:"
+        },
+        {
+          "scid": "sn23.9:1.3",
+          "pli": "“rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā, taṃ pajahatha.",
+          "en": "“Rādha, you should give up any desire, greed, relishing, and craving for form."
+        },
+        {
+          "scid": "sn23.9:1.4",
+          "pli": "Evaṃ taṃ rūpaṃ pahīnaṃ bhavissati ucchinnamūlaṃ tālāvatthukataṃ anabhāvaṅkataṃ āyatiṃ anuppādadhammaṃ.",
+          "en": "Thus that form will be given up, cut off at the root, made like a palm stump, exterminated, and unable to arise in the future."
+        },
+        {
+          "scid": "sn23.9:1.5",
+          "pli": "Vedanāya yo chando yo rāgo yā nandī yā taṇhā, taṃ pajahatha.",
+          "en": "You should give up any desire, greed, relishing, and craving for feeling …"
+        },
+        {
+          "scid": "sn23.9:1.6",
+          "pli": "Evaṃ sā vedanā pahīnā bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā.",
+          "en": ""
+        },
+        {
+          "scid": "sn23.9:1.7",
+          "pli": "Saññāya …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn23.9:1.8",
+          "pli": "saṅkhāresu yo chando yo rāgo yā nandī yā taṇhā, taṃ pajahatha.",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn23.9:1.9",
+          "pli": "Evaṃ te saṅkhārā pahīnā bhavissanti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā.",
+          "en": ""
+        },
+        {
+          "scid": "sn23.9:1.10",
+          "pli": "Viññāṇe yo chando yo rāgo yā nandī yā taṇhā, taṃ pajahatha.",
+          "en": "consciousness."
+        },
+        {
+          "scid": "sn23.9:1.11",
+          "pli": "Evaṃ taṃ viññāṇaṃ pahīnaṃ bhavissati … pe … anuppādadhamman”ti.",
+          "en": "Thus that consciousness will be given up, cut off at the root, made like a palm stump, exterminated, and unable to arise in the future.”"
+        },
+        {
+          "scid": "sn23.9:1.12",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn23.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 23.9",
+    "volpages": "SN iii 193",
+    "uid": "sn23.9",
+    "blurb": "Give up desire for the aggregates and they will come to an end.",
+    "difficulty": null,
+    "original_title": "Chandarāga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Desire and Greed",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn23.9_sujato",
+        "segmented": true,
+        "title": "Desire and Greed"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 9
+  }
+}

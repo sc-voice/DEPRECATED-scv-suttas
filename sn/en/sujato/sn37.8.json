@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn37.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Stingy",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Adultery",
+      "uid": "sn37.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Envy",
+      "uid": "sn37.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.8:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.8:0.2",
+          "pli": "1. Paṭhamapeyyālavagga",
+          "en": "1. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.8:0.3",
+          "pli": "8. Maccharīsutta",
+          "en": "8. Stingy"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.8:1.1",
+          "pli": "“Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": ""
+        },
+        {
+          "scid": "sn37.8:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": ""
+        },
+        {
+          "scid": "sn37.8:1.3",
+          "pli": "Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, maccharī ca hoti, duppañño ca hoti—",
+          "en": "“… They’re faithless, shameless, imprudent, stingy, and witless. …”"
+        },
+        {
+          "scid": "sn37.8:1.4",
+          "pli": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn37.8:1.5",
+          "pli": "apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn37.8:1.6",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.8",
+    "volpages": "SN iv 241",
+    "uid": "sn37.8",
+    "blurb": "A woman with five bad qualities has a bad rebirth.",
+    "difficulty": null,
+    "original_title": "Maccharī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Stingy",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.8_sujato",
+        "segmented": true,
+        "title": "Stingy"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

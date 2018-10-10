@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn54.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn54.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Uprooting the Tendencies",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Completely Understanding the Course of Time",
+      "uid": "sn54.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving Up the Fetters",
+      "uid": "sn54.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn54.18:0.1",
+          "pli": "Saṃyutta Nikāya 54",
+          "en": "Linked Discourses 54"
+        },
+        {
+          "scid": "sn54.18:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn54.18:0.3",
+          "pli": "18. Anusayasamugghātasutta",
+          "en": "18. Uprooting the Tendencies"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 54…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn54.18:1.1",
+          "pli": "“… Anusayasamugghātāya saṃvattati ….",
+          "en": "“Mendicants, when immersion due to mindfulness of breathing is developed and cultivated it leads to uprooting the underlying tendencies …”"
+        },
+        {
+          "scid": "sn54.18:1.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn54.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 54.18",
+    "volpages": "SN v 340",
+    "uid": "sn54.18",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Anusayasamugghāta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uprooting the Tendencies",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn54.18_sujato",
+        "segmented": true,
+        "title": "Uprooting the Tendencies"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

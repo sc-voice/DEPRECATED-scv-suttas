@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn22.143",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.143",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Not-Self",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Not-Self (2nd)",
+      "uid": "sn22.144"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Suffering (3rd)",
+      "uid": "sn22.142"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.143:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.143:0.2",
+          "pli": "14. Kukkuḷavagga",
+          "en": "14. Burning Chaff"
+        },
+        {
+          "scid": "sn22.143:0.3",
+          "pli": "143. Anattasutta",
+          "en": "143. Not-Self"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.143:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.143:1.2",
+          "pli": "“Yo, bhikkhave, anattā; tatra vo chando pahātabbo.",
+          "en": "“Mendicants, you should give up desire for what is not-self. …”"
+        },
+        {
+          "scid": "sn22.143:1.3",
+          "pli": "Ko ca, bhikkhave, anattā?",
+          "en": ""
+        },
+        {
+          "scid": "sn22.143:1.4",
+          "pli": "Rūpaṃ, bhikkhave, anattā; tatra vo chando pahātabbo.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.143:1.5",
+          "pli": "Vedanā anattā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.143:1.6",
+          "pli": "saññā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.143:1.7",
+          "pli": "saṅkhārā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.143:1.8",
+          "pli": "viññāṇaṃ anattā; tatra vo chando pahātabbo.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.143:1.9",
+          "pli": "Yo, bhikkhave, anattā; tatra vo chando pahātabbo”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.143:1.10",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.143/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.143",
+    "volpages": "SN iii 178",
+    "uid": "sn22.143",
+    "blurb": "Give up desire for what is not-self, i.e. the aggregates.",
+    "difficulty": null,
+    "original_title": "Anatta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Not-Self",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.143_sujato",
+        "segmented": true,
+        "title": "Not-Self"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "sutta_uid": "an4.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Broken (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Broken (2nd)",
+      "uid": "an4.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fallen",
+      "uid": "an4.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.3:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.3:0.2",
+          "pli": "1. Bhaṇḍagāmavagga",
+          "en": "1. At Bhaṇḍa Village"
+        },
+        {
+          "scid": "an4.3:0.3",
+          "pli": "3. Paṭhamakhatasutta",
+          "en": "3. Broken (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.3:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+          "en": "“When a foolish, incompetent bad person has four qualities they keep themselves broken and damaged. They deserve to be blamed and criticized by sensible people, and they make much bad karma."
+        },
+        {
+          "scid": "an4.3:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.3:1.3",
+          "pli": "Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, ",
+          "en": "Without examining or scrutinizing, they praise those deserving of criticism, "
+        },
+        {
+          "scid": "an4.3:1.4",
+          "pli": "ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsati, ",
+          "en": "and they criticize those deserving of praise. "
+        },
+        {
+          "scid": "an4.3:1.5",
+          "pli": "ananuvicca apariyogāhetvā appasādanīye ṭhāne pasādaṃ upadaṃseti, ",
+          "en": "They arouse faith in things that are dubious, "
+        },
+        {
+          "scid": "an4.3:1.6",
+          "pli": "ananuvicca apariyogāhetvā pasādanīye ṭhāne appasādaṃ upadaṃseti—",
+          "en": "and they don’t arouse faith in things that are inspiring."
+        },
+        {
+          "scid": "an4.3:1.7",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+          "en": "When a foolish, incompetent bad person has these four qualities they keep themselves broken and damaged. They deserve to be blamed and criticized by sensible people, and they make much bad karma."
+        },
+        {
+          "scid": "an4.3:2.1",
+          "pli": "Catūhi, bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati.",
+          "en": "When an astute, competent good person has four qualities they keep themselves healthy and whole. They don’t deserve to be blamed and criticized by sensible people, and they make much merit."
+        },
+        {
+          "scid": "an4.3:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.3:2.3",
+          "pli": "Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, ",
+          "en": "After examining and scrutinizing, they criticize those deserving of criticism, "
+        },
+        {
+          "scid": "an4.3:2.4",
+          "pli": "anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsati, ",
+          "en": "and they praise those deserving of praise. "
+        },
+        {
+          "scid": "an4.3:2.5",
+          "pli": "anuvicca pariyogāhetvā appasādanīye ṭhāne appasādaṃ upadaṃseti, ",
+          "en": "They don’t arouse faith in things that are dubious, "
+        },
+        {
+          "scid": "an4.3:2.6",
+          "pli": "anuvicca pariyogāhetvā pasādanīye ṭhāne pasādaṃ upadaṃseti—",
+          "en": "and they do arouse faith in things that are inspiring."
+        },
+        {
+          "scid": "an4.3:2.7",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavatīti.",
+          "en": "When an astute, competent good person has these four qualities they keep themselves healthy and whole. They don’t deserve to be blamed and criticized by sensible people, and they make much merit."
+        },
+        {
+          "scid": "an4.3:3.1",
+          "pli": "Yo nindiyaṃ pasaṃsati,",
+          "en": "When you praise someone worthy of criticism,"
+        },
+        {
+          "scid": "an4.3:3.2",
+          "pli": "Taṃ vā nindati yo pasaṃsiyo;",
+          "en": "or criticize someone worthy of praise,"
+        },
+        {
+          "scid": "an4.3:3.3",
+          "pli": "Vicināti mukhena so kaliṃ,",
+          "en": "you choose bad luck with your own mouth:"
+        },
+        {
+          "scid": "an4.3:3.4",
+          "pli": "Kalinā tena sukhaṃ na vindati.",
+          "en": "you’ll never find happiness that way."
+        },
+        {
+          "scid": "an4.3:4.1",
+          "pli": "Appamatto ayaṃ kali,",
+          "en": "Bad luck at dice is a trivial thing,"
+        },
+        {
+          "scid": "an4.3:4.2",
+          "pli": "Yo akkhesu dhanaparājayo;",
+          "en": "if all you lose is your money"
+        },
+        {
+          "scid": "an4.3:4.3",
+          "pli": "Sabbassāpi sahāpi attanā,",
+          "en": "and all you own, even yourself."
+        },
+        {
+          "scid": "an4.3:4.4",
+          "pli": "Ayameva mahantataro kali;",
+          "en": "What’s really terrible luck"
+        },
+        {
+          "scid": "an4.3:4.5",
+          "pli": "Yo sugatesu manaṃ padosaye.",
+          "en": "is to hate the holy ones."
+        },
+        {
+          "scid": "an4.3:5.1",
+          "pli": "Sataṃ sahassānaṃ nirabbudānaṃ,",
+          "en": "For more than two quinquadecillion years,"
+        },
+        {
+          "scid": "an4.3:5.2",
+          "pli": "Chattiṃsatī pañca ca abbudāni;",
+          "en": "and another five quattuordecillion years,"
+        },
+        {
+          "scid": "an4.3:5.3",
+          "pli": "Yamariyagarahī nirayaṃ upeti,",
+          "en": "a slanderer of noble ones goes to hell,"
+        },
+        {
+          "scid": "an4.3:5.4",
+          "pli": "Vācaṃ manañca paṇidhāya pāpakan”ti.",
+          "en": "having aimed bad words and thoughts at them.”"
+        },
+        {
+          "scid": "an4.3:5.5",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“When a foolish…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.3",
+    "volpages": "AN ii 2",
+    "uid": "an4.3",
+    "blurb": "After reflection, you should criticize those worthy or criticism, and praise those worthy of praise.",
+    "difficulty": null,
+    "original_title": "Paṭhamakhata Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Broken (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.3_sujato",
+        "segmented": true,
+        "title": "Broken (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.3_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Maimed (1)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

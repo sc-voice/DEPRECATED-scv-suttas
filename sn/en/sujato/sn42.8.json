@@ -1,0 +1,610 @@
+{
+  "sutta_uid": "sn42.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn42.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Horn Blower",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Families",
+      "uid": "sn42.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Simile of the Field",
+      "uid": "sn42.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn42.8:0.1",
+          "pli": "Saṃyutta Nikāya 42",
+          "en": "Linked Discourses 42"
+        },
+        {
+          "scid": "sn42.8:0.2",
+          "pli": "1. Gāmaṇivagga",
+          "en": "1. Chiefs"
+        },
+        {
+          "scid": "sn42.8:0.3",
+          "pli": "8. Saṅkhadhamasutta",
+          "en": "8. A Horn Blower"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 42…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn42.8:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā nāḷandāyaṃ viharati pāvārikambavane.",
+          "en": "At one time the Buddha was staying near Nālandā in Pāvārika’s mango grove."
+        },
+        {
+          "scid": "sn42.8:1.2",
+          "pli": "Atha kho asibandhakaputto gāmaṇi nigaṇṭhasāvako yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho asibandhakaputtaṃ gāmaṇiṃ bhagavā etadavoca:",
+          "en": "Then Asibandhaka’s son the chief, who was a disciple of the Jains, went up to the Buddha, and sat down to one side. The Buddha said to him:"
+        },
+        {
+          "scid": "sn42.8:1.3",
+          "pli": "“kathaṃ nu kho, gāmaṇi, nigaṇṭho nāṭaputto sāvakānaṃ dhammaṃ desetī”ti?",
+          "en": "“Chief, how does Nigaṇṭha Nātaputta teach his disciples?”"
+        },
+        {
+          "scid": "sn42.8:1.4",
+          "pli": "“Evaṃ kho, bhante, nigaṇṭho nāṭaputto sāvakānaṃ dhammaṃ deseti:",
+          "en": "“Sir, this is how Nigaṇṭha Nātaputta teaches his disciples:"
+        },
+        {
+          "scid": "sn42.8:1.5",
+          "pli": "‘yo koci pāṇaṃ atipāteti, sabbo so āpāyiko nerayiko, yo koci adinnaṃ ādiyati, sabbo so āpāyiko nerayiko, yo koci kāmesu micchā carati, sabbo so āpāyiko nerayiko, yo koci musā bhaṇati sabbo, so āpāyiko nerayiko.",
+          "en": "‘Everyone who kills a living creature, steal, commits sexual misconduct, or lies goes to a place of loss, to hell."
+        },
+        {
+          "scid": "sn42.8:1.6",
+          "pli": "Yaṃbahulaṃ yaṃbahulaṃ viharati, tena tena nīyatī’ti.",
+          "en": "You’re led on by what you usually live by.’"
+        },
+        {
+          "scid": "sn42.8:1.7",
+          "pli": "Evaṃ kho, bhante, nigaṇṭho nāṭaputto sāvakānaṃ dhammaṃ desetī”ti.",
+          "en": "This is how Nigaṇṭha Nātaputta teaches his disciples.”"
+        },
+        {
+          "scid": "sn42.8:1.8",
+          "pli": "“‘Yaṃbahulaṃ yaṃbahulañca, gāmaṇi, viharati, tena tena nīyati’, evaṃ sante na koci āpāyiko nerayiko bhavissati, yathā nigaṇṭhassa nāṭaputtassa vacanaṃ.",
+          "en": "“‘You’re led on by what you usually live by’: if this were true, then, according to what Nigaṇṭha Nātaputta says, no-one would go to a place of loss, to hell."
+        },
+        {
+          "scid": "sn42.8:2.1",
+          "pli": "Taṃ kiṃ maññasi, gāmaṇi, ",
+          "en": "What do you think, chief? "
+        },
+        {
+          "scid": "sn42.8:2.2",
+          "pli": "yo so puriso pāṇātipātī rattiyā vā divasassa vā samayāsamayaṃ upādāya, katamo bahutaro samayo, yaṃ vā so pāṇamatipāteti, yaṃ vā so pāṇaṃ nātipātetī”ti?",
+          "en": "Take a person who kills living creatures. If we compare periods of time during the day and night, which is more frequent: the occasions when they’re killing or when they’re not killing?”"
+        },
+        {
+          "scid": "sn42.8:2.3",
+          "pli": "“Yo so, bhante, puriso pāṇātipātī rattiyā vā divasassa vā samayāsamayaṃ upādāya, appataro so samayo yaṃ so pāṇamatipāteti, atha kho sveva bahutaro samayo yaṃ so pāṇaṃ nātipātetī”ti.",
+          "en": "“The occasions when they’re killing are less frequent, while the occasions when they’re not killing are more frequent.”"
+        },
+        {
+          "scid": "sn42.8:2.4",
+          "pli": "“‘Yaṃbahulaṃ yaṃbahulañca, gāmaṇi, viharati tena tena nīyatī’ti, evaṃ sante na koci āpāyiko nerayiko bhavissati, yathā nigaṇṭhassa nāṭaputtassa vacanaṃ.",
+          "en": "“‘You’re led on by what you usually live by’: if this were true, then, according to what Nigaṇṭha Nātaputta says, no-one would go to a place of loss, to hell."
+        },
+        {
+          "scid": "sn42.8:3.1",
+          "pli": "Taṃ kiṃ maññasi, gāmaṇi, ",
+          "en": "What do you think, chief? "
+        },
+        {
+          "scid": "sn42.8:3.2",
+          "pli": "yo so puriso adinnādāyī rattiyā vā divasassa vā samayāsamayaṃ upādāya, katamo bahutaro samayo, yaṃ vā so adinnaṃ ādiyati, yaṃ vā so adinnaṃ nādiyatī”ti.",
+          "en": "Take a person who steals …"
+        },
+        {
+          "scid": "sn42.8:3.3",
+          "pli": "“Yo so, bhante, puriso adinnādāyī rattiyā vā divasassa vā samayāsamayaṃ upādāya appataro so samayo, yaṃ so adinnaṃ ādiyati, atha kho sveva bahutaro samayo, yaṃ so adinnaṃ nādiyatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:3.4",
+          "pli": "“‘Yaṃbahulaṃ yaṃbahulañca, gāmaṇi, viharati tena tena nīyatī’ti, evaṃ sante na koci āpāyiko nerayiko bhavissati, yathā nigaṇṭhassa nāṭaputtassa vacanaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:4.1",
+          "pli": "Taṃ kiṃ maññasi, gāmaṇi, yo so puriso kāmesumicchācārī rattiyā vā divasassa vā samayāsamayaṃ upādāya, katamo bahutaro samayo, yaṃ vā so kāmesu micchā carati, yaṃ vā so kāmesu micchā na caratī”ti?",
+          "en": "commits sexual misconduct …"
+        },
+        {
+          "scid": "sn42.8:4.2",
+          "pli": "“Yo so, bhante, puriso kāmesumicchācārī rattiyā vā divasassa vā samayāsamayaṃ upādāya, appataro so samayo yaṃ so kāmesu micchā carati, atha kho sveva bahutaro samayo, yaṃ so kāmesu micchā na caratī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:4.3",
+          "pli": "“‘Yaṃbahulaṃ yaṃbahulañca, gāmaṇi, viharati tena tena nīyatī’ti, evaṃ sante na koci āpāyiko nerayiko bhavissati, yathā nigaṇṭhassa nāṭaputtassa vacanaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:5.1",
+          "pli": "Taṃ kiṃ maññasi, gāmaṇi, yo so puriso musāvādī rattiyā vā divasassa vā samayāsamayaṃ upādāya, katamo bahutaro samayo, yaṃ vā so musā bhaṇati, yaṃ vā so musā na bhaṇatī”ti?",
+          "en": "lies. If we compare periods of time during the day and night, which is more frequent: the occasions when they’re lying or when they’re not lying?”"
+        },
+        {
+          "scid": "sn42.8:5.2",
+          "pli": "“Yo so, bhante, puriso musāvādī rattiyā vā divasassa vā samayāsamayaṃ upādāya, appataro so samayo, yaṃ so musā bhaṇati, atha kho sveva bahutaro samayo, yaṃ so musā na bhaṇatī”ti.",
+          "en": "“The occasions when they’re lying are less frequent, while the occasions when they’re not lying are more frequent.”"
+        },
+        {
+          "scid": "sn42.8:5.3",
+          "pli": "“‘Yaṃbahulaṃ yaṃbahulañca, gāmaṇi, viharati tena tena nīyatī’ti, evaṃ sante na koci āpāyiko nerayiko bhavissati, yathā nigaṇṭhassa nāṭaputtassa vacanaṃ.",
+          "en": "“‘You’re led on by what you usually live by’: if this were true, then, according to what Nigaṇṭha Nātaputta says, no-one would go to a place of loss, to hell."
+        },
+        {
+          "scid": "sn42.8:6.1",
+          "pli": "Idha, gāmaṇi, ekacco satthā evaṃvādī hoti evaṃdiṭṭhi:",
+          "en": "Take some teacher who has this doctrine and view:"
+        },
+        {
+          "scid": "sn42.8:6.2",
+          "pli": "‘yo koci pāṇamatipāteti, sabbo so āpāyiko nerayiko, yo koci adinnaṃ ādiyati, sabbo so āpāyiko nerayiko, yo koci kāmesu micchā carati, sabbo so āpāyiko nerayiko, yo koci musā bhaṇati, sabbo so āpāyiko nerayiko’ti.",
+          "en": "‘Everyone who kills a living creature, steals, commits sexual misconduct, or lies goes to a place of loss, to hell.’"
+        },
+        {
+          "scid": "sn42.8:6.3",
+          "pli": "Tasmiṃ kho pana, gāmaṇi, satthari sāvako abhippasanno hoti.",
+          "en": "And there’s a disciple who is devoted to that teacher."
+        },
+        {
+          "scid": "sn42.8:6.4",
+          "pli": "Tassa evaṃ hoti:",
+          "en": "They think:"
+        },
+        {
+          "scid": "sn42.8:6.5",
+          "pli": "‘mayhaṃ kho satthā evaṃvādī evaṃdiṭṭhi—",
+          "en": "‘My teacher has this doctrine and view:"
+        },
+        {
+          "scid": "sn42.8:6.6",
+          "pli": "yo koci pāṇamatipāteti, sabbo so āpāyiko nerayikoti.",
+          "en": "‘Everyone who kills a living creature, steals, commits sexual misconduct, or lies goes to a place of loss, to hell.’"
+        },
+        {
+          "scid": "sn42.8:6.7",
+          "pli": "Atthi kho pana mayā pāṇo atipātito, ahampamhi āpāyiko nerayikoti diṭṭhiṃ paṭilabhati.",
+          "en": "But I’ve killed living creatures …"
+        },
+        {
+          "scid": "sn42.8:6.8",
+          "pli": "Taṃ, gāmaṇi, vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.9",
+          "pli": "Mayhaṃ kho satthā evaṃvādī evaṃdiṭṭhi—",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.10",
+          "pli": "yo koci adinnaṃ ādiyati, sabbo so āpāyiko nerayikoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.11",
+          "pli": "Atthi kho pana mayā adinnaṃ ādinnaṃ ahampamhi āpāyiko nerayikoti diṭṭhiṃ paṭilabhati.",
+          "en": "stolen …"
+        },
+        {
+          "scid": "sn42.8:6.12",
+          "pli": "Taṃ, gāmaṇi, vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.13",
+          "pli": "Mayhaṃ kho satthā evaṃvādī evaṃdiṭṭhi—",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.14",
+          "pli": "yo koci kāmesu micchā carati, sabbo so āpāyiko nerayiko’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.15",
+          "pli": "Atthi kho pana mayā kāmesu micchā ciṇṇaṃ.",
+          "en": "committed sexual misconduct …"
+        },
+        {
+          "scid": "sn42.8:6.16",
+          "pli": "‘Ahampamhi āpāyiko nerayiko’ti diṭṭhiṃ paṭilabhati.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.17",
+          "pli": "Taṃ, gāmaṇi, vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.18",
+          "pli": "Mayhaṃ kho satthā evaṃvādī evaṃdiṭṭhi—",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.19",
+          "pli": "yo koci musā bhaṇati, sabbo so āpāyiko nerayikoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:6.20",
+          "pli": "Atthi kho pana mayā musā bhaṇitaṃ.",
+          "en": "or lied."
+        },
+        {
+          "scid": "sn42.8:6.21",
+          "pli": "‘Ahampamhi āpāyiko nerayiko’ti diṭṭhiṃ paṭilabhati.",
+          "en": "They get the view: ‘I too am going to a place of loss, to hell.’"
+        },
+        {
+          "scid": "sn42.8:6.22",
+          "pli": "Taṃ, gāmaṇi, vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "Unless they give up that speech and thought, and let go of that view, they will be cast down to hell."
+        },
+        {
+          "scid": "sn42.8:7.1",
+          "pli": "Idha pana, gāmaṇi, tathāgato loke uppajjati arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā.",
+          "en": "But consider when a Realized One arises in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed."
+        },
+        {
+          "scid": "sn42.8:7.2",
+          "pli": "So anekapariyāyena pāṇātipātaṃ garahati vigarahati, ‘pāṇātipātā viramathā’ti cāha.",
+          "en": "In many ways he criticizes and denounces killing living creatures, saying: ‘Stop killing living creatures!’"
+        },
+        {
+          "scid": "sn42.8:7.3",
+          "pli": "Adinnādānaṃ garahati vigarahati, ‘adinnādānā viramathā’ti cāha.",
+          "en": "he criticizes and denounces stealing …"
+        },
+        {
+          "scid": "sn42.8:7.4",
+          "pli": "Kāmesumicchācāraṃ garahati, vigarahati ‘kāmesumicchācārā viramathā’ti cāha.",
+          "en": "sexual misconduct …"
+        },
+        {
+          "scid": "sn42.8:7.5",
+          "pli": "Musāvādaṃ garahati vigarahati ‘musāvādā viramathā’ti cāha.",
+          "en": "lying, saying: ‘Stop lying!’"
+        },
+        {
+          "scid": "sn42.8:7.6",
+          "pli": "Tasmiṃ kho pana, gāmaṇi, satthari sāvako abhippasanno hoti.",
+          "en": "And there’s a disciple who is devoted to that teacher."
+        },
+        {
+          "scid": "sn42.8:7.7",
+          "pli": "So iti paṭisañcikkhati:",
+          "en": "Then they reflect:"
+        },
+        {
+          "scid": "sn42.8:7.8",
+          "pli": "‘bhagavā kho anekapariyāyena pāṇātipātaṃ garahati vigarahati, pāṇātipātā viramathāti cāha.",
+          "en": "‘In many ways the Buddha criticizes and denounces killing living creatures, saying: “Stop killing living creatures!”"
+        },
+        {
+          "scid": "sn42.8:7.9",
+          "pli": "Atthi kho pana mayā pāṇo atipātito yāvatako vā tāvatako vā.",
+          "en": "But I have killed living creatures to a certain extent."
+        },
+        {
+          "scid": "sn42.8:7.10",
+          "pli": "Yo kho pana mayā pāṇo atipātito yāvatako vā tāvatako vā, taṃ na suṭṭhu, taṃ na sādhu.",
+          "en": "That’s not right, it’s not good,"
+        },
+        {
+          "scid": "sn42.8:7.11",
+          "pli": "Ahañceva kho pana tappaccayā vippaṭisārī assaṃ.",
+          "en": "and I feel remorseful because of it."
+        },
+        {
+          "scid": "sn42.8:7.12",
+          "pli": "Na metaṃ pāpaṃ kammaṃ akataṃ bhavissatī’ti.",
+          "en": "But I can’t undo what I have done.’"
+        },
+        {
+          "scid": "sn42.8:7.13",
+          "pli": "So iti paṭisaṅkhāya tañceva pāṇātipātaṃ pajahati.",
+          "en": "Reflecting like this, they give up killing living creatures,"
+        },
+        {
+          "scid": "sn42.8:7.14",
+          "pli": "Āyatiñca pāṇātipātā paṭivirato hoti.",
+          "en": "and in future they don’t kill living creatures."
+        },
+        {
+          "scid": "sn42.8:7.15",
+          "pli": "Evametassa pāpassa kammassa pahānaṃ hoti.",
+          "en": "That’s how to give up this bad deed"
+        },
+        {
+          "scid": "sn42.8:7.16",
+          "pli": "Evametassa pāpassa kammassa samatikkamo hoti.",
+          "en": "and get past it."
+        },
+        {
+          "scid": "sn42.8:8.1",
+          "pli": "‘Bhagavā kho anekapariyāyena adinnādānaṃ garahati vigarahati, adinnādānā viramathāti cāha.",
+          "en": "‘In many ways the Buddha criticizes and denounces stealing …"
+        },
+        {
+          "scid": "sn42.8:8.2",
+          "pli": "Atthi kho pana mayā adinnaṃ ādinnaṃ yāvatakaṃ vā tāvatakaṃ vā.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:8.3",
+          "pli": "Yaṃ kho pana mayā adinnaṃ ādinnaṃ yāvatakaṃ vā tāvatakaṃ vā taṃ na suṭṭhu, taṃ na sādhu.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:8.4",
+          "pli": "Ahañceva kho pana tappaccayā vippaṭisārī assaṃ, na metaṃ pāpaṃ kammaṃ akataṃ bhavissatī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:8.5",
+          "pli": "So iti paṭisaṅkhāya tañceva adinnādānaṃ pajahati.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:8.6",
+          "pli": "Āyatiñca adinnādānā paṭivirato hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:8.7",
+          "pli": "Evametassa pāpassa kammassa pahānaṃ hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:8.8",
+          "pli": "Evametassa pāpassa kammassa samatikkamo hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:9.1",
+          "pli": "‘Bhagavā kho pana anekapariyāyena kāmesumicchācāraṃ garahati vigarahati, kāmesumicchācārā viramathāti cāha.",
+          "en": "sexual misconduct …"
+        },
+        {
+          "scid": "sn42.8:9.2",
+          "pli": "Atthi kho pana mayā kāmesu micchā ciṇṇaṃ yāvatakaṃ vā tāvatakaṃ vā.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:9.3",
+          "pli": "Yaṃ kho pana mayā kāmesu micchā ciṇṇaṃ yāvatakaṃ vā tāvatakaṃ vā taṃ na suṭṭhu, taṃ na sādhu.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:9.4",
+          "pli": "Ahañceva kho pana tappaccayā vippaṭisārī assaṃ, na metaṃ pāpaṃ kammaṃ akataṃ bhavissatī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:9.5",
+          "pli": "So iti paṭisaṅkhāya tañceva kāmesumicchācāraṃ pajahati, āyatiñca kāmesumicchācārā paṭivirato hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:9.6",
+          "pli": "Evametassa pāpassa kammassa pahānaṃ hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:9.7",
+          "pli": "Evametassa pāpassa kammassa samatikkamo hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn42.8:10.1",
+          "pli": "‘Bhagavā kho pana anekapariyāyena musāvādaṃ garahati vigarahati, musāvādā viramathāti cāha.",
+          "en": "lying, saying: “Stop lying!”"
+        },
+        {
+          "scid": "sn42.8:10.2",
+          "pli": "Atthi kho pana mayā musā bhaṇitaṃ yāvatakaṃ vā tāvatakaṃ vā.",
+          "en": "But I have lied to a certain extent."
+        },
+        {
+          "scid": "sn42.8:10.3",
+          "pli": "Yaṃ kho pana mayā musā bhaṇitaṃ yāvatakaṃ vā tāvatakaṃ vā taṃ na suṭṭhu, taṃ na sādhu. Ahañceva kho pana tappaccayā vippaṭisārī assaṃ, na metaṃ pāpaṃ kammaṃ akataṃ bhavissatī’ti.",
+          "en": "That’s not right, it’s not good, and I feel remorseful because of it. But I can’t undo what I have done.’"
+        },
+        {
+          "scid": "sn42.8:10.4",
+          "pli": "So iti paṭisaṅkhāya tañceva musāvādaṃ pajahati, āyatiñca musāvādā paṭivirato hoti.",
+          "en": "Reflecting like this, they give up lying, and in future they refrain from lying."
+        },
+        {
+          "scid": "sn42.8:10.5",
+          "pli": "Evametassa pāpassa kammassa pahānaṃ hoti. Evametassa pāpassa kammassa samatikkamo hoti.",
+          "en": "That’s how to give up this bad deed and get past it."
+        },
+        {
+          "scid": "sn42.8:11.1",
+          "pli": "So pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti.",
+          "en": "They give up killing living creatures."
+        },
+        {
+          "scid": "sn42.8:11.2",
+          "pli": "Adinnādānaṃ pahāya adinnādānā paṭivirato hoti.",
+          "en": "They give up stealing."
+        },
+        {
+          "scid": "sn42.8:11.3",
+          "pli": "Kāmesumicchācāraṃ pahāya kāmesumicchācārā paṭivirato hoti.",
+          "en": "They give up sexual misconduct."
+        },
+        {
+          "scid": "sn42.8:11.4",
+          "pli": "Musāvādaṃ pahāya musāvādā paṭivirato hoti.",
+          "en": "They give up lying."
+        },
+        {
+          "scid": "sn42.8:11.5",
+          "pli": "Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti.",
+          "en": "They give up divisive speech."
+        },
+        {
+          "scid": "sn42.8:11.6",
+          "pli": "Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti.",
+          "en": "They give up harsh speech."
+        },
+        {
+          "scid": "sn42.8:11.7",
+          "pli": "Samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti.",
+          "en": "They give up talking nonsense."
+        },
+        {
+          "scid": "sn42.8:11.8",
+          "pli": "Abhijjhaṃ pahāya anabhijjhālu hoti.",
+          "en": "They give up covetousness."
+        },
+        {
+          "scid": "sn42.8:11.9",
+          "pli": "Byāpādappadosaṃ pahāya abyāpannacitto hoti.",
+          "en": "They give up ill will and malevolence."
+        },
+        {
+          "scid": "sn42.8:11.10",
+          "pli": "Micchādiṭṭhiṃ pahāya sammādiṭṭhiko hoti.",
+          "en": "They give up wrong view and have right view."
+        },
+        {
+          "scid": "sn42.8:12.1",
+          "pli": "Sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+          "en": "That noble disciple is rid of desire, rid of ill will, unconfused, aware, and mindful. They meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world—abundant, expansive, limitless, free of enmity and ill will."
+        },
+        {
+          "scid": "sn42.8:12.2",
+          "pli": "Seyyathāpi, gāmaṇi, balavā saṅkhadhamo appakasireneva catuddisā viññāpeyya;",
+          "en": "Suppose there was a powerful horn blower. They’d easily make themselves heard in the four directions."
+        },
+        {
+          "scid": "sn42.8:12.3",
+          "pli": "evameva kho, gāmaṇi, evaṃ bhāvitāya mettāya cetovimuttiyā evaṃ bahulīkatāya yaṃ pamāṇakataṃ kammaṃ, na taṃ tatrāvasissati, na taṃ tatrāvatiṭṭhati.",
+          "en": "In the same way, when the heart’s release by love has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there."
+        },
+        {
+          "scid": "sn42.8:13.1",
+          "pli": "Sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato karuṇāsahagatena cetasā … pe …",
+          "en": "Then that noble disciple is rid of desire, rid of ill will, unconfused, aware, and mindful. They meditate spreading a heart full of compassion …"
+        },
+        {
+          "scid": "sn42.8:13.2",
+          "pli": "muditāsahagatena cetasā … pe ….",
+          "en": "They meditate spreading a heart full of rejoicing …"
+        },
+        {
+          "scid": "sn42.8:13.3",
+          "pli": "Upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+          "en": "They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world—abundant, expansive, limitless, free of enmity and ill will."
+        },
+        {
+          "scid": "sn42.8:13.4",
+          "pli": "Seyyathāpi, gāmaṇi, balavā saṅkhadhamo appakasireneva catuddisā viññāpeyya;",
+          "en": "Suppose there was a powerful horn blower. They’d easily make themselves heard in the four directions."
+        },
+        {
+          "scid": "sn42.8:13.5",
+          "pli": "evameva kho, gāmaṇi, evaṃ bhāvitāya upekkhāya cetovimuttiyā evaṃ bahulīkatāya yaṃ pamāṇakataṃ kammaṃ na taṃ tatrāvasissati, na taṃ tatrāvatiṭṭhatī”ti.",
+          "en": "In the same way, when the heart’s release by equanimity has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there.”"
+        },
+        {
+          "scid": "sn42.8:14.1",
+          "pli": "Evaṃ vutte, asibandhakaputto gāmaṇi bhagavantaṃ etadavoca:",
+          "en": "When he said this, Asibandhaka’s son the chief said to the Buddha:"
+        },
+        {
+          "scid": "sn42.8:14.2",
+          "pli": "“abhikkantaṃ, bhante, abhikkantaṃ, bhante … pe …",
+          "en": "“Excellent, sir! Excellent! …"
+        },
+        {
+          "scid": "sn42.8:14.3",
+          "pli": "upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "sn42.8:14.4",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn42.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 42.8",
+    "volpages": "SN iv 317",
+    "uid": "sn42.8",
+    "blurb": "The Buddha asks the chief Asibandhakaputta, a Jain, how Mahāvīra the Jain leader teaches his followers. He replies that you go to a rebirth depending on what you usually do. But the Buddha points out that even a killer only spends a small amount of time actually killing. The Buddha’s approach is to point out that deeds have results, and to encourage the abandoing of bad deeds and the adoption of good deeds.",
+    "difficulty": null,
+    "original_title": "Saṅkhadhama Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Horn Blower",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn42.8_sujato",
+        "segmented": true,
+        "title": "A Horn Blower"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 8
+  }
+}

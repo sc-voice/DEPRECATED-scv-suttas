@@ -1,0 +1,190 @@
+{
+  "sutta_uid": "an4.204",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.204",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Ten Kinds of Deeds",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Eightfold",
+      "uid": "an4.205"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Seven Kinds of Deeds",
+      "uid": "an4.203"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.204:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.204:0.2",
+          "pli": "21. Sappurisavagga",
+          "en": "21. A Good Person"
+        },
+        {
+          "scid": "an4.204:0.3",
+          "pli": "204. Dasakammasutta",
+          "en": "204. Ten Kinds of Deeds"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.204:1.1",
+          "pli": "“Asappurisañca vo, bhikkhave, desessāmi, asappurisena asappurisatarañca;",
+          "en": "“Mendicants, I will teach you a bad person and a worse person,"
+        },
+        {
+          "scid": "an4.204:1.2",
+          "pli": "sappurisañca, sappurisena sappurisatarañca. Taṃ suṇātha … pe ….",
+          "en": "a good person and a better person."
+        },
+        {
+          "scid": "an4.204:2.1",
+          "pli": "“Katamo ca, bhikkhave, asappuriso?",
+          "en": "And what is a bad person?"
+        },
+        {
+          "scid": "an4.204:2.2",
+          "pli": "Idha, bhikkhave, ekacco pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti, pisuṇavāco hoti, pharusavāco hoti, samphappalāpī hoti, abhijjhālu hoti, byāpannacitto hoti, micchādiṭṭhiko hoti.",
+          "en": "It’s someone who kills living creatures, steals, and commits sexual misconduct. They use speech that’s false, divisive, harsh, or nonsensical. And they’re covetous, malicious, with wrong view."
+        },
+        {
+          "scid": "an4.204:2.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asappuriso.",
+          "en": "This is called a bad person."
+        },
+        {
+          "scid": "an4.204:3.1",
+          "pli": "Katamo ca, bhikkhave, asappurisena asappurisataro?",
+          "en": "And what is a worse person?"
+        },
+        {
+          "scid": "an4.204:3.2",
+          "pli": "Idha, bhikkhave, ekacco attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti … pe … attanā ca abhijjhālu hoti, parañca abhijjhāya samādapeti;",
+          "en": "It’s someone who kills living creatures, steals, and commits sexual misconduct. They use speech that’s false, divisive, harsh, or nonsensical. They’re covetous, malicious, with wrong view. And they encourage others to do these things."
+        },
+        {
+          "scid": "an4.204:3.3",
+          "pli": "attanā ca byāpannacitto hoti, parañca byāpāde samādapeti, attanā ca micchādiṭṭhiko hoti, parañca micchādiṭṭhiyā samādapeti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.204:3.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, asappurisena asappurisataro.",
+          "en": "This is called a worse person."
+        },
+        {
+          "scid": "an4.204:4.1",
+          "pli": "Katamo ca, bhikkhave, sappuriso?",
+          "en": "And what is a good person?"
+        },
+        {
+          "scid": "an4.204:4.2",
+          "pli": "Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti … pe … anabhijjhālu hoti, abyāpannacitto hoti, sammādiṭṭhiko hoti.",
+          "en": "It’s someone who doesn’t kill living creatures, steal, or commit sexual misconduct. They don’t use speech that’s false, divisive, harsh, or nonsensical. And they’re contented, kind-hearted, with right view."
+        },
+        {
+          "scid": "an4.204:4.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, sappuriso.",
+          "en": "This is called a good person."
+        },
+        {
+          "scid": "an4.204:5.1",
+          "pli": "Katamo ca, bhikkhave, sappurisena sappurisataro?",
+          "en": "And what is a better person?"
+        },
+        {
+          "scid": "an4.204:5.2",
+          "pli": "Idha, bhikkhave, ekacco attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti … pe … attanā ca anabhijjhālu hoti, parañca anabhijjhāya samādapeti;",
+          "en": "It’s someone who doesn’t kill living creatures, steal, or commit sexual misconduct. They don’t use speech that’s false, divisive, harsh, or nonsensical. They’re contented, kind-hearted, with right view. And they encourage others to do these things."
+        },
+        {
+          "scid": "an4.204:5.3",
+          "pli": "attanā ca abyāpannacitto hoti, parañca abyāpāde samādapeti;",
+          "en": ""
+        },
+        {
+          "scid": "an4.204:5.4",
+          "pli": "attanā ca sammādiṭṭhiko hoti, parañca sammādiṭṭhiyā samādapeti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.204:5.5",
+          "pli": "Ayaṃ vuccati, bhikkhave, sappurisena sappurisataro”ti.",
+          "en": "This is called a better person.”"
+        },
+        {
+          "scid": "an4.204:5.6",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.204/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.204",
+    "volpages": "AN ii 219",
+    "uid": "an4.204",
+    "blurb": "A good person practices the ten ways of wholesome deeds for themselves, while a better person encourages others as well.",
+    "difficulty": null,
+    "original_title": "Dasakamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ten Kinds of Deeds",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.204_sujato",
+        "segmented": true,
+        "title": "Ten Kinds of Deeds"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

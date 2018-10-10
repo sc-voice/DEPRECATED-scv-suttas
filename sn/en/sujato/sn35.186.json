@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn35.186",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.186",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Interior Was Impermanent in the Past",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Interior Will Be Impermanent in the Future",
+      "uid": "sn35.187"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Desire, etc. for the Not-Self Exterior",
+      "uid": "sn35.183-185"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.186:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.186:0.2",
+          "pli": "17. Saṭṭhipeyyālavagga",
+          "en": "17. Sixty Abbreviated Texts"
+        },
+        {
+          "scid": "sn35.186:0.3",
+          "pli": "186. Ajjhattātītāniccasutta",
+          "en": "186. The Interior Was Impermanent in the Past"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.186:1.1",
+          "pli": "“Cakkhu, bhikkhave, aniccaṃ atītaṃ … pe … jivhā aniccā atītā … pe … mano anicco atīto.",
+          "en": "“Mendicants, in the past the eye, ear, nose, tongue, body, and mind were impermanent."
+        },
+        {
+          "scid": "sn35.186:1.2",
+          "pli": "Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako cakkhusmimpi nibbindati … pe … jivhāyapi nibbindati … pe … manasmimpi nibbindati.",
+          "en": "Seeing this, a learned noble disciple becomes disillusioned with the eye, ear, nose, tongue, body, and mind."
+        },
+        {
+          "scid": "sn35.186:1.3",
+          "pli": "Nibbindaṃ virajjati; virāgā vimuccati; vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.",
+          "en": "Being disillusioned, they become dispassionate. Being dispassionate they’re freed. When freed, they know ‘it is freed’."
+        },
+        {
+          "scid": "sn35.186:1.4",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.186/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.186//SN 35.173a",
+    "volpages": "SN iv 151",
+    "uid": "sn35.186",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ajjhattātītānicca Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Interior Was Impermanent in the Past",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.186_sujato",
+        "segmented": true,
+        "title": "The Interior Was Impermanent in the Past"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn48.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "In Detail (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "In Detail (2nd)",
+      "uid": "sn48.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "In Brief (3rd)",
+      "uid": "sn48.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.15:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.15:0.2",
+          "pli": "2. Mudutaravagga",
+          "en": "2. Weaker"
+        },
+        {
+          "scid": "sn48.15:0.3",
+          "pli": "15. Paṭhamavitthārasutta",
+          "en": "15. In Detail (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.15:1.1",
+          "pli": "“Pañcimāni, bhikkhave, indriyāni.",
+          "en": "“Mendicants, there are these five faculties."
+        },
+        {
+          "scid": "sn48.15:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn48.15:1.3",
+          "pli": "Saddhindriyaṃ … pe … paññindriyaṃ—",
+          "en": "The faculties of faith, energy, mindfulness, immersion, and wisdom."
+        },
+        {
+          "scid": "sn48.15:1.4",
+          "pli": "imāni kho, bhikkhave, pañcindriyāni.",
+          "en": "These are the five faculties."
+        },
+        {
+          "scid": "sn48.15:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi antarāparinibbāyī hoti, tato mudutarehi upahaccaparinibbāyī hoti, tato mudutarehi asaṅkhāraparinibbāyī hoti, tato mudutarehi sasaṅkhāraparinibbāyī hoti, tato mudutarehi uddhaṃsoto hoti akaniṭṭhagāmī, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hotī”ti.",
+          "en": "Someone who has completed and fulfilled these five faculties is a perfected one. If they are weaker than that, they’re one who is extinguished in-between one life and the next … one who is extinguished upon landing … one who is extinguished without extra effort … one who is extinguished with extra effort … one who heads upstream, going to the Akaniṭṭha realm … a once-returner … a stream-enterer … a follower of the teachings … a follower by faith.”"
+        },
+        {
+          "scid": "sn48.15:1.6",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 48.15",
+    "volpages": "SN v 201",
+    "uid": "sn48.15",
+    "blurb": "One who has developed the five faculties fully is a perfected one. Developing them to a lesser degree, one reaches lesser attainments.",
+    "difficulty": null,
+    "original_title": "Paṭhamavitthāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "In Detail (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.15_sujato",
+        "segmented": true,
+        "title": "In Detail (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

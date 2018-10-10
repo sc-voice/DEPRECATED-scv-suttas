@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an3.94",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.94",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Springtime",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Assemblies",
+      "uid": "an3.95"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Seclusion",
+      "uid": "an3.93"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.94:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.94:0.2",
+          "pli": "10. Loṇakapallavagga",
+          "en": "10. A Lump of Salt"
+        },
+        {
+          "scid": "an3.94:0.3",
+          "pli": "94. Saradasutta",
+          "en": "94. Springtime"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.94:1.1",
+          "pli": "“Seyyathāpi, bhikkhave, saradasamaye viddhe vigatavalāhake deve ādicco nabhaṃ abbhussakkamāno sabbaṃ ākāsagataṃ tamagataṃ abhivihacca bhāsate ca tapate ca virocati ca.",
+          "en": "“After the rainy season the sky is clear and cloudless. And when the sun rises, it dispels all the darkness from the sky as it shines and glows and radiates."
+        },
+        {
+          "scid": "an3.94:2.1",
+          "pli": "Evamevaṃ kho, bhikkhave, yato ariyasāvakassa virajaṃ vītamalaṃ dhammacakkhuṃ uppajjati, saha dassanuppādā, bhikkhave, ariyasāvakassa tīṇi saṃyojanāni pahīyanti—",
+          "en": "In the same way, when the stainless, immaculate vision of the teaching arises in a noble disciple, three fetters are given up:"
+        },
+        {
+          "scid": "an3.94:2.2",
+          "pli": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso.",
+          "en": "identity view, doubt, and misapprehension of precepts and observances."
+        },
+        {
+          "scid": "an3.94:3.1",
+          "pli": "Athāparaṃ dvīhi dhammehi niyyāti abhijjhāya ca byāpādena ca.",
+          "en": "Afterwards they get rid of two things: desire and aversion."
+        },
+        {
+          "scid": "an3.94:3.2",
+          "pli": "So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "an3.94:3.3",
+          "pli": "Tasmiñce, bhikkhave, samaye ariyasāvako kālaṃ kareyya, natthi taṃ saṃyojanaṃ yena saṃyojanena saṃyutto ariyasāvako puna imaṃ lokaṃ āgaccheyyā”ti.",
+          "en": "If that noble disciple passed away at that time, they’re bound by no fetter that might return them to this world.”"
+        },
+        {
+          "scid": "an3.94:3.4",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“After the rainy season the sky is…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.94/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.94//AN 3.92b",
+    "volpages": "AN i 242",
+    "uid": "an3.94",
+    "blurb": "The clarity of stream-entry is like a cloudless spring sky.",
+    "difficulty": null,
+    "original_title": "Sarada Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Springtime",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.94_sujato",
+        "segmented": true,
+        "title": "Springtime"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 3
+  }
+}

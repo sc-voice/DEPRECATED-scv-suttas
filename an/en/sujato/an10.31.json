@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an10.31",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.31",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Upāli",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Suspending the Recitation of the Monastic Code",
+      "uid": "an10.32"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kosala (2nd)",
+      "uid": "an10.30"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.31:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.31:0.2",
+          "pli": "4. Upālivagga",
+          "en": "4. With Upāli"
+        },
+        {
+          "scid": "an10.31:0.3",
+          "pli": "31. Upālisutta",
+          "en": "31. With Upāli"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.31:1.1",
+          "pli": "Atha kho āyasmā upāli yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā upāli bhagavantaṃ etadavoca:",
+          "en": "Then Venerable Upāli went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "an10.31:1.2",
+          "pli": "“kati nu kho, bhante, atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhan”ti?",
+          "en": "“Sir, for how many reasons did the Realized One lay down training rules for his disciples and recite the monastic code?”"
+        },
+        {
+          "scid": "an10.31:2.1",
+          "pli": "“Dasa kho, upāli, atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhaṃ.",
+          "en": "“Upāli, the Realized One laid down training rules for his disciples and recited the monastic code for ten reasons."
+        },
+        {
+          "scid": "an10.31:2.2",
+          "pli": "Katame dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.31:2.3",
+          "pli": "Saṅghasuṭṭhutāya, saṅghaphāsutāya, dummaṅkūnaṃ puggalānaṃ niggahāya, pesalānaṃ bhikkhūnaṃ phāsuvihārāya, diṭṭhadhammikānaṃ āsavānaṃ saṃvarāya, samparāyikānaṃ āsavānaṃ paṭighātāya, appasannānaṃ pasādāya, pasannānaṃ bhiyyobhāvāya, saddhammaṭṭhitiyā, vinayānuggahāya—",
+          "en": "For the well-being of the Saṅgha and for the comfort of the Saṅgha. For keeping difficult persons in check and for the comfort of good-hearted mendicants. For restraining defilements that affect the present life and protecting against defilements that affect lives to come. For inspiring confidence in those without it, and increasing confidence in those who have it. For the continuation of the true teaching and the support of the training."
+        },
+        {
+          "scid": "an10.31:2.4",
+          "pli": "ime kho, upāli, dasa atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhan”ti.",
+          "en": "The Realized One laid down training rules for his disciples and recited the monastic code for these ten reasons.”"
+        },
+        {
+          "scid": "an10.31:2.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then Venerable Upāli went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.31/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.31",
+    "volpages": "AN v 70",
+    "uid": "an10.31",
+    "blurb": "The Buddha teaches Venerable Upāli the ten reasons for establishing the training rules.",
+    "difficulty": null,
+    "original_title": "Upāli Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Upāli",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.31_sujato",
+        "segmented": true,
+        "title": "With Upāli"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an10.31_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Upāli"
+      }
+    ],
+    "parallel_count": 6,
+    "biblio": null,
+    "num": 1
+  }
+}

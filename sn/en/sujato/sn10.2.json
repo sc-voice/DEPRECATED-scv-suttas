@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn10.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn10.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With a Spirit Named Sakka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Spiky",
+      "uid": "sn10.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Indaka",
+      "uid": "sn10.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn10.2:0.1",
+          "pli": "Saṃyutta Nikāya 10",
+          "en": "Linked Discourses 10"
+        },
+        {
+          "scid": "sn10.2:0.2",
+          "pli": "1. Indakavagga",
+          "en": "1. With Indaka"
+        },
+        {
+          "scid": "sn10.2:0.3",
+          "pli": "2. Sakkanāmasutta",
+          "en": "2. With a Spirit Named Sakka"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn10.2:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate.",
+          "en": "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain."
+        },
+        {
+          "scid": "sn10.2:1.2",
+          "pli": "Atha kho sakkanāmako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Then a spirit named Sakka went up to the Buddha, and addressed him in verse:"
+        },
+        {
+          "scid": "sn10.2:2.1",
+          "pli": "“Sabbaganthappahīnassa,",
+          "en": "“You’ve given up all ties,"
+        },
+        {
+          "scid": "sn10.2:2.2",
+          "pli": "vippamuttassa te sato;",
+          "en": "and are fully freed."
+        },
+        {
+          "scid": "sn10.2:2.3",
+          "pli": "Samaṇassa na taṃ sādhu,",
+          "en": "It’s not a good idea for you, ascetic,"
+        },
+        {
+          "scid": "sn10.2:2.4",
+          "pli": "yadaññamanusāsasī”ti.",
+          "en": "to be instructing others.”"
+        },
+        {
+          "scid": "sn10.2:3.1",
+          "pli": "“Yena kenaci vaṇṇena,",
+          "en": "“No matter what the apparent reason"
+        },
+        {
+          "scid": "sn10.2:3.2",
+          "pli": "saṃvāso sakka jāyati;",
+          "en": "why people are together, Sakka,"
+        },
+        {
+          "scid": "sn10.2:3.3",
+          "pli": "Na taṃ arahati sappañño,",
+          "en": "it’s unworthy for a wise person"
+        },
+        {
+          "scid": "sn10.2:3.4",
+          "pli": "manasā anukampituṃ.",
+          "en": "to not think of the other with compassion."
+        },
+        {
+          "scid": "sn10.2:4.1",
+          "pli": "Manasā ce pasannena,",
+          "en": "If you instruct others"
+        },
+        {
+          "scid": "sn10.2:4.2",
+          "pli": "yadaññamanusāsati;",
+          "en": "with a mind clear and confident,"
+        },
+        {
+          "scid": "sn10.2:4.3",
+          "pli": "Na tena hoti saṃyutto,",
+          "en": "your compassion and empathy"
+        },
+        {
+          "scid": "sn10.2:4.4",
+          "pli": "yānukampā anuddayā”ti.",
+          "en": "don’t create attachments.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn10.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 10.2//SN 236",
+    "volpages": "SN i 206//SN i 444",
+    "uid": "sn10.2",
+    "blurb": "A spirit tells the Buddha that if he is truly free he should not be instructing others.",
+    "difficulty": null,
+    "original_title": "Sakkanāma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With a Spirit Named Sakka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn10.2_sujato",
+        "segmented": true,
+        "title": "With a Spirit Named Sakka"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 2
+  }
+}

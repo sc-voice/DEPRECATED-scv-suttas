@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn37.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Female",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Man",
+      "uid": "sn37.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Spiritual",
+      "uid": "sn36.31"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.1:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.1:0.2",
+          "pli": "1. Paṭhamapeyyālavagga",
+          "en": "1. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.1:0.3",
+          "pli": "1. Mātugāmasutta",
+          "en": "1. A Female"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.1:1.1",
+          "pli": "“Pañcahi, bhikkhave, aṅgehi samannāgato mātugāmo ekantaamanāpo hoti purisassa.",
+          "en": "“Mendicants, when a female has five factors she is extremely undesirable to a man."
+        },
+        {
+          "scid": "sn37.1:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn37.1:1.3",
+          "pli": "Na ca rūpavā hoti, na ca bhogavā hoti, na ca sīlavā hoti, alaso ca hoti, pajañcassa na labhati—",
+          "en": "She’s not attractive, wealthy, or ethical; she’s idle, and she doesn’t beget children."
+        },
+        {
+          "scid": "sn37.1:1.4",
+          "pli": "imehi kho, bhikkhave, pañcahi aṅgehi samannāgato mātugāmo ekantaamanāpo hoti purisassa.",
+          "en": "When a female has these five factors she is extremely undesirable to a man."
+        },
+        {
+          "scid": "sn37.1:1.5",
+          "pli": "Pañcahi, bhikkhave, aṅgehi samannāgato mātugāmo ekantamanāpo hoti purisassa.",
+          "en": "When a female has five factors she is extremely desirable to a man."
+        },
+        {
+          "scid": "sn37.1:1.6",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn37.1:1.7",
+          "pli": "Rūpavā ca hoti, bhogavā ca hoti, sīlavā ca hoti, dakkho ca hoti analaso, pajañcassa labhati—",
+          "en": "She’s attractive, wealthy, and ethical; she’s skillful and tireless, and she begets children."
+        },
+        {
+          "scid": "sn37.1:1.8",
+          "pli": "imehi kho, bhikkhave, pañcahi aṅgehi samannāgato mātugāmo ekantamanāpo hoti purisassā”ti.",
+          "en": "When a female has these five factors she is extremely desirable to a man.”"
+        },
+        {
+          "scid": "sn37.1:1.9",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.1",
+    "volpages": "SN iv 238",
+    "uid": "sn37.1",
+    "blurb": "Five things that make a woman either agreeable or disagreeable to men.",
+    "difficulty": null,
+    "original_title": "Mātugāma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Female",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.1_sujato",
+        "segmented": true,
+        "title": "A Female"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

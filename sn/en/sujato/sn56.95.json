@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn56.95",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.95",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Bribery",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mutilation, etc.",
+      "uid": "sn56.96-101"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "False Weights",
+      "uid": "sn56.94"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.95:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.95:0.2",
+          "pli": "10. Catutthaāmakadhaññapeyyālavagga",
+          "en": "10. Abbreviated Texts on Raw Grain"
+        },
+        {
+          "scid": "sn56.95:0.3",
+          "pli": "95. Ukkoṭanasutta",
+          "en": "95. Bribery"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.95:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye ukkoṭanavañcananikatisāciyogā paṭiviratā; atha kho eteva bahutarā sattā ye ukkoṭanavañcananikatisāciyogā appaṭiviratā … pe ….",
+          "en": "“… the sentient beings who refrain from bribery, fraud, cheating, and duplicity are few, while those who don’t refrain are many. …”"
+        },
+        {
+          "scid": "sn56.95:1.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who refrain from…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.95/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.95",
+    "volpages": "SN v 473",
+    "uid": "sn56.95",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ukkoṭana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bribery",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.95_sujato",
+        "segmented": true,
+        "title": "Bribery"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 5
+  }
+}

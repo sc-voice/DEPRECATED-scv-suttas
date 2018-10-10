@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn47.32",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.32",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fading Away",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Missed Out",
+      "uid": "sn47.33"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Not Learned From Anyone Else",
+      "uid": "sn47.31"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.32:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.32:0.2",
+          "pli": "4. Ananussutavagga",
+          "en": "4. Not Learned From Anyone Else"
+        },
+        {
+          "scid": "sn47.32:0.3",
+          "pli": "32. Virāgasutta",
+          "en": "32. Fading Away"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.32:1.1",
+          "pli": "“Cattārome, bhikkhave, satipaṭṭhānā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti.",
+          "en": "“Mendicants, these four kinds of mindfulness meditation, when developed and cultivated, lead solely to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment."
+        },
+        {
+          "scid": "sn47.32:2.1",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn47.32:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.32:2.3",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn47.32:2.4",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn47.32:2.5",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.32:2.6",
+          "pli": "Ime kho, bhikkhave, cattāro satipaṭṭhānā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattantī”ti.",
+          "en": "These four kinds of mindfulness meditation, when developed and cultivated, lead solely to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment.”"
+        },
+        {
+          "scid": "sn47.32:2.7",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.32/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 47.32",
+    "volpages": "SN v 179",
+    "uid": "sn47.32",
+    "blurb": "The four kinds of mindfulness meditation lead to peace.",
+    "difficulty": null,
+    "original_title": "Virāga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fading Away",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.32_sujato",
+        "segmented": true,
+        "title": "Fading Away"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.32_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Dispassion"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

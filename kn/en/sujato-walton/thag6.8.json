@@ -1,0 +1,133 @@
+{
+  "sutta_uid": "thag6.8",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag6.8",
+    "lang": "en",
+    "is_root": false,
+    "title": "Migajāla",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Purohitaputtajenta",
+      "uid": "thag6.9"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Kātiyāna",
+      "uid": "thag6.7"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag6.8:0.1",
+          "en": "Theragāthā 6.8"
+        },
+        {
+          "scid": "thag6.8:0.2",
+          "en": "Migajāla",
+          "pli": "Migajālattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag6.8:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag6.8:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag6.8:1.0.3",
+          "en": "Chapter of the Sixes"
+        },
+        {
+          "scid": "thag6.8:1.0.4",
+          "en": "6.8. Migajāla"
+        },
+        {
+          "scid": "thag6.8:1.1.5",
+          "en": "It was well-taught by the one who sees, The Buddha, Kinsman of the Sun, Who has gone beyond all fetters, And destroyed all rolling-on."
+        },
+        {
+          "scid": "thag6.8:1.2.6",
+          "en": "Leading to liberation, crossing over, Drying up the root of craving, Cutting off the root of poison, the slaughter-house, And leading to nibbāna."
+        },
+        {
+          "scid": "thag6.8:1.3.7",
+          "en": "By breaking the root of unknowing, It smashes the mechanism of deeds, And looses the thunderbolt of knowledge On the taking up of consciousnesses."
+        },
+        {
+          "scid": "thag6.8:1.4.8",
+          "en": "Informing us about our feelings, Freeing us from grasping, Wisely contemplating all states of existence As a pit of burning coals."
+        },
+        {
+          "scid": "thag6.8:1.5.9",
+          "en": "Very sweet, very deep, Preventing birth and death, Leading to the stilling of suffering, bliss— It is the noble eightfold path."
+        },
+        {
+          "scid": "thag6.8:1.6.10",
+          "en": "Knowing deed as deed, And result as result; Seeing dependently originated phenomena As if they were in a clear light; Leading to great security, peace, It’s excellent at the end."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag6.8/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 6.8",
+    "volpages": "Thag 45",
+    "uid": "thag6.8",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Migajālattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Migajāla",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag6.8_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Migajāla"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

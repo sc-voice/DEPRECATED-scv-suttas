@@ -1,0 +1,1090 @@
+{
+  "sutta_uid": "mn25",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn25",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fodder",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Noble Search",
+      "uid": "mn26"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Prepared Chariots",
+      "uid": "mn24"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn25:0.1",
+          "pli": "Majjhima Nikāya 25",
+          "en": "Middle Discourses 25"
+        },
+        {
+          "scid": "mn25:0.2",
+          "pli": "Nivāpasutta",
+          "en": "Fodder"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 25…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn25:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn25:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn25:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "mn25:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "mn25:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "mn25:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn25:2.1",
+          "pli": "“Na, bhikkhave, nevāpiko nivāpaṃ nivapati migajātānaṃ:",
+          "en": "“Mendicants, a trapper doesn’t cast bait for deer thinking:"
+        },
+        {
+          "scid": "mn25:2.2",
+          "pli": "‘imaṃ me nivāpaṃ nivuttaṃ migajātā paribhuñjantā dīghāyukā vaṇṇavanto ciraṃ dīghamaddhānaṃ yāpentū’ti.",
+          "en": "‘May the deer, enjoying this bait, be healthy and in good condition. May they live long and prosper!’"
+        },
+        {
+          "scid": "mn25:2.3",
+          "pli": "Evañca kho, bhikkhave, nevāpiko nivāpaṃ nivapati migajātānaṃ:",
+          "en": "A trapper casts bait for deer thinking:"
+        },
+        {
+          "scid": "mn25:2.4",
+          "pli": "‘imaṃ me nivāpaṃ nivuttaṃ migajātā anupakhajja mucchitā bhojanāni bhuñjissanti, anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjissanti, mattā samānā pamādaṃ āpajjissanti, pamattā samānā yathākāmakaraṇīyā bhavissanti imasmiṃ nivāpe’ti.",
+          "en": "‘When these deer intrude on where I cast the bait, they’ll recklessly enjoy eating it. They’ll become indulgent, then they’ll become negligent, and then they’ll be vulnerable on account of this bait.’"
+        },
+        {
+          "scid": "mn25:3.1",
+          "pli": "Tatra, bhikkhave, paṭhamā migajātā amuṃ nivāpaṃ nivuttaṃ nevāpikassa anupakhajja mucchitā bhojanāni bhuñjiṃsu, te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe.",
+          "en": "And indeed, the first herd of deer intruded on where the trapper cast the bait and recklessly enjoyed eating it. They became indulgent, then they became negligent, and then they were vulnerable to the trapper on account of that bait."
+        },
+        {
+          "scid": "mn25:3.2",
+          "pli": "Evañhi te, bhikkhave, paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": "And that’s how the first herd of deer failed to get free from the trapper’s power."
+        },
+        {
+          "scid": "mn25:4.1",
+          "pli": "Tatra, bhikkhave, dutiyā migajātā evaṃ samacintesuṃ:",
+          "en": "So then a second herd of deer thought up a plan:"
+        },
+        {
+          "scid": "mn25:4.2",
+          "pli": "‘ye kho te paṭhamā migajātā amuṃ nivāpaṃ nivuttaṃ nevāpikassa anupakhajja mucchitā bhojanāni bhuñjiṃsu.",
+          "en": "‘The first herd of deer became indulgent …"
+        },
+        {
+          "scid": "mn25:4.3",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:4.4",
+          "pli": "Evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": "and failed to get free of the trapper’s power."
+        },
+        {
+          "scid": "mn25:4.5",
+          "pli": "Yannūna mayaṃ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti.",
+          "en": "Why don’t we avoid eating the bait altogether? Avoiding dangerous food, we can venture deep into a wilderness region and live there.’"
+        },
+        {
+          "scid": "mn25:4.6",
+          "pli": "Te sabbaso nivāpabhojanā paṭiviramiṃsu, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṃsu.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:4.7",
+          "pli": "Tesaṃ gimhānaṃ pacchime māse, tiṇodakasaṅkhaye, adhimattakasimānaṃ patto kāyo hoti.",
+          "en": "But when it came to the last month of summer, the grass and water ran out. Their bodies became much too thin,"
+        },
+        {
+          "scid": "mn25:4.8",
+          "pli": "Tesaṃ adhimattakasimānaṃ pattakāyānaṃ balavīriyaṃ parihāyi.",
+          "en": "and they lost their strength and energy."
+        },
+        {
+          "scid": "mn25:4.9",
+          "pli": "Balavīriye parihīne tameva nivāpaṃ nivuttaṃ nevāpikassa paccāgamiṃsu.",
+          "en": "So they went back to that same place where the trapper had cast bait."
+        },
+        {
+          "scid": "mn25:4.10",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṃsu.",
+          "en": "Intruding on that place, they recklessly enjoyed eating it …"
+        },
+        {
+          "scid": "mn25:4.11",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:4.12",
+          "pli": "Evañhi te, bhikkhave, dutiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": "And that’s how the second herd failed to get free from the trapper’s power."
+        },
+        {
+          "scid": "mn25:5.1",
+          "pli": "Tatra, bhikkhave, tatiyā migajātā evaṃ samacintesuṃ:",
+          "en": "So then a third herd of deer thought up a plan:"
+        },
+        {
+          "scid": "mn25:5.2",
+          "pli": "‘ye kho te paṭhamā migajātā amuṃ nivāpaṃ nivuttaṃ nevāpikassa … pe …",
+          "en": "‘The first …"
+        },
+        {
+          "scid": "mn25:5.3",
+          "pli": "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.4",
+          "pli": "Yepi te dutiyā migajātā evaṃ samacintesuṃ:",
+          "en": "and second herds of deer …"
+        },
+        {
+          "scid": "mn25:5.5",
+          "pli": "“ye kho te paṭhamā migajātā amuṃ nivāpaṃ nivuttaṃ nevāpikassa … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.6",
+          "pli": "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.7",
+          "pli": "Yannūna mayaṃ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.8",
+          "pli": "Te sabbaso nivāpabhojanā paṭiviramiṃsu, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.9",
+          "pli": "Tesaṃ gimhānaṃ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṃ patto kāyo hoti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.10",
+          "pli": "Tesaṃ adhimattakasimānaṃ pattakāyānaṃ balavīriyaṃ parihāyi.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.11",
+          "pli": "Balavīriye parihīne tameva nivāpaṃ nivuttaṃ nevāpikassa paccāgamiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.12",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.13",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.14",
+          "pli": "Evañhi te dutiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": "failed to get free of the trapper’s power."
+        },
+        {
+          "scid": "mn25:5.15",
+          "pli": "Yannūna mayaṃ amuṃ nivāpaṃ nivuttaṃ nevāpikassa upanissāya āsayaṃ kappeyyāma.",
+          "en": "Why don’t we set up our lair close by the place where the trapper has cast the bait?"
+        },
+        {
+          "scid": "mn25:5.16",
+          "pli": "Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṃ nivāpe’ti.",
+          "en": "Then we can intrude on it and enjoy eating without being reckless. We won’t become indulgent, then we won’t became negligent, and then we won’t be vulnerable to the trapper on account of that bait.’"
+        },
+        {
+          "scid": "mn25:5.17",
+          "pli": "Te amuṃ nivāpaṃ nivuttaṃ nevāpikassa upanissāya āsayaṃ kappayiṃsu.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:5.18",
+          "pli": "Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṃsu, te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ āpajjiṃsu, appamattā samānā na yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:5.19",
+          "pli": "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:",
+          "en": "So the trapper and his companions thought:"
+        },
+        {
+          "scid": "mn25:5.20",
+          "pli": "‘saṭhāssunāmime tatiyā migajātā ketabino, iddhimantāssunāmime tatiyā migajātā parajanā;",
+          "en": "‘Wow, this third herd of deer is so sneaky and devious, they must be some kind of unnatural spirits with psychic power!"
+        },
+        {
+          "scid": "mn25:5.21",
+          "pli": "imañca nāma nivāpaṃ nivuttaṃ paribhuñjanti, na ca nesaṃ jānāma āgatiṃ vā gatiṃ vā.",
+          "en": "For they eat the bait we’ve cast without us knowing how they come and go."
+        },
+        {
+          "scid": "mn25:5.22",
+          "pli": "Yannūna mayaṃ imaṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ anuparivāreyyāma, appeva nāma tatiyānaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun’ti.",
+          "en": "Why don’t we surround the bait on all sides by staking out high nets? Hopefully we might get to see their lair, where they go to hide out.’"
+        },
+        {
+          "scid": "mn25:5.23",
+          "pli": "Te amuṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ anuparivāresuṃ.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:5.24",
+          "pli": "Addasaṃsu kho, bhikkhave, nevāpiko ca nevāpikaparisā ca tatiyānaṃ migajātānaṃ āsayaṃ, yattha te gāhaṃ agamaṃsu.",
+          "en": "And they saw where the third herd of deer had their lair, where they went to hide out."
+        },
+        {
+          "scid": "mn25:5.25",
+          "pli": "Evañhi te, bhikkhave, tatiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": "And that’s how the third herd failed to get free from the trapper’s power."
+        },
+        {
+          "scid": "mn25:6.1",
+          "pli": "Tatra, bhikkhave, catutthā migajātā evaṃ samacintesuṃ:",
+          "en": "So then a fourth herd of deer thought up a plan:"
+        },
+        {
+          "scid": "mn25:6.2",
+          "pli": "‘ye kho te paṭhamā migajātā … pe …",
+          "en": "‘The first …"
+        },
+        {
+          "scid": "mn25:6.3",
+          "pli": "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.4",
+          "pli": "Yepi te dutiyā migajātā evaṃ samacintesuṃ:",
+          "en": "second …"
+        },
+        {
+          "scid": "mn25:6.5",
+          "pli": "“ye kho te paṭhamā migajātā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.6",
+          "pli": "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.7",
+          "pli": "Yannūna mayaṃ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.8",
+          "pli": "Te sabbaso nivāpabhojanā paṭiviramiṃsu … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.9",
+          "pli": "evañhi te dutiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.10",
+          "pli": "Yepi te tatiyā migajātā evaṃ samacintesuṃ:",
+          "en": "and third herds of deer …"
+        },
+        {
+          "scid": "mn25:6.11",
+          "pli": "“ye kho te paṭhamā migajātā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.12",
+          "pli": "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.13",
+          "pli": "Yepi te dutiyā migajātā evaṃ samacintesuṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.14",
+          "pli": "‘ye kho te paṭhamā migajātā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.15",
+          "pli": "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.16",
+          "pli": "Yannūna mayaṃ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.17",
+          "pli": "Te sabbaso nivāpabhojanā paṭiviramiṃsu … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.18",
+          "pli": "evañhi te dutiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.19",
+          "pli": "Yannūna mayaṃ amuṃ nivāpaṃ nivuttaṃ nevāpikassa upanissāya āsayaṃ kappeyyāma, tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṃ nivāpe”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.20",
+          "pli": "Te amuṃ nivāpaṃ nivuttaṃ nevāpikassa upanissāya āsayaṃ kappayiṃsu, tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṃsu, te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ āpajjiṃsu, appamattā samānā na yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.21",
+          "pli": "Tatra nevāpikassa ca nevāpikaparisāya ca etadahosi:",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.22",
+          "pli": "“saṭhāssunāmime tatiyā migajātā ketabino, iddhimantāssunāmime tatiyā migajātā parajanā, imañca nāma nivāpaṃ nivuttaṃ paribhuñjanti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.23",
+          "pli": "Na ca nesaṃ jānāma āgatiṃ vā gatiṃ vā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.24",
+          "pli": "Yannūna mayaṃ imaṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ anuparivāreyyāma, appeva nāma tatiyānaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.25",
+          "pli": "Te amuṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ anuparivāresuṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.26",
+          "pli": "Addasaṃsu kho nevāpiko ca nevāpikaparisā ca tatiyānaṃ migajātānaṃ āsayaṃ, yattha te gāhaṃ agamaṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.27",
+          "pli": "Evañhi te tatiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": "failed to get free of the trapper’s power."
+        },
+        {
+          "scid": "mn25:6.28",
+          "pli": "Yannūna mayaṃ yattha agati nevāpikassa ca nevāpikaparisāya ca tatrāsayaṃ kappeyyāma, tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṃ nivāpe’ti.",
+          "en": "Why don’t we set up our lair somewhere the trapper and his companions can’t go? Then we can intrude on where the trapper has cast the bait and enjoy eating it without being reckless. We won’t become indulgent, then we won’t became negligent, and then we won’t be vulnerable to the trapper on account of that bait.’"
+        },
+        {
+          "scid": "mn25:6.29",
+          "pli": "Te yattha agati nevāpikassa ca nevāpikaparisāya ca tatrāsayaṃ kappayiṃsu.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:6.30",
+          "pli": "Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṃsu, te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ āpajjiṃsu, appamattā samānā na yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:6.31",
+          "pli": "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:",
+          "en": "So the trapper and his companions thought:"
+        },
+        {
+          "scid": "mn25:6.32",
+          "pli": "‘saṭhāssunāmime catutthā migajātā ketabino, iddhimantāssunāmime catutthā migajātā parajanā.",
+          "en": "‘Wow, this fourth herd of deer is so sneaky and devious, they must be some kind of unnatural spirits with psychic power!"
+        },
+        {
+          "scid": "mn25:6.33",
+          "pli": "Imañca nāma nivāpaṃ nivuttaṃ paribhuñjanti, na ca nesaṃ jānāma āgatiṃ vā gatiṃ vā.",
+          "en": "For they eat the bait we’ve cast without us knowing how they come and go."
+        },
+        {
+          "scid": "mn25:6.34",
+          "pli": "Yannūna mayaṃ imaṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ anuparivāreyyāma, appeva nāma catutthānaṃ migajātānaṃ āsayaṃ passeyyāma yattha te gāhaṃ gaccheyyun’ti.",
+          "en": "Why don’t we surround the bait on all sides by staking out high nets? Hopefully we might get to see their lair, where they go to hide out.’"
+        },
+        {
+          "scid": "mn25:6.35",
+          "pli": "Te amuṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ anuparivāresuṃ.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:6.36",
+          "pli": "Neva kho, bhikkhave, addasaṃsu nevāpiko ca nevāpikaparisā ca catutthānaṃ migajātānaṃ āsayaṃ, yattha te gāhaṃ gaccheyyuṃ.",
+          "en": "But they couldn’t see where the fourth herd of deer had their lair, where they went to hide out."
+        },
+        {
+          "scid": "mn25:6.37",
+          "pli": "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:",
+          "en": "So the trapper and his companions thought:"
+        },
+        {
+          "scid": "mn25:6.38",
+          "pli": "‘sace kho mayaṃ catutthe migajāte ghaṭṭessāma, te ghaṭṭitā aññe ghaṭṭissanti te ghaṭṭitā aññe ghaṭṭissanti.",
+          "en": "‘If we disturb this fourth herd of deer, they’ll disturb others, who in turn will disturb even more."
+        },
+        {
+          "scid": "mn25:6.39",
+          "pli": "Evaṃ imaṃ nivāpaṃ nivuttaṃ sabbaso migajātā parimuñcissanti.",
+          "en": "Then all of the deer will be free from this bait we’ve cast."
+        },
+        {
+          "scid": "mn25:6.40",
+          "pli": "Yannūna mayaṃ catutthe migajāte ajjhupekkheyyāmā’ti.",
+          "en": "Why don’t we just keep an eye on that fourth herd?’"
+        },
+        {
+          "scid": "mn25:6.41",
+          "pli": "Ajjhupekkhiṃsu kho, bhikkhave, nevāpiko ca nevāpikaparisā ca catutthe migajāte.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:6.42",
+          "pli": "Evañhi te, bhikkhave, catutthā migajātā parimucciṃsu nevāpikassa iddhānubhāvā.",
+          "en": "And that’s how the fourth herd of deer got free from the trapper’s power."
+        },
+        {
+          "scid": "mn25:7.1",
+          "pli": "Upamā kho me ayaṃ, bhikkhave, katā atthassa viññāpanāya.",
+          "en": "I’ve made up this simile to make a point."
+        },
+        {
+          "scid": "mn25:7.2",
+          "pli": "Ayaṃ cevettha attho—",
+          "en": "And this is what it means."
+        },
+        {
+          "scid": "mn25:7.3",
+          "pli": "nivāpoti kho, bhikkhave, pañcannetaṃ kāmaguṇānaṃ adhivacanaṃ.",
+          "en": "‘Bait’ is a term for the five kinds of sensual stimulation."
+        },
+        {
+          "scid": "mn25:7.4",
+          "pli": "Nevāpikoti kho, bhikkhave, mārassetaṃ pāpimato adhivacanaṃ.",
+          "en": "‘Trapper’ is a term for Māra the Wicked."
+        },
+        {
+          "scid": "mn25:7.5",
+          "pli": "Nevāpikaparisāti kho, bhikkhave, māraparisāyetaṃ adhivacanaṃ.",
+          "en": "‘Trapper’s companions’ is a term for Māra’s assembly."
+        },
+        {
+          "scid": "mn25:7.6",
+          "pli": "Migajātāti kho, bhikkhave, samaṇabrāhmaṇānametaṃ adhivacanaṃ.",
+          "en": "‘Deer’ is a term for ascetics and brahmins."
+        },
+        {
+          "scid": "mn25:8.1",
+          "pli": "Tatra, bhikkhave, paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni anupakhajja mucchitā bhojanāni bhuñjiṃsu.",
+          "en": "Now, the first group of ascetics and brahmins intruded on where the bait and the carnal delights of the world were cast by Māra and recklessly enjoyed eating it."
+        },
+        {
+          "scid": "mn25:8.2",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ nivāpe amusmiñca lokāmise.",
+          "en": "They became indulgent, then they became negligent, and then they were vulnerable to Māra on account of that bait and the carnal delights of the world."
+        },
+        {
+          "scid": "mn25:8.3",
+          "pli": "Evañhi te, bhikkhave, paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": "And that’s how the first group of ascetics and brahmins failed to get free from Māra’s power."
+        },
+        {
+          "scid": "mn25:8.4",
+          "pli": "Seyyathāpi te, bhikkhave, paṭhamā migajātā tathūpame ahaṃ ime paṭhame samaṇabrāhmaṇe vadāmi.",
+          "en": "This first group of ascetics and brahmins is just like the first herd of deer, I say."
+        },
+        {
+          "scid": "mn25:9.1",
+          "pli": "Tatra, bhikkhave, dutiyā samaṇabrāhmaṇā evaṃ samacintesuṃ:",
+          "en": "So then a second group of ascetics and brahmins thought up a plan:"
+        },
+        {
+          "scid": "mn25:9.2",
+          "pli": "‘ye kho te paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni anupakhajja mucchitā bhojanāni bhuñjiṃsu.",
+          "en": "‘The first group of ascetics and brahmins became indulgent …"
+        },
+        {
+          "scid": "mn25:9.3",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ nivāpe amusmiñca lokāmise.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:9.4",
+          "pli": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": "and failed to get free of Māra’s power."
+        },
+        {
+          "scid": "mn25:9.5",
+          "pli": "Yannūna mayaṃ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti.",
+          "en": "Why don’t we avoid eating the bait and the world’s carnal delights altogether? Avoiding dangerous food, we can venture deep into a wilderness region and live there.’"
+        },
+        {
+          "scid": "mn25:9.6",
+          "pli": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:9.7",
+          "pli": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṃsu.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:9.8",
+          "pli": "Te tattha sākabhakkhāpi ahesuṃ, sāmākabhakkhāpi ahesuṃ, nīvārabhakkhāpi ahesuṃ, daddulabhakkhāpi ahesuṃ, haṭabhakkhāpi ahesuṃ, kaṇabhakkhāpi ahesuṃ, ācāmabhakkhāpi ahesuṃ, piññākabhakkhāpi ahesuṃ, tiṇabhakkhāpi ahesuṃ, gomayabhakkhāpi ahesuṃ, vanamūlaphalāhārā yāpesuṃ pavattaphalabhojī.",
+          "en": "They ate herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. They survived on forest roots and fruits, or eating fallen fruit."
+        },
+        {
+          "scid": "mn25:9.9",
+          "pli": "Tesaṃ gimhānaṃ pacchime māse, tiṇodakasaṅkhaye, adhimattakasimānaṃ patto kāyo hoti.",
+          "en": "But when it came to the last month of summer, the grass and water ran out. Their bodies became much too thin,"
+        },
+        {
+          "scid": "mn25:9.10",
+          "pli": "Tesaṃ adhimattakasimānaṃ pattakāyānaṃ balavīriyaṃ parihāyi.",
+          "en": "and they lost their strength and energy."
+        },
+        {
+          "scid": "mn25:9.11",
+          "pli": "Balavīriye parihīne cetovimutti parihāyi.",
+          "en": "Because of this, they lost their heart’s release,"
+        },
+        {
+          "scid": "mn25:9.12",
+          "pli": "Cetovimuttiyā parihīnāya tameva nivāpaṃ nivuttaṃ mārassa paccāgamiṃsu tāni ca lokāmisāni.",
+          "en": "so they went back to that same place where Māra had cast the bait and the carnal delights of the world."
+        },
+        {
+          "scid": "mn25:9.13",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṃsu.",
+          "en": "Intruding on that place, they recklessly enjoyed eating them …"
+        },
+        {
+          "scid": "mn25:9.14",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ nivāpe amusmiñca lokāmise.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:9.15",
+          "pli": "Evañhi te, bhikkhave, dutiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": "And that’s how the second group of ascetics and brahmins failed to get free from Māra’s power."
+        },
+        {
+          "scid": "mn25:9.16",
+          "pli": "Seyyathāpi te, bhikkhave, dutiyā migajātā tathūpame ahaṃ ime dutiye samaṇabrāhmaṇe vadāmi.",
+          "en": "This second group of ascetics and brahmins is just like the second herd of deer, I say."
+        },
+        {
+          "scid": "mn25:10.1",
+          "pli": "Tatra, bhikkhave, tatiyā samaṇabrāhmaṇā evaṃ samacintesuṃ:",
+          "en": "So then a third group of ascetics and brahmins thought up a plan:"
+        },
+        {
+          "scid": "mn25:10.2",
+          "pli": "‘ye kho te paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni … pe ….",
+          "en": "‘The first …"
+        },
+        {
+          "scid": "mn25:10.3",
+          "pli": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.4",
+          "pli": "Yepi te dutiyā samaṇabrāhmaṇā evaṃ samacintesuṃ:",
+          "en": "and second groups of ascetics and brahmins …"
+        },
+        {
+          "scid": "mn25:10.5",
+          "pli": "“ye kho te paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni … pe ….",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.6",
+          "pli": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.7",
+          "pli": "Yannūna mayaṃ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.8",
+          "pli": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.9",
+          "pli": "Bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.10",
+          "pli": "Te tattha sākabhakkhāpi ahesuṃ … pe … pavattaphalabhojī.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.11",
+          "pli": "Tesaṃ gimhānaṃ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṃ patto kāyo hoti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.12",
+          "pli": "Tesaṃ adhimattakasimānaṃ pattakāyānaṃ balavīriyaṃ parihāyi, balavīriye parihīne cetovimutti parihāyi, cetovimuttiyā parihīnāya tameva nivāpaṃ nivuttaṃ mārassa paccāgamiṃsu tāni ca lokāmisāni.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.13",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.14",
+          "pli": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ nivāpe amusmiñca lokāmise.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.15",
+          "pli": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": "failed to get free of Māra’s power."
+        },
+        {
+          "scid": "mn25:10.16",
+          "pli": "Yannūna mayaṃ amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni upanissāya āsayaṃ kappeyyāma, tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṃ nivāpe amusmiñca lokāmise’ti.",
+          "en": "Why don’t we set up our lair close by the place where Māra has cast the bait and those carnal delights of the world? Then we can intrude on it and enjoy eating without being reckless. We won’t become indulgent, then we won’t became negligent, and then we won’t be vulnerable to Māra on account of that bait and those carnal delights of the world.’"
+        },
+        {
+          "scid": "mn25:10.17",
+          "pli": "Te amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni upanissāya āsayaṃ kappayiṃsu.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:10.18",
+          "pli": "Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.19",
+          "pli": "Te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ āpajjiṃsu, appamattā samānā na yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ nivāpe amusmiñca lokāmise.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:10.20",
+          "pli": "Api ca kho evaṃdiṭṭhikā ahesuṃ—",
+          "en": "Still, they had such views as these:"
+        },
+        {
+          "scid": "mn25:10.21",
+          "pli": "sassato loko itipi, asassato loko itipi;",
+          "en": "‘The world is eternal’ or ‘The world is not eternal’;"
+        },
+        {
+          "scid": "mn25:10.22",
+          "pli": "antavā loko itipi, anantavā loko itipi;",
+          "en": "‘The world is finite’ or ‘The world is infinite’;"
+        },
+        {
+          "scid": "mn25:10.23",
+          "pli": "taṃ jīvaṃ taṃ sarīraṃ itipi, aññaṃ jīvaṃ aññaṃ sarīraṃ itipi;",
+          "en": "‘The soul and the body are the same thing’ or ‘The soul and the body are different things’;"
+        },
+        {
+          "scid": "mn25:10.24",
+          "pli": "hoti tathāgato paraṃ maraṇā itipi, na hoti tathāgato paraṃ maraṇā itipi, hoti ca na ca hoti tathāgato paraṃ maraṇā itipi, neva hoti na na hoti tathāgato paraṃ maraṇā itipi.",
+          "en": "or that after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist."
+        },
+        {
+          "scid": "mn25:10.25",
+          "pli": "Evañhi te, bhikkhave, tatiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": "And that’s how the third group of ascetics and brahmins failed to get free from Māra’s power."
+        },
+        {
+          "scid": "mn25:10.26",
+          "pli": "Seyyathāpi te, bhikkhave, tatiyā migajātā tathūpame ahaṃ ime tatiye samaṇabrāhmaṇe vadāmi.",
+          "en": "This third group of ascetics and brahmins is just like the third herd of deer, I say."
+        },
+        {
+          "scid": "mn25:11.1",
+          "pli": "Tatra, bhikkhave, catutthā samaṇabrāhmaṇā evaṃ samacintesuṃ:",
+          "en": "So then a fourth group of ascetics and brahmins thought up a plan:"
+        },
+        {
+          "scid": "mn25:11.2",
+          "pli": "‘ye kho te paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa … pe ….",
+          "en": "‘The first …"
+        },
+        {
+          "scid": "mn25:11.3",
+          "pli": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.4",
+          "pli": "Yepi te dutiyā samaṇabrāhmaṇā evaṃ samacintesuṃ:",
+          "en": "second …"
+        },
+        {
+          "scid": "mn25:11.5",
+          "pli": "‘ye kho te paṭhamā samaṇabrāhmaṇā … pe ….",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.6",
+          "pli": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.7",
+          "pli": "Yannūna mayaṃ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.8",
+          "pli": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu … pe ….",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.9",
+          "pli": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.10",
+          "pli": "Yepi te tatiyā samaṇabrāhmaṇā evaṃ samacintesuṃ ye kho te paṭhamā samaṇabrāhmaṇā … pe ….",
+          "en": "and third groups of ascetics and brahmins …"
+        },
+        {
+          "scid": "mn25:11.11",
+          "pli": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.12",
+          "pli": "Yepi te dutiyā samaṇabrāhmaṇā evaṃ samacintesuṃ ye kho te paṭhamā samaṇabrāhmaṇā … pe ….",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.13",
+          "pli": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.14",
+          "pli": "Yannūna mayaṃ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.15",
+          "pli": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu … pe ….",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.16",
+          "pli": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.17",
+          "pli": "Yannūna mayaṃ amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni upanissāya āsayaṃ kappeyyāma.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.18",
+          "pli": "Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṃ nivāpe amusmiñca lokāmiseti.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.19",
+          "pli": "Te amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni upanissāya āsayaṃ kappayiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.20",
+          "pli": "Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.21",
+          "pli": "Te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.22",
+          "pli": "Amattā samānā na pamādaṃ āpajjiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.23",
+          "pli": "Appamattā samānā na yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ nivāpe amusmiñca lokāmise.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.24",
+          "pli": "Api ca kho evaṃdiṭṭhikā ahesuṃ sassato loko itipi … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.25",
+          "pli": "neva hoti na na hoti tathāgato paraṃ maraṇā itipi.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.26",
+          "pli": "Evañhi te tatiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā.",
+          "en": "failed to get free of Māra’s power."
+        },
+        {
+          "scid": "mn25:11.27",
+          "pli": "Yannūna mayaṃ yattha agati mārassa ca māraparisāya ca tatrāsayaṃ kappeyyāma.",
+          "en": "Why don’t we set up our lair somewhere Māra and his assembly can’t go?"
+        },
+        {
+          "scid": "mn25:11.28",
+          "pli": "Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṃ nivāpe amusmiñca lokāmiseti.",
+          "en": "Then we can intrude on where Māra has cast the bait and those carnal delights of the world, and enjoy eating without being reckless. We won’t become indulgent, then we won’t became negligent, and then we won’t be vulnerable to Māra on account of that bait and those carnal delights of the world.’"
+        },
+        {
+          "scid": "mn25:11.29",
+          "pli": "Te yattha agati mārassa ca māraparisāya ca tatrāsayaṃ kappayiṃsu.",
+          "en": "And that’s just what they did."
+        },
+        {
+          "scid": "mn25:11.30",
+          "pli": "Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṃsu, te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ āpajjiṃsu, appamattā samānā na yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ nivāpe amusmiñca lokāmise.",
+          "en": ""
+        },
+        {
+          "scid": "mn25:11.31",
+          "pli": "Evañhi te, bhikkhave, catutthā samaṇabrāhmaṇā parimucciṃsu mārassa iddhānubhāvā.",
+          "en": "And that’s how the fourth group of ascetics and brahmins got free from Māra’s power."
+        },
+        {
+          "scid": "mn25:11.32",
+          "pli": "Seyyathāpi te, bhikkhave, catutthā migajātā tathūpame ahaṃ ime catutthe samaṇabrāhmaṇe vadāmi.",
+          "en": "This fourth group of ascetics and brahmins is just like the fourth herd of deer, I say."
+        },
+        {
+          "scid": "mn25:12.1",
+          "pli": "Kathañca, bhikkhave, agati mārassa ca māraparisāya ca?",
+          "en": "And where is it that Māra and his assembly can’t go?"
+        },
+        {
+          "scid": "mn25:12.2",
+          "pli": "Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn25:12.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, bhikkhu andhamakāsi māraṃ, apadaṃ vadhitvā māracakkhuṃ adassanaṃ gato pāpimato.",
+          "en": "This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see."
+        },
+        {
+          "scid": "mn25:13.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn25:13.2",
+          "pli": "Ayaṃ vuccati, bhikkhave … pe … pāpimato.",
+          "en": "This is called a mendicant who has blinded Māra …"
+        },
+        {
+          "scid": "mn25:14.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’"
+        },
+        {
+          "scid": "mn25:14.2",
+          "pli": "Ayaṃ vuccati, bhikkhave … pe … pāpimato.",
+          "en": "This is called a mendicant who has blinded Māra …"
+        },
+        {
+          "scid": "mn25:15.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.",
+          "en": "Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness."
+        },
+        {
+          "scid": "mn25:15.2",
+          "pli": "Ayaṃ vuccati, bhikkhave … pe … pāpimato.",
+          "en": "This is called a mendicant who has blinded Māra …"
+        },
+        {
+          "scid": "mn25:16.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati.",
+          "en": "Furthermore, a mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space."
+        },
+        {
+          "scid": "mn25:16.2",
+          "pli": "Ayaṃ vuccati, bhikkhave … pe … pāpimato.",
+          "en": "This is called a mendicant who has blinded Māra …"
+        },
+        {
+          "scid": "mn25:17.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇan’ti viññāṇañcāyatanaṃ upasampajja viharati.",
+          "en": "Furthermore, a mendicant, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness."
+        },
+        {
+          "scid": "mn25:17.2",
+          "pli": "Ayaṃ vuccati, bhikkhave … pe … pāpimato.",
+          "en": "This is called a mendicant who has blinded Māra …"
+        },
+        {
+          "scid": "mn25:18.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati.",
+          "en": "Furthermore, a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness."
+        },
+        {
+          "scid": "mn25:18.2",
+          "pli": "Ayaṃ vuccati, bhikkhave … pe … pāpimato.",
+          "en": "This is called a mendicant who has blinded Māra …"
+        },
+        {
+          "scid": "mn25:19.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanaṃ upasampajja viharati.",
+          "en": "Furthermore, a mendicant, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception."
+        },
+        {
+          "scid": "mn25:19.2",
+          "pli": "Ayaṃ vuccati, bhikkhave … pe … pāpimato.",
+          "en": "This is called a mendicant who has blinded Māra …"
+        },
+        {
+          "scid": "mn25:20.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati. Paññāya cassa disvā āsavā parikkhīṇā honti.",
+          "en": "Furthermore, a mendicant, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end."
+        },
+        {
+          "scid": "mn25:20.2",
+          "pli": "Ayaṃ vuccati, bhikkhave, bhikkhu andhamakāsi māraṃ, apadaṃ vadhitvā māracakkhuṃ adassanaṃ gato pāpimato tiṇṇo loke visattikan”ti.",
+          "en": "This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see. And they’ve crossed over clinging to the world.”"
+        },
+        {
+          "scid": "mn25:20.3",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn25:20.4",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn25:20.5",
+          "pli": "Nivāpasuttaṃ niṭṭhitaṃ pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn25/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 25",
+    "volpages": "MN i 151",
+    "uid": "mn25",
+    "blurb": "The Buddha compares getting trapped by Māra with a deer getting caught in a snare, illustrating the ever more complex strategies employed by hunter and hunted.",
+    "difficulty": 1,
+    "original_title": "Nivāpa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fodder",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn25_sujato",
+        "segmented": true,
+        "title": "Fodder"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn25_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discourse on Crops"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

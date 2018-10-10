@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "sn36.30",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn36.30",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Plain Version",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Spiritual",
+      "uid": "sn36.31"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics and Brahmins (3rd)",
+      "uid": "sn36.29"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn36.30:0.1",
+          "pli": "Saṃyutta Nikāya 36",
+          "en": "Linked Discourses 36"
+        },
+        {
+          "scid": "sn36.30:0.2",
+          "pli": "3. Aṭṭhasatapariyāyavagga",
+          "en": "3. The Explanation of the Hundred and Eight"
+        },
+        {
+          "scid": "sn36.30:0.3",
+          "pli": "30. Suddhikasutta",
+          "en": "30. Plain Version"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 36…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn36.30:1.1",
+          "pli": "“Tisso imā, bhikkhave, vedanā.",
+          "en": "“Mendicants, there are these three feelings."
+        },
+        {
+          "scid": "sn36.30:1.2",
+          "pli": "Katamā tisso?",
+          "en": "What three?"
+        },
+        {
+          "scid": "sn36.30:1.3",
+          "pli": "Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—",
+          "en": "Pleasant, painful, and neutral feeling."
+        },
+        {
+          "scid": "sn36.30:1.4",
+          "pli": "imā kho, bhikkhave, tisso vedanā”ti.",
+          "en": "These are the three feelings.”"
+        },
+        {
+          "scid": "sn36.30:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn36.30/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 36.30//SN 36.29a",
+    "volpages": "SN iv 235",
+    "uid": "sn36.30",
+    "blurb": "There are three feelings: painful, pleasant, neutral.",
+    "difficulty": null,
+    "original_title": "Suddhika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Plain Version",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn36.30_sujato",
+        "segmented": true,
+        "title": "Plain Version"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn36.30_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Simple version"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

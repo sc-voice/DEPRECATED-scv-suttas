@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn6.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn6.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "About Katamorakatissaka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With the Brahmā Tudu",
+      "uid": "sn6.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "About Kokālika",
+      "uid": "sn6.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn6.8:0.1",
+          "pli": "Saṃyutta Nikāya 6",
+          "en": "Linked Discourses 6"
+        },
+        {
+          "scid": "sn6.8:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The Appeal"
+        },
+        {
+          "scid": "sn6.8:0.3",
+          "pli": "8. Katamodakatissasutta",
+          "en": "8. About Katamorakatissaka"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn6.8:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn6.8:1.2",
+          "pli": "Tena kho pana samayena bhagavā divāvihāragato hoti paṭisallīno.",
+          "en": "Now at that time the Buddha had retreated to solitude for the day’s meditation."
+        },
+        {
+          "scid": "sn6.8:1.3",
+          "pli": "Atha kho subrahmā ca paccekabrahmā suddhāvāso ca paccekabrahmā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā paccekaṃ dvārabāhaṃ nissāya aṭṭhaṃsu.",
+          "en": "Then the independent brahmās Subrahmā and Suddhāvāsa went to the Buddha and stationed themselves one by each door-post."
+        },
+        {
+          "scid": "sn6.8:1.4",
+          "pli": "Atha kho suddhāvāso paccekabrahmā katamodakatissakaṃ bhikkhuṃ ārabbha bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Then Suddhāvāsa recited this verse about the mendicant Katamorakatissaka in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn6.8:2.1",
+          "pli": "“Appameyyaṃ paminanto,",
+          "en": "“What wise person here would judge"
+        },
+        {
+          "scid": "sn6.8:2.2",
+          "pli": "Kodha vidvā vikappaye;",
+          "en": "the immeasurable by measuring them?"
+        },
+        {
+          "scid": "sn6.8:2.3",
+          "pli": "Appameyyaṃ pamāyinaṃ,",
+          "en": "I think anyone who’d do such a thing"
+        },
+        {
+          "scid": "sn6.8:2.4",
+          "pli": "Nivutaṃ taṃ maññe akissavan”ti.",
+          "en": "must be a fool, wrapped in darkness.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn6.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 6.8//SN 179",
+    "volpages": "SN i 148//SN i 323",
+    "uid": "sn6.8",
+    "blurb": "The brahmās Subrahmā and Suddhāvāsa come to the Buddha’s hut and speak on the monk Katamorakatissaka, a follower of Devadatta.",
+    "difficulty": null,
+    "original_title": "Katamodakatissa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "About Katamorakatissaka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn6.8_sujato",
+        "segmented": true,
+        "title": "About Katamorakatissaka"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 8
+  }
+}

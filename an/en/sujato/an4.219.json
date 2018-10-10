@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an4.219",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.219",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Imprudence",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unethical",
+      "uid": "an4.220"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kinds of Expression (2nd)",
+      "uid": "an4.218"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.219:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.219:0.2",
+          "pli": "22. Parisāvagga",
+          "en": "22. Assembly"
+        },
+        {
+          "scid": "an4.219:0.3",
+          "pli": "219. Ahirikasutta",
+          "en": "219. Imprudence"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.219:1.1",
+          "pli": "… pe … Assaddho hoti, dussīlo hoti, ahiriko hoti, anottappī hoti … pe … saddho hoti, sīlavā hoti, hirimā hoti, ottappī hoti.",
+          "en": "“Someone with four qualities is cast down to hell. … They’re faithless, unethical, shameless, and imprudent. … Someone with four qualities is raised up to heaven. … They’re faithful, ethical, conscientious, and prudent. …”"
+        },
+        {
+          "scid": "an4.219:1.2",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Someone with four qualities is cast down…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.219/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.219",
+    "volpages": "AN ii 227",
+    "uid": "an4.219",
+    "blurb": "Faith and other qualities determine rebirth.",
+    "difficulty": null,
+    "original_title": "Ahirika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Imprudence",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.219_sujato",
+        "segmented": true,
+        "title": "Imprudence"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

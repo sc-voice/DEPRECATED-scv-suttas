@@ -1,0 +1,115 @@
+{
+  "sutta_uid": "sn42.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn42.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "An Elephant Warrior",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Cavalryman",
+      "uid": "sn42.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Warrior",
+      "uid": "sn42.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn42.4:0.1",
+          "pli": "Saṃyutta Nikāya 42",
+          "en": "Linked Discourses 42"
+        },
+        {
+          "scid": "sn42.4:0.2",
+          "pli": "1. Gāmaṇivagga",
+          "en": "1. Chiefs"
+        },
+        {
+          "scid": "sn42.4:0.3",
+          "pli": "4. Hatthārohasutta",
+          "en": "4. An Elephant Warrior"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 42…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn42.4:1.1",
+          "pli": "Atha kho hatthāroho gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā … pe …",
+          "en": "Then an elephant warrior chief went up to the Buddha …"
+        },
+        {
+          "scid": "sn42.4:1.2",
+          "pli": "ajjatagge pāṇupetaṃ saraṇaṃ gatanti.",
+          "en": "From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "sn42.4:1.3",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then an elephant warrior chief went up…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn42.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 42.4",
+    "volpages": "SN iv 310",
+    "uid": "sn42.4",
+    "blurb": "Hatthāroha the elephant warrior asks the Buddha whether the belief that warriors have a good rebirth is correct. The Buddha tries to dissuade him, but ultimately reveals that by following the way of violence they head to a bad rebirth. Hatthāroha is distressed and takes refuge.",
+    "difficulty": null,
+    "original_title": "Hatthāroha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "An Elephant Warrior",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn42.4_sujato",
+        "segmented": true,
+        "title": "An Elephant Warrior"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

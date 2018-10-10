@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn52.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn52.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Psychic Powers",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Clairaudience",
+      "uid": "sn52.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Thousand Aeons",
+      "uid": "sn52.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn52.12:0.1",
+          "pli": "Saṃyutta Nikāya 52",
+          "en": "Linked Discourses 52"
+        },
+        {
+          "scid": "sn52.12:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. A Thousand"
+        },
+        {
+          "scid": "sn52.12:0.3",
+          "pli": "12. Iddhividhasutta",
+          "en": "12. Psychic Powers"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 52…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn52.12:1.1",
+          "pli": "“Imesañca panāhaṃ, āvuso, catunnaṃ satipaṭṭhānānaṃ bhāvitattā bahulīkatattā anekavihitaṃ iddhividhaṃ paccanubhomi—ekopi hutvā bahudhā homi … pe … yāva brahmalokāpi kāyena vasaṃ vattemī”ti.",
+          "en": "“… And it’s because of developing and cultivating these four kinds of mindfulness meditation that I wield the many kinds of psychic power. Multiplying myself and becoming one again … controlling the body as far as the Brahmā realm.”"
+        },
+        {
+          "scid": "sn52.12:1.2",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… And it’s because of developing and…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn52.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 52.12",
+    "volpages": "SN v 303",
+    "uid": "sn52.12",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Iddhividha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Psychic Powers",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn52.12_sujato",
+        "segmented": true,
+        "title": "Psychic Powers"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

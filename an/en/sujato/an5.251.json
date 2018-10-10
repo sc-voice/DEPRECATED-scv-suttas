@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.251",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.251",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Who Should Give Ordination",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Who Should Give Dependence",
+      "uid": "an5.252"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Faith in Individuals",
+      "uid": "an5.250"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.251:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.251:0.2",
+          "pli": "26. Upasampadāvagga",
+          "en": "26. Ordination"
+        },
+        {
+          "scid": "an5.251:0.3",
+          "pli": "251. Upasampādetabbasutta",
+          "en": "251. Who Should Give Ordination"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.251:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgatena bhikkhunā upasampādetabbaṃ.",
+          "en": "“Mendicants, ordination should be given by a mendicant with five qualities."
+        },
+        {
+          "scid": "an5.251:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.251:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti;",
+          "en": "It’s a mendicant who has the entire spectrum of an adept’s ethics,"
+        },
+        {
+          "scid": "an5.251:1.4",
+          "pli": "asekhena samādhikkhandhena samannāgato hoti;",
+          "en": "immersion,"
+        },
+        {
+          "scid": "an5.251:1.5",
+          "pli": "asekhena paññākkhandhena samannāgato hoti;",
+          "en": "wisdom,"
+        },
+        {
+          "scid": "an5.251:1.6",
+          "pli": "asekhena vimuttikkhandhena samannāgato hoti;",
+          "en": "freedom,"
+        },
+        {
+          "scid": "an5.251:1.7",
+          "pli": "asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti.",
+          "en": "and the knowledge and vision of freedom."
+        },
+        {
+          "scid": "an5.251:1.8",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgatena bhikkhunā upasampādetabban”ti.",
+          "en": "Ordination should be given by a mendicant with these five qualities.”"
+        },
+        {
+          "scid": "an5.251:1.9",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.251/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.251",
+    "volpages": "AN iii 271",
+    "uid": "an5.251",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Upasampādetabba Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Who Should Give Ordination",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.251_sujato",
+        "segmented": true,
+        "title": "Who Should Give Ordination"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

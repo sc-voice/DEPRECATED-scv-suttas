@@ -1,0 +1,230 @@
+{
+  "sutta_uid": "sn45.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Meditation (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Trainee",
+      "uid": "sn45.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Meditation (1st)",
+      "uid": "sn45.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.12:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.12:0.2",
+          "pli": "2. Vihāravagga",
+          "en": "2. Meditation"
+        },
+        {
+          "scid": "sn45.12:0.3",
+          "pli": "12. Dutiyavihārasutta",
+          "en": "12. Meditation (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.12:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn45.12:1.2",
+          "pli": "“Icchāmahaṃ, bhikkhave, temāsaṃ paṭisallīyituṃ.",
+          "en": "“Mendicants, I wish to go on retreat for three months."
+        },
+        {
+          "scid": "sn45.12:1.3",
+          "pli": "Namhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti.",
+          "en": "No-one should approach me, except for the one who brings my alms-food.”"
+        },
+        {
+          "scid": "sn45.12:1.4",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paṭissutvā nāssudha koci bhagavantaṃ upasaṅkamati, aññatra ekena piṇḍapātanīhārakena.",
+          "en": "“Yes, sir,” replied those mendicants. And no-one approached him, except for the one who brought the alms-food."
+        },
+        {
+          "scid": "sn45.12:2.1",
+          "pli": "Atha kho bhagavā tassa temāsassa accayena paṭisallānā vuṭṭhito bhikkhū āmantesi:",
+          "en": "Then after three months had passed, the Buddha came out of retreat and addressed the mendicants:"
+        },
+        {
+          "scid": "sn45.12:2.2",
+          "pli": "“yena svāhaṃ, bhikkhave, vihārena paṭhamābhisambuddho viharāmi, tassa padesena vihāsiṃ.",
+          "en": "“Mendicants, I’ve been practicing part of the meditation I practiced when I was first awakened."
+        },
+        {
+          "scid": "sn45.12:2.3",
+          "pli": "So evaṃ pajānāmi:",
+          "en": "I understand that"
+        },
+        {
+          "scid": "sn45.12:2.4",
+          "pli": "‘micchādiṭṭhipaccayāpi vedayitaṃ;",
+          "en": "there’s feeling conditioned by wrong view"
+        },
+        {
+          "scid": "sn45.12:2.5",
+          "pli": "micchādiṭṭhivūpasamapaccayāpi vedayitaṃ;",
+          "en": "and by the stilling of wrong view,"
+        },
+        {
+          "scid": "sn45.12:2.6",
+          "pli": "sammādiṭṭhipaccayāpi vedayitaṃ;",
+          "en": "by right view"
+        },
+        {
+          "scid": "sn45.12:2.7",
+          "pli": "sammādiṭṭhivūpasamapaccayāpi vedayitaṃ … pe …",
+          "en": "and by the stilling of right view. …"
+        },
+        {
+          "scid": "sn45.12:2.8",
+          "pli": "micchāsamādhipaccayāpi vedayitaṃ;",
+          "en": "There’s feeling conditioned by wrong immersion"
+        },
+        {
+          "scid": "sn45.12:2.9",
+          "pli": "micchāsamādhivūpasamapaccayāpi vedayitaṃ, sammāsamādhipaccayāpi vedayitaṃ;",
+          "en": "and by the stilling of wrong immersion, by right immersion"
+        },
+        {
+          "scid": "sn45.12:2.10",
+          "pli": "sammāsamādhivūpasamapaccayāpi vedayitaṃ;",
+          "en": "and by the stilling of right immersion."
+        },
+        {
+          "scid": "sn45.12:2.11",
+          "pli": "chandapaccayāpi vedayitaṃ;",
+          "en": "There’s feeling conditioned by desire"
+        },
+        {
+          "scid": "sn45.12:2.12",
+          "pli": "chandavūpasamapaccayāpi vedayitaṃ;",
+          "en": "and by the stilling of desire,"
+        },
+        {
+          "scid": "sn45.12:2.13",
+          "pli": "vitakkapaccayāpi vedayitaṃ;",
+          "en": "by thought"
+        },
+        {
+          "scid": "sn45.12:2.14",
+          "pli": "vitakkavūpasamapaccayāpi vedayitaṃ;",
+          "en": "and by the stilling of thought,"
+        },
+        {
+          "scid": "sn45.12:2.15",
+          "pli": "saññāpaccayāpi vedayitaṃ;",
+          "en": "by perception"
+        },
+        {
+          "scid": "sn45.12:2.16",
+          "pli": "saññāvūpasamapaccayāpi vedayitaṃ;",
+          "en": "and by the stilling of perception."
+        },
+        {
+          "scid": "sn45.12:2.17",
+          "pli": "chando ca avūpasanto hoti, vitakko ca avūpasanto hoti, saññā ca avūpasantā hoti, tappaccayāpi vedayitaṃ;",
+          "en": "As long as desire, thought, and perception are not stilled, there is feeling conditioned by that."
+        },
+        {
+          "scid": "sn45.12:2.18",
+          "pli": "chando ca vūpasanto hoti, vitakko ca vūpasanto hoti, saññā ca vūpasantā hoti, tappaccayāpi vedayitaṃ;",
+          "en": "When desire, thought, and perception are stilled, there is feeling conditioned by that."
+        },
+        {
+          "scid": "sn45.12:2.19",
+          "pli": "appattassa pattiyā atthi āyāmaṃ, tasmimpi ṭhāne anuppatte tappaccayāpi vedayitan’”ti.",
+          "en": "There is effort to attain the unattained. As long as that state has not been attained, there is feeling conditioned by that.”"
+        },
+        {
+          "scid": "sn45.12:2.20",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.12",
+    "volpages": "SN v 13",
+    "uid": "sn45.12",
+    "blurb": "The Buddha goes on retreat for a fortnight. When he emerges, he describes his meditation on the conditionality of the eightfold path, which was similar to a practice he did shortly after awakening.",
+    "difficulty": null,
+    "original_title": "Dutiyavihāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Meditation (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.12_sujato",
+        "segmented": true,
+        "title": "Meditation (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.12_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Dwelling (2)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "sutta_uid": "sn12.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Practice",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "About Vipassī",
+      "uid": "sn12.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Analysis",
+      "uid": "sn12.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.3:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.3:0.2",
+          "pli": "1. Buddhavagga",
+          "en": "1. The Buddhas"
+        },
+        {
+          "scid": "sn12.3:0.3",
+          "pli": "3. Paṭipadāsutta",
+          "en": "3. Practice"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.3:1.1",
+          "pli": "Sāvatthiyaṃ viharati … pe …",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn12.3:1.2",
+          "pli": "“micchāpaṭipadañca vo, bhikkhave, desessāmi sammāpaṭipadañca.",
+          "en": "“Mendicants, I will teach you the wrong practice and the right practice."
+        },
+        {
+          "scid": "sn12.3:1.3",
+          "pli": "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+          "en": "Listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "sn12.3:1.4",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "sn12.3:1.5",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "sn12.3:2.1",
+          "pli": "“Katamā ca, bhikkhave, micchāpaṭipadā?",
+          "en": "“And what’s the wrong practice?"
+        },
+        {
+          "scid": "sn12.3:2.2",
+          "pli": "Avijjāpaccayā, bhikkhave, saṅkhārā;",
+          "en": "Ignorance is a condition for choices."
+        },
+        {
+          "scid": "sn12.3:2.3",
+          "pli": "saṅkhārapaccayā viññāṇaṃ … pe …",
+          "en": "Choices are a condition for consciousness. …"
+        },
+        {
+          "scid": "sn12.3:2.4",
+          "pli": "evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "sn12.3:2.5",
+          "pli": "Ayaṃ vuccati, bhikkhave, micchāpaṭipadā.",
+          "en": "This is called the wrong practice."
+        },
+        {
+          "scid": "sn12.3:3.1",
+          "pli": "Katamā ca, bhikkhave, sammāpaṭipadā?",
+          "en": "And what’s the right practice?"
+        },
+        {
+          "scid": "sn12.3:3.2",
+          "pli": "Avijjāya tveva asesavirāganirodhā saṅkhāranirodho;",
+          "en": "When ignorance fades away and ceases with nothing left over, choices cease."
+        },
+        {
+          "scid": "sn12.3:3.3",
+          "pli": "saṅkhāranirodhā viññāṇanirodho … pe …",
+          "en": "When choices cease, consciousness ceases. …"
+        },
+        {
+          "scid": "sn12.3:3.4",
+          "pli": "evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+          "en": "That is how this entire mass of suffering ceases."
+        },
+        {
+          "scid": "sn12.3:3.5",
+          "pli": "Ayaṃ vuccati, bhikkhave, sammāpaṭipadā”ti.",
+          "en": "This is called the right practice.”"
+        },
+        {
+          "scid": "sn12.3:3.6",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.3",
+    "volpages": "SN ii 4",
+    "uid": "sn12.3",
+    "blurb": "The origin of suffering is the wrong way, the end is the right way.",
+    "difficulty": null,
+    "original_title": "Paṭipadā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Practice",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.3_sujato",
+        "segmented": true,
+        "title": "Practice"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn12.3_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Two Ways"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

@@ -1,0 +1,820 @@
+{
+  "sutta_uid": "mn112",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn112",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Sixfold Purification",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Good Person",
+      "uid": "mn113"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "One by One",
+      "uid": "mn111"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn112:0.1",
+          "pli": "Majjhima Nikāya 112",
+          "en": "Middle Discourses 112"
+        },
+        {
+          "scid": "mn112:0.2",
+          "pli": "Chabbisodhanasutta",
+          "en": "The Sixfold Purification"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 112…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn112:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn112:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn112:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "mn112:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "mn112:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "mn112:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn112:2.1",
+          "pli": "“Idha, bhikkhave, bhikkhu aññaṃ byākaroti:",
+          "en": "“Take a mendicant who declares enlightenment:"
+        },
+        {
+          "scid": "mn112:2.2",
+          "pli": "‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānāmī’ti.",
+          "en": "‘I understand: “Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.”’"
+        },
+        {
+          "scid": "mn112:3.1",
+          "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṃ neva abhinanditabbaṃ nappaṭikkositabbaṃ.",
+          "en": "You should neither approve nor dismiss that mendicant’s statement."
+        },
+        {
+          "scid": "mn112:3.2",
+          "pli": "Anabhinanditvā appaṭikkositvā pañho pucchitabbo:",
+          "en": "Rather, you should question them:"
+        },
+        {
+          "scid": "mn112:3.3",
+          "pli": "‘cattārome, āvuso, vohārā tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā.",
+          "en": "‘Reverend, these four kinds of expression have been rightly explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha."
+        },
+        {
+          "scid": "mn112:3.4",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "mn112:3.5",
+          "pli": "Diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā—",
+          "en": "One speaks of the seen as seen, the heard as heard, the thought as thought, and the known as known."
+        },
+        {
+          "scid": "mn112:3.6",
+          "pli": "ime kho, āvuso, cattāro vohārā tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā.",
+          "en": "These are the four kinds of expression rightly explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha."
+        },
+        {
+          "scid": "mn112:3.7",
+          "pli": "Kathaṃ jānato panāyasmato, kathaṃ passato imesu catūsu vohāresu anupādāya āsavehi cittaṃ vimuttan’ti?",
+          "en": "How does the venerable know and see regarding these four kinds of expression so that your mind is freed from defilements by not grasping?’"
+        },
+        {
+          "scid": "mn112:4.1",
+          "pli": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṃyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:",
+          "en": "For a mendicant with defilements ended—who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—it is in line with the teaching to answer:"
+        },
+        {
+          "scid": "mn112:4.2",
+          "pli": "‘diṭṭhe kho ahaṃ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto visaṃyutto vimariyādīkatena cetasā viharāmi.",
+          "en": "‘Reverends, I live without attraction or repulsion for what is seen; independent, untied, liberated, detached, my mind free of limits."
+        },
+        {
+          "scid": "mn112:4.3",
+          "pli": "Sute kho ahaṃ, āvuso … pe …",
+          "en": "I live without attraction or repulsion for what is heard …"
+        },
+        {
+          "scid": "mn112:4.4",
+          "pli": "mute kho ahaṃ, āvuso …",
+          "en": "thought …"
+        },
+        {
+          "scid": "mn112:4.5",
+          "pli": "viññāte kho ahaṃ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto visaṃyutto vimariyādīkatena cetasā viharāmi.",
+          "en": "or known; independent, untied, liberated, detached, my mind free of limits."
+        },
+        {
+          "scid": "mn112:4.6",
+          "pli": "Evaṃ kho me, āvuso, jānato evaṃ passato imesu catūsu vohāresu anupādāya āsavehi cittaṃ vimuttan’ti.",
+          "en": "That is how I know and see regarding these four kinds of expression so that my mind is freed from defilements by not grasping.’"
+        },
+        {
+          "scid": "mn112:5.1",
+          "pli": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṃ abhinanditabbaṃ anumoditabbaṃ.",
+          "en": "Saying ‘Good!’ you should applaud and cheer that mendicant’s statement,"
+        },
+        {
+          "scid": "mn112:5.2",
+          "pli": "‘Sādhū’ti bhāsitaṃ abhinanditvā anumoditvā uttariṃ pañho pucchitabbo.",
+          "en": "then ask a further question:"
+        },
+        {
+          "scid": "mn112:5.3",
+          "pli": "‘Pañcime, āvuso, upādānakkhandhā tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā.",
+          "en": "‘Reverend, these five grasping aggregates have been rightly explained by the Buddha."
+        },
+        {
+          "scid": "mn112:5.4",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "mn112:5.5",
+          "pli": "Seyyathidaṃ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho—",
+          "en": "That is: the grasping aggregates of form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "mn112:5.6",
+          "pli": "ime kho, āvuso, pañcupādānakkhandhā tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā.",
+          "en": "These are the five grasping aggregates that have been rightly explained by the Buddha."
+        },
+        {
+          "scid": "mn112:5.7",
+          "pli": "Kathaṃ jānato panāyasmato, kathaṃ passato imesu pañcasu upādānakkhandhesu anupādāya āsavehi cittaṃ vimuttan’ti?",
+          "en": "How does the venerable know and see regarding these five grasping aggregates so that your mind is freed from defilements by not grasping?’"
+        },
+        {
+          "scid": "mn112:6.1",
+          "pli": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṃyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:",
+          "en": "For a mendicant with defilements ended it is in line with the teaching to answer:"
+        },
+        {
+          "scid": "mn112:6.2",
+          "pli": "‘rūpaṃ kho ahaṃ, āvuso, abalaṃ virāgunaṃ anassāsikanti viditvā ye rūpe upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
+          "en": "‘Reverends, knowing that form is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental resolve, insistence, and underlying tendency for form."
+        },
+        {
+          "scid": "mn112:6.3",
+          "pli": "Vedanaṃ kho ahaṃ, āvuso … pe …",
+          "en": "Knowing that feeling …"
+        },
+        {
+          "scid": "mn112:6.4",
+          "pli": "saññaṃ kho ahaṃ, āvuso …",
+          "en": "perception …"
+        },
+        {
+          "scid": "mn112:6.5",
+          "pli": "saṅkhāre kho ahaṃ, āvuso …",
+          "en": "choices …"
+        },
+        {
+          "scid": "mn112:6.6",
+          "pli": "viññāṇaṃ kho ahaṃ, āvuso, abalaṃ virāgunaṃ anassāsikanti viditvā ye viññāṇe upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
+          "en": "consciousness is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental resolve, insistence, and underlying tendency for consciousness."
+        },
+        {
+          "scid": "mn112:6.7",
+          "pli": "Evaṃ kho me, āvuso, jānato evaṃ passato imesu pañcasu upādānakkhandhesu anupādāya āsavehi cittaṃ vimuttan’ti.",
+          "en": "That is how I know and see regarding these five grasping aggregates so that my mind is freed from defilements by not grasping.’"
+        },
+        {
+          "scid": "mn112:7.1",
+          "pli": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṃ abhinanditabbaṃ, anumoditabbaṃ.",
+          "en": "Saying ‘Good!’ you should applaud and cheer that mendicant’s statement,"
+        },
+        {
+          "scid": "mn112:7.2",
+          "pli": "‘Sādhū’ti bhāsitaṃ abhinanditvā anumoditvā uttariṃ pañho pucchitabbo.",
+          "en": "then ask a further question:"
+        },
+        {
+          "scid": "mn112:7.3",
+          "pli": "‘Chayimā, āvuso, dhātuyo tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā.",
+          "en": "‘Reverend, these six elements have been rightly explained by the Buddha."
+        },
+        {
+          "scid": "mn112:7.4",
+          "pli": "Katamā cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "mn112:7.5",
+          "pli": "Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu—",
+          "en": "The elements of earth, water, fire, air, space, and consciousness."
+        },
+        {
+          "scid": "mn112:7.6",
+          "pli": "imā kho, āvuso, cha dhātuyo tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātā.",
+          "en": "These are the six elements that have been rightly explained by the Buddha."
+        },
+        {
+          "scid": "mn112:7.7",
+          "pli": "Kathaṃ jānato panāyasmato, kathaṃ passato imāsu chasu dhātūsu anupādāya āsavehi cittaṃ vimuttan’ti?",
+          "en": "How does the venerable know and see regarding these six elements so that your mind is freed from defilements by not grasping?’"
+        },
+        {
+          "scid": "mn112:8.1",
+          "pli": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṃyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:",
+          "en": "For a mendicant with defilements ended it is in line with the teaching to answer:"
+        },
+        {
+          "scid": "mn112:8.2",
+          "pli": "‘pathavīdhātuṃ kho ahaṃ, āvuso, na attato upagacchiṃ, na ca pathavīdhātunissitaṃ attānaṃ.",
+          "en": "‘Reverends, I’ve not taken the earth element as self, nor is there a self based on the earth element."
+        },
+        {
+          "scid": "mn112:8.3",
+          "pli": "Ye ca pathavīdhātunissitā upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
+          "en": "And I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental resolve, insistence, and underlying tendency based on the earth element."
+        },
+        {
+          "scid": "mn112:8.4",
+          "pli": "Āpodhātuṃ kho ahaṃ, āvuso … pe …",
+          "en": "I’ve not taken the water element …"
+        },
+        {
+          "scid": "mn112:8.5",
+          "pli": "tejodhātuṃ kho ahaṃ, āvuso …",
+          "en": "fire element …"
+        },
+        {
+          "scid": "mn112:8.6",
+          "pli": "vāyodhātuṃ kho ahaṃ, āvuso …",
+          "en": "air element …"
+        },
+        {
+          "scid": "mn112:8.7",
+          "pli": "ākāsadhātuṃ kho ahaṃ, āvuso …",
+          "en": "space element …"
+        },
+        {
+          "scid": "mn112:8.8",
+          "pli": "viññāṇadhātuṃ kho ahaṃ, āvuso, na attato upagacchiṃ, na ca viññāṇadhātunissitaṃ attānaṃ.",
+          "en": "consciousness element as self, nor is there a self based on the consciousness element."
+        },
+        {
+          "scid": "mn112:8.9",
+          "pli": "Ye ca viññāṇadhātunissitā upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
+          "en": "And I understand that my mind is freed through the ending of attraction based on the consciousness element."
+        },
+        {
+          "scid": "mn112:8.10",
+          "pli": "Evaṃ kho me, āvuso, jānato, evaṃ passato imāsu chasu dhātūsu anupādāya āsavehi cittaṃ vimuttan’ti.",
+          "en": "That is how I know and see regarding these six elements so that my mind is freed from defilements by not grasping.’"
+        },
+        {
+          "scid": "mn112:9.1",
+          "pli": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṃ abhinanditabbaṃ, anumoditabbaṃ.",
+          "en": "Saying ‘Good!’ you should applaud and cheer that mendicant’s statement,"
+        },
+        {
+          "scid": "mn112:9.2",
+          "pli": "‘Sādhū’ti bhāsitaṃ abhinanditvā anumoditvā uttariṃ pañho pucchitabbo.",
+          "en": "then ask a further question:"
+        },
+        {
+          "scid": "mn112:9.3",
+          "pli": "‘Cha kho panimāni, āvuso, ajjhattikabāhirāni āyatanāni tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātāni.",
+          "en": "‘Reverend, these six interior and exterior sense fields have been rightly explained by the Buddha."
+        },
+        {
+          "scid": "mn112:9.4",
+          "pli": "Katamāni cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "mn112:9.5",
+          "pli": "Cakkhu ceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca—",
+          "en": "The eye and sights, the ear and sounds, the nose and smells, the tongue and tastes, the body and touches, and the mind and thoughts."
+        },
+        {
+          "scid": "mn112:9.6",
+          "pli": "imāni kho, āvuso, cha ajjhattikabāhirāni āyatanāni tena bhagavatā jānatā passatā arahatā sammāsambuddhena sammadakkhātāni.",
+          "en": "These are the six interior and exterior sense fields that have been rightly explained by the Buddha."
+        },
+        {
+          "scid": "mn112:9.7",
+          "pli": "Kathaṃ jānato panāyasmato, kathaṃ passato imesu chasu ajjhattikabāhiresu āyatanesu anupādāya āsavehi cittaṃ vimuttan’ti?",
+          "en": "How does the venerable know and see regarding these six interior and exterior sense fields so that your mind is freed from defilements by not grasping?’"
+        },
+        {
+          "scid": "mn112:10.1",
+          "pli": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṃyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:",
+          "en": "For a mendicant with defilements ended it is in line with the teaching to answer:"
+        },
+        {
+          "scid": "mn112:10.2",
+          "pli": "‘cakkhusmiṃ, āvuso, rūpe cakkhuviññāṇe cakkhuviññāṇaviññātabbesu dhammesu yo chando yo rāgo yā nandī yā taṇhā ye ca upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
+          "en": "‘I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of desire and greed and relishing and craving; attraction, grasping, mental resolve, insistence, and underlying tendency for the eye, sights, eye consciousness, and things knowable by eye consciousness."
+        },
+        {
+          "scid": "mn112:10.3",
+          "pli": "Sotasmiṃ, āvuso, sadde sotaviññāṇe … pe …",
+          "en": "I understand that my mind is freed through the ending of desire for the ear …"
+        },
+        {
+          "scid": "mn112:10.4",
+          "pli": "ghānasmiṃ, āvuso, gandhe ghānaviññāṇe …",
+          "en": "nose …"
+        },
+        {
+          "scid": "mn112:10.5",
+          "pli": "jivhāya, āvuso, rase jivhāviññāṇe …",
+          "en": "tongue …"
+        },
+        {
+          "scid": "mn112:10.6",
+          "pli": "kāyasmiṃ, āvuso, phoṭṭhabbe kāyaviññāṇe …",
+          "en": "body …"
+        },
+        {
+          "scid": "mn112:10.7",
+          "pli": "manasmiṃ, āvuso, dhamme manoviññāṇe manoviññāṇaviññātabbesu dhammesu yo chando yo rāgo yā nandī yā taṇhā ye ca upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
+          "en": "mind, thoughts, mind consciousness, and things knowable by mind consciousness."
+        },
+        {
+          "scid": "mn112:10.8",
+          "pli": "Evaṃ kho me, āvuso, jānato evaṃ passato imesu chasu ajjhattikabāhiresu āyatanesu anupādāya āsavehi cittaṃ vimuttan’ti.",
+          "en": "That is how I know and see regarding these six interior and exterior sense fields so that my mind is freed from defilements by not grasping.’"
+        },
+        {
+          "scid": "mn112:11.1",
+          "pli": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṃ abhinanditabbaṃ anumoditabbaṃ.",
+          "en": "Saying ‘Good!’ you should applaud and cheer that mendicant’s statement,"
+        },
+        {
+          "scid": "mn112:11.2",
+          "pli": "‘Sādhū’ti bhāsitaṃ abhinanditvā anumoditvā uttariṃ pañho pucchitabbo.",
+          "en": "then ask a further question:"
+        },
+        {
+          "scid": "mn112:11.3",
+          "pli": "‘Kathaṃ jānato panāyasmato, kathaṃ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṃkāramamaṃkāramānānusayā samūhatā’ti?",
+          "en": "‘Sir, how does the venerable know and see so that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body and all external stimuli?’"
+        },
+        {
+          "scid": "mn112:12.1",
+          "pli": "Khīṇāsavassa, bhikkhave, bhikkhuno vusitavato katakaraṇīyassa ohitabhārassa anuppattasadatthassa parikkhīṇabhavasaṃyojanassa sammadaññāvimuttassa ayamanudhammo hoti veyyākaraṇāya:",
+          "en": "For a mendicant with defilements ended it is in line with the teaching to answer:"
+        },
+        {
+          "scid": "mn112:12.2",
+          "pli": "‘pubbe kho ahaṃ, āvuso, agāriyabhūto samāno aviddasu ahosiṃ.",
+          "en": "‘Formerly, reverends, when I was still a layperson, I was ignorant."
+        },
+        {
+          "scid": "mn112:12.3",
+          "pli": "Tassa me tathāgato vā tathāgatasāvako vā dhammaṃ desesi.",
+          "en": "Then the Realized One or one of his disciples taught me the Dhamma."
+        },
+        {
+          "scid": "mn112:12.4",
+          "pli": "Tāhaṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhiṃ.",
+          "en": "I gained faith in the Realized One,"
+        },
+        {
+          "scid": "mn112:12.5",
+          "pli": "So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhiṃ:",
+          "en": "and reflected:"
+        },
+        {
+          "scid": "mn112:12.6",
+          "pli": "“sambādho gharāvāso rajāpatho, abbhokāso pabbajjā.",
+          "en": "“Living in a house is cramped and dirty, but the life of one gone forth is wide open."
+        },
+        {
+          "scid": "mn112:12.7",
+          "pli": "Nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ.",
+          "en": "It’s not easy for someone living at home to lead the spiritual life utterly full and pure, like a polished shell."
+        },
+        {
+          "scid": "mn112:12.8",
+          "pli": "Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan”ti.",
+          "en": "Why don’t I cut off my hair and beard, dress in ocher robes, and go forth from home to homelessness?”"
+        },
+        {
+          "scid": "mn112:13.1",
+          "pli": "So kho ahaṃ, āvuso, aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkhandhaṃ pahāya, appaṃ vā ñātiparivaṭṭaṃ pahāya mahantaṃ vā ñātiparivaṭṭaṃ pahāya kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajiṃ.",
+          "en": "After some time I gave up a large or small fortune, and a large or small family circle. I shaved off hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness."
+        },
+        {
+          "scid": "mn112:13.2",
+          "pli": "So evaṃ pabbajito samāno bhikkhūnaṃ sikkhāsājīvasamāpanno pāṇātipātaṃ pahāya pāṇātipātā paṭivirato ahosiṃ nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī vihāsiṃ.",
+          "en": "Once I had gone forth, I took up the training and livelihood of the mendicants. I gave up killing living creatures, renouncing the rod and the sword. I was scrupulous and kind, living full of compassion for all living beings."
+        },
+        {
+          "scid": "mn112:13.3",
+          "pli": "Adinnādānaṃ pahāya adinnādānā paṭivirato ahosiṃ dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā vihāsiṃ.",
+          "en": "I gave up stealing. I took only what’s given, and expected only what’s given. I kept myself clean by not thieving."
+        },
+        {
+          "scid": "mn112:13.4",
+          "pli": "Abrahmacariyaṃ pahāya brahmacārī ahosiṃ ārācārī virato methunā gāmadhammā.",
+          "en": "I gave up unchastity. I became celibate, set apart, avoiding the common practice of sex."
+        },
+        {
+          "scid": "mn112:13.5",
+          "pli": "Musāvādaṃ pahāya musāvādā paṭivirato ahosiṃ saccavādī saccasandho theto paccayiko avisaṃvādako lokassa.",
+          "en": "I gave up lying. I spoke the truth and stuck to the truth. I was honest and trustworthy, not tricking the world with my words."
+        },
+        {
+          "scid": "mn112:13.6",
+          "pli": "Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato ahosiṃ, ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya; iti bhinnānaṃ vā sandhātā sahitānaṃ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṃ vācaṃ bhāsitā ahosiṃ.",
+          "en": "I gave up divisive speech. I didn’t repeat in one place what I heard in another so as to divide people against each other. Instead, I reconciled those who are divided, supporting unity, delighting in harmony, loving harmony, speaking words that promote harmony."
+        },
+        {
+          "scid": "mn112:13.7",
+          "pli": "Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato ahosiṃ; yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā ahosiṃ.",
+          "en": "I gave up harsh speech. I spoke in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people."
+        },
+        {
+          "scid": "mn112:13.8",
+          "pli": "Samphappalāpaṃ pahāya samphappalāpā paṭivirato ahosiṃ; kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṃ vācaṃ bhāsitā ahosiṃ kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ.",
+          "en": "I gave up talking nonsense. My words were timely, true, and meaningful, in line with the teaching and training. I said things at the right time which are valuable, reasonable, succinct, and beneficial."
+        },
+        {
+          "scid": "mn112:14.1",
+          "pli": "So bījagāmabhūtagāmasamārambhā paṭivirato ahosiṃ, ekabhattiko ahosiṃ rattūparato virato vikālabhojanā.",
+          "en": "I avoided injuring plants and seeds. I ate in one part of the day, abstaining from eating at night and food at the wrong time."
+        },
+        {
+          "scid": "mn112:14.2",
+          "pli": "Naccagītavāditavisūkadassanā paṭivirato ahosiṃ.",
+          "en": "I avoided dancing, singing, music, and seeing shows."
+        },
+        {
+          "scid": "mn112:14.3",
+          "pli": "Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭivirato ahosiṃ.",
+          "en": "I avoided beautifying and adorning myself with garlands, perfumes, and makeup."
+        },
+        {
+          "scid": "mn112:14.4",
+          "pli": "Uccāsayanamahāsayanā paṭivirato ahosiṃ.",
+          "en": "I avoided high and luxurious beds."
+        },
+        {
+          "scid": "mn112:14.5",
+          "pli": "Jātarūparajatapaṭiggahaṇā paṭivirato ahosiṃ, ",
+          "en": "I avoided receiving gold and money, "
+        },
+        {
+          "scid": "mn112:14.6",
+          "pli": "āmakadhaññapaṭiggahaṇā paṭivirato ahosiṃ, ",
+          "en": "raw grains, "
+        },
+        {
+          "scid": "mn112:14.7",
+          "pli": "āmakamaṃsapaṭiggahaṇā paṭivirato ahosiṃ;",
+          "en": "raw meat,"
+        },
+        {
+          "scid": "mn112:14.8",
+          "pli": "itthikumārikapaṭiggahaṇā paṭivirato ahosiṃ, ",
+          "en": "women and girls, "
+        },
+        {
+          "scid": "mn112:14.9",
+          "pli": "dāsidāsapaṭiggahaṇā paṭivirato ahosiṃ, ",
+          "en": "male and female bondservants, "
+        },
+        {
+          "scid": "mn112:14.10",
+          "pli": "ajeḷakapaṭiggahaṇā paṭivirato ahosiṃ, ",
+          "en": "goats and sheep, "
+        },
+        {
+          "scid": "mn112:14.11",
+          "pli": "kukkuṭasūkarapaṭiggahaṇā paṭivirato ahosiṃ, ",
+          "en": "chicken and pigs, "
+        },
+        {
+          "scid": "mn112:14.12",
+          "pli": "hatthigavassavaḷavapaṭiggahaṇā paṭivirato ahosiṃ, ",
+          "en": "elephants, cows, horses, and mares, "
+        },
+        {
+          "scid": "mn112:14.13",
+          "pli": "khettavatthupaṭiggahaṇā paṭivirato ahosiṃ.",
+          "en": "and fields and land."
+        },
+        {
+          "scid": "mn112:14.14",
+          "pli": "Dūteyyapahiṇagamanānuyogā paṭivirato ahosiṃ, ",
+          "en": "I avoided running errands and messages; "
+        },
+        {
+          "scid": "mn112:14.15",
+          "pli": "kayavikkayā paṭivirato ahosiṃ, ",
+          "en": "buying and selling; "
+        },
+        {
+          "scid": "mn112:14.16",
+          "pli": "tulākūṭakaṃsakūṭamānakūṭā paṭivirato ahosiṃ, ",
+          "en": "falsifying weights, metals, or measures; "
+        },
+        {
+          "scid": "mn112:14.17",
+          "pli": "ukkoṭanavañcananikatisāciyogā paṭivirato ahosiṃ, ",
+          "en": "bribery, fraud, cheating, and duplicity; "
+        },
+        {
+          "scid": "mn112:14.18",
+          "pli": "chedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato ahosiṃ.",
+          "en": "mutilation, murder, abduction, banditry, plunder, and violence."
+        },
+        {
+          "scid": "mn112:14.19",
+          "pli": "So santuṭṭho ahosiṃ kāyaparihārikena cīvarena, kucchiparihārikena piṇḍapātena. So yena yeneva pakkamiṃ samādāyeva pakkamiṃ.",
+          "en": "I became content with robes to look after the body and alms-food to look after the belly. Wherever I went, I set out taking only these things."
+        },
+        {
+          "scid": "mn112:14.20",
+          "pli": "Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti;",
+          "en": "Like a bird: wherever it flies, wings are its only burden."
+        },
+        {
+          "scid": "mn112:14.21",
+          "pli": "evameva kho ahaṃ, āvuso; santuṭṭho ahosiṃ kāyaparihārikena cīvarena, kucchiparihārikena piṇḍapātena. So yena yeneva pakkamiṃ samādāyeva pakkamiṃ.",
+          "en": "In the same way, I became content with robes to look after the body and alms-food to look after the belly. Wherever I went, I set out taking only these things."
+        },
+        {
+          "scid": "mn112:14.22",
+          "pli": "So iminā ariyena sīlakkhandhena samannāgato ajjhattaṃ anavajjasukhaṃ paṭisaṃvedesiṃ.",
+          "en": "When I had this entire spectrum of noble ethics, I experienced a blameless happiness inside myself."
+        },
+        {
+          "scid": "mn112:15.1",
+          "pli": "So cakkhunā rūpaṃ disvā na nimittaggāhī ahosiṃ nānubyañjanaggāhī;",
+          "en": "When I saw a sight with my eyes, I didn’t get caught up in the features and details."
+        },
+        {
+          "scid": "mn112:15.2",
+          "pli": "yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjiṃ; rakkhiṃ cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjiṃ.",
+          "en": "If the faculty of sight was left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, I practiced restraint, protecting the faculty of sight, and achieving its restraint."
+        },
+        {
+          "scid": "mn112:15.3",
+          "pli": "Sotena saddaṃ sutvā … pe …",
+          "en": "When I heard a sound with my ears …"
+        },
+        {
+          "scid": "mn112:15.4",
+          "pli": "ghānena gandhaṃ ghāyitvā … pe …",
+          "en": "When I smelled an odor with my nose …"
+        },
+        {
+          "scid": "mn112:15.5",
+          "pli": "jivhāya rasaṃ sāyitvā … pe …",
+          "en": "When I tasted a flavor with my tongue …"
+        },
+        {
+          "scid": "mn112:15.6",
+          "pli": "kāyena phoṭṭhabbaṃ phusitvā … pe …",
+          "en": "When I felt a touch with my body …"
+        },
+        {
+          "scid": "mn112:15.7",
+          "pli": "manasā dhammaṃ viññāya na nimittaggāhī ahosiṃ nānubyañjanaggāhī; ",
+          "en": "When I knew a phenomenon with my mind, I didn’t get caught up in the features and details. "
+        },
+        {
+          "scid": "mn112:15.8",
+          "pli": "yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjiṃ; rakkhiṃ manindriyaṃ, manindriye saṃvaraṃ āpajjiṃ.",
+          "en": "If the faculty of the mind were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, I practiced restraint, protecting the faculty of the mind, and achieving its restraint."
+        },
+        {
+          "scid": "mn112:15.9",
+          "pli": "So iminā ariyena indriyasaṃvarena samannāgato ajjhattaṃ abyāsekasukhaṃ paṭisaṃvedesiṃ.",
+          "en": "When I had this noble sense restraint, I experienced an unsullied bliss inside myself."
+        },
+        {
+          "scid": "mn112:16.1",
+          "pli": "So abhikkante paṭikkante sampajānakārī ahosiṃ, ālokite vilokite sampajānakārī ahosiṃ, samiñjite pasārite sampajānakārī ahosiṃ, saṅghāṭipattacīvaradhāraṇe sampajānakārī ahosiṃ, asite pīte khāyite sāyite sampajānakārī ahosiṃ, uccārapassāvakamme sampajānakārī ahosiṃ, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī ahosiṃ.",
+          "en": "I acted with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent."
+        },
+        {
+          "scid": "mn112:16.2",
+          "pli": "So iminā ca ariyena sīlakkhandhena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, iminā ca ariyena indriyasaṃvarena samannāgato, iminā ca ariyena satisampajaññena samannāgato ",
+          "en": "When I had this noble spectrum of ethics, this noble sense restraint, and this noble mindfulness and situational awareness, "
+        },
+        {
+          "scid": "mn112:16.3",
+          "pli": "vivittaṃ senāsanaṃ bhajiṃ araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ.",
+          "en": "I frequented a secluded lodging—a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw."
+        },
+        {
+          "scid": "mn112:16.4",
+          "pli": "So pacchābhattaṃ piṇḍapātapaṭikkanto nisīdiṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
+          "en": "After the meal, I returned from alms-round, sat down cross-legged with my body straight, and established mindfulness right there."
+        },
+        {
+          "scid": "mn112:17.1",
+          "pli": "So abhijjhaṃ loke pahāya vigatābhijjhena cetasā vihāsiṃ, abhijjhāya cittaṃ parisodhesiṃ.",
+          "en": "Giving up desire for the world, I meditated with a heart rid of desire, cleansing the mind of desire."
+        },
+        {
+          "scid": "mn112:17.2",
+          "pli": "Byāpādapadosaṃ pahāya abyāpannacitto vihāsiṃ sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṃ parisodhesiṃ.",
+          "en": "Giving up ill will and malevolence, I meditated with a mind rid of ill will, full of compassion for all living beings, cleansing the mind of ill will."
+        },
+        {
+          "scid": "mn112:17.3",
+          "pli": "Thinamiddhaṃ pahāya vigatathinamiddho vihāsiṃ ālokasaññī sato sampajāno, thinamiddhā cittaṃ parisodhesiṃ.",
+          "en": "Giving up dullness and drowsiness, I meditated with a mind rid of dullness and drowsiness, perceiving light, mindful and aware, cleansing the mind of dullness and drowsiness."
+        },
+        {
+          "scid": "mn112:17.4",
+          "pli": "Uddhaccakukkuccaṃ pahāya anuddhato vihāsiṃ ajjhattaṃ, vūpasantacitto, uddhaccakukkuccā cittaṃ parisodhesiṃ.",
+          "en": "Giving up restlessness and remorse, I meditated without restlessness, my mind peaceful inside, cleansing the mind of restlessness and remorse."
+        },
+        {
+          "scid": "mn112:17.5",
+          "pli": "Vicikicchaṃ pahāya tiṇṇavicikiccho vihāsiṃ akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṃ parisodhesiṃ.",
+          "en": "Giving up doubt, I meditated having gone beyond doubt, not undecided about skillful qualities, cleansing the mind of doubt."
+        },
+        {
+          "scid": "mn112:18.1",
+          "pli": "So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe ",
+          "en": "I gave up these five hindrances, corruptions of the heart that weaken wisdom. "
+        },
+        {
+          "scid": "mn112:18.2",
+          "pli": "vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja vihāsiṃ.",
+          "en": "Then, quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn112:18.3",
+          "pli": "Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ … pe …",
+          "en": "As the placing of the mind and keeping it connected were stilled, I entered and remained in the second absorption …"
+        },
+        {
+          "scid": "mn112:18.4",
+          "pli": "tatiyaṃ jhānaṃ …",
+          "en": "third absorption …"
+        },
+        {
+          "scid": "mn112:18.5",
+          "pli": "catutthaṃ jhānaṃ upasampajja vihāsiṃ.",
+          "en": "fourth absorption."
+        },
+        {
+          "scid": "mn112:19.1",
+          "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmesiṃ.",
+          "en": "When my mind had immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—I turned it toward knowledge of the ending of defilements."
+        },
+        {
+          "scid": "mn112:19.2",
+          "pli": "So idaṃ dukkhanti yathābhūtaṃ abbhaññāsiṃ, ayaṃ dukkhasamudayoti yathābhūtaṃ abbhaññāsiṃ, ayaṃ dukkhanirodhoti yathābhūtaṃ abbhaññāsiṃ, ayaṃ dukkhanirodhagāminī paṭipadāti yathābhūtaṃ abbhaññāsiṃ;",
+          "en": "I truly understood: \"This is suffering\" … \"This is the origin of suffering\" … \"This is the cessation of suffering\" … \"This is the practice that leads to the cessation of suffering\"."
+        },
+        {
+          "scid": "mn112:19.3",
+          "pli": "ime āsavāti yathābhūtaṃ abbhaññāsiṃ, ayaṃ āsavasamudayoti yathābhūtaṃ abbhaññāsiṃ, ayaṃ āsavanirodhoti yathābhūtaṃ abbhaññāsiṃ, ayaṃ āsavanirodhagāminī paṭipadāti yathābhūtaṃ abbhaññāsiṃ.",
+          "en": "I truly understood: \"These are defilements\"… \"This is the origin of defilements\" … \"This is the cessation of defilements\" … \"This is the practice that leads to the cessation of defilements\"."
+        },
+        {
+          "scid": "mn112:20.1",
+          "pli": "Tassa me evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccittha, bhavāsavāpi cittaṃ vimuccittha, avijjāsavāpi cittaṃ vimuccittha.",
+          "en": "Knowing and seeing like this, my mind was freed from the defilements of sensuality, desire to be reborn, and ignorance."
+        },
+        {
+          "scid": "mn112:20.2",
+          "pli": "Vimuttasmiṃ vimuttamiti ñāṇaṃ ahosi.",
+          "en": "When freed, I knew \"it is freed\"."
+        },
+        {
+          "scid": "mn112:20.3",
+          "pli": "Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti abbhaññāsiṃ.",
+          "en": "I understood: \"Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.\""
+        },
+        {
+          "scid": "mn112:20.4",
+          "pli": "Evaṃ kho me, āvuso, jānato evaṃ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṃkāramamaṃkāramānānusayā samūhatā’ti.",
+          "en": "That is how I know and see so that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body and all external stimuli.’"
+        },
+        {
+          "scid": "mn112:21.1",
+          "pli": "Tassa, bhikkhave, bhikkhuno ‘sādhū’ti bhāsitaṃ abhinanditabbaṃ anumoditabbaṃ.",
+          "en": "Saying ‘Good!’ you should applaud and cheer that mendicant’s statement,"
+        },
+        {
+          "scid": "mn112:21.2",
+          "pli": "‘Sādhū’ti bhāsitaṃ abhinanditvā anumoditvā evamassa vacanīyo:",
+          "en": "and then say to them:"
+        },
+        {
+          "scid": "mn112:21.3",
+          "pli": "‘lābhā no, āvuso, suladdhaṃ no, āvuso, ",
+          "en": "‘We are fortunate, reverend, so very fortunate "
+        },
+        {
+          "scid": "mn112:21.4",
+          "pli": "ye mayaṃ āyasmantaṃ tādisaṃ sabrahmacāriṃ samanupassāmā’”ti.",
+          "en": "to see a venerable such as yourself as one of our spiritual companions!’”"
+        },
+        {
+          "scid": "mn112:21.5",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn112:21.6",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn112:21.7",
+          "pli": "Chabbisodhanasuttaṃ niṭṭhitaṃ dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn112/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 112",
+    "volpages": "MN iii 29",
+    "uid": "mn112",
+    "blurb": "If someone claims to be awakened, their claim should be interrogated with a detailed series of detailed questions. Only if they can answer them clearly should the claim be accepted.",
+    "difficulty": 3,
+    "original_title": "Chabbisodhana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Sixfold Purification",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn112_sujato",
+        "segmented": true,
+        "title": "The Sixfold Purification"
+      }
+    ],
+    "parallel_count": 37,
+    "biblio": null,
+    "num": 2
+  }
+}

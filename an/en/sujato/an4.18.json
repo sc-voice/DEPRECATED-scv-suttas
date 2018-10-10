@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an4.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Prejudice (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Prejudice (3rd)",
+      "uid": "an4.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Prejudice (1st)",
+      "uid": "an4.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.18:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.18:0.2",
+          "pli": "2. Caravagga",
+          "en": "2. Walking"
+        },
+        {
+          "scid": "an4.18:0.3",
+          "pli": "18. Dutiyaagatisutta",
+          "en": "18. Prejudice (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.18:1.1",
+          "pli": "“Cattārimāni, bhikkhave, nāgatigamanāni.",
+          "en": "“Mendicants, there are these four ways of making unprejudiced decisions."
+        },
+        {
+          "scid": "an4.18:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.18:1.3",
+          "pli": "Na chandāgatiṃ gacchati, na dosāgatiṃ gacchati, na mohāgatiṃ gacchati, na bhayāgatiṃ gacchati—",
+          "en": "Making decisions unprejudiced by favoritism, hostility, stupidity, and cowardice."
+        },
+        {
+          "scid": "an4.18:1.4",
+          "pli": "imāni kho, bhikkhave, cattāri nāgatigamanānīti.",
+          "en": "These are the four ways of making unprejudiced decisions."
+        },
+        {
+          "scid": "an4.18:2.1",
+          "pli": "Chandā dosā bhayā mohā,",
+          "en": "If you don’t act against the teaching"
+        },
+        {
+          "scid": "an4.18:2.2",
+          "pli": "yo dhammaṃ nātivattati;",
+          "en": "out of favoritism, hostility, cowardice, and stupidity,"
+        },
+        {
+          "scid": "an4.18:2.3",
+          "pli": "Āpūrati tassa yaso,",
+          "en": "your fame swells,"
+        },
+        {
+          "scid": "an4.18:2.4",
+          "pli": "sukkapakkheva candimā”ti.",
+          "en": "like the moon in the bright fortnight.”"
+        },
+        {
+          "scid": "an4.18:2.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.18",
+    "volpages": "AN ii 18",
+    "uid": "an4.18",
+    "blurb": "Making decisions unprejudiced by favoritism, hostility, stupidity, and cowardice.",
+    "difficulty": null,
+    "original_title": "Dutiyaagati Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Prejudice (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.18_sujato",
+        "segmented": true,
+        "title": "Prejudice (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.18_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Wrong Courses (2)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 8
+  }
+}

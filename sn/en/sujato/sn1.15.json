@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Whispering",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sleepiness and Sloth",
+      "uid": "sn1.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Aristocrats",
+      "uid": "sn1.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.15:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.15:0.2",
+          "pli": "2. Nandanavagga",
+          "en": "2. The Garden of Delight"
+        },
+        {
+          "scid": "sn1.15:0.3",
+          "pli": "15. Saṇamānasutta",
+          "en": "15. Whispering"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.15:1.1",
+          "pli": "“Ṭhite majjhanhike kāle,",
+          "en": "“In the still of high noon,"
+        },
+        {
+          "scid": "sn1.15:1.2",
+          "pli": "sannisīvesu pakkhisu;",
+          "en": "when the birds have settled down,"
+        },
+        {
+          "scid": "sn1.15:1.3",
+          "pli": "Saṇateva brahāraññaṃ,",
+          "en": "the formidable jungle whispers to itself:"
+        },
+        {
+          "scid": "sn1.15:1.4",
+          "pli": "taṃ bhayaṃ paṭibhāti man”ti.",
+          "en": "that seems so scary to me!”"
+        },
+        {
+          "scid": "sn1.15:2.1",
+          "pli": "“Ṭhite majjhanhike kāle,",
+          "en": "“In the still of high noon,"
+        },
+        {
+          "scid": "sn1.15:2.2",
+          "pli": "sannisīvesu pakkhisu;",
+          "en": "when the birds have settled down,"
+        },
+        {
+          "scid": "sn1.15:2.3",
+          "pli": "Saṇateva brahāraññaṃ,",
+          "en": "the formidable jungle whispers to itself:"
+        },
+        {
+          "scid": "sn1.15:2.4",
+          "pli": "sā rati paṭibhāti man”ti.",
+          "en": "that seems so delightful to me!”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“In the still of high noon…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.15//SN 15",
+    "volpages": "SN i 7//SN i 13",
+    "uid": "sn1.15",
+    "blurb": "The quiet murmuring of the jungle can be scary—but not to the Buddha.",
+    "difficulty": null,
+    "original_title": "Saṇamāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Whispering",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.15_sujato",
+        "segmented": true,
+        "title": "Whispering"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.15_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Murmuring"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

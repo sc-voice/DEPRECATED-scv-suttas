@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.249",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.249",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Very Helpful",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Expressions (1st)",
+      "uid": "an4.250"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Growth of Wisdom",
+      "uid": "an4.248"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.249:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.249:0.2",
+          "pli": "25. Āpattibhayavagga",
+          "en": "25. Perils of Offenses"
+        },
+        {
+          "scid": "an4.249:0.3",
+          "pli": "249. Bahukārasutta",
+          "en": "249. Very Helpful"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.249:1.1",
+          "pli": "“Cattārome, bhikkhave, dhammā manussabhūtassa bahukārā honti.",
+          "en": "“Mendicants, these four things are very helpful to a human being."
+        },
+        {
+          "scid": "an4.249:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.249:1.3",
+          "pli": "Sappurisasaṃsevo, saddhammasavanaṃ, yonisomanasikāro, dhammānudhammappaṭipatti—",
+          "en": "Associating with good people, listening to the true teaching, proper attention, and practicing in line with the teaching."
+        },
+        {
+          "scid": "an4.249:1.4",
+          "pli": "ime kho, bhikkhave, cattāro dhammā manussabhūtassa bahukārā hontī”ti.",
+          "en": "These four things are very helpful to a human being.”"
+        },
+        {
+          "scid": "an4.249:1.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.249/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.249//AN 4.246",
+    "volpages": "AN ii 245",
+    "uid": "an4.249",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bahukāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Very Helpful",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.249_sujato",
+        "segmented": true,
+        "title": "Very Helpful"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "sutta_uid": "an4.267",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.267",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Lying",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Divisive Speech",
+      "uid": "an4.268"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Misconduct",
+      "uid": "an4.266"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.267:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.267:0.2",
+          "pli": "27. Kammapathavagga",
+          "en": "27. Ways of Performing Deeds"
+        },
+        {
+          "scid": "an4.267:0.3",
+          "pli": "267. Musāvādīsutta",
+          "en": "267. Lying"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.267:1.1",
+          "pli": "… pe … Attanā ca musāvādī hoti, parañca musāvāde samādapeti, musāvāde ca samanuñño hoti, musāvādassa ca vaṇṇaṃ bhāsati—imehi kho … pe ….",
+          "en": "… They themselves lie …"
+        },
+        {
+          "scid": "an4.267:2.1",
+          "pli": "Attanā ca musāvādā paṭivirato hoti, parañca musāvādā veramaṇiyā samādapeti, musāvādā veramaṇiyā ca samanuñño hoti, musāvādā veramaṇiyā ca vaṇṇaṃ bhāsati—imehi … pe ….",
+          "en": "… They themselves don’t lie …"
+        },
+        {
+          "scid": "an4.267:2.2",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "… They themselves lie ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.267/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.267//AN 4.264",
+    "volpages": "AN ii 254",
+    "uid": "an4.267",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Musāvādī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Lying",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.267_sujato",
+        "segmented": true,
+        "title": "Lying"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

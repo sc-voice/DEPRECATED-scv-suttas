@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn36.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn36.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Several Mendicants (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Pañcakaṅga",
+      "uid": "sn36.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Several Mendicants (1st)",
+      "uid": "sn36.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn36.18:0.1",
+          "pli": "Saṃyutta Nikāya 36",
+          "en": "Linked Discourses 36"
+        },
+        {
+          "scid": "sn36.18:0.2",
+          "pli": "2. Rahogatavagga",
+          "en": "2. In Private"
+        },
+        {
+          "scid": "sn36.18:0.3",
+          "pli": "18. Dutiyasambahulasutta",
+          "en": "18. With Several Mendicants (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 36…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn36.18:1.1",
+          "pli": "Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu … pe …",
+          "en": "Then several mendicants went up to the Buddha …"
+        },
+        {
+          "scid": "sn36.18:1.2",
+          "pli": "ekamantaṃ nisinnā kho te bhikkhū bhagavā etadavoca:",
+          "en": "The Buddha said to them:"
+        },
+        {
+          "scid": "sn36.18:1.3",
+          "pli": "“katamā nu kho, bhikkhave, vedanā, katamo vedanāsamudayo, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā?",
+          "en": "“Mendicants, what is feeling? What’s the origin of feeling? What’s the cessation of feeling? What’s the practice that leads to the cessation of feeling?"
+        },
+        {
+          "scid": "sn36.18:1.4",
+          "pli": "Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇan”ti?",
+          "en": "And what is feeling’s gratification, drawback, and escape?”"
+        },
+        {
+          "scid": "sn36.18:1.5",
+          "pli": "“Bhagavaṃmūlakā no, bhante, dhammā … pe …”",
+          "en": "“Our teachings are rooted in the Buddha. …”"
+        },
+        {
+          "scid": "sn36.18:1.6",
+          "pli": "“tisso imā, bhikkhave, vedanā—",
+          "en": "“Mendicants, there are these three feelings:"
+        },
+        {
+          "scid": "sn36.18:1.7",
+          "pli": "sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—",
+          "en": "pleasant, painful, and neutral."
+        },
+        {
+          "scid": "sn36.18:1.8",
+          "pli": "imā vuccanti, bhikkhave, vedanā … pe … phassasamudayā … pe ….",
+          "en": "These are called feeling. …”"
+        },
+        {
+          "scid": "sn36.18:1.9",
+          "pli": "(Yathā purimasuttante, tathā vitthāretabbo.)",
+          "en": "(This should be told in full as in the previous discourse.)"
+        },
+        {
+          "scid": "sn36.18:1.10",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then several mendicants went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn36.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 36.18",
+    "volpages": "SN iv 222",
+    "uid": "sn36.18",
+    "blurb": "The Buddha asks about the feelings to several mendicants in terms of arising, ending, gratification, drawback, and escape.",
+    "difficulty": null,
+    "original_title": "Dutiyasambahula Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Several Mendicants (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn36.18_sujato",
+        "segmented": true,
+        "title": "With Several Mendicants (2nd)"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 8
+  }
+}

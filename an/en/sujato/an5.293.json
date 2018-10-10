@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an5.293",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.293",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "An Ājīvaka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Nigaṇṭha, Etc.",
+      "uid": "an5.294-302"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Nun",
+      "uid": "an5.287-292"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.293:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.293:0.2",
+          "pli": "28. Sikkhāpadapeyyāla",
+          "en": "28. Abbreviated Texts on Training Rules"
+        },
+        {
+          "scid": "an5.293:0.3",
+          "pli": "293. Ājīvakasutta",
+          "en": "293. An Ājīvaka"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.293:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato ājīvako yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "“Mendicants, an Ājīvaka ascetic with five qualities is cast down to hell."
+        },
+        {
+          "scid": "an5.293:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.293:1.3",
+          "pli": "Pāṇātipātī hoti, adinnādāyī hoti, abrahmacārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti.",
+          "en": "They kill living creatures, steal, have sex, lie, and use alcoholic drinks that cause negligence."
+        },
+        {
+          "scid": "an5.293:1.4",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato ājīvako yathābhataṃ nikkhitto evaṃ niraye”ti.",
+          "en": "An Ājīvaka ascetic with these five qualities is cast down to hell.”"
+        },
+        {
+          "scid": "an5.293:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.293/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.293",
+    "volpages": "AN iii 276",
+    "uid": "an5.293",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ājīvaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "An Ājīvaka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.293_sujato",
+        "segmented": true,
+        "title": "An Ājīvaka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

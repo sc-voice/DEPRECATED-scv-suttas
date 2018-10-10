@@ -1,0 +1,305 @@
+{
+  "sutta_uid": "an7.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Wealth in Detail",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ugga",
+      "uid": "an7.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wealth in Brief",
+      "uid": "an7.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.6:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.6:0.2",
+          "pli": "1. Dhanavagga",
+          "en": "1. Wealth"
+        },
+        {
+          "scid": "an7.6:0.3",
+          "pli": "6. Vitthatadhanasutta",
+          "en": "6. Wealth in Detail"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.6:1.1",
+          "pli": "“Sattimāni, bhikkhave, dhanāni.",
+          "en": "“Mendicants, there are these seven kinds of wealth."
+        },
+        {
+          "scid": "an7.6:1.2",
+          "pli": "Katamāni satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.6:1.3",
+          "pli": "Saddhādhanaṃ, sīladhanaṃ, hirīdhanaṃ, ottappadhanaṃ, sutadhanaṃ, cāgadhanaṃ, paññādhanaṃ.",
+          "en": "The wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom."
+        },
+        {
+          "scid": "an7.6:2.1",
+          "pli": "Katamañca, bhikkhave, saddhādhanaṃ?",
+          "en": "And what is the wealth of faith?"
+        },
+        {
+          "scid": "an7.6:2.2",
+          "pli": "Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ:",
+          "en": "It’s when a noble disciple has faith in the Realized One’s awakening …"
+        },
+        {
+          "scid": "an7.6:2.3",
+          "pli": "‘itipi so bhagavā arahaṃ sammāsambuddho … pe … buddho bhagavā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "an7.6:2.4",
+          "pli": "Idaṃ vuccati, bhikkhave, saddhādhanaṃ. (1)",
+          "en": "This is called the wealth of faith."
+        },
+        {
+          "scid": "an7.6:3.1",
+          "pli": "Katamañca, bhikkhave, sīladhanaṃ?",
+          "en": "And what is the wealth of ethical conduct?"
+        },
+        {
+          "scid": "an7.6:3.2",
+          "pli": "Idha, bhikkhave, ariyasāvako pāṇātipātā paṭivirato hoti … pe … surāmerayamajjapamādaṭṭhānā paṭivirato hoti.",
+          "en": "It’s when a noble disciple doesn’t kill living creatures, steal, commit sexual misconduct, use speech that’s false, divisive, harsh, or nonsensical, or consume alcoholic drinks that cause negligence."
+        },
+        {
+          "scid": "an7.6:3.3",
+          "pli": "Idaṃ vuccati, bhikkhave, sīladhanaṃ. (2)",
+          "en": "This is called the wealth of ethical conduct."
+        },
+        {
+          "scid": "an7.6:4.1",
+          "pli": "Katamañca, bhikkhave, hirīdhanaṃ?",
+          "en": "And what is the wealth of conscience?"
+        },
+        {
+          "scid": "an7.6:4.2",
+          "pli": "Idha, bhikkhave, ariyasāvako hirīmā hoti, hirīyati kāyaduccaritena vacīduccaritena manoduccaritena, hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā.",
+          "en": "It’s when a noble disciple has a conscience. They’re conscientious about bad conduct by way of body, speech, and mind, and conscientious about having any bad, unskillful qualities."
+        },
+        {
+          "scid": "an7.6:4.3",
+          "pli": "Idaṃ vuccati, bhikkhave, hirīdhanaṃ. (3)",
+          "en": "This is called the wealth of conscience."
+        },
+        {
+          "scid": "an7.6:5.1",
+          "pli": "Katamañca, bhikkhave, ottappadhanaṃ?",
+          "en": "And what is the wealth of prudence?"
+        },
+        {
+          "scid": "an7.6:5.2",
+          "pli": "Idha, bhikkhave, ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā.",
+          "en": "It’s when a noble disciple is prudent. They’re prudent when it comes to bad conduct by way of body, speech, and mind, and prudent when it comes to the acquiring of any bad, unskillful qualities."
+        },
+        {
+          "scid": "an7.6:5.3",
+          "pli": "Idaṃ vuccati, bhikkhave, ottappadhanaṃ. (4)",
+          "en": "This is called the wealth of prudence."
+        },
+        {
+          "scid": "an7.6:6.1",
+          "pli": "Katamañca, bhikkhave, sutadhanaṃ?",
+          "en": "And what is the wealth of learning?"
+        },
+        {
+          "scid": "an7.6:6.2",
+          "pli": "Idha, bhikkhave, ariyasāvako bahussuto hoti sutadharo sutasannicayo. Ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti. Tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.",
+          "en": "It’s when a noble disciple is very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reciting them, mentally scrutinizing them, and comprehending them theoretically."
+        },
+        {
+          "scid": "an7.6:6.3",
+          "pli": "Idaṃ vuccati, bhikkhave, sutadhanaṃ. (5)",
+          "en": "This is called the wealth of learning."
+        },
+        {
+          "scid": "an7.6:7.1",
+          "pli": "Katamañca, bhikkhave, cāgadhanaṃ?",
+          "en": "And what is the wealth of generosity?"
+        },
+        {
+          "scid": "an7.6:7.2",
+          "pli": "Idha, bhikkhave, ariyasāvako vigatamalamaccherena cetasā agāraṃ ajjhāvasati muttacāgo payatapāṇi vosaggarato yācayogo dānasaṃvibhāgarato.",
+          "en": "It’s when a noble disciple lives at home rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share."
+        },
+        {
+          "scid": "an7.6:7.3",
+          "pli": "Idaṃ vuccati, bhikkhave, cāgadhanaṃ. (6)",
+          "en": "This is called the wealth of generosity."
+        },
+        {
+          "scid": "an7.6:8.1",
+          "pli": "Katamañca, bhikkhave, paññādhanaṃ?",
+          "en": "And what is the wealth of wisdom?"
+        },
+        {
+          "scid": "an7.6:8.2",
+          "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti … pe … sammā dukkhakkhayagāminiyā.",
+          "en": "It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering."
+        },
+        {
+          "scid": "an7.6:8.3",
+          "pli": "Idaṃ vuccati, bhikkhave, paññādhanaṃ. (7)",
+          "en": "This is called the wealth of wisdom."
+        },
+        {
+          "scid": "an7.6:9.1",
+          "pli": "Imāni kho, bhikkhave, sattadhanānīti.",
+          "en": "These are the seven kinds of wealth.”"
+        },
+        {
+          "scid": "an7.6:10.1",
+          "pli": "Saddhādhanaṃ sīladhanaṃ,",
+          "en": "“Faith and ethical conduct are kinds of wealth,"
+        },
+        {
+          "scid": "an7.6:10.2",
+          "pli": "hirī ottappiyaṃ dhanaṃ;",
+          "en": "as are conscience and prudence,"
+        },
+        {
+          "scid": "an7.6:10.3",
+          "pli": "Sutadhanañca cāgo ca,",
+          "en": "learning and generosity,"
+        },
+        {
+          "scid": "an7.6:10.4",
+          "pli": "paññā ve sattamaṃ dhanaṃ.",
+          "en": "and wisdom is the seventh kind of wealth."
+        },
+        {
+          "scid": "an7.6:11.1",
+          "pli": "Yassa ete dhanā atthi,",
+          "en": "When a woman or man"
+        },
+        {
+          "scid": "an7.6:11.2",
+          "pli": "itthiyā purisassa vā;",
+          "en": "has these kinds of wealth,"
+        },
+        {
+          "scid": "an7.6:11.3",
+          "pli": "Adaliddoti taṃ āhu,",
+          "en": "they’re said to be prosperous,"
+        },
+        {
+          "scid": "an7.6:11.4",
+          "pli": "amoghaṃ tassa jīvitaṃ.",
+          "en": "their life is not in vain."
+        },
+        {
+          "scid": "an7.6:12.1",
+          "pli": "Tasmā saddhañca sīlañca,",
+          "en": "And so an intelligent person,"
+        },
+        {
+          "scid": "an7.6:12.2",
+          "pli": "pasādaṃ dhammadassanaṃ;",
+          "en": "remembering the Buddha’s instructions,"
+        },
+        {
+          "scid": "an7.6:12.3",
+          "pli": "Anuyuñjetha medhāvī,",
+          "en": "should be committed to faith and ethical conduct,"
+        },
+        {
+          "scid": "an7.6:12.4",
+          "pli": "saraṃ buddhāna sāsanan”ti.",
+          "en": "confidence, and seeing the truth.”"
+        },
+        {
+          "scid": "an7.6:12.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.6",
+    "volpages": "AN iv 5",
+    "uid": "an7.6",
+    "blurb": "The wealth of faith, energy, conscience, prudence, learning, generosity, and wisdom.",
+    "difficulty": null,
+    "original_title": "Vitthatadhana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Wealth in Detail",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.6_sujato",
+        "segmented": true,
+        "title": "Wealth in Detail"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an7.6_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Treasure"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 6
+  }
+}

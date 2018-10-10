@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn43.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn43.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Faculties",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Powers",
+      "uid": "sn43.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bases of Psychic Power",
+      "uid": "sn43.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn43.8:0.1",
+          "pli": "Saṃyutta Nikāya 43",
+          "en": "Linked Discourses 43"
+        },
+        {
+          "scid": "sn43.8:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The First Chapter"
+        },
+        {
+          "scid": "sn43.8:0.3",
+          "pli": "8. Indriyasutta",
+          "en": "8. Faculties"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 43…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn43.8:1.1",
+          "pli": "“Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": "“And what is the path that leads to the unconditioned?"
+        },
+        {
+          "scid": "sn43.8:1.2",
+          "pli": "Pañcindriyāni. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe ….",
+          "en": "The five faculties. …”"
+        },
+        {
+          "scid": "sn43.8:1.3",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“And what is the path that leads…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn43.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 43.8",
+    "volpages": "SN iv 361",
+    "uid": "sn43.8",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Indriya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Faculties",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn43.8_sujato",
+        "segmented": true,
+        "title": "Faculties"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn43.8_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Spiritual Faculties"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

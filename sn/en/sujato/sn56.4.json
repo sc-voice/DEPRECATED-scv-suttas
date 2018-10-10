@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn56.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Respectable (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics and Brahmins (1st)",
+      "uid": "sn56.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Respectable (1st)",
+      "uid": "sn56.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.4:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.4:0.2",
+          "pli": "1. Samādhivagga",
+          "en": "1. Immersion"
+        },
+        {
+          "scid": "sn56.4:0.3",
+          "pli": "4. Dutiyakulaputtasutta",
+          "en": "4. Respectable (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.4:1.1",
+          "pli": "“Ye hi keci, bhikkhave, atītamaddhānaṃ kulaputtā sammā agārasmā anagāriyaṃ pabbajitā yathābhūtaṃ abhisamesuṃ, sabbe te cattāri ariyasaccāni yathābhūtaṃ abhisamesuṃ.",
+          "en": "“Mendicants, whatever respectable people—past,"
+        },
+        {
+          "scid": "sn56.4:1.2",
+          "pli": "Ye hi keci, bhikkhave, anāgatamaddhānaṃ kulaputtā sammā agārasmā anagāriyaṃ pabbajitā yathābhūtaṃ abhisamessanti, sabbe te cattāri ariyasaccāni yathābhūtaṃ abhisamessanti.",
+          "en": "future,"
+        },
+        {
+          "scid": "sn56.4:1.3",
+          "pli": "Ye hi keci, bhikkhave, etarahi kulaputtā sammā agārasmā anagāriyaṃ pabbajitā yathābhūtaṃ abhisamenti, sabbe te cattāri ariyasaccāni yathābhūtaṃ abhisamenti.",
+          "en": "or present—truly comprehend after rightly going forth from the lay life to homelessness, all of them truly comprehend the four noble truths."
+        },
+        {
+          "scid": "sn56.4:2.1",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn56.4:2.2",
+          "pli": "Dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ ariyasaccaṃ, dukkhanirodhaṃ ariyasaccaṃ, dukkhanirodhagāminī paṭipadā ariyasaccaṃ.",
+          "en": "The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. …"
+        },
+        {
+          "scid": "sn56.4:2.3",
+          "pli": "Ye hi keci, bhikkhave, atītamaddhānaṃ kulaputtā sammā agārasmā anagāriyaṃ pabbajitā yathābhūtaṃ abhisamesuṃ … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn56.4:2.4",
+          "pli": "abhisamessanti … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn56.4:2.5",
+          "pli": "abhisamenti, sabbe te imāni cattāri ariyasaccāni yathābhūtaṃ abhisamenti.",
+          "en": ""
+        },
+        {
+          "scid": "sn56.4:3.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.4:3.2",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.4",
+    "volpages": "SN v 415",
+    "uid": "sn56.4",
+    "blurb": "Members of good families go forth to penetrate the four noble truths.",
+    "difficulty": null,
+    "original_title": "Dutiyakulaputta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Respectable (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.4_sujato",
+        "segmented": true,
+        "title": "Respectable (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.4_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Clansmen (2)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

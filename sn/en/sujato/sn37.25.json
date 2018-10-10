@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn37.25",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.25",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Assured",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Under Her Thumb",
+      "uid": "sn37.26"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Precepts",
+      "uid": "sn37.24"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.25:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.25:0.2",
+          "pli": "3. Balavagga",
+          "en": "3. Powers"
+        },
+        {
+          "scid": "sn37.25:0.3",
+          "pli": "25. Visāradasutta",
+          "en": "25. Assured"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.25:1.1",
+          "pli": "“Pañcimāni, bhikkhave, mātugāmassa balāni.",
+          "en": "“Mendicants, there are these five powers of a female."
+        },
+        {
+          "scid": "sn37.25:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn37.25:1.3",
+          "pli": "Rūpabalaṃ, bhogabalaṃ, ñātibalaṃ, puttabalaṃ, sīlabalaṃ—",
+          "en": "Attractiveness, wealth, relatives, children, and ethical behavior."
+        },
+        {
+          "scid": "sn37.25:1.4",
+          "pli": "imāni kho, bhikkhave, pañca mātugāmassa balāni.",
+          "en": "These are the five powers of a female."
+        },
+        {
+          "scid": "sn37.25:1.5",
+          "pli": "Imehi kho, bhikkhave, pañcahi balehi samannāgato mātugāmo visārado agāraṃ ajjhāvasatī”ti.",
+          "en": "A female living at home with these five qualities is self-assured.”"
+        },
+        {
+          "scid": "sn37.25:1.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.25/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.25",
+    "volpages": "SN iv 246",
+    "uid": "sn37.25",
+    "blurb": "A woman with five powers lives confident at home.",
+    "difficulty": null,
+    "original_title": "Visārada Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Assured",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.25_sujato",
+        "segmented": true,
+        "title": "Assured"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

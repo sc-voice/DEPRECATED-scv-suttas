@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an6.96",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.96",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Appearance",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Benefit",
+      "uid": "an6.97"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Things That Can’t Be Done (4th)",
+      "uid": "an6.95"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.96:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.96:0.2",
+          "pli": "10. Ānisaṃsavagga",
+          "en": "10. Benefit"
+        },
+        {
+          "scid": "an6.96:0.3",
+          "pli": "96. Pātubhāvasutta",
+          "en": "96. Appearance"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.96:1.1",
+          "pli": "“Channaṃ, bhikkhave, pātubhāvo dullabho lokasmiṃ.",
+          "en": "“Mendicants, the appearance of six things is rare in the world."
+        },
+        {
+          "scid": "an6.96:1.2",
+          "pli": "Katamesaṃ channaṃ?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.96:1.3",
+          "pli": "Tathāgatassa arahato sammāsambuddhassa pātubhāvo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desetā puggalo dullabho lokasmiṃ, ariyāyatane paccājāti dullabhā lokasmiṃ, indriyānaṃ avekallatā dullabhā lokasmiṃ, ajaḷatā aneḷamūgatā dullabhā lokasmiṃ, kusale dhamme chando dullabho lokasmiṃ.",
+          "en": "A Realized One, a perfected one, a fully awakened Buddha. A person who teaches the teaching and training proclaimed by a Realized One. Rebirth in a civilized region. Unimpaired sense faculties. Not being dull and stupid. Enthusiasm for skillful qualities."
+        },
+        {
+          "scid": "an6.96:1.4",
+          "pli": "Imesaṃ kho, bhikkhave, channaṃ pātubhāvo dullabho lokasmin”ti.",
+          "en": "The appearance of these six things is rare in the world.”"
+        },
+        {
+          "scid": "an6.96:1.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.96/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.96",
+    "volpages": "AN iii 441",
+    "uid": "an6.96",
+    "blurb": "Things rare to find in the world.",
+    "difficulty": null,
+    "original_title": "Pātubhāva Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Appearance",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.96_sujato",
+        "segmented": true,
+        "title": "Appearance"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

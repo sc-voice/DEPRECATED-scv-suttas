@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an5.188",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.188",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Those Who Eat in One Sitting",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Refusers of Late Food",
+      "uid": "an5.189"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Those Who Sleep Wherever a Mat is Laid",
+      "uid": "an5.187"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.188:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.188:0.2",
+          "pli": "19. Araññavagga",
+          "en": "19. Wilderness Dwellers"
+        },
+        {
+          "scid": "an5.188:0.3",
+          "pli": "188. Ekāsanikasutta",
+          "en": "188. Those Who Eat in One Sitting"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.188:1.1",
+          "pli": "“Pañcime, bhikkhave, ekāsanikā … pe ….",
+          "en": "“There are these five kinds of people who eat in one sitting per day. …”"
+        },
+        {
+          "scid": "an5.188:1.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“There are these five kinds of people…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.188/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.188",
+    "volpages": "AN iii 220",
+    "uid": "an5.188",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ekāsanika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Those Who Eat in One Sitting",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.188_sujato",
+        "segmented": true,
+        "title": "Those Who Eat in One Sitting"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

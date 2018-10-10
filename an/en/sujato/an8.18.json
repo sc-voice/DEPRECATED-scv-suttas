@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "an8.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an8.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Imprisonment (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Pahārāda",
+      "uid": "an8.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Imprisonment (1st)",
+      "uid": "an8.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an8.18:0.1",
+          "pli": "Aṅguttara Nikāya 8",
+          "en": "Numbered Discourses 8"
+        },
+        {
+          "scid": "an8.18:0.2",
+          "pli": "2. Mahāvagga",
+          "en": "2. The Great Chapter"
+        },
+        {
+          "scid": "an8.18:0.3",
+          "pli": "18. Dutiyabandhanasutta",
+          "en": "18. Imprisonment (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an8.18:1.1",
+          "pli": "“Aṭṭhahi, bhikkhave, ākārehi puriso itthiṃ bandhati.",
+          "en": "“Mendicants, a man has eight ways to imprison a woman."
+        },
+        {
+          "scid": "an8.18:1.2",
+          "pli": "Katamehi aṭṭhahi?",
+          "en": "What eight?"
+        },
+        {
+          "scid": "an8.18:1.3",
+          "pli": "Ruṇṇena, bhikkhave, puriso itthiṃ bandhati;",
+          "en": "With weeping,"
+        },
+        {
+          "scid": "an8.18:1.4",
+          "pli": "hasitena, bhikkhave, puriso itthiṃ bandhati;",
+          "en": "laughing,"
+        },
+        {
+          "scid": "an8.18:1.5",
+          "pli": "bhaṇitena, bhikkhave, puriso itthiṃ bandhati;",
+          "en": "speaking,"
+        },
+        {
+          "scid": "an8.18:1.6",
+          "pli": "ākappena, bhikkhave, puriso itthiṃ bandhati;",
+          "en": "appearance,"
+        },
+        {
+          "scid": "an8.18:1.7",
+          "pli": "vanabhaṅgena, bhikkhave, puriso itthiṃ bandhati;",
+          "en": "gifts of wildflowers,"
+        },
+        {
+          "scid": "an8.18:1.8",
+          "pli": "gandhena, bhikkhave, puriso itthiṃ bandhati;",
+          "en": "scents,"
+        },
+        {
+          "scid": "an8.18:1.9",
+          "pli": "rasena, bhikkhave, puriso itthiṃ bandhati;",
+          "en": "tastes,"
+        },
+        {
+          "scid": "an8.18:1.10",
+          "pli": "phassena, bhikkhave, puriso itthiṃ bandhati.",
+          "en": "and touches."
+        },
+        {
+          "scid": "an8.18:1.11",
+          "pli": "Imehi kho, bhikkhave, aṭṭhahākārehi puriso itthiṃ bandhati.",
+          "en": "A man has these eight ways to imprison a woman."
+        },
+        {
+          "scid": "an8.18:1.12",
+          "pli": "Te, bhikkhave, sattā subaddhā, ye phassena baddhā”ti.",
+          "en": "But those beings who are imprisoned by touch are truly imprisoned.”"
+        },
+        {
+          "scid": "an8.18:1.13",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an8.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 8.18",
+    "volpages": "AN iv 197",
+    "uid": "an8.18",
+    "blurb": "A man imprisons a woman in eight ways.",
+    "difficulty": null,
+    "original_title": "Dutiyabandhana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Imprisonment (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an8.18_sujato",
+        "segmented": true,
+        "title": "Imprisonment (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an8.18_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Bondage (2)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

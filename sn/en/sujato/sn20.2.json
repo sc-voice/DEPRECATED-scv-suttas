@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn20.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn20.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Fingernail",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Families",
+      "uid": "sn20.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Roof Peak",
+      "uid": "sn20.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn20.2:0.1",
+          "pli": "Saṃyutta Nikāya 20",
+          "en": "Linked Discourses 20"
+        },
+        {
+          "scid": "sn20.2:0.2",
+          "pli": "1. Opammavagga",
+          "en": "1. Similes"
+        },
+        {
+          "scid": "sn20.2:0.3",
+          "pli": "2. Nakhasikhasutta",
+          "en": "2. A Fingernail"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 20…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn20.2:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn20.2:1.2",
+          "pli": "Atha kho bhagavā parittaṃ nakhasikhāyaṃ paṃsuṃ āropetvā bhikkhū āmantesi:",
+          "en": "Then the Buddha, picking up a little bit of dirt under his fingernail, addressed the mendicants:"
+        },
+        {
+          "scid": "sn20.2:1.3",
+          "pli": "“Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "“What do you think, mendicants? "
+        },
+        {
+          "scid": "sn20.2:1.4",
+          "pli": "katamaṃ nu kho bahutaraṃ, yo cāyaṃ mayā paritto nakhasikhāyaṃ paṃsu āropito yā cāyaṃ mahāpathavī”ti?",
+          "en": "Which is more: the little bit of dirt under my fingernail, or this great earth?”"
+        },
+        {
+          "scid": "sn20.2:1.5",
+          "pli": "“Etadeva, bhante, bahutaraṃ yadidaṃ mahāpathavī.",
+          "en": "“Sir, the great earth is far more."
+        },
+        {
+          "scid": "sn20.2:1.6",
+          "pli": "Appamattakoyaṃ bhagavatā paritto nakhasikhāyaṃ paṃsu āropito.",
+          "en": "The little bit of dirt under your fingernail is tiny."
+        },
+        {
+          "scid": "sn20.2:1.7",
+          "pli": "Saṅkhampi na upeti upanidhimpi na upeti kalabhāgampi na upeti mahāpathaviṃ upanidhāya bhagavatā paritto nakhasikhāyaṃ paṃsu āropito”ti.",
+          "en": "Compared to the great earth, it can’t be reckoned or compared, it’s not even a fraction.”"
+        },
+        {
+          "scid": "sn20.2:1.8",
+          "pli": "“Evameva kho, bhikkhave, appakā te sattā ye manussesu paccājāyanti;",
+          "en": "“In the same way the sentient beings reborn as humans are few,"
+        },
+        {
+          "scid": "sn20.2:1.9",
+          "pli": "atha kho eteyeva bahutarā sattā ye aññatra manussehi paccājāyanti.",
+          "en": "while those not reborn as humans are many."
+        },
+        {
+          "scid": "sn20.2:1.10",
+          "pli": "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:",
+          "en": "So you should train like this:"
+        },
+        {
+          "scid": "sn20.2:1.11",
+          "pli": "‘appamattā viharissāmā’ti.",
+          "en": "‘We will stay diligent.’"
+        },
+        {
+          "scid": "sn20.2:1.12",
+          "pli": "Evañhi vo, bhikkhave, sikkhitabban”ti.",
+          "en": "That’s how you should train.”"
+        },
+        {
+          "scid": "sn20.2:1.13",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn20.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 20.2",
+    "volpages": "SN ii 263",
+    "uid": "sn20.2",
+    "blurb": "As the dirt in a fingernail is smaller than the great earth, the beings reborn as humans are few.",
+    "difficulty": null,
+    "original_title": "Nakhasikha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Fingernail",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn20.2_sujato",
+        "segmented": true,
+        "title": "A Fingernail"
+      }
+    ],
+    "parallel_count": 52,
+    "biblio": null,
+    "num": 2
+  }
+}

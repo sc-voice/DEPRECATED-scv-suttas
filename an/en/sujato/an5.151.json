@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.151",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.151",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Inevitability Regarding the Right Path (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Inevitability Regarding the Right Path (2nd)",
+      "uid": "an5.152"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Temporarily Free (2nd)",
+      "uid": "an5.150"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.151:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.151:0.2",
+          "pli": "16. Saddhammavagga",
+          "en": "16. The True Teaching"
+        },
+        {
+          "scid": "an5.151:0.3",
+          "pli": "151. Paṭhamasammattaniyāmasutta",
+          "en": "151. Inevitability Regarding the Right Path (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.151:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ.",
+          "en": "“Mendicants, someone with five qualities is unable to enter the sure path with regards to skillful qualities even when listening to the true teaching."
+        },
+        {
+          "scid": "an5.151:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.151:1.3",
+          "pli": "Kathaṃ paribhoti, kathikaṃ paribhoti, attānaṃ paribhoti, vikkhittacitto dhammaṃ suṇāti, anekaggacitto ayoniso ca manasi karoti.",
+          "en": "They disparage the talk, the speaker, or themselves. They listen with distracted and scattered mind. They attend improperly."
+        },
+        {
+          "scid": "an5.151:1.4",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ.",
+          "en": "Someone with these five qualities is unable to enter the sure path with regards to skillful qualities, even when listening to the true teaching."
+        },
+        {
+          "scid": "an5.151:2.1",
+          "pli": "Pañcahi, bhikkhave, dhammehi samannāgato suṇanto saddhammaṃ bhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ.",
+          "en": "Someone with five qualities is able to enter the sure path with regards to skillful qualities when listening to the true teaching."
+        },
+        {
+          "scid": "an5.151:2.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.151:2.3",
+          "pli": "Na kathaṃ paribhoti, na kathikaṃ paribhoti, na attānaṃ paribhoti, avikkhittacitto dhammaṃ suṇāti, ekaggacitto yoniso ca manasi karoti.",
+          "en": "They don’t disparage the talk, the speaker, or themselves. They listen with undistracted and unified mind. They attend properly."
+        },
+        {
+          "scid": "an5.151:2.4",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato suṇanto saddhammaṃ bhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattan”ti.",
+          "en": "Someone with these five qualities is able to enter the sure path with regards to skillful qualities when listening to the true teaching.”"
+        },
+        {
+          "scid": "an5.151:2.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.151/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.151",
+    "volpages": "AN iii 174",
+    "uid": "an5.151",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paṭhamasammattaniyāma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Inevitability Regarding the Right Path (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.151_sujato",
+        "segmented": true,
+        "title": "Inevitability Regarding the Right Path (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

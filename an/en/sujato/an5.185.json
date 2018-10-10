@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an5.185",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.185",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Open Air Dwellers",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Those Who Never Lie Down",
+      "uid": "an5.186"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Charnel Ground Dwellers",
+      "uid": "an5.184"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.185:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.185:0.2",
+          "pli": "19. Araññavagga",
+          "en": "19. Wilderness Dwellers"
+        },
+        {
+          "scid": "an5.185:0.3",
+          "pli": "185. Abbhokāsikasutta",
+          "en": "185. Open Air Dwellers"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.185:1.1",
+          "pli": "“Pañcime, bhikkhave, abbhokāsikā … pe ….",
+          "en": "“There are these five kinds of people who dwell in the open air. …”"
+        },
+        {
+          "scid": "an5.185:1.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“There are these five kinds of people…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.185/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.185",
+    "volpages": "AN iii 220",
+    "uid": "an5.185",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Abbhokāsika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Open Air Dwellers",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.185_sujato",
+        "segmented": true,
+        "title": "Open Air Dwellers"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

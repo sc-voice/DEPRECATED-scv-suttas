@@ -1,0 +1,127 @@
+{
+  "sutta_uid": "thig3.4",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig3.4",
+    "lang": "en",
+    "is_root": false,
+    "title": "Dantika and the Elephant",
+    "author": "Thanissaro Bhikkhu",
+    "author_short": "Thanissaro",
+    "author_uid": "thanissaro",
+    "next": {
+      "author_uid": "thanissaro",
+      "lang": "en",
+      "name": "Ubbiri",
+      "uid": "thig3.5"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Another Uttamā",
+      "uid": "thig3.3"
+    }
+  },
+  "metaarea": "\n<p>Translated from the Pali by: <span class=\"author\">Thanissaro Bhikkhu</span>.</p>\n<p>©2005 Thanissaro Bhikkhu. The text of this page is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of the license, visit <a href=\"http://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">http://creativecommons.org/licenses/by-nc/4.0</a>. Documents linked from this page may be subject to other restrictions. Transcribed from a file provided by the translator.</p>\n<p>Access to Insight (Legacy Edition), 30 November 2013, <a href=\"https://www.accesstoinsight.org/\" target=\"_blank\">www.accesstoinsight.org</a></p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.4:0.1",
+          "en": "Therīgāthā 3.4"
+        },
+        {
+          "scid": "thig3.4:0.2",
+          "en": "Dantika and the Elephant",
+          "pli": "Dantikātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig3.4:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig3.4:1.0.2",
+          "en": "Chapter 3"
+        },
+        {
+          "scid": "thig3.4:1.0.3",
+          "en": "4. Dantika and the Elephant"
+        },
+        {
+          "scid": "thig3.4:1.0.4",
+          "en": "Coming out from my day's abiding on Vulture Peak Mountain, I saw on the bank of a river an elephant emerged from its plunge."
+        },
+        {
+          "scid": "thig3.4:1.0.5",
+          "en": "A man holding a hook requested: \"Give me your foot.\" The elephant extended its foot. The man got up on the elephant."
+        },
+        {
+          "scid": "thig3.4:1.0.6",
+          "en": "Seeing what was untrained now tamed brought under human control, with that I centered my mind — why I'd gone to the woods in the first place."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.4/en/thanissaro",
+  "author_uid": "thanissaro",
+  "suttaplex": {
+    "acronym": "Thig 3.4",
+    "volpages": "Thig 128",
+    "uid": "thig3.4",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dantikātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dantika and the Elephant",
+    "translations": [
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig3.4_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Dantika and the Elephant"
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.4_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Dantikā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 4
+  }
+}

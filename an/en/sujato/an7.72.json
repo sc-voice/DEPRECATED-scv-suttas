@@ -1,0 +1,455 @@
+{
+  "sutta_uid": "an7.72",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.72",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Simile of the Bonfire",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sunetta",
+      "uid": "an7.73"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Committed to Development",
+      "uid": "an7.71"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.72:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.72:0.2",
+          "pli": "7. Mahāvagga",
+          "en": "7. The Great Chapter"
+        },
+        {
+          "scid": "an7.72:0.3",
+          "pli": "72. Aggikkhandhopamasutta",
+          "en": "72. The Simile of the Bonfire"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.72:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "an7.72:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā bhikkhusaṃghena saddhiṃ.",
+          "en": "At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants."
+        },
+        {
+          "scid": "an7.72:1.3",
+          "pli": "Addasā kho bhagavā addhānamaggappaṭipanno aññatarasmiṃ padese mahantaṃ aggikkhandhaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ.",
+          "en": "While walking along the road, at a certain spot he saw a bonfire burning, blazing and glowing."
+        },
+        {
+          "scid": "an7.72:1.4",
+          "pli": "Disvāna maggā okkamma aññatarasmiṃ rukkhamūle paññatte āsane nisīdi.",
+          "en": "Seeing this he left the road, sat at the root of a tree on a seat spread out,"
+        },
+        {
+          "scid": "an7.72:1.5",
+          "pli": "Nisajja kho bhagavā bhikkhū āmantesi:",
+          "en": "and addressed the mendicants:"
+        },
+        {
+          "scid": "an7.72:1.6",
+          "pli": "“passatha no tumhe, bhikkhave, amuṃ mahantaṃ aggikkhandhaṃ ādittaṃ sampajjalitaṃ sajotibhūtan”ti?",
+          "en": "“Mendicants, do you see that bonfire burning, blazing, and glowing?”"
+        },
+        {
+          "scid": "an7.72:1.7",
+          "pli": "“Evaṃ, bhante”ti.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "an7.72:2.1",
+          "pli": "“Taṃ kiṃ maññatha, bhikkhave? ",
+          "en": "“What do you think, mendicants? "
+        },
+        {
+          "scid": "an7.72:2.2",
+          "pli": "katamaṃ nu kho varaṃ—yaṃ amuṃ mahantaṃ aggikkhandhaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ āliṅgetvā upanisīdeyya vā upanipajjeyya vā, yaṃ vā khattiyakaññaṃ vā brāhmaṇakaññaṃ vā gahapatikaññaṃ vā mudutalunahatthapādaṃ āliṅgetvā upanisīdeyya vā upanipajjeyya vā”ti?",
+          "en": "Which is better—to sit or lie down embracing that bonfire? Or to sit or lie down embracing a girl of the aristocrats or brahmins or householders with soft and tender hands and feet?”"
+        },
+        {
+          "scid": "an7.72:2.3",
+          "pli": "“Etadeva, bhante, varaṃ—yaṃ khattiyakaññaṃ vā brāhmaṇakaññaṃ vā gahapatikaññaṃ vā mudutalunahatthapādaṃ āliṅgetvā upanisīdeyya vā upanipajjeyya vā, dukkhañhetaṃ, bhante, yaṃ amuṃ mahantaṃ aggikkhandhaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ āliṅgetvā upanisīdeyya vā upanipajjeyya vā”ti.",
+          "en": "“Sir, it would be much better to sit or lie down embracing a girl of the aristocrats or brahmins or householders with soft and tender hands and feet. For it would be painful to sit or lie down embracing that bonfire.”"
+        },
+        {
+          "scid": "an7.72:3.1",
+          "pli": "“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa varaṃ dussīlassa pāpadhammassa asucisaṅkassarasamācārassa paṭicchannakammantassa assamaṇassa samaṇapaṭiññassa abrahmacārissa brahmacāripaṭiññassa antopūtikassa avassutassa kasambujātassa yaṃ amuṃ mahantaṃ aggikkhandhaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ āliṅgetvā upanisīdeyya vā upanipajjeyya vā.",
+          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man—of bad qualities, filthy, with suspicious behavior, underhand, no true ascetic or spiritual practitioner, though claiming to be one, rotten inside, corrupt, and depraved—to sit or lie down embracing that bonfire."
+        },
+        {
+          "scid": "an7.72:3.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.72:3.3",
+          "pli": "Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya.",
+          "en": "Because that might result in death or deadly pain. But when his body breaks up, after death, it would not cause him to be reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:4.1",
+          "pli": "Yañca kho so, bhikkhave, dussīlo pāpadhammo asucisaṅkassarasamācāro … pe … kasambujāto khattiyakaññaṃ vā brāhmaṇakaññaṃ vā gahapatikaññaṃ vā mudutalunahatthapādaṃ āliṅgetvā upanisīdati vā upanipajjati vā, tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (1)",
+          "en": "But when such an unethical man sits or lies down embracing a girl of the aristocrats or brahmins or householders with soft and tender hands and feet, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:5.1",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "an7.72:5.2",
+          "pli": "katamaṃ nu kho varaṃ—yaṃ balavā puriso daḷhāya vālarajjuyā ubho jaṅghā veṭhetvā ghaṃseyya—sā chaviṃ chindeyya chaviṃ chetvā cammaṃ chindeyya cammaṃ chetvā maṃsaṃ chindeyya maṃsaṃ chetvā nhāruṃ chindeyya nhāruṃ chetvā aṭṭhiṃ chindeyya aṭṭhiṃ chetvā aṭṭhimiñjaṃ āhacca tiṭṭheyya, yaṃ vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā abhivādanaṃ sādiyeyyā”ti?",
+          "en": "Which is better—to have a strong man twist a tough horse-hair rope around both shins and tighten it so that it cuts through your outer skin, your inner skin, your flesh, sinews, and bones, until it reaches your marrow and stays pressing there? Or to consent to well-to-do aristocrats or brahmins or householders bowing down to you?”"
+        },
+        {
+          "scid": "an7.72:5.3",
+          "pli": "“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā abhivādanaṃ sādiyeyya, dukkhañhetaṃ, bhante, yaṃ balavā puriso daḷhāya vālarajjuyā … pe … aṭṭhimiñjaṃ āhacca tiṭṭheyyā”ti.",
+          "en": "“Sir, it would be much better to consent to well-to-do aristocrats or brahmins or householders bowing down. For it would be painful to have a strong man twist a tough horse-hair rope around your shins and tighten it so that it cut through the outer skin until it reached the marrow and stayed pressing there.”"
+        },
+        {
+          "scid": "an7.72:6.1",
+          "pli": "Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso daḷhāya vālarajjuyā ubho jaṅghā veṭhetvā … pe … aṭṭhimiñjaṃ āhacca tiṭṭheyya.",
+          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man to have a strong man twist a tough horse-hair rope around both shins and tighten it until it reached the marrow and stayed pressing there."
+        },
+        {
+          "scid": "an7.72:6.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.72:6.3",
+          "pli": "Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya.",
+          "en": "Because that might result in death or deadly pain. But when his body breaks up, after death, it would not cause him to be reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:6.4",
+          "pli": "Yañca kho so, bhikkhave, dussīlo … pe … kasambujāto khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā abhivādanaṃ sādiyati, tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (2)",
+          "en": "But when such an unethical man consents to well-to-do aristocrats or brahmins or householders bowing down, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:7.1",
+          "pli": "“Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "an7.72:7.2",
+          "pli": "katamaṃ nu kho varaṃ—yaṃ balavā puriso tiṇhāya sattiyā teladhotāya paccorasmiṃ pahareyya, yaṃ vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā añjalikammaṃ sādiyeyyā”ti?",
+          "en": "Which is better—to have a strong man stab you in the chest with a sharp, oiled sword? Or to consent to well-to-do aristocrats or brahmins or householders revering you with joined palms?”"
+        },
+        {
+          "scid": "an7.72:7.3",
+          "pli": "“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā añjalikammaṃ sādiyeyya, dukkhañhetaṃ, bhante, yaṃ balavā puriso tiṇhāya sattiyā teladhotāya paccorasmiṃ pahareyyā”ti.",
+          "en": "“Sir, it would be much better to consent to well-to-do aristocrats or brahmins or householders revering you with joined palms. For it would be painful to have a strong man stab you in the chest with a sharp, oiled sword.”"
+        },
+        {
+          "scid": "an7.72:8.1",
+          "pli": "“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso tiṇhāya sattiyā teladhotāya paccorasmiṃ pahareyya.",
+          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man to have a strong man stab him in the chest with a sharp, oiled sword."
+        },
+        {
+          "scid": "an7.72:8.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.72:8.3",
+          "pli": "Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya.",
+          "en": "Because that might result in death or deadly pain. But when his body breaks up, after death, it would not cause him to be reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:8.4",
+          "pli": "Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā añjalikammaṃ sādiyati, tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (3)",
+          "en": "But when such an unethical man consents to well-to-do aristocrats or brahmins or householders revering him with joined palms, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:9.1",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "an7.72:9.2",
+          "pli": "katamaṃ nu kho varaṃ—yaṃ balavā puriso tattena ayopaṭṭena ādittena sampajjalitena sajotibhūtena kāyaṃ sampaliveṭheyya, yaṃ vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ cīvaraṃ paribhuñjeyyā”ti?",
+          "en": "Which is better—to have a strong man wrap you up in a red-hot sheet of iron, burning, blazing, and glowing? Or to enjoy the use of a robe given in faith by well-to-do aristocrats or brahmins or householders?”"
+        },
+        {
+          "scid": "an7.72:9.3",
+          "pli": "“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā … pe …",
+          "en": "“Sir, it would be much better to enjoy the use of a robe given in faith by well-to-do aristocrats or brahmins or householders."
+        },
+        {
+          "scid": "an7.72:9.4",
+          "pli": "saddhādeyyaṃ cīvaraṃ paribhuñjeyya, dukkhañhetaṃ, bhante, yaṃ balavā puriso tattena ayopaṭṭena ādittena sampajjalitena sajotibhūtena kāyaṃ sampaliveṭheyyā”ti.",
+          "en": "For it would be painful to have a strong man wrap you up in a red-hot sheet of iron, burning, blazing, and glowing.”"
+        },
+        {
+          "scid": "an7.72:10.1",
+          "pli": "“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso tattena ayopaṭṭena ādittena sampajjalitena sajotibhūtena kāyaṃ sampaliveṭheyya.",
+          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man to have a strong man wrap him up in a red-hot sheet of iron, burning, blazing, and glowing."
+        },
+        {
+          "scid": "an7.72:10.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.72:10.3",
+          "pli": "Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya.",
+          "en": "Because that might result in death or deadly pain. But when his body breaks up, after death, it would not cause him to be reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:10.4",
+          "pli": "Yañca kho so, bhikkhave, dussīlo … pe … kasambujāto khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ cīvaraṃ paribhuñjati, tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (4)",
+          "en": "But when such an unethical man enjoys the use of a robe given in faith by well-to-do aristocrats or brahmins or householders, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:11.1",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "an7.72:11.2",
+          "pli": "katamaṃ nu kho varaṃ—yaṃ balavā puriso tattena ayosaṅkunā mukhaṃ vivaritvā tattaṃ lohaguḷaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ mukhe pakkhipeyya—taṃ tassa oṭṭhampi daheyya mukhampi daheyya jivhampi daheyya kaṇṭhampi daheyya urampi daheyya antampi antaguṇampi ādāya adhobhāgā nikkhameyya, yaṃ vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ piṇḍapātaṃ paribhuñjeyyā”ti?",
+          "en": "Which is better—to have a strong man force your mouth open with a hot iron spike and shove in a red-hot copper ball, burning, blazing, and glowing, that burns your lips, mouth, tongue, throat, and stomach before coming out below dragging your entrails? Or to enjoy alms-food given in faith by well-to-do aristocrats or brahmins or householders?”"
+        },
+        {
+          "scid": "an7.72:11.3",
+          "pli": "“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ piṇḍapātaṃ paribhuñjeyya, dukkhañhetaṃ, bhante, yaṃ balavā puriso tattena ayosaṅkunā mukhaṃ vivaritvā tattaṃ lohaguḷaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ mukhe pakkhipeyya—taṃ tassa oṭṭhampi daheyya mukhampi daheyya jivhampi daheyya kaṇṭhampi daheyya urampi daheyya antampi antaguṇampi ādāya adhobhāgaṃ nikkhameyyā”ti.",
+          "en": "“Sir, it would be much better to enjoy alms-food given in faith by well-to-do aristocrats or brahmins or householders. For it would be painful to have a strong man force your mouth open with a hot iron spike and shove in a red-hot copper ball, burning, blazing, and glowing, that burns your lips, mouth, tongue, throat, and stomach before coming out below dragging your entrails.”"
+        },
+        {
+          "scid": "an7.72:12.1",
+          "pli": "“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso tattena ayosaṅkunā mukhaṃ vivaritvā tattaṃ lohaguḷaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ mukhe pakkhipeyya—taṃ tassa oṭṭhampi daheyya mukhampi daheyya jivhampi daheyya kaṇṭhampi daheyya urampi daheyya antampi antaguṇampi ādāya adhobhāgaṃ nikkhameyya.",
+          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man to have a strong man force his mouth open with a hot iron spike and shove in a red-hot copper ball, burning, blazing, and glowing, that burns his lips, mouth, tongue, throat, and stomach before coming out below with his entrails."
+        },
+        {
+          "scid": "an7.72:12.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.72:12.3",
+          "pli": "Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya.",
+          "en": "Because that might result in death or deadly pain. But when his body breaks up, after death, it would not cause him to be reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:12.4",
+          "pli": "Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ piṇḍapātaṃ paribhuñjati, tañhi tassa hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (5)",
+          "en": "But when such an unethical man enjoy alms-food given in faith by well-to-do aristocrats or brahmins or householders, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:13.1",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "“What do you think, mendicants? "
+        },
+        {
+          "scid": "an7.72:13.2",
+          "pli": "katamaṃ nu kho varaṃ—yaṃ balavā puriso sīse vā gahetvā khandhe vā gahetvā tattaṃ ayomañcaṃ vā ayopīṭhaṃ vā abhinisīdāpeyya vā abhinipajjāpeyya vā, yaṃ vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ mañcapīṭhaṃ paribhuñjeyyā”ti?",
+          "en": "Which is better—to have a strong man grab you by the head or shoulders and make you sit or lie down on red-hot iron bed or seat? Or to enjoy the use of beds and chairs given in faith by well-to-do aristocrats or brahmins or householders?”"
+        },
+        {
+          "scid": "an7.72:13.3",
+          "pli": "“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ mañcapīṭhaṃ paribhuñjeyya, dukkhañhetaṃ, bhante, yaṃ balavā puriso sīse vā gahetvā khandhe vā gahetvā tattaṃ ayomañcaṃ vā ayopīṭhaṃ vā abhinisīdāpeyya vā abhinipajjāpeyya vā”ti.",
+          "en": "“Sir, it would be much better to enjoy the use of beds and chairs given in faith by well-to-do aristocrats or brahmins or householders. For it would be painful to have a strong man grab you by the head or shoulders and make you sit or lie down on a red-hot iron bed or seat.”"
+        },
+        {
+          "scid": "an7.72:14.1",
+          "pli": "“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso sīse vā gahetvā khandhe vā gahetvā tattaṃ ayomañcaṃ vā ayopīṭhaṃ vā abhinisīdāpeyya vā abhinipajjāpeyya vā.",
+          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man to have a strong man grab him by the head or shoulders and make him sit or lie down on a red-hot iron bed or chair."
+        },
+        {
+          "scid": "an7.72:14.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.72:14.3",
+          "pli": "Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya.",
+          "en": "Because that might result in death or deadly pain. But when his body breaks up, after death, it would not cause him to be reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:14.4",
+          "pli": "Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ mañcapīṭhaṃ paribhuñjati. Tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (6)",
+          "en": "But when such an unethical man enjoys the use of beds and chairs given in faith by well-to-do aristocrats or brahmins or householders, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:15.1",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "an7.72:15.2",
+          "pli": "katamaṃ nu kho varaṃ—yaṃ balavā puriso uddhampādaṃ adhosiraṃ gahetvā tattāya lohakumbhiyā pakkhipeyya ādittāya sampajjalitāya sajotibhūtāya—so tattha pheṇuddehakaṃ paccamāno sakimpi uddhaṃ gaccheyya sakimpi adho gaccheyya sakimpi tiriyaṃ gaccheyya, yaṃ vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ vihāraṃ paribhuñjeyyā”ti?",
+          "en": "Which is better—to have a strong man grab you, turn you upside down, and shove you in a red-hot copper pot, burning, blazing, and glowing, where you’re seared in boiling scum, and swept up and down and round and round. Or to enjoy the use of dwellings given in faith by well-to-do aristocrats or brahmins or householders?”"
+        },
+        {
+          "scid": "an7.72:15.3",
+          "pli": "“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ vihāraṃ paribhuñjeyya, dukkhañhetaṃ, bhante, yaṃ balavā puriso uddhampādaṃ adhosiraṃ gahetvā tattāya lohakumbhiyā pakkhipeyya ādittāya sampajjalitāya sajotibhūtāya—so tattha pheṇuddehakaṃ paccamāno sakimpi uddhaṃ gaccheyya sakimpi adho gaccheyya sakimpi tiriyaṃ gaccheyyā”ti.",
+          "en": "“Sir, it would be much better to enjoy the use of dwellings given in faith by well-to-do aristocrats or brahmins or householders. For it would be painful to have a strong man grab you, turn you upside down, and shove you in a red-hot copper pot, burning, blazing, and glowing, where you’re seared in boiling scum, and swept up and down and round and round.”"
+        },
+        {
+          "scid": "an7.72:16.1",
+          "pli": "“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa varaṃ dussīlassa pāpadhammassa … pe … kasambujātassa yaṃ balavā puriso uddhampādaṃ adhosiraṃ gahetvā … pe … sakimpi tiriyaṃ gaccheyya.",
+          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man to have a strong man grab him, turn him upside down, and shove him in a red-hot copper pot, burning, blazing, and glowing, where he’s seared in boiling scum, and swept up and down and round and round."
+        },
+        {
+          "scid": "an7.72:16.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.72:16.3",
+          "pli": "Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya.",
+          "en": "Because that might result in death or deadly pain. But when his body breaks up, after death, it would not cause him to be reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:16.4",
+          "pli": "Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ vihāraṃ paribhuñjati. Tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (7)",
+          "en": "But when such an unethical man enjoys the use of dwellings given in faith by well-to-do aristocrats or brahmins or householders, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an7.72:17.1",
+          "pli": "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:",
+          "en": "So you should train like this:"
+        },
+        {
+          "scid": "an7.72:17.2",
+          "pli": "‘yesañca mayaṃ paribhuñjāma cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṃ tesaṃ te kārā mahapphalā bhavissanti mahānisaṃsā, amhākañcevāyaṃ pabbajjā avañjhā bhavissati saphalā saudrayā’ti.",
+          "en": "‘Our use of robes, alms-food, lodgings, and medicines and supplies for the sick shall be of great fruit and benefit for those who offered them. And our going forth will not be wasted, but will be fruitful and fertile.’"
+        },
+        {
+          "scid": "an7.72:17.3",
+          "pli": "Evañhi vo, bhikkhave, sikkhitabbaṃ:",
+          "en": "That’s how you should train."
+        },
+        {
+          "scid": "an7.72:17.4",
+          "pli": "‘attatthaṃ vā, bhikkhave, sampassamānena alameva appamādena sampādetuṃ;",
+          "en": "Considering your own good, mendicants, is quite enough for you to persist with diligence."
+        },
+        {
+          "scid": "an7.72:17.5",
+          "pli": "paratthaṃ vā, bhikkhave, sampassamānena alameva appamādena sampādetuṃ;",
+          "en": "Considering the good of others is quite enough for you to persist with diligence."
+        },
+        {
+          "scid": "an7.72:17.6",
+          "pli": "ubhayatthaṃ vā, bhikkhave, sampassamānena alameva appamādena sampādetun’”ti.",
+          "en": "Considering the good of both is quite enough for you to persist with diligence.”"
+        },
+        {
+          "scid": "an7.72:18.1",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "an7.72:18.2",
+          "pli": "Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne saṭṭhimattānaṃ bhikkhūnaṃ uṇhaṃ lohitaṃ mukhato uggañchi.",
+          "en": "And while this discourse was being spoken, sixty monks spewed hot blood from their mouths."
+        },
+        {
+          "scid": "an7.72:18.3",
+          "pli": "Saṭṭhimattā bhikkhū sikkhaṃ paccakkhāya hīnāyāvattiṃsu:",
+          "en": "Sixty mendicants rejected the training and returned to a lesser life, saying:"
+        },
+        {
+          "scid": "an7.72:18.4",
+          "pli": "“sudukkaraṃ bhagavā, sudukkaraṃ bhagavā”ti.",
+          "en": "‘It’s too hard, Blessed One! It’s just too hard!”"
+        },
+        {
+          "scid": "an7.72:18.5",
+          "pli": "Saṭṭhimattānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsūti.",
+          "en": "And sixty monks were freed from defilements by not grasping."
+        },
+        {
+          "scid": "an7.72:18.6",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.72/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.72//AN 7.68",
+    "volpages": "AN iv 128",
+    "uid": "an7.72",
+    "blurb": "It would be better for a monk to embrace a blazing fire than to lie with a maiden.",
+    "difficulty": null,
+    "original_title": "Aggikkhandhopama Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Simile of the Bonfire",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.72_sujato",
+        "segmented": true,
+        "title": "The Simile of the Bonfire"
+      },
+      {
+        "author": "Yahoo! Pali Group",
+        "author_short": "YPG",
+        "author_uid": "ypg",
+        "id": "en_an7.72_ypg",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Mass of Fire Comparison"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 8
+  }
+}

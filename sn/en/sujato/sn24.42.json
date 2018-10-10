@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn24.42",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn24.42",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Exclusively Suffering",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Self Is Happy and Suffering",
+      "uid": "sn24.43"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Self Is Perfectly Happy",
+      "uid": "sn24.41"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn24.42:0.1",
+          "pli": "Saṃyutta Nikāya 24",
+          "en": "Linked Discourses 24"
+        },
+        {
+          "scid": "sn24.42:0.2",
+          "pli": "2. Dutiyagamanavagga",
+          "en": "2. The Second Round"
+        },
+        {
+          "scid": "sn24.42:0.3",
+          "pli": "42. Ekantadukkhīsutta",
+          "en": "42. Exclusively Suffering"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 24…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn24.42:1.1",
+          "pli": "“Ekantadukkhī attā hoti arogo paraṃ maraṇā”ti … pe ….",
+          "en": "“‘The self is exclusively suffering, and is sound after death’?” …"
+        },
+        {
+          "scid": "sn24.42:1.2",
+          "pli": "Catuvīsatimaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“‘The self is exclusively suffering…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn24.42/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 24.42",
+    "volpages": "SN iii 220",
+    "uid": "sn24.42",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ekantadukkhī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Exclusively Suffering",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn24.42_sujato",
+        "segmented": true,
+        "title": "Exclusively Suffering"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 9
+  }
+}

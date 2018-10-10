@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn26.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn26.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Feeling",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perception",
+      "uid": "sn26.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Contact",
+      "uid": "sn26.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn26.5:0.1",
+          "pli": "Saṃyutta Nikāya 26",
+          "en": "Linked Discourses 26"
+        },
+        {
+          "scid": "sn26.5:0.2",
+          "pli": "1. Uppādavagga",
+          "en": "1. Arising"
+        },
+        {
+          "scid": "sn26.5:0.3",
+          "pli": "5. Samphassajasutta",
+          "en": "5. Feeling"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 26…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn26.5:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn26.5:1.2",
+          "pli": "“Yo kho, bhikkhave, cakkhusamphassajāya vedanāya uppādo ṭhiti … pe … jarāmaraṇassa pātubhāvo … pe ….",
+          "en": "“Mendicants, the arising of feeling born of eye contact …"
+        },
+        {
+          "scid": "sn26.5:2.1",
+          "pli": "Yo manosamphassajāya vedanāya uppādo ṭhiti … pe …",
+          "en": "the arising of feeling born of mind contact …"
+        },
+        {
+          "scid": "sn26.5:2.2",
+          "pli": "jarāmaraṇassa pātubhāvo.",
+          "en": "is the manifestation of old age and death."
+        },
+        {
+          "scid": "sn26.5:2.3",
+          "pli": "Yo ca kho, bhikkhave, cakkhusamphassajāya vedanāya nirodho vūpasamo … pe …",
+          "en": "The cessation of feeling born of eye contact …"
+        },
+        {
+          "scid": "sn26.5:2.4",
+          "pli": "jarāmaraṇassa atthaṅgamo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn26.5:2.5",
+          "pli": "yo manosamphassajāya vedanāya nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṃ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.",
+          "en": "the cessation of feeling born of mind contact … is the ending of old age and death.”"
+        },
+        {
+          "scid": "sn26.5:2.6",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn26.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 26.5",
+    "volpages": "SN iii 230",
+    "uid": "sn26.5",
+    "blurb": "The arising of the six kinds of feeling is the arising of suffering.",
+    "difficulty": null,
+    "original_title": "Samphassaja Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Feeling",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn26.5_sujato",
+        "segmented": true,
+        "title": "Feeling"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

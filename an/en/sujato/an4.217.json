@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an4.217",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.217",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Kinds of Expression (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kinds of Expression (2nd)",
+      "uid": "an4.218"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Path (2nd)",
+      "uid": "an4.216"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.217:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.217:0.2",
+          "pli": "22. Parisāvagga",
+          "en": "22. Assembly"
+        },
+        {
+          "scid": "an4.217:0.3",
+          "pli": "217. Paṭhamavohārapathasutta",
+          "en": "217. Kinds of Expression (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.217:1.1",
+          "pli": "… pe … Adiṭṭhe diṭṭhavādī hoti, asute sutavādī hoti, amute mutavādī hoti, aviññāte viññātavādī hoti … pe … adiṭṭhe adiṭṭhavādī hoti, asute asutavādī hoti, amute amutavādī hoti, aviññāte aviññātavādī hoti.",
+          "en": "“Someone with four qualities is cast down to hell. … They say they’ve seen, heard, thought, or cognized something, but they haven’t. … Someone with four qualities is raised up to heaven. … They say they haven’t seen, heard, thought, or cognized something, and they haven’t. …”"
+        },
+        {
+          "scid": "an4.217:1.2",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Someone with four qualities is cast down…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.217/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.217",
+    "volpages": "AN ii 227",
+    "uid": "an4.217",
+    "blurb": "Truth and untruth determine rebirth.",
+    "difficulty": null,
+    "original_title": "Paṭhamavohārapatha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kinds of Expression (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.217_sujato",
+        "segmented": true,
+        "title": "Kinds of Expression (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thig5.11",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig5.11",
+    "lang": "en",
+    "is_root": false,
+    "title": "Thirty Sisters under Paṭācārā declare their AÑÑĀ",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Candā",
+      "uid": "thig5.12"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Paṭācārā",
+      "uid": "thig5.10"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig5.11:0.1",
+          "en": "Therīgāthā 5.11"
+        },
+        {
+          "scid": "thig5.11:0.2",
+          "en": "Thirty Sisters under Paṭācārā declare their AÑÑĀ",
+          "pli": "Tiṃsamattātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig5.11:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig5.11:1.0.2",
+          "en": "Canto 5"
+        },
+        {
+          "scid": "thig5.11:1.0.3",
+          "en": "11. Thirty Sisters under Paṭācārā declare their AÑÑĀ"
+        },
+        {
+          "scid": "thig5.11:1.0.4",
+          "en": "“Paṭācārā. Men in their prime with pestle and with quern Are busied pounding rice and grinding corn. Men in their prime gather and heap up wealth, To have and nourish wife and children dear."
+        },
+        {
+          "scid": "thig5.11:1.0.5",
+          "en": "But ye, my sisters, see ye carry out The Buddha’s will, which bringeth no remorse. Swiftly bathe ye your feet, then sit ye down Apart; your souls surrender utterly To spiritual calm—so do his will."
+        },
+        {
+          "scid": "thig5.11:1.0.6",
+          "en": "Those Bhikkhunīs. The will of her who spake—Paṭācārā— The thirty Sisters heard and swift obeyed. Bathing their feet, they sat them down apart, And gave their souls to spiritual calm, Fulfilling thus the bidding of the Lord."
+        },
+        {
+          "scid": "thig5.11:1.0.7",
+          "en": "While passed the first watch of the night, there rose Long memories of the bygone line of lives; While passed the second watch, the Heavenly Eye, Purview celestial, they clarified; While passed the last watch of the night, they burst And rent aside the gloom of ignorance."
+        },
+        {
+          "scid": "thig5.11:1.0.8",
+          "en": "Then rising to their feet they hailed her blest: ‘Fulfillèd is thy will! and thee we take, And like to Sakka o’er the thrice ten gods, Chieftain unconquered in celestial wars, We place thee as our Chief, and so shall live. The threefold Wisdom have we gotten now. From deadly drugs our souls are purified.’”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig5.11/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 5.11",
+    "volpages": "Thig 135",
+    "uid": "thig5.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Tiṃsamattātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Thirty Sisters under Paṭācārā declare their AÑÑĀ",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig5.11_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Thirty Sisters under Paṭācārā declare their AÑÑĀ"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig5.11_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Patacara's Thirty Students"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 11
+  }
+}

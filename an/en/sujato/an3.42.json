@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an3.42",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.42",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Three Grounds",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Good Reasons",
+      "uid": "an3.43"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Present",
+      "uid": "an3.41"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.42:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.42:0.2",
+          "pli": "5. Cūḷavagga",
+          "en": "5. The Lesser Chapter"
+        },
+        {
+          "scid": "an3.42:0.3",
+          "pli": "42. Tiṭhānasutta",
+          "en": "42. Three Grounds"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.42:1.1",
+          "pli": "“Tīhi, bhikkhave, ṭhānehi saddho pasanno veditabbo.",
+          "en": "“There are three grounds, mendicants, by which a person with faith and confidence can be known."
+        },
+        {
+          "scid": "an3.42:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.42:1.3",
+          "pli": "Sīlavantānaṃ dassanakāmo hoti, saddhammaṃ sotukāmo hoti, vigatamalamaccherena cetasā agāraṃ ajjhāvasati muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato.",
+          "en": "They like to see ethical people. They like to hear the true teaching. And they live at home rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share."
+        },
+        {
+          "scid": "an3.42:1.4",
+          "pli": "Imehi kho, bhikkhave, tīhi ṭhānehi saddho pasanno veditabbo.",
+          "en": "These are the three grounds by which a person with faith and confidence can be known."
+        },
+        {
+          "scid": "an3.42:2.1",
+          "pli": "Dassanakāmo sīlavataṃ,",
+          "en": "They like to see ethical people;"
+        },
+        {
+          "scid": "an3.42:2.2",
+          "pli": "saddhammaṃ sotumicchati;",
+          "en": "they want to hear the true teaching;"
+        },
+        {
+          "scid": "an3.42:2.3",
+          "pli": "Vinaye maccheramalaṃ,",
+          "en": "they’ve driven out the stain of stinginess:"
+        },
+        {
+          "scid": "an3.42:2.4",
+          "pli": "sa ve saddhoti vuccatī”ti.",
+          "en": "that’s who’s called a person of faith.”"
+        },
+        {
+          "scid": "an3.42:2.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“There are three grounds…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.42/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.42",
+    "volpages": "AN i 150",
+    "uid": "an3.42",
+    "blurb": "How to know a faithful person.",
+    "difficulty": null,
+    "original_title": "Tiṭhāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Three Grounds",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.42_sujato",
+        "segmented": true,
+        "title": "Three Grounds"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.42_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Cases"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an6.111",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.111",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Elements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gratification",
+      "uid": "an6.112"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perceptions",
+      "uid": "an6.110"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.111:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.111:0.2",
+          "pli": "11. Tikavagga",
+          "en": "11. Triads"
+        },
+        {
+          "scid": "an6.111:0.3",
+          "pli": "111. Dhātusutta",
+          "en": "111. Elements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.111:1.1",
+          "pli": "“Tayome, bhikkhave, dhammā.",
+          "en": "“Mendicants, there are these three things."
+        },
+        {
+          "scid": "an6.111:1.2",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an6.111:1.3",
+          "pli": "Kāmadhātu, byāpādadhātu, vihiṃsādhātu.",
+          "en": "The elements of sensuality, malice, and cruelty."
+        },
+        {
+          "scid": "an6.111:1.4",
+          "pli": "Ime kho, bhikkhave, tayo dhammā.",
+          "en": "These are the three things."
+        },
+        {
+          "scid": "an6.111:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā.",
+          "en": "To give up these three things you should develop three things."
+        },
+        {
+          "scid": "an6.111:1.6",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an6.111:1.7",
+          "pli": "Kāmadhātuyā pahānāya nekkhammadhātu bhāvetabbā, byāpādadhātuyā pahānāya abyāpādadhātu bhāvetabbā, vihiṃsādhātuyā pahānāya avihiṃsādhātu bhāvetabbā.",
+          "en": "You should develop the element of renunciation to give up the element of sensuality, the element of love to give up the element of malice, and the element of kindness to give up the element of cruelty."
+        },
+        {
+          "scid": "an6.111:1.8",
+          "pli": "Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā”ti.",
+          "en": "These are the three things you should develop to give up those three things.”"
+        },
+        {
+          "scid": "an6.111:1.9",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.111/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.111",
+    "volpages": "AN iii 447",
+    "uid": "an6.111",
+    "blurb": "Antidotes for harmful properties.",
+    "difficulty": null,
+    "original_title": "Dhātu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Elements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.111_sujato",
+        "segmented": true,
+        "title": "Elements"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

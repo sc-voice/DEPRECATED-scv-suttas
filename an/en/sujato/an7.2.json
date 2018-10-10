@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an7.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Pleasing (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Powers in Brief",
+      "uid": "an7.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pleasing (1st)",
+      "uid": "an7.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.2:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.2:0.2",
+          "pli": "1. Dhanavagga",
+          "en": "1. Wealth"
+        },
+        {
+          "scid": "an7.2:0.3",
+          "pli": "2. Dutiyapiyasutta",
+          "en": "2. Pleasing (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.2:1.1",
+          "pli": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "“Mendicants, a mendicant with seven qualities is disliked and disapproved by their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an7.2:1.2",
+          "pli": "Katamehi sattahi?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.2:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu lābhakāmo ca hoti, sakkārakāmo ca hoti, anavaññattikāmo ca hoti, ahiriko ca hoti, anottappī ca, issukī ca, maccharī ca.",
+          "en": "It’s when a mendicant desires material possessions, honor, and to be looked up to. They lack conscience and prudence. They’re envious and mean."
+        },
+        {
+          "scid": "an7.2:1.4",
+          "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "A mendicant with these seven qualities is disliked and disapproved by their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an7.2:2.1",
+          "pli": "Sattahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.",
+          "en": "A mendicant with seven qualities is liked and approved by their spiritual companions, respected and admired."
+        },
+        {
+          "scid": "an7.2:2.2",
+          "pli": "Katamehi sattahi?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.2:2.3",
+          "pli": "Idha, bhikkhave, bhikkhu na lābhakāmo ca hoti, na sakkārakāmo ca hoti, na anavaññattikāmo ca hoti, hirīmā ca hoti, ottappī ca, anissukī ca, amaccharī ca.",
+          "en": "It’s when a mendicant doesn’t desire material possessions, honor, and to be looked up to. They have conscience and prudence. They’re not envious or mean."
+        },
+        {
+          "scid": "an7.2:2.4",
+          "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti.",
+          "en": "A mendicant with these seven qualities is liked and approved by their spiritual companions, respected and admired.”"
+        },
+        {
+          "scid": "an7.2:2.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.2",
+    "volpages": "AN iv 2",
+    "uid": "an7.2",
+    "blurb": "Seven qualities that make a mendicant either agreeable or disagreeable to their fellow monastics.",
+    "difficulty": null,
+    "original_title": "Dutiyapiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Pleasing (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.2_sujato",
+        "segmented": true,
+        "title": "Pleasing (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

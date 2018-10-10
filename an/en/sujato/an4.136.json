@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an4.136",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.136",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Ethics (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ethics (2nd)",
+      "uid": "an4.137"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Blameworthy",
+      "uid": "an4.135"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.136:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.136:0.2",
+          "pli": "14. Puggalavagga",
+          "en": "14. Persons"
+        },
+        {
+          "scid": "an4.136:0.3",
+          "pli": "136. Paṭhamasīlasutta",
+          "en": "136. Ethics (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.136:1.1",
+          "pli": "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“Mendicants, these four people are found in the world."
+        },
+        {
+          "scid": "an4.136:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.136:1.3",
+          "pli": "Idha, bhikkhave, ekacco puggalo sīlesu na paripūrakārī hoti, samādhismiṃ na paripūrakārī, paññāya na paripūrakārī.",
+          "en": "One person has not fulfilled ethics, immersion, or wisdom."
+        },
+        {
+          "scid": "an4.136:2.1",
+          "pli": "Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ na paripūrakārī, paññāya na paripūrakārī.",
+          "en": "One person has fulfilled ethics, but not immersion or wisdom."
+        },
+        {
+          "scid": "an4.136:3.1",
+          "pli": "Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ paripūrakārī, paññāya na paripūrakārī.",
+          "en": "One person has fulfilled ethics and immersion, but not wisdom."
+        },
+        {
+          "scid": "an4.136:4.1",
+          "pli": "Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ paripūrakārī, paññāya paripūrakārī.",
+          "en": "One person has fulfilled ethics, immersion, and wisdom."
+        },
+        {
+          "scid": "an4.136:4.2",
+          "pli": "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "These are the four people found in the world.”"
+        },
+        {
+          "scid": "an4.136:4.3",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.136/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.136",
+    "volpages": "AN ii 136",
+    "uid": "an4.136",
+    "blurb": "Fulfilling morality, convergence, and wisdom.",
+    "difficulty": null,
+    "original_title": "Paṭhamasīla Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ethics (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.136_sujato",
+        "segmented": true,
+        "title": "Ethics (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

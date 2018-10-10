@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "an3.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Unskillful",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Blameworthy",
+      "uid": "an3.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Improper",
+      "uid": "an3.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.6:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.6:0.2",
+          "pli": "1. Bālavagga",
+          "en": "1. Fools"
+        },
+        {
+          "scid": "an3.6:0.3",
+          "pli": "6. Akusalasutta",
+          "en": "6. Unskillful"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.6:1.1",
+          "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo.",
+          "en": "“A fool is known by three things."
+        },
+        {
+          "scid": "an3.6:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.6:1.3",
+          "pli": "Akusalena kāyakammena, akusalena vacīkammena, akusalena manokammena.",
+          "en": "Unskillful deeds by way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.6:1.4",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.",
+          "en": "These are the three things by which a fool is known."
+        },
+        {
+          "scid": "an3.6:2.1",
+          "pli": "Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo.",
+          "en": "An astute person is known by three things."
+        },
+        {
+          "scid": "an3.6:2.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.6:2.3",
+          "pli": "Kusalena kāyakammena, kusalena vacīkammena, kusalena manokammena.",
+          "en": "Wholesome deeds by way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.6:2.4",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo.",
+          "en": "These are the three things by which an astute person is known."
+        },
+        {
+          "scid": "an3.6:2.5",
+          "pli": "Tasmātiha … pe ….",
+          "en": "So you should train …”"
+        },
+        {
+          "scid": "an3.6:2.6",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“A fool is known by three things…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.6",
+    "volpages": "AN i 103",
+    "uid": "an3.6",
+    "blurb": "Marks of a fool and an astute person: wholesome and unwholesome.",
+    "difficulty": null,
+    "original_title": "Akusala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Unskillful",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.6_sujato",
+        "segmented": true,
+        "title": "Unskillful"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.6_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Unwholesome"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 6
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn9.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn9.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Several Mendicants Set Out Wandering",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ānanda",
+      "uid": "sn9.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kassapagotta",
+      "uid": "sn9.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn9.4:0.1",
+          "pli": "Saṃyutta Nikāya 9",
+          "en": "Linked Discourses 9"
+        },
+        {
+          "scid": "sn9.4:0.2",
+          "pli": "1. Vanavagga",
+          "en": "1. In the Woods"
+        },
+        {
+          "scid": "sn9.4:0.3",
+          "pli": "4. Sambahulasutta",
+          "en": "4. Several Mendicants Set Out Wandering"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn9.4:1.1",
+          "pli": "Ekaṃ samayaṃ sambahulā bhikkhū kosalesu viharanti aññatarasmiṃ vanasaṇḍe.",
+          "en": "At one time several mendicants were staying in the land of the Kosalans in a certain forest grove."
+        },
+        {
+          "scid": "sn9.4:1.2",
+          "pli": "Atha kho te bhikkhū vassaṃvuṭṭhā temāsaccayena cārikaṃ pakkamiṃsu.",
+          "en": "Then after completing the three months of the rainy season residence, those mendicants set out wandering."
+        },
+        {
+          "scid": "sn9.4:1.3",
+          "pli": "Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā te bhikkhū apassantī paridevamānā tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi:",
+          "en": "Not seeing those mendicants, the deity haunting that forest cried. And on that occasion they recited this verse:"
+        },
+        {
+          "scid": "sn9.4:2.1",
+          "pli": "“Arati viya mejja khāyati,",
+          "en": "“Seeing so many vacated seats today,"
+        },
+        {
+          "scid": "sn9.4:2.2",
+          "pli": "Bahuke disvāna vivitte āsane;",
+          "en": "it seems to me that they must have become dissatisfied."
+        },
+        {
+          "scid": "sn9.4:2.3",
+          "pli": "Te cittakathā bahussutā,",
+          "en": "They were so learned, such brilliant speakers!"
+        },
+        {
+          "scid": "sn9.4:2.4",
+          "pli": "Kome gotamasāvakā gatā”ti.",
+          "en": "Where have these disciples of Gotama gone?”"
+        },
+        {
+          "scid": "sn9.4:3.1",
+          "pli": "Evaṃ vutte, aññatarā devatā taṃ devataṃ gāthāya paccabhāsi:",
+          "en": "When they had spoken, another deity replied with this verse:"
+        },
+        {
+          "scid": "sn9.4:4.1",
+          "pli": "“Māgadhaṃ gatā kosalaṃ gatā,",
+          "en": "“They’ve gone to Magadha, they’ve gone to Kosala,"
+        },
+        {
+          "scid": "sn9.4:4.2",
+          "pli": "Ekacciyā pana vajjibhūmiyā;",
+          "en": "and some are in the Vajjian lands."
+        },
+        {
+          "scid": "sn9.4:4.3",
+          "pli": "Magā viya asaṅgacārino,",
+          "en": "Like deer that wander free of ties,"
+        },
+        {
+          "scid": "sn9.4:4.4",
+          "pli": "Aniketā viharanti bhikkhavo”ti.",
+          "en": "the mendicants live with no abode.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time several mendicants were staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn9.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 9.4//SN 224",
+    "volpages": "SN i 199//SN i 428",
+    "uid": "sn9.4",
+    "blurb": "When a group of mendicants leave the forest in which they had been staying, the local deities lament their absence.",
+    "difficulty": null,
+    "original_title": "Sambahula Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Several Mendicants Set Out Wandering",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn9.4_sujato",
+        "segmented": true,
+        "title": "Several Mendicants Set Out Wandering"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 4
+  }
+}

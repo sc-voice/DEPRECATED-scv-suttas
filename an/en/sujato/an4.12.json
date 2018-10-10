@@ -1,0 +1,205 @@
+{
+  "sutta_uid": "an4.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Ethics",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Effort",
+      "uid": "an4.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Walking",
+      "uid": "an4.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.12:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.12:0.2",
+          "pli": "2. Caravagga",
+          "en": "2. Walking"
+        },
+        {
+          "scid": "an4.12:0.3",
+          "pli": "12. Sīlasutta",
+          "en": "12. Ethics"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.12:1.1",
+          "pli": "“Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā, aṇumattesu vajjesu bhayadassāvino samādāya sikkhatha sikkhāpadesu.",
+          "en": "“Mendicants, live by the ethical precepts and the monastic code. Live restrained in the code of conduct, accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, keep the rules you’ve undertaken."
+        },
+        {
+          "scid": "an4.12:1.2",
+          "pli": "Sampannasīlānaṃ vo, bhikkhave, viharataṃ sampannapātimokkhānaṃ pātimokkhasaṃvarasaṃvutānaṃ viharataṃ ācāragocarasampannānaṃ aṇumattesu vajjesu bhayadassāvīnaṃ samādāya sikkhataṃ sikkhāpadesu, kimassa uttari karaṇīyaṃ?",
+          "en": "When you’ve done this, what more is there to do?"
+        },
+        {
+          "scid": "an4.12:2.1",
+          "pli": "Carato cepi, bhikkhave, bhikkhuno abhijjhābyāpādo vigato hoti, thinamiddhaṃ … uddhaccakukkuccaṃ … vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, carampi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+          "en": "Suppose a mendicant has got rid of desire and ill will while walking, and has given up dullness and drowsiness, restlessness and remorse, and doubt. Their energy is roused up and vigorous, their mindfulness is established and lucid, their body is tranquil and undisturbed, and their mind is immersed in samādhi. Such a mendicant is said to be ‘keen and prudent, always energetic and determined’ when walking."
+        },
+        {
+          "scid": "an4.12:3.1",
+          "pli": "Ṭhitassa cepi, bhikkhave, bhikkhuno abhijjhābyāpādo vigato hoti, thinamiddhaṃ … uddhaccakukkuccaṃ … vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, ṭhitopi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+          "en": "Suppose a mendicant has got rid of desire and ill will while standing …"
+        },
+        {
+          "scid": "an4.12:4.1",
+          "pli": "Nisinnassa cepi, bhikkhave, bhikkhuno abhijjhābyāpādo vigato hoti, thinamiddhaṃ … uddhaccakukkuccaṃ … vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, nisinnopi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+          "en": "sitting …"
+        },
+        {
+          "scid": "an4.12:5.1",
+          "pli": "Sayānassa cepi, bhikkhave, bhikkhuno jāgarassa abhijjhābyāpādo vigato hoti, thinamiddhaṃ … uddhaccakukkuccaṃ … vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, sayānopi, bhikkhave, bhikkhu jāgaro evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccatīti.",
+          "en": "lying down while awake, and has given up dullness and drowsiness, restlessness and remorse, and doubt. Their energy is roused up and vigorous, their mindfulness is established and lucid, their body is tranquil and undisturbed, and their mind is immersed in samādhi. Such a mendicant is said to be ‘keen and prudent, always energetic and determined’ when lying down while awake."
+        },
+        {
+          "scid": "an4.12:6.1",
+          "pli": "Yataṃ care yataṃ tiṭṭhe,",
+          "en": "Carefully walking, carefully standing,"
+        },
+        {
+          "scid": "an4.12:6.2",
+          "pli": "Yataṃ acche yataṃ saye;",
+          "en": "carefully sitting, carefully lying;"
+        },
+        {
+          "scid": "an4.12:6.3",
+          "pli": "Yataṃ samiñjaye bhikkhu,",
+          "en": "a mendicant carefully bends their limbs,"
+        },
+        {
+          "scid": "an4.12:6.4",
+          "pli": "Yatamenaṃ pasāraye.",
+          "en": "and carefully extends them."
+        },
+        {
+          "scid": "an4.12:7.1",
+          "pli": "Uddhaṃ tiriyaṃ apācīnaṃ,",
+          "en": "Above, below, and all around,"
+        },
+        {
+          "scid": "an4.12:7.2",
+          "pli": "yāvatājagatogati;",
+          "en": "as far as the earth extends;"
+        },
+        {
+          "scid": "an4.12:7.3",
+          "pli": "Samavekkhitā ca dhammānaṃ,",
+          "en": "they scrutinize the rise and fall"
+        },
+        {
+          "scid": "an4.12:7.4",
+          "pli": "khandhānaṃ udayabbayaṃ.",
+          "en": "of phenomena such as the aggregates."
+        },
+        {
+          "scid": "an4.12:8.1",
+          "pli": "Cetosamathasāmīciṃ,",
+          "en": "Training in what leads to serenity of heart,"
+        },
+        {
+          "scid": "an4.12:8.2",
+          "pli": "sikkhamānaṃ sadā sataṃ;",
+          "en": "always staying mindful;"
+        },
+        {
+          "scid": "an4.12:8.3",
+          "pli": "Satataṃ pahitattoti,",
+          "en": "they call such a mendicant"
+        },
+        {
+          "scid": "an4.12:8.4",
+          "pli": "āhu bhikkhuṃ tathāvidhan”ti.",
+          "en": "‘always determined’.”"
+        },
+        {
+          "scid": "an4.12:8.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.12",
+    "volpages": "AN ii 14",
+    "uid": "an4.12",
+    "blurb": "Morality and further practice of eliminating hindrances in all postures.",
+    "difficulty": null,
+    "original_title": "Sīla Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ethics",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.12_sujato",
+        "segmented": true,
+        "title": "Ethics"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.12_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Virtuous Behavior"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 2
+  }
+}

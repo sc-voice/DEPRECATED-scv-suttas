@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn26.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn26.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Eye",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sights",
+      "uid": "sn26.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Aggregates",
+      "uid": "sn25.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn26.1:0.1",
+          "pli": "Saṃyutta Nikāya 26",
+          "en": "Linked Discourses 26"
+        },
+        {
+          "scid": "sn26.1:0.2",
+          "pli": "1. Uppādavagga",
+          "en": "1. Arising"
+        },
+        {
+          "scid": "sn26.1:0.3",
+          "pli": "1. Cakkhusutta",
+          "en": "1. The Eye"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 26…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn26.1:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn26.1:1.2",
+          "pli": "“Yo kho, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṃ ṭhiti, jarāmaraṇassa pātubhāvo.",
+          "en": "“Mendicants, the arising, continuation, rebirth, and manifestation of the eye is the arising of suffering, the continuation of diseases, and the manifestation of old age and death."
+        },
+        {
+          "scid": "sn26.1:1.3",
+          "pli": "Yo sotassa uppādo ṭhiti … pe …",
+          "en": "The arising, continuation, rebirth, and manifestation of the ear,"
+        },
+        {
+          "scid": "sn26.1:1.4",
+          "pli": "yo ghānassa uppādo ṭhiti …",
+          "en": "nose,"
+        },
+        {
+          "scid": "sn26.1:1.5",
+          "pli": "yo jivhāya uppādo ṭhiti …",
+          "en": "tongue,"
+        },
+        {
+          "scid": "sn26.1:1.6",
+          "pli": "yo kāyassa uppādo ṭhiti …",
+          "en": "body,"
+        },
+        {
+          "scid": "sn26.1:1.7",
+          "pli": "yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṃ ṭhiti, jarāmaraṇassa pātubhāvo.",
+          "en": "and mind is the arising of suffering, the continuation of diseases, and the manifestation of old age and death."
+        },
+        {
+          "scid": "sn26.1:1.8",
+          "pli": "Yo ca, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṃ vūpasamo, jarāmaraṇassa atthaṅgamo.",
+          "en": "The cessation, settling, and ending of the eye is the cessation of suffering, the settling of diseases, and the ending of old age and death."
+        },
+        {
+          "scid": "sn26.1:1.9",
+          "pli": "Yo sotassa nirodho … pe …",
+          "en": "The cessation, settling, and ending of the ear,"
+        },
+        {
+          "scid": "sn26.1:1.10",
+          "pli": "yo ghānassa nirodho …",
+          "en": "nose,"
+        },
+        {
+          "scid": "sn26.1:1.11",
+          "pli": "yo kāyassa nirodho …",
+          "en": "body,"
+        },
+        {
+          "scid": "sn26.1:1.12",
+          "pli": "yo manassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṃ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.",
+          "en": "and mind is the cessation of suffering, the settling of diseases, and the ending of old age and death.”"
+        },
+        {
+          "scid": "sn26.1:1.13",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn26.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 26.1",
+    "volpages": "SN iii 228",
+    "uid": "sn26.1",
+    "blurb": "The arising of the six interior sense fields is the arising of suffering.",
+    "difficulty": null,
+    "original_title": "Cakkhu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Eye",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn26.1_sujato",
+        "segmented": true,
+        "title": "The Eye"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

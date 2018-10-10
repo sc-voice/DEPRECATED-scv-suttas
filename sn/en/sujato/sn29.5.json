@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn29.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn29.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Sabbath (3rd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sabbath (4th)",
+      "uid": "sn29.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sabbath (2nd)",
+      "uid": "sn29.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn29.5:0.1",
+          "pli": "Saṃyutta Nikāya 29",
+          "en": "Linked Discourses 29"
+        },
+        {
+          "scid": "sn29.5:0.2",
+          "pli": "1. Nāgavagga",
+          "en": "1. Dragons"
+        },
+        {
+          "scid": "sn29.5:0.3",
+          "pli": "5. Tatiyauposathasutta",
+          "en": "5. Sabbath (3rd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 29…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn29.5:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn29.5:1.2",
+          "pli": "Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Seated to one side, that mendicant said to the Buddha:"
+        },
+        {
+          "scid": "sn29.5:1.3",
+          "pli": "“ko nu kho, bhante, hetu, ko paccayo, yena m’idhekacce saṃsedajā nāgā uposathaṃ upavasanti vossaṭṭhakāyā ca bhavantī”ti?",
+          "en": "“Sir, what is the cause, what is the reason why some moisture-born dragons keep the sabbath, having transformed their bodies?”"
+        },
+        {
+          "scid": "sn29.5:1.4",
+          "pli": "(Sabbaṃ vitthāretabbaṃ.)",
+          "en": "(All should be told in full.)"
+        },
+        {
+          "scid": "sn29.5:1.5",
+          "pli": "“Ayaṃ kho, bhikkhu, hetu, ayaṃ paccayo, yena m’idhekacce saṃsedajā nāgā uposathaṃ upavasanti vossaṭṭhakāyā ca bhavantī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn29.5:1.6",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn29.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 29.5",
+    "volpages": "SN iii 242",
+    "uid": "sn29.5",
+    "blurb": "Moisture born dragons sometimes transform their bodies and observe the sabbath in order to get a good rebirth.",
+    "difficulty": null,
+    "original_title": "Tatiyauposatha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sabbath (3rd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn29.5_sujato",
+        "segmented": true,
+        "title": "Sabbath (3rd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

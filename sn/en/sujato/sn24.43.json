@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn24.43",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn24.43",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Self Is Happy and Suffering",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Self Is Neither Happy Nor Suffering",
+      "uid": "sn24.44"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Exclusively Suffering",
+      "uid": "sn24.42"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn24.43:0.1",
+          "pli": "Saṃyutta Nikāya 24",
+          "en": "Linked Discourses 24"
+        },
+        {
+          "scid": "sn24.43:0.2",
+          "pli": "2. Dutiyagamanavagga",
+          "en": "2. The Second Round"
+        },
+        {
+          "scid": "sn24.43:0.3",
+          "pli": "43. Sukhadukkhīsutta",
+          "en": "43. The Self Is Happy and Suffering"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 24…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn24.43:1.1",
+          "pli": "“Sukhadukkhī attā hoti arogo paraṃ maraṇā”ti … pe ….",
+          "en": "“‘The self is happy and suffering, and is sound after death’?” …"
+        },
+        {
+          "scid": "sn24.43:1.2",
+          "pli": "Pañcavīsatimaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“‘The self is happy and suffering…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn24.43/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 24.43",
+    "volpages": "SN iii 220",
+    "uid": "sn24.43",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sukhadukkhī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Self Is Happy and Suffering",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn24.43_sujato",
+        "segmented": true,
+        "title": "The Self Is Happy and Suffering"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 10
+  }
+}

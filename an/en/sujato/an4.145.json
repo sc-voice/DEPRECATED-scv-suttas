@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "an4.145",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.145",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Lamps",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Times (1st)",
+      "uid": "an4.146"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Shining",
+      "uid": "an4.144"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.145:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.145:0.2",
+          "pli": "15. Ābhāvagga",
+          "en": "15. Brightness"
+        },
+        {
+          "scid": "an4.145:0.3",
+          "pli": "145. Pajjotasutta",
+          "en": "145. Lamps"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.145:1.1",
+          "pli": "“Cattārome, bhikkhave, pajjotā.",
+          "en": "“Mendicants, there are these four lamps."
+        },
+        {
+          "scid": "an4.145:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.145:1.3",
+          "pli": "Candapajjoto, sūriyapajjoto, aggipajjoto, paññāpajjoto—",
+          "en": "The lamps of the moon, sun, fire, and wisdom."
+        },
+        {
+          "scid": "an4.145:1.4",
+          "pli": "ime kho, bhikkhave, cattāro pajjotā.",
+          "en": "These are the four lamps."
+        },
+        {
+          "scid": "an4.145:1.5",
+          "pli": "Etadaggaṃ, bhikkhave, imesaṃ catunnaṃ pajjotānaṃ yadidaṃ paññāpajjoto”ti.",
+          "en": "The best of these four lamps is the lamp of wisdom.”"
+        },
+        {
+          "scid": "an4.145:1.6",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.145/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.145",
+    "volpages": "AN ii 140",
+    "uid": "an4.145",
+    "blurb": "The lamps of the moon, sun, fire, and wisdom.",
+    "difficulty": null,
+    "original_title": "Pajjota Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Lamps",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.145_sujato",
+        "segmented": true,
+        "title": "Lamps"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

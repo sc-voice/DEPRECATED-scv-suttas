@@ -1,0 +1,570 @@
+{
+  "sutta_uid": "mn58",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn58",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Prince Abhaya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Many Kinds of Feeling",
+      "uid": "mn59"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ascetic Who Behaved Like a Dog",
+      "uid": "mn57"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn58:0.1",
+          "pli": "Majjhima Nikāya 58",
+          "en": "Middle Discourses 58"
+        },
+        {
+          "scid": "mn58:0.2",
+          "pli": "Abhayarājakumārasutta",
+          "en": "With Prince Abhaya"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 58…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn58:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn58:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.",
+          "en": "At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground."
+        },
+        {
+          "scid": "mn58:2.1",
+          "pli": "Atha kho abhayo rājakumāro yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṃ nāṭaputtaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho abhayaṃ rājakumāraṃ nigaṇṭho nāṭaputto etadavoca:",
+          "en": "Then Prince Abhaya went up to Nigaṇṭha Nātaputta, bowed, and sat down to one side. Nigaṇṭha Nātaputta said to him:"
+        },
+        {
+          "scid": "mn58:3.1",
+          "pli": "“ehi tvaṃ, rājakumāra, samaṇassa gotamassa vādaṃ āropehi.",
+          "en": "“Come, prince, refute the ascetic Gotama’s doctrine."
+        },
+        {
+          "scid": "mn58:3.2",
+          "pli": "Evaṃ te kalyāṇo kittisaddo abbhuggacchissati:",
+          "en": "Then you will get a good reputation:"
+        },
+        {
+          "scid": "mn58:3.3",
+          "pli": "‘abhayena rājakumārena samaṇassa gotamassa evaṃ mahiddhikassa evaṃ mahānubhāvassa vādo āropito’”ti.",
+          "en": "‘Prince Abhaya refuted the doctrine of the ascetic Gotama, so mighty and powerful!’"
+        },
+        {
+          "scid": "mn58:3.4",
+          "pli": "“Yathā kathaṃ panāhaṃ, bhante, samaṇassa gotamassa evaṃ mahiddhikassa evaṃ mahānubhāvassa vādaṃ āropessāmī”ti?",
+          "en": "“But sir, how am I to do this?”"
+        },
+        {
+          "scid": "mn58:3.5",
+          "pli": "“Ehi tvaṃ, rājakumāra, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā samaṇaṃ gotamaṃ evaṃ vadehi:",
+          "en": "“Here, prince, go to the ascetic Gotama and say to him:"
+        },
+        {
+          "scid": "mn58:3.6",
+          "pli": "‘bhāseyya nu kho, bhante, tathāgato taṃ vācaṃ yā sā vācā paresaṃ appiyā amanāpā’ti?",
+          "en": "‘Sir, might the Realized One utter speech that is disliked by others?’"
+        },
+        {
+          "scid": "mn58:3.7",
+          "pli": "Sace te samaṇo gotamo evaṃ puṭṭho evaṃ byākaroti:",
+          "en": "When he’s asked this, if he answers:"
+        },
+        {
+          "scid": "mn58:3.8",
+          "pli": "‘bhāseyya, rājakumāra, tathāgato taṃ vācaṃ yā sā vācā paresaṃ appiyā amanāpā’ti, tamenaṃ tvaṃ evaṃ vadeyyāsi:",
+          "en": "‘He might, prince,’ say this to him:"
+        },
+        {
+          "scid": "mn58:3.9",
+          "pli": "‘atha kiñcarahi te, bhante, puthujjanena nānākaraṇaṃ?",
+          "en": "‘Then, sir, what exactly is the difference between you and an ordinary person?"
+        },
+        {
+          "scid": "mn58:3.10",
+          "pli": "Puthujjanopi hi taṃ vācaṃ bhāseyya yā sā vācā paresaṃ appiyā amanāpā’ti.",
+          "en": "For even an ordinary person might utter speech that is disliked by others.’"
+        },
+        {
+          "scid": "mn58:3.11",
+          "pli": "Sace pana te samaṇo gotamo evaṃ puṭṭho evaṃ byākaroti:",
+          "en": "But if he answers:"
+        },
+        {
+          "scid": "mn58:3.12",
+          "pli": "‘na, rājakumāra, tathāgato taṃ vācaṃ bhāseyya yā sā vācā paresaṃ appiyā amanāpā’ti, tamenaṃ tvaṃ evaṃ vadeyyāsi:",
+          "en": "‘He would not, prince,’ say this to him:"
+        },
+        {
+          "scid": "mn58:3.13",
+          "pli": "‘atha kiñcarahi te, bhante, devadatto byākato:",
+          "en": "‘Then, sir, why exactly did you declare of Devadatta:"
+        },
+        {
+          "scid": "mn58:3.14",
+          "pli": "“āpāyiko devadatto, nerayiko devadatto, kappaṭṭho devadatto, atekiccho devadatto”ti?",
+          "en": "“Devadatta is going to a place of loss, to hell, there to remain for an eon, irredeemable”?"
+        },
+        {
+          "scid": "mn58:3.15",
+          "pli": "Tāya ca pana te vācāya devadatto kupito ahosi anattamano’ti.",
+          "en": "Devadatta was angry and upset with what you said.’"
+        },
+        {
+          "scid": "mn58:3.16",
+          "pli": "Imaṃ kho te, rājakumāra, samaṇo gotamo ubhatokoṭikaṃ pañhaṃ puṭṭho samāno neva sakkhiti uggilituṃ na sakkhiti ogilituṃ.",
+          "en": "When you put this dilemma to him, the Buddha won’t be able to either spit it out or swallow it down."
+        },
+        {
+          "scid": "mn58:3.17",
+          "pli": "Seyyathāpi nāma purisassa ayosiṅghāṭakaṃ kaṇṭhe vilaggaṃ, so neva sakkuṇeyya uggilituṃ na sakkuṇeyya ogilituṃ;",
+          "en": "He’ll be like a man with an iron cross stuck in his throat, unable to either spit it out or swallow it down.”"
+        },
+        {
+          "scid": "mn58:3.18",
+          "pli": "evameva kho te, rājakumāra, samaṇo gotamo imaṃ ubhatokoṭikaṃ pañhaṃ puṭṭho samāno neva sakkhiti uggilituṃ na sakkhiti ogilitun”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn58:4.1",
+          "pli": "“Evaṃ, bhante”ti kho abhayo rājakumāro nigaṇṭhassa nāṭaputtassa paṭissutvā uṭṭhāyāsanā nigaṇṭhaṃ nāṭaputtaṃ abhivādetvā padakkhiṇaṃ katvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.",
+          "en": "“Yes, sir,” replied Abhaya. He got up from his seat, bowed, and respectfully circled Nigaṇṭha Nāṭaputta, keeping him on his right. Then he went to the Buddha, bowed, and sat down to one side."
+        },
+        {
+          "scid": "mn58:4.2",
+          "pli": "Ekamantaṃ nisinnassa kho abhayassa rājakumārassa sūriyaṃ ulloketvā etadahosi:",
+          "en": "Then he looked up at the sun and thought:"
+        },
+        {
+          "scid": "mn58:4.3",
+          "pli": "“akālo kho ajja bhagavato vādaṃ āropetuṃ.",
+          "en": "“It’s too late to refute the Buddha’s doctrine today."
+        },
+        {
+          "scid": "mn58:4.4",
+          "pli": "Sve dānāhaṃ sake nivesane bhagavato vādaṃ āropessāmī”ti bhagavantaṃ etadavoca:",
+          "en": "I shall refute his doctrine in my own home tomorrow.” He said to the Buddha:"
+        },
+        {
+          "scid": "mn58:4.5",
+          "pli": "“adhivāsetu me, bhante, bhagavā svātanāya attacatuttho bhattan”ti.",
+          "en": "“Sir, may the Buddha please accept tomorrow’s meal from me, together with three other monks.”"
+        },
+        {
+          "scid": "mn58:4.6",
+          "pli": "Adhivāsesi bhagavā tuṇhībhāvena.",
+          "en": "The Buddha consented in silence."
+        },
+        {
+          "scid": "mn58:5.1",
+          "pli": "Atha kho abhayo rājakumāro bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.",
+          "en": "Then, knowing that the Buddha had accepted, Abhaya got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving."
+        },
+        {
+          "scid": "mn58:5.2",
+          "pli": "Atha kho bhagavā tassā rattiyā accayena pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena abhayassa rājakumārassa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.",
+          "en": "Then when the night had passed, the Buddha robed up in the morning and, taking his bowl and robe, went to Abhaya’s home, and sat down on the seat spread out."
+        },
+        {
+          "scid": "mn58:5.3",
+          "pli": "Atha kho abhayo rājakumāro bhagavantaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.",
+          "en": "Then Abhaya served and satisfied the Buddha with his own hands with a variety of delicious foods."
+        },
+        {
+          "scid": "mn58:5.4",
+          "pli": "Atha kho abhayo rājakumāro bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi.",
+          "en": "When the Buddha had eaten and washed his hand and bowl, Abhaya took a low seat, sat to one side,"
+        },
+        {
+          "scid": "mn58:6.1",
+          "pli": "Ekamantaṃ nisinno kho abhayo rājakumāro bhagavantaṃ etadavoca:",
+          "en": "and said to him:"
+        },
+        {
+          "scid": "mn58:6.2",
+          "pli": "“bhāseyya nu kho, bhante, tathāgato taṃ vācaṃ yā sā vācā paresaṃ appiyā amanāpā”ti?",
+          "en": "“Sir, might the Realized One utter speech that is disliked by others?”"
+        },
+        {
+          "scid": "mn58:6.3",
+          "pli": "“Na khvettha, rājakumāra, ekaṃsenā”ti.",
+          "en": "“This is no simple matter, prince.”"
+        },
+        {
+          "scid": "mn58:6.4",
+          "pli": "“Ettha, bhante, anassuṃ nigaṇṭhā”ti.",
+          "en": "“Then the Jains have lost in this, sir.”"
+        },
+        {
+          "scid": "mn58:6.5",
+          "pli": "“Kiṃ pana tvaṃ, rājakumāra, evaṃ vadesi:",
+          "en": "“But prince, why do you say that"
+        },
+        {
+          "scid": "mn58:6.6",
+          "pli": "‘ettha, bhante, anassuṃ nigaṇṭhā’”ti?",
+          "en": "the Jains have lost in this?”"
+        },
+        {
+          "scid": "mn58:6.7",
+          "pli": "“Idhāhaṃ, bhante, yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṃ nāṭaputtaṃ abhivādetvā ekamantaṃ nisīdiṃ. Ekamantaṃ nisinnaṃ kho maṃ, bhante, nigaṇṭho nāṭaputto etadavoca:",
+          "en": "Then Abhaya told the Buddha all that had happened."
+        },
+        {
+          "scid": "mn58:6.8",
+          "pli": "‘ehi tvaṃ, rājakumāra, samaṇassa gotamassa vādaṃ āropehi.",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.9",
+          "pli": "Evaṃ te kalyāṇo kittisaddo abbhuggacchissati—",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.10",
+          "pli": "abhayena rājakumārena samaṇassa gotamassa evaṃ mahiddhikassa evaṃ mahānubhāvassa vādo āropito’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.11",
+          "pli": "Evaṃ vutte, ahaṃ, bhante, nigaṇṭhaṃ nāṭaputtaṃ etadavocaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.12",
+          "pli": "‘yathā kathaṃ panāhaṃ, bhante, samaṇassa gotamassa evaṃ mahiddhikassa evaṃ mahānubhāvassa vādaṃ āropessāmī’ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.13",
+          "pli": "‘Ehi tvaṃ, rājakumāra, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā samaṇaṃ gotamaṃ evaṃ vadehi:",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.14",
+          "pli": "“bhāseyya nu kho, bhante, tathāgato taṃ vācaṃ yā sā vācā paresaṃ appiyā amanāpā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.15",
+          "pli": "Sace te samaṇo gotamo evaṃ puṭṭho evaṃ byākaroti:",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.16",
+          "pli": "“bhāseyya, rājakumāra, tathāgato taṃ vācaṃ yā sā vācā paresaṃ appiyā amanāpā”ti, tamenaṃ tvaṃ evaṃ vadeyyāsi:",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.17",
+          "pli": "“atha kiñcarahi te, bhante, puthujjanena nānākaraṇaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.18",
+          "pli": "Puthujjanopi hi taṃ vācaṃ bhāseyya yā sā vācā paresaṃ appiyā amanāpā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.19",
+          "pli": "Sace pana te samaṇo gotamo evaṃ puṭṭho evaṃ byākaroti:",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.20",
+          "pli": "“na, rājakumāra, tathāgato taṃ vācaṃ bhāseyya yā sā vācā paresaṃ appiyā amanāpā”ti, tamenaṃ tvaṃ evaṃ vadeyyāsi—",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.21",
+          "pli": "atha kiñcarahi te, bhante, devadatto byākato:",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.22",
+          "pli": "“āpāyiko devadatto, nerayiko devadatto, kappaṭṭho devadatto, atekiccho devadatto”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.23",
+          "pli": "Tāya ca pana te vācāya devadatto kupito ahosi anattamano’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.24",
+          "pli": "Imaṃ kho te, rājakumāra, samaṇo gotamo ubhatokoṭikaṃ pañhaṃ puṭṭho samāno neva sakkhiti uggilituṃ na sakkhiti ogilituṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.25",
+          "pli": "Seyyathāpi nāma purisassa ayosiṅghāṭakaṃ kaṇṭhe vilaggaṃ, so neva sakkuṇeyya uggilituṃ na sakkuṇeyya ogilituṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn58:6.26",
+          "pli": "evameva kho te, rājakumāra, samaṇo gotamo imaṃ ubhatokoṭikaṃ pañhaṃ puṭṭho samāno neva sakkhiti uggilituṃ na sakkhiti ogilitun”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn58:7.1",
+          "pli": "Tena kho pana samayena daharo kumāro mando uttānaseyyako abhayassa rājakumārassa aṅke nisinno hoti.",
+          "en": "Now at that time a little baby boy was sitting in Prince Abhaya’s lap."
+        },
+        {
+          "scid": "mn58:7.2",
+          "pli": "Atha kho bhagavā abhayaṃ rājakumāraṃ etadavoca:",
+          "en": "Then the Buddha said to Abhaya:"
+        },
+        {
+          "scid": "mn58:7.3",
+          "pli": "“Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "‘What do you think, prince? "
+        },
+        {
+          "scid": "mn58:7.4",
+          "pli": "sacāyaṃ kumāro tuyhaṃ vā pamādamanvāya dhātiyā vā pamādamanvāya kaṭṭhaṃ vā kaṭhalaṃ vā mukhe āhareyya, kinti naṃ kareyyāsī”ti?",
+          "en": "If—because of your negligence or his nurse’s negligence—your boy was to put a stick or stone in his mouth, what would you do to him?”"
+        },
+        {
+          "scid": "mn58:7.5",
+          "pli": "“Āhareyyassāhaṃ, bhante.",
+          "en": "“I’d try to take it out, sir."
+        },
+        {
+          "scid": "mn58:7.6",
+          "pli": "Sace, bhante, na sakkuṇeyyaṃ ādikeneva āhattuṃ, vāmena hatthena sīsaṃ pariggahetvā dakkhiṇena hatthena vaṅkaṅguliṃ karitvā salohitampi āhareyyaṃ.",
+          "en": "If that didn’t work, I’d hold his head with my left hand, and take it out using a hooked finger of my right hand, even if it drew blood."
+        },
+        {
+          "scid": "mn58:7.7",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn58:7.8",
+          "pli": "Atthi me, bhante, kumāre anukampā”ti.",
+          "en": "Because I have compassion for the boy, sir.”"
+        },
+        {
+          "scid": "mn58:8.1",
+          "pli": "“Evameva kho, rājakumāra, yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, na taṃ tathāgato vācaṃ bhāsati.",
+          "en": "In the same way, prince, the Realized One does not utter speech that he knows to be untrue, false, and harmful, and which is disliked by others."
+        },
+        {
+          "scid": "mn58:8.2",
+          "pli": "Yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, tampi tathāgato vācaṃ na bhāsati.",
+          "en": "The Realized One does not utter speech that he knows to be true and substantive, but which is harmful and disliked by others."
+        },
+        {
+          "scid": "mn58:8.3",
+          "pli": "Yañca kho tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya.",
+          "en": "The Realized One knows the right time to speak so as to explain what he knows to be true, substantive, and beneficial, but which is disliked by others."
+        },
+        {
+          "scid": "mn58:8.4",
+          "pli": "Yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasaṃhitaṃ sā ca paresaṃ piyā manāpā, na taṃ tathāgato vācaṃ bhāsati.",
+          "en": "The Realized One does not utter speech that he knows to be untrue, false, and harmful, but which is liked by others."
+        },
+        {
+          "scid": "mn58:8.5",
+          "pli": "Yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasaṃhitaṃ sā ca paresaṃ piyā manāpā tampi tathāgato vācaṃ na bhāsati.",
+          "en": "The Realized One does not utter speech that he knows to be true and substantive, but which is harmful, even if it is liked by others."
+        },
+        {
+          "scid": "mn58:8.6",
+          "pli": "Yañca tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasaṃhitaṃ sā ca paresaṃ piyā manāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya.",
+          "en": "The Realized One knows the right time to speak so as to explain what he knows to be true, substantive, and beneficial, and which is liked by others."
+        },
+        {
+          "scid": "mn58:8.7",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn58:8.8",
+          "pli": "Atthi, rājakumāra, tathāgatassa sattesu anukampā”ti.",
+          "en": "Because the Realized One has compassion for sentient beings.”"
+        },
+        {
+          "scid": "mn58:9.1",
+          "pli": "“Yeme, bhante, khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṃ abhisaṅkharitvā tathāgataṃ upasaṅkamitvā pucchanti, ",
+          "en": "“Sir, there are clever aristocrats, brahmins, householders, or ascetics who come to see you with a question already planned. "
+        },
+        {
+          "scid": "mn58:9.2",
+          "pli": "pubbeva nu kho, etaṃ, bhante, bhagavato cetaso parivitakkitaṃ hoti ‘ye maṃ upasaṅkamitvā evaṃ pucchissanti tesāhaṃ evaṃ puṭṭho evaṃ byākarissāmī’ti, udāhu ṭhānasovetaṃ tathāgataṃ paṭibhātī”ti?",
+          "en": "Do you think beforehand that if they ask you like this, you’ll answer like that, or does the answer just appear to you on the spot?”"
+        },
+        {
+          "scid": "mn58:10.1",
+          "pli": "“Tena hi, rājakumāra, taññevettha paṭipucchissāmi, yathā te khameyya tathā naṃ byākareyyāsi.",
+          "en": "“Well then, prince, I’ll ask you about this in return, and you can answer as you like."
+        },
+        {
+          "scid": "mn58:10.2",
+          "pli": "Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "What do you think, prince? "
+        },
+        {
+          "scid": "mn58:10.3",
+          "pli": "kusalo tvaṃ rathassa aṅgapaccaṅgānan”ti?",
+          "en": "Are you skilled in the various parts of a chariot?”"
+        },
+        {
+          "scid": "mn58:10.4",
+          "pli": "“Evaṃ, bhante, kusalo ahaṃ rathassa aṅgapaccaṅgānan”ti.",
+          "en": "“I am, sir.”"
+        },
+        {
+          "scid": "mn58:10.5",
+          "pli": "“Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "“What do you think, prince? "
+        },
+        {
+          "scid": "mn58:10.6",
+          "pli": "ye taṃ upasaṅkamitvā evaṃ puccheyyuṃ:",
+          "en": "When they come to you and ask:"
+        },
+        {
+          "scid": "mn58:10.7",
+          "pli": "‘kiṃ nāmidaṃ rathassa aṅgapaccaṅgan’ti?",
+          "en": "‘What’s the name of this chariot part?’"
+        },
+        {
+          "scid": "mn58:10.8",
+          "pli": "Pubbeva nu kho te etaṃ cetaso parivitakkitaṃ assa ‘ye maṃ upasaṅkamitvā evaṃ pucchissanti tesāhaṃ evaṃ puṭṭho evaṃ byākarissāmī’ti, udāhu ṭhānasovetaṃ paṭibhāseyyā”ti?",
+          "en": "Do you think beforehand that if they ask you like this, you’ll answer like that, or does the answer appear to you on the spot?”"
+        },
+        {
+          "scid": "mn58:10.9",
+          "pli": "“Ahañhi, bhante, rathiko saññāto kusalo rathassa aṅgapaccaṅgānaṃ.",
+          "en": "“Sir, I’m well-known as a charioteer skilled in a chariot’s parts."
+        },
+        {
+          "scid": "mn58:10.10",
+          "pli": "Sabbāni me rathassa aṅgapaccaṅgāni suviditāni.",
+          "en": "All the parts are well-known to me."
+        },
+        {
+          "scid": "mn58:10.11",
+          "pli": "Ṭhānasovetaṃ maṃ paṭibhāseyyā”ti.",
+          "en": "The answer just appears to me on the spot.”"
+        },
+        {
+          "scid": "mn58:11.1",
+          "pli": "“Evameva kho, rājakumāra, ye te khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṃ abhisaṅkharitvā tathāgataṃ upasaṅkamitvā pucchanti, ṭhānasovetaṃ tathāgataṃ paṭibhāti.",
+          "en": "“In the same way, when clever aristocrats, brahmins, householders, or ascetics come to see me with a question already planned, the answer just appears to me on the spot."
+        },
+        {
+          "scid": "mn58:11.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn58:11.3",
+          "pli": "Sā hi, rājakumāra, tathāgatassa dhammadhātu suppaṭividdhā yassā dhammadhātuyā suppaṭividdhattā ṭhānasovetaṃ tathāgataṃ paṭibhātī”ti.",
+          "en": "Because the Realized One has clearly comprehended the principle of the teachings, so that the answer just appears to him on the spot.”"
+        },
+        {
+          "scid": "mn58:12.1",
+          "pli": "Evaṃ vutte, abhayo rājakumāro bhagavantaṃ etadavoca:",
+          "en": "When he had spoken, Prince Abhaya said to the Buddha:"
+        },
+        {
+          "scid": "mn58:12.2",
+          "pli": "“abhikkantaṃ, bhante, abhikkantaṃ, bhante … pe …",
+          "en": "“Excellent, sir! Excellent! …"
+        },
+        {
+          "scid": "mn58:12.3",
+          "pli": "ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "mn58:12.4",
+          "pli": "Abhayarājakumārasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn58/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 58",
+    "volpages": "MN i 392",
+    "uid": "mn58",
+    "blurb": "The leader of the Jains, Nigaṇṭha Nātaputta, gives his disciples Prince Abhaya a dilemma to pose to the Buddha, supposing that this will show his weakness. Things don’t go quite as planned.",
+    "difficulty": 2,
+    "original_title": "Abhayarājakumāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Prince Abhaya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn58_sujato",
+        "segmented": true,
+        "title": "With Prince Abhaya"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn58_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discourse to Prince Abhaya"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 8
+  }
+}

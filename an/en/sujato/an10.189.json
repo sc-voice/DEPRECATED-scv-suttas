@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an10.189",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.189",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Noble Path",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Dark Path",
+      "uid": "an10.190"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Result",
+      "uid": "an10.188"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.189:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.189:0.2",
+          "pli": "19. Ariyamaggavagga",
+          "en": "19. The Noble Path"
+        },
+        {
+          "scid": "an10.189:0.3",
+          "pli": "189. Ariyamaggasutta",
+          "en": "189. The Noble Path"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.189:1.1",
+          "pli": "“Ariyamaggañca vo, bhikkhave, desessāmi anariyamaggañca.",
+          "en": "“I will teach you the noble path and the ignoble path. …"
+        },
+        {
+          "scid": "an10.189:1.2",
+          "pli": "Taṃ suṇātha … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an10.189:1.3",
+          "pli": "katamo ca, bhikkhave, anariyo maggo?",
+          "en": "And what is the ignoble path?"
+        },
+        {
+          "scid": "an10.189:1.4",
+          "pli": "Pāṇātipāto … pe …",
+          "en": "Killing living creatures …"
+        },
+        {
+          "scid": "an10.189:1.5",
+          "pli": "micchādiṭṭhi—",
+          "en": "wrong view."
+        },
+        {
+          "scid": "an10.189:1.6",
+          "pli": "ayaṃ vuccati, bhikkhave, anariyo maggo.",
+          "en": "This is called the ignoble path."
+        },
+        {
+          "scid": "an10.189:2.1",
+          "pli": "Katamo ca, bhikkhave, ariyo maggo?",
+          "en": "And what is the noble path?"
+        },
+        {
+          "scid": "an10.189:2.2",
+          "pli": "Pāṇātipātā veramaṇī … pe …",
+          "en": "Not killing living creatures …"
+        },
+        {
+          "scid": "an10.189:2.3",
+          "pli": "sammādiṭṭhi—",
+          "en": "right view."
+        },
+        {
+          "scid": "an10.189:2.4",
+          "pli": "ayaṃ vuccati, bhikkhave, ariyo maggo”ti.",
+          "en": "This is called the noble path.”"
+        },
+        {
+          "scid": "an10.189:2.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“I will teach you the noble path…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.189/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.189",
+    "volpages": "AN v 278",
+    "uid": "an10.189",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ariyamagga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Noble Path",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.189_sujato",
+        "segmented": true,
+        "title": "The Noble Path"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an1.188-197",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an1.188-197",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an1.198-208"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an1.170-187"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an1.188-197:0.1",
+          "pli": "Aṅguttara Nikāya 1",
+          "en": "Numbered Collection 1"
+        },
+        {
+          "scid": "an1.188-197:0.2",
+          "pli": "14. Paṭhamavagga",
+          "en": "14. First"
+        },
+        {
+          "scid": "an1.188-197:0.3",
+          "pli": "188–​197 ",
+          "en": "188–​197"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Collection 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an1.188-197:1.1",
+          "pli": "“Etadaggaṃ, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ rattaññūnaṃ yadidaṃ aññāsikoṇḍañño. (1)",
+          "en": "“The foremost of my monk disciples in seniority is Aññākoṇḍañña."
+        },
+        {
+          "scid": "an1.188-197:2.1",
+          "pli": "… Mahāpaññānaṃ yadidaṃ sāriputto. (2)",
+          "en": "… with great wisdom is Sāriputta."
+        },
+        {
+          "scid": "an1.188-197:3.1",
+          "pli": "… Iddhimantānaṃ yadidaṃ mahāmoggallāno. (3)",
+          "en": "… with psychic power is Mahāmoggallāna."
+        },
+        {
+          "scid": "an1.188-197:4.1",
+          "pli": "… Dhutavādānaṃ yadidaṃ mahākassapo. (4)",
+          "en": "… who advocate austerities is Mahākassapa."
+        },
+        {
+          "scid": "an1.188-197:5.1",
+          "pli": "… Dibbacakkhukānaṃ yadidaṃ anuruddho. (5)",
+          "en": "… with clairvoyance is Anuruddha."
+        },
+        {
+          "scid": "an1.188-197:6.1",
+          "pli": "… Uccākulikānaṃ yadidaṃ bhaddiyo kāḷigodhāya putto. (6)",
+          "en": "… from eminent families is Bhaddiya Kāḷigodhāyaputta."
+        },
+        {
+          "scid": "an1.188-197:7.1",
+          "pli": "… Mañjussarānaṃ yadidaṃ lakuṇḍaka bhaddiyo. (7)",
+          "en": "… with a charming voice is Lakuṇṭaka Bhaddiya."
+        },
+        {
+          "scid": "an1.188-197:8.1",
+          "pli": "… Sīhanādikānaṃ yadidaṃ piṇḍolabhāradvājo. (8)",
+          "en": "… with a lion’s roar is Piṇḍolabhāradvāja."
+        },
+        {
+          "scid": "an1.188-197:9.1",
+          "pli": "… Dhammakathikānaṃ yadidaṃ puṇṇo mantāṇiputto. (9)",
+          "en": "… who speak on the teaching is Puṇṇa Mantāṇiputta."
+        },
+        {
+          "scid": "an1.188-197:10.1",
+          "pli": "… Saṅkhittena bhāsitassa vitthārena atthaṃ vibhajantānaṃ yadidaṃ mahākaccāno”ti. (10)",
+          "en": "… who explain in detail the meaning of a brief statement is Mahākaccāna.”"
+        },
+        {
+          "scid": "an1.188-197:10.2",
+          "pli": "Vaggo paṭhamo.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“The foremost of my monk disciples in…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an1.188-197/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 1.188–197//AN 1.14.1",
+    "volpages": "AN i 23",
+    "uid": "an1.188-197",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paṭhama Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an1.188-197_sujato",
+        "segmented": true,
+        "title": ""
+      }
+    ],
+    "parallel_count": 12,
+    "biblio": null,
+    "num": 1
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "sutta_uid": "thag6.7",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag6.7",
+    "lang": "en",
+    "is_root": false,
+    "title": "Kātiyāna",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Migajāla",
+      "uid": "thag6.8"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Sappadāsa",
+      "uid": "thag6.6"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag6.7:0.1",
+          "en": "Theragāthā 6.7"
+        },
+        {
+          "scid": "thag6.7:0.2",
+          "en": "Kātiyāna",
+          "pli": "Kātiyānattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag6.7:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag6.7:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag6.7:1.0.3",
+          "en": "Chapter of the Sixes"
+        },
+        {
+          "scid": "thag6.7:1.0.4",
+          "en": "6.7. Kātiyāna"
+        },
+        {
+          "scid": "thag6.7:1.1.5",
+          "en": "Get up, Kātiyāna, and sit! Don’t sleep too much, be wakeful. Don’t be lazy, and let the kinsman of the heedless, The king of death, catch you in his trap."
+        },
+        {
+          "scid": "thag6.7:1.2.6",
+          "en": "Like a wave in the mighty ocean, Birth and old age overwhelm you. Make a safe island of yourself, For you have no other shelter."
+        },
+        {
+          "scid": "thag6.7:1.3.7",
+          "en": "The teacher has mastered this path, Which transcends ties, and the fear of birth and old age. Be heedful all the time, And devote yourself to dedicated practice."
+        },
+        {
+          "scid": "thag6.7:1.4.8",
+          "en": "Be free of your former bonds! Wearing outer robe, with shaven head, eating almsfood, Don’t delight in play or sleep, Devote yourself to jhāna, Kātiyāna."
+        },
+        {
+          "scid": "thag6.7:1.5.9",
+          "en": "Practice jhāna and conquer, Kātiyāna, You’re skilled in the path to security from the yoke. Attaining unexcelled purity, You’ll be quenched, like a flame by water."
+        },
+        {
+          "scid": "thag6.7:1.6.10",
+          "en": "A lamp with feeble flames Is bent down by the wind, like a creeper; Just so, kinsman of Indra, You shake off Māra, without grasping. Free of lust for feelings, Await your time here, cooled."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag6.7/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 6.7",
+    "volpages": "Thag 44",
+    "uid": "thag6.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kātiyānattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kātiyāna",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag6.7_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Kātiyāna"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

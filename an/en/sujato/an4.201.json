@@ -1,0 +1,230 @@
+{
+  "sutta_uid": "an4.201",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.201",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Training Rules",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Faithless",
+      "uid": "an4.202"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Love and Hate",
+      "uid": "an4.200"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.201:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.201:0.2",
+          "pli": "21. Sappurisavagga",
+          "en": "21. A Good Person"
+        },
+        {
+          "scid": "an4.201:0.3",
+          "pli": "201. Sikkhāpadasutta",
+          "en": "201. Training Rules"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.201:1.1",
+          "pli": "“Asappurisañca vo, bhikkhave, desessāmi, asappurisena asappurisatarañca;",
+          "en": "“Mendicants, I will teach you a bad person and a worse person,"
+        },
+        {
+          "scid": "an4.201:1.2",
+          "pli": "sappurisañca, sappurisena sappurisatarañca.",
+          "en": "a good person and a better person."
+        },
+        {
+          "scid": "an4.201:1.3",
+          "pli": "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+          "en": "Listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "an4.201:1.4",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "an4.201:1.5",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "an4.201:2.1",
+          "pli": "“Katamo ca, bhikkhave, asappuriso?",
+          "en": "“And what is a bad person?"
+        },
+        {
+          "scid": "an4.201:2.2",
+          "pli": "Idha, bhikkhave, ekacco pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti.",
+          "en": "It’s someone who kills living creatures, steals, commits sexual misconduct, lies, and uses alcoholic drinks that cause negligence."
+        },
+        {
+          "scid": "an4.201:2.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asappuriso.",
+          "en": "This is called a bad person."
+        },
+        {
+          "scid": "an4.201:3.1",
+          "pli": "Katamo ca, bhikkhave, asappurisena asappurisataro?",
+          "en": "And what is a worse person?"
+        },
+        {
+          "scid": "an4.201:3.2",
+          "pli": "Idha, bhikkhave, ekacco attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti;",
+          "en": "It’s someone who kills living creatures, steals, commits sexual misconduct, lies, and uses alcoholic drinks that cause negligence. And they encourage others to do these things."
+        },
+        {
+          "scid": "an4.201:3.3",
+          "pli": "attanā ca adinnādāyī hoti, parañca adinnādāne samādapeti;",
+          "en": ""
+        },
+        {
+          "scid": "an4.201:3.4",
+          "pli": "attanā ca kāmesumicchācārī hoti, parañca kāmesumicchācāre samādapeti;",
+          "en": ""
+        },
+        {
+          "scid": "an4.201:3.5",
+          "pli": "attanā ca musāvādī hoti, parañca musāvāde samādapeti;",
+          "en": ""
+        },
+        {
+          "scid": "an4.201:3.6",
+          "pli": "attanā ca surāmerayamajjapamādaṭṭhāyī hoti, parañca surāmerayamajjapamādaṭṭhāne samādapeti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.201:3.7",
+          "pli": "Ayaṃ vuccati, bhikkhave, asappurisena asappurisataro.",
+          "en": "This is called a worse person."
+        },
+        {
+          "scid": "an4.201:4.1",
+          "pli": "Katamo ca, bhikkhave, sappuriso?",
+          "en": "And what is a good person?"
+        },
+        {
+          "scid": "an4.201:4.2",
+          "pli": "Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, surāmerayamajjapamādaṭṭhānā paṭivirato hoti.",
+          "en": "It’s someone who doesn’t kill living creatures, steal, commit sexual misconduct, lie, or use alcoholic drinks that cause negligence."
+        },
+        {
+          "scid": "an4.201:4.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, sappuriso.",
+          "en": "This is called a good person."
+        },
+        {
+          "scid": "an4.201:5.1",
+          "pli": "Katamo ca, bhikkhave, sappurisena sappurisataro?",
+          "en": "And what is a better person?"
+        },
+        {
+          "scid": "an4.201:5.2",
+          "pli": "Idha, bhikkhave, ekacco attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti;",
+          "en": "It’s someone who doesn’t kill living creatures, steal, commit sexual misconduct, lie, or use alcoholic drinks that cause negligence. And they encourage others to avoid these things."
+        },
+        {
+          "scid": "an4.201:5.3",
+          "pli": "attanā ca adinnādānā paṭivirato hoti, parañca adinnādānā veramaṇiyā samādapeti;",
+          "en": ""
+        },
+        {
+          "scid": "an4.201:5.4",
+          "pli": "attanā ca kāmesumicchācārā paṭivirato hoti, parañca kāmesumicchācārā veramaṇiyā samādapeti;",
+          "en": ""
+        },
+        {
+          "scid": "an4.201:5.5",
+          "pli": "attanā ca musāvādā paṭivirato hoti, parañca musāvādā veramaṇiyā samādapeti;",
+          "en": ""
+        },
+        {
+          "scid": "an4.201:5.6",
+          "pli": "attanā ca surāmerayamajjapamādaṭṭhānā paṭivirato hoti, parañca surāmerayamajjapamādaṭṭhānā veramaṇiyā samādapeti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.201:5.7",
+          "pli": "Ayaṃ vuccati, bhikkhave, sappurisena sappurisataro”ti.",
+          "en": "This is called a better person.”"
+        },
+        {
+          "scid": "an4.201:5.8",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.201/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.201",
+    "volpages": "AN ii 217",
+    "uid": "an4.201",
+    "blurb": "A good person keeps precepts—including avoiding alcohol—for themselves, while a better person encourages others as well.",
+    "difficulty": null,
+    "original_title": "Sikkhāpada Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Training Rules",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.201_sujato",
+        "segmented": true,
+        "title": "Training Rules"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

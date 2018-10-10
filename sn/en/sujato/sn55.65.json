@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn55.65",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.65",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Deep Wisdom",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Extraordinary Wisdom",
+      "uid": "sn55.66"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Abundant Wisdom",
+      "uid": "sn55.64"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.65:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.65:0.2",
+          "pli": "7. Mahāpaññavagga",
+          "en": "7. Great Wisdom"
+        },
+        {
+          "scid": "sn55.65:0.3",
+          "pli": "65. Gambhīrapaññāsutta",
+          "en": "65. Deep Wisdom"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.65:1.1",
+          "pli": "“… Gambhīrapaññatāya saṃvattantī”ti.",
+          "en": "“Mendicants, when four things are developed and cultivated they lead to deep wisdom …”"
+        },
+        {
+          "scid": "sn55.65:1.2",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.65/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.65",
+    "volpages": "SN v 412",
+    "uid": "sn55.65",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Gambhīrapaññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Deep Wisdom",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.65_sujato",
+        "segmented": true,
+        "title": "Deep Wisdom"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 4
+  }
+}

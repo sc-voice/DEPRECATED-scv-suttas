@@ -1,0 +1,105 @@
+{
+  "sutta_uid": "sn12.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Koṇāgamana",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kassapa",
+      "uid": "sn12.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kakusandha",
+      "uid": "sn12.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.8:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.8:0.2",
+          "pli": "1. Buddhavagga",
+          "en": "1. The Buddhas"
+        },
+        {
+          "scid": "sn12.8:0.3",
+          "pli": "8. Koṇāgamanasutta",
+          "en": "8. Koṇāgamana"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.8:1.1",
+          "pli": "“Koṇāgamanassa, bhikkhave, bhagavato arahato sammāsambuddhassa … pe ….",
+          "en": "“Koṇāgamana, the Blessed One, the perfected one, the fully awakened Buddha …”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Koṇāgamana…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.8",
+    "volpages": "SN ii 9",
+    "uid": "sn12.8",
+    "blurb": "In the far past, the Buddha Koṇāgamana reflected on how the world had fallen into suffering, and became awakened by understanding dependent origination.",
+    "difficulty": null,
+    "original_title": "Koṇāgamana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Koṇāgamana",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.8_sujato",
+        "segmented": true,
+        "title": "Koṇāgamana"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 8
+  }
+}

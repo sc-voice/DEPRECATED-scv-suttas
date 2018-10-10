@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.134",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.134",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Fruits of Initiative",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Blameworthy",
+      "uid": "an4.135"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "One Who Understands Immediately",
+      "uid": "an4.133"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.134:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.134:0.2",
+          "pli": "14. Puggalavagga",
+          "en": "14. Persons"
+        },
+        {
+          "scid": "an4.134:0.3",
+          "pli": "134. Uṭṭhānaphalasutta",
+          "en": "134. The Fruits of Initiative"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.134:1.1",
+          "pli": "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“These four people are found in the world."
+        },
+        {
+          "scid": "an4.134:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.134:1.3",
+          "pli": "Uṭṭhānaphalūpajīvī na kammaphalūpajīvī, kammaphalūpajīvī na uṭṭhānaphalūpajīvī, uṭṭhānaphalūpajīvī ceva kammaphalūpajīvī ca, neva uṭṭhānaphalūpajīvī na kammaphalūpajīvī—",
+          "en": "<ol><li>One who lives off the fruit of initiative, but not deeds; </li><li>one who lives off the fruit of deeds, but not initiative; </li><li>one who lives off the fruit of both initiative and deeds; and </li><li>one who lives off the fruit of neither initiative nor deeds.</li></ol>"
+        },
+        {
+          "scid": "an4.134:1.4",
+          "pli": "ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "These are the four people found in the world.”"
+        },
+        {
+          "scid": "an4.134:1.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“These four people are found in the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.134/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.134",
+    "volpages": "AN ii 135",
+    "uid": "an4.134",
+    "blurb": "Living on the fruit of effort or of past karma.",
+    "difficulty": null,
+    "original_title": "Uṭṭhānaphala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Fruits of Initiative",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.134_sujato",
+        "segmented": true,
+        "title": "The Fruits of Initiative"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 4
+  }
+}

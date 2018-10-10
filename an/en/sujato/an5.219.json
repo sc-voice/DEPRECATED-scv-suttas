@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an5.219",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.219",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fire",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "About Madhurā",
+      "uid": "an5.220"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uninspiring Conduct (2nd)",
+      "uid": "an5.218"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.219:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.219:0.2",
+          "pli": "22. Akkosakavagga",
+          "en": "22. Abuse"
+        },
+        {
+          "scid": "an5.219:0.3",
+          "pli": "219. Aggisutta",
+          "en": "219. Fire"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.219:1.1",
+          "pli": "“Pañcime, bhikkhave, ādīnavā aggismiṃ.",
+          "en": "“Mendicants, there are these five drawbacks of a fire."
+        },
+        {
+          "scid": "an5.219:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.219:1.3",
+          "pli": "Acakkhusso, dubbaṇṇakaraṇo, dubbalakaraṇo, saṅgaṇikāpavaḍḍhano, tiracchānakathāpavattaniko hoti.",
+          "en": "It’s bad for your eyes. It’s bad for your complexion. It makes you weak. It draws in groups. And it encourages unworthy talk."
+        },
+        {
+          "scid": "an5.219:1.4",
+          "pli": "Ime kho, bhikkhave, pañca ādīnavā aggismin”ti.",
+          "en": "These are the five drawbacks of a fire.”"
+        },
+        {
+          "scid": "an5.219:1.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.219/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.219",
+    "volpages": "AN iii 256",
+    "uid": "an5.219",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Aggi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fire",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.219_sujato",
+        "segmented": true,
+        "title": "Fire"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

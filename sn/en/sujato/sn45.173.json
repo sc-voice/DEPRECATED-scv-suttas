@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn45.173",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.173",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Grasping",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Personal Ties",
+      "uid": "sn45.174"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Attachments",
+      "uid": "sn45.172"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.173:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.173:0.2",
+          "pli": "14. Oghavagga",
+          "en": "14. Floods"
+        },
+        {
+          "scid": "sn45.173:0.3",
+          "pli": "173. Upādānasutta",
+          "en": "173. Grasping"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.173:1.1",
+          "pli": "“Cattārimāni, bhikkhave, upādānāni.",
+          "en": "“Mendicants, there are these four kinds of grasping."
+        },
+        {
+          "scid": "sn45.173:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn45.173:1.3",
+          "pli": "Kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ—",
+          "en": "Grasping at sensual pleasures, views, precepts and observances, and theories of a self."
+        },
+        {
+          "scid": "sn45.173:1.4",
+          "pli": "imāni kho, bhikkhave, cattāri upādānāni.",
+          "en": "These are the four kinds of grasping."
+        },
+        {
+          "scid": "sn45.173:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, catunnaṃ upādānānaṃ abhiññāya pariññāya parikkhayāya pahānāya … pe … ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
+          "en": "The noble eightfold path should be developed for the direct knowledge, complete understanding, finishing, and giving up of these four kinds of grasping.”"
+        },
+        {
+          "scid": "sn45.173:1.6",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.173/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.173",
+    "volpages": "SN v 59",
+    "uid": "sn45.173",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Upādāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Grasping",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.173_sujato",
+        "segmented": true,
+        "title": "Grasping"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.173_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Clinging"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

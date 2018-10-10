@@ -1,0 +1,800 @@
+{
+  "sutta_uid": "mn96",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn96",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Esukārī",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Dhanañjāni",
+      "uid": "mn97"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Caṅkī",
+      "uid": "mn95"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn96:0.1",
+          "pli": "Majjhima Nikāya 96",
+          "en": "Middle Discourses 96"
+        },
+        {
+          "scid": "mn96:0.2",
+          "pli": "Esukārīsutta",
+          "en": "With Esukārī"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 96…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn96:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn96:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn96:2.1",
+          "pli": "Atha kho esukārī brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi.",
+          "en": "Then Esukārī the brahmin went up to the Buddha, and exchanged greetings with him."
+        },
+        {
+          "scid": "mn96:2.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho esukārī brāhmaṇo bhagavantaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side and said to the Buddha:"
+        },
+        {
+          "scid": "mn96:3.1",
+          "pli": "“brāhmaṇā, bho gotama, catasso pāricariyā paññapenti—",
+          "en": "“Master Gotama, the brahmins prescribe four kinds of service,"
+        },
+        {
+          "scid": "mn96:3.2",
+          "pli": "brāhmaṇassa pāricariyaṃ paññapenti, khattiyassa pāricariyaṃ paññapenti, vessassa pāricariyaṃ paññapenti, suddassa pāricariyaṃ paññapenti.",
+          "en": "for a brahmin, an aristocrat, a merchant, and a worker."
+        },
+        {
+          "scid": "mn96:3.3",
+          "pli": "Tatridaṃ, bho gotama, brāhmaṇā brāhmaṇassa pāricariyaṃ paññapenti:",
+          "en": "This is the service they prescribe for a brahmin:"
+        },
+        {
+          "scid": "mn96:3.4",
+          "pli": "‘brāhmaṇo vā brāhmaṇaṃ paricareyya, khattiyo vā brāhmaṇaṃ paricareyya, vesso vā brāhmaṇaṃ paricareyya, suddo vā brāhmaṇaṃ paricareyyā’ti.",
+          "en": "‘A brahmin, an aristocrat, a merchant, and a worker may all serve a brahmin.’"
+        },
+        {
+          "scid": "mn96:3.5",
+          "pli": "Idaṃ kho, bho gotama, brāhmaṇā brāhmaṇassa pāricariyaṃ paññapenti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:3.6",
+          "pli": "Tatridaṃ, bho gotama, brāhmaṇā khattiyassa pāricariyaṃ paññapenti:",
+          "en": "This is the service they prescribe for an aristocrat:"
+        },
+        {
+          "scid": "mn96:3.7",
+          "pli": "‘khattiyo vā khattiyaṃ paricareyya, vesso vā khattiyaṃ paricareyya, suddo vā khattiyaṃ paricareyyā’ti.",
+          "en": "‘An aristocrat, a merchant, and a worker may all serve an aristocrat.’"
+        },
+        {
+          "scid": "mn96:3.8",
+          "pli": "Idaṃ kho, bho gotama, brāhmaṇā khattiyassa pāricariyaṃ paññapenti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:3.9",
+          "pli": "Tatridaṃ, bho gotama, brāhmaṇā vessassa pāricariyaṃ paññapenti:",
+          "en": "This is the service they prescribe for a merchant:"
+        },
+        {
+          "scid": "mn96:3.10",
+          "pli": "‘vesso vā vessaṃ paricareyya, suddo vā vessaṃ paricareyyā’ti.",
+          "en": "‘A merchant or a worker may serve a merchant.’"
+        },
+        {
+          "scid": "mn96:3.11",
+          "pli": "Idaṃ kho, bho gotama, brāhmaṇā vessassa pāricariyaṃ paññapenti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:3.12",
+          "pli": "Tatridaṃ, bho gotama, brāhmaṇā suddassa pāricariyaṃ paññapenti:",
+          "en": "This is the service they prescribe for a worker:"
+        },
+        {
+          "scid": "mn96:3.13",
+          "pli": "‘suddova suddaṃ paricareyya.",
+          "en": "‘Only a worker may serve a worker."
+        },
+        {
+          "scid": "mn96:3.14",
+          "pli": "Ko panañño suddaṃ paricarissatī’ti?",
+          "en": "For who else will serve a worker?’"
+        },
+        {
+          "scid": "mn96:3.15",
+          "pli": "Idaṃ kho, bho gotama, brāhmaṇā suddassa pāricariyaṃ paññapenti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:3.16",
+          "pli": "Brāhmaṇā, bho gotama, imā catasso pāricariyā paññapenti.",
+          "en": "These are the four kinds of service that the brahmins prescribe."
+        },
+        {
+          "scid": "mn96:3.17",
+          "pli": "Idha bhavaṃ gotamo kimāhā”ti?",
+          "en": "What do you say about this?”"
+        },
+        {
+          "scid": "mn96:4.1",
+          "pli": "“Kiṃ pana, brāhmaṇa, sabbo loko brāhmaṇānaṃ etadabbhanujānāti: ‘imā catasso pāricariyā paññapentū’”ti?",
+          "en": "“But brahmin, did the whole world authorize the brahmins to prescribe these four kinds of service?”"
+        },
+        {
+          "scid": "mn96:4.2",
+          "pli": "“No hidaṃ, bho gotama”.",
+          "en": "“No, Master Gotama.”"
+        },
+        {
+          "scid": "mn96:4.3",
+          "pli": "“Seyyathāpi, brāhmaṇa, puriso daliddo assako anāḷhiyo. Tassa akāmassa bilaṃ olaggeyyuṃ: ‘idaṃ te, ambho purisa, maṃsaṃ khāditabbaṃ, mūlañca anuppadātabban’ti.",
+          "en": "“It’s as if they were to force a steak on a poor, penniless person, telling them they must eat it and then pay for it."
+        },
+        {
+          "scid": "mn96:4.4",
+          "pli": "Evameva kho, brāhmaṇa, brāhmaṇā appaṭiññāya tesaṃ samaṇabrāhmaṇānaṃ, atha ca panimā catasso pāricariyā paññapenti.",
+          "en": "In the same way, the brahmins have prescribed these four kinds of service without the consent of these ascetics and brahmins."
+        },
+        {
+          "scid": "mn96:5.1",
+          "pli": "Nāhaṃ, brāhmaṇa, ‘sabbaṃ paricaritabban’ti vadāmi; nāhaṃ, brāhmaṇa, ‘sabbaṃ na paricaritabban’ti vadāmi.",
+          "en": "Brahmin, I don’t say that you should serve everyone, nor do I say that you shouldn’t serve anyone."
+        },
+        {
+          "scid": "mn96:5.2",
+          "pli": "Yaṃ hissa, brāhmaṇa, paricarato pāricariyāhetu pāpiyo assa na seyyo, nāhaṃ taṃ ‘paricaritabban’ti vadāmi;",
+          "en": "I say that you shouldn’t serve someone if serving them makes you worse, not better."
+        },
+        {
+          "scid": "mn96:5.3",
+          "pli": "yañca khvāssa, brāhmaṇa, paricarato pāricariyāhetu seyyo assa na pāpiyo tamahaṃ ‘paricaritabban’ti vadāmi.",
+          "en": "And I say that you should serve someone if serving them makes you better, not worse."
+        },
+        {
+          "scid": "mn96:6.1",
+          "pli": "Khattiyañcepi, brāhmaṇa, evaṃ puccheyyuṃ:",
+          "en": "If they were to ask an aristocrat this:"
+        },
+        {
+          "scid": "mn96:6.2",
+          "pli": "‘yaṃ vā te paricarato pāricariyāhetu pāpiyo assa na seyyo, yaṃ vā te paricarato pāricariyāhetu seyyo assa na pāpiyo;",
+          "en": "‘Who should you serve? Someone in whose service you get worse, or someone in whose service you get better?’"
+        },
+        {
+          "scid": "mn96:6.3",
+          "pli": "kamettha paricareyyāsī’ti, khattiyopi hi, brāhmaṇa, sammā byākaramāno evaṃ byākareyya:",
+          "en": "Answering rightly, an aristocrat would say:"
+        },
+        {
+          "scid": "mn96:6.4",
+          "pli": "‘yañhi me paricarato pāricariyāhetu pāpiyo assa na seyyo, nāhaṃ taṃ paricareyyaṃ; yañca kho me paricarato pāricariyāhetu seyyo assa na pāpiyo tamahaṃ paricareyyan’ti.",
+          "en": "‘Someone in whose service I get better.’"
+        },
+        {
+          "scid": "mn96:7.1",
+          "pli": "Brāhmaṇañcepi, brāhmaṇa … pe …",
+          "en": "If they were to ask a brahmin …"
+        },
+        {
+          "scid": "mn96:7.2",
+          "pli": "vessañcepi, brāhmaṇa … pe …",
+          "en": "a merchant …"
+        },
+        {
+          "scid": "mn96:7.3",
+          "pli": "suddañcepi, brāhmaṇa, evaṃ puccheyyuṃ:",
+          "en": "or a worker this:"
+        },
+        {
+          "scid": "mn96:7.4",
+          "pli": "‘yaṃ vā te paricarato pāricariyāhetu pāpiyo assa na seyyo, yaṃ vā te paricarato pāricariyāhetu seyyo assa na pāpiyo;",
+          "en": "‘Who should you serve? Someone in whose service you get worse, or someone in whose service you get better?’"
+        },
+        {
+          "scid": "mn96:7.5",
+          "pli": "kamettha paricareyyāsī’ti, suddopi hi, brāhmaṇa, sammā byākaramāno evaṃ byākareyya:",
+          "en": "Answering rightly, a worker would say:"
+        },
+        {
+          "scid": "mn96:7.6",
+          "pli": "‘yañhi me paricarato pāricariyāhetu pāpiyo assa na seyyo, nāhaṃ taṃ paricareyyaṃ; yañca kho me paricarato pāricariyāhetu seyyo assa na pāpiyo tamahaṃ paricareyyan’ti.",
+          "en": "‘Someone in whose service I get better.’"
+        },
+        {
+          "scid": "mn96:7.7",
+          "pli": "Nāhaṃ, brāhmaṇa, ‘uccākulīnatā seyyaṃso’ti vadāmi, na panāhaṃ, brāhmaṇa, ‘uccākulīnatā pāpiyaṃso’ti vadāmi;",
+          "en": "Brahmin, I don’t say that coming from an eminent family makes you a better or worse person."
+        },
+        {
+          "scid": "mn96:7.8",
+          "pli": "nāhaṃ, brāhmaṇa, ‘uḷāravaṇṇatā seyyaṃso’ti vadāmi, na panāhaṃ, brāhmaṇa, ‘uḷāravaṇṇatā pāpiyaṃso’ti vadāmi;",
+          "en": "I don’t say that being very beautiful makes you a better or worse person."
+        },
+        {
+          "scid": "mn96:7.9",
+          "pli": "nāhaṃ, brāhmaṇa, ‘uḷārabhogatā seyyaṃso’ti vadāmi, na panāhaṃ, brāhmaṇa, ‘uḷārabhogatā pāpiyaṃso’ti vadāmi.",
+          "en": "I don’t say that being very wealthy makes you a better or worse person."
+        },
+        {
+          "scid": "mn96:8.1",
+          "pli": "Uccākulīnopi hi, brāhmaṇa, idhekacco pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti, pisuṇāvāco hoti, pharusāvāco hoti, samphappalāpī hoti, abhijjhālu hoti, byāpannacitto hoti, micchādiṭṭhi hoti.",
+          "en": "For some people from eminent families kill living creatures, steal, and commit sexual misconduct. They use speech that’s false, divisive, harsh, or nonsensical. And they’re covetous, malicious, with wrong view."
+        },
+        {
+          "scid": "mn96:8.2",
+          "pli": "Tasmā ‘na uccākulīnatā seyyaṃso’ti vadāmi.",
+          "en": "That’s why I don’t say that coming from an eminent family makes you a better person."
+        },
+        {
+          "scid": "mn96:8.3",
+          "pli": "Uccākulīnopi hi, brāhmaṇa, idhekacco pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti, anabhijjhālu hoti, abyāpannacitto hoti, sammādiṭṭhi hoti.",
+          "en": "But some people from eminent families also refrain from killing living creatures, stealing, and committing sexual misconduct. They refrain from using speech that’s false, divisive, harsh, or nonsensical. And they’re not covetous or malicious, and they have right view."
+        },
+        {
+          "scid": "mn96:8.4",
+          "pli": "Tasmā ‘na uccākulīnatā pāpiyaṃso’ti vadāmi.",
+          "en": "That’s why I don’t say that coming from an eminent family makes you a worse person."
+        },
+        {
+          "scid": "mn96:8.5",
+          "pli": "Uḷāravaṇṇopi hi, brāhmaṇa …",
+          "en": "People who are very beautiful,"
+        },
+        {
+          "scid": "mn96:8.6",
+          "pli": "pe …",
+          "en": "or not very beautiful,"
+        },
+        {
+          "scid": "mn96:8.7",
+          "pli": "uḷārabhogopi hi, brāhmaṇa, idhekacco pāṇātipātī hoti …",
+          "en": "who are very wealthy,"
+        },
+        {
+          "scid": "mn96:8.8",
+          "pli": "pe …",
+          "en": "or not very wealthy,"
+        },
+        {
+          "scid": "mn96:8.9",
+          "pli": "micchādiṭṭhi hoti.",
+          "en": "may also behave in the same ways."
+        },
+        {
+          "scid": "mn96:8.10",
+          "pli": "Tasmā ‘na uḷārabhogatā seyyaṃso’ti vadāmi.",
+          "en": "That’s why I don’t say that any of these things makes you a better or worse person."
+        },
+        {
+          "scid": "mn96:8.11",
+          "pli": "Uḷārabhogopi hi, brāhmaṇa, idhekacco pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:8.12",
+          "pli": "Tasmā ‘na uḷārabhogatā pāpiyaṃso’ti vadāmi.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:9.1",
+          "pli": "Nāhaṃ, brāhmaṇa, ‘sabbaṃ paricaritabban’ti vadāmi, na panāhaṃ, brāhmaṇa, ‘sabbaṃ na paricaritabban’ti vadāmi.",
+          "en": "Brahmin, I don’t say that you should serve everyone, nor do I say that you shouldn’t serve anyone."
+        },
+        {
+          "scid": "mn96:9.2",
+          "pli": "Yaṃ hissa, brāhmaṇa, paricarato pāricariyāhetu saddhā vaḍḍhati, sīlaṃ vaḍḍhati, sutaṃ vaḍḍhati, cāgo vaḍḍhati, paññā vaḍḍhati, tamahaṃ ‘paricaritabban’ti vadāmi.",
+          "en": "And I say that you should serve someone if serving them makes you grow in faith, ethics, learning, generosity, and wisdom."
+        },
+        {
+          "scid": "mn96:9.3",
+          "pli": "Yaṃ hissa, brāhmaṇa, paricarato pāricariyāhetu na saddhā vaḍḍhati, na sīlaṃ vaḍḍhati, na sutaṃ vaḍḍhati, na cāgo vaḍḍhati, na paññā vaḍḍhati, nāhaṃ taṃ ‘paricaritabban’ti vadāmī”ti.",
+          "en": "I say that you shouldn’t serve someone if serving them doesn’t make you grow in faith, ethics, learning, generosity, and wisdom.”"
+        },
+        {
+          "scid": "mn96:10.1",
+          "pli": "Evaṃ vutte, esukārī brāhmaṇo bhagavantaṃ etadavoca:",
+          "en": "When he had spoken, Esukārī said to him:"
+        },
+        {
+          "scid": "mn96:10.2",
+          "pli": "“brāhmaṇā, bho gotama, cattāri dhanāni paññapenti—",
+          "en": "“Master Gotama, the brahmins prescribe four kinds of wealth:"
+        },
+        {
+          "scid": "mn96:10.3",
+          "pli": "brāhmaṇassa sandhanaṃ paññapenti, khattiyassa sandhanaṃ paññapenti, vessassa sandhanaṃ paññapenti, suddassa sandhanaṃ paññapenti.",
+          "en": "for a brahmin, an aristocrat, a merchant, and a worker."
+        },
+        {
+          "scid": "mn96:10.4",
+          "pli": "Tatridaṃ, bho gotama, brāhmaṇā brāhmaṇassa sandhanaṃ paññapenti bhikkhācariyaṃ;",
+          "en": "The wealth they prescribe for a brahmin is living on alms."
+        },
+        {
+          "scid": "mn96:10.5",
+          "pli": "bhikkhācariyañca pana brāhmaṇo sandhanaṃ atimaññamāno akiccakārī hoti gopova adinnaṃ ādiyamānoti.",
+          "en": "A brahmin who scorns his own wealth, living on alms, fails in his duty like a guard who steals."
+        },
+        {
+          "scid": "mn96:10.6",
+          "pli": "Idaṃ kho, bho gotama, brāhmaṇā brāhmaṇassa sandhanaṃ paññapenti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:10.7",
+          "pli": "Tatridaṃ, bho gotama, brāhmaṇā khattiyassa sandhanaṃ paññapenti dhanukalāpaṃ;",
+          "en": "The wealth they prescribe for an aristocrat is the bow and quiver."
+        },
+        {
+          "scid": "mn96:10.8",
+          "pli": "dhanukalāpañca pana khattiyo sandhanaṃ atimaññamāno akiccakārī hoti gopova adinnaṃ ādiyamānoti.",
+          "en": "An aristocrat who scorns his own wealth, the bow and quiver, fails in his duty like a guard who steals."
+        },
+        {
+          "scid": "mn96:10.9",
+          "pli": "Idaṃ kho, bho gotama, brāhmaṇā khattiyassa sandhanaṃ paññapenti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:10.10",
+          "pli": "Tatridaṃ, bho gotama, brāhmaṇā vessassa sandhanaṃ paññapenti kasigorakkhaṃ;",
+          "en": "The wealth they prescribe for a merchant is farming and animal husbandry."
+        },
+        {
+          "scid": "mn96:10.11",
+          "pli": "kasigorakkhañca pana vesso sandhanaṃ atimaññamāno akiccakārī hoti gopova adinnaṃ ādiyamānoti.",
+          "en": "A merchant who scorns his own wealth, farming and husbandry, fails in his duty like a guard who steals."
+        },
+        {
+          "scid": "mn96:10.12",
+          "pli": "Idaṃ kho, bho gotama, brāhmaṇā vessassa sandhanaṃ paññapenti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:10.13",
+          "pli": "Tatridaṃ, bho gotama, brāhmaṇā suddassa sandhanaṃ paññapenti asitabyābhaṅgiṃ;",
+          "en": "The wealth they prescribe for a merchant is the scythe and flail."
+        },
+        {
+          "scid": "mn96:10.14",
+          "pli": "asitabyābhaṅgiñca pana suddo sandhanaṃ atimaññamāno akiccakārī hoti gopova adinnaṃ ādiyamānoti.",
+          "en": "A merchant who scorns his own wealth, the scythe and flail, fails in his duty like a guard who steals."
+        },
+        {
+          "scid": "mn96:10.15",
+          "pli": "Idaṃ kho, bho gotama, brāhmaṇā suddassa sandhanaṃ paññapenti.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:10.16",
+          "pli": "Brāhmaṇā, bho gotama, imāni cattāri dhanāni paññapenti.",
+          "en": "These are the four kinds of wealth that the brahmins prescribe."
+        },
+        {
+          "scid": "mn96:10.17",
+          "pli": "Idha bhavaṃ gotamo kimāhā”ti?",
+          "en": "What do you say about this?”"
+        },
+        {
+          "scid": "mn96:11.1",
+          "pli": "“Kiṃ pana, brāhmaṇa, sabbo loko brāhmaṇānaṃ etadabbhanujānāti: ‘imāni cattāri dhanāni paññapentū’”ti?",
+          "en": "“But brahmin, did the whole world authorize the brahmins to prescribe these four kinds of wealth?”"
+        },
+        {
+          "scid": "mn96:11.2",
+          "pli": "“No hidaṃ, bho gotama”.",
+          "en": "“No, Master Gotama.”"
+        },
+        {
+          "scid": "mn96:11.3",
+          "pli": "“Seyyathāpi, brāhmaṇa, puriso daliddo assako anāḷhiyo. Tassa akāmassa bilaṃ olaggeyyuṃ: ‘idaṃ te, ambho purisa, maṃsaṃ khāditabbaṃ, mūlañca anuppadātabban’ti.",
+          "en": "“It’s as if they were to force a steak on a poor, penniless person, telling them they must eat it and then pay for it."
+        },
+        {
+          "scid": "mn96:11.4",
+          "pli": "Evameva kho, brāhmaṇa, brāhmaṇā appaṭiññāya tesaṃ samaṇabrāhmaṇānaṃ, atha ca panimāni cattāri dhanāni paññapenti.",
+          "en": "In the same way, the brahmins have prescribed these four kinds of wealth without the consent of these ascetics and brahmins."
+        },
+        {
+          "scid": "mn96:12.1",
+          "pli": "Ariyaṃ kho ahaṃ, brāhmaṇa, lokuttaraṃ dhammaṃ purisassa sandhanaṃ paññapemi.",
+          "en": "I declare that a person’s own wealth is the noble, transcendent teaching."
+        },
+        {
+          "scid": "mn96:12.2",
+          "pli": "Porāṇaṃ kho panassa mātāpettikaṃ kulavaṃsaṃ anussarato yattha yattheva attabhāvassa abhinibbatti hoti tena teneva saṅkhyaṃ gacchati.",
+          "en": "But they are reckoned by recollecting the traditional family lineage of their mother and father wherever they are incarnated."
+        },
+        {
+          "scid": "mn96:12.3",
+          "pli": "Khattiyakule ce attabhāvassa abhinibbatti hoti ‘khattiyo’tveva saṅkhyaṃ gacchati;",
+          "en": "If they incarnate in a family of aristocrats they are reckoned as an aristocrat."
+        },
+        {
+          "scid": "mn96:12.4",
+          "pli": "brāhmaṇakule ce attabhāvassa abhinibbatti hoti ‘brāhmaṇo’tveva saṅkhyaṃ gacchati;",
+          "en": "If they incarnate in a family of brahmins they are reckoned as a brahmin."
+        },
+        {
+          "scid": "mn96:12.5",
+          "pli": "vessakule ce attabhāvassa abhinibbatti hoti ‘vesso’tveva saṅkhyaṃ gacchati;",
+          "en": "If they incarnate in a family of merchants they are reckoned as a merchant."
+        },
+        {
+          "scid": "mn96:12.6",
+          "pli": "suddakule ce attabhāvassa abhinibbatti hoti ‘suddo’tveva saṅkhyaṃ gacchati.",
+          "en": "If they incarnate in a family of workers they are reckoned as a worker."
+        },
+        {
+          "scid": "mn96:12.7",
+          "pli": "Seyyathāpi, brāhmaṇa, yaṃyadeva paccayaṃ paṭicca aggi jalati tena teneva saṅkhyaṃ gacchati.",
+          "en": "It’s like fire, which is reckoned according to the specific conditions dependent upon which it burns."
+        },
+        {
+          "scid": "mn96:12.8",
+          "pli": "Kaṭṭhañce paṭicca aggi jalati ‘kaṭṭhaggi’tveva saṅkhyaṃ gacchati;",
+          "en": "A fire that burns dependent on logs is reckoned as a log fire."
+        },
+        {
+          "scid": "mn96:12.9",
+          "pli": "sakalikañce paṭicca aggi jalati ‘sakalikaggi’tveva saṅkhyaṃ gacchati;",
+          "en": "A fire that burns dependent on twigs is reckoned as a twig fire."
+        },
+        {
+          "scid": "mn96:12.10",
+          "pli": "tiṇañce paṭicca aggi jalati ‘tiṇaggi’tveva saṅkhyaṃ gacchati;",
+          "en": "A fire that burns dependent on grass is reckoned as a grass fire."
+        },
+        {
+          "scid": "mn96:12.11",
+          "pli": "gomayañce paṭicca aggi jalati ‘gomayaggi’tveva saṅkhyaṃ gacchati.",
+          "en": "A fire that burns dependent on cowdung is reckoned as a cowdung fire."
+        },
+        {
+          "scid": "mn96:12.12",
+          "pli": "Evameva kho ahaṃ, brāhmaṇa, ariyaṃ lokuttaraṃ dhammaṃ purisassa sandhanaṃ paññapemi.",
+          "en": "In the same way, I declare that a person’s own wealth is the noble, transcendent teaching."
+        },
+        {
+          "scid": "mn96:12.13",
+          "pli": "Porāṇaṃ kho panassa mātāpettikaṃ kulavaṃsaṃ anussarato yattha yattheva attabhāvassa abhinibbatti hoti tena teneva saṅkhyaṃ gacchati.",
+          "en": "But they are reckoned by recollecting the traditional family lineage of their mother and father wherever they are incarnated."
+        },
+        {
+          "scid": "mn96:12.14",
+          "pli": "Khattiyakule ce attabhāvassa abhinibbatti hoti ‘khattiyo’tveva saṅkhyaṃ gacchati;",
+          "en": ""
+        },
+        {
+          "scid": "mn96:12.15",
+          "pli": "brāhmaṇakule ce attabhāvassa abhinibbatti hoti ‘brāhmaṇo’tveva saṅkhyaṃ gacchati;",
+          "en": ""
+        },
+        {
+          "scid": "mn96:12.16",
+          "pli": "vessakule ce attabhāvassa abhinibbatti hoti ‘vesso’tveva saṅkhyaṃ gacchati;",
+          "en": ""
+        },
+        {
+          "scid": "mn96:12.17",
+          "pli": "suddakule ce attabhāvassa abhinibbatti hoti ‘suddo’tveva saṅkhyaṃ gacchati.",
+          "en": ""
+        },
+        {
+          "scid": "mn96:13.1",
+          "pli": "Khattiyakulā cepi, brāhmaṇa, agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, abrahmacariyā paṭivirato hoti, musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti, anabhijjhālu hoti, abyāpannacitto hoti, sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "Suppose someone from a family of aristocrats goes forth from the lay life to homelessness. Relying on the teaching and training proclaimed by the Realized One they refrain from killing living creatures, stealing, and sex. They refrain from using speech that’s false, divisive, harsh, or nonsensical. And they’re not covetous or malicious, and they have right view. They succeed in the procedure of the skillful teaching."
+        },
+        {
+          "scid": "mn96:13.2",
+          "pli": "Brāhmaṇakulā cepi, brāhmaṇa, agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "Suppose someone from a family of brahmins …"
+        },
+        {
+          "scid": "mn96:13.3",
+          "pli": "Vessakulā cepi, brāhmaṇa, agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "merchants …"
+        },
+        {
+          "scid": "mn96:13.4",
+          "pli": "Suddakulā cepi, brāhmaṇa, agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "workers goes forth from the lay life to homelessness. Relying on the teaching and training proclaimed by the Realized One … they succeed in the procedure of the skillful teaching."
+        },
+        {
+          "scid": "mn96:14.1",
+          "pli": "Taṃ kiṃ maññasi, brāhmaṇa, ",
+          "en": "What do you think, brahmin? "
+        },
+        {
+          "scid": "mn96:14.2",
+          "pli": "brāhmaṇova nu kho pahoti asmiṃ padese averaṃ abyābajjhaṃ mettacittaṃ bhāvetuṃ, no khattiyo no vesso no suddo”ti?",
+          "en": "Is only a brahmin capable of developing a heart of love free of enmity and ill will for this region, and not an aristocrat, merchant, or worker?”"
+        },
+        {
+          "scid": "mn96:14.3",
+          "pli": "“No hidaṃ, bho gotama.",
+          "en": "“No, Master Gotama."
+        },
+        {
+          "scid": "mn96:14.4",
+          "pli": "Khattiyopi hi, bho gotama, pahoti asmiṃ padese averaṃ abyābajjhaṃ mettacittaṃ bhāvetuṃ;",
+          "en": "Aristocrats, brahmins, merchants, and workers can all do so."
+        },
+        {
+          "scid": "mn96:14.5",
+          "pli": "brāhmaṇopi hi, bho gotama …",
+          "en": ""
+        },
+        {
+          "scid": "mn96:14.6",
+          "pli": "vessopi hi, bho gotama …",
+          "en": ""
+        },
+        {
+          "scid": "mn96:14.7",
+          "pli": "suddopi hi, bho gotama …",
+          "en": ""
+        },
+        {
+          "scid": "mn96:14.8",
+          "pli": "sabbepi hi, bho gotama, cattāro vaṇṇā pahonti asmiṃ padese averaṃ abyābajjhaṃ mettacittaṃ bhāvetun”ti.",
+          "en": "For all four classes are capable of developing a heart of love free of enmity and ill will for this region.”"
+        },
+        {
+          "scid": "mn96:14.9",
+          "pli": "“Evameva kho, brāhmaṇa, khattiyakulā cepi agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "“In the same way, suppose someone from a family of aristocrats,"
+        },
+        {
+          "scid": "mn96:14.10",
+          "pli": "Brāhmaṇakulā cepi, brāhmaṇa …",
+          "en": "brahmins,"
+        },
+        {
+          "scid": "mn96:14.11",
+          "pli": "vessakulā cepi, brāhmaṇa …",
+          "en": "merchants,"
+        },
+        {
+          "scid": "mn96:14.12",
+          "pli": "suddakulā cepi, brāhmaṇa, agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "or workers goes forth from the lay life to homelessness. Relying on the teaching and training proclaimed by the Realized One … they succeed in the procedure of the skillful teaching."
+        },
+        {
+          "scid": "mn96:15.1",
+          "pli": "Taṃ kiṃ maññasi, brāhmaṇa, ",
+          "en": "“What do you think, brahmin? "
+        },
+        {
+          "scid": "mn96:15.2",
+          "pli": "brāhmaṇova nu kho pahoti sottisināniṃ ādāya nadiṃ gantvā rajojallaṃ pavāhetuṃ, no khattiyo no vesso no suddo”ti?",
+          "en": "Is only a brahmin capable of taking some bathing paste of powdered shell, going to the river, and washing off dust and dirt, and not an aristocrat, merchant, or worker?”"
+        },
+        {
+          "scid": "mn96:15.3",
+          "pli": "“No hidaṃ, bho gotama.",
+          "en": "“No, Master Gotama."
+        },
+        {
+          "scid": "mn96:15.4",
+          "pli": "Khattiyopi hi, bho gotama, pahoti sottisināniṃ ādāya nadiṃ gantvā rajojallaṃ pavāhetuṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn96:15.5",
+          "pli": "brāhmaṇopi hi, bho gotama …",
+          "en": ""
+        },
+        {
+          "scid": "mn96:15.6",
+          "pli": "vessopi hi, bho gotama …",
+          "en": ""
+        },
+        {
+          "scid": "mn96:15.7",
+          "pli": "suddopi hi, bho gotama …",
+          "en": ""
+        },
+        {
+          "scid": "mn96:15.8",
+          "pli": "sabbepi hi, bho gotama, cattāro vaṇṇā pahonti sottisināniṃ ādāya nadiṃ gantvā rajojallaṃ pavāhetun”ti.",
+          "en": "All four classes are capable of doing this.”"
+        },
+        {
+          "scid": "mn96:15.9",
+          "pli": "“Evameva kho, brāhmaṇa, khattiyakulā cepi agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "“In the same way, suppose someone from a family of aristocrats,"
+        },
+        {
+          "scid": "mn96:15.10",
+          "pli": "Brāhmaṇakulā cepi, brāhmaṇa …",
+          "en": "brahmins,"
+        },
+        {
+          "scid": "mn96:15.11",
+          "pli": "vessakulā cepi, brāhmaṇa …",
+          "en": "merchants,"
+        },
+        {
+          "scid": "mn96:15.12",
+          "pli": "suddakulā cepi, brāhmaṇa, agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "or workers goes forth from the lay life to homelessness. Relying on the teaching and training proclaimed by the Realized One … they succeed in the procedure of the skillful teaching."
+        },
+        {
+          "scid": "mn96:16.1",
+          "pli": "Taṃ kiṃ maññasi, brāhmaṇa, ",
+          "en": "What do you think, brahmin? "
+        },
+        {
+          "scid": "mn96:16.2",
+          "pli": "idha rājā khattiyo muddhāvasitto nānājaccānaṃ purisānaṃ purisasataṃ sannipāteyya:",
+          "en": "Suppose an anointed aristocratic king were to gather a hundred people born in different castes and say to them:"
+        },
+        {
+          "scid": "mn96:16.3",
+          "pli": "‘āyantu bhonto ye tattha khattiyakulā brāhmaṇakulā rājaññakulā uppannā sākassa vā sālassa vā salaḷassa vā candanassa vā padumakassa vā uttarāraṇiṃ ādāya aggiṃ abhinibbattentu, tejo pātukarontu;",
+          "en": "‘Please gentlemen, let anyone here who was born in a family of aristocrats, brahmins, or chieftans take a drill-stick made of teak, sal, frankincense wood, sandalwood, or cherry wood, light a fire and produce heat."
+        },
+        {
+          "scid": "mn96:16.4",
+          "pli": "āyantu pana bhonto ye tattha caṇḍālakulā nesādakulā venakulā rathakārakulā pukkusakulā uppannā sāpānadoṇiyā vā sūkaradoṇiyā vā rajakadoṇiyā vā eraṇḍakaṭṭhassa vā uttarāraṇiṃ ādāya aggiṃ abhinibbattentu, tejo pātukarontū’”ti?",
+          "en": "And let anyone here who was born in a family of outcastes, hunters, bamboo-workers, chariot-makers, or waste-collectors take a drill-stick made from a dog’s drinking trough, a pig’s trough, a dustbin, or castor-oil wood, light a fire and produce heat.’"
+        },
+        {
+          "scid": "mn96:16.5",
+          "pli": "“Taṃ kiṃ maññasi, brāhmaṇa, ",
+          "en": "What do you think, brahmin? "
+        },
+        {
+          "scid": "mn96:16.6",
+          "pli": "yo evaṃ nu kho so khattiyakulā brāhmaṇakulā rājaññakulā uppannehi sākassa vā sālassa vā salaḷassa vā candanassa vā padumakassa vā uttarāraṇiṃ ādāya aggi abhinibbatto tejo pātukato so eva nu khvāssa aggi accimā ceva vaṇṇavā ca pabhassaro ca tena ca sakkā agginā aggikaraṇīyaṃ kātuṃ;",
+          "en": "Would only the fire produced by the high class people with good quality wood have flames, color, and radiance, and be usable as fire,"
+        },
+        {
+          "scid": "mn96:16.7",
+          "pli": "yo pana so caṇḍālakulā nesādakulā venakulā rathakārakulā pukkusakulā uppannehi sāpānadoṇiyā vā sūkaradoṇiyā vā rajakadoṇiyā vā eraṇḍakaṭṭhassa vā uttarāraṇiṃ ādāya aggi abhinibbatto tejo pātukato svāssa aggi na ceva accimā na ca vaṇṇavā na ca pabhassaro na ca tena sakkā agginā aggikaraṇīyaṃ kātun”ti?",
+          "en": "and not the fire produced by the low class people with poor quality wood?”"
+        },
+        {
+          "scid": "mn96:16.8",
+          "pli": "“No hidaṃ, bho gotama.",
+          "en": "“No, Master Gotama."
+        },
+        {
+          "scid": "mn96:16.9",
+          "pli": "Yopi hi so, bho gotama, khattiyakulā brāhmaṇakulā rājaññakulā uppannehi sākassa vā sālassa vā salaḷassa vā candanassa vā padumakassa vā uttarāraṇiṃ ādāya aggi abhinibbatto tejo pātukato svāssa aggi accimā ceva vaṇṇavā ca pabhassaro ca tena ca sakkā agginā aggikaraṇīyaṃ kātuṃ;",
+          "en": "The fire produced by the high class people with good quality wood would have flames, color, and radiance, and be usable as fire,"
+        },
+        {
+          "scid": "mn96:16.10",
+          "pli": "yopi so caṇḍālakulā nesādakulā venakulā rathakārakulā pukkusakulā uppannehi sāpānadoṇiyā vā sūkaradoṇiyā vā rajakadoṇiyā vā eraṇḍakaṭṭhassa vā uttarāraṇiṃ ādāya aggi abhinibbatto tejo pātukato svāssa aggi accimā ceva vaṇṇavā ca pabhassaro ca tena ca sakkā agginā aggikaraṇīyaṃ kātuṃ.",
+          "en": "and so would the fire produced by the low class people with poor quality wood."
+        },
+        {
+          "scid": "mn96:16.11",
+          "pli": "Sabbopi hi, bho gotama, aggi accimā ceva vaṇṇavā ca pabhassaro ca sabbenapi sakkā agginā aggikaraṇīyaṃ kātun”ti.",
+          "en": "For all fire has flames, color, and radiance, and is usable as fire.”"
+        },
+        {
+          "scid": "mn96:16.12",
+          "pli": "“Evameva kho, brāhmaṇa, khattiyakulā cepi agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti … pe … sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+          "en": "“In the same way, suppose someone from a family of aristocrats,"
+        },
+        {
+          "scid": "mn96:16.13",
+          "pli": "Brāhmaṇakulā cepi, brāhmaṇa …",
+          "en": "brahmins,"
+        },
+        {
+          "scid": "mn96:16.14",
+          "pli": "vessakulā cepi, brāhmaṇa …",
+          "en": "merchants,"
+        },
+        {
+          "scid": "mn96:16.15",
+          "pli": "suddakulā cepi, brāhmaṇa, agārasmā anagāriyaṃ pabbajito hoti, so ca tathāgatappaveditaṃ dhammavinayaṃ āgamma pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, abrahmacariyā paṭivirato hoti, musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti, anabhijjhālu hoti, abyāpannacitto hoti, sammādiṭṭhi hoti, ārādhako hoti ñāyaṃ dhammaṃ kusalan”ti.",
+          "en": "or workers goes forth from the lay life to homelessness. Relying on the teaching and training proclaimed by the Realized One they refrain from killing living creatures, stealing, and sex. They refrain from using speech that’s false, divisive, harsh, or nonsensical. And they’re not covetous or malicious, and they have right view. They succeed in the procedure of the skillful teaching.”"
+        },
+        {
+          "scid": "mn96:17.1",
+          "pli": "Evaṃ vutte, esukārī brāhmaṇo bhagavantaṃ etadavoca:",
+          "en": "When he had spoken, Esukārī said to him:"
+        },
+        {
+          "scid": "mn96:17.2",
+          "pli": "“abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama … pe …",
+          "en": "“Excellent, Master Gotama! Excellent! …"
+        },
+        {
+          "scid": "mn96:17.3",
+          "pli": "upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "mn96:17.4",
+          "pli": "Esukārīsuttaṃ niṭṭhitaṃ chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn96/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 96",
+    "volpages": "MN ii 177",
+    "uid": "mn96",
+    "blurb": "A brahmin claims that one deserves service and privilege depending on caste, but the Buddha counters that it is conduct, not caste, that show a person’s worth.",
+    "difficulty": 2,
+    "original_title": "Esukārī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Esukārī",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn96_sujato",
+        "segmented": true,
+        "title": "With Esukārī"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 6
+  }
+}

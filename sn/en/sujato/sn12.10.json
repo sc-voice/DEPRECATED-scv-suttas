@@ -1,0 +1,360 @@
+{
+  "sutta_uid": "sn12.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Gotama",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fuel",
+      "uid": "sn12.11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kassapa",
+      "uid": "sn12.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.10:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.10:0.2",
+          "pli": "1. Buddhavagga",
+          "en": "1. The Buddhas"
+        },
+        {
+          "scid": "sn12.10:0.3",
+          "pli": "10. Gotamasutta",
+          "en": "10. Gotama"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.10:1.1",
+          "pli": "“Pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi:",
+          "en": "“Mendicants, before my awakening—when I was still unawakened but intent on awakening—I thought:"
+        },
+        {
+          "scid": "sn12.10:1.2",
+          "pli": "‘kicchaṃ vatāyaṃ loko āpanno jāyati ca jīyati ca mīyati ca cavati ca upapajjati ca.",
+          "en": "‘Alas, this world has fallen into trouble. It’s born, grows old, dies, passes away, and is reborn,"
+        },
+        {
+          "scid": "sn12.10:1.3",
+          "pli": "Atha ca panimassa dukkhassa nissaraṇaṃ nappajānāti jarāmaraṇassa.",
+          "en": "yet it doesn’t understand how to escape from this suffering, from old age and death."
+        },
+        {
+          "scid": "sn12.10:1.4",
+          "pli": "Kudāssu nāma imassa dukkhassa nissaraṇaṃ paññāyissati jarāmaraṇassā’ti?",
+          "en": "Oh, when will an escape be found from this suffering, from old age and death?’"
+        },
+        {
+          "scid": "sn12.10:2.1",
+          "pli": "Tassa mayhaṃ, bhikkhave, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "sn12.10:2.2",
+          "pli": "‘kimhi nu kho sati jarāmaraṇaṃ hoti, kiṃpaccayā jarāmaraṇan’ti?",
+          "en": "‘When what exists is there old age and death? What is a condition for old age and death?’"
+        },
+        {
+          "scid": "sn12.10:2.3",
+          "pli": "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:",
+          "en": "Then, through proper attention, I comprehended with wisdom:"
+        },
+        {
+          "scid": "sn12.10:2.4",
+          "pli": "‘jātiyā kho sati jarāmaraṇaṃ hoti, jātipaccayā jarāmaraṇan’ti.",
+          "en": "‘When rebirth exists there’s old age and death. Rebirth is a condition for old age and death.’"
+        },
+        {
+          "scid": "sn12.10:3.1",
+          "pli": "Tassa mayhaṃ, bhikkhave, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "sn12.10:3.2",
+          "pli": "‘kimhi nu kho sati jāti hoti … pe …",
+          "en": "‘When what exists is there rebirth? …"
+        },
+        {
+          "scid": "sn12.10:3.3",
+          "pli": "bhavo …",
+          "en": "continued existence …"
+        },
+        {
+          "scid": "sn12.10:3.4",
+          "pli": "upādānaṃ …",
+          "en": "grasping …"
+        },
+        {
+          "scid": "sn12.10:3.5",
+          "pli": "taṇhā …",
+          "en": "craving …"
+        },
+        {
+          "scid": "sn12.10:3.6",
+          "pli": "vedanā …",
+          "en": "feeling …"
+        },
+        {
+          "scid": "sn12.10:3.7",
+          "pli": "phasso …",
+          "en": "contact …"
+        },
+        {
+          "scid": "sn12.10:3.8",
+          "pli": "saḷāyatanaṃ …",
+          "en": "the six sense fields …"
+        },
+        {
+          "scid": "sn12.10:3.9",
+          "pli": "nāmarūpaṃ …",
+          "en": "name and form …"
+        },
+        {
+          "scid": "sn12.10:3.10",
+          "pli": "viññāṇaṃ …",
+          "en": "consciousness …"
+        },
+        {
+          "scid": "sn12.10:3.11",
+          "pli": "saṅkhārā honti, kiṃpaccayā saṅkhārā’ti?",
+          "en": "‘When what exists are there choices? What is a condition for choices?’"
+        },
+        {
+          "scid": "sn12.10:3.12",
+          "pli": "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:",
+          "en": "Then, through proper attention, I comprehended with wisdom:"
+        },
+        {
+          "scid": "sn12.10:3.13",
+          "pli": "‘avijjāya kho sati saṅkhārā honti, avijjāpaccayā saṅkhārā’ti.",
+          "en": "‘When ignorance exists there are choices. Ignorance is a condition for choices.’"
+        },
+        {
+          "scid": "sn12.10:4.1",
+          "pli": "Iti hidaṃ avijjāpaccayā saṅkhārā;",
+          "en": "And so, ignorance is a condition for choices."
+        },
+        {
+          "scid": "sn12.10:4.2",
+          "pli": "saṅkhārapaccayā viññāṇaṃ … pe …",
+          "en": "Choices are a condition for consciousness. …"
+        },
+        {
+          "scid": "sn12.10:4.3",
+          "pli": "evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "sn12.10:4.4",
+          "pli": "‘Samudayo, samudayo’ti kho me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.",
+          "en": "‘Origination, origination.’ Such was the vision, knowledge, wisdom, realization, and light that arose in me regarding teachings not learned before from another."
+        },
+        {
+          "scid": "sn12.10:5.1",
+          "pli": "Tassa mayhaṃ, bhikkhave, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "sn12.10:5.2",
+          "pli": "‘kimhi nu kho asati jarāmaraṇaṃ na hoti, kissa nirodhā jarāmaraṇanirodho’ti?",
+          "en": "‘When what doesn’t exist is there no old age and death? When what ceases do old age and death cease?’"
+        },
+        {
+          "scid": "sn12.10:5.3",
+          "pli": "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:",
+          "en": "Then, through proper attention, I comprehended with wisdom:"
+        },
+        {
+          "scid": "sn12.10:5.4",
+          "pli": "‘jātiyā kho asati jarāmaraṇaṃ na hoti, jātinirodhā jarāmaraṇanirodho’ti.",
+          "en": "‘When rebirth doesn’t exist there’s no old age and death? When rebirth ceases, old age and death cease.’"
+        },
+        {
+          "scid": "sn12.10:6.1",
+          "pli": "Tassa mayhaṃ, bhikkhave, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "sn12.10:6.2",
+          "pli": "‘kimhi nu kho asati jāti na hoti … pe …",
+          "en": "‘When what doesn’t exist is there no rebirth? …"
+        },
+        {
+          "scid": "sn12.10:6.3",
+          "pli": "bhavo …",
+          "en": "continued existence …"
+        },
+        {
+          "scid": "sn12.10:6.4",
+          "pli": "upādānaṃ …",
+          "en": "grasping …"
+        },
+        {
+          "scid": "sn12.10:6.5",
+          "pli": "taṇhā …",
+          "en": "craving …"
+        },
+        {
+          "scid": "sn12.10:6.6",
+          "pli": "vedanā …",
+          "en": "feeling …"
+        },
+        {
+          "scid": "sn12.10:6.7",
+          "pli": "phasso …",
+          "en": "contact …"
+        },
+        {
+          "scid": "sn12.10:6.8",
+          "pli": "saḷāyatanaṃ …",
+          "en": "the six sense fields …"
+        },
+        {
+          "scid": "sn12.10:6.9",
+          "pli": "nāmarūpaṃ …",
+          "en": "name and form …"
+        },
+        {
+          "scid": "sn12.10:6.10",
+          "pli": "viññāṇaṃ …",
+          "en": "consciousness …"
+        },
+        {
+          "scid": "sn12.10:6.11",
+          "pli": "saṅkhārā na honti, kissa nirodhā saṅkhāranirodho’ti?",
+          "en": "‘When what doesn’t exist are there no choices? When what ceases do choices cease?’"
+        },
+        {
+          "scid": "sn12.10:6.12",
+          "pli": "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:",
+          "en": "Then, through proper attention, I comprehended with wisdom:"
+        },
+        {
+          "scid": "sn12.10:6.13",
+          "pli": "‘avijjāya kho asati saṅkhārā na honti, avijjānirodhā saṅkhāranirodho’ti.",
+          "en": "‘When ignorance doesn’t exist there are no choices. When ignorance ceases, choices cease.’"
+        },
+        {
+          "scid": "sn12.10:7.1",
+          "pli": "Iti hidaṃ avijjānirodhā saṅkhāranirodho;",
+          "en": "And so, when ignorance ceases, choices cease."
+        },
+        {
+          "scid": "sn12.10:7.2",
+          "pli": "saṅkhāranirodhā viññāṇanirodho … pe …",
+          "en": "When choices cease, consciousness ceases. …"
+        },
+        {
+          "scid": "sn12.10:7.3",
+          "pli": "evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+          "en": "That is how this entire mass of suffering ceases."
+        },
+        {
+          "scid": "sn12.10:7.4",
+          "pli": "‘Nirodho, nirodho’ti kho me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādī”ti.",
+          "en": "‘Cessation, cessation.’ Such was the vision, knowledge, wisdom, realization, and light that arose in me regarding teachings not learned before from another.”"
+        },
+        {
+          "scid": "sn12.10:7.5",
+          "pli": "Dasamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn12.10:7.6",
+          "pli": "Buddhavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn12.10:8.1",
+          "pli": "Desanā vibhaṅgapaṭipadā ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn12.10:8.2",
+          "pli": "Vipassī sikhī ca vessabhū;",
+          "en": ""
+        },
+        {
+          "scid": "sn12.10:8.3",
+          "pli": "Kakusandho koṇāgamano kassapo,",
+          "en": ""
+        },
+        {
+          "scid": "sn12.10:8.4",
+          "pli": "Mahāsakyamuni ca gotamoti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.10",
+    "volpages": "SN ii 10",
+    "uid": "sn12.10",
+    "blurb": "The current Buddha Gotama, reflecting on how the world had fallen into suffering, became awakened by understanding dependent origination.",
+    "difficulty": null,
+    "original_title": "Gotama Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Gotama",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.10_sujato",
+        "segmented": true,
+        "title": "Gotama"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 10
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "sutta_uid": "an4.110",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.110",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Vipers",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kesi",
+      "uid": "an4.111"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Trees",
+      "uid": "an4.109"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.110:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.110:0.2",
+          "pli": "11. Valāhakavagga",
+          "en": "11. Clouds"
+        },
+        {
+          "scid": "an4.110:0.3",
+          "pli": "110. Āsīvisasutta",
+          "en": "110. Vipers"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.110:1.1",
+          "pli": "“Cattārome, bhikkhave, āsīvisā.",
+          "en": "“Mendicants, there are these four kinds of viper."
+        },
+        {
+          "scid": "an4.110:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.110:1.3",
+          "pli": "Āgataviso na ghoraviso, ghoraviso na āgataviso, āgataviso ca ghoraviso ca, nevāgataviso na ghoraviso—",
+          "en": "<ol><li>One whose venom is fact-acting but not lethal, </li><li>one whose venom is lethal but not fast-acting, </li><li>one whose venom is both fast-acting and lethal, and </li><li>one whose venom is neither fast-acting nor lethal.</li></ol>"
+        },
+        {
+          "scid": "an4.110:1.4",
+          "pli": "ime kho, bhikkhave, cattāro āsīvisā.",
+          "en": "These are the four kinds of viper."
+        },
+        {
+          "scid": "an4.110:1.5",
+          "pli": "Evamevaṃ kho, bhikkhave, cattāro āsīvisūpamā puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "In the same way, these four people similar to vipers are found in the world."
+        },
+        {
+          "scid": "an4.110:1.6",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.110:1.7",
+          "pli": "Āgataviso na ghoraviso, ghoraviso na āgataviso, āgataviso ca ghoraviso ca, nevāgataviso na ghoraviso.",
+          "en": "<ol><li>One whose venom is fact-acting but not lethal, </li><li>one whose venom is lethal but not fast-acting, </li><li>one whose venom is both fast-acting and lethal, and </li><li>one whose venom is neither fast-acting nor lethal.</li></ol>"
+        },
+        {
+          "scid": "an4.110:2.1",
+          "pli": "Kathañca, bhikkhave, puggalo āgataviso hoti, na ghoraviso?",
+          "en": "And how is a person’s venom fast-acting but not lethal?"
+        },
+        {
+          "scid": "an4.110:2.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati.",
+          "en": "It’s when a person is often angry,"
+        },
+        {
+          "scid": "an4.110:2.3",
+          "pli": "So ca khvassa kodho na dīgharattaṃ anuseti.",
+          "en": "but their anger doesn’t linger long."
+        },
+        {
+          "scid": "an4.110:2.4",
+          "pli": "Evaṃ kho, bhikkhave, puggalo āgataviso hoti, na ghoraviso.",
+          "en": "That’s how a person’s venom is fast-acting but not lethal."
+        },
+        {
+          "scid": "an4.110:2.5",
+          "pli": "Seyyathāpi so, bhikkhave, āsīviso āgataviso, na ghoraviso;",
+          "en": "That person is like a viper whose venom is fast-acting but not lethal."
+        },
+        {
+          "scid": "an4.110:2.6",
+          "pli": "tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:3.1",
+          "pli": "Kathañca, bhikkhave, puggalo ghoraviso hoti, na āgataviso?",
+          "en": "And how is a person’s venom lethal but not fast-acting?"
+        },
+        {
+          "scid": "an4.110:3.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo na heva kho abhiṇhaṃ kujjhati.",
+          "en": "It’s when a person is not often angry,"
+        },
+        {
+          "scid": "an4.110:3.3",
+          "pli": "So ca khvassa kodho dīgharattaṃ anuseti.",
+          "en": "but their anger lingers for a long time."
+        },
+        {
+          "scid": "an4.110:3.4",
+          "pli": "Evaṃ kho, bhikkhave, puggalo ghoraviso hoti, na āgataviso.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:3.5",
+          "pli": "Seyyathāpi so, bhikkhave, āsīviso ghoraviso, na āgataviso;",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:3.6",
+          "pli": "tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:4.1",
+          "pli": "Kathañca, bhikkhave, puggalo āgataviso ca hoti ghoraviso ca?",
+          "en": "And how is a person’s venom both fast-acting and lethal?"
+        },
+        {
+          "scid": "an4.110:4.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati.",
+          "en": "It’s when a person is often angry,"
+        },
+        {
+          "scid": "an4.110:4.3",
+          "pli": "So ca khvassa kodho dīgharattaṃ anuseti.",
+          "en": "and their anger lingers for a long time."
+        },
+        {
+          "scid": "an4.110:4.4",
+          "pli": "Evaṃ kho, bhikkhave, puggalo āgataviso ca hoti ghoraviso ca.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:4.5",
+          "pli": "Seyyathāpi so, bhikkhave, āsīviso āgataviso ca ghoraviso ca;",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:4.6",
+          "pli": "tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:5.1",
+          "pli": "Kathañca, bhikkhave, puggalo nevāgataviso hoti na ghoraviso?",
+          "en": "And how is a person’s venom neither fast-acting nor lethal?"
+        },
+        {
+          "scid": "an4.110:5.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo na heva kho abhiṇhaṃ kujjhati.",
+          "en": "It’s when a person is not often angry,"
+        },
+        {
+          "scid": "an4.110:5.3",
+          "pli": "So ca khvassa kodho na dīgharattaṃ anuseti.",
+          "en": "and their anger doesn’t linger long."
+        },
+        {
+          "scid": "an4.110:5.4",
+          "pli": "Evaṃ kho, bhikkhave, puggalo nevāgataviso hoti, na ghoraviso.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:5.5",
+          "pli": "Seyyathāpi so, bhikkhave, āsīviso nevāgataviso na ghoraviso;",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:5.6",
+          "pli": "tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:5.7",
+          "pli": "Ime kho, bhikkhave, cattāro āsīvisūpamā puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "These four people similar to vipers are found in the world.”"
+        },
+        {
+          "scid": "an4.110:5.8",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:5.9",
+          "pli": "Valāhakavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:6.1",
+          "pli": "Dve valāhā kumbha udaka,",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:6.2",
+          "pli": "rahadā dve honti ambāni;",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:6.3",
+          "pli": "Mūsikā balībaddā rukkhā,",
+          "en": ""
+        },
+        {
+          "scid": "an4.110:6.4",
+          "pli": "āsīvisena te dasāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.110/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.110",
+    "volpages": "AN ii 110",
+    "uid": "an4.110",
+    "blurb": "Four people similar to vipers.",
+    "difficulty": null,
+    "original_title": "Āsīvisa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vipers",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.110_sujato",
+        "segmented": true,
+        "title": "Vipers"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

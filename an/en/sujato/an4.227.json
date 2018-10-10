@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an4.227",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.227",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Kinds of Expression (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kinds of Expression (2nd)",
+      "uid": "an4.228"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Path (2nd)",
+      "uid": "an4.226"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.227:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.227:0.2",
+          "pli": "23. Duccaritavagga",
+          "en": "23. Bad Conduct"
+        },
+        {
+          "scid": "an4.227:0.3",
+          "pli": "227. Paṭhamavohārapathasutta",
+          "en": "227. Kinds of Expression (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.227:1.1",
+          "pli": "… pe … Adiṭṭhe diṭṭhavādī hoti, asute sutavādī hoti, amute mutavādī hoti, aviññāte viññātavādī hoti … pe … adiṭṭhe adiṭṭhavādī hoti, asute asutavādī hoti, amute amutavādī hoti, aviññāte aviññātavādī hoti … pe ….",
+          "en": "“A foolish person … makes much bad karma. … They say they’ve seen, heard, thought, or cognized something, but they haven’t. … An astute person … makes much merit. … They say they haven’t seen, heard, thought, or cognized something, and they haven’t. …”"
+        },
+        {
+          "scid": "an4.227:1.2",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“A foolish person … makes much bad…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.227/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.227//AN 4.226",
+    "volpages": "AN ii 229",
+    "uid": "an4.227",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paṭhamavohārapatha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kinds of Expression (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.227_sujato",
+        "segmented": true,
+        "title": "Kinds of Expression (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

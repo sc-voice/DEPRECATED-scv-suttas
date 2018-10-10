@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn14.30",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn14.30",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Four Elements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Before Awakening",
+      "uid": "sn14.31"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ten Factored Path",
+      "uid": "sn14.29"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn14.30:0.1",
+          "pli": "Saṃyutta Nikāya 14",
+          "en": "Linked Discourses 14"
+        },
+        {
+          "scid": "sn14.30:0.2",
+          "pli": "4. Catutthavagga",
+          "en": "4. The Fourth Chapter"
+        },
+        {
+          "scid": "sn14.30:0.3",
+          "pli": "30. Catudhātusutta",
+          "en": "30. Four Elements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 14…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn14.30:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme …",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. …"
+        },
+        {
+          "scid": "sn14.30:1.2",
+          "pli": "“catasso imā, bhikkhave, dhātuyo.",
+          "en": "“Mendicants, there are these four elements."
+        },
+        {
+          "scid": "sn14.30:1.3",
+          "pli": "Katamā catasso?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn14.30:1.4",
+          "pli": "Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu—",
+          "en": "The elements of earth, water, fire, and air."
+        },
+        {
+          "scid": "sn14.30:1.5",
+          "pli": "imā kho, bhikkhave, catasso dhātuyo”ti.",
+          "en": "These are the four elements.”"
+        },
+        {
+          "scid": "sn14.30:1.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn14.30/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 14.30",
+    "volpages": "SN ii 169",
+    "uid": "sn14.30",
+    "blurb": "The four material elements of earth, water, heat, and air. Note that “air” is close in meaning to “wind”.",
+    "difficulty": null,
+    "original_title": "Catudhātu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Four Elements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn14.30_sujato",
+        "segmented": true,
+        "title": "Four Elements"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

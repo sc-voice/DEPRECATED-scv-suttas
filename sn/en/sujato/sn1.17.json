@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn1.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Hard to Do",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Conscience",
+      "uid": "sn1.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sleepiness and Sloth",
+      "uid": "sn1.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.17:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.17:0.2",
+          "pli": "2. Nandanavagga",
+          "en": "2. The Garden of Delight"
+        },
+        {
+          "scid": "sn1.17:0.3",
+          "pli": "17. Dukkarasutta",
+          "en": "17. Hard to Do"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.17:1.1",
+          "pli": "“Dukkaraṃ duttitikkhañca,",
+          "en": "“Hard to do, hard to endure,"
+        },
+        {
+          "scid": "sn1.17:1.2",
+          "pli": "abyattena ca sāmaññaṃ;",
+          "en": "is the ascetic life for the inept,"
+        },
+        {
+          "scid": "sn1.17:1.3",
+          "pli": "Bahūhi tattha sambādhā,",
+          "en": "for it has many narrow passes"
+        },
+        {
+          "scid": "sn1.17:1.4",
+          "pli": "yattha bālo visīdatī”ti.",
+          "en": "where the fool founders.”"
+        },
+        {
+          "scid": "sn1.17:2.1",
+          "pli": "“Katihaṃ careyya sāmaññaṃ,",
+          "en": "“How many days could an ascetic live"
+        },
+        {
+          "scid": "sn1.17:2.2",
+          "pli": "cittañce na nivāraye;",
+          "en": "without controlling the mind?"
+        },
+        {
+          "scid": "sn1.17:2.3",
+          "pli": "Pade pade visīdeyya,",
+          "en": "They’d founder with each step,"
+        },
+        {
+          "scid": "sn1.17:2.4",
+          "pli": "saṅkappānaṃ vasānugoti.",
+          "en": "under the sway of thoughts."
+        },
+        {
+          "scid": "sn1.17:3.1",
+          "pli": "Kummova aṅgāni sake kapāle,",
+          "en": "A mendicant should collect their thoughts"
+        },
+        {
+          "scid": "sn1.17:3.2",
+          "pli": "Samodahaṃ bhikkhu manovitakke;",
+          "en": "as a tortoise draws its limbs into its shell."
+        },
+        {
+          "scid": "sn1.17:3.3",
+          "pli": "Anissito aññamaheṭhayāno,",
+          "en": "Independent, not disturbing others,"
+        },
+        {
+          "scid": "sn1.17:3.4",
+          "pli": "Parinibbuto nūpavadeyya kañcī”ti.",
+          "en": "someone who’s extinguished wouldn’t blame anyone.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Hard to do…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.17//SN 17",
+    "volpages": "SN i 7//SN i 15",
+    "uid": "sn1.17",
+    "blurb": "Life is hard for an unrestrained ascetic; they should draw in their thoughts like a tortoise.",
+    "difficulty": null,
+    "original_title": "Dukkara Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Hard to Do",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.17_sujato",
+        "segmented": true,
+        "title": "Hard to Do"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.17_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Difficult to Practise"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 7
+  }
+}

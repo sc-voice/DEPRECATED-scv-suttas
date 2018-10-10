@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn35.66",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.66",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Samiddhi’s Question About a Sentient Being",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Samiddhi’s Question About Suffering",
+      "uid": "sn35.67"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Samiddhi’s Question About Māra (1st)",
+      "uid": "sn35.65"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.66:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.66:0.2",
+          "pli": "7. Migajālavagga",
+          "en": "7. With Migajāla"
+        },
+        {
+          "scid": "sn35.66:0.3",
+          "pli": "66. Samiddhisattapañhāsutta",
+          "en": "66. Samiddhi’s Question About a Sentient Being"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.66:1.1",
+          "pli": "“‘Satto, satto’ti, bhante, vuccati.",
+          "en": "“Sir, they speak of this thing called a ‘sentient being’."
+        },
+        {
+          "scid": "sn35.66:1.2",
+          "pli": "Kittāvatā nu kho, bhante, satto vā assa sattapaññatti vā”ti … pe ….",
+          "en": "How do we define a sentient being or what is known as a sentient being?” …"
+        },
+        {
+          "scid": "sn35.66:1.3",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Sir…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.66/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.66",
+    "volpages": "SN iv 39",
+    "uid": "sn35.66",
+    "blurb": "Venerable Samiddhi asks the Buddha what a “sentient being” is. The Buddha says that that Māra is present so long as the senses exist.",
+    "difficulty": null,
+    "original_title": "Samiddhisattapañhā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Samiddhi’s Question About a Sentient Being",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.66_sujato",
+        "segmented": true,
+        "title": "Samiddhi’s Question About a Sentient Being"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.66_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Samiddhi (2)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 4
+  }
+}

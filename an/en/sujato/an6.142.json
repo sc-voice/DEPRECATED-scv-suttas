@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "an6.142",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.142",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an6.143-169"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an6.141"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.142:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.142:0.2",
+          "pli": "13. Rāgapeyyāla",
+          "en": "13. Abbreviated Texts Beginning with Greed"
+        },
+        {
+          "scid": "an6.142:0.3",
+          "pli": "142",
+          "en": "142"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.142:1.1",
+          "pli": "“Rāgassa, bhikkhave, abhiññāya cha dhammā bhāvetabbā.",
+          "en": "“For insight into greed, six things should be developed."
+        },
+        {
+          "scid": "an6.142:1.2",
+          "pli": "Katame cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.142:1.3",
+          "pli": "Aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā, nirodhasaññā.",
+          "en": "The perception of impermanence, the perception of suffering in impermanence, the perception of not-self in suffering, the perception of giving up, the perception of fading away, and the perception of cessation."
+        },
+        {
+          "scid": "an6.142:1.4",
+          "pli": "Rāgassa, bhikkhave, abhiññāya ime cha dhammā bhāvetabbā”ti.",
+          "en": "For insight into greed, these six things should be developed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“For insight into greed…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.142/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.142//AN 6.123",
+    "volpages": "AN iii 452",
+    "uid": "an6.142",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.142_sujato",
+        "segmented": true,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

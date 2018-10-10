@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "sn35.143",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.143",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Exterior and Cause Are Impermanent",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Exterior and Cause Are Suffering",
+      "uid": "sn35.144"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Interior and Cause Are Not-Self",
+      "uid": "sn35.142"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.143:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.143:0.2",
+          "pli": "14. Devadahavagga",
+          "en": "14. At Devadaha"
+        },
+        {
+          "scid": "sn35.143:0.3",
+          "pli": "143. Bāhirāniccahetusutta",
+          "en": "143. Exterior and Cause Are Impermanent"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.143:1.1",
+          "pli": "“Rūpā, bhikkhave, aniccā.",
+          "en": "“Mendicants, sights are impermanent."
+        },
+        {
+          "scid": "sn35.143:1.2",
+          "pli": "Yopi hetu, yopi paccayo rūpānaṃ uppādāya, sopi anicco.",
+          "en": "The cause and condition that gives rise to sights is also impermanent."
+        },
+        {
+          "scid": "sn35.143:1.3",
+          "pli": "Aniccasambhūtā, bhikkhave, rūpā kuto niccā bhavissanti.",
+          "en": "Since sights are produced by what is impermanent, how could they be permanent?"
+        },
+        {
+          "scid": "sn35.143:1.4",
+          "pli": "Saddā …",
+          "en": "Sounds …"
+        },
+        {
+          "scid": "sn35.143:1.5",
+          "pli": "gandhā …",
+          "en": "Smells …"
+        },
+        {
+          "scid": "sn35.143:1.6",
+          "pli": "rasā …",
+          "en": "Tastes …"
+        },
+        {
+          "scid": "sn35.143:1.7",
+          "pli": "phoṭṭhabbā …",
+          "en": "Touches …"
+        },
+        {
+          "scid": "sn35.143:1.8",
+          "pli": "dhammā aniccā.",
+          "en": "Thoughts are impermanent."
+        },
+        {
+          "scid": "sn35.143:1.9",
+          "pli": "Yopi hetu, yopi paccayo dhammānaṃ uppādāya, sopi anicco.",
+          "en": "The cause and condition that gives rise to thoughts is also impermanent."
+        },
+        {
+          "scid": "sn35.143:1.10",
+          "pli": "Aniccasambhūtā, bhikkhave, dhammā kuto niccā bhavissanti.",
+          "en": "Since thoughts are produced by what is impermanent, how could they be permanent?"
+        },
+        {
+          "scid": "sn35.143:1.11",
+          "pli": "Evaṃ passaṃ … pe …",
+          "en": "Seeing this …"
+        },
+        {
+          "scid": "sn35.143:1.12",
+          "pli": "nāparaṃ itthattāyā’ti pajānātī”ti.",
+          "en": "They understand: ‘… there is no return to any state of existence.’”"
+        },
+        {
+          "scid": "sn35.143:1.13",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.143/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.143//SN 35.142",
+    "volpages": "SN iv 131",
+    "uid": "sn35.143",
+    "blurb": "Since the causes of the six exterior sense fields are impermanent, how can the senses be permanent?",
+    "difficulty": null,
+    "original_title": "Bāhirāniccahetu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Exterior and Cause Are Impermanent",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.143_sujato",
+        "segmented": true,
+        "title": "Exterior and Cause Are Impermanent"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.143_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Impermanent with Cause, Etc. External"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

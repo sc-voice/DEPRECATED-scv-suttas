@@ -1,0 +1,335 @@
+{
+  "sutta_uid": "an9.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Powers",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Association",
+      "uid": "an9.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Nandaka",
+      "uid": "an9.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.5:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.5:0.2",
+          "pli": "1. Sambodhivagga",
+          "en": "1. Awakening"
+        },
+        {
+          "scid": "an9.5:0.3",
+          "pli": "5. Balasutta",
+          "en": "5. Powers"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.5:1.1",
+          "pli": "“Cattārimāni, bhikkhave, balāni.",
+          "en": "“Mendicants, there are these four powers."
+        },
+        {
+          "scid": "an9.5:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an9.5:1.3",
+          "pli": "Paññābalaṃ, vīriyabalaṃ, anavajjabalaṃ, saṅgāhabalaṃ.",
+          "en": "The powers of wisdom, energy, blamelessness, and inclusiveness."
+        },
+        {
+          "scid": "an9.5:1.4",
+          "pli": "Katamañca, bhikkhave, paññābalaṃ?",
+          "en": "And what is the power of wisdom?"
+        },
+        {
+          "scid": "an9.5:1.5",
+          "pli": "Ye dhammā kusalā kusalasaṅkhātā ye dhammā akusalā akusalasaṅkhātā ye dhammā sāvajjā sāvajjasaṅkhātā ye dhammā anavajjā anavajjasaṅkhātā ye dhammā kaṇhā kaṇhasaṅkhātā ye dhammā sukkā sukkasaṅkhātā ye dhammā sevitabbā sevitabbasaṅkhātā ye dhammā asevitabbā asevitabbasaṅkhātā ye dhammā nālamariyā nālamariyasaṅkhātā ye dhammā alamariyā alamariyasaṅkhātā, tyassa dhammā paññāya vodiṭṭhā honti vocaritā.",
+          "en": "One has clearly seen and clearly contemplated with wisdom those qualities that are skillful and considered to be skillful; those that are unskillful … blameworthy … blameless … dark … bright … to be cultivated … not to be cultivated … not worthy of the noble ones ... worthy of the noble ones and considered to be worthy of the noble ones."
+        },
+        {
+          "scid": "an9.5:1.6",
+          "pli": "Idaṃ vuccati, bhikkhave, paññābalaṃ.",
+          "en": "This is called the power of wisdom."
+        },
+        {
+          "scid": "an9.5:2.1",
+          "pli": "Katamañca, bhikkhave, vīriyabalaṃ?",
+          "en": "And what is the power of energy?"
+        },
+        {
+          "scid": "an9.5:2.2",
+          "pli": "Ye dhammā akusalā akusalasaṅkhātā ye dhammā sāvajjā sāvajjasaṅkhātā ye dhammā kaṇhā kaṇhasaṅkhātā ye dhammā asevitabbā asevitabbasaṅkhātā ye dhammā nālamariyā nālamariyasaṅkhātā, tesaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati.",
+          "en": "One generates enthusiasm, tries, makes an effort, exerts the mind, and strives to give up those qualities that are unskillful and considered to be unskillful; those that are blameworthy … dark … not to be cultivated … not worthy of the noble ones and considered to be not worthy of the noble ones."
+        },
+        {
+          "scid": "an9.5:2.3",
+          "pli": "Ye dhammā kusalā kusalasaṅkhātā ye dhammā anavajjā anavajjasaṅkhātā ye dhammā sukkā sukkasaṅkhātā ye dhammā sevitabbā sevitabbasaṅkhātā ye dhammā alamariyā alamariyasaṅkhātā, tesaṃ dhammānaṃ paṭilābhāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati.",
+          "en": "One generates enthusiasm, tries, makes an effort, exerts the mind, and strives to gain those qualities that are skillful and considered to be skillful; those that are blameless … bright … to be cultivated … worthy of the noble ones and considered to be worthy of the noble ones."
+        },
+        {
+          "scid": "an9.5:2.4",
+          "pli": "Idaṃ vuccati, bhikkhave, vīriyabalaṃ.",
+          "en": "This is called the power of energy."
+        },
+        {
+          "scid": "an9.5:3.1",
+          "pli": "Katamañca, bhikkhave, anavajjabalaṃ?",
+          "en": "And what is the power of blamelessness?"
+        },
+        {
+          "scid": "an9.5:3.2",
+          "pli": "Idha, bhikkhave, ariyasāvako anavajjena kāyakammena samannāgato hoti, anavajjena vacīkammena samannāgato hoti, anavajjena manokammena samannāgato hoti.",
+          "en": "It’s when a mendicant has blameless conduct by way of body, speech, and mind."
+        },
+        {
+          "scid": "an9.5:3.3",
+          "pli": "Idaṃ vuccati, bhikkhave, anavajjabalaṃ.",
+          "en": "This is called the power of blamelessness."
+        },
+        {
+          "scid": "an9.5:4.1",
+          "pli": "Katamañca, bhikkhave, saṅgāhabalaṃ?",
+          "en": "And what is the power of inclusion?"
+        },
+        {
+          "scid": "an9.5:4.2",
+          "pli": "Cattārimāni, bhikkhave, saṅgahavatthūni—",
+          "en": "There are these four ways of being inclusive."
+        },
+        {
+          "scid": "an9.5:4.3",
+          "pli": "dānaṃ, peyyavajjaṃ, atthacariyā, samānattatā.",
+          "en": "Giving, kind speech, taking care, and equality."
+        },
+        {
+          "scid": "an9.5:4.4",
+          "pli": "Etadaggaṃ, bhikkhave, dānānaṃ yadidaṃ dhammadānaṃ.",
+          "en": "The best of gifts is the gift of the teaching."
+        },
+        {
+          "scid": "an9.5:4.5",
+          "pli": "Etadaggaṃ, bhikkhave, peyyavajjānaṃ yadidaṃ atthikassa ohitasotassa punappunaṃ dhammaṃ deseti.",
+          "en": "The best sort of kind speech is to teach the Dhamma again and again to someone who is interested and who listens well."
+        },
+        {
+          "scid": "an9.5:4.6",
+          "pli": "Etadaggaṃ, bhikkhave, atthacariyānaṃ yadidaṃ assaddhaṃ saddhāsampadāya samādapeti niveseti patiṭṭhāpeti, dussīlaṃ sīlasampadāya … macchariṃ cāgasampadāya … duppaññaṃ paññāsampadāya samādapeti niveseti patiṭṭhāpeti.",
+          "en": "The best way of taking care is to encourage, settle, and ground the unfaithful in faith, the unethical in ethics, the stingy in generosity, and the ignorant in wisdom."
+        },
+        {
+          "scid": "an9.5:4.7",
+          "pli": "Etadaggaṃ, bhikkhave, samānattatānaṃ yadidaṃ sotāpanno sotāpannassa samānatto, sakadāgāmī sakadāgāmissa samānatto, anāgāmī anāgāmissa samānatto, arahā arahato samānatto.",
+          "en": "The best kind of equality is the equality of a stream-enterer with another stream-enterer, a once-returner with another once-returner, a non-returner with another non-returner, and a perfected one with another perfected one."
+        },
+        {
+          "scid": "an9.5:4.8",
+          "pli": "Idaṃ vuccati, bhikkhave, saṅgāhabalaṃ.",
+          "en": "This is called the power of inclusion."
+        },
+        {
+          "scid": "an9.5:4.9",
+          "pli": "Imāni kho, bhikkhave, cattāri balāni.",
+          "en": "These are the four powers."
+        },
+        {
+          "scid": "an9.5:5.1",
+          "pli": "Imehi kho, bhikkhave, catūhi balehi samannāgato ariyasāvako pañca bhayāni samatikkanto hoti.",
+          "en": "A noble disciple who has these four powers has got past five fears."
+        },
+        {
+          "scid": "an9.5:5.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an9.5:5.3",
+          "pli": "Ājīvikabhayaṃ, asilokabhayaṃ, parisasārajjabhayaṃ, maraṇabhayaṃ, duggatibhayaṃ.",
+          "en": "Fear regarding livelihood, disrepute, feeling insecure in an assembly, death, and bad rebirth."
+        },
+        {
+          "scid": "an9.5:5.4",
+          "pli": "Sa kho so, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Then that noble disciple reflects:"
+        },
+        {
+          "scid": "an9.5:5.5",
+          "pli": "‘nāhaṃ ājīvikabhayassa bhāyāmi.",
+          "en": "‘I have no fear regarding livelihood."
+        },
+        {
+          "scid": "an9.5:5.6",
+          "pli": "Kissāhaṃ ājīvikabhayassa bhāyissāmi?",
+          "en": "Why would I be afraid of that?"
+        },
+        {
+          "scid": "an9.5:5.7",
+          "pli": "Atthi me cattāri balāni—",
+          "en": "I have these four powers:"
+        },
+        {
+          "scid": "an9.5:5.8",
+          "pli": "paññābalaṃ, vīriyabalaṃ, anavajjabalaṃ, saṅgāhabalaṃ.",
+          "en": "the powers of wisdom, energy, blamelessness, and inclusiveness."
+        },
+        {
+          "scid": "an9.5:5.9",
+          "pli": "Duppañño kho ājīvikabhayassa bhāyeyya.",
+          "en": "A witless person might fear for their livelihood."
+        },
+        {
+          "scid": "an9.5:5.10",
+          "pli": "Kusīto ājīvikabhayassa bhāyeyya.",
+          "en": "A lazy person might fear for their livelihood."
+        },
+        {
+          "scid": "an9.5:5.11",
+          "pli": "Sāvajjakāyakammantavacīkammantamanokammanto ājīvikabhayassa bhāyeyya.",
+          "en": "A person who does blameworthy things by way of body, speech, and mind might fear for their livelihood."
+        },
+        {
+          "scid": "an9.5:5.12",
+          "pli": "Asaṅgāhako ājīvikabhayassa bhāyeyya.",
+          "en": "A person who does not include others might fear for their livelihood."
+        },
+        {
+          "scid": "an9.5:5.13",
+          "pli": "Nāhaṃ asilokabhayassa bhāyāmi … pe …",
+          "en": "I have no fear of disrepute …"
+        },
+        {
+          "scid": "an9.5:5.14",
+          "pli": "nāhaṃ parisasārajjabhayassa bhāyāmi … pe …",
+          "en": "I have no fear about feeling insecure in an assembly …"
+        },
+        {
+          "scid": "an9.5:5.15",
+          "pli": "nāhaṃ maraṇabhayassa bhāyāmi … pe …",
+          "en": "I have no fear of death …"
+        },
+        {
+          "scid": "an9.5:5.16",
+          "pli": "nāhaṃ duggatibhayassa bhāyāmi.",
+          "en": "I have no fear of a bad rebirth."
+        },
+        {
+          "scid": "an9.5:5.17",
+          "pli": "Kissāhaṃ duggatibhayassa bhāyissāmi?",
+          "en": "Why would I be afraid of that?"
+        },
+        {
+          "scid": "an9.5:5.18",
+          "pli": "Atthi me cattāri balāni—",
+          "en": "I have these four powers:"
+        },
+        {
+          "scid": "an9.5:5.19",
+          "pli": "paññābalaṃ, vīriyabalaṃ, anavajjabalaṃ, saṅgāhabalaṃ.",
+          "en": "the powers of wisdom, energy, blamelessness, and inclusiveness."
+        },
+        {
+          "scid": "an9.5:5.20",
+          "pli": "Duppañño kho duggatibhayassa bhāyeyya.",
+          "en": "A witless person might be afraid of a bad rebirth."
+        },
+        {
+          "scid": "an9.5:5.21",
+          "pli": "Kusīto duggatibhayassa bhāyeyya.",
+          "en": "A lazy person might be afraid of a bad rebirth."
+        },
+        {
+          "scid": "an9.5:5.22",
+          "pli": "Sāvajjakāyakammantavacīkammantamanokammanto duggatibhayassa bhāyeyya.",
+          "en": "A person who does blameworthy things by way of body, speech, and mind might be afraid of a bad rebirth."
+        },
+        {
+          "scid": "an9.5:5.23",
+          "pli": "Asaṅgāhako duggatibhayassa bhāyeyya’.",
+          "en": "A person who does not include others might be afraid of a bad rebirth.’"
+        },
+        {
+          "scid": "an9.5:5.24",
+          "pli": "Imehi kho, bhikkhave, catūhi balehi samannāgato ariyasāvako imāni pañca bhayāni samatikkanto hotī”ti.",
+          "en": "A noble disciple who has these four powers has got past these five fears.”"
+        },
+        {
+          "scid": "an9.5:5.25",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.5",
+    "volpages": "AN iv 363",
+    "uid": "an9.5",
+    "blurb": "A noble disciple who develops four powers overcomes five fears.",
+    "difficulty": null,
+    "original_title": "Bala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Powers",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.5_sujato",
+        "segmented": true,
+        "title": "Powers"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

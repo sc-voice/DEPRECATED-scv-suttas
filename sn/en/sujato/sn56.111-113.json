@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn56.111-113",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.111-113",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Dying as Gods and Reborn as Humans",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dying in Hell and Reborn as Humans",
+      "uid": "sn56.114-116"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dying as Gods and Reborn as Gods",
+      "uid": "sn56.108-110"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.111-113:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.111-113:0.2",
+          "pli": "11. Pañcagatipeyyālavagga",
+          "en": "11. Abbreviated Texts on Five Destinations"
+        },
+        {
+          "scid": "sn56.111-113:0.3",
+          "pli": "111–​113. Devamanussanirayādisutta",
+          "en": "111–113. Dying as Gods and Reborn as Humans"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.111-113:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye devā cutā manussesu paccājāyanti; atha kho eteva bahutarā sattā ye devā cutā niraye paccājāyanti … pe … tiracchānayoniyā paccājāyanti … pe … pettivisaye paccājāyanti … pe ….",
+          "en": "“… the sentient beings who die as gods and are reborn as humans are few, while those who die as gods and are reborn in hell, or the animal realm, or the ghost realm are many.”"
+        },
+        {
+          "scid": "sn56.111-113:1.2",
+          "pli": "Dvādasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who die as…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.111-113/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn56.111-113",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Devamanussanirayādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dying as Gods and Reborn as Humans",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.111-113_sujato",
+        "segmented": true,
+        "title": "Dying as Gods and Reborn as Humans"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 6
+  }
+}

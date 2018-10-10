@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "an9.93",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.93",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an9.94"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Emotional Shackles",
+      "uid": "an9.92"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.93:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.93:0.2",
+          "pli": "10. Rāgapeyyāla",
+          "en": "10. Abbreviated Texts Beginning with Greed"
+        },
+        {
+          "scid": "an9.93:0.3",
+          "pli": "93",
+          "en": "93"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.93:1.1",
+          "pli": "“Rāgassa, bhikkhave, abhiññāya nava dhammā bhāvetabbā.",
+          "en": "“For insight into greed, nine things should be developed."
+        },
+        {
+          "scid": "an9.93:1.2",
+          "pli": "Katame nava?",
+          "en": "What nine?"
+        },
+        {
+          "scid": "an9.93:1.3",
+          "pli": "Asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā, aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā—",
+          "en": "The perceptions of ugliness, death, repulsiveness of food, dissatisfaction with the whole world, impermanence, suffering in impermanence, and not-self in suffering, giving up, and fading away."
+        },
+        {
+          "scid": "an9.93:1.4",
+          "pli": "rāgassa, bhikkhave, abhiññāya ime nava dhammā bhāvetabbā”ti.",
+          "en": "For insight into greed, these nine things should be developed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“For insight into greed…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.93/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.93",
+    "volpages": "AN iv 465",
+    "uid": "an9.93",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.93_sujato",
+        "segmented": true,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

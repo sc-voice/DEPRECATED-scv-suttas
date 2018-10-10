@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "an5.220",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.220",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "About Madhurā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Long Wandering (1st)",
+      "uid": "an5.221"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fire",
+      "uid": "an5.219"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.220:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.220:0.2",
+          "pli": "22. Akkosakavagga",
+          "en": "22. Abuse"
+        },
+        {
+          "scid": "an5.220:0.3",
+          "pli": "220. Madhurāsutta",
+          "en": "220. About Madhurā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.220:1.1",
+          "pli": "“Pañcime, bhikkhave, ādīnavā madhurāyaṃ.",
+          "en": "“Mendicants, there are these five drawbacks of Madhurā."
+        },
+        {
+          "scid": "an5.220:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.220:1.3",
+          "pli": "Visamā, bahurajā, caṇḍasunakhā, vāḷayakkhā, dullabhapiṇḍā.",
+          "en": "The ground is uneven and dusty, the dogs are fierce, the native spirits are vicious, and it’s hard to get almsfood."
+        },
+        {
+          "scid": "an5.220:1.4",
+          "pli": "Ime kho, bhikkhave, pañca ādīnavā madhurāyan”ti.",
+          "en": "These are the five drawbacks of Madhurā.”"
+        },
+        {
+          "scid": "an5.220:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an5.220:1.6",
+          "pli": "Akkosakavaggo dutiyo.",
+          "en": ""
+        },
+        {
+          "scid": "an5.220:2.1",
+          "pli": "Akkosabhaṇḍanasīlaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "an5.220:2.2",
+          "pli": "bahubhāṇī dve akhantiyo;",
+          "en": ""
+        },
+        {
+          "scid": "an5.220:2.3",
+          "pli": "Apāsādikā dve vuttā,",
+          "en": ""
+        },
+        {
+          "scid": "an5.220:2.4",
+          "pli": "aggismiṃ madhurena cāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.220/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.220",
+    "volpages": "AN iii 256",
+    "uid": "an5.220",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Madhurā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "About Madhurā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.220_sujato",
+        "segmented": true,
+        "title": "About Madhurā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

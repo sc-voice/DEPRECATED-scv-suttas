@@ -1,0 +1,109 @@
+{
+  "sutta_uid": "thig1.15",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig1.15",
+    "lang": "en",
+    "is_root": false,
+    "title": "Uttarā",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Sumanā (Who left the world when old)",
+      "uid": "thig1.16"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Sumanā",
+      "uid": "thig1.14"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.15:0.1",
+          "en": "Therīgāthā 1.15"
+        },
+        {
+          "scid": "thig1.15:0.2",
+          "en": "Uttarā",
+          "pli": "Uttarātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig1.15:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig1.15:1.0.2",
+          "en": "Canto 1"
+        },
+        {
+          "scid": "thig1.15:1.0.3",
+          "en": "15. Uttarā"
+        },
+        {
+          "scid": "thig1.15:1.0.4",
+          "en": "“Well have I disciplined myself in act, In speech and eke in thought, rapt and intent. Craving with root of craving is o’ercome; Cool am I now; I know Nibbana’s peace.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.15/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 1.15",
+    "volpages": "Thig 125",
+    "uid": "thig1.15",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uttarātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uttarā",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.15_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Uttarā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 15
+  }
+}

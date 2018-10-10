@@ -1,0 +1,280 @@
+{
+  "sutta_uid": "sn41.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn41.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Kāmabhū (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kāmabhū (2nd)",
+      "uid": "sn41.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahaka’s Demonstration",
+      "uid": "sn41.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn41.5:0.1",
+          "pli": "Saṃyutta Nikāya 41",
+          "en": "Linked Discourses 41"
+        },
+        {
+          "scid": "sn41.5:0.2",
+          "pli": "1. Cittavagga",
+          "en": "1. With Citta"
+        },
+        {
+          "scid": "sn41.5:0.3",
+          "pli": "5. Paṭhamakāmabhūsutta",
+          "en": "5. With Kāmabhū (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 41…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn41.5:1.1",
+          "pli": "Ekaṃ samayaṃ āyasmā kāmabhū macchikāsaṇḍe viharati ambāṭakavane.",
+          "en": "At one time Venerable Kāmabhū was staying near Macchikāsaṇḍa in the Wild Mango Grove."
+        },
+        {
+          "scid": "sn41.5:1.2",
+          "pli": "Atha kho citto gahapati yenāyasmā kāmabhū tenupasaṅkami; upasaṅkamitvā āyasmantaṃ kāmabhuṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho cittaṃ gahapatiṃ āyasmā kāmabhū etadavoca:",
+          "en": "Then Citta the householder went up to Venerable Kāmabhū, bowed, and sat down to one side. Kāmabhū said to him:"
+        },
+        {
+          "scid": "sn41.5:2.1",
+          "pli": "“Vuttamidaṃ, gahapati:",
+          "en": "“Householder, there is this saying:"
+        },
+        {
+          "scid": "sn41.5:3.1",
+          "pli": "‘Nelaṅgo setapacchādo,",
+          "en": "‘With flawless wheel and white canopy,"
+        },
+        {
+          "scid": "sn41.5:3.2",
+          "pli": "ekāro vattatī ratho;",
+          "en": "the one-spoke chariot rolls on."
+        },
+        {
+          "scid": "sn41.5:3.3",
+          "pli": "Anīghaṃ passa āyantaṃ,",
+          "en": "See it come, untroubled,"
+        },
+        {
+          "scid": "sn41.5:3.4",
+          "pli": "chinnasotaṃ abandhanan’ti.",
+          "en": "with stream cut, unbound.’"
+        },
+        {
+          "scid": "sn41.5:4.1",
+          "pli": "Imassa nu kho, gahapati, saṅkhittena bhāsitassa kathaṃ vitthārena attho daṭṭhabbo”ti?",
+          "en": "How should we see the detailed meaning of this brief statement?”"
+        },
+        {
+          "scid": "sn41.5:4.2",
+          "pli": "“Kiṃ nu kho etaṃ, bhante, bhagavatā bhāsitan”ti?",
+          "en": "“Sir, was this spoken by the Buddha?”"
+        },
+        {
+          "scid": "sn41.5:4.3",
+          "pli": "“Evaṃ, gahapatī”ti.",
+          "en": "“Yes, householder.”"
+        },
+        {
+          "scid": "sn41.5:4.4",
+          "pli": "“Tena hi, bhante, muhuttaṃ āgamehi yāvassa atthaṃ pekkhāmī”ti.",
+          "en": "“Well then, sir, please wait a moment while I consider the meaning of this.”"
+        },
+        {
+          "scid": "sn41.5:4.5",
+          "pli": "Atha kho citto gahapati muhuttaṃ tuṇhī hutvā āyasmantaṃ kāmabhuṃ etadavoca:",
+          "en": "Then after a short silence Citta said to Kāmabhū:"
+        },
+        {
+          "scid": "sn41.5:5.1",
+          "pli": "“‘Nelaṅgan’ti kho, bhante, sīlānametaṃ adhivacanaṃ.",
+          "en": "“Sir, ‘flawless wheel’ is a term for ethics."
+        },
+        {
+          "scid": "sn41.5:5.2",
+          "pli": "‘Setapacchādo’ti kho, bhante, vimuttiyā etaṃ adhivacanaṃ.",
+          "en": "‘White canopy’ is a term for freedom."
+        },
+        {
+          "scid": "sn41.5:5.3",
+          "pli": "‘Ekāro’ti kho, bhante, satiyā etaṃ adhivacanaṃ.",
+          "en": "‘One spoke’ is a term for mindfulness."
+        },
+        {
+          "scid": "sn41.5:5.4",
+          "pli": "‘Vattatī’ti kho, bhante, abhikkamapaṭikkamassetaṃ adhivacanaṃ.",
+          "en": "‘Rolls on’ is a term for going forward and coming back."
+        },
+        {
+          "scid": "sn41.5:5.5",
+          "pli": "‘Ratho’ti kho, bhante, imassetaṃ cātumahābhūtikassa kāyassa adhivacanaṃ mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādanaparimaddanabhedanaviddhaṃsanadhammassa.",
+          "en": "‘Chariot’ is a term for this body made up of the four primary elements, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction."
+        },
+        {
+          "scid": "sn41.5:5.6",
+          "pli": "Rāgo kho, bhante, nīgho, doso nīgho, moho nīgho.",
+          "en": "Greed, hate, and delusion are troubles."
+        },
+        {
+          "scid": "sn41.5:5.7",
+          "pli": "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā.",
+          "en": "A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and exterminated them, so they are unable to arise in the future."
+        },
+        {
+          "scid": "sn41.5:5.8",
+          "pli": "Tasmā khīṇāsavo bhikkhu ‘anīgho’ti vuccati.",
+          "en": "That’s why a mendicant who has ended the defilements is called ‘untroubled’."
+        },
+        {
+          "scid": "sn41.5:5.9",
+          "pli": "‘Āyantan’ti kho, bhante, arahato etaṃ adhivacanaṃ.",
+          "en": "‘The one who comes’ is a term for the perfected one."
+        },
+        {
+          "scid": "sn41.5:5.10",
+          "pli": "‘Soto’ti kho, bhante, taṇhāyetaṃ adhivacanaṃ.",
+          "en": "‘Stream’ is a term for craving."
+        },
+        {
+          "scid": "sn41.5:5.11",
+          "pli": "Sā khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā.",
+          "en": "A mendicant who has ended the defilements has given this up, cut it off at the root, made it like a palm stump, and exterminated it, so it’s unable to arise in the future."
+        },
+        {
+          "scid": "sn41.5:5.12",
+          "pli": "Tasmā khīṇāsavo bhikkhu ‘chinnasoto’ti vuccati.",
+          "en": "That’s why a mendicant who has ended the defilements is said to have ‘cut the stream’."
+        },
+        {
+          "scid": "sn41.5:5.13",
+          "pli": "Rāgo kho, bhante, bandhanaṃ, doso bandhanaṃ, moho bandhanaṃ.",
+          "en": "Greed, hate, and delusion are bonds."
+        },
+        {
+          "scid": "sn41.5:5.14",
+          "pli": "Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā.",
+          "en": "A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and exterminated them, so they are unable to arise in the future."
+        },
+        {
+          "scid": "sn41.5:5.15",
+          "pli": "Tasmā khīṇāsavo bhikkhu ‘abandhano’ti vuccati.",
+          "en": "That’s why a mendicant who has ended the defilements is called ‘unbound’."
+        },
+        {
+          "scid": "sn41.5:5.16",
+          "pli": "Iti kho, bhante, yaṃ taṃ bhagavatā vuttaṃ:",
+          "en": "So, sir, that’s how I understand the detailed meaning of what the Buddha said in brief:"
+        },
+        {
+          "scid": "sn41.5:6.1",
+          "pli": "‘Nelaṅgo setapacchādo,",
+          "en": "‘With flawless wheel and white canopy,"
+        },
+        {
+          "scid": "sn41.5:6.2",
+          "pli": "ekāro vattatī ratho;",
+          "en": "the one-spoke chariot rolls on."
+        },
+        {
+          "scid": "sn41.5:6.3",
+          "pli": "Anīghaṃ passa āyantaṃ,",
+          "en": "See it come, untroubled,"
+        },
+        {
+          "scid": "sn41.5:6.4",
+          "pli": "chinnasotaṃ abandhanan’ti.",
+          "en": "with stream cut, unbound.’”"
+        },
+        {
+          "scid": "sn41.5:7.1",
+          "pli": "Imassa kho, bhante, bhagavatā saṅkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn41.5:7.2",
+          "pli": "“Lābhā te, gahapati, suladdhaṃ te, gahapati.",
+          "en": "“You’re fortunate, householder, so very fortunate,"
+        },
+        {
+          "scid": "sn41.5:7.3",
+          "pli": "Yassa te gambhīre buddhavacane paññācakkhu kamatī”ti.",
+          "en": "to traverse the Buddha’s deep teachings with the eye of wisdom.”"
+        },
+        {
+          "scid": "sn41.5:7.4",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time Venerable Kāmabhū was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn41.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 41.5",
+    "volpages": "SN iv 291",
+    "uid": "sn41.5",
+    "blurb": "Venerable Kāmabhū asks Citta to explain an enigmatic verse on a “one-spoked chariot”. After a brief consideration, Citta is able to explain it in detail.",
+    "difficulty": null,
+    "original_title": "Paṭhamakāmabhū Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Kāmabhū (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn41.5_sujato",
+        "segmented": true,
+        "title": "With Kāmabhū (1st)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

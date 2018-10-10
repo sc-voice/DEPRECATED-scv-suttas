@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn18.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn18.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Elements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Aggregates",
+      "uid": "sn18.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Craving",
+      "uid": "sn18.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn18.9:0.1",
+          "pli": "Saṃyutta Nikāya 18",
+          "en": "Linked Discourses 18"
+        },
+        {
+          "scid": "sn18.9:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The First Chapter"
+        },
+        {
+          "scid": "sn18.9:0.3",
+          "pli": "9. Dhātusutta",
+          "en": "9. Elements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 18…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn18.9:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn18.9:1.2",
+          "pli": "“Taṃ kiṃ maññasi, rāhula, ",
+          "en": "“What do you think, Rāhula? "
+        },
+        {
+          "scid": "sn18.9:1.3",
+          "pli": "pathavīdhātu niccā vā aniccā vā”ti?",
+          "en": "Is the earth element permanent or impermanent?”"
+        },
+        {
+          "scid": "sn18.9:1.4",
+          "pli": "“Aniccā, bhante” …",
+          "en": "“Impermanent, sir.” …"
+        },
+        {
+          "scid": "sn18.9:1.5",
+          "pli": "“āpodhātu … pe …",
+          "en": "“… the water element …"
+        },
+        {
+          "scid": "sn18.9:1.6",
+          "pli": "tejodhātu …",
+          "en": "the fire element …"
+        },
+        {
+          "scid": "sn18.9:1.7",
+          "pli": "vāyodhātu …",
+          "en": "the air element …"
+        },
+        {
+          "scid": "sn18.9:1.8",
+          "pli": "ākāsadhātu …",
+          "en": "the space element …"
+        },
+        {
+          "scid": "sn18.9:1.9",
+          "pli": "viññāṇadhātu niccā vā aniccā vā”ti?",
+          "en": "Is the consciousness element permanent or impermanent?”"
+        },
+        {
+          "scid": "sn18.9:1.10",
+          "pli": "“Aniccā, bhante” …",
+          "en": "“Impermanent, sir.” …"
+        },
+        {
+          "scid": "sn18.9:1.11",
+          "pli": "“evaṃ passaṃ, rāhula, sutavā ariyasāvako pathavīdhātuyāpi nibbindati … pe … āpodhātuyāpi nibbindati … tejodhātuyāpi nibbindati … vāyodhātuyāpi nibbindati … ākāsadhātuyāpi nibbindati … viññāṇadhātuyāpi nibbindati … pe …",
+          "en": "“Seeing this, a learned noble disciple becomes disillusioned with the earth element, water element, fire element, air element, space element, and consciousness element …”"
+        },
+        {
+          "scid": "sn18.9:1.12",
+          "pli": "pajānātī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn18.9:1.13",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn18.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 18.9",
+    "volpages": "SN ii 248",
+    "uid": "sn18.9",
+    "blurb": "The Buddha answers Rāhula’s request by teaching on the four material elements in light of the three characteristics.",
+    "difficulty": null,
+    "original_title": "Dhātu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Elements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn18.9_sujato",
+        "segmented": true,
+        "title": "Elements"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

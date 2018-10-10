@@ -1,0 +1,240 @@
+{
+  "sutta_uid": "sn12.52",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.52",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Grasping",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fetters",
+      "uid": "sn12.53"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Full Inquiry",
+      "uid": "sn12.51"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.52:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.52:0.2",
+          "pli": "6. Dukkhavagga",
+          "en": "6. Suffering"
+        },
+        {
+          "scid": "sn12.52:0.3",
+          "pli": "52. Upādānasutta",
+          "en": "52. Grasping"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.52:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn12.52:1.2",
+          "pli": "“Upādāniyesu, bhikkhave, dhammesu assādānupassino viharato taṇhā pavaḍḍhati.",
+          "en": "“There are things that are prone to being grasped. When you concentrate on the gratification provided by these things, your craving grows."
+        },
+        {
+          "scid": "sn12.52:1.3",
+          "pli": "Taṇhāpaccayā upādānaṃ;",
+          "en": "Craving is a condition for grasping."
+        },
+        {
+          "scid": "sn12.52:1.4",
+          "pli": "upādānapaccayā bhavo;",
+          "en": "Grasping is a condition for continued existence."
+        },
+        {
+          "scid": "sn12.52:1.5",
+          "pli": "bhavapaccayā jāti;",
+          "en": "Continued existence is a condition for rebirth."
+        },
+        {
+          "scid": "sn12.52:1.6",
+          "pli": "jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.",
+          "en": "Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be."
+        },
+        {
+          "scid": "sn12.52:1.7",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "sn12.52:2.1",
+          "pli": "Seyyathāpi, bhikkhave, dasannaṃ vā kaṭṭhavāhānaṃ vīsāya vā kaṭṭhavāhānaṃ tiṃsāya vā kaṭṭhavāhānaṃ cattārīsāya vā kaṭṭhavāhānaṃ mahāaggikkhandho jaleyya.",
+          "en": "Suppose a bonfire was burning with ten, twenty, thirty, or forty loads of wood."
+        },
+        {
+          "scid": "sn12.52:2.2",
+          "pli": "Tatra puriso kālena kālaṃ sukkhāni ceva tiṇāni pakkhipeyya, sukkhāni ca gomayāni pakkhipeyya, sukkhāni ca kaṭṭhāni pakkhipeyya.",
+          "en": "And from time to time someone would toss in dry grass, cow dung, or wood."
+        },
+        {
+          "scid": "sn12.52:2.3",
+          "pli": "Evañhi so, bhikkhave, mahāaggikkhandho tadāhāro tadupādāno ciraṃ dīghamaddhānaṃ jaleyya.",
+          "en": "Fueled and sustained by that, the bonfire would burn for a long time."
+        },
+        {
+          "scid": "sn12.52:2.4",
+          "pli": "Evameva kho, bhikkhave, upādāniyesu dhammesu assādānupassino viharato taṇhā pavaḍḍhati.",
+          "en": "In the same way, there are things that are prone to being grasped. When you concentrate on the gratification provided by these things, your craving grows."
+        },
+        {
+          "scid": "sn12.52:2.5",
+          "pli": "Taṇhāpaccayā upādānaṃ … pe …",
+          "en": "Craving is a condition for grasping. …"
+        },
+        {
+          "scid": "sn12.52:2.6",
+          "pli": "evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "sn12.52:3.1",
+          "pli": "Upādāniyesu, bhikkhave, dhammesu ādīnavānupassino viharato taṇhā nirujjhati.",
+          "en": "There are things that are prone to being grasped. When you concentrate on the drawbacks of these things, your craving ceases."
+        },
+        {
+          "scid": "sn12.52:3.2",
+          "pli": "Taṇhānirodhā upādānanirodho;",
+          "en": "When craving ceases, grasping ceases."
+        },
+        {
+          "scid": "sn12.52:3.3",
+          "pli": "upādānanirodhā bhavanirodho;",
+          "en": "When grasping ceases, continued existence ceases."
+        },
+        {
+          "scid": "sn12.52:3.4",
+          "pli": "bhavanirodhā jātinirodho;",
+          "en": "When continued existence ceases, rebirth ceases."
+        },
+        {
+          "scid": "sn12.52:3.5",
+          "pli": "jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti.",
+          "en": "When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease."
+        },
+        {
+          "scid": "sn12.52:3.6",
+          "pli": "Evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+          "en": "That is how this entire mass of suffering ceases."
+        },
+        {
+          "scid": "sn12.52:4.1",
+          "pli": "Seyyathāpi, bhikkhave, dasannaṃ vā kaṭṭhavāhānaṃ vīsāya vā tiṃsāya vā cattārīsāya vā kaṭṭhavāhānaṃ mahāaggikkhandho jaleyya;",
+          "en": "Suppose a bonfire was burning with ten, twenty, thirty, or forty loads of wood."
+        },
+        {
+          "scid": "sn12.52:4.2",
+          "pli": "tatra puriso na kālena kālaṃ sukkhāni ceva tiṇāni pakkhipeyya, na sukkhāni ca gomayāni pakkhipeyya, na sukkhāni ca kaṭṭhāni pakkhipeyya.",
+          "en": "And no-one would toss in dry grass, cow dung, or wood from time to time."
+        },
+        {
+          "scid": "sn12.52:4.3",
+          "pli": "Evañhi so, bhikkhave, mahāaggikkhandho purimassa ca upādānassa pariyādānā aññassa ca anupahārā anāhāro nibbāyeyya.",
+          "en": "As the original fuel is used up and no more is added, the bonfire would be extinguished due to lack of fuel."
+        },
+        {
+          "scid": "sn12.52:4.4",
+          "pli": "Evameva kho, bhikkhave, upādāniyesu dhammesu ādīnavānupassino viharato taṇhā nirujjhati, ",
+          "en": "In the same way, there are things that are prone to being grasped. When you concentrate on the drawbacks of these things, your craving ceases. "
+        },
+        {
+          "scid": "sn12.52:4.5",
+          "pli": "taṇhānirodhā upādānanirodho … pe …",
+          "en": "When craving ceases, grasping ceases. …"
+        },
+        {
+          "scid": "sn12.52:4.6",
+          "pli": "evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.",
+          "en": "That is how this entire mass of suffering ceases.”"
+        },
+        {
+          "scid": "sn12.52:4.7",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.52/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.52",
+    "volpages": "SN ii 84",
+    "uid": "sn12.52",
+    "blurb": "Craving increases when you linger on pleasing things that stimulate grasping, illustrated with the simile of a bonfire.",
+    "difficulty": null,
+    "original_title": "Upādāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Grasping",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.52_sujato",
+        "segmented": true,
+        "title": "Grasping"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn12.52_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Clinging"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

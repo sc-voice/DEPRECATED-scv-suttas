@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.51",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.51",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Old Age",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Getting Old",
+      "uid": "sn1.52"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ghaṭikāra",
+      "uid": "sn1.50"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.51:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.51:0.2",
+          "pli": "6. Jarāvagga",
+          "en": "6. Old Age"
+        },
+        {
+          "scid": "sn1.51:0.3",
+          "pli": "51. Jarāsutta",
+          "en": "51. Old Age"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.51:1.1",
+          "pli": "“Kiṃsu yāva jarā sādhu,",
+          "en": "“What’s still good in old age?"
+        },
+        {
+          "scid": "sn1.51:1.2",
+          "pli": "kiṃsu sādhu patiṭṭhitaṃ;",
+          "en": "What’s good when grounded?"
+        },
+        {
+          "scid": "sn1.51:1.3",
+          "pli": "Kiṃsu narānaṃ ratanaṃ,",
+          "en": "What is people’s treasure?"
+        },
+        {
+          "scid": "sn1.51:1.4",
+          "pli": "kiṃsu corehi dūharan”ti.",
+          "en": "What’s hard for thieves to take?”"
+        },
+        {
+          "scid": "sn1.51:2.1",
+          "pli": "“Sīlaṃ yāva jarā sādhu,",
+          "en": "“Ethics are still good in old age."
+        },
+        {
+          "scid": "sn1.51:2.2",
+          "pli": "saddhā sādhu patiṭṭhitā;",
+          "en": "Faith is good when grounded."
+        },
+        {
+          "scid": "sn1.51:2.3",
+          "pli": "Paññā narānaṃ ratanaṃ,",
+          "en": "Wisdom is people’s treasure."
+        },
+        {
+          "scid": "sn1.51:2.4",
+          "pli": "puññaṃ corehi dūharan”ti.",
+          "en": "Merit’s hard for thieves to take.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What’s still good in old age…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.51/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.51//SN 51",
+    "volpages": "SN i 36//SN i 79",
+    "uid": "sn1.51",
+    "blurb": "Morality is good even in old age.",
+    "difficulty": null,
+    "original_title": "Jarā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Old Age",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.51_sujato",
+        "segmented": true,
+        "title": "Old Age"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.51_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Old Age"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

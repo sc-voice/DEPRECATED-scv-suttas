@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an10.101",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.101",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Perceptions for Ascetics",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Awakening Factors",
+      "uid": "an10.102"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cannot",
+      "uid": "an10.100"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.101:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.101:0.2",
+          "pli": "11. Samaṇasaññāvagga",
+          "en": "11. Perceptions for Ascetics"
+        },
+        {
+          "scid": "an10.101:0.3",
+          "pli": "101. Samaṇasaññāsutta",
+          "en": "101. Perceptions for Ascetics"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.101:1.1",
+          "pli": "“Tisso imā, bhikkhave, samaṇasaññā bhāvitā bahulīkatā satta dhamme paripūrenti.",
+          "en": "“Mendicants, when these three perceptions for ascetics are developed and cultivated they fulfill seven things."
+        },
+        {
+          "scid": "an10.101:1.2",
+          "pli": "Katamā tisso?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an10.101:1.3",
+          "pli": "Vevaṇṇiyamhi ajjhupagato, parapaṭibaddhā me jīvikā, añño me ākappo karaṇīyoti—",
+          "en": "‘I have achieved freedom from class.’ ‘My livelihood is tied up with others.’ ‘My behavior should be different.’"
+        },
+        {
+          "scid": "an10.101:1.4",
+          "pli": "imā kho, bhikkhave, tisso samaṇasaññā bhāvitā bahulīkatā satta dhamme paripūrenti.",
+          "en": "When these three perceptions for ascetics are developed and cultivated they fulfill seven things."
+        },
+        {
+          "scid": "an10.101:2.1",
+          "pli": "Katame satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an10.101:2.2",
+          "pli": "Santatakārī hoti santatavutti sīlesu, anabhijjhālu hoti, abyāpajjo hoti, anatimānī hoti, sikkhākāmo hoti, “idamatthan”tissa hoti jīvitaparikkhāresu, āraddhavīriyo ca viharati.",
+          "en": "Their deeds and behavior are always consistent with the precepts. They’re content, kind-hearted, and humble. They want to train. They use the necessities of life after reflecting on their purpose. They’re energetic."
+        },
+        {
+          "scid": "an10.101:2.3",
+          "pli": "Imā kho, bhikkhave, tisso samaṇasaññā bhāvitā bahulīkatā ime satta dhamme paripūrentī”ti.",
+          "en": "When those three perceptions for ascetics are developed and cultivated they fulfill these seven things.”"
+        },
+        {
+          "scid": "an10.101:2.4",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.101/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.101",
+    "volpages": "AN v 210",
+    "uid": "an10.101",
+    "blurb": "Three ascetic perceptions lead to seven results.",
+    "difficulty": null,
+    "original_title": "Samaṇasaññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Perceptions for Ascetics",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.101_sujato",
+        "segmented": true,
+        "title": "Perceptions for Ascetics"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

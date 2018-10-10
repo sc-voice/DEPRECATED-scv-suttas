@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn37.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Man",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Particular Suffering",
+      "uid": "sn37.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Female",
+      "uid": "sn37.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.2:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.2:0.2",
+          "pli": "1. Paṭhamapeyyālavagga",
+          "en": "1. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.2:0.3",
+          "pli": "2. Purisasutta",
+          "en": "2. A Man"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.2:1.1",
+          "pli": "“Pañcahi, bhikkhave, aṅgehi samannāgato puriso ekantaamanāpo hoti mātugāmassa.",
+          "en": "“Mendicants, when a man has five factors he is extremely undesirable to a female."
+        },
+        {
+          "scid": "sn37.2:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn37.2:1.3",
+          "pli": "Na ca rūpavā hoti, na ca bhogavā hoti, na ca sīlavā hoti, alaso ca hoti, pajañcassa na labhati—",
+          "en": "He’s not attractive, wealthy, or ethical; he’s idle, and he doesn’t beget children."
+        },
+        {
+          "scid": "sn37.2:1.4",
+          "pli": "imehi kho, bhikkhave, pañcahi aṅgehi samannāgato puriso ekantaamanāpo hoti mātugāmassa.",
+          "en": "When a man has these five factors he is extremely undesirable to a female."
+        },
+        {
+          "scid": "sn37.2:1.5",
+          "pli": "Pañcahi, bhikkhave, aṅgehi samannāgato puriso ekantamanāpo hoti mātugāmassa.",
+          "en": "When a man has five factors he is extremely desirable to a female."
+        },
+        {
+          "scid": "sn37.2:1.6",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn37.2:1.7",
+          "pli": "Rūpavā ca hoti, bhogavā ca hoti, sīlavā ca hoti, dakkho ca hoti analaso, pajañcassa labhati—",
+          "en": "He’s attractive, wealthy, and ethical; he’s skillful and tireless, and he begets children."
+        },
+        {
+          "scid": "sn37.2:1.8",
+          "pli": "imehi kho, bhikkhave, pañcahi aṅgehi samannāgato puriso ekantamanāpo hoti mātugāmassā”ti.",
+          "en": "When a man has these five factors he is extremely desirable to a female.”"
+        },
+        {
+          "scid": "sn37.2:1.9",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.2",
+    "volpages": "SN iv 238",
+    "uid": "sn37.2",
+    "blurb": "Five things that make a man either agreeable or disagreeable to women.",
+    "difficulty": null,
+    "original_title": "Purisa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Man",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.2_sujato",
+        "segmented": true,
+        "title": "A Man"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

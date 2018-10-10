@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.125",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.125",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Longevity (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Longevity (2nd)",
+      "uid": "an5.126"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Carer (2nd)",
+      "uid": "an5.124"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.125:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.125:0.2",
+          "pli": "13. Gilānavagga",
+          "en": "13. Sick"
+        },
+        {
+          "scid": "an5.125:0.3",
+          "pli": "125. Paṭhamaanāyussāsutta",
+          "en": "125. Longevity (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.125:1.1",
+          "pli": "“Pañcime, bhikkhave, dhammā anāyussā.",
+          "en": "“Mendicants, these five things impede longevity."
+        },
+        {
+          "scid": "an5.125:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.125:1.3",
+          "pli": "Asappāyakārī hoti, sappāye mattaṃ na jānāti, apariṇatabhojī ca hoti, akālacārī ca hoti, abrahmacārī ca.",
+          "en": "Doing what is unsuitable, not knowing moderation in what is suitable, eating food unfit for consumption, activity at unsuitable times, and unchastity."
+        },
+        {
+          "scid": "an5.125:1.4",
+          "pli": "Ime kho, bhikkhave, pañca dhammā anāyussā.",
+          "en": "These are the five things that impede longevity."
+        },
+        {
+          "scid": "an5.125:2.1",
+          "pli": "Pañcime, bhikkhave, dhammā āyussā.",
+          "en": "These five things promote longevity."
+        },
+        {
+          "scid": "an5.125:2.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.125:2.3",
+          "pli": "Sappāyakārī hoti, sappāye mattaṃ jānāti, pariṇatabhojī ca hoti, kālacārī ca hoti, brahmacārī ca.",
+          "en": "Doing what is suitable, knowing moderation in what is suitable, eating food fit for consumption, activity at suitable times, and celibacy."
+        },
+        {
+          "scid": "an5.125:2.4",
+          "pli": "Ime kho, bhikkhave, pañca dhammā āyussā”ti.",
+          "en": "These are the five things that promote longevity.”"
+        },
+        {
+          "scid": "an5.125:2.5",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.125/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.125",
+    "volpages": "AN iii 145",
+    "uid": "an5.125",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paṭhamaanāyussā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Longevity (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.125_sujato",
+        "segmented": true,
+        "title": "Longevity (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn56.78",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.78",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Plants",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Food at the Wrong Time",
+      "uid": "sn56.79"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nonsense",
+      "uid": "sn56.77"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.78:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.78:0.2",
+          "pli": "8. Dutiyaāmakadhaññapeyyālavagga",
+          "en": "8. Abbreviated Texts on Raw Grain"
+        },
+        {
+          "scid": "sn56.78:0.3",
+          "pli": "78. Bījagāmasutta",
+          "en": "78. Plants"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.78:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye bījagāmabhūtagāmasamārambhā paṭiviratā; atha kho eteva bahutarā sattā ye bījagāmabhūtagāmasamārambhā appaṭiviratā … pe ….",
+          "en": "“… the sentient beings who refrain from injuring plants and seeds are few, while those who don’t refrain are many. …”"
+        },
+        {
+          "scid": "sn56.78:1.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who refrain from…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.78/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.78",
+    "volpages": "SN v 470",
+    "uid": "sn56.78",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bījagāma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Plants",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.78_sujato",
+        "segmented": true,
+        "title": "Plants"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 8
+  }
+}

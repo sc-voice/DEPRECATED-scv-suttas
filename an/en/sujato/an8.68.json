@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an8.68",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an8.68",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Noble Expressions",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Assemblies",
+      "uid": "an8.69"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ignoble Expressions",
+      "uid": "an8.67"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an8.68:0.1",
+          "pli": "Aṅguttara Nikāya 8",
+          "en": "Numbered Discourses 8"
+        },
+        {
+          "scid": "an8.68:0.2",
+          "pli": "7. Bhūmicālavagga",
+          "en": "7. Earthquakes"
+        },
+        {
+          "scid": "an8.68:0.3",
+          "pli": "68. Ariyavohārasutta",
+          "en": "68. Noble Expressions"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an8.68:1.1",
+          "pli": "“Aṭṭhime, bhikkhave, ariyavohārā.",
+          "en": "“Mendicants, there are these eight noble expressions."
+        },
+        {
+          "scid": "an8.68:1.2",
+          "pli": "Katame aṭṭha?",
+          "en": "What eight?"
+        },
+        {
+          "scid": "an8.68:1.3",
+          "pli": "Adiṭṭhe adiṭṭhavāditā, asute asutavāditā, amute amutavāditā, aviññāte aviññātavāditā, diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā.",
+          "en": "Saying you haven’t seen, heard, thought, or cognized something, and you haven’t. And saying you’ve seen, heard, thought, or cognized something, and you have."
+        },
+        {
+          "scid": "an8.68:1.4",
+          "pli": "Ime kho, bhikkhave, aṭṭha ariyavohārā”ti.",
+          "en": "These are the eight noble expressions.”"
+        },
+        {
+          "scid": "an8.68:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an8.68/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 8.68",
+    "volpages": "AN iv 307",
+    "uid": "an8.68",
+    "blurb": "Eight kinds of noble statement that convey the truth.",
+    "difficulty": null,
+    "original_title": "Ariyavohāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Noble Expressions",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an8.68_sujato",
+        "segmented": true,
+        "title": "Noble Expressions"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 8
+  }
+}

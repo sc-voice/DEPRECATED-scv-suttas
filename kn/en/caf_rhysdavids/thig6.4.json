@@ -1,0 +1,139 @@
+{
+  "sutta_uid": "thig6.4",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig6.4",
+    "lang": "en",
+    "is_root": false,
+    "title": "Sujātā",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Anopamā",
+      "uid": "thig6.5"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Khemā",
+      "uid": "thig6.3"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig6.4:0.1",
+          "en": "Therīgāthā 6.4"
+        },
+        {
+          "scid": "thig6.4:0.2",
+          "en": "Sujātā",
+          "pli": "Sujātātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig6.4:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig6.4:1.0.2",
+          "en": "Canto 6"
+        },
+        {
+          "scid": "thig6.4:1.0.3",
+          "en": "4. Sujātā"
+        },
+        {
+          "scid": "thig6.4:1.0.4",
+          "en": "“Adorned in finery, in raiment fair, In garlands wreathed, powdered with sandalwood, Bedecked with all my jewelry, begirt"
+        },
+        {
+          "scid": "thig6.4:1.0.5",
+          "en": "With troop of handmaidens, and well-supplied With food solid and soft, and drink enow, From home I drove me to the fair pleasaunce."
+        },
+        {
+          "scid": "thig6.4:1.0.6",
+          "en": "There did we sport and make a merry time, Then gat us once more on the homeward way. So entered we the grove called Añjana, Hard by Sāketa, where amidst the trees Stands the Vihāra [of the holy men]."
+        },
+        {
+          "scid": "thig6.4:1.0.7",
+          "en": "Him saw I sitting there, Light of the World, And went into his presence worshipping. And of his great compassion for us all, He taught to me the Norm—the One who Sees!"
+        },
+        {
+          "scid": "thig6.4:1.0.8",
+          "en": "Forthwith I, too, could pierce and penetrate, Hearing the truth taught by the mighty Seer, For there, e’en as I sat, my spirit touched The Norm Immaculate, th’ Ambrosial Path."
+        },
+        {
+          "scid": "thig6.4:1.0.9",
+          "en": "Then first it was I left the life of home, When the blest Gospel I had come to know, And now the Threefold Wisdom have I won. O wise and sure the bidding of the Lord!”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig6.4/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 6.4",
+    "volpages": "Thig 137",
+    "uid": "thig6.4",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sujātātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sujātā",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig6.4_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Sujātā"
+      },
+      {
+        "author": "Dr. Hellmuth Hecker, Ayya Khema",
+        "author_short": "Hecker …",
+        "author_uid": "hecker-khema",
+        "id": "en_thig6.4_hecker-khema",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Verses of Final Knowledge of Bhikkhuni Sujata"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

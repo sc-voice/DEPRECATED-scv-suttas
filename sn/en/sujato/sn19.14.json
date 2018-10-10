@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn19.14",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn19.14",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Fishwife",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Sweltering Woman",
+      "uid": "sn19.15"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Flayed Woman",
+      "uid": "sn19.13"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn19.14:0.1",
+          "pli": "Saṃyutta Nikāya 19",
+          "en": "Linked Discourses 19"
+        },
+        {
+          "scid": "sn19.14:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn19.14:0.3",
+          "pli": "14. Maṅgulitthisutta",
+          "en": "14. A Fishwife"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 19…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn19.14:1.1",
+          "pli": "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ itthiṃ duggandhaṃ maṅguliṃ vehāsaṃ gacchantiṃ.",
+          "en": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a stinking fishwife flying through the air."
+        },
+        {
+          "scid": "sn19.14:1.2",
+          "pli": "Tamenaṃ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti.",
+          "en": "Vultures, crows, and hawks kept chasing her, pecking, plucking, and hacking"
+        },
+        {
+          "scid": "sn19.14:1.3",
+          "pli": "Sā sudaṃ aṭṭassaraṃ karoti … pe …",
+          "en": "as she screamed in pain. …” …"
+        },
+        {
+          "scid": "sn19.14:1.4",
+          "pli": "esā, bhikkhave, itthī imasmiṃyeva rājagahe ikkhaṇikā ahosi … pe ….",
+          "en": "“That woman used to be a fortune-teller right here in Rājagaha. …”"
+        },
+        {
+          "scid": "sn19.14:1.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Just now…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn19.14/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 19.14",
+    "volpages": "SN ii 260",
+    "uid": "sn19.14",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Maṅgulitthi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Fishwife",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn19.14_sujato",
+        "segmented": true,
+        "title": "A Fishwife"
+      }
+    ],
+    "parallel_count": 24,
+    "biblio": null,
+    "num": 4
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "sutta_uid": "an4.59",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.59",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Food",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lay Practice",
+      "uid": "an4.60"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sudatta",
+      "uid": "an4.58"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.59:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.59:0.2",
+          "pli": "6. Puññābhisandavagga",
+          "en": "6. Overflowing Merit"
+        },
+        {
+          "scid": "an4.59:0.3",
+          "pli": "59. Bhojanasutta",
+          "en": "59. Food"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.59:1.1",
+          "pli": "“Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ cattāri ṭhānāni deti.",
+          "en": "“Mendicants, when a noble disciple gives food, they give the recipients four things."
+        },
+        {
+          "scid": "an4.59:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.59:1.3",
+          "pli": "Āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti.",
+          "en": "Long life, beauty, happiness, and strength. …”"
+        },
+        {
+          "scid": "an4.59:1.4",
+          "pli": "Āyuṃ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā.",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:1.5",
+          "pli": "Vaṇṇaṃ datvā … sukhaṃ datvā … balaṃ datvā balassa bhāgī hoti dibbassa vā mānusassa vā.",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:1.6",
+          "pli": "Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ imāni cattāri ṭhānāni detīti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:2.1",
+          "pli": "Yo saññatānaṃ paradattabhojinaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:2.2",
+          "pli": "Kālena sakkacca dadāti bhojanaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:2.3",
+          "pli": "Cattāri ṭhānāni anuppavecchati,",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:2.4",
+          "pli": "Āyuñca vaṇṇañca sukhaṃ balañca.",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:3.1",
+          "pli": "So āyudāyī vaṇṇadāyī,",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:3.2",
+          "pli": "sukhaṃ balaṃ dado naro;",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:3.3",
+          "pli": "Dīghāyu yasavā hoti,",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:3.4",
+          "pli": "yattha yatthūpapajjatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.59:3.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.59/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.59",
+    "volpages": "AN ii 64",
+    "uid": "an4.59",
+    "blurb": "Long life, beauty, happiness, and strength.",
+    "difficulty": null,
+    "original_title": "Bhojana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Food",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.59_sujato",
+        "segmented": true,
+        "title": "Food"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.59_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Food"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 9
+  }
+}

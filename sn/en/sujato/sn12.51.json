@@ -1,0 +1,555 @@
+{
+  "sutta_uid": "sn12.51",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.51",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Full Inquiry",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Grasping",
+      "uid": "sn12.52"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Noble Disciple (2nd)",
+      "uid": "sn12.50"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.51:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.51:0.2",
+          "pli": "6. Dukkhavagga",
+          "en": "6. Suffering"
+        },
+        {
+          "scid": "sn12.51:0.3",
+          "pli": "51. Parivīmaṃsanasutta",
+          "en": "51. A Full Inquiry"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.51:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn12.51:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "sn12.51:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "sn12.51:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "sn12.51:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "sn12.51:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "sn12.51:2.1",
+          "pli": "“Kittāvatā nu kho, bhikkhave, bhikkhu parivīmaṃsamāno parivīmaṃseyya sabbaso sammā dukkhakkhayāyā”ti?",
+          "en": "“Mendicants, how do you define a mendicant who is making a full inquiry for the complete ending of suffering?”"
+        },
+        {
+          "scid": "sn12.51:2.2",
+          "pli": "“Bhagavaṃmūlakā no, bhante, dhammā bhagavaṃnettikā bhagavaṃpaṭisaraṇā. Sādhu vata, bhante, bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. Bhagavato sutvā bhikkhū dhāressantī”ti.",
+          "en": "“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.”"
+        },
+        {
+          "scid": "sn12.51:2.3",
+          "pli": "“Tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+          "en": "“Well then, mendicants, listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "sn12.51:2.4",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "sn12.51:2.5",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "sn12.51:3.1",
+          "pli": "“Idha, bhikkhave, bhikkhu parivīmaṃsamāno parivīmaṃsati:",
+          "en": "“Mendicants, take a mendicant who makes a full inquiry:"
+        },
+        {
+          "scid": "sn12.51:3.2",
+          "pli": "‘yaṃ kho idaṃ anekavidhaṃ nānappakārakaṃ dukkhaṃ loke uppajjati jarāmaraṇaṃ;",
+          "en": "‘The suffering that arises in the world starting with old age and death takes many and diverse forms."
+        },
+        {
+          "scid": "sn12.51:3.3",
+          "pli": "idaṃ nu kho dukkhaṃ kiṃnidānaṃ kiṃsamudayaṃ kiṃjātikaṃ kiṃpabhavaṃ?",
+          "en": "What is the source, origin, birthplace, and root of this suffering?"
+        },
+        {
+          "scid": "sn12.51:3.4",
+          "pli": "Kismiṃ sati jarāmaraṇaṃ hoti, kismiṃ asati jarāmaraṇaṃ na hotī’ti?",
+          "en": "When what exists do old age and death come to be? When what does not exist do old age and death not come to be?’"
+        },
+        {
+          "scid": "sn12.51:3.5",
+          "pli": "So parivīmaṃsamāno evaṃ pajānāti:",
+          "en": "While making a full inquiry they understand:"
+        },
+        {
+          "scid": "sn12.51:3.6",
+          "pli": "‘yaṃ kho idaṃ anekavidhaṃ nānappakārakaṃ dukkhaṃ loke uppajjati jarāmaraṇaṃ, idaṃ kho dukkhaṃ jātinidānaṃ jātisamudayaṃ jātijātikaṃ jātippabhavaṃ.",
+          "en": "‘The suffering that arises in the world starting with old age and death takes many and diverse forms. The source of this suffering is rebirth."
+        },
+        {
+          "scid": "sn12.51:3.7",
+          "pli": "Jātiyā sati jarāmaraṇaṃ hoti, jātiyā asati jarāmaraṇaṃ na hotī’ti.",
+          "en": "When rebirth exists, old age and death come to be. When rebirth doesn’t exist, old age and death don’t come to be.’"
+        },
+        {
+          "scid": "sn12.51:4.1",
+          "pli": "So jarāmaraṇañca pajānāti, jarāmaraṇasamudayañca pajānāti, jarāmaraṇanirodhañca pajānāti, yā ca jarāmaraṇanirodhasāruppagāminī paṭipadā tañca pajānāti, tathā paṭipanno ca hoti anudhammacārī;",
+          "en": "They understand old age and death, their origin, their cessation, and the appropriate practice for their cessation. And they practice in line with that path."
+        },
+        {
+          "scid": "sn12.51:4.2",
+          "pli": "ayaṃ vuccati, bhikkhave, bhikkhu sabbaso sammā dukkhakkhayāya paṭipanno jarāmaraṇanirodhāya.",
+          "en": "This is called a mendicant who is practicing for the complete ending of suffering, for the cessation of old age and death."
+        },
+        {
+          "scid": "sn12.51:5.1",
+          "pli": "Athāparaṃ parivīmaṃsamāno parivīmaṃsati:",
+          "en": "Then they inquire further:"
+        },
+        {
+          "scid": "sn12.51:5.2",
+          "pli": "‘jāti panāyaṃ kiṃnidānā kiṃsamudayā kiṃjātikā kiṃpabhavā, kismiṃ sati jāti hoti, kismiṃ asati jāti na hotī’ti?",
+          "en": "‘But what is the source of this rebirth? When what exists does rebirth come to be? And when what does not exist does rebirth not come to be?’"
+        },
+        {
+          "scid": "sn12.51:5.3",
+          "pli": "So parivīmaṃsamāno evaṃ pajānāti:",
+          "en": "While making a full inquiry they understand:"
+        },
+        {
+          "scid": "sn12.51:5.4",
+          "pli": "‘jāti bhavanidānā bhavasamudayā bhavajātikā bhavappabhavā;",
+          "en": "‘Continued existence is the source of rebirth."
+        },
+        {
+          "scid": "sn12.51:5.5",
+          "pli": "bhave sati jāti hoti, bhave asati jāti na hotī’ti.",
+          "en": "When continued existence exists, rebirth comes to be. When continued existence does not exist, rebirth doesn’t come to be.’"
+        },
+        {
+          "scid": "sn12.51:6.1",
+          "pli": "So jātiñca pajānāti, jātisamudayañca pajānāti, jātinirodhañca pajānāti, yā ca jātinirodhasāruppagāminī paṭipadā tañca pajānāti, tathā paṭipanno ca hoti anudhammacārī;",
+          "en": "They understand rebirth, its origin, its cessation, and the appropriate practice for its cessation. And they practice in line with that path."
+        },
+        {
+          "scid": "sn12.51:6.2",
+          "pli": "ayaṃ vuccati, bhikkhave, bhikkhu sabbaso sammā dukkhakkhayāya paṭipanno jātinirodhāya.",
+          "en": "This is called a mendicant who is practicing for the complete ending of suffering, for the cessation of rebirth."
+        },
+        {
+          "scid": "sn12.51:7.1",
+          "pli": "Athāparaṃ parivīmaṃsamāno parivīmaṃsati:",
+          "en": "Then they inquire further:"
+        },
+        {
+          "scid": "sn12.51:7.2",
+          "pli": "‘bhavo panāyaṃ kiṃnidāno … pe …",
+          "en": "‘But what is the source of this continued existence? …’ …"
+        },
+        {
+          "scid": "sn12.51:7.3",
+          "pli": "upādānaṃ panidaṃ kiṃnidānaṃ …",
+          "en": "‘But what is the source of this grasping? …’ …"
+        },
+        {
+          "scid": "sn12.51:7.4",
+          "pli": "taṇhā panāyaṃ kiṃnidānā …",
+          "en": "‘But what is the source of this craving? …’ …"
+        },
+        {
+          "scid": "sn12.51:7.5",
+          "pli": "vedanā …",
+          "en": "‘But what is the source of this feeling? …’ …"
+        },
+        {
+          "scid": "sn12.51:7.6",
+          "pli": "phasso …",
+          "en": "‘But what is the source of this contact? …’ …"
+        },
+        {
+          "scid": "sn12.51:7.7",
+          "pli": "saḷāyatanaṃ panidaṃ kiṃnidānaṃ …",
+          "en": "‘But what is the source of these six sense fields? …’ …"
+        },
+        {
+          "scid": "sn12.51:7.8",
+          "pli": "nāmarūpaṃ panidaṃ …",
+          "en": "‘But what is the source of this name and form? …’ …"
+        },
+        {
+          "scid": "sn12.51:7.9",
+          "pli": "viññāṇaṃ panidaṃ …",
+          "en": "‘But what is the source of this consciousness? …’ …"
+        },
+        {
+          "scid": "sn12.51:7.10",
+          "pli": "saṅkhārā panime kiṃnidānā kiṃsamudayā kiṃjātikā kiṃpabhavā;",
+          "en": "‘But what is the source of these choices?"
+        },
+        {
+          "scid": "sn12.51:7.11",
+          "pli": "kismiṃ sati saṅkhārā honti, kismiṃ asati saṅkhārā na hontī’ti?",
+          "en": "When what exists do choices come to be? When what does not exist do choices not come to be?’"
+        },
+        {
+          "scid": "sn12.51:7.12",
+          "pli": "So parivīmaṃsamāno evaṃ pajānāti:",
+          "en": "While making a full inquiry they understand:"
+        },
+        {
+          "scid": "sn12.51:7.13",
+          "pli": "‘saṅkhārā avijjānidānā avijjāsamudayā avijjājātikā avijjāpabhavā;",
+          "en": "‘Ignorance is the source of choices."
+        },
+        {
+          "scid": "sn12.51:7.14",
+          "pli": "avijjāya sati saṅkhārā honti, avijjāya asati saṅkhārā na hontī’ti.",
+          "en": "When ignorance exists, choices come to be. When ignorance does not exist, choices don’t come to be.’"
+        },
+        {
+          "scid": "sn12.51:8.1",
+          "pli": "So saṅkhāre ca pajānāti, saṅkhārasamudayañca pajānāti, saṅkhāranirodhañca pajānāti, yā ca saṅkhāranirodhasāruppagāminī paṭipadā tañca pajānāti, tathā paṭipanno ca hoti anudhammacārī;",
+          "en": "They understand choices, their origin, their cessation, and the appropriate practice for their cessation. And they practice in line with that path."
+        },
+        {
+          "scid": "sn12.51:8.2",
+          "pli": "ayaṃ vuccati, bhikkhave, bhikkhu sabbaso sammā dukkhakkhayāya paṭipanno saṅkhāranirodhāya.",
+          "en": "This is called a mendicant who is practicing for the complete ending of suffering, for the cessation of choices."
+        },
+        {
+          "scid": "sn12.51:9.1",
+          "pli": "Avijjāgato yaṃ, bhikkhave, purisapuggalo puññañce saṅkhāraṃ abhisaṅkharoti, puññūpagaṃ hoti viññāṇaṃ.",
+          "en": "If an ignorant individual makes a good choice, their consciousness enters a good realm."
+        },
+        {
+          "scid": "sn12.51:9.2",
+          "pli": "Apuññañce saṅkhāraṃ abhisaṅkharoti, apuññūpagaṃ hoti viññāṇaṃ.",
+          "en": "If they make a bad choice, their consciousness enters a bad realm."
+        },
+        {
+          "scid": "sn12.51:9.3",
+          "pli": "Āneñjañce saṅkhāraṃ abhisaṅkharoti āneñjūpagaṃ hoti viññāṇaṃ.",
+          "en": "If they make an imperturbable choice, their consciousness enters an imperturbable realm."
+        },
+        {
+          "scid": "sn12.51:9.4",
+          "pli": "Yato kho, bhikkhave, bhikkhuno avijjā pahīnā hoti vijjā uppannā, so avijjāvirāgā vijjuppādā neva puññābhisaṅkhāraṃ abhisaṅkharoti na apuññābhisaṅkhāraṃ abhisaṅkharoti na āneñjābhisaṅkhāraṃ abhisaṅkharoti.",
+          "en": "When a mendicant has given up ignorance and given rise to knowledge, they don’t make a good choice, a bad choice, or an imperturbable choice."
+        },
+        {
+          "scid": "sn12.51:9.5",
+          "pli": "Anabhisaṅkharonto anabhisañcetayanto na kiñci loke upādiyati; ",
+          "en": "Not choosing or intending, they don’t grasp at anything in the world. "
+        },
+        {
+          "scid": "sn12.51:9.6",
+          "pli": "anupādiyaṃ na paritassati, aparitassaṃ paccattaññeva parinibbāyati.",
+          "en": "Not grasping, they’re not anxious. Not being anxious, they personally become extinguished."
+        },
+        {
+          "scid": "sn12.51:9.7",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’"
+        },
+        {
+          "scid": "sn12.51:10.1",
+          "pli": "So sukhañce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti.",
+          "en": "If they feel a pleasant feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it."
+        },
+        {
+          "scid": "sn12.51:10.2",
+          "pli": "Dukkhañce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti.",
+          "en": "If they feel a painful feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it."
+        },
+        {
+          "scid": "sn12.51:10.3",
+          "pli": "Adukkhamasukhañce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti.",
+          "en": "If they feel a neutral feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it."
+        },
+        {
+          "scid": "sn12.51:10.4",
+          "pli": "So sukhañce vedanaṃ vedayati, visaṃyutto naṃ vedayati.",
+          "en": "If they feel a pleasant feeling, they feel it detached."
+        },
+        {
+          "scid": "sn12.51:10.5",
+          "pli": "Dukkhañce vedanaṃ vedayati, visaṃyutto naṃ vedayati.",
+          "en": "If they feel a painful feeling, they feel it detached."
+        },
+        {
+          "scid": "sn12.51:10.6",
+          "pli": "Adukkhamasukhañce vedanaṃ vedayati, visaṃyutto naṃ vedayati.",
+          "en": "If they feel a neutral feeling, they feel it detached."
+        },
+        {
+          "scid": "sn12.51:11.1",
+          "pli": "So kāyapariyantikaṃ vedanaṃ vedayamāno kāyapariyantikaṃ vedanaṃ vedayāmīti pajānāti, jīvitapariyantikaṃ vedanaṃ vedayamāno jīvitapariyantikaṃ vedanaṃ vedayāmīti pajānāti.",
+          "en": "Feeling the end of the body approaching, they understand: ‘I feel the end of the body approaching.’ Feeling the end of life approaching, they understand: ‘I feel the end of life approaching.’"
+        },
+        {
+          "scid": "sn12.51:11.2",
+          "pli": "Kāyassa bhedā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissanti, sarīrāni avasissantīti pajānāti.",
+          "en": "They understand: ‘When my body breaks up and my life has come to an end, everything that’s felt, since I no longer take pleasure in it, will become cool right here. Only bodily remains will be left.’"
+        },
+        {
+          "scid": "sn12.51:12.1",
+          "pli": "Seyyathāpi, bhikkhave, puriso kumbhakārapākā uṇhaṃ kumbhaṃ uddharitvā same bhūmibhāge paṭisisseyya.",
+          "en": "Suppose a person were to remove a hot clay pot from a potter’s kiln and place it down on level ground."
+        },
+        {
+          "scid": "sn12.51:12.2",
+          "pli": "Tatra yāyaṃ usmā sā tattheva vūpasameyya, kapallāni avasisseyyuṃ.",
+          "en": "Its heat would dissipate right there, and the shards would be left behind."
+        },
+        {
+          "scid": "sn12.51:12.3",
+          "pli": "Evameva kho, bhikkhave, bhikkhu kāyapariyantikaṃ vedanaṃ vedayamāno kāyapariyantikaṃ vedanaṃ vedayāmīti pajānāti, jīvitapariyantikaṃ vedanaṃ vedayamāno jīvitapariyantikaṃ vedanaṃ vedayāmīti pajānāti.",
+          "en": "In the same way, feeling the end of the body approaching, they understand: ‘I feel the end of the body approaching.’ Feeling the end of life approaching, they understand: ‘I feel the end of life approaching.’"
+        },
+        {
+          "scid": "sn12.51:12.4",
+          "pli": "Kāyassa bhedā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissanti, sarīrāni avasissantīti pajānāti.",
+          "en": "They understand: ‘When my body breaks up and my life has come to an end, everything that’s felt, since I no longer take pleasure in it, will become cool right here. Only bodily remains will be left.’"
+        },
+        {
+          "scid": "sn12.51:13.1",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "sn12.51:13.2",
+          "pli": "api nu kho khīṇāsavo bhikkhu puññābhisaṅkhāraṃ vā abhisaṅkhareyya apuññābhisaṅkhāraṃ vā abhisaṅkhareyya āneñjābhisaṅkhāraṃ vā abhisaṅkhareyyā”ti?",
+          "en": "Would a mendicant who has ended the defilements still make good choices, bad choices, or imperturbable choices?”"
+        },
+        {
+          "scid": "sn12.51:13.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:14.1",
+          "pli": "“Sabbaso vā pana saṅkhāresu asati, saṅkhāranirodhā api nu kho viññāṇaṃ paññāyethā”ti?",
+          "en": "“And when there are no choices at all, with the cessation of choices, would consciousness still be found?”"
+        },
+        {
+          "scid": "sn12.51:14.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:15.1",
+          "pli": "“Sabbaso vā pana viññāṇe asati, viññāṇanirodhā api nu kho nāmarūpaṃ paññāyethā”ti?",
+          "en": "“And when there’s no consciousness at all, would name and form still be found?”"
+        },
+        {
+          "scid": "sn12.51:15.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:16.1",
+          "pli": "“Sabbaso vā pana nāmarūpe asati, nāmarūpanirodhā api nu kho saḷāyatanaṃ paññāyethā”ti?",
+          "en": "“And when there are no name and form at all, would the six sense fields still be found?”"
+        },
+        {
+          "scid": "sn12.51:16.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:17.1",
+          "pli": "“Sabbaso vā pana saḷāyatane asati, saḷāyatananirodhā api nu kho phasso paññāyethā”ti?",
+          "en": "“And when there are no six sense fields at all, would contact still be found?”"
+        },
+        {
+          "scid": "sn12.51:17.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:18.1",
+          "pli": "“Sabbaso vā pana phasse asati, phassanirodhā api nu kho vedanā paññāyethā”ti?",
+          "en": "“And when there’s no contact at all, would feeling still be found?”"
+        },
+        {
+          "scid": "sn12.51:18.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:19.1",
+          "pli": "“Sabbaso vā pana vedanāya asati, vedanānirodhā api nu kho taṇhā paññāyethā”ti?",
+          "en": "“And when there’s no feeling at all, would craving still be found?”"
+        },
+        {
+          "scid": "sn12.51:19.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:20.1",
+          "pli": "“Sabbaso vā pana taṇhāya asati, taṇhānirodhā api nu kho upādānaṃ paññāyethā”ti?",
+          "en": "“And when there’s no craving at all, would grasping still be found?”"
+        },
+        {
+          "scid": "sn12.51:20.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:21.1",
+          "pli": "“Sabbaso vā pana upādāne asati, upādānanirodhā api nu kho bhavo paññāyethā”ti.",
+          "en": "“And when there’s no grasping at all, would continued existence still be found?”"
+        },
+        {
+          "scid": "sn12.51:21.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:22.1",
+          "pli": "“Sabbaso vā pana bhave asati, bhavanirodhā api nu kho jāti paññāyethā”ti?",
+          "en": "“And when there’s no continued existence at all, would rebirth still be found?”"
+        },
+        {
+          "scid": "sn12.51:22.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:23.1",
+          "pli": "“Sabbaso vā pana jātiyā asati, jātinirodhā api nu kho jarāmaraṇaṃ paññāyethā”ti?",
+          "en": "“And when there’s no rebirth at all, would old age and death still be found?”"
+        },
+        {
+          "scid": "sn12.51:23.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn12.51:24.1",
+          "pli": "“Sādhu sādhu, bhikkhave, evametaṃ, bhikkhave, netaṃ aññathā.",
+          "en": "“Good, good, mendicants! That’s how it is, not otherwise."
+        },
+        {
+          "scid": "sn12.51:24.2",
+          "pli": "Saddahatha me taṃ, bhikkhave, adhimuccatha, nikkaṅkhā ettha hotha nibbicikicchā.",
+          "en": "Trust me on this, mendicants; be convinced. Have no doubts or uncertainties in this matter."
+        },
+        {
+          "scid": "sn12.51:24.3",
+          "pli": "Esevanto dukkhassā”ti.",
+          "en": "Just this is the end of suffering.”"
+        },
+        {
+          "scid": "sn12.51:24.4",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.51/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.51",
+    "volpages": "SN ii 80",
+    "uid": "sn12.51",
+    "blurb": "A mendicant should thoroughly investigate the causes of suffering in accordance with dependent origination. If someone who still has ignorance makes a choice, their consciousness fares on to a suitable state of existence. But one who has eradicated ignorance is detached and is not reborn anywhere.",
+    "difficulty": null,
+    "original_title": "Parivīmaṃsana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Full Inquiry",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.51_sujato",
+        "segmented": true,
+        "title": "A Full Inquiry"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn12.51_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Thorough Investigation"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

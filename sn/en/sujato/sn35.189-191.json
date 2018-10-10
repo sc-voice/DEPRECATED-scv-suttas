@@ -1,0 +1,115 @@
+{
+  "sutta_uid": "sn35.189-191",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.189-191",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Interior as Suffering in the Three Times",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Interior as Not-Self in the Three Times",
+      "uid": "sn35.192-194"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Interior Is Impermanent in the Present",
+      "uid": "sn35.188"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.189-191:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.189-191:0.2",
+          "pli": "17. Saṭṭhipeyyālavagga",
+          "en": "17. Sixty Abbreviated Texts"
+        },
+        {
+          "scid": "sn35.189-191:0.3",
+          "pli": "189–​191. Ajjhattātītādidukkhasutta",
+          "en": "189–191. The Interior as Suffering in the Three Times"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.189-191:1.1",
+          "pli": "“Cakkhu, bhikkhave, dukkhaṃ atītaṃ anāgataṃ paccuppannaṃ … pe … jivhā dukkhā atītā anāgatā paccuppannā … pe … mano dukkho atīto anāgato paccuppanno.",
+          "en": "“Mendicants, in the past … future … present the eye, ear, nose, tongue, body, and mind are impermanent …”"
+        },
+        {
+          "scid": "sn35.189-191:1.2",
+          "pli": "Evaṃ passaṃ, bhikkhave … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.189-191:1.3",
+          "pli": "nāparaṃ itthattāyāti pajānātī”ti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.189-191/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn35.189-191",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ajjhattātītādidukkha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Interior as Suffering in the Three Times",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.189-191_sujato",
+        "segmented": true,
+        "title": "The Interior as Suffering in the Three Times"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 12
+  }
+}

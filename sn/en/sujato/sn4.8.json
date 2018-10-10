@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn4.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn4.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Delighting",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Life Span (1st)",
+      "uid": "sn4.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sleeping",
+      "uid": "sn4.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn4.8:0.1",
+          "pli": "Saṃyutta Nikāya 4",
+          "en": "Linked Discourses 4"
+        },
+        {
+          "scid": "sn4.8:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. Life Span"
+        },
+        {
+          "scid": "sn4.8:0.3",
+          "pli": "8. Nandatisutta",
+          "en": "8. Delighting"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn4.8:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn4.8:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "sn4.8:1.3",
+          "pli": "Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Then Māra the Wicked went up to the Buddha and recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn4.8:2.1",
+          "pli": "“Nandati puttehi puttimā,",
+          "en": "“Your children bring you delight!"
+        },
+        {
+          "scid": "sn4.8:2.2",
+          "pli": "Gomā gobhi tatheva nandati;",
+          "en": "Your cattle also bring you delight!"
+        },
+        {
+          "scid": "sn4.8:2.3",
+          "pli": "Upadhīhi narassa nandanā,",
+          "en": "For attachments are a man’s delight;"
+        },
+        {
+          "scid": "sn4.8:2.4",
+          "pli": "Na hi so nandati yo nirūpadhī”ti.",
+          "en": "without attachments there’s no delight.”"
+        },
+        {
+          "scid": "sn4.8:3.1",
+          "pli": "“Socati puttehi puttimā,",
+          "en": "“Your children bring you sorrow."
+        },
+        {
+          "scid": "sn4.8:3.2",
+          "pli": "Gomā gobhi tatheva socati;",
+          "en": "Your cattle also bring you sorrow."
+        },
+        {
+          "scid": "sn4.8:3.3",
+          "pli": "Upadhīhi narassa socanā,",
+          "en": "For attachments are a man’s sorrow;"
+        },
+        {
+          "scid": "sn4.8:3.4",
+          "pli": "Na hi so socati yo nirūpadhī”ti.",
+          "en": "without attachments there are no sorrows.”"
+        },
+        {
+          "scid": "sn4.8:4.1",
+          "pli": "Atha kho māro pāpimā “jānāti maṃ bhagavā, jānāti maṃ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+          "en": "Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn4.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 4.8//SN 144",
+    "volpages": "SN i 107//SN i 240",
+    "uid": "sn4.8",
+    "blurb": "The Buddha and Māra exchange verses on whether attachments are a source of delight or suffering.",
+    "difficulty": null,
+    "original_title": "Nandati Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Delighting",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn4.8_sujato",
+        "segmented": true,
+        "title": "Delighting"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn4.8_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "He Delights"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 8
+  }
+}

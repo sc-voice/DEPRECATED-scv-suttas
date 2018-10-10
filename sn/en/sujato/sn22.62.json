@@ -1,0 +1,310 @@
+{
+  "sutta_uid": "sn22.62",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.62",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Scope of Language",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "When You Grasp",
+      "uid": "sn22.63"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Burning",
+      "uid": "sn22.61"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.62:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.62:0.2",
+          "pli": "6. Upayavagga",
+          "en": "6. Involvement"
+        },
+        {
+          "scid": "sn22.62:0.3",
+          "pli": "62. Niruttipathasutta",
+          "en": "62. The Scope of Language"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.62:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.62:1.2",
+          "pli": "“Tayome, bhikkhave, niruttipathā adhivacanapathā paññattipathā asaṅkiṇṇā asaṅkiṇṇapubbā, na saṅkīyanti, na saṅkīyissanti, appaṭikuṭṭhā samaṇehi brāhmaṇehi viññūhi.",
+          "en": "“Mendicants, there are these three scopes of language, terminology, and descriptions. They’re uncorrupted, as they have been since the beginning. They’re not being corrupted now, nor will they be. Sensible ascetics and brahmins don’t look down on them."
+        },
+        {
+          "scid": "sn22.62:1.3",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "sn22.62:1.4",
+          "pli": "Yaṃ, bhikkhave, rūpaṃ atītaṃ niruddhaṃ vipariṇataṃ ‘ahosī’ti tassa saṅkhā, ‘ahosī’ti tassa samaññā, ‘ahosī’ti tassa paññatti;",
+          "en": "When form has passed, ceased, and perished, its designation, label, and description is ‘was’."
+        },
+        {
+          "scid": "sn22.62:1.5",
+          "pli": "na tassa saṅkhā ‘atthī’ti, na tassa saṅkhā ‘bhavissatī’ti.",
+          "en": "It’s not ‘is’ or ‘will be’."
+        },
+        {
+          "scid": "sn22.62:2.1",
+          "pli": "Yā vedanā atītā niruddhā vipariṇatā ‘ahosī’ti tassā saṅkhā, ‘ahosī’ti tassā samaññā, ‘ahosī’ti tassā paññatti;",
+          "en": "When feeling …"
+        },
+        {
+          "scid": "sn22.62:2.2",
+          "pli": "na tassā saṅkhā ‘atthī’ti, na tassā saṅkhā ‘bhavissatī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:3.1",
+          "pli": "Yā saññā …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.62:3.2",
+          "pli": "ye saṅkhārā atītā niruddhā vipariṇatā ‘ahesun’ti tesaṃ saṅkhā, ‘ahesun’ti tesaṃ samaññā, ‘ahesun’ti tesaṃ paññatti;",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.62:3.3",
+          "pli": "na tesaṃ saṅkhā ‘atthī’ti, na tesaṃ saṅkhā ‘bhavissantī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:4.1",
+          "pli": "Yaṃ viññāṇaṃ atītaṃ niruddhaṃ vipariṇataṃ, ‘ahosī’ti tassa saṅkhā, ‘ahosī’ti tassa samaññā, ‘ahosī’ti tassa paññatti;",
+          "en": "consciousness has passed, ceased, and perished, its designation, label, and description is ‘was’."
+        },
+        {
+          "scid": "sn22.62:4.2",
+          "pli": "na tassa saṅkhā ‘atthī’ti, na tassa saṅkhā ‘bhavissatī’ti.",
+          "en": "It’s not ‘is’ or ‘will be’."
+        },
+        {
+          "scid": "sn22.62:5.1",
+          "pli": "Yaṃ, bhikkhave, rūpaṃ ajātaṃ apātubhūtaṃ, ‘bhavissatī’ti tassa saṅkhā, ‘bhavissatī’ti tassa samaññā, ‘bhavissatī’ti tassa paññatti;",
+          "en": "When form is not yet born, and has not yet appeared, its designation, label, and description is ‘will be’."
+        },
+        {
+          "scid": "sn22.62:5.2",
+          "pli": "na tassa saṅkhā ‘atthī’ti, na tassa saṅkhā ‘ahosī’ti.",
+          "en": "It’s not ‘is’ or ‘was’."
+        },
+        {
+          "scid": "sn22.62:6.1",
+          "pli": "Yā vedanā ajātā apātubhūtā, ‘bhavissatī’ti tassā saṅkhā, ‘bhavissatī’ti tassā samaññā, ‘bhavissatī’ti tassā paññatti;",
+          "en": "When feeling …"
+        },
+        {
+          "scid": "sn22.62:6.2",
+          "pli": "na tassā saṅkhā ‘atthī’ti, na tassā saṅkhā ‘ahosī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:7.1",
+          "pli": "Yā saññā …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.62:7.2",
+          "pli": "ye saṅkhārā ajātā apātubhūtā, ‘bhavissantī’ti tesaṃ saṅkhā, ‘bhavissantī’ti tesaṃ samaññā, ‘bhavissantī’ti tesaṃ paññatti;",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.62:7.3",
+          "pli": "na tesaṃ saṅkhā ‘atthī’ti, na tesaṃ saṅkhā ‘ahesun’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:8.1",
+          "pli": "Yaṃ viññāṇaṃ ajātaṃ apātubhūtaṃ, ‘bhavissatī’ti tassa saṅkhā, ‘bhavissatī’ti tassa samaññā, ‘bhavissatī’ti tassa paññatti;",
+          "en": "consciousness is not yet born, and has not yet appeared, its designation, label, and description is ‘will be’."
+        },
+        {
+          "scid": "sn22.62:8.2",
+          "pli": "na tassa saṅkhā ‘atthī’ti, na tassa saṅkhā ‘ahosī’ti.",
+          "en": "It’s not ‘is’ or ‘was’."
+        },
+        {
+          "scid": "sn22.62:9.1",
+          "pli": "Yaṃ, bhikkhave, rūpaṃ jātaṃ pātubhūtaṃ, ‘atthī’ti tassa saṅkhā, ‘atthī’ti tassa samaññā, ‘atthī’ti tassa paññatti;",
+          "en": "When form has been born, and has appeared, its designation, label, and description is ‘is’."
+        },
+        {
+          "scid": "sn22.62:9.2",
+          "pli": "na tassa saṅkhā ‘ahosī’ti, na tassa saṅkhā ‘bhavissatī’ti.",
+          "en": "It’s not ‘was’ or ‘will be’."
+        },
+        {
+          "scid": "sn22.62:10.1",
+          "pli": "Yā vedanā jātā pātubhūtā, ‘atthī’ti tassā saṅkhā, ‘atthī’ti tassā samaññā, ‘atthī’ti tassā paññatti;",
+          "en": "When feeling …"
+        },
+        {
+          "scid": "sn22.62:10.2",
+          "pli": "na tassā saṅkhā ‘ahosī’ti, na tassā saṅkhā ‘bhavissatī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:11.1",
+          "pli": "Yā saññā …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.62:11.2",
+          "pli": "ye saṅkhārā jātā pātubhūtā, ‘atthī’ti tesaṃ saṅkhā, ‘atthī’ti tesaṃ samaññā, ‘atthī’ti tesaṃ paññatti;",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.62:11.3",
+          "pli": "na tesaṃ saṅkhā ‘ahesun’ti, na tesaṃ saṅkhā, ‘bhavissantī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:12.1",
+          "pli": "Yaṃ viññāṇaṃ jātaṃ pātubhūtaṃ, ‘atthī’ti tassa saṅkhā, ‘atthī’ti tassa samaññā, ‘atthī’ti tassa paññatti;",
+          "en": "consciousness has been born, and has appeared, its designation, label, and description is ‘is’."
+        },
+        {
+          "scid": "sn22.62:12.2",
+          "pli": "na tassa saṅkhā ‘ahosī’ti, na tassa saṅkhā ‘bhavissatī’ti.",
+          "en": "It’s not ‘was’ or ‘will be’."
+        },
+        {
+          "scid": "sn22.62:13.1",
+          "pli": "Ime kho, bhikkhave, tayo niruttipathā adhivacanapathā paññattipathā asaṃkiṇṇā asaṃkiṇṇapubbā, na saṅkīyanti, na saṅkīyissanti, appaṭikuṭṭhā samaṇehi brāhmaṇehi viññūhi.",
+          "en": "These are the three scopes of language, terminology, and descriptions. They’re uncorrupted, as they have been since the beginning. They’re not being corrupted now, nor will they be. Sensible ascetics and brahmins don’t look down on them."
+        },
+        {
+          "scid": "sn22.62:13.2",
+          "pli": "Yepi te, bhikkhave, ahesuṃ ukkalā vassabhaññā ahetukavādā akiriyavādā natthikavādā, tepime tayo niruttipathe adhivacanapathe paññattipathe na garahitabbaṃ nappaṭikkositabbaṃ amaññiṃsu.",
+          "en": "Even those wanderers of the past, Vassa and Bhañña of Ukkalā, who taught the doctrines of no-cause, inaction, and nihilism, didn’t imagine that these three scopes of language should be criticized or rejected."
+        },
+        {
+          "scid": "sn22.62:13.3",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "sn22.62:13.4",
+          "pli": "Nindāghaṭṭanabyārosaupārambhabhayā”ti.",
+          "en": "For fear of being blamed, criticized, and faulted.”"
+        },
+        {
+          "scid": "sn22.62:13.5",
+          "pli": "Majjhimapaṇṇāsakassa upayavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:14.1",
+          "pli": "Upayo bījaṃ udānaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:14.2",
+          "pli": "Upādānaparivattaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:14.3",
+          "pli": "Sattaṭṭhānañca sambuddho,",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:14.4",
+          "pli": "Pañcamahāli ādittā;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.62:14.5",
+          "pli": "Vaggo niruttipathena cāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.62/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.62",
+    "volpages": "SN iii 71",
+    "uid": "sn22.62",
+    "blurb": "All philosophers must accept that the five aggregates are described in language that refers to either the past, future, or present.",
+    "difficulty": null,
+    "original_title": "Niruttipatha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Scope of Language",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.62_sujato",
+        "segmented": true,
+        "title": "The Scope of Language"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.62_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Pathways of Language"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 10
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an2.230-279",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an2.230-279",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an2.280-309"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an2.180-229"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an2.230-279:0.1",
+          "pli": "Aṅguttara Nikāya 2",
+          "en": "Numbered Discourses 2"
+        },
+        {
+          "scid": "an2.230-279:0.2",
+          "pli": "17. Akusalapeyyāla",
+          "en": "17. Abbreviated Texts Beginning with the Unskillful"
+        },
+        {
+          "scid": "an2.230-279:0.3",
+          "pli": "230–279",
+          "en": "230–279"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an2.230-279:1.1",
+          "pli": "“Dveme, bhikkhave, dhammā akusalā … dveme, bhikkhave, dhammā kusalā … dveme, bhikkhave, dhammā sāvajjā … dveme, bhikkhave, dhammā anavajjā … dveme, bhikkhave, dhammā dukkhudrayā … dveme, bhikkhave, dhammā sukhudrayā … dveme, bhikkhave, dhammā dukkhavipākā … dveme, bhikkhave, dhammā sukhavipākā … dveme, bhikkhave, dhammā sabyābajjhā … dveme, bhikkhave, dhammā abyābajjhā.",
+          "en": "“These two things are unskillful … are skillful … are blameworthy … are blameless … have suffering as outcome … have happiness as outcome … result in suffering … result in happiness … are hurtful … are not hurtful."
+        },
+        {
+          "scid": "an2.230-279:1.2",
+          "pli": "Katame dve?",
+          "en": "What two?"
+        },
+        {
+          "scid": "an2.230-279:1.3",
+          "pli": "Akkodho ca anupanāho ca … amakkho ca apaḷāso ca … anissā ca amacchariyañca … amāyā ca asāṭheyyañca … hirī ca ottappañca.",
+          "en": "Freedom from anger and hostility … freedom from offensiveness and contempt … freedom from envy and stinginess … freedom from deceit and deviousness … conscience and prudence."
+        },
+        {
+          "scid": "an2.230-279:1.4",
+          "pli": "Ime kho, bhikkhave, dve dhammā abyābajjhā”ti. (1–50.)",
+          "en": "These are the two things that are not hurtful.”"
+        },
+        {
+          "scid": "an2.230-279:1.5",
+          "pli": "Akusalapeyyālaṃ niṭṭhitaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“These two things are unskillful … are…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an2.230-279/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 2.230–279//AN 2.16.51–100",
+    "volpages": "AN i 97",
+    "uid": "an2.230-279",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Akusala Peyyāla Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an2.230-279_sujato",
+        "segmented": true,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

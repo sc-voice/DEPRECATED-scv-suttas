@@ -1,0 +1,117 @@
+{
+  "sutta_uid": "thig3.8",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig3.8",
+    "lang": "en",
+    "is_root": false,
+    "title": "Somā",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Bhaddā of the Kapilas",
+      "uid": "thig4.1"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Selā",
+      "uid": "thig3.7"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.8:0.1",
+          "en": "Therīgāthā 3.8"
+        },
+        {
+          "scid": "thig3.8:0.2",
+          "en": "Somā",
+          "pli": "Somātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig3.8:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig3.8:1.0.2",
+          "en": "Canto 3"
+        },
+        {
+          "scid": "thig3.8:1.0.3",
+          "en": "8. Somā"
+        },
+        {
+          "scid": "thig3.8:1.0.4",
+          "en": "“Mara. That vantage-ground the sages may attain is hard To reach. With her two-finger consciousness That is no woman competent to gain!"
+        },
+        {
+          "scid": "thig3.8:1.0.5",
+          "en": "Therī. How should the woman’s nature hinder us? Whose hearts are firmly set, who ever move With growing knowledge onward in the Path? What can that signify to one in whom Insight doth truly comprehend the Norm?"
+        },
+        {
+          "scid": "thig3.8:1.0.6",
+          "en": "On every hand the love of pleasure yields, And the thick gloom of ignorance is rent In twain. Know this, O Evil One, avaunt! Here, O Destroyer! shalt thou not prevail.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.8/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 3.8",
+    "volpages": "Thig 129",
+    "uid": "thig3.8",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Somātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Somā",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.8_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Somā"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 8
+  }
+}

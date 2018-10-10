@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an7.38",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.38",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Textual Analysis (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Textual Analysis (2nd)",
+      "uid": "an7.39"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Friend (2nd)",
+      "uid": "an7.37"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.38:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.38:0.2",
+          "pli": "4. devatāvagga",
+          "en": "4. Deities"
+        },
+        {
+          "scid": "an7.38:0.3",
+          "pli": "38. Paṭhamapaṭisambhidāsutta",
+          "en": "38. Textual Analysis (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.38:1.1",
+          "pli": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva catasso paṭisambhidā sayaṃ abhiññā sacchikatvā upasampajja vihareyya.",
+          "en": "“Mendicants, a mendicant with seven qualities will soon realize the four kinds of textual analysis and live having achieved them with their own insight."
+        },
+        {
+          "scid": "an7.38:1.2",
+          "pli": "Katamehi sattahi?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.38:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu ‘idaṃ me cetaso līnattan’ti yathābhūtaṃ pajānāti;",
+          "en": "It’s when a mendicant truly understands: ‘This is mental sluggishness.’"
+        },
+        {
+          "scid": "an7.38:1.4",
+          "pli": "ajjhattaṃ saṅkhittaṃ vā cittaṃ ‘ajjhattaṃ me saṅkhittaṃ cittan’ti yathābhūtaṃ pajānāti;",
+          "en": "They truly understand internally contracted mind as ‘internally contracted mind’."
+        },
+        {
+          "scid": "an7.38:1.5",
+          "pli": "bahiddhā vikkhittaṃ vā cittaṃ ‘bahiddhā me vikkhittaṃ cittan’ti yathābhūtaṃ pajānāti;",
+          "en": "They truly understand externally scattered mind as ‘externally scattered mind’."
+        },
+        {
+          "scid": "an7.38:1.6",
+          "pli": "tassa viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti;",
+          "en": "They know feelings as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "an7.38:1.7",
+          "pli": "viditā saññā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti;",
+          "en": "They know perceptions as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "an7.38:1.8",
+          "pli": "viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti;",
+          "en": "They know thoughts as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "an7.38:1.9",
+          "pli": "sappāyāsappāyesu kho panassa dhammesu hīnappaṇītesu kaṇhasukkasappaṭibhāgesu nimittaṃ suggahitaṃ hoti sumanasikataṃ sūpadhāritaṃ suppaṭividdhaṃ paññāya.",
+          "en": "The characteristics of qualities—suitable or unsuitable, inferior or superior, or those on the side of dark or bright—are properly grasped, attended, borne in mind, and comprehended with wisdom."
+        },
+        {
+          "scid": "an7.38:1.10",
+          "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu nacirasseva catasso paṭisambhidā sayaṃ abhiññā sacchikatvā upasampajja vihareyyā”ti.",
+          "en": "A mendicant with these seven qualities will soon realize the four kinds of textual analysis and live having achieved them with their own insight.”"
+        },
+        {
+          "scid": "an7.38:1.11",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.38/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.38//AN 7.37a",
+    "volpages": "AN iv 32",
+    "uid": "an7.38",
+    "blurb": "With seven qualities, a mendicant will soon realize the four kinds of textual analysis.",
+    "difficulty": null,
+    "original_title": "Paṭhamapaṭisambhidā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Textual Analysis (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.38_sujato",
+        "segmented": true,
+        "title": "Textual Analysis (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

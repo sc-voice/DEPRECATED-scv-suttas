@@ -1,0 +1,505 @@
+{
+  "sutta_uid": "sn44.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn44.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Moggallāna",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Vacchagotta",
+      "uid": "sn44.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sāriputta and Koṭṭhita (4th)",
+      "uid": "sn44.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn44.7:0.1",
+          "pli": "Saṃyutta Nikāya 44",
+          "en": "Linked Discourses 44"
+        },
+        {
+          "scid": "sn44.7:0.2",
+          "pli": "1. Abyākatavagga",
+          "en": "1. The Undeclared Points"
+        },
+        {
+          "scid": "sn44.7:0.3",
+          "pli": "7. Moggallānasutta",
+          "en": "7. With Moggallāna"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 44…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn44.7:1.1",
+          "pli": "Atha kho vacchagotto paribbājako yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahāmoggallānena saddhiṃ sammodi.",
+          "en": "Then the wanderer Vacchagotta went up to Venerable Mahāmoggallāna, and exchanged greetings with him."
+        },
+        {
+          "scid": "sn44.7:1.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vacchagotto paribbājako āyasmantaṃ mahāmoggallānaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side, and said to Mahāmoggallāna:"
+        },
+        {
+          "scid": "sn44.7:2.1",
+          "pli": "“Kiṃ nu kho, bho moggallāna, sassato loko”ti?",
+          "en": "“Master Moggallāna, is this right: ‘the world is eternal’?”"
+        },
+        {
+          "scid": "sn44.7:2.2",
+          "pli": "“Abyākataṃ kho etaṃ, vaccha, bhagavatā:",
+          "en": "“Vaccha, this has not been declared by the Buddha.”"
+        },
+        {
+          "scid": "sn44.7:2.3",
+          "pli": "‘sassato loko’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.4",
+          "pli": "“Kiṃ pana, bho moggallāna, asassato loko”ti?",
+          "en": "“Then is this right: ‘the world is not eternal’ …"
+        },
+        {
+          "scid": "sn44.7:2.5",
+          "pli": "“Etampi kho, vaccha, abyākataṃ bhagavatā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.6",
+          "pli": "‘asassato loko’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.7",
+          "pli": "“Kiṃ nu kho, bho moggallāna, antavā loko”ti?",
+          "en": "‘the world is finite’ …"
+        },
+        {
+          "scid": "sn44.7:2.8",
+          "pli": "“Abyākataṃ kho etaṃ, vaccha, bhagavatā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.9",
+          "pli": "‘antavā loko’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.10",
+          "pli": "“Kiṃ pana, bho moggallāna, anantavā loko”ti?",
+          "en": "‘the world is infinite’ …"
+        },
+        {
+          "scid": "sn44.7:2.11",
+          "pli": "“Etampi kho, vaccha, abyākataṃ bhagavatā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.12",
+          "pli": "‘anantavā loko’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.13",
+          "pli": "“Kiṃ nu kho, bho moggallāna, taṃ jīvaṃ taṃ sarīran”ti?",
+          "en": "‘the soul and the body are identical’ …"
+        },
+        {
+          "scid": "sn44.7:2.14",
+          "pli": "“Abyākataṃ kho etaṃ, vaccha, bhagavatā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.15",
+          "pli": "‘taṃ jīvaṃ taṃ sarīran’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.16",
+          "pli": "“Kiṃ pana, bho moggallāna, aññaṃ jīvaṃ aññaṃ sarīran”ti?",
+          "en": "‘the soul and the body are different things’ …"
+        },
+        {
+          "scid": "sn44.7:2.17",
+          "pli": "“Etampi kho, vaccha, abyākataṃ bhagavatā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.18",
+          "pli": "‘aññaṃ jīvaṃ aññaṃ sarīran’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.19",
+          "pli": "“Kiṃ nu kho, bho moggallāna, hoti tathāgato paraṃ maraṇā”ti?",
+          "en": "‘a Realized One exists after death’ …"
+        },
+        {
+          "scid": "sn44.7:2.20",
+          "pli": "“Abyākataṃ kho etaṃ, vaccha, bhagavatā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.21",
+          "pli": "‘hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.22",
+          "pli": "“Kiṃ pana, bho moggallāna, na hoti tathāgato paraṃ maraṇā”ti?",
+          "en": "‘a Realized One doesn’t exist after death’ …"
+        },
+        {
+          "scid": "sn44.7:2.23",
+          "pli": "“Etampi kho, vaccha, abyākataṃ bhagavatā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.24",
+          "pli": "‘na hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.25",
+          "pli": "“Kiṃ nu kho, bho moggallāna, hoti ca na ca hoti tathāgato paraṃ maraṇā”ti?",
+          "en": "‘a Realized One both exists and doesn’t exist after death’ …"
+        },
+        {
+          "scid": "sn44.7:2.26",
+          "pli": "“Abyākataṃ kho etaṃ, vaccha, bhagavatā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.27",
+          "pli": "‘hoti ca na ca hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:2.28",
+          "pli": "“Kiṃ pana, bho moggallāna, neva hoti na na hoti tathāgato paraṃ maraṇā”ti?",
+          "en": "‘a Realized One neither exists nor doesn’t exist after death’?”"
+        },
+        {
+          "scid": "sn44.7:2.29",
+          "pli": "“Etampi kho, vaccha, abyākataṃ bhagavatā:",
+          "en": "“This too has not been declared by the Buddha.”"
+        },
+        {
+          "scid": "sn44.7:2.30",
+          "pli": "‘neva hoti na na hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:3.1",
+          "pli": "“Ko nu kho, bho moggallāna, hetu ko paccayo, yena aññatitthiyānaṃ paribbājakānaṃ evaṃ puṭṭhānaṃ evaṃ veyyākaraṇaṃ hoti—",
+          "en": "“What’s the cause, Master Moggallāna, what’s the reason why the wanderers who follow other paths answer these questions when asked?"
+        },
+        {
+          "scid": "sn44.7:3.2",
+          "pli": "sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vā?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:3.3",
+          "pli": "Ko pana, bho moggallāna, hetu ko paccayo, yena samaṇassa gotamassa evaṃ puṭṭhassa na evaṃ veyyākaraṇaṃ hoti—",
+          "en": "And what’s the cause, what’s the reason why the ascetic Gotama doesn’t answer these questions when asked?”"
+        },
+        {
+          "scid": "sn44.7:3.4",
+          "pli": "sassato lokotipi, asassato lokotipi, antavā lokotipi, anantavā lokotipi, taṃ jīvaṃ taṃ sarīrantipi, aññaṃ jīvaṃ aññaṃ sarīrantipi, hoti tathāgato paraṃ maraṇātipi, na hoti tathāgato paraṃ maraṇātipi, hoti ca na ca hoti tathāgato paraṃ maraṇātipi, neva hoti na na hoti tathāgato paraṃ maraṇātipī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:4.1",
+          "pli": "“Aññatitthiyā kho, vaccha, paribbājakā cakkhuṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassanti … pe …",
+          "en": "“Vaccha, the wanderers who follow other paths regard the eye like this: ‘This is mine, I am this, this is my self.’ They regard the ear … nose …"
+        },
+        {
+          "scid": "sn44.7:4.2",
+          "pli": "jivhaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassanti … pe …",
+          "en": "tongue … body …"
+        },
+        {
+          "scid": "sn44.7:4.3",
+          "pli": "manaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassanti.",
+          "en": "mind like this: ‘This is mine, I am this, this is my self.’"
+        },
+        {
+          "scid": "sn44.7:4.4",
+          "pli": "Tasmā aññatitthiyānaṃ paribbājakānaṃ evaṃ puṭṭhānaṃ evaṃ veyyākaraṇaṃ hoti—",
+          "en": "That’s why they answer these questions when asked."
+        },
+        {
+          "scid": "sn44.7:4.5",
+          "pli": "sassato lokoti vā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:4.6",
+          "pli": "neva hoti na na hoti tathāgato paraṃ maraṇāti vā.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:4.7",
+          "pli": "Tathāgato ca kho, vaccha, arahaṃ sammāsambuddho cakkhuṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati … pe …",
+          "en": "The Realized One, the perfected one, the fully awakened Buddha doesn’t regard the eye like this: ‘This is mine, I am this, this is my self.’ He doesn’t regard the ear … nose …"
+        },
+        {
+          "scid": "sn44.7:4.8",
+          "pli": "jivhaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati … pe …",
+          "en": "tongue … body …"
+        },
+        {
+          "scid": "sn44.7:4.9",
+          "pli": "manaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati.",
+          "en": "mind like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "sn44.7:4.10",
+          "pli": "Tasmā tathāgatassa evaṃ puṭṭhassa na evaṃ veyyākaraṇaṃ hoti—",
+          "en": "That’s why he doesn’t answer these questions when asked.”"
+        },
+        {
+          "scid": "sn44.7:4.11",
+          "pli": "sassato lokotipi … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:4.12",
+          "pli": "neva hoti na na hoti tathāgato paraṃ maraṇātipī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:5.1",
+          "pli": "Atha kho vacchagotto paribbājako uṭṭhāyāsanā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi.",
+          "en": "Then the wanderer Vacchagotta got up from his seat and went to the Buddha and exchanged greetings with him."
+        },
+        {
+          "scid": "sn44.7:5.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side. He asked the Buddha the same questions, and received the same answers. Then he said:"
+        },
+        {
+          "scid": "sn44.7:5.3",
+          "pli": "“kiṃ nu kho, bho gotama, sassato loko”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:5.4",
+          "pli": "“Abyākataṃ kho etaṃ, vaccha, mayā: ‘sassato loko’ti … pe ….",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:5.5",
+          "pli": "“Kiṃ pana, bho gotama, neva hoti na na hoti tathāgato paraṃ maraṇā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:5.6",
+          "pli": "“Etampi kho, vaccha, abyākataṃ mayā:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:5.7",
+          "pli": "‘neva hoti na na hoti tathāgato paraṃ maraṇā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:6.1",
+          "pli": "“Ko nu kho, bho gotama, hetu ko paccayo, yena aññatitthiyānaṃ paribbājakānaṃ evaṃ puṭṭhānaṃ evaṃ veyyākaraṇaṃ hoti:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:6.2",
+          "pli": "‘sassato loko’ti vā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:6.3",
+          "pli": "‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti vā?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:6.4",
+          "pli": "Ko pana, bho gotama, hetu ko paccayo, yena bhoto gotamassa evaṃ puṭṭhassa na evaṃ veyyākaraṇaṃ hoti:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:6.5",
+          "pli": "‘sassato loko’tipi … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:6.6",
+          "pli": "‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.1",
+          "pli": "“Aññatitthiyā kho, vaccha, paribbājakā cakkhuṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassanti … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.2",
+          "pli": "jivhaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassanti … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.3",
+          "pli": "manaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassanti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.4",
+          "pli": "Tasmā aññatitthiyānaṃ paribbājakānaṃ evaṃ puṭṭhānaṃ evaṃ veyyākaraṇaṃ hoti:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.5",
+          "pli": "‘sassato loko’ti vā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.6",
+          "pli": "‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti vā.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.7",
+          "pli": "Tathāgato ca kho, vaccha, arahaṃ sammāsambuddho cakkhuṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.8",
+          "pli": "jivhaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.9",
+          "pli": "manaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti samanupassati.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.10",
+          "pli": "Tasmā tathāgatassa evaṃ puṭṭhassa na evaṃ veyyākaraṇaṃ hoti:",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:7.11",
+          "pli": "‘sassato loko’tipi, ‘asassato loko’tipi, ‘antavā loko’tipi, ‘anantavā loko’tipi, ‘taṃ jīvaṃ taṃ sarīran’tipi, ‘aññaṃ jīvaṃ aññaṃ sarīran’tipi, ‘hoti tathāgato paraṃ maraṇā’tipi, ‘na hoti tathāgato paraṃ maraṇā’tipi, ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’tipi, ‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn44.7:8.1",
+          "pli": "“Acchariyaṃ, bho gotama, abbhutaṃ, bho gotama.",
+          "en": "“It’s incredible, Master Gotama, it’s amazing!"
+        },
+        {
+          "scid": "sn44.7:8.2",
+          "pli": "Yatra hi nāma satthu ca sāvakassa ca atthena attho byañjanena byañjanaṃ saṃsandissati samessati na virodhayissati, yadidaṃ aggapadasmiṃ.",
+          "en": "How the meaning and the phrasing of the teacher and the disciple fit together and agree without contradiction when it comes to the chief matter!"
+        },
+        {
+          "scid": "sn44.7:8.3",
+          "pli": "Idānāhaṃ, bho gotama, samaṇaṃ mahāmoggallānaṃ upasaṅkamitvā etamatthaṃ apucchiṃ.",
+          "en": "Just now I went to the ascetic Mahāmoggallāna and asked him about this matter."
+        },
+        {
+          "scid": "sn44.7:8.4",
+          "pli": "Samaṇopi me moggallāno etehi padehi etehi byañjanehi tamatthaṃ byākāsi, seyyathāpi bhavaṃ gotamo.",
+          "en": "And he explained it to me with these words and phrases, just like Master Gotama."
+        },
+        {
+          "scid": "sn44.7:8.5",
+          "pli": "Acchariyaṃ, bho gotama, abbhutaṃ, bho gotama.",
+          "en": "It’s incredible, Master Gotama, it’s amazing!"
+        },
+        {
+          "scid": "sn44.7:8.6",
+          "pli": "Yatra hi nāma satthu ca sāvakassa ca atthena attho byañjanena byañjanaṃ saṃsandissati samessati na virodhayissati, yadidaṃ aggapadasmin”ti.",
+          "en": "How the meaning and the phrasing of the teacher and the disciple fit together and agree without contradiction when it comes to the chief matter!”"
+        },
+        {
+          "scid": "sn44.7:8.7",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then the wanderer Vacchagotta went up to…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn44.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 44.7",
+    "volpages": "SN iv 391",
+    "uid": "sn44.7",
+    "blurb": "The wanderer Vacchagotta asks Moggallāna the ten metaphysical questions, starting with whether the cosmos is eternal. Moggallāna says such questions would only be answered by someone who identifies with the six senses. Vacchagotta then asks the Buddha the same questions.",
+    "difficulty": null,
+    "original_title": "Moggallāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Moggallāna",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn44.7_sujato",
+        "segmented": true,
+        "title": "With Moggallāna"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn44.7_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Moggallana"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 7
+  }
+}

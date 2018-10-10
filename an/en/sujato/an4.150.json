@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an4.150",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.150",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Essentials",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Faculties",
+      "uid": "an4.151"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Good Conduct",
+      "uid": "an4.149"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.150:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.150:0.2",
+          "pli": "15. Ābhāvagga",
+          "en": "15. Brightness"
+        },
+        {
+          "scid": "an4.150:0.3",
+          "pli": "150. Sārasutta",
+          "en": "150. Essentials"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.150:1.1",
+          "pli": "“Cattārome, bhikkhave, sārā.",
+          "en": "“Mendicants, there are these four essentials."
+        },
+        {
+          "scid": "an4.150:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.150:1.3",
+          "pli": "Sīlasāro, samādhisāro, paññāsāro, vimuttisāro—",
+          "en": "Ethics, immersion, wisdom, and freedom are essentials."
+        },
+        {
+          "scid": "an4.150:1.4",
+          "pli": "ime kho, bhikkhave, cattāro sārā”ti.",
+          "en": "These are the four essentials.”"
+        },
+        {
+          "scid": "an4.150:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.150:1.6",
+          "pli": "Ābhāvaggo pañcamo.",
+          "en": ""
+        },
+        {
+          "scid": "an4.150:2.1",
+          "pli": "Ābhā pabhā ca ālokā,",
+          "en": ""
+        },
+        {
+          "scid": "an4.150:2.2",
+          "pli": "obhāsā ceva pajjotā;",
+          "en": ""
+        },
+        {
+          "scid": "an4.150:2.3",
+          "pli": "Dve kālā caritā dve ca,",
+          "en": ""
+        },
+        {
+          "scid": "an4.150:2.4",
+          "pli": "honti sārena te dasāti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.150:2.5",
+          "pli": "Tatiyo paṇṇāsako samatto.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.150/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.150",
+    "volpages": "AN ii 141",
+    "uid": "an4.150",
+    "blurb": "Morality, convergence, wisdom, and freedom are essentials.",
+    "difficulty": null,
+    "original_title": "Sāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Essentials",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.150_sujato",
+        "segmented": true,
+        "title": "Essentials"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "sutta_uid": "an4.192",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.192",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Facts",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Bhaddiya",
+      "uid": "an4.193"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Followed by Ear",
+      "uid": "an4.191"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.192:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.192:0.2",
+          "pli": "20. Mahāvagga",
+          "en": "20. The Great Chapter"
+        },
+        {
+          "scid": "an4.192:0.3",
+          "pli": "192. Ṭhānasutta",
+          "en": "192. Facts"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.192:1.1",
+          "pli": "“Cattārimāni, bhikkhave, ṭhānāni catūhi ṭhānehi veditabbāni.",
+          "en": "“Mendicants, these four things can be known in four situations."
+        },
+        {
+          "scid": "an4.192:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.192:1.3",
+          "pli": "Saṃvāsena, bhikkhave, sīlaṃ veditabbaṃ, tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena.",
+          "en": "You can get to know a person’s ethics by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless."
+        },
+        {
+          "scid": "an4.192:1.4",
+          "pli": "Saṃvohārena, bhikkhave, soceyyaṃ veditabbaṃ, tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena.",
+          "en": "You can get to know a person’s purity by dealing with them. …"
+        },
+        {
+          "scid": "an4.192:1.5",
+          "pli": "Āpadāsu, bhikkhave, thāmo veditabbo, so ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena.",
+          "en": "You can get to know a person’s resilience in times of trouble. …"
+        },
+        {
+          "scid": "an4.192:1.6",
+          "pli": "Sākacchāya, bhikkhave, paññā veditabbā, sā ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenāti.",
+          "en": "You can get to know a person’s wisdom by discussion. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless."
+        },
+        {
+          "scid": "an4.192:2.1",
+          "pli": "‘Saṃvāsena, bhikkhave, sīlaṃ veditabbaṃ, tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, ",
+          "en": "‘You can get to know a person’s ethics by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless.’ "
+        },
+        {
+          "scid": "an4.192:2.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an4.192:2.3",
+          "pli": "Idha, bhikkhave, puggalo puggalena saddhiṃ saṃvasamāno evaṃ jānāti:",
+          "en": "Take a person who’s living with someone else. They come to know:"
+        },
+        {
+          "scid": "an4.192:2.4",
+          "pli": "‘dīgharattaṃ kho ayamāyasmā khaṇḍakārī chiddakārī sabalakārī kammāsakārī, na santatakārī na santatavutti;",
+          "en": "‘For a long time this venerable’s deeds have been corrupt, flawed, blemished, and tainted. Their deeds and behavior are inconsistent."
+        },
+        {
+          "scid": "an4.192:2.5",
+          "pli": "sīlesu dussīlo ayamāyasmā, nāyamāyasmā sīlavā’ti.",
+          "en": "This venerable is unethical, not ethical.’"
+        },
+        {
+          "scid": "an4.192:3.1",
+          "pli": "Idha pana, bhikkhave, puggalo puggalena saddhiṃ saṃvasamāno evaṃ jānāti:",
+          "en": "Take another person who’s living with someone else. They come to know:"
+        },
+        {
+          "scid": "an4.192:3.2",
+          "pli": "‘dīgharattaṃ kho ayamāyasmā akhaṇḍakārī acchiddakārī asabalakārī akammāsakārī santatakārī santatavutti;",
+          "en": "‘For a long time this venerable’s deeds have been uncorrupted, unflawed, unblemished, and untainted. Their deeds and behavior are consistent."
+        },
+        {
+          "scid": "an4.192:3.3",
+          "pli": "sīlesu sīlavā ayamāyasmā, nāyamāyasmā dussīlo’ti.",
+          "en": "This venerable is ethical, not unethical.’"
+        },
+        {
+          "scid": "an4.192:3.4",
+          "pli": "‘Saṃvāsena, bhikkhave, sīlaṃ veditabbaṃ, tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (1)",
+          "en": "That’s why I said that you can get know a person’s ethics by living with them. But only after a long time, not a short time; only when paying attention, not when inattentive; and only by the wise, not the witless."
+        },
+        {
+          "scid": "an4.192:4.1",
+          "pli": "‘Saṃvohārena, bhikkhave, soceyyaṃ veditabbaṃ, tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, ",
+          "en": "‘You can get to know a person’s purity by dealing with them. …’"
+        },
+        {
+          "scid": "an4.192:4.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an4.192:4.3",
+          "pli": "Idha, bhikkhave, puggalo puggalena saddhiṃ saṃvoharamāno evaṃ jānāti:",
+          "en": "Take a person who has dealings with someone else. They come to know:"
+        },
+        {
+          "scid": "an4.192:4.4",
+          "pli": "‘aññathā kho ayamāyasmā ekena eko voharati, aññathā dvīhi, aññathā tīhi, aññathā sambahulehi;",
+          "en": "‘This venerable deals with one person in one way. Then they deal with two, three, or many people each in different ways."
+        },
+        {
+          "scid": "an4.192:4.5",
+          "pli": "vokkamati ayamāyasmā purimavohārā pacchimavohāraṃ;",
+          "en": "They’re not consistent from one deal to the next."
+        },
+        {
+          "scid": "an4.192:4.6",
+          "pli": "aparisuddhavohāro ayamāyasmā, nāyamāyasmā parisuddhavohāro’ti.",
+          "en": "This venerable’s dealings are impure, not pure.’"
+        },
+        {
+          "scid": "an4.192:5.1",
+          "pli": "Idha pana, bhikkhave, puggalo puggalena saddhiṃ saṃvoharamāno evaṃ jānāti:",
+          "en": "Take another person who has dealings with someone else. They come to know:"
+        },
+        {
+          "scid": "an4.192:5.2",
+          "pli": "‘yatheva kho ayamāyasmā ekena eko voharati, tathā dvīhi, tathā tīhi, tathā sambahulehi.",
+          "en": "‘This venerable deals with one person in one way. Then they deal with two, three, or many people each in the same way."
+        },
+        {
+          "scid": "an4.192:5.3",
+          "pli": "Nāyamāyasmā vokkamati purimavohārā pacchimavohāraṃ;",
+          "en": "They’re consistent from one deal to the next."
+        },
+        {
+          "scid": "an4.192:5.4",
+          "pli": "parisuddhavohāro ayamāyasmā, nāyamāyasmā aparisuddhavohāro’ti.",
+          "en": "This venerable’s dealings are pure, not impure.’"
+        },
+        {
+          "scid": "an4.192:5.5",
+          "pli": "‘Saṃvohārena, bhikkhave, soceyyaṃ veditabbaṃ, tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (2)",
+          "en": "That’s why I said that you can get know a person’s purity by dealing with them. …"
+        },
+        {
+          "scid": "an4.192:6.1",
+          "pli": "‘Āpadāsu, bhikkhave, thāmo veditabbo, so ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti,",
+          "en": "‘You can get to know a person’s resilience in times of trouble. …’"
+        },
+        {
+          "scid": "an4.192:6.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an4.192:6.3",
+          "pli": "Idha, bhikkhave, ekacco ñātibyasanena vā phuṭṭho samāno, bhogabyasanena vā phuṭṭho samāno, rogabyasanena vā phuṭṭho samāno na iti paṭisañcikkhati:",
+          "en": "Take a person who experiences loss of family, wealth, or health. But they don’t reflect:"
+        },
+        {
+          "scid": "an4.192:6.4",
+          "pli": "‘tathābhūto kho ayaṃ lokasannivāso tathābhūto ayaṃ attabhāvapaṭilābho yathābhūte lokasannivāse yathābhūte attabhāvapaṭilābhe aṭṭha lokadhammā lokaṃ anuparivattanti loko ca aṭṭha lokadhamme anuparivattati—",
+          "en": "‘The world’s like that. Reincarnation’s like that. That’s why the eight worldly conditions revolve around the world, and the world revolves around the eight worldly conditions:"
+        },
+        {
+          "scid": "an4.192:6.5",
+          "pli": "lābho ca, alābho ca, yaso ca, ayaso ca, nindā ca, pasaṃsā ca, sukhañca, dukkhañcā’ti.",
+          "en": "gain and loss, fame and disgrace, praise and blame, pleasure and pain.’"
+        },
+        {
+          "scid": "an4.192:6.6",
+          "pli": "So ñātibyasanena vā phuṭṭho samāno bhogabyasanena vā phuṭṭho samāno rogabyasanena vā phuṭṭho samāno socati kilamati paridevati, urattāḷiṃ kandati, sammohaṃ āpajjati.",
+          "en": "They sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "an4.192:7.1",
+          "pli": "Idha pana, bhikkhave, ekacco ñātibyasanena vā phuṭṭho samāno bhogabyasanena vā phuṭṭho samāno rogabyasanena vā phuṭṭho samāno iti paṭisañcikkhati:",
+          "en": "Take another person who experiences loss of family, wealth, or health. But they reflect:"
+        },
+        {
+          "scid": "an4.192:7.2",
+          "pli": "‘tathābhūto kho ayaṃ lokasannivāso tathābhūto ayaṃ attabhāvapaṭilābho yathābhūte lokasannivāse yathābhūte attabhāvapaṭilābhe aṭṭha lokadhammā lokaṃ anuparivattanti loko ca aṭṭha lokadhamme anuparivattati—",
+          "en": "‘The world’s like that. Reincarnation’s like that. That’s why the eight worldly conditions revolve around the world, and the world revolves around the eight worldly conditions:"
+        },
+        {
+          "scid": "an4.192:7.3",
+          "pli": "lābho ca, alābho ca, yaso ca, ayaso ca, nindā ca, pasaṃsā ca, sukhañca, dukkhañcā’ti.",
+          "en": "gain and loss, fame and disgrace, praise and blame, pleasure and pain.’"
+        },
+        {
+          "scid": "an4.192:7.4",
+          "pli": "So ñātibyasanena vā phuṭṭho samāno bhogabyasanena vā phuṭṭho samāno rogabyasanena vā phuṭṭho samāno na socati na kilamati na paridevati, na urattāḷiṃ kandati, na sammohaṃ āpajjati.",
+          "en": "They don’t sorrow or pine or lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "an4.192:7.5",
+          "pli": "‘Āpadāsu, bhikkhave, thāmo veditabbo, so ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, ",
+          "en": "That’s why I said that you can know a person’s resilience in times of trouble. …"
+        },
+        {
+          "scid": "an4.192:7.6",
+          "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (3)",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:8.1",
+          "pli": "‘Sākacchāya, bhikkhave, paññā veditabbā, sā ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, ",
+          "en": "‘You can get to know a person’s wisdom by discussion. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless.’"
+        },
+        {
+          "scid": "an4.192:8.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an4.192:8.3",
+          "pli": "Idha, bhikkhave, puggalo puggalena saddhiṃ sākacchāyamāno evaṃ jānāti:",
+          "en": "Take a person who is discussing with someone else. They come to know:"
+        },
+        {
+          "scid": "an4.192:8.4",
+          "pli": "‘yathā kho imassa āyasmato ummaggo yathā ca abhinīhāro yathā ca pañhāsamudāhāro, duppañño ayamāyasmā, nāyamāyasmā paññavā.",
+          "en": "‘Judging by this venerable’s approach, by what they’re getting at, and by how they discuss a question, they’re witless, not wise."
+        },
+        {
+          "scid": "an4.192:8.5",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an4.192:8.6",
+          "pli": "Tathā hi ayamāyasmā na ceva gambhīraṃ atthapadaṃ udāharati santaṃ paṇītaṃ atakkāvacaraṃ nipuṇaṃ paṇḍitavedanīyaṃ.",
+          "en": "This venerable does not interpret a deep and meaningful saying that is peaceful, refined, beyond the scope of reason, subtle, comprehensible to the astute."
+        },
+        {
+          "scid": "an4.192:8.7",
+          "pli": "Yañca ayamāyasmā dhammaṃ bhāsati tassa ca nappaṭibalo saṅkhittena vā vitthārena vā atthaṃ ācikkhituṃ desetuṃ paññāpetuṃ paṭṭhapetuṃ vivarituṃ vibhajituṃ uttānīkātuṃ.",
+          "en": "When this venerable speaks on Dhamma they’re not able to explain the meaning, either briefly or in detail. They can’t teach it, assert it, establish it, open it, analyze it, or make it clear."
+        },
+        {
+          "scid": "an4.192:8.8",
+          "pli": "Duppañño ayamāyasmā, nāyamāyasmā paññavā’ti.",
+          "en": "This venerable is witless, not wise.’"
+        },
+        {
+          "scid": "an4.192:9.1",
+          "pli": "Seyyathāpi, bhikkhave, cakkhumā puriso udakarahadassa tīre ṭhito passeyya parittaṃ macchaṃ ummujjamānaṃ.",
+          "en": "Suppose a person with good eyesight was standing on the bank of a lake. They’d see a little fish rising,"
+        },
+        {
+          "scid": "an4.192:9.2",
+          "pli": "Tassa evamassa:",
+          "en": "and think:"
+        },
+        {
+          "scid": "an4.192:9.3",
+          "pli": "‘yathā kho imassa macchassa ummaggo yathā ca ūmighāto yathā ca vegāyitattaṃ, paritto ayaṃ maccho, nāyaṃ maccho mahanto’ti.",
+          "en": "‘Judging by this fish’s approach, by the ripples it makes, and by its force, it’s a little fish, not a big one.’"
+        },
+        {
+          "scid": "an4.192:9.4",
+          "pli": "Evamevaṃ kho, bhikkhave, puggalo puggalena saddhiṃ sākacchāyamāno evaṃ jānāti:",
+          "en": "In the same way, a person who is discussing with someone else would come to know:"
+        },
+        {
+          "scid": "an4.192:9.5",
+          "pli": "‘yathā kho imassa āyasmato ummaggo yathā ca abhinīhāro yathā ca pañhāsamudāhāro, duppañño ayamāyasmā, nāyamāyasmā paññavā.",
+          "en": "‘Judging by this venerable’s approach, by what they’re getting at, and by how they discuss a question, they’re witless, not wise. …’"
+        },
+        {
+          "scid": "an4.192:9.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:9.7",
+          "pli": "Tathā hi ayamāyasmā na ceva gambhīraṃ atthapadaṃ udāharati santaṃ paṇītaṃ atakkāvacaraṃ nipuṇaṃ paṇḍitavedanīyaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:9.8",
+          "pli": "Yañca ayamāyasmā dhammaṃ bhāsati, tassa ca na paṭibalo saṅkhittena vā vitthārena vā atthaṃ ācikkhituṃ desetuṃ paññāpetuṃ paṭṭhapetuṃ vivarituṃ vibhajituṃ uttānīkātuṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:9.9",
+          "pli": "Duppañño ayamāyasmā, nāyamāyasmā paññavā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:10.1",
+          "pli": "Idha pana, bhikkhave, puggalo puggalena saddhiṃ sākacchāyamāno evaṃ jānāti:",
+          "en": "Take another person who is discussing with someone else. They come to know:"
+        },
+        {
+          "scid": "an4.192:10.2",
+          "pli": "‘yathā kho imassa āyasmato ummaggo yathā ca abhinīhāro yathā ca pañhāsamudāhāro, paññavā ayamāyasmā, nāyamāyasmā duppañño.",
+          "en": "‘Judging by this venerable’s approach, by what they’re getting at, and by how they discuss a question, they’re wise, not witless."
+        },
+        {
+          "scid": "an4.192:10.3",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an4.192:10.4",
+          "pli": "Tathā hi ayamāyasmā gambhīrañceva atthapadaṃ udāharati santaṃ paṇītaṃ atakkāvacaraṃ nipuṇaṃ paṇḍitavedanīyaṃ.",
+          "en": "This venerable interprets a deep and meaningful saying that is peaceful, refined, beyond the scope of reason, subtle, comprehensible to the astute."
+        },
+        {
+          "scid": "an4.192:10.5",
+          "pli": "Yañca ayamāyasmā dhammaṃ bhāsati, tassa ca paṭibalo saṅkhittena vā vitthārena vā atthaṃ ācikkhituṃ desetuṃ paññāpetuṃ paṭṭhapetuṃ vivarituṃ vibhajituṃ uttānīkātuṃ.",
+          "en": "When this venerable speaks on Dhamma they’re able to explain the meaning, either briefly or in detail. They teach it, assert it, establish it, open it, analyze it, and make it clear."
+        },
+        {
+          "scid": "an4.192:10.6",
+          "pli": "Paññavā ayamāyasmā, nāyamāyasmā duppañño’ti.",
+          "en": "This venerable is wise, not witless.’"
+        },
+        {
+          "scid": "an4.192:11.1",
+          "pli": "Seyyathāpi, bhikkhave, cakkhumā puriso udakarahadassa tīre ṭhito passeyya mahantaṃ macchaṃ ummujjamānaṃ.",
+          "en": "Suppose a man with good eyesight was standing on the bank of a lake. He’d see a big fish rising,"
+        },
+        {
+          "scid": "an4.192:11.2",
+          "pli": "Tassa evamassa:",
+          "en": "and think:"
+        },
+        {
+          "scid": "an4.192:11.3",
+          "pli": "‘yathā kho imassa macchassa ummaggo yathā ca ūmighāto yathā ca vegāyitattaṃ, mahanto ayaṃ maccho, nāyaṃ maccho paritto’ti.",
+          "en": "‘Judging by this fish’s approach, by the ripples it makes, and by its force, it’s a big fish, not a little one.’"
+        },
+        {
+          "scid": "an4.192:11.4",
+          "pli": "Evamevaṃ kho, bhikkhave, puggalo puggalena saddhiṃ sākacchāyamāno evaṃ jānāti:",
+          "en": "In the same way, a person who is discussing with someone else would come to know:"
+        },
+        {
+          "scid": "an4.192:11.5",
+          "pli": "‘yathā kho imassa āyasmato ummaggo yathā ca abhinīhāro yathā ca pañhāsamudāhāro, paññavā ayamāyasmā, nāyamāyasmā duppañño.",
+          "en": "‘Judging by this venerable’s approach, by what they’re getting at, and by how they articulate a question, they’re wise, not witless. …’"
+        },
+        {
+          "scid": "an4.192:11.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:11.7",
+          "pli": "Tathā hi ayamāyasmā gambhīrañceva atthapadaṃ udāharati santaṃ paṇītaṃ atakkāvacaraṃ nipuṇaṃ paṇḍitavedanīyaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:11.8",
+          "pli": "Yañca ayamāyasmā dhammaṃ bhāsati, tassa ca paṭibalo saṅkhittena vā vitthārena vā atthaṃ ācikkhituṃ desetuṃ paññāpetuṃ paṭṭhapetuṃ vivarituṃ vibhajituṃ uttānīkātuṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:11.9",
+          "pli": "Paññavā ayamāyasmā, nāyamāyasmā duppañño’ti. (4)",
+          "en": ""
+        },
+        {
+          "scid": "an4.192:12.1",
+          "pli": "‘Sākacchāya, bhikkhave, paññā veditabbā, sā ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s why I said that you can get to know a person’s wisdom by discussion. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless."
+        },
+        {
+          "scid": "an4.192:12.2",
+          "pli": "Imāni kho, bhikkhave, cattāri ṭhānāni imehi catūhi ṭhānehi veditabbānī”ti.",
+          "en": "These are the four things that can be known in four situations.”"
+        },
+        {
+          "scid": "an4.192:12.3",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.192/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.192",
+    "volpages": "AN ii 187",
+    "uid": "an4.192",
+    "blurb": "Ways of assessing a person’s morality, integrity, resilience, and wisdom.",
+    "difficulty": null,
+    "original_title": "Ṭhāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Facts",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.192_sujato",
+        "segmented": true,
+        "title": "Facts"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an4.192_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Traits"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

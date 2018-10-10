@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn46.99-110",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.99-110",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Hard Work, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Searches, Etc.",
+      "uid": "sn46.111-120"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Realized One, Etc.",
+      "uid": "sn46.89-98"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.99-110:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.99-110:0.2",
+          "pli": "11. Balakaraṇīyavagga",
+          "en": "11. Hard Work"
+        },
+        {
+          "scid": "sn46.99-110:0.3",
+          "pli": "99–​110. Balādisutta",
+          "en": "99–​110. Hard Work, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.99-110:1.1",
+          "pli": "“Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyan”ti vitthāretabbaṃ.",
+          "en": "“Mendicants, all the hard work that gets done depends on the earth and is grounded on the earth. …”"
+        },
+        {
+          "scid": "sn46.99-110:1.2",
+          "pli": "Balakaraṇīyavaggo ekādasamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn46.99-110:2.1",
+          "pli": "Balaṃ bījañca nāgo ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn46.99-110:2.2",
+          "pli": "rukkho kumbhena sūkiyā;",
+          "en": ""
+        },
+        {
+          "scid": "sn46.99-110:2.3",
+          "pli": "Ākāsena ca dve meghā,",
+          "en": ""
+        },
+        {
+          "scid": "sn46.99-110:2.4",
+          "pli": "nāvā āgantukā nadīti.",
+          "en": ""
+        },
+        {
+          "scid": "sn46.99-110:3.1",
+          "pli": "(Balakaraṇīyavaggo bojjhaṅgasaṃyuttassa bojjhaṅgavasena vitthāretabbo.)",
+          "en": "(To be expanded as in SN 45.149–160.)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.99-110/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn46.99-110",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Balakaraṇīya Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Hard Work, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.99-110_sujato",
+        "segmented": true,
+        "title": "Hard Work, Etc."
+      },
+      {
+        "author": "Frank Lee Woodward",
+        "author_short": "Woodward",
+        "author_uid": "woodward",
+        "id": "en_sn46.99-110_woodward",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Strength"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

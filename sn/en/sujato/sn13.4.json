@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn13.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn13.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Where the Waters Flow Together (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Earth",
+      "uid": "sn13.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Where the Waters Flow Together",
+      "uid": "sn13.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn13.4:0.1",
+          "pli": "Saṃyutta Nikāya 13",
+          "en": "Linked Discourses 13"
+        },
+        {
+          "scid": "sn13.4:0.2",
+          "pli": "1. Abhisamayavagga",
+          "en": "1. Comprehension"
+        },
+        {
+          "scid": "sn13.4:0.3",
+          "pli": "4. Dutiyasambhejjaudakasutta",
+          "en": "4. Where the Waters Flow Together (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 13…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn13.4:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn13.4:1.2",
+          "pli": "“Seyyathāpi, bhikkhave, yatthimā mahānadiyo saṃsandanti samenti, seyyathidaṃ—",
+          "en": "“Mendicants, there are places where the great rivers—the Ganges, Yamuna, Aciravatī, Sarabhū, and Mahī—come together and converge."
+        },
+        {
+          "scid": "sn13.4:1.3",
+          "pli": "gaṅgā yamunā aciravatī sarabhū mahī, taṃ udakaṃ parikkhayaṃ pariyādānaṃ gaccheyya ṭhapetvā dve vā tīṇi vā udakaphusitāni.",
+          "en": "Suppose that water dried up and evaporated except for two or three drops."
+        },
+        {
+          "scid": "sn13.4:1.4",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "sn13.4:1.5",
+          "pli": "katamaṃ nu kho bahutaraṃ, yaṃ vā sambhejjaudakaṃ parikkhīṇaṃ pariyādiṇṇaṃ yāni vā dve vā tīṇi vā udakaphusitāni avasiṭṭhānī”ti?",
+          "en": "Which is more: the water in the confluence that has dried up and evaporated, or the two or three drops left?”"
+        },
+        {
+          "scid": "sn13.4:2.1",
+          "pli": "“Etadeva, bhante, bahutaraṃ sambhejjaudakaṃ yadidaṃ parikkhīṇaṃ pariyādiṇṇaṃ;",
+          "en": "“Sir, the water in the confluence that has dried up and evaporated is certainly more."
+        },
+        {
+          "scid": "sn13.4:2.2",
+          "pli": "appamattakāni dve vā tīṇi vā udakaphusitāni avasiṭṭhāni.",
+          "en": "The two or three drops left are tiny."
+        },
+        {
+          "scid": "sn13.4:2.3",
+          "pli": "Neva satimaṃ kalaṃ upenti na sahassimaṃ kalaṃ upenti na satasahassimaṃ kalaṃ upenti sambhejjaudakaṃ parikkhīṇaṃ pariyādiṇṇaṃ upanidhāya dve vā tīṇi vā udakaphusitāni avasiṭṭhānī”ti.",
+          "en": "Compared to the water in the confluence that has dried up and evaporated, it’s not nearly a hundredth, a thousandth, or a hundred thousandth part.”"
+        },
+        {
+          "scid": "sn13.4:2.4",
+          "pli": "“Evameva kho, bhikkhave … pe …",
+          "en": "“In the same way, for a noble disciple, the suffering that’s over and done with is more …”"
+        },
+        {
+          "scid": "sn13.4:2.5",
+          "pli": "dhammacakkhupaṭilābho”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn13.4:2.6",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn13.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 13.4",
+    "volpages": "SN ii 133",
+    "uid": "sn13.4",
+    "blurb": "For someone who has seen the truth, the suffering eliminated is like the water at the confluence of great rivers; what remains is like a few drops.",
+    "difficulty": null,
+    "original_title": "Dutiyasambhejjaudaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Where the Waters Flow Together (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn13.4_sujato",
+        "segmented": true,
+        "title": "Where the Waters Flow Together (2nd)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

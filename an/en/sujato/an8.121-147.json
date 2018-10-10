@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "an8.121-147",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an8.121-147",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "bodhi",
+      "lang": "en",
+      "name": "",
+      "uid": "an8.148-627"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an8.120"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an8.121-147:0.1",
+          "pli": "Aṅguttara Nikāya 8",
+          "en": "Numbered Discourses 8"
+        },
+        {
+          "scid": "an8.121-147:0.2",
+          "pli": "11. Rāgapeyyāla",
+          "en": "11. Abbreviated Texts Beginning With Greed"
+        },
+        {
+          "scid": "an8.121-147:0.3",
+          "pli": "121–​147",
+          "en": "121–​147"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an8.121-147:1.1",
+          "pli": "“Rāgassa, bhikkhave, pariññāya … pe …",
+          "en": "“For the complete understanding of greed …"
+        },
+        {
+          "scid": "an8.121-147:1.2",
+          "pli": "parikkhayāya …",
+          "en": "complete ending …"
+        },
+        {
+          "scid": "an8.121-147:1.3",
+          "pli": "pahānāya …",
+          "en": "giving up …"
+        },
+        {
+          "scid": "an8.121-147:1.4",
+          "pli": "khayāya …",
+          "en": "ending …"
+        },
+        {
+          "scid": "an8.121-147:1.5",
+          "pli": "vayāya …",
+          "en": "vanishing …"
+        },
+        {
+          "scid": "an8.121-147:1.6",
+          "pli": "virāgāya …",
+          "en": "fading away …"
+        },
+        {
+          "scid": "an8.121-147:1.7",
+          "pli": "nirodhāya …",
+          "en": "cessation …"
+        },
+        {
+          "scid": "an8.121-147:1.8",
+          "pli": "cāgāya …",
+          "en": "giving away …"
+        },
+        {
+          "scid": "an8.121-147:1.9",
+          "pli": "paṭinissaggāya … pe …",
+          "en": "letting go …"
+        },
+        {
+          "scid": "an8.121-147:1.10",
+          "pli": "ime aṭṭha dhammā bhāvetabbā”.",
+          "en": "these eight things should be developed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“For the complete understanding of greed ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an8.121-147/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 8.121–147",
+    "volpages": "AN iv 349",
+    "uid": "an8.121-147",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an8.121-147_sujato",
+        "segmented": true,
+        "title": ""
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an8.121-147_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

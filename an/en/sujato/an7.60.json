@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an7.60",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.60",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Seven Qualities",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nodding Off",
+      "uid": "an7.61"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kimbila",
+      "uid": "an7.59"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.60:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.60:0.2",
+          "pli": "6. Abyākatavagga",
+          "en": "6. The Undeclared Points"
+        },
+        {
+          "scid": "an7.60:0.3",
+          "pli": "60. Sattadhammasutta",
+          "en": "60. Seven Qualities"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.60:1.1",
+          "pli": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva āsavānaṃ khayā … pe … sacchikatvā upasampajja vihareyya.",
+          "en": "“Mendicants, a mendicant with seven qualities soon realizes the supreme culmination of the spiritual path in this very life. They live having achieved with their own insight the goal for which people from good families rightly go forth from the lay life to homelessness."
+        },
+        {
+          "scid": "an7.60:1.2",
+          "pli": "Katamehi sattahi?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.60:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu saddho hoti, sīlavā hoti, bahussuto hoti, paṭisallīno hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti.",
+          "en": "It’s when a mendicant is faithful, ethical, learned, secluded, energetic, mindful, and wise."
+        },
+        {
+          "scid": "an7.60:1.4",
+          "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu nacirasseva āsavānaṃ khayā … pe … sacchikatvā upasampajja vihareyyā”ti.",
+          "en": "A mendicant with these seven qualities soon realizes the supreme culmination of the spiritual path in this very life. They live having achieved with their own insight the goal for which people from good families rightly go forth from the lay life to homelessness.”"
+        },
+        {
+          "scid": "an7.60:1.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.60/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.60//AN 7.57",
+    "volpages": "AN iv 85",
+    "uid": "an7.60",
+    "blurb": "Qualities required for arahantship.",
+    "difficulty": null,
+    "original_title": "Sattadhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Seven Qualities",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.60_sujato",
+        "segmented": true,
+        "title": "Seven Qualities"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

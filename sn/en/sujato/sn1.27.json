@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.27",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.27",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Streams",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Affluent",
+      "uid": "sn1.28"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lamps",
+      "uid": "sn1.26"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.27:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.27:0.2",
+          "pli": "3. Sattivagga",
+          "en": "3. A Sword"
+        },
+        {
+          "scid": "sn1.27:0.3",
+          "pli": "27. Sarasutta",
+          "en": "27. Streams"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.27:1.1",
+          "pli": "“Kuto sarā nivattanti,",
+          "en": "“From where do streams turn back?"
+        },
+        {
+          "scid": "sn1.27:1.2",
+          "pli": "kattha vaṭṭaṃ na vattati;",
+          "en": "Where does the cycle no more revolve?"
+        },
+        {
+          "scid": "sn1.27:1.3",
+          "pli": "Kattha nāmañca rūpañca,",
+          "en": "Where do name and form"
+        },
+        {
+          "scid": "sn1.27:1.4",
+          "pli": "asesaṃ uparujjhatī”ti.",
+          "en": "cease with nothing left over?”"
+        },
+        {
+          "scid": "sn1.27:2.1",
+          "pli": "“Yattha āpo ca pathavī,",
+          "en": "“Where water and earth,"
+        },
+        {
+          "scid": "sn1.27:2.2",
+          "pli": "tejo vāyo na gādhati;",
+          "en": "fire and air find no footing."
+        },
+        {
+          "scid": "sn1.27:2.3",
+          "pli": "Ato sarā nivattanti,",
+          "en": "From here the streams turn back;"
+        },
+        {
+          "scid": "sn1.27:2.4",
+          "pli": "ettha vaṭṭaṃ na vattati;",
+          "en": "here the cycle no more revolves;"
+        },
+        {
+          "scid": "sn1.27:2.5",
+          "pli": "Ettha nāmañca rūpañca,",
+          "en": "and here it is that name and form"
+        },
+        {
+          "scid": "sn1.27:2.6",
+          "pli": "asesaṃ uparujjhatī”ti.",
+          "en": "cease with nothing left over.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“From where do streams turn back…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.27/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.27//SN 27",
+    "volpages": "SN i 15//SN i 33",
+    "uid": "sn1.27",
+    "blurb": "The stream of rebirth stops flowing when name and form ceases.",
+    "difficulty": null,
+    "original_title": "Sara Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Streams",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.27_sujato",
+        "segmented": true,
+        "title": "Streams"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.27_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Streams"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 7
+  }
+}

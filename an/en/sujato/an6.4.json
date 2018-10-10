@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an6.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Powers",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Thoroughbred (1st)",
+      "uid": "an6.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Faculties",
+      "uid": "an6.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.4:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.4:0.2",
+          "pli": "1. Āhuneyyavagga",
+          "en": "1. Worthy of Offerings"
+        },
+        {
+          "scid": "an6.4:0.3",
+          "pli": "4. Balasutta",
+          "en": "4. Powers"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.4:1.1",
+          "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti … pe … anuttaraṃ puññakkhettaṃ lokassa.",
+          "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is a supreme field of merit for the world."
+        },
+        {
+          "scid": "an6.4:1.2",
+          "pli": "Katamehi chahi?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.4:1.3",
+          "pli": "Saddhābalena, vīriyabalena, satibalena, samādhibalena, paññābalena, āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.",
+          "en": "The powers of faith, energy, mindfulness, immersion, and wisdom. And they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements."
+        },
+        {
+          "scid": "an6.4:1.4",
+          "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti … pe … anuttaraṃ puññakkhettaṃ lokassā”ti.",
+          "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is a supreme field of merit for the world.”"
+        },
+        {
+          "scid": "an6.4:1.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.4",
+    "volpages": "AN iii 282",
+    "uid": "an6.4",
+    "blurb": "A mendicant is worthy of gifts because of six powers.",
+    "difficulty": null,
+    "original_title": "Bala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Powers",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.4_sujato",
+        "segmented": true,
+        "title": "Powers"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an5.129",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.129",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fatal Wounds",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Loss",
+      "uid": "an5.130"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "An Ascetic’s Happiness",
+      "uid": "an5.128"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.129:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.129:0.2",
+          "pli": "13. Gilānavagga",
+          "en": "13. Sick"
+        },
+        {
+          "scid": "an5.129:0.3",
+          "pli": "129. Parikuppasutta",
+          "en": "129. Fatal Wounds"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.129:1.1",
+          "pli": "“Pañcime, bhikkhave, āpāyikā nerayikā parikuppā atekicchā.",
+          "en": "“Mendicants, these five fatal wounds lead to a place of loss, to hell."
+        },
+        {
+          "scid": "an5.129:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.129:1.3",
+          "pli": "Mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṃ jīvitā voropito hoti, tathāgatassa duṭṭhena cittena lohitaṃ uppāditaṃ hoti, saṃgho bhinno hoti.",
+          "en": "Murdering your mother or father or a perfected one; maliciously shedding the blood of a Realized One; and causing a schism in the Saṅgha."
+        },
+        {
+          "scid": "an5.129:1.4",
+          "pli": "Ime kho, bhikkhave, pañca āpāyikā nerayikā parikuppā atekicchā”ti.",
+          "en": "These five fatal wounds lead to a place of loss, to hell.”"
+        },
+        {
+          "scid": "an5.129:1.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.129/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.129",
+    "volpages": "AN iii 146",
+    "uid": "an5.129",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Parikuppa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fatal Wounds",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.129_sujato",
+        "segmented": true,
+        "title": "Fatal Wounds"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an5.129_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "In Agony"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

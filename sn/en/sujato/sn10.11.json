@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn10.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn10.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With the Nun Cīrā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Āḷavaka",
+      "uid": "sn10.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With the Nun Sukkā (2nd)",
+      "uid": "sn10.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn10.11:0.1",
+          "pli": "Saṃyutta Nikāya 10",
+          "en": "Linked Discourses 10"
+        },
+        {
+          "scid": "sn10.11:0.2",
+          "pli": "1. Indakavagga",
+          "en": "1. With Indaka"
+        },
+        {
+          "scid": "sn10.11:0.3",
+          "pli": "11. Cīrāsutta",
+          "en": "11. With the Nun Cīrā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn10.11:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn10.11:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.",
+          "en": "At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground."
+        },
+        {
+          "scid": "sn10.11:1.3",
+          "pli": "Tena kho pana samayena aññataro upāsako cīrāya bhikkhuniyā cīvaraṃ adāsi.",
+          "en": "Now at that time a certain lay follower gave a robe to the nun Cīrā."
+        },
+        {
+          "scid": "sn10.11:1.4",
+          "pli": "Atha kho cīrāya bhikkhuniyā abhippasanno yakkho rājagahe rathikāya rathikaṃ siṅghāṭakena siṅghāṭakaṃ upasaṅkamitvā tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi:",
+          "en": "Then a native spirit was so devoted to Cīrā that he went street to street and square to square, and on that occasion recited these verses:"
+        },
+        {
+          "scid": "sn10.11:2.1",
+          "pli": "“Puññaṃ vata pasavi bahuṃ,",
+          "en": "“O! He has made so much merit!"
+        },
+        {
+          "scid": "sn10.11:2.2",
+          "pli": "Sappañño vatāyaṃ upāsako;",
+          "en": "That lay-follower is so very wise."
+        },
+        {
+          "scid": "sn10.11:2.3",
+          "pli": "Yo cīrāya adāsi cīvaraṃ,",
+          "en": "He gave a robe to Cīrā,"
+        },
+        {
+          "scid": "sn10.11:2.4",
+          "pli": "Sabbayogehi vippamuttiyā”ti.",
+          "en": "who is released from all bonds.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn10.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 10.11//SN 245",
+    "volpages": "SN i 213//SN i 460",
+    "uid": "sn10.11",
+    "blurb": "A spirit was full of faith in the nun Cirā, so he went about the towns and villages singing the benefits of giving her offerings.",
+    "difficulty": null,
+    "original_title": "Cīrā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With the Nun Cīrā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn10.11_sujato",
+        "segmented": true,
+        "title": "With the Nun Cīrā"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 11
+  }
+}

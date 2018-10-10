@@ -1,0 +1,400 @@
+{
+  "sutta_uid": "an3.58",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.58",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Tikaṇṇa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jāṇussoṇi",
+      "uid": "an3.59"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vacchagotta",
+      "uid": "an3.57"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.58:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.58:0.2",
+          "pli": "6. Brāhmaṇavagga",
+          "en": "6. Brahmins"
+        },
+        {
+          "scid": "an3.58:0.3",
+          "pli": "58. Tikaṇṇasutta",
+          "en": "58. Tikaṇṇa"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.58:1.1",
+          "pli": "Atha kho tikaṇṇo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ … pe …",
+          "en": "Then Tikaṇṇa the brahmin went up to the Buddha, and exchanged greetings with him."
+        },
+        {
+          "scid": "an3.58:1.2",
+          "pli": "ekamantaṃ nisinno kho tikaṇṇo brāhmaṇo bhagavato sammukhā tevijjānaṃ sudaṃ brāhmaṇānaṃ vaṇṇaṃ bhāsati:",
+          "en": "Seated to one side Tikaṇṇa, in front of the Buddha, praised the brahmins who were expert in the three Vedas."
+        },
+        {
+          "scid": "an3.58:1.3",
+          "pli": "“evampi tevijjā brāhmaṇā, itipi tevijjā brāhmaṇā”ti.",
+          "en": "“Such are the brahmins, masters of the three Vedic knowledges! Thus are the brahmins, masters of the three Vedic knowledges!”"
+        },
+        {
+          "scid": "an3.58:2.1",
+          "pli": "“Yathā kathaṃ pana, brāhmaṇa, brāhmaṇā brāhmaṇaṃ tevijjaṃ paññāpentī”ti?",
+          "en": "“But brahmin, how do the brahmins describe a brahmin who is master of the three Vedic knowledges?”"
+        },
+        {
+          "scid": "an3.58:2.2",
+          "pli": "“Idha, bho gotama, brāhmaṇo ubhato sujāto hoti mātito ca pitito ca, saṃsuddhagahaṇiko yāva sattamā pitāmahayugā, akkhitto anupakkuṭṭho jātivādena, ajjhāyako, mantadharo, tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayoti.",
+          "en": "“Master Gotama, it’s when a brahmin is well born on both his mother’s and father’s side, of pure descent, irrefutable and impeccable in questions of ancestry back to the seventh paternal generation. He recites and remembers the hymns, and is an expert in the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knows philology and grammar, and is well versed in cosmology and the marks of a great man."
+        },
+        {
+          "scid": "an3.58:2.3",
+          "pli": "Evaṃ kho, bho gotama, brāhmaṇā brāhmaṇaṃ tevijjaṃ paññāpentī”ti.",
+          "en": "That’s how the brahmins describe a brahmin who is master of the three Vedic knowledges.”"
+        },
+        {
+          "scid": "an3.58:3.1",
+          "pli": "“Aññathā kho, brāhmaṇa, brāhmaṇā brāhmaṇaṃ tevijjaṃ paññāpenti, aññathā ca pana ariyassa vinaye tevijjo hotī”ti.",
+          "en": "“Brahmin, a master of three knowledges according to the brahmins is quite different from a master of the three knowledges in the training of the noble one.”"
+        },
+        {
+          "scid": "an3.58:3.2",
+          "pli": "“Yathā kathaṃ pana, bho gotama, ariyassa vinaye tevijjo hoti?",
+          "en": "“But Master Gotama, how is one a master of the three knowledges in the training of the noble one?"
+        },
+        {
+          "scid": "an3.58:3.3",
+          "pli": "Sādhu me bhavaṃ gotamo tathā dhammaṃ desetu yathā ariyassa vinaye tevijjo hotī”ti.",
+          "en": "Master Gotama, please teach me this.”"
+        },
+        {
+          "scid": "an3.58:3.4",
+          "pli": "“Tena hi, brāhmaṇa, suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti.",
+          "en": "“Well then, brahmin, listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "an3.58:3.5",
+          "pli": "“Evaṃ, bho”ti kho tikaṇṇo brāhmaṇo bhagavato paccassosi.",
+          "en": "“Yes sir,” Tikaṇṇa replied."
+        },
+        {
+          "scid": "an3.58:3.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "an3.58:4.1",
+          "pli": "“Idha, brāhmaṇa, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "“Brahmin, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "an3.58:4.2",
+          "pli": "Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "As the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected."
+        },
+        {
+          "scid": "an3.58:4.3",
+          "pli": "Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’"
+        },
+        {
+          "scid": "an3.58:4.4",
+          "pli": "Sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.",
+          "en": "With the giving up of pleasure and pain, and the ending of former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness."
+        },
+        {
+          "scid": "an3.58:5.1",
+          "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmeti.",
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward recollection of past lives."
+        },
+        {
+          "scid": "an3.58:5.2",
+          "pli": "So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattārīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi, anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe: ‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ. Tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.",
+          "en": "They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world evolving, many eons of the world contracting and evolving. They remember: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so they recollect their many kinds of past lives, with features and details."
+        },
+        {
+          "scid": "an3.58:5.3",
+          "pli": "Ayamassa paṭhamā vijjā adhigatā hoti;",
+          "en": "This is the first knowledge that they attain."
+        },
+        {
+          "scid": "an3.58:5.4",
+          "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṃ appamattassa ātāpino pahitattassa viharato.",
+          "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed and light has arisen, as happens for a meditator who is diligent, keen, and resolute."
+        },
+        {
+          "scid": "an3.58:6.1",
+          "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmeti.",
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the death and rebirth of sentient beings."
+        },
+        {
+          "scid": "an3.58:6.2",
+          "pli": "So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāti: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā … pe … manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā. Ime vā pana bhonto sattā kāyasucaritena samannāgatā, vacīsucaritena samannāgatā, manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti. Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāti.",
+          "en": "With clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and superior, beautiful and ugly, in a good place or a bad place. They understand how sentient beings are reborn according to their deeds: ‘These dear beings, alas, did bad things by way of body, speech, and mind. They spoke ill of the noble ones; they had wrong view; and they acted out of that wrong view. When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell. These dear beings, however, did good things by way of body, speech, and mind. They never spoke ill of the noble ones; they had right view; and they acted out of that right view. When their body breaks up, after death, they’re reborn in a good place, a heavenly realm.’ And so, with clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and superior, beautiful and ugly, in a good place or a bad place. They understand how sentient beings are reborn according to their deeds."
+        },
+        {
+          "scid": "an3.58:6.3",
+          "pli": "Ayamassa dutiyā vijjā adhigatā hoti;",
+          "en": "This is the second knowledge that they attain."
+        },
+        {
+          "scid": "an3.58:6.4",
+          "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṃ appamattassa ātāpino pahitattassa viharato.",
+          "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed and light has arisen, as happens for a meditator who is diligent, keen, and resolute."
+        },
+        {
+          "scid": "an3.58:7.1",
+          "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti.",
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the ending of defilements."
+        },
+        {
+          "scid": "an3.58:7.2",
+          "pli": "So ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti;",
+          "en": "They truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+        },
+        {
+          "scid": "an3.58:7.3",
+          "pli": "‘ime āsavā’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.",
+          "en": "They truly understand: ‘These are defilements’ … ‘This is the origin of defilements’ … ‘This is the cessation of defilements’ … ‘This is the practice that leads to the cessation of defilements’."
+        },
+        {
+          "scid": "an3.58:7.4",
+          "pli": "Tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati;",
+          "en": "Knowing and seeing like this, their mind is freed from the defilements of sensuality, desire to be reborn, and ignorance."
+        },
+        {
+          "scid": "an3.58:7.5",
+          "pli": "vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.",
+          "en": "When freed, they know ‘it is freed’."
+        },
+        {
+          "scid": "an3.58:7.6",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’"
+        },
+        {
+          "scid": "an3.58:7.7",
+          "pli": "Ayamassa tatiyā vijjā adhigatā hoti;",
+          "en": "This is the third knowledge that they attain."
+        },
+        {
+          "scid": "an3.58:7.8",
+          "pli": "avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṃ appamattassa ātāpino pahitattassa viharatoti.",
+          "en": "Ignorance is destroyed and knowledge has arisen; darkness is destroyed, and light has arisen, as happens for a meditator who is diligent, keen, and resolute.”"
+        },
+        {
+          "scid": "an3.58:8.1",
+          "pli": "Anuccāvacasīlassa,",
+          "en": "“For someone whose ethical conduct doesn’t waver,"
+        },
+        {
+          "scid": "an3.58:8.2",
+          "pli": "nipakassa ca jhāyino;",
+          "en": "who is self-disciplined, practicing absorption;"
+        },
+        {
+          "scid": "an3.58:8.3",
+          "pli": "Cittaṃ yassa vasībhūtaṃ,",
+          "en": "whose mind is mastered,"
+        },
+        {
+          "scid": "an3.58:8.4",
+          "pli": "ekaggaṃ susamāhitaṃ.",
+          "en": "unified, serene."
+        },
+        {
+          "scid": "an3.58:9.1",
+          "pli": "Taṃ ve tamonudaṃ dhīraṃ,",
+          "en": "That sage dispels the darkness,"
+        },
+        {
+          "scid": "an3.58:9.2",
+          "pli": "tevijjaṃ maccuhāyinaṃ;",
+          "en": "master of the three knowledges, destroyer of death,"
+        },
+        {
+          "scid": "an3.58:9.3",
+          "pli": "Hitaṃ devamanussānaṃ,",
+          "en": "For the welfare of gods and humans,"
+        },
+        {
+          "scid": "an3.58:9.4",
+          "pli": "āhu sabbappahāyinaṃ.",
+          "en": "he’s given up everything, they say."
+        },
+        {
+          "scid": "an3.58:10.1",
+          "pli": "Tīhi vijjāhi sampannaṃ,",
+          "en": "Accomplished in the three knowledges,"
+        },
+        {
+          "scid": "an3.58:10.2",
+          "pli": "asammūḷhavihārinaṃ;",
+          "en": "living without confusion,"
+        },
+        {
+          "scid": "an3.58:10.3",
+          "pli": "Buddhaṃ antimadehinaṃ,",
+          "en": "bearing the final body,"
+        },
+        {
+          "scid": "an3.58:10.4",
+          "pli": "taṃ namassanti gotamaṃ.",
+          "en": "they revere the awakened Gotama."
+        },
+        {
+          "scid": "an3.58:11.1",
+          "pli": "Pubbenivāsaṃ yo vedī,",
+          "en": "Who knows their past lives,"
+        },
+        {
+          "scid": "an3.58:11.2",
+          "pli": "saggāpāyañca passati;",
+          "en": "and sees heaven and places of loss,"
+        },
+        {
+          "scid": "an3.58:11.3",
+          "pli": "Atho jātikkhayaṃ patto,",
+          "en": "and has attained the end of rebirth,"
+        },
+        {
+          "scid": "an3.58:11.4",
+          "pli": "abhiññāvosito muni.",
+          "en": "that sage has perfect insight."
+        },
+        {
+          "scid": "an3.58:12.1",
+          "pli": "Etāhi tīhi vijjāhi,",
+          "en": "It’s because of these three knowledges"
+        },
+        {
+          "scid": "an3.58:12.2",
+          "pli": "tevijjo hoti brāhmaṇo;",
+          "en": "that a brahmin is a master of the three knowledges."
+        },
+        {
+          "scid": "an3.58:12.3",
+          "pli": "Tamahaṃ vadāmi tevijjaṃ,",
+          "en": "That’s who I call a three-knowledge master,"
+        },
+        {
+          "scid": "an3.58:12.4",
+          "pli": "nāññaṃ lapitalāpananti.",
+          "en": "and not the other one, the lip-reciter.”"
+        },
+        {
+          "scid": "an3.58:13.1",
+          "pli": "Evaṃ kho, brāhmaṇa, ariyassa vinaye tevijjo hotī”ti.",
+          "en": "“This, brahmin, is a master of the three knowledges in the training of the noble one.”"
+        },
+        {
+          "scid": "an3.58:13.2",
+          "pli": "“Aññathā, bho gotama, brāhmaṇānaṃ tevijjo, aññathā ca pana ariyassa vinaye tevijjo hoti.",
+          "en": "“Master Gotama, a master of three knowledges according to the brahmins is quite different from a master of the three knowledges in the training of the noble one."
+        },
+        {
+          "scid": "an3.58:13.3",
+          "pli": "Imassa ca pana, bho gotama, ariyassa vinaye tevijjassa brāhmaṇānaṃ tevijjo kalaṃ nāgghati soḷasiṃ.",
+          "en": "And, Master Gotama, a master of three knowledges according to the brahmins is not worth a sixteenth part of a master of the three knowledges in the training of the noble one."
+        },
+        {
+          "scid": "an3.58:14.1",
+          "pli": "Abhikkantaṃ, bho gotama … pe …",
+          "en": "Excellent, Master Gotama! Excellent!"
+        },
+        {
+          "scid": "an3.58:14.2",
+          "pli": "upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "an3.58:14.3",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then Tikaṇṇa the brahmin went up to…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.58/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.58",
+    "volpages": "AN i 163",
+    "uid": "an3.58",
+    "blurb": "A master of Vedic knowledge in the brahmanical system and in the Buddha’s.",
+    "difficulty": null,
+    "original_title": "Tikaṇṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Tikaṇṇa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.58_sujato",
+        "segmented": true,
+        "title": "Tikaṇṇa"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.58_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Tikaṇṇa"
+      }
+    ],
+    "parallel_count": 14,
+    "biblio": null,
+    "num": 8
+  }
+}

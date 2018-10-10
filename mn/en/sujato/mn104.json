@@ -1,0 +1,925 @@
+{
+  "sutta_uid": "mn104",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn104",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "At Sāmagāma",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sunakkhatta",
+      "uid": "mn105"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Is This What You Think Of Me?",
+      "uid": "mn103"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn104:0.1",
+          "pli": "Majjhima Nikāya 104",
+          "en": "Middle Discourses 104"
+        },
+        {
+          "scid": "mn104:0.2",
+          "pli": "Sāmagāmasutta",
+          "en": "At Sāmagāma"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 104…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn104:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn104:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sakkesu viharati sāmagāme.",
+          "en": "At one time the Buddha was staying among the Sakyans near the village of Sāma."
+        },
+        {
+          "scid": "mn104:2.1",
+          "pli": "Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṃ adhunākālaṅkato hoti.",
+          "en": "Now at that time the Nigaṇṭha Nātaputta had recently passed away at Pāvā."
+        },
+        {
+          "scid": "mn104:2.2",
+          "pli": "Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti:",
+          "en": "With his passing the Jain ascetics split, dividing into two factions, arguing, quarreling, and fighting, continually wounding each other with barbed words:"
+        },
+        {
+          "scid": "mn104:2.3",
+          "pli": "“na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi. Kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi. Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṃ me, asahitaṃ te. Purevacanīyaṃ pacchā avaca, pacchāvacanīyaṃ pure avaca. Adhiciṇṇaṃ te viparāvattaṃ. Āropito te vādo. Niggahitosi, cara vādappamokkhāya; nibbeṭhehi vā sace pahosī”ti.",
+          "en": "‘You don’t understand this teaching and training. I understand this teaching and training. What, you understand this teaching and training? You’re practicing wrong. I’m practicing right. I stay on topic, you don’t. You said last what you should have said first. You said first what you should have said last. What you’ve thought so much about has been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re trapped; get yourself out of this—if you can!’"
+        },
+        {
+          "scid": "mn104:2.4",
+          "pli": "Vadhoyeva kho maññe nigaṇṭhesu nāṭaputtiyesu vattati.",
+          "en": "You’d think there was nothing but slaughter going on among the Jain ascetics."
+        },
+        {
+          "scid": "mn104:2.5",
+          "pli": "Yepi nigaṇṭhassa nāṭaputtassa sāvakā gihī odātavasanā tepi nigaṇṭhesu nāṭaputtiyesu nibbinnarūpā virattarūpā paṭivānarūpā yathā taṃ durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite bhinnathūpe appaṭisaraṇe.",
+          "en": "And the Nigaṇṭha Nātaputta’s white-clothed lay disciples were disillusioned, dismayed, and disappointed in the Jain ascetics. They were equally disappointed with a teaching and training so poorly explained and poorly propounded, not emancipating, not leading to peace, proclaimed by someone who is not a fully awakened Buddha, with broken monument and without a refuge."
+        },
+        {
+          "scid": "mn104:3.1",
+          "pli": "Atha kho cundo samaṇuddeso pāvāyaṃ vassaṃvuṭṭho yena sāmagāmo yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho cundo samaṇuddeso āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "And then, after completing the rainy season residence near Pāvā, the novice Cunda went to see Venerable Ānanda at Sāma village. He bowed, sat down to one side, and told him what had happened."
+        },
+        {
+          "scid": "mn104:3.2",
+          "pli": "“nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato.",
+          "en": ""
+        },
+        {
+          "scid": "mn104:3.3",
+          "pli": "Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā … pe … bhinnathūpe appaṭisaraṇe”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn104:4.1",
+          "pli": "Evaṃ vutte, āyasmā ānando cundaṃ samaṇuddesaṃ etadavoca:",
+          "en": "Ānanda said to him:"
+        },
+        {
+          "scid": "mn104:4.2",
+          "pli": "“atthi kho idaṃ, āvuso cunda, kathāpābhataṃ bhagavantaṃ dassanāya.",
+          "en": "“Reverend Cunda, we should see the Buddha about this matter."
+        },
+        {
+          "scid": "mn104:4.3",
+          "pli": "Āyāma, āvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṃ bhagavato ārocessāmā”ti.",
+          "en": "Come, let’s go to the Buddha and inform him about this.”"
+        },
+        {
+          "scid": "mn104:4.4",
+          "pli": "“Evaṃ, bhante”ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi.",
+          "en": "“Yes, sir,” replied Cunda."
+        },
+        {
+          "scid": "mn104:4.5",
+          "pli": "Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
+          "en": "Then Ānanda and Cunda went to the Buddha, bowed, sat down to one side, and Ānanda informed him of what Cunda had said. He went on to say:"
+        },
+        {
+          "scid": "mn104:4.6",
+          "pli": "“ayaṃ, bhante, cundo samaṇuddeso evamāha:",
+          "en": ""
+        },
+        {
+          "scid": "mn104:4.7",
+          "pli": "‘nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato.",
+          "en": ""
+        },
+        {
+          "scid": "mn104:4.8",
+          "pli": "Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā … pe … bhinnathūpe appaṭisaraṇe’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn104:4.9",
+          "pli": "Tassa mayhaṃ, bhante, evaṃ hoti:",
+          "en": "Sir, it occurs to me:"
+        },
+        {
+          "scid": "mn104:4.10",
+          "pli": "‘mā heva bhagavato accayena saṃghe vivādo uppajji;",
+          "en": "‘When the Buddha has passed away, let no dispute arise in the Saṅgha."
+        },
+        {
+          "scid": "mn104:4.11",
+          "pli": "svāssa vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānan’”ti.",
+          "en": "For such a dispute would be for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.’”"
+        },
+        {
+          "scid": "mn104:5.1",
+          "pli": "“Taṃ kiṃ maññasi, ānanda, ",
+          "en": "“What do you think, Ānanda? "
+        },
+        {
+          "scid": "mn104:5.2",
+          "pli": "ye vo mayā dhammā abhiññā desitā, seyyathidaṃ—",
+          "en": "Do you see even two mendicants who disagree regarding the things I have taught from my direct knowledge, that is,"
+        },
+        {
+          "scid": "mn104:5.3",
+          "pli": "cattāro satipaṭṭhānā cattāro sammappadhānā cattāro iddhipādā pañcindriyāni pañca balāni satta bojjhaṅgā ariyo aṭṭhaṅgiko maggo, passasi no tvaṃ, ānanda, imesu dhammesu dvepi bhikkhū nānāvāde”ti?",
+          "en": "the four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path?”"
+        },
+        {
+          "scid": "mn104:5.4",
+          "pli": "“Ye me, bhante, dhammā bhagavatā abhiññā desitā, seyyathidaṃ—",
+          "en": "“No, sir, I do not."
+        },
+        {
+          "scid": "mn104:5.5",
+          "pli": "cattāro satipaṭṭhānā cattāro sammappadhānā cattāro iddhipādā pañcindriyāni pañca balāni satta bojjhaṅgā ariyo aṭṭhaṅgiko maggo, nāhaṃ passāmi imesu dhammesu dvepi bhikkhū nānāvāde.",
+          "en": ""
+        },
+        {
+          "scid": "mn104:5.6",
+          "pli": "Ye ca kho, bhante, puggalā bhagavantaṃ patissayamānarūpā viharanti tepi bhagavato accayena saṃghe vivādaṃ janeyyuṃ ajjhājīve vā adhipātimokkhe vā.",
+          "en": "Nevertheless, there are some individuals who appear to live obedient to the Buddha, but when the Buddha has passed away they might create a dispute in the Saṅgha regarding livelihood or the monastic code."
+        },
+        {
+          "scid": "mn104:5.7",
+          "pli": "Svāssa vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānan”ti.",
+          "en": "Such a dispute would be for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.”"
+        },
+        {
+          "scid": "mn104:5.8",
+          "pli": "“Appamattako so, ānanda, vivādo yadidaṃ—ajjhājīve vā adhipātimokkhe vā.",
+          "en": "“Ānanda, dispute about livelihood or the monastic code is a minor matter."
+        },
+        {
+          "scid": "mn104:5.9",
+          "pli": "Magge vā hi, ānanda, paṭipadāya vā saṅghe vivādo uppajjamāno uppajjeyya; svāssa vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+          "en": "But should a dispute arise in the Saṅgha concerning the path or the practice, that would be for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans."
+        },
+        {
+          "scid": "mn104:6.1",
+          "pli": "Chayimāni, ānanda, vivādamūlāni.",
+          "en": "Ānanda, there are these six roots of disputes."
+        },
+        {
+          "scid": "mn104:6.2",
+          "pli": "Katamāni cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "mn104:6.3",
+          "pli": "Idhānanda, bhikkhu kodhano hoti upanāhī.",
+          "en": "Firstly, a mendicant is angry and hostile."
+        },
+        {
+          "scid": "mn104:6.4",
+          "pli": "Yo so, ānanda, bhikkhu kodhano hoti upanāhī so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṃghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti.",
+          "en": "Such a mendicant lacks respect and reverence for the teacher, the teaching, and the Saṅgha, and they don’t fulfill the training."
+        },
+        {
+          "scid": "mn104:6.5",
+          "pli": "Yo so, ānanda, bhikkhu satthari agāravo viharati appatisso, dhamme … saṃghe agāravo viharati appatisso, sikkhāya na paripūrakārī hoti, so saṃghe vivādaṃ janeti; yo hoti vivādo bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+          "en": "They create a dispute in the Saṅgha, which is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans."
+        },
+        {
+          "scid": "mn104:6.6",
+          "pli": "Evarūpañce tumhe, ānanda, vivādamūlaṃ ajjhattaṃ vā bahiddhā vā samanupasseyyātha, tatra tumhe, ānanda, tasseva pāpakassa vivādamūlassa pahānāya vāyameyyātha.",
+          "en": "If you see such a root of disputes in yourselves or others, you should try to give up this bad thing."
+        },
+        {
+          "scid": "mn104:6.7",
+          "pli": "Evarūpañce tumhe, ānanda, vivādamūlaṃ ajjhattaṃ vā bahiddhā vā na samanupasseyyātha. Tatra tumhe, ānanda, tasseva pāpakassa vivādamūlassa āyatiṃ anavassavāya paṭipajjeyyātha.",
+          "en": "If you don’t see it, you should practice so that it doesn’t come up in the future."
+        },
+        {
+          "scid": "mn104:6.8",
+          "pli": "Evametassa pāpakassa vivādamūlassa pahānaṃ hoti, evametassa pāpakassa vivādamūlassa āyatiṃ anavassavo hoti.",
+          "en": "That’s how to give up this bad root of quarrels, so it doesn’t come up in the future."
+        },
+        {
+          "scid": "mn104:7-11.1",
+          "pli": "Puna caparaṃ, ānanda, bhikkhu makkhī hoti paḷāsī … pe …",
+          "en": "Furthermore, a mendicant is offensive and contemptuous …"
+        },
+        {
+          "scid": "mn104:7-11.2",
+          "pli": "issukī hoti maccharī … pe …",
+          "en": "They’re envious and mean …"
+        },
+        {
+          "scid": "mn104:7-11.3",
+          "pli": "saṭho hoti māyāvī … pe …",
+          "en": "They’re devious and deceitful …"
+        },
+        {
+          "scid": "mn104:7-11.4",
+          "pli": "pāpiccho hoti micchādiṭṭhi … pe …",
+          "en": "They have wicked desires and wrong view …"
+        },
+        {
+          "scid": "mn104:7-11.5",
+          "pli": "sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī.",
+          "en": "They’re attached to their own views, holding them tight, and refusing to let go."
+        },
+        {
+          "scid": "mn104:7-11.6",
+          "pli": "Yo so, ānanda, bhikkhu sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṃghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti.",
+          "en": "Such a mendicant lacks respect and reverence for the teacher, the teaching, and the Saṅgha, and they don’t fulfill the training."
+        },
+        {
+          "scid": "mn104:7-11.7",
+          "pli": "Yo so, ānanda, bhikkhu satthari agāravo viharati appatisso, dhamme … saṃghe … sikkhāya na paripūrakārī hoti so saṃghe vivādaṃ janeti; yo hoti vivādo bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+          "en": "They create a dispute in the Saṅgha, which is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans."
+        },
+        {
+          "scid": "mn104:7-11.8",
+          "pli": "Evarūpañce tumhe, ānanda, vivādamūlaṃ ajjhattaṃ vā bahiddhā vā samanupasseyyātha. Tatra tumhe, ānanda, tasseva pāpakassa vivādamūlassa pahānāya vāyameyyātha.",
+          "en": "If you see such a root of quarrels in yourselves or others, you should try to give up this bad thing."
+        },
+        {
+          "scid": "mn104:7-11.9",
+          "pli": "Evarūpañce tumhe, ānanda, vivādamūlaṃ ajjhattaṃ vā bahiddhā vā na samanupasseyyātha, tatra tumhe, ānanda, tasseva pāpakassa vivādamūlassa āyatiṃ anavassavāya paṭipajjeyyātha.",
+          "en": "If you don’t see it, you should practice so that it doesn’t come up in the future."
+        },
+        {
+          "scid": "mn104:7-11.10",
+          "pli": "Evametassa pāpakassa vivādamūlassa pahānaṃ hoti, evametassa pāpakassa vivādamūlassa āyatiṃ anavassavo hoti.",
+          "en": "That’s how to give up this bad root of quarrels, so it doesn’t come up in the future."
+        },
+        {
+          "scid": "mn104:7-11.11",
+          "pli": "Imāni kho, ānanda, cha vivādamūlāni.",
+          "en": "These are the six roots of quarrels."
+        },
+        {
+          "scid": "mn104:12.1",
+          "pli": "Cattārimāni, ānanda, adhikaraṇāni.",
+          "en": "There are four kinds of disciplinary issues:"
+        },
+        {
+          "scid": "mn104:12.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "mn104:12.3",
+          "pli": "Vivādādhikaraṇaṃ, anuvādādhikaraṇaṃ, āpattādhikaraṇaṃ, kiccādhikaraṇaṃ—",
+          "en": "Disciplinary issues due to disputes, accusations, offenses, or proceedings."
+        },
+        {
+          "scid": "mn104:12.4",
+          "pli": "imāni kho, ānanda, cattāri adhikaraṇāni.",
+          "en": "These are the four kinds of disciplinary issues."
+        },
+        {
+          "scid": "mn104:13.1",
+          "pli": "Satta kho panime, ānanda, adhikaraṇasamathā—",
+          "en": "There are seven methods for the settlement of any disciplinary issues that might arise."
+        },
+        {
+          "scid": "mn104:13.2",
+          "pli": "uppannuppannānaṃ adhikaraṇānaṃ samathāya vūpasamāya sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo, paṭiññāya kāretabbaṃ, yebhuyyasikā, tassapāpiyasikā, tiṇavatthārako.",
+          "en": "Removal in the presence of those concerned is applicable. Removal by accurate recollection is applicable. Removal due to recovery from madness is applicable. The offense should be acknowledged. The decision of a majority. A verdict of aggravated misconduct. Covering over with grass."
+        },
+        {
+          "scid": "mn104:14.1",
+          "pli": "Kathañcānanda, sammukhāvinayo hoti?",
+          "en": "And how is there removal in the presence of those concerned?"
+        },
+        {
+          "scid": "mn104:14.2",
+          "pli": "Idhānanda, bhikkhū vivadanti dhammoti vā adhammoti vā vinayoti vā avinayoti vā.",
+          "en": "It’s when mendicants are disputing: ‘This is the teaching,’ ‘This is not the teaching,’ ‘This is the training,’ ‘This is not the training.’"
+        },
+        {
+          "scid": "mn104:14.3",
+          "pli": "Tehānanda, bhikkhūhi sabbeheva samaggehi sannipatitabbaṃ.",
+          "en": "Those mendicants should all sit together in harmony"
+        },
+        {
+          "scid": "mn104:14.4",
+          "pli": "Sannipatitvā dhammanetti samanumajjitabbā.",
+          "en": "and thoroughly go over the guidelines of the teaching."
+        },
+        {
+          "scid": "mn104:14.5",
+          "pli": "Dhammanettiṃ samanumajjitvā yathā tattha sameti tathā taṃ adhikaraṇaṃ vūpasametabbaṃ.",
+          "en": "They should settle that disciplinary issue in agreement with the guidelines."
+        },
+        {
+          "scid": "mn104:14.6",
+          "pli": "Evaṃ kho, ānanda, sammukhāvinayo hoti;",
+          "en": "That’s how there is removal in the presence of those concerned."
+        },
+        {
+          "scid": "mn104:14.7",
+          "pli": "evañca panidhekaccānaṃ adhikaraṇānaṃ vūpasamo hoti yadidaṃ—",
+          "en": "And that’s how certain disciplinary issues are settled, that is,"
+        },
+        {
+          "scid": "mn104:14.8",
+          "pli": "sammukhāvinayena. (1)",
+          "en": "by removal in the presence of those concerned."
+        },
+        {
+          "scid": "mn104:15.1",
+          "pli": "Kathañcānanda, yebhuyyasikā hoti?",
+          "en": "And how is there the decision of a majority?"
+        },
+        {
+          "scid": "mn104:15.2",
+          "pli": "Te ce, ānanda, bhikkhū na sakkonti taṃ adhikaraṇaṃ tasmiṃ āvāse vūpasametuṃ.",
+          "en": "If those mendicants are not able to settle that issue in that monastery,"
+        },
+        {
+          "scid": "mn104:15.3",
+          "pli": "Tehānanda, bhikkhūhi yasmiṃ āvāse bahutarā bhikkhū so āvāso gantabbo.",
+          "en": "they should go to another monastery with more mendicants."
+        },
+        {
+          "scid": "mn104:15.4",
+          "pli": "Tattha sabbeheva samaggehi sannipatitabbaṃ.",
+          "en": "There they should all sit together in harmony"
+        },
+        {
+          "scid": "mn104:15.5",
+          "pli": "Sannipatitvā dhammanetti samanumajjitabbā.",
+          "en": "and thoroughly go over the guidelines of the teaching."
+        },
+        {
+          "scid": "mn104:15.6",
+          "pli": "Dhammanettiṃ samanumajjitvā yathā tattha sameti tathā taṃ adhikaraṇaṃ vūpasametabbaṃ.",
+          "en": "They should settle that disciplinary issue in agreement with the guidelines."
+        },
+        {
+          "scid": "mn104:15.7",
+          "pli": "Evaṃ kho, ānanda, yebhuyyasikā hoti, evañca panidhekaccānaṃ adhikaraṇānaṃ vūpasamo hoti yadidaṃ—",
+          "en": "That’s how there is the decision of a majority. And that’s how certain disciplinary issues are settled, that is,"
+        },
+        {
+          "scid": "mn104:15.8",
+          "pli": "yebhuyyasikāya. (2)",
+          "en": "by decision of a majority."
+        },
+        {
+          "scid": "mn104:16.1",
+          "pli": "Kathañcānanda, sativinayo hoti?",
+          "en": "And how is there removal by accurate recollection?"
+        },
+        {
+          "scid": "mn104:16.2",
+          "pli": "Idhānanda, bhikkhū bhikkhuṃ evarūpāya garukāya āpattiyā codenti pārājikena vā pārājikasāmantena vā:",
+          "en": "It’s when mendicants accuse a mendicant of a serious offense; one entailing expulsion, or close to it."
+        },
+        {
+          "scid": "mn104:16.3",
+          "pli": "‘saratāyasmā evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti?",
+          "en": "‘Venerable, do you recall committing the kind of serious offense that entails expulsion or close to it?’"
+        },
+        {
+          "scid": "mn104:16.4",
+          "pli": "So evamāha:",
+          "en": "They say:"
+        },
+        {
+          "scid": "mn104:16.5",
+          "pli": "‘na kho ahaṃ, āvuso, sarāmi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti.",
+          "en": "‘No, reverends, I don’t recall committing such an offence.’"
+        },
+        {
+          "scid": "mn104:16.6",
+          "pli": "Tassa kho, ānanda, bhikkhuno sativinayo dātabbo.",
+          "en": "The removal by accurate recollection is applicable to them."
+        },
+        {
+          "scid": "mn104:16.7",
+          "pli": "Evaṃ kho, ānanda, sativinayo hoti, evañca panidhekaccānaṃ adhikaraṇānaṃ vūpasamo hoti yadidaṃ—",
+          "en": "That’s how there is the removal by accurate recollection. And that’s how certain disciplinary issues are settled, that is,"
+        },
+        {
+          "scid": "mn104:16.8",
+          "pli": "sativinayena. (3)",
+          "en": "by removal by accurate recollection."
+        },
+        {
+          "scid": "mn104:17.1",
+          "pli": "Kathañcānanda, amūḷhavinayo hoti?",
+          "en": "And how is there removal by recovery from madness?"
+        },
+        {
+          "scid": "mn104:17.2",
+          "pli": "Idhānanda, bhikkhū bhikkhuṃ evarūpāya garukāya āpattiyā codenti pārājikena vā pārājikasāmantena vā:",
+          "en": "It’s when mendicants accuse a mendicant of the kind of serious offense that entails expulsion, or close to it."
+        },
+        {
+          "scid": "mn104:17.3",
+          "pli": "‘saratāyasmā evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti?",
+          "en": "‘Venerable, do you recall committing the kind of serious offense that entails expulsion or close to it?’"
+        },
+        {
+          "scid": "mn104:17.4",
+          "pli": "So evamāha:",
+          "en": "They say:"
+        },
+        {
+          "scid": "mn104:17.5",
+          "pli": "‘na kho ahaṃ, āvuso, sarāmi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti.",
+          "en": "‘No, reverends, I don’t recall committing such an offense.’"
+        },
+        {
+          "scid": "mn104:17.6",
+          "pli": "Tamenaṃ so nibbeṭhentaṃ ativeṭheti:",
+          "en": "But though they try to get out of it, the mendicants pursue the issue:"
+        },
+        {
+          "scid": "mn104:17.7",
+          "pli": "‘iṅghāyasmā sādhukameva jānāhi yadi sarasi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti.",
+          "en": "‘Surely the venerable must know perfectly well if you recall committing an offence that entails expulsion or close to it!’"
+        },
+        {
+          "scid": "mn104:17.8",
+          "pli": "So evamāha:",
+          "en": "They say:"
+        },
+        {
+          "scid": "mn104:17.9",
+          "pli": "‘ahaṃ kho, āvuso, ummādaṃ pāpuṇiṃ cetaso vipariyāsaṃ.",
+          "en": "‘Reverends, I had gone mad, I was out of my mind."
+        },
+        {
+          "scid": "mn104:17.10",
+          "pli": "Tena me ummattakena bahuṃ assāmaṇakaṃ ajjhāciṇṇaṃ bhāsitaparikkantaṃ.",
+          "en": "And while I was mad I did and said many things that are not proper for an ascetic."
+        },
+        {
+          "scid": "mn104:17.11",
+          "pli": "Nāhaṃ taṃ sarāmi.",
+          "en": "I don’t remember any of that,"
+        },
+        {
+          "scid": "mn104:17.12",
+          "pli": "Mūḷhena me etaṃ katan’ti.",
+          "en": "I was mad when I did it.’"
+        },
+        {
+          "scid": "mn104:17.13",
+          "pli": "Tassa kho, ānanda, bhikkhuno amūḷhavinayo dātabbo.",
+          "en": "The removal by recovery from madness is applicable to them."
+        },
+        {
+          "scid": "mn104:17.14",
+          "pli": "Evaṃ kho, ānanda, amūḷhavinayo hoti, evañca panidhekaccānaṃ adhikaraṇānaṃ vūpasamo hoti yadidaṃ—",
+          "en": "That’s how there is the removal by recovery from madness. And that’s how certain disciplinary issues are settled, that is,"
+        },
+        {
+          "scid": "mn104:17.15",
+          "pli": "amūḷhavinayena. (4)",
+          "en": "by recovery from madness."
+        },
+        {
+          "scid": "mn104:18.1",
+          "pli": "Kathañcānanda, paṭiññātakaraṇaṃ hoti?",
+          "en": "And how is there the acknowledging of an offence?"
+        },
+        {
+          "scid": "mn104:18.2",
+          "pli": "Idhānanda, bhikkhu codito vā acodito vā āpattiṃ sarati, vivarati uttānīkaroti.",
+          "en": "It’s when a mendicant, whether accused or not, recalls an offence and clarifies it and reveals it."
+        },
+        {
+          "scid": "mn104:18.3",
+          "pli": "Tena, ānanda, bhikkhunā vuḍḍhataraṃ bhikkhuṃ upasaṅkamitvā ekaṃsaṃ cīvaraṃ katvā pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo:",
+          "en": "After approaching a more senior mendicant, that mendicant should arrange his robe over one shoulder, bow to that mendicant’s feet, squat on their heels, raise their joined palms, and say:"
+        },
+        {
+          "scid": "mn104:18.4",
+          "pli": "‘ahaṃ, bhante, itthannāmaṃ āpattiṃ āpanno, taṃ paṭidesemī’ti.",
+          "en": "‘Sir, I have fallen into such-and-such an offense. I confess it.’"
+        },
+        {
+          "scid": "mn104:18.5",
+          "pli": "So evamāha:",
+          "en": "The senior mendicant says:"
+        },
+        {
+          "scid": "mn104:18.6",
+          "pli": "‘passasī’ti?",
+          "en": "‘Do you see it?’"
+        },
+        {
+          "scid": "mn104:18.7",
+          "pli": "‘Āma passāmī’ti.",
+          "en": "‘Yes, I see it.’"
+        },
+        {
+          "scid": "mn104:18.8",
+          "pli": "‘Āyatiṃsaṃvareyyāsī’ti.",
+          "en": "‘Then restrain yourself in future.’"
+        },
+        {
+          "scid": "mn104:18.9",
+          "pli": "‘Saṃvarissāmī’ti.",
+          "en": "‘I shall restrain myself.’"
+        },
+        {
+          "scid": "mn104:18.10",
+          "pli": "Evaṃ kho, ānanda, paṭiññātakaraṇaṃ hoti, evañca panidhekaccānaṃ adhikaraṇānaṃ vūpasamo hoti yadidaṃ—",
+          "en": "That’s how there is the acknowledging of an offense. And that’s how certain disciplinary issues are settled, that is,"
+        },
+        {
+          "scid": "mn104:18.11",
+          "pli": "paṭiññātakaraṇena. (5)",
+          "en": "by acknowledging an offense."
+        },
+        {
+          "scid": "mn104:19.1",
+          "pli": "Kathañcānanda, tassapāpiyasikā hoti?",
+          "en": "And how is there a verdict of aggravated misconduct?"
+        },
+        {
+          "scid": "mn104:19.2",
+          "pli": "Idhānanda, bhikkhu bhikkhuṃ evarūpāya garukāya āpattiyā codeti pārājikena vā pārājikasāmantena vā:",
+          "en": "It’s when a mendicant accuses a mendicant of the kind of serious offense that entails expulsion, or close to it."
+        },
+        {
+          "scid": "mn104:19.3",
+          "pli": "‘saratāyasmā evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti?",
+          "en": "‘Venerable, do you recall committing the kind of serious offense that entails expulsion or close to it?’"
+        },
+        {
+          "scid": "mn104:19.4",
+          "pli": "So evamāha:",
+          "en": "They say:"
+        },
+        {
+          "scid": "mn104:19.5",
+          "pli": "‘na kho ahaṃ, āvuso, sarāmi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti.",
+          "en": "‘No, reverends, I don’t recall committing such an offense.’"
+        },
+        {
+          "scid": "mn104:19.6",
+          "pli": "Tamenaṃ so nibbeṭhentaṃ ativeṭheti:",
+          "en": "But though they try to get out of it, the mendicants pursue the issue:"
+        },
+        {
+          "scid": "mn104:19.7",
+          "pli": "‘iṅghāyasmā sādhukameva jānāhi yadi sarasi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti.",
+          "en": "‘Surely the venerable must know perfectly well if you recall committing an offence that entails expulsion or close to it!’"
+        },
+        {
+          "scid": "mn104:19.8",
+          "pli": "So evamāha:",
+          "en": "They say:"
+        },
+        {
+          "scid": "mn104:19.9",
+          "pli": "‘na kho ahaṃ, āvuso, sarāmi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā;",
+          "en": "‘Reverends, I don’t recall committing a serious offense of that nature."
+        },
+        {
+          "scid": "mn104:19.10",
+          "pli": "sarāmi ca kho ahaṃ, āvuso, evarūpiṃ appamattikaṃ āpattiṃ āpajjitā’ti.",
+          "en": "But I do recall committing a light offense.’"
+        },
+        {
+          "scid": "mn104:19.11",
+          "pli": "Tamenaṃ so nibbeṭhentaṃ ativeṭheti:",
+          "en": "But though they try to get out of it, the mendicants pursue the issue:"
+        },
+        {
+          "scid": "mn104:19.12",
+          "pli": "‘iṅghāyasmā sādhukameva jānāhi yadi sarasi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti?",
+          "en": "‘Surely the venerable must know perfectly well if you recall committing an offense that entails expulsion or close to it!’"
+        },
+        {
+          "scid": "mn104:19.13",
+          "pli": "So evamāha:",
+          "en": "They say:"
+        },
+        {
+          "scid": "mn104:19.14",
+          "pli": "‘imañhi nāmāhaṃ, āvuso, appamattikaṃ āpattiṃ āpajjitvā apuṭṭho paṭijānissāmi.",
+          "en": "‘Reverends, I’ll go so far as to acknowledge this light offence even when not asked."
+        },
+        {
+          "scid": "mn104:19.15",
+          "pli": "Kiṃ panāhaṃ evarūpiṃ garukaṃ āpattiṃ āpajjitvā pārājikaṃ vā pārājikasāmantaṃ vā puṭṭho na paṭijānissāmī’ti?",
+          "en": "Why wouldn’t I acknowledge a serious offense when asked?’"
+        },
+        {
+          "scid": "mn104:19.16",
+          "pli": "So evamāha:",
+          "en": "They say:"
+        },
+        {
+          "scid": "mn104:19.17",
+          "pli": "‘imañhi nāma tvaṃ, āvuso, appamattikaṃ āpattiṃ āpajjitvā apuṭṭho na paṭijānissasi, kiṃ pana tvaṃ evarūpiṃ garukaṃ āpattiṃ āpajjitvā pārājikaṃ vā pārājikasāmantaṃ vā puṭṭho paṭijānissasi?",
+          "en": "‘You wouldn’t have acknowledged that light offense without being asked, so why would you acknowledge a serious offense?"
+        },
+        {
+          "scid": "mn104:19.18",
+          "pli": "Iṅghāyasmā sādhukameva jānāhi yadi sarasi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti.",
+          "en": "Surely the venerable must know perfectly well if you recall committing an offense that entails expulsion or close to it!’"
+        },
+        {
+          "scid": "mn104:19.19",
+          "pli": "So evamāha:",
+          "en": "They say:"
+        },
+        {
+          "scid": "mn104:19.20",
+          "pli": "‘sarāmi kho ahaṃ, āvuso, evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā.",
+          "en": "‘Reverend, I do recall committing the kind of serious offense that entails expulsion or close to it."
+        },
+        {
+          "scid": "mn104:19.21",
+          "pli": "Davā me etaṃ vuttaṃ, ravā me etaṃ vuttaṃ—",
+          "en": "I spoke too hastily when I said"
+        },
+        {
+          "scid": "mn104:19.22",
+          "pli": "nāhaṃ taṃ sarāmi evarūpiṃ garukaṃ āpattiṃ āpajjitā pārājikaṃ vā pārājikasāmantaṃ vā’ti.",
+          "en": "that I didn’t recall it.’"
+        },
+        {
+          "scid": "mn104:19.23",
+          "pli": "Evaṃ kho, ānanda, tassapāpiyasikā hoti, evañca panidhekaccānaṃ adhikaraṇānaṃ vūpasamo hoti yadidaṃ—",
+          "en": "That’s how there is a verdict of aggravated misconduct. And that’s how certain disciplinary issues are settled, that is,"
+        },
+        {
+          "scid": "mn104:19.24",
+          "pli": "tassapāpiyasikāya. (6)",
+          "en": "by a verdict of aggravated misconduct."
+        },
+        {
+          "scid": "mn104:20.1",
+          "pli": "Kathañcānanda, tiṇavatthārako hoti?",
+          "en": "And how there the covering over with grass?"
+        },
+        {
+          "scid": "mn104:20.2",
+          "pli": "Idhānanda, bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ viharataṃ bahuṃ assāmaṇakaṃ ajjhāciṇṇaṃ hoti bhāsitaparikkantaṃ.",
+          "en": "It’s when the mendicants continually argue, quarrel, and fight, doing and saying many things that are not proper for an ascetic."
+        },
+        {
+          "scid": "mn104:20.3",
+          "pli": "Tehānanda, bhikkhūhi sabbeheva samaggehi sannipatitabbaṃ.",
+          "en": "Those mendicants should all sit together in harmony."
+        },
+        {
+          "scid": "mn104:20.4",
+          "pli": "Sannipatitvā ekatopakkhikānaṃ bhikkhūnaṃ byattena bhikkhunā uṭṭhāyāsanā ekaṃsaṃ cīvaraṃ katvā añjaliṃ paṇāmetvā saṃgho ñāpetabbo—",
+          "en": "A competent mendicant of one party, having got up from their seat, arranged their robe over one shoulder, and raised their joined palms, should inform the Saṅgha:"
+        },
+        {
+          "scid": "mn104:20.5",
+          "pli": "Suṇātu me, bhante, saṅgho.",
+          "en": "‘Sir, let the Saṅgha listen to me."
+        },
+        {
+          "scid": "mn104:20.6",
+          "pli": "Idaṃ amhākaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ viharataṃ bahuṃ assāmaṇakaṃ ajjhāciṇṇaṃ bhāsitaparikkantaṃ.",
+          "en": "We have been continually arguing, quarreling, and fighting, doing and saying many things that are not proper for an ascetic."
+        },
+        {
+          "scid": "mn104:20.7",
+          "pli": "Yadi saṅghassa pattakallaṃ, ahaṃ yā ceva imesaṃ āyasmantānaṃ āpatti yā ca attano āpatti, imesañceva āyasmantānaṃ atthāya attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṃ, ṭhapetvā thullavajjaṃ ṭhapetvā gihipaṭisaṃyuttan’ti.",
+          "en": "If it seems appropriate to the Saṅgha, then—for the benefit of these venerables and myself—I disclose in the middle of the Saṅgha by means of covering over with grass any offenses committed by these venerables and by myself, excepting only those that are gravely blameworthy and those connected with laypeople.’"
+        },
+        {
+          "scid": "mn104:20.8",
+          "pli": "Athāparesaṃ ekatopakkhikānaṃ bhikkhūnaṃ byattena bhikkhunā uṭṭhāyāsanā ekaṃsaṃ cīvaraṃ katvā añjaliṃ paṇāmetvā saṅgho ñāpetabbo:",
+          "en": "Then a competent mendicant of the other party, having got up from their seat, arranged their robe over one shoulder, and raising their joined palms, should inform the Saṅgha:"
+        },
+        {
+          "scid": "mn104:20.9",
+          "pli": "‘Suṇātu me, bhante, saṅgho.",
+          "en": "‘Sir, let the Saṅgha listen to me."
+        },
+        {
+          "scid": "mn104:20.10",
+          "pli": "Idaṃ amhākaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ viharataṃ bahuṃ assāmaṇakaṃ ajjhāciṇṇaṃ bhāsitaparikkantaṃ.",
+          "en": "We have been continually arguing, quarreling, and fighting, doing and saying many things that are not proper for an ascetic."
+        },
+        {
+          "scid": "mn104:20.11",
+          "pli": "Yadi saṅghassa pattakallaṃ, ahaṃ yā ceva imesaṃ āyasmantānaṃ āpatti yā ca attano āpatti, imesañceva āyasmantānaṃ atthāya attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṃ, ṭhapetvā thullavajjaṃ ṭhapetvā gihipaṭisaṃyuttan’ti.",
+          "en": "If it seems appropriate to the Saṅgha, then—for the benefit of these venerables and myself—I disclose in the middle of the Saṅgha by means of covering over with grass any offenses committed by these venerables and by myself, excepting only those that are gravely blameworthy and those connected with laypeople.’"
+        },
+        {
+          "scid": "mn104:20.12",
+          "pli": "Evaṃ kho, ānanda, tiṇavatthārako hoti, evañca panidhekaccānaṃ adhikaraṇānaṃ vūpasamo hoti yadidaṃ—",
+          "en": "That’s how there is the covering over with grass. And that’s how certain disciplinary issues are settled, that is,"
+        },
+        {
+          "scid": "mn104:20.13",
+          "pli": "tiṇavatthārakena. (7)",
+          "en": "by covering over with grass."
+        },
+        {
+          "scid": "mn104:21.1",
+          "pli": "Chayime, ānanda, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.",
+          "en": "Ānanda, these six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "mn104:21.2",
+          "pli": "Katame cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "mn104:21.3",
+          "pli": "Idhānanda, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+          "en": "Firstly, a mendicant consistently treats their spiritual companions with bodily kindness, both in public and in private."
+        },
+        {
+          "scid": "mn104:21.4",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (1)",
+          "en": "This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "mn104:21.5",
+          "pli": "Puna caparaṃ, ānanda, bhikkhuno mettaṃ vacīkammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+          "en": "Furthermore, a mendicant consistently treats their spiritual companions with verbal kindness …"
+        },
+        {
+          "scid": "mn104:21.6",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (2)",
+          "en": "This too is a warm-hearted quality."
+        },
+        {
+          "scid": "mn104:21.7",
+          "pli": "Puna caparaṃ, ānanda, bhikkhuno mettaṃ manokammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+          "en": "Furthermore, a mendicant consistently treats their spiritual companions with mental kindness …"
+        },
+        {
+          "scid": "mn104:21.8",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (3)",
+          "en": "This too is a warm-hearted quality."
+        },
+        {
+          "scid": "mn104:21.9",
+          "pli": "Puna caparaṃ, ānanda, bhikkhu—ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi tathārūpehi lābhehi—apaṭivibhattabhogī hoti, sīlavantehi sabrahmacārīhi sādhāraṇabhogī.",
+          "en": "Furthermore, a mendicant shares without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions."
+        },
+        {
+          "scid": "mn104:21.10",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (4)",
+          "en": "This too is a warm-hearted quality."
+        },
+        {
+          "scid": "mn104:21.11",
+          "pli": "Puna caparaṃ, ānanda, bhikkhu—yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpesu sīlesu—sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca.",
+          "en": "Furthermore, a mendicant lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are uncorrupted, unflawed, unblemished, untainted, liberating, praised by sensible people, not mistaken, and leading to immersion."
+        },
+        {
+          "scid": "mn104:21.12",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (5)",
+          "en": "This too is a warm-hearted quality."
+        },
+        {
+          "scid": "mn104:21.13",
+          "pli": "Puna caparaṃ, ānanda, bhikkhu—yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā—diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca.",
+          "en": "Furthermore, a mendicant lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and leads one who practices it to the complete end of suffering."
+        },
+        {
+          "scid": "mn104:21.14",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (6)",
+          "en": "This too is a warm-hearted quality."
+        },
+        {
+          "scid": "mn104:21.15",
+          "pli": "Ime kho, ānanda, cha sāraṇīyā dhammā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.",
+          "en": "These six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "mn104:22.1",
+          "pli": "Ime ce tumhe, ānanda, cha sāraṇīye dhamme samādāya vatteyyātha, passatha no tumhe, ānanda, taṃ vacanapathaṃ aṇuṃ vā thūlaṃ vā yaṃ tumhe nādhivāseyyāthā”ti?",
+          "en": "If you should undertake and follow these six warm-hearted qualities, do you see any criticism, large or small, that you could not endure?”"
+        },
+        {
+          "scid": "mn104:22.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn104:22.3",
+          "pli": "“Tasmātihānanda, ime cha sāraṇīye dhamme samādāya vattatha.",
+          "en": "“That’s why, Ānanda, you should undertake and follow these six warm-hearted qualities."
+        },
+        {
+          "scid": "mn104:22.4",
+          "pli": "Taṃ vo bhavissati dīgharattaṃ hitāya sukhāyā”ti.",
+          "en": "That will be for your lasting welfare and happiness.”"
+        },
+        {
+          "scid": "mn104:22.5",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn104:22.6",
+          "pli": "Attamano āyasmā ānando bhagavato bhāsitaṃ abhinandīti.",
+          "en": "Satisfied, Venerable Ānanda was happy with what the Buddha said."
+        },
+        {
+          "scid": "mn104:22.7",
+          "pli": "Sāmagāmasuttaṃ niṭṭhitaṃ catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn104/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 104",
+    "volpages": "MN ii 243",
+    "uid": "mn104",
+    "blurb": "Hearing of the death of the Jain leader Nigaṇṭha Nātaputta, the Buddha encourages the Saṅgha to swiftly resolve any disputes. He lays down a series of seven methods for resolving disputes. These form the foundation for the monastic code.",
+    "difficulty": 2,
+    "original_title": "Sāmagāma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "At Sāmagāma",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn104_sujato",
+        "segmented": true,
+        "title": "At Sāmagāma"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn104_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "At Sāmagāma"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 4
+  }
+}

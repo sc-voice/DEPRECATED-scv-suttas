@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn1.47",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.47",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Planters",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jeta’s Grove",
+      "uid": "sn1.48"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nymphs",
+      "uid": "sn1.46"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.47:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.47:0.2",
+          "pli": "5. Ādittavagga",
+          "en": "5. On Fire"
+        },
+        {
+          "scid": "sn1.47:0.3",
+          "pli": "47. Vanaropasutta",
+          "en": "47. Planters"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.47:1.1",
+          "pli": "“Kesaṃ divā ca ratto ca,",
+          "en": "“Whose merit always grows"
+        },
+        {
+          "scid": "sn1.47:1.2",
+          "pli": "sadā puññaṃ pavaḍḍhati;",
+          "en": "by day and by night."
+        },
+        {
+          "scid": "sn1.47:1.3",
+          "pli": "Dhammaṭṭhā sīlasampannā,",
+          "en": "Firm in principle, accomplished in ethical conduct,"
+        },
+        {
+          "scid": "sn1.47:1.4",
+          "pli": "ke janā saggagāmino”ti.",
+          "en": "who’s going to heaven?”"
+        },
+        {
+          "scid": "sn1.47:2.1",
+          "pli": "“Ārāmaropā vanaropā,",
+          "en": "“Planters of parks or groves,"
+        },
+        {
+          "scid": "sn1.47:2.2",
+          "pli": "ye janā setukārakā;",
+          "en": "those who build a bridge,"
+        },
+        {
+          "scid": "sn1.47:2.3",
+          "pli": "Papañca udapānañca,",
+          "en": "a drinking place and well,"
+        },
+        {
+          "scid": "sn1.47:2.4",
+          "pli": "ye dadanti upassayaṃ.",
+          "en": "and those who give a residence."
+        },
+        {
+          "scid": "sn1.47:3.1",
+          "pli": "Tesaṃ divā ca ratto ca,",
+          "en": "Their merit always grows"
+        },
+        {
+          "scid": "sn1.47:3.2",
+          "pli": "sadā puññaṃ pavaḍḍhati;",
+          "en": "by day and by night."
+        },
+        {
+          "scid": "sn1.47:3.3",
+          "pli": "Dhammaṭṭhā sīlasampannā,",
+          "en": "Firm in principle, accomplished in ethical conduct,"
+        },
+        {
+          "scid": "sn1.47:3.4",
+          "pli": "te janā saggagāmino”ti.",
+          "en": "they’re going to heaven.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Whose merit always grows…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.47/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.47//SN 47",
+    "volpages": "SN i 33//SN i 70",
+    "uid": "sn1.47",
+    "blurb": "For those who give the gift of a monastery, merit always grows.",
+    "difficulty": null,
+    "original_title": "Vanaropa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Planters",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.47_sujato",
+        "segmented": true,
+        "title": "Planters"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.47_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Planters of Groves"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 7
+  }
+}

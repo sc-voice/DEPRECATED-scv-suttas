@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn19.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn19.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Bad Monk",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Bad Nun",
+      "uid": "sn19.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Headless Trunk",
+      "uid": "sn19.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn19.17:0.1",
+          "pli": "Saṃyutta Nikāya 19",
+          "en": "Linked Discourses 19"
+        },
+        {
+          "scid": "sn19.17:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn19.17:0.3",
+          "pli": "17. Pāpabhikkhusutta",
+          "en": "17. A Bad Monk"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 19…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn19.17:1.1",
+          "pli": "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ bhikkhuṃ vehāsaṃ gacchantaṃ.",
+          "en": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a monk flying through the air."
+        },
+        {
+          "scid": "sn19.17:1.2",
+          "pli": "Tassa saṅghāṭipi ādittā sampajjalitā sajotibhūtā, pattopi āditto sampajjalito sajotibhūto, kāyabandhanampi ādittaṃ sampajjalitaṃ sajotibhūtaṃ, kāyopi āditto sampajjalito sajotibhūto.",
+          "en": "His outer robe, bowl, belt, and body were burning, blazing, and glowing"
+        },
+        {
+          "scid": "sn19.17:1.3",
+          "pli": "So sudaṃ aṭṭassaraṃ karoti … pe …",
+          "en": "as he screamed in pain. …” …"
+        },
+        {
+          "scid": "sn19.17:1.4",
+          "pli": "eso, bhikkhave, bhikkhu kassapassa sammāsambuddhassa pāvacane pāpabhikkhu ahosi … pe ….",
+          "en": "“That monk used to be a bad monk in the time of Buddha Kassapa’s dispensation. …”"
+        },
+        {
+          "scid": "sn19.17:1.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Just now…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn19.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 19.17",
+    "volpages": "SN ii 260",
+    "uid": "sn19.17",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Pāpabhikkhu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Bad Monk",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn19.17_sujato",
+        "segmented": true,
+        "title": "A Bad Monk"
+      }
+    ],
+    "parallel_count": 24,
+    "biblio": null,
+    "num": 7
+  }
+}

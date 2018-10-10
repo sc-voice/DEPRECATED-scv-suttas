@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an10.190",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.190",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Dark Path",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The True Teaching",
+      "uid": "an10.191"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Noble Path",
+      "uid": "an10.189"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.190:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.190:0.2",
+          "pli": "19. Ariyamaggavagga",
+          "en": "19. The Noble Path"
+        },
+        {
+          "scid": "an10.190:0.3",
+          "pli": "190. Kaṇhamaggasutta",
+          "en": "190. The Dark Path"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.190:1.1",
+          "pli": "“Kaṇhamaggañca vo, bhikkhave, desessāmi sukkamaggañca.",
+          "en": "“I will teach you the dark path and the bright path. …"
+        },
+        {
+          "scid": "an10.190:1.2",
+          "pli": "Taṃ suṇātha … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an10.190:1.3",
+          "pli": "katamo ca, bhikkhave, kaṇho maggo?",
+          "en": "And what is the dark path?"
+        },
+        {
+          "scid": "an10.190:1.4",
+          "pli": "Pāṇātipāto … pe …",
+          "en": "Killing living creatures …"
+        },
+        {
+          "scid": "an10.190:1.5",
+          "pli": "micchādiṭṭhi—",
+          "en": "wrong view."
+        },
+        {
+          "scid": "an10.190:1.6",
+          "pli": "ayaṃ vuccati, bhikkhave, kaṇho maggo.",
+          "en": "This is called the dark path."
+        },
+        {
+          "scid": "an10.190:2.1",
+          "pli": "Katamo ca, bhikkhave, sukko maggo?",
+          "en": "And what is the bright path?"
+        },
+        {
+          "scid": "an10.190:2.2",
+          "pli": "Pāṇātipātā veramaṇī … pe …",
+          "en": "Not killing living creatures …"
+        },
+        {
+          "scid": "an10.190:2.3",
+          "pli": "sammādiṭṭhi—",
+          "en": "right view."
+        },
+        {
+          "scid": "an10.190:2.4",
+          "pli": "ayaṃ vuccati, bhikkhave, sukko maggo”ti.",
+          "en": "This is called the bright path.”"
+        },
+        {
+          "scid": "an10.190:2.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“I will teach you the dark path…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.190/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.190",
+    "volpages": "AN v 278",
+    "uid": "an10.190",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kaṇhamagga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Dark Path",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.190_sujato",
+        "segmented": true,
+        "title": "The Dark Path"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

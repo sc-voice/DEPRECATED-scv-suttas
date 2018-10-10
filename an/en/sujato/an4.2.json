@@ -1,0 +1,205 @@
+{
+  "sutta_uid": "an4.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fallen",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Broken (1st)",
+      "uid": "an4.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Understood",
+      "uid": "an4.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.2:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.2:0.2",
+          "pli": "1. Bhaṇḍagāmavagga",
+          "en": "1. At Bhaṇḍa Village"
+        },
+        {
+          "scid": "an4.2:0.3",
+          "pli": "2. Papatitasutta",
+          "en": "2. Fallen"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.2:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi asamannāgato ‘imasmā dhammavinayā papatito’ti vuccati.",
+          "en": "“Someone without four things is said to have ‘fallen from this teaching and training’."
+        },
+        {
+          "scid": "an4.2:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.2:1.3",
+          "pli": "Ariyena, bhikkhave, sīlena asamannāgato ‘imasmā dhammavinayā papatito’ti vuccati.",
+          "en": "Noble ethics,"
+        },
+        {
+          "scid": "an4.2:1.4",
+          "pli": "Ariyena, bhikkhave, samādhinā asamannāgato ‘imasmā dhammavinayā papatito’ti vuccati.",
+          "en": "immersion,"
+        },
+        {
+          "scid": "an4.2:1.5",
+          "pli": "Ariyāya, bhikkhave, paññāya asamannāgato ‘imasmā dhammavinayā papatito’ti vuccati.",
+          "en": "wisdom,"
+        },
+        {
+          "scid": "an4.2:1.6",
+          "pli": "Ariyāya, bhikkhave, vimuttiyā asamannāgato ‘imasmā dhammavinayā papatito’ti vuccati.",
+          "en": "and freedom."
+        },
+        {
+          "scid": "an4.2:1.7",
+          "pli": "Imehi kho, bhikkhave, catūhi dhammehi asamannāgato ‘imasmā dhammavinayā papatito’ti vuccati.",
+          "en": "Someone without these four things is said to have ‘fallen from this teaching and training’."
+        },
+        {
+          "scid": "an4.2:2.1",
+          "pli": "Catūhi, bhikkhave, dhammehi samannāgato ‘imasmā dhammavinayā apapatito’ti vuccati.",
+          "en": "Someone with four things is said to be ‘secure in this teaching and training’."
+        },
+        {
+          "scid": "an4.2:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.2:2.3",
+          "pli": "Ariyena, bhikkhave, sīlena samannāgato ‘imasmā dhammavinayā apapatito’ti vuccati.",
+          "en": "Noble ethics,"
+        },
+        {
+          "scid": "an4.2:2.4",
+          "pli": "Ariyena, bhikkhave, samādhinā samannāgato ‘imasmā dhammavinayā apapatito’ti vuccati.",
+          "en": "immersion,"
+        },
+        {
+          "scid": "an4.2:2.5",
+          "pli": "Ariyāya, bhikkhave, paññāya samannāgato ‘imasmā dhammavinayā apapatito’ti vuccati.",
+          "en": "wisdom,"
+        },
+        {
+          "scid": "an4.2:2.6",
+          "pli": "Ariyāya, bhikkhave, vimuttiyā samannāgato ‘imasmā dhammavinayā apapatito’ti vuccati.",
+          "en": "and freedom."
+        },
+        {
+          "scid": "an4.2:2.7",
+          "pli": "Imehi kho, bhikkhave, catūhi dhammehi samannāgato ‘imasmā dhammavinayā apapatito’ti vuccatīti.",
+          "en": "Someone with these four things is said to be ‘secure in this teaching and training’."
+        },
+        {
+          "scid": "an4.2:3.1",
+          "pli": "Cutā patanti patitā,",
+          "en": "They fall, collapsed and fallen;"
+        },
+        {
+          "scid": "an4.2:3.2",
+          "pli": "giddhā ca punarāgatā;",
+          "en": "greedy, they return."
+        },
+        {
+          "scid": "an4.2:3.3",
+          "pli": "Kataṃ kiccaṃ rataṃ rammaṃ,",
+          "en": "The work is done, the joyful is enjoyed,"
+        },
+        {
+          "scid": "an4.2:3.4",
+          "pli": "sukhenānvāgataṃ sukhan”ti.",
+          "en": "happiness is found by happiness.”"
+        },
+        {
+          "scid": "an4.2:3.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Someone without four things is said to…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.2",
+    "volpages": "AN ii 2",
+    "uid": "an4.2",
+    "blurb": "Without morality, convergence, wisdom, and freedom, one has fallen from the teaching.",
+    "difficulty": null,
+    "original_title": "Papatita Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fallen",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.2_sujato",
+        "segmented": true,
+        "title": "Fallen"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.2_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Fallen"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

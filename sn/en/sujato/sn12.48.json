@@ -1,0 +1,220 @@
+{
+  "sutta_uid": "sn12.48",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.48",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Cosmologist",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Noble Disciple",
+      "uid": "sn12.49"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jāṇussoṇi",
+      "uid": "sn12.47"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.48:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.48:0.2",
+          "pli": "5. Gahapativagga",
+          "en": "5. Householders"
+        },
+        {
+          "scid": "sn12.48:0.3",
+          "pli": "48. Lokāyatikasutta",
+          "en": "48. A Cosmologist"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.48:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn12.48:1.2",
+          "pli": "Atha kho lokāyatiko brāhmaṇo yena bhagavā … pe …",
+          "en": "Then a brahmin cosmologist went up to the Buddha …"
+        },
+        {
+          "scid": "sn12.48:1.3",
+          "pli": "ekamantaṃ nisinno kho lokāyatiko brāhmaṇo bhagavantaṃ etadavoca:",
+          "en": "Seated to one side he said to the Buddha:"
+        },
+        {
+          "scid": "sn12.48:2.1",
+          "pli": "“Kiṃ nu kho, bho gotama, sabbamatthī”ti?",
+          "en": "“Master Gotama, does all exist?”"
+        },
+        {
+          "scid": "sn12.48:2.2",
+          "pli": "“‘Sabbamatthī’ti kho, brāhmaṇa, jeṭṭhametaṃ lokāyataṃ”.",
+          "en": "“‘All exists’: this is the oldest cosmology, brahmin.”"
+        },
+        {
+          "scid": "sn12.48:3.1",
+          "pli": "“Kiṃ pana, bho gotama, sabbaṃ natthī”ti?",
+          "en": "“Then does all not exist?”"
+        },
+        {
+          "scid": "sn12.48:3.2",
+          "pli": "“‘Sabbaṃ natthī’ti kho, brāhmaṇa, dutiyametaṃ lokāyataṃ”.",
+          "en": "“‘All doesn’t exist’: this is the second cosmology."
+        },
+        {
+          "scid": "sn12.48:4.1",
+          "pli": "“Kiṃ nu kho, bho gotama, sabbamekattan”ti?",
+          "en": "“Well, is all a unity?”"
+        },
+        {
+          "scid": "sn12.48:4.2",
+          "pli": "“‘Sabbamekattan’ti kho, brāhmaṇa, tatiyametaṃ lokāyataṃ”.",
+          "en": "“‘All is a unity’: this is the third cosmology."
+        },
+        {
+          "scid": "sn12.48:5.1",
+          "pli": "“Kiṃ pana, bho gotama, sabbaṃ puthuttan”ti?",
+          "en": "“Then is all a plurality?”"
+        },
+        {
+          "scid": "sn12.48:5.2",
+          "pli": "“‘Sabbaṃ puthuttan’ti kho, brāhmaṇa, catutthametaṃ lokāyataṃ.",
+          "en": "“‘All is a plurality’: this is the fourth cosmology."
+        },
+        {
+          "scid": "sn12.48:6.1",
+          "pli": "Ete te, brāhmaṇa, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti:",
+          "en": "Avoiding these two extremes, the Realized One teaches by the middle way:"
+        },
+        {
+          "scid": "sn12.48:6.2",
+          "pli": "‘avijjāpaccayā saṅkhārā;",
+          "en": "‘Ignorance is a condition for choices."
+        },
+        {
+          "scid": "sn12.48:6.3",
+          "pli": "saṅkhārapaccayā viññāṇaṃ … pe …",
+          "en": "Choices are a condition for consciousness. …"
+        },
+        {
+          "scid": "sn12.48:6.4",
+          "pli": "evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+          "en": "That is how this entire mass of suffering originates."
+        },
+        {
+          "scid": "sn12.48:6.5",
+          "pli": "Avijjāya tveva asesavirāganirodhā saṅkhāranirodho;",
+          "en": "When ignorance fades away and ceases with nothing left over, choices cease."
+        },
+        {
+          "scid": "sn12.48:6.6",
+          "pli": "saṅkhāranirodhā viññāṇanirodho … pe …",
+          "en": "When choices cease, consciousness ceases. …"
+        },
+        {
+          "scid": "sn12.48:6.7",
+          "pli": "evametassa kevalassa dukkhakkhandhassa nirodho hotī’”ti.",
+          "en": "That is how this entire mass of suffering ceases.’”"
+        },
+        {
+          "scid": "sn12.48:7.1",
+          "pli": "Evaṃ vutte, lokāyatiko brāhmaṇo bhagavantaṃ etadavoca:",
+          "en": "When he said this, the brahmin cosmologist said to the Buddha:"
+        },
+        {
+          "scid": "sn12.48:7.2",
+          "pli": "“abhikkantaṃ, bho gotama … pe …",
+          "en": "“Excellent, Master Gotama! Excellent! …"
+        },
+        {
+          "scid": "sn12.48:7.3",
+          "pli": "ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "sn12.48:7.4",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.48/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.48",
+    "volpages": "SN ii 77",
+    "uid": "sn12.48",
+    "blurb": "A brahmin cosmologist asks the Buddha whether all exists or nothing exists. The Buddha rejects both views as extreme.",
+    "difficulty": null,
+    "original_title": "Lokāyatika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Cosmologist",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.48_sujato",
+        "segmented": true,
+        "title": "A Cosmologist"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn12.48_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Cosmologist"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

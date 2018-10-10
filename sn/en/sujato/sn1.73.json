@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.73",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.73",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Wealth",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rain",
+      "uid": "sn1.74"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Chariot",
+      "uid": "sn1.72"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.73:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.73:0.2",
+          "pli": "8. Chetvāvagga",
+          "en": "8. Incinerated"
+        },
+        {
+          "scid": "sn1.73:0.3",
+          "pli": "73. Vittasutta",
+          "en": "73. Wealth"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.73:1.1",
+          "pli": "“Kiṃsūdha vittaṃ purisassa seṭṭhaṃ,",
+          "en": "“What’s a person’s best wealth?"
+        },
+        {
+          "scid": "sn1.73:1.2",
+          "pli": "Kiṃsu suciṇṇo sukhamāvahati;",
+          "en": "What brings happiness when practiced well?"
+        },
+        {
+          "scid": "sn1.73:1.3",
+          "pli": "Kiṃsu have sādutaraṃ rasānaṃ,",
+          "en": "What’s the sweetest taste of all?"
+        },
+        {
+          "scid": "sn1.73:1.4",
+          "pli": "Kathaṃjīviṃ jīvitamāhu seṭṭhan”ti.",
+          "en": "The one who they say has the best life: how do they live?”"
+        },
+        {
+          "scid": "sn1.73:2.1",
+          "pli": "“Saddhīdha vittaṃ purisassa seṭṭhaṃ,",
+          "en": "“Faith here is a person’s best wealth."
+        },
+        {
+          "scid": "sn1.73:2.2",
+          "pli": "Dhammo suciṇṇo sukhamāvahati;",
+          "en": "The teaching brings happiness when practiced well."
+        },
+        {
+          "scid": "sn1.73:2.3",
+          "pli": "Saccaṃ have sādutaraṃ rasānaṃ,",
+          "en": "Truth is the sweetest taste of all."
+        },
+        {
+          "scid": "sn1.73:2.4",
+          "pli": "Paññājīviṃ jīvitamāhu seṭṭhan”ti.",
+          "en": "The one who they say has the best life lives by wisdom.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What’s a person’s best wealth…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.73/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.73//SN 73",
+    "volpages": "SN i 42//SN i 94",
+    "uid": "sn1.73",
+    "blurb": "A series of questions on what is best.",
+    "difficulty": null,
+    "original_title": "Vitta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Wealth",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.73_sujato",
+        "segmented": true,
+        "title": "Wealth"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.73_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Treasure"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 3
+  }
+}

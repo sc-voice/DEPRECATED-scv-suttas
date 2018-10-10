@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn51.67-76",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn51.67-76",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Searches",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Floods, Etc.",
+      "uid": "sn51.77-86"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hard Work",
+      "uid": "sn51.55-66"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn51.67-76:0.1",
+          "pli": "Saṃyutta Nikāya 51",
+          "en": "Linked Discourses 51"
+        },
+        {
+          "scid": "sn51.67-76:0.2",
+          "pli": "7. Esanāvagga",
+          "en": "7. Searches"
+        },
+        {
+          "scid": "sn51.67-76:0.3",
+          "pli": "67. Esanāvagga",
+          "en": "67–76. Searches"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 51…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn51.67-76:1.1",
+          "pli": "(Esanāvaggo vitthāretabbo.)",
+          "en": "(To be expanded as in the chapter on searches at SN 45.161–170.)"
+        },
+        {
+          "scid": "sn51.67-76:2.1",
+          "pli": "Esanā vidhā āsavo,",
+          "en": "Searches, discriminations, defilements,"
+        },
+        {
+          "scid": "sn51.67-76:2.2",
+          "pli": "Bhavo ca dukkhatā tisso;",
+          "en": "states of existence, three kinds of suffering,"
+        },
+        {
+          "scid": "sn51.67-76:2.3",
+          "pli": "Khilaṃ malañca nīgho ca,",
+          "en": "barrenness, stains, and troubles,"
+        },
+        {
+          "scid": "sn51.67-76:2.4",
+          "pli": "Vedanā taṇhā tasinā cāti.",
+          "en": "feelings, craving, and thirst."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "(To be expanded as in the chapter…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn51.67-76/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn51.67-76",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Esanā Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Searches",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn51.67-76_sujato",
+        "segmented": true,
+        "title": "Searches"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

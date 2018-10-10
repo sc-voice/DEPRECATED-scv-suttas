@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn55.68",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.68",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Much Wisdom",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fast Wisdom",
+      "uid": "sn55.69"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vast Wisdom",
+      "uid": "sn55.67"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.68:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.68:0.2",
+          "pli": "7. Mahāpaññavagga",
+          "en": "7. Great Wisdom"
+        },
+        {
+          "scid": "sn55.68:0.3",
+          "pli": "68. Paññābāhullasutta",
+          "en": "68. Much Wisdom"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.68:1.1",
+          "pli": "“… Paññābāhullāya saṃvattantī”ti.",
+          "en": "“Mendicants, when four things are developed and cultivated they lead to much wisdom …”"
+        },
+        {
+          "scid": "sn55.68:1.2",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.68/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.68",
+    "volpages": "SN v 412",
+    "uid": "sn55.68",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paññābāhulla Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Much Wisdom",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.68_sujato",
+        "segmented": true,
+        "title": "Much Wisdom"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

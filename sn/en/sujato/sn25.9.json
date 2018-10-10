@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn25.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn25.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Elements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Aggregates",
+      "uid": "sn25.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Craving For Sights",
+      "uid": "sn25.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn25.9:0.1",
+          "pli": "Saṃyutta Nikāya 25",
+          "en": "Linked Discourses 25"
+        },
+        {
+          "scid": "sn25.9:0.2",
+          "pli": "1. Cakkhuvagga",
+          "en": "1. The Eye"
+        },
+        {
+          "scid": "sn25.9:0.3",
+          "pli": "9. Pathavīdhātusutta",
+          "en": "9. Elements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 25…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn25.9:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn25.9:1.2",
+          "pli": "“Pathavīdhātu, bhikkhave, aniccā vipariṇāmī aññathābhāvī;",
+          "en": "“Mendicants, the earth element is impermanent, perishing, and changing."
+        },
+        {
+          "scid": "sn25.9:1.3",
+          "pli": "āpodhātu …",
+          "en": "The water element,"
+        },
+        {
+          "scid": "sn25.9:1.4",
+          "pli": "tejodhātu …",
+          "en": "the fire element,"
+        },
+        {
+          "scid": "sn25.9:1.5",
+          "pli": "vāyodhātu …",
+          "en": "the air element,"
+        },
+        {
+          "scid": "sn25.9:1.6",
+          "pli": "ākāsadhātu …",
+          "en": "the space element,"
+        },
+        {
+          "scid": "sn25.9:1.7",
+          "pli": "viññāṇadhātu aniccā vipariṇāmī aññathābhāvī.",
+          "en": "and the consciousness element are impermanent, perishing, and changing."
+        },
+        {
+          "scid": "sn25.9:1.8",
+          "pli": "Yo, bhikkhave, ime dhamme evaṃ saddahati adhimuccati, ayaṃ vuccati ‘saddhānusārī … pe …",
+          "en": "Someone who has faith and confidence in these principles is called a follower by faith. …”"
+        },
+        {
+          "scid": "sn25.9:1.9",
+          "pli": "sambodhiparāyano’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn25.9:1.10",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn25.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 25.9",
+    "volpages": "SN iii 227",
+    "uid": "sn25.9",
+    "blurb": "One with faith in the teachings on the four physical elements is called a “follower by faith”, while someone with conceptual understanding is called a “follower of the teachings”. But someone who sees them directly is called a stream-enterer.",
+    "difficulty": null,
+    "original_title": "Pathavīdhātu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Elements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn25.9_sujato",
+        "segmented": true,
+        "title": "Elements"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

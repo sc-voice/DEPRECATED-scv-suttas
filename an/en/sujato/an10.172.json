@@ -1,0 +1,695 @@
+{
+  "sutta_uid": "an10.172",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.172",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Bad Principles (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Principles (3rd)",
+      "uid": "an10.173"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Principles (1st)",
+      "uid": "an10.171"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.172:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.172:0.2",
+          "pli": "17. Jāṇussoṇivagga",
+          "en": "17. With Jāṇussoṇi"
+        },
+        {
+          "scid": "an10.172:0.3",
+          "pli": "172. Dutiyaadhammasutta",
+          "en": "172. Bad Principles (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.172:1.1",
+          "pli": "“Adhammo ca, bhikkhave, veditabbo dhammo ca;",
+          "en": "“Mendicants, you should know bad principles and good principles."
+        },
+        {
+          "scid": "an10.172:1.2",
+          "pli": "anattho ca veditabbo attho ca.",
+          "en": "And you should know bad results and good results."
+        },
+        {
+          "scid": "an10.172:1.3",
+          "pli": "Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabban”ti.",
+          "en": "Knowing these things, your practice should follow the good principles with good results.”"
+        },
+        {
+          "scid": "an10.172:1.4",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "an10.172:1.5",
+          "pli": "Idaṃ vatvāna sugato uṭṭhāyāsanā vihāraṃ pāvisi.",
+          "en": "When he had spoken, the Holy One got up from his seat and entered his dwelling."
+        },
+        {
+          "scid": "an10.172:2.1",
+          "pli": "Atha kho tesaṃ bhikkhūnaṃ acirapakkantassa bhagavato etadahosi:",
+          "en": "Soon after the Buddha left, those mendicants considered:"
+        },
+        {
+          "scid": "an10.172:2.2",
+          "pli": "“idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:",
+          "en": "“The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail."
+        },
+        {
+          "scid": "an10.172:2.3",
+          "pli": "‘adhammo ca, bhikkhave, veditabbo dhammo ca;",
+          "en": "‘You should know bad principles and good principles."
+        },
+        {
+          "scid": "an10.172:2.4",
+          "pli": "anattho ca veditabbo attho ca.",
+          "en": "And you should know bad results and good results."
+        },
+        {
+          "scid": "an10.172:2.5",
+          "pli": "Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabban’ti.",
+          "en": "Knowing these things, your practice should follow the good principles with good results.’"
+        },
+        {
+          "scid": "an10.172:2.6",
+          "pli": "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā”ti?",
+          "en": "Who can explain in detail the meaning of this brief passage for recitation given by the Buddha?”"
+        },
+        {
+          "scid": "an10.172:3.1",
+          "pli": "Atha kho tesaṃ bhikkhūnaṃ etadahosi:",
+          "en": "Then those mendicants thought:"
+        },
+        {
+          "scid": "an10.172:3.2",
+          "pli": "“ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito, sambhāvito ca viññūnaṃ sabrahmacārīnaṃ.",
+          "en": "“This Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions."
+        },
+        {
+          "scid": "an10.172:3.3",
+          "pli": "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ.",
+          "en": "He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha."
+        },
+        {
+          "scid": "an10.172:3.4",
+          "pli": "Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ puccheyyāma.",
+          "en": "Let’s go to him, and ask him about this matter."
+        },
+        {
+          "scid": "an10.172:3.5",
+          "pli": "Yathā no āyasmā mahākaccāno byākarissati tathā naṃ dhāressāmā”ti.",
+          "en": "As he answers, so we’ll remember it.”"
+        },
+        {
+          "scid": "an10.172:4.1",
+          "pli": "Atha kho te bhikkhū yenāyasmā mahākaccāno tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā mahākaccānena saddhiṃ sammodiṃsu.",
+          "en": "Then those mendicants went to Mahākaccāna, and exchanged greetings with him."
+        },
+        {
+          "scid": "an10.172:4.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū āyasmantaṃ mahākaccānaṃ etadavocuṃ:",
+          "en": "When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said:"
+        },
+        {
+          "scid": "an10.172:5.1",
+          "pli": "“Idaṃ kho no, āvuso kaccāna, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:5.2",
+          "pli": "‘adhammo ca, bhikkhave, veditabbo dhammo ca;",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:5.3",
+          "pli": "anattho ca veditabbo attho ca.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:5.4",
+          "pli": "Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabban’ti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:6.1",
+          "pli": "Tesaṃ no, āvuso, amhākaṃ acirapakkantassa bhagavato etadahosi:",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:6.2",
+          "pli": "‘idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho—",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:6.3",
+          "pli": "adhammo ca, bhikkhave … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:6.4",
+          "pli": "tathā paṭipajjitabbanti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:6.5",
+          "pli": "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā’ti?",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:7.1",
+          "pli": "Tesaṃ no, āvuso, amhākaṃ etadahosi:",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:7.2",
+          "pli": "‘ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito, sambhāvito ca viññūnaṃ sabrahmacārīnaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:7.3",
+          "pli": "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:7.4",
+          "pli": "Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāma.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:7.5",
+          "pli": "Yathā no āyasmā mahākaccāno byākarissati tathā naṃ dhāressāmā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:7.6",
+          "pli": "Vibhajatu āyasmā mahākaccāno”ti.",
+          "en": "“May Venerable Mahākaccāna please explain this.”"
+        },
+        {
+          "scid": "an10.172:8.1",
+          "pli": "“Seyyathāpi, āvuso, puriso sāratthiko sāraṃ gavesī sārapariyesanaṃ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva mūlaṃ atikkamma khandhaṃ sākhāpalāse sāraṃ pariyesitabbaṃ maññeyya.",
+          "en": "“Reverends, suppose there was a person in need of heartwood. And while wandering in search of heartwood he’d come across a large tree standing with heartwood. But he’d pass over the roots and trunk, imagining that the heartwood should be sought in the branches and leaves."
+        },
+        {
+          "scid": "an10.172:8.2",
+          "pli": "Evaṃsampadamidaṃ āyasmantānaṃ satthari sammukhībhūte taṃ bhagavantaṃ atisitvā amhe etamatthaṃ paṭipucchitabbaṃ maññatha.",
+          "en": "Such is the consequence for the venerables. Though you were face to face with the Buddha, you passed him by, imagining that you should ask me about this matter."
+        },
+        {
+          "scid": "an10.172:8.3",
+          "pli": "So hāvuso, bhagavā jānaṃ jānāti passaṃ passati cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī tathāgato.",
+          "en": "For he is the Buddha, who knows and sees. He is vision, he is knowledge, he is the truth, he is holiness. He is the teacher, the proclaimer, the elucidator of meaning, the bestower of the deathless, the lord of truth, the Realized One."
+        },
+        {
+          "scid": "an10.172:8.4",
+          "pli": "So ceva panetassa kālo ahosi yaṃ tumhe bhagavantaṃyeva upasaṅkamitvā etamatthaṃ paṭipuccheyyātha.",
+          "en": "That was the time to approach the Buddha and ask about this matter."
+        },
+        {
+          "scid": "an10.172:8.5",
+          "pli": "Yathā vo bhagavā byākareyya tathā naṃ dhāreyyāthā”ti.",
+          "en": "You should have remembered it in line with the Buddha’s answer.”"
+        },
+        {
+          "scid": "an10.172:9.1",
+          "pli": "“Addhā, āvuso kaccāna, bhagavā jānaṃ jānāti passaṃ passati cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī tathāgato.",
+          "en": "“Certainly he is the Buddha, who knows and sees. He is vision, he is knowledge, he is the truth, he is holiness. He is the teacher, the proclaimer, the elucidator of meaning, the bestower of the deathless, the lord of truth, the Realized One."
+        },
+        {
+          "scid": "an10.172:9.2",
+          "pli": "So ceva panetassa kālo ahosi yaṃ mayaṃ bhagavantaṃyeva upasaṅkamitvā etamatthaṃ paṭipuccheyyāma.",
+          "en": "That was the time to approach the Buddha and ask about this matter."
+        },
+        {
+          "scid": "an10.172:9.3",
+          "pli": "Yathā no bhagavā byākareyya tathā naṃ dhāreyyāma.",
+          "en": "We should have remembered it in line with the Buddha’s answer."
+        },
+        {
+          "scid": "an10.172:9.4",
+          "pli": "Api cāyasmā mahākaccāno satthu ceva saṃvaṇṇito, sambhāvito ca viññūnaṃ sabrahmacārīnaṃ.",
+          "en": "Still, Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions."
+        },
+        {
+          "scid": "an10.172:9.5",
+          "pli": "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ.",
+          "en": "He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha."
+        },
+        {
+          "scid": "an10.172:9.6",
+          "pli": "Vibhajatāyasmā mahākaccāno agaruṃ karitvā”ti.",
+          "en": "Please explain this, if it’s no trouble.”"
+        },
+        {
+          "scid": "an10.172:10.1",
+          "pli": "“Tena hāvuso, suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+          "en": "“Well then, reverends, listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "an10.172:10.2",
+          "pli": "“Evaṃ, āvuso”ti kho te bhikkhū āyasmato mahākaccānassa paccassosuṃ.",
+          "en": "“Yes, reverend,” they replied."
+        },
+        {
+          "scid": "an10.172:10.3",
+          "pli": "Athāyasmā mahākaccāno etadavoca:",
+          "en": "Mahākaccāna said this:"
+        },
+        {
+          "scid": "an10.172:11.1",
+          "pli": "“Yaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:",
+          "en": "“Reverends, the Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail:"
+        },
+        {
+          "scid": "an10.172:11.2",
+          "pli": "‘adhammo ca, bhikkhave, veditabbo … pe …",
+          "en": "‘You should know bad principles and good principles …"
+        },
+        {
+          "scid": "an10.172:11.3",
+          "pli": "tathā paṭipajjitabban’ti.",
+          "en": "and practice accordingly.’"
+        },
+        {
+          "scid": "an10.172:12.1",
+          "pli": "Katamo cāvuso, adhammo; katamo ca dhammo?",
+          "en": "So what are bad principles? What are good principles?"
+        },
+        {
+          "scid": "an10.172:12.2",
+          "pli": "Katamo ca anattho, katamo ca attho?",
+          "en": "What are bad results? And what are good results?"
+        },
+        {
+          "scid": "an10.172:12.3",
+          "pli": "Pāṇātipāto, āvuso, adhammo;",
+          "en": "Killing living creatures is a bad principle."
+        },
+        {
+          "scid": "an10.172:12.4",
+          "pli": "pāṇātipātā veramaṇī dhammo;",
+          "en": "Not killing living creatures is a good principle."
+        },
+        {
+          "scid": "an10.172:12.5",
+          "pli": "ye ca pāṇātipātapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by killing living creatures are bad results."
+        },
+        {
+          "scid": "an10.172:12.6",
+          "pli": "pāṇātipātā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of not killing living creatures are good results."
+        },
+        {
+          "scid": "an10.172:13.1",
+          "pli": "Adinnādānaṃ, āvuso, adhammo;",
+          "en": "Stealing is a bad principle."
+        },
+        {
+          "scid": "an10.172:13.2",
+          "pli": "adinnādānā veramaṇī dhammo;",
+          "en": "Not stealing is a good principle."
+        },
+        {
+          "scid": "an10.172:13.3",
+          "pli": "ye ca adinnādānapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by stealing are bad results."
+        },
+        {
+          "scid": "an10.172:13.4",
+          "pli": "adinnādānā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of not stealing are good results."
+        },
+        {
+          "scid": "an10.172:14.1",
+          "pli": "Kāmesumicchācāro, āvuso, adhammo;",
+          "en": "Sexual misconduct is a bad principle."
+        },
+        {
+          "scid": "an10.172:14.2",
+          "pli": "kāmesumicchācārā veramaṇī dhammo;",
+          "en": "Avoiding sexual misconduct is a good principle."
+        },
+        {
+          "scid": "an10.172:14.3",
+          "pli": "ye ca kāmesumicchācārapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by sexual misconduct are bad results."
+        },
+        {
+          "scid": "an10.172:14.4",
+          "pli": "kāmesumicchācārā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of avoiding sexual misconduct are good results."
+        },
+        {
+          "scid": "an10.172:15.1",
+          "pli": "Musāvādo, āvuso, adhammo;",
+          "en": "Lying is a bad principle."
+        },
+        {
+          "scid": "an10.172:15.2",
+          "pli": "musāvādā veramaṇī dhammo;",
+          "en": "Not lying is a good principle."
+        },
+        {
+          "scid": "an10.172:15.3",
+          "pli": "ye ca musāvādapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by lying are bad results."
+        },
+        {
+          "scid": "an10.172:15.4",
+          "pli": "musāvādā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of not lying are good results."
+        },
+        {
+          "scid": "an10.172:16.1",
+          "pli": "Pisuṇā vācā, āvuso, adhammo;",
+          "en": "Divisive speech is a bad principle."
+        },
+        {
+          "scid": "an10.172:16.2",
+          "pli": "pisuṇāya vācāya veramaṇī dhammo;",
+          "en": "Avoiding divisive speech is a good principle."
+        },
+        {
+          "scid": "an10.172:16.3",
+          "pli": "ye ca pisuṇāvācāpaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by divisive speech are bad results."
+        },
+        {
+          "scid": "an10.172:16.4",
+          "pli": "pisuṇāya vācāya veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of avoiding divisive speech are good results."
+        },
+        {
+          "scid": "an10.172:17.1",
+          "pli": "Pharusā vācā, āvuso, adhammo;",
+          "en": "Harsh speech is a bad principle."
+        },
+        {
+          "scid": "an10.172:17.2",
+          "pli": "pharusāya vācāya veramaṇī dhammo;",
+          "en": "Avoiding harsh speech is a good principle."
+        },
+        {
+          "scid": "an10.172:17.3",
+          "pli": "ye ca pharusāvācāpaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by harsh speech are bad results."
+        },
+        {
+          "scid": "an10.172:17.4",
+          "pli": "pharusāya vācāya veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of avoiding harsh speech are good results."
+        },
+        {
+          "scid": "an10.172:18.1",
+          "pli": "Samphappalāpo, āvuso, adhammo;",
+          "en": "Talking nonsense is a bad principle."
+        },
+        {
+          "scid": "an10.172:18.2",
+          "pli": "samphappalāpā veramaṇī dhammo;",
+          "en": "Avoiding talking nonsense is a good principle."
+        },
+        {
+          "scid": "an10.172:18.3",
+          "pli": "ye ca samphappalāpapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by talking nonsense are bad results."
+        },
+        {
+          "scid": "an10.172:18.4",
+          "pli": "samphappalāpā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of avoiding talking nonsense are good results."
+        },
+        {
+          "scid": "an10.172:19.1",
+          "pli": "Abhijjhā, āvuso, adhammo;",
+          "en": "Covetousness is a bad principle."
+        },
+        {
+          "scid": "an10.172:19.2",
+          "pli": "anabhijjhā dhammo;",
+          "en": "Contentment is a good principle."
+        },
+        {
+          "scid": "an10.172:19.3",
+          "pli": "ye ca abhijjhāpaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by covetousness are bad results."
+        },
+        {
+          "scid": "an10.172:19.4",
+          "pli": "anabhijjhāpaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of contentment are good results."
+        },
+        {
+          "scid": "an10.172:20.1",
+          "pli": "Byāpādo, āvuso, adhammo;",
+          "en": "Ill will is a bad principle."
+        },
+        {
+          "scid": "an10.172:20.2",
+          "pli": "abyāpādo dhammo;",
+          "en": "Good will is a good principle."
+        },
+        {
+          "scid": "an10.172:20.3",
+          "pli": "ye ca byāpādapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by ill will are bad results."
+        },
+        {
+          "scid": "an10.172:20.4",
+          "pli": "abyāpādapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of good will are good results."
+        },
+        {
+          "scid": "an10.172:21.1",
+          "pli": "Micchādiṭṭhi, āvuso, adhammo;",
+          "en": "Wrong view is a bad principle."
+        },
+        {
+          "scid": "an10.172:21.2",
+          "pli": "sammādiṭṭhi dhammo;",
+          "en": "Right view is a good principle."
+        },
+        {
+          "scid": "an10.172:21.3",
+          "pli": "ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho;",
+          "en": "And the many bad, unskillful qualities produced by wrong view are bad results."
+        },
+        {
+          "scid": "an10.172:21.4",
+          "pli": "sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+          "en": "And the many skillful qualities developed to perfection because of right view are good results."
+        },
+        {
+          "scid": "an10.172:22.1",
+          "pli": "‘Yaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho—",
+          "en": "The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail:"
+        },
+        {
+          "scid": "an10.172:22.2",
+          "pli": "adhammo ca, bhikkhave, veditabbo … pe …",
+          "en": "‘You should know bad principles and good principles …"
+        },
+        {
+          "scid": "an10.172:22.3",
+          "pli": "tathā paṭipajjitabban’ti.",
+          "en": "and practice accordingly.’"
+        },
+        {
+          "scid": "an10.172:22.4",
+          "pli": "Imassa kho ahaṃ, āvuso, bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāmi.",
+          "en": "And this is how I understand the detailed meaning of this passage for recitation."
+        },
+        {
+          "scid": "an10.172:22.5",
+          "pli": "Ākaṅkhamānā ca pana tumhe, āvuso, bhagavantaṃyeva upasaṅkamitvā etamatthaṃ paṭipuccheyyātha.",
+          "en": "If you wish, you may go to the Buddha and ask him about this."
+        },
+        {
+          "scid": "an10.172:22.6",
+          "pli": "Yathā no bhagavā byākaroti tathā naṃ dhāreyyāthā”ti.",
+          "en": "You should remember it in line with the Buddha’s answer.”"
+        },
+        {
+          "scid": "an10.172:23.1",
+          "pli": "“Evamāvuso”ti kho te bhikkhū āyasmato mahākaccānassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
+          "en": "“Yes, reverend,” said those mendicants, approving and agreeing with what Mahākaccāna said. Then they rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened. Then they said:"
+        },
+        {
+          "scid": "an10.172:24.1",
+          "pli": "“Yaṃ kho no, bhante, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:24.2",
+          "pli": "‘adhammo ca, bhikkhave, veditabbo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:24.3",
+          "pli": "tathā paṭipajjitabban’ti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:25.1",
+          "pli": "Tesaṃ no, bhante, amhākaṃ acirapakkantassa bhagavato etadahosi:",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:25.2",
+          "pli": "‘idaṃ kho no, āvuso, bhagavā saṅkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho:",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:25.3",
+          "pli": "“adhammo ca, bhikkhave, veditabbo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:25.4",
+          "pli": "tathā paṭipajjitabban”ti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:25.5",
+          "pli": "Ko nu kho imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā’ti?",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:26.1",
+          "pli": "Tesaṃ no, bhante, amhākaṃ etadahosi:",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:26.2",
+          "pli": "‘ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito, sambhāvito ca viññūnaṃ sabrahmacārīnaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:26.3",
+          "pli": "Pahoti cāyasmā mahākaccāno imassa bhagavatā saṅkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:26.4",
+          "pli": "Yannūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāma.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:26.5",
+          "pli": "Yathā no āyasmā mahākaccāno byākarissati tathā naṃ dhāressāmā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.172:27.1",
+          "pli": "Atha kho mayaṃ, bhante, yenāyasmā mahākaccāno tenupasaṅkamimhā; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ apucchimhā.",
+          "en": "“Sir, we went to Mahākaccāna and asked him about this matter."
+        },
+        {
+          "scid": "an10.172:27.2",
+          "pli": "Tesaṃ no, bhante, āyasmatā mahākaccānena imehi akkharehi imehi padehi imehi byañjanehi attho suvibhatto”ti.",
+          "en": "And Mahākaccāna clearly explained the meaning to us in this manner, with these words and phrases.”"
+        },
+        {
+          "scid": "an10.172:28.1",
+          "pli": "“Sādhu sādhu, bhikkhave.",
+          "en": "“Good, good, mendicants!"
+        },
+        {
+          "scid": "an10.172:28.2",
+          "pli": "Paṇḍito, bhikkhave, mahākaccāno. Mahāpañño, bhikkhave, mahākaccāno.",
+          "en": "Mahākaccāna is astute, he has great wisdom."
+        },
+        {
+          "scid": "an10.172:28.3",
+          "pli": "Mañcepi tumhe, bhikkhave, upasaṅkamitvā etamatthaṃ paṭipuccheyyātha, ahampi cetaṃ evamevaṃ byākareyyaṃ yathā taṃ mahākaccānena byākataṃ.",
+          "en": "If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna."
+        },
+        {
+          "scid": "an10.172:28.4",
+          "pli": "Eso ceva tassa attho. Evañca naṃ dhāreyyāthā”ti.",
+          "en": "That is what it means, and that’s how you should remember it.”"
+        },
+        {
+          "scid": "an10.172:28.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.172/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.172",
+    "volpages": "AN v 255",
+    "uid": "an10.172",
+    "blurb": "One should understand what is the teaching and what is contrary to the teaching. After hearing this in brief from the Buddha, the mendicants seek a detailed answer from Mahākaccāna.",
+    "difficulty": null,
+    "original_title": "Dutiyaadhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bad Principles (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.172_sujato",
+        "segmented": true,
+        "title": "Bad Principles (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

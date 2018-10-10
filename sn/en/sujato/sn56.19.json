@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn56.19",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.19",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Real",
+      "uid": "sn56.20"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Knowledge",
+      "uid": "sn56.18"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.19:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.19:0.2",
+          "pli": "2. Dhammacakkappavattanavagga",
+          "en": "2. Rolling Forth the Wheel of Dhamma"
+        },
+        {
+          "scid": "sn56.19:0.3",
+          "pli": "19. Saṅkāsanasutta",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.19:1.1",
+          "pli": "“‘Idaṃ dukkhaṃ ariyasaccan’ti, bhikkhave, mayā paññattaṃ.",
+          "en": "“Mendicants, I’ve declared: ‘This is the noble truth of suffering.’"
+        },
+        {
+          "scid": "sn56.19:1.2",
+          "pli": "Tattha aparimāṇā vaṇṇā aparimāṇā byañjanā aparimāṇā saṅkāsanā:",
+          "en": "And there are limitless explanations, phrases, and expressions about that:"
+        },
+        {
+          "scid": "sn56.19:1.3",
+          "pli": "‘itipidaṃ dukkhaṃ ariyasaccan’ti;",
+          "en": "‘This is another way of saying that this is the noble truth of suffering.’"
+        },
+        {
+          "scid": "sn56.19:1.4",
+          "pli": "idaṃ dukkhasamudayaṃ … pe …",
+          "en": "I’ve declared: ‘This is the noble truth of the origin of suffering.’ …"
+        },
+        {
+          "scid": "sn56.19:1.5",
+          "pli": "idaṃ dukkhanirodhaṃ … pe …",
+          "en": "I’ve declared: ‘This is the noble truth of the cessation of suffering.’ …"
+        },
+        {
+          "scid": "sn56.19:1.6",
+          "pli": "‘idaṃ dukkhanirodhagāminī paṭipadā ariyasaccan’ti, bhikkhave, mayā paññattaṃ.",
+          "en": "I’ve declared: ‘This is the noble truth of the practice that leads to the cessation of suffering.’"
+        },
+        {
+          "scid": "sn56.19:1.7",
+          "pli": "Tattha aparimāṇā vaṇṇā aparimāṇā byañjanā aparimāṇā saṅkāsanā:",
+          "en": "And there are limitless explanations, phrases, and expressions about that:"
+        },
+        {
+          "scid": "sn56.19:1.8",
+          "pli": "‘itipidaṃ dukkhanirodhagāminī paṭipadā ariyasaccan’ti.",
+          "en": "‘This is another way of saying that this is the noble truth of the practice that leads to the cessation of suffering.’"
+        },
+        {
+          "scid": "sn56.19:2.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.19:2.2",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.19/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.19",
+    "volpages": "SN v 430",
+    "uid": "sn56.19",
+    "blurb": "Each of the four noble truths has innumerable implications.",
+    "difficulty": null,
+    "original_title": "Saṅkāsana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.19_sujato",
+        "segmented": true,
+        "title": ""
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.19_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Implications"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an6.83",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.83",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Best Thing",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Day and Night",
+      "uid": "an6.84"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hell (2nd)",
+      "uid": "an6.82"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.83:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.83:0.2",
+          "pli": "8. Arahattavagga",
+          "en": "8. Perfection"
+        },
+        {
+          "scid": "an6.83:0.3",
+          "pli": "83. Aggadhammasutta",
+          "en": "83. The Best Thing"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.83:1.1",
+          "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo aggaṃ dhammaṃ arahattaṃ sacchikātuṃ.",
+          "en": "“Mendicants, a mendicant with six qualities can’t realize the best thing, perfection."
+        },
+        {
+          "scid": "an6.83:1.2",
+          "pli": "Katamehi chahi?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.83:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, kusīto hoti, duppañño hoti, kāye ca jīvite ca sāpekkho hoti.",
+          "en": "It’s when a mendicant is faithless, shameless, imprudent, lazy, and witless. And they’re concerned with their body and their life."
+        },
+        {
+          "scid": "an6.83:1.4",
+          "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo aggaṃ dhammaṃ arahattaṃ sacchikātuṃ.",
+          "en": "A mendicant with these six qualities can’t realize the best thing, perfection."
+        },
+        {
+          "scid": "an6.83:2.1",
+          "pli": "Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo aggaṃ dhammaṃ arahattaṃ sacchikātuṃ.",
+          "en": "A mendicant with six qualities can realize the best thing, perfection."
+        },
+        {
+          "scid": "an6.83:2.2",
+          "pli": "Katamehi chahi?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.83:2.3",
+          "pli": "Idha, bhikkhave, bhikkhu saddho hoti, hirīmā hoti, ottappī hoti, āraddhavīriyo hoti, paññavā hoti, kāye ca jīvite ca anapekkho hoti.",
+          "en": "It’s when a mendicant is faithful, conscientious, prudent, energetic, and wise. And they have no concern for their body and their life."
+        },
+        {
+          "scid": "an6.83:2.4",
+          "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo aggaṃ dhammaṃ arahattaṃ sacchikātun”ti.",
+          "en": "A mendicant with these six qualities can realize the best thing, perfection.”"
+        },
+        {
+          "scid": "an6.83:2.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.83/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.83",
+    "volpages": "AN iii 433",
+    "uid": "an6.83",
+    "blurb": "Things leading to or obstructing the attainment of perfection.",
+    "difficulty": null,
+    "original_title": "Aggadhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Best Thing",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.83_sujato",
+        "segmented": true,
+        "title": "The Best Thing"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

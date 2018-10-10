@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn56.123-125",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.123-125",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Dying as Animals and Reborn as Gods",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dying as Ghosts and Reborn as Humans",
+      "uid": "sn56.126-128"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dying as Animals and Reborn as Humans",
+      "uid": "sn56.120-122"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.123-125:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.123-125:0.2",
+          "pli": "11. Pañcagatipeyyālavagga",
+          "en": "11. Abbreviated Texts on Five Destinations"
+        },
+        {
+          "scid": "sn56.123-125:0.3",
+          "pli": "123–​125. Tiracchānadevanirayādisutta",
+          "en": "123–​125 Dying as Animals and Reborn as Gods"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.123-125:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye tiracchānayoniyā cutā devesu paccājāyanti; atha kho eteva bahutarā sattā ye tiracchānayoniyā cutā niraye paccājāyanti … pe … tiracchānayoniyā paccājāyanti … pe … pettivisaye paccājāyanti … pe ….",
+          "en": "“… the sentient beings who die as animals and are reborn as gods are few, while those who die as animals and are reborn in hell, or the animal realm, or the ghost realm are many.”"
+        },
+        {
+          "scid": "sn56.123-125:1.2",
+          "pli": "Catuvīsatimaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who die as…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.123-125/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn56.123-125",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Tiracchānadevanirayādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dying as Animals and Reborn as Gods",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.123-125_sujato",
+        "segmented": true,
+        "title": "Dying as Animals and Reborn as Gods"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 10
+  }
+}

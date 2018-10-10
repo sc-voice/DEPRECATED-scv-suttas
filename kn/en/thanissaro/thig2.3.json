@@ -1,0 +1,123 @@
+{
+  "sutta_uid": "thig2.3",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig2.3",
+    "lang": "en",
+    "is_root": false,
+    "title": "Sumangala's Mother",
+    "author": "Thanissaro Bhikkhu",
+    "author_short": "Thanissaro",
+    "author_uid": "thanissaro",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Aḍḍhakāsi",
+      "uid": "thig2.4"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Jentī or Jentā",
+      "uid": "thig2.2"
+    }
+  },
+  "metaarea": "\n<p>Translated from the Pali by: <span class=\"author\">Thanissaro Bhikkhu</span>.</p>\n<p>©2005 Thanissaro Bhikkhu. The text of this page is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of the license, visit <a href=\"http://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">http://creativecommons.org/licenses/by-nc/4.0</a>. Documents linked from this page may be subject to other restrictions. Transcribed from a file provided by the translator.</p>\n<p>Access to Insight (Legacy Edition), 30 November 2013, <a href=\"https://www.accesstoinsight.org/\" target=\"_blank\">www.accesstoinsight.org</a></p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.3:0.1",
+          "en": "Therīgāthā 2.3"
+        },
+        {
+          "scid": "thig2.3:0.2",
+          "en": "Sumangala's Mother",
+          "pli": "Sumaṅgalamātātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig2.3:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig2.3:1.0.2",
+          "en": "Chapter 2"
+        },
+        {
+          "scid": "thig2.3:1.0.3",
+          "en": "3. Sumangala's Mother"
+        },
+        {
+          "scid": "thig2.3:1.0.4",
+          "en": "So freed! So freed! So thoroughly freed am I — from my pestle, my shameless husband & his sun-shade making, my moldy old pot with its water-snake smell."
+        },
+        {
+          "scid": "thig2.3:1.0.5",
+          "en": "Aversion & passion I cut with a chop. Having come to the foot of a tree, I meditate, absorbed in the bliss: \"What bliss!\""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.3/en/thanissaro",
+  "author_uid": "thanissaro",
+  "suttaplex": {
+    "acronym": "Thig 2.3",
+    "volpages": "Thig 126",
+    "uid": "thig2.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sumaṅgalamātātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sumangala's Mother",
+    "translations": [
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig2.3_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Sumangala's Mother"
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.3_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Sumaṅgala's Mother"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

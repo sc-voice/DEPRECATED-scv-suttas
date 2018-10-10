@@ -1,0 +1,385 @@
+{
+  "sutta_uid": "sn2.24",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.24",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Ghaṭikāra",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Jantu",
+      "uid": "sn2.25"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Serī",
+      "uid": "sn2.23"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.24:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.24:0.2",
+          "pli": "3. Nānātitthiyavagga",
+          "en": "3. Various Sectarians"
+        },
+        {
+          "scid": "sn2.24:0.3",
+          "pli": "24. Ghaṭīkārasutta",
+          "en": "24. With Ghaṭikāra"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.24:1.1",
+          "pli": "Ekamantaṃ ṭhito kho ghaṭīkāro devaputto bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, the god Ghaṭikāra recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn2.24:2.1",
+          "pli": "“Avihaṃ upapannāse,",
+          "en": "“Seven mendicants reborn in Aviha"
+        },
+        {
+          "scid": "sn2.24:2.2",
+          "pli": "vimuttā satta bhikkhavo;",
+          "en": "have been freed."
+        },
+        {
+          "scid": "sn2.24:2.3",
+          "pli": "Rāgadosaparikkhīṇā,",
+          "en": "With the complete ending of greed and hate,"
+        },
+        {
+          "scid": "sn2.24:2.4",
+          "pli": "tiṇṇā loke visattikan”ti.",
+          "en": "they’ve crossed over clinging to the world.”"
+        },
+        {
+          "scid": "sn2.24:3.1",
+          "pli": "“Ke ca te ataruṃ paṅkaṃ,",
+          "en": "“Who are those who’ve crossed the marsh,"
+        },
+        {
+          "scid": "sn2.24:3.2",
+          "pli": "maccudheyyaṃ suduttaraṃ;",
+          "en": "death’s domain so hard to pass?"
+        },
+        {
+          "scid": "sn2.24:3.3",
+          "pli": "Ke hitvā mānusaṃ dehaṃ,",
+          "en": "Who, after leaving behind the human body,"
+        },
+        {
+          "scid": "sn2.24:3.4",
+          "pli": "dibbayogaṃ upaccagun”ti.",
+          "en": "have risen above celestial yokes?”"
+        },
+        {
+          "scid": "sn2.24:4.1",
+          "pli": "“Upako palagaṇḍo ca,",
+          "en": "“Upaka and Palagaṇḍa,"
+        },
+        {
+          "scid": "sn2.24:4.2",
+          "pli": "pukkusāti ca te tayo;",
+          "en": "and Pukkusāti, these three;"
+        },
+        {
+          "scid": "sn2.24:4.3",
+          "pli": "Bhaddiyo khaṇḍadevo ca,",
+          "en": "Bhaddiya and Bhaddadeva,"
+        },
+        {
+          "scid": "sn2.24:4.4",
+          "pli": "bāhuraggi ca saṅgiyo;",
+          "en": "and Bāhudantī and Piṅgiya."
+        },
+        {
+          "scid": "sn2.24:4.5",
+          "pli": "Te hitvā mānusaṃ dehaṃ,",
+          "en": "They, after leaving behind the human body,"
+        },
+        {
+          "scid": "sn2.24:4.6",
+          "pli": "dibbayogaṃ upaccagun”ti.",
+          "en": "have risen above celestial yokes.”"
+        },
+        {
+          "scid": "sn2.24:5.1",
+          "pli": "“Kusalī bhāsasī tesaṃ,",
+          "en": "“You speak well of them,"
+        },
+        {
+          "scid": "sn2.24:5.2",
+          "pli": "mārapāsappahāyinaṃ;",
+          "en": "who have let go the snares of Māra."
+        },
+        {
+          "scid": "sn2.24:5.3",
+          "pli": "Kassa te dhammamaññāya,",
+          "en": "Whose teaching did they understand"
+        },
+        {
+          "scid": "sn2.24:5.4",
+          "pli": "acchiduṃ bhavabandhanan”ti.",
+          "en": "to cut the bonds of rebirth?”"
+        },
+        {
+          "scid": "sn2.24:6.1",
+          "pli": "“Na aññatra bhagavatā,",
+          "en": "“None other than the Blessed One!"
+        },
+        {
+          "scid": "sn2.24:6.2",
+          "pli": "nāññatra tava sāsanā;",
+          "en": "None other than your instruction!"
+        },
+        {
+          "scid": "sn2.24:6.3",
+          "pli": "Yassa te dhammamaññāya,",
+          "en": "It was your teaching that they understood"
+        },
+        {
+          "scid": "sn2.24:6.4",
+          "pli": "acchiduṃ bhavabandhanaṃ.",
+          "en": "to cut the bonds of rebirth."
+        },
+        {
+          "scid": "sn2.24:7.1",
+          "pli": "Yattha nāmañca rūpañca,",
+          "en": "Where name and form"
+        },
+        {
+          "scid": "sn2.24:7.2",
+          "pli": "asesaṃ uparujjhati;",
+          "en": "cease with nothing left over;"
+        },
+        {
+          "scid": "sn2.24:7.3",
+          "pli": "Taṃ te dhammaṃ idhaññāya,",
+          "en": "understanding this teaching,"
+        },
+        {
+          "scid": "sn2.24:7.4",
+          "pli": "acchiduṃ bhavabandhanan”ti.",
+          "en": "they cut the bonds of rebirth.”"
+        },
+        {
+          "scid": "sn2.24:8.1",
+          "pli": "“Gambhīraṃ bhāsasī vācaṃ,",
+          "en": "“The words you say are deep,"
+        },
+        {
+          "scid": "sn2.24:8.2",
+          "pli": "dubbijānaṃ sudubbudhaṃ;",
+          "en": "hard to understand, so very hard to wake up to."
+        },
+        {
+          "scid": "sn2.24:8.3",
+          "pli": "Kassa tvaṃ dhammamaññāya,",
+          "en": "Whose teaching do you know"
+        },
+        {
+          "scid": "sn2.24:8.4",
+          "pli": "vācaṃ bhāsasi īdisan”ti.",
+          "en": "to be able to say such things?”"
+        },
+        {
+          "scid": "sn2.24:9.1",
+          "pli": "“Kumbhakāro pure āsiṃ,",
+          "en": "“In the past I was a potter"
+        },
+        {
+          "scid": "sn2.24:9.2",
+          "pli": "vekaḷiṅge ghaṭīkaro;",
+          "en": "in Vebhaliṅga called Ghaṭikāra."
+        },
+        {
+          "scid": "sn2.24:9.3",
+          "pli": "Mātāpettibharo āsiṃ,",
+          "en": "I took care of my parents"
+        },
+        {
+          "scid": "sn2.24:9.4",
+          "pli": "kassapassa upāsako.",
+          "en": "as a lay follower of Buddha Kassapa."
+        },
+        {
+          "scid": "sn2.24:10.1",
+          "pli": "Virato methunā dhammā,",
+          "en": "I refrained from sexual intercourse,"
+        },
+        {
+          "scid": "sn2.24:10.2",
+          "pli": "brahmacārī nirāmiso;",
+          "en": "I was celibate, non-carnal."
+        },
+        {
+          "scid": "sn2.24:10.3",
+          "pli": "Ahuvā te sagāmeyyo,",
+          "en": "We lived in the same village;"
+        },
+        {
+          "scid": "sn2.24:10.4",
+          "pli": "ahuvā te pure sakhā.",
+          "en": "in the past I was your friend."
+        },
+        {
+          "scid": "sn2.24:11.1",
+          "pli": "Sohamete pajānāmi,",
+          "en": "I am the one who understands"
+        },
+        {
+          "scid": "sn2.24:11.2",
+          "pli": "vimutte satta bhikkhavo;",
+          "en": "that these seven mendicants have been freed."
+        },
+        {
+          "scid": "sn2.24:11.3",
+          "pli": "Rāgadosaparikkhīṇe,",
+          "en": "With the complete ending of greed and hate,"
+        },
+        {
+          "scid": "sn2.24:11.4",
+          "pli": "tiṇṇe loke visattikan”ti.",
+          "en": "they’ve crossed over clinging to the world.”"
+        },
+        {
+          "scid": "sn2.24:12.1",
+          "pli": "“Evametaṃ tadā āsi,",
+          "en": "“That’s exactly how it was,"
+        },
+        {
+          "scid": "sn2.24:12.2",
+          "pli": "yathā bhāsasi bhaggava;",
+          "en": "just as you say, Bhaggava."
+        },
+        {
+          "scid": "sn2.24:12.3",
+          "pli": "Kumbhakāro pure āsi,",
+          "en": "In the past you were a potter"
+        },
+        {
+          "scid": "sn2.24:12.4",
+          "pli": "vekaḷiṅge ghaṭīkaro.",
+          "en": "in Vebhaliṅga called Ghaṭikāra."
+        },
+        {
+          "scid": "sn2.24:13.1",
+          "pli": "Mātāpettibharo āsi,",
+          "en": "You took care of your parents"
+        },
+        {
+          "scid": "sn2.24:13.2",
+          "pli": "kassapassa upāsako;",
+          "en": "as a lay follower of Buddha Kassapa."
+        },
+        {
+          "scid": "sn2.24:13.3",
+          "pli": "Virato methunā dhammā,",
+          "en": "You refrained from sexual intercourse,"
+        },
+        {
+          "scid": "sn2.24:13.4",
+          "pli": "brahmacārī nirāmiso;",
+          "en": "you were celibate, non-carnal."
+        },
+        {
+          "scid": "sn2.24:13.5",
+          "pli": "Ahuvā me sagāmeyyo,",
+          "en": "We lived in the same village;"
+        },
+        {
+          "scid": "sn2.24:13.6",
+          "pli": "ahuvā me pure sakhā”ti.",
+          "en": "in the past you were my friend.”"
+        },
+        {
+          "scid": "sn2.24:14.1",
+          "pli": "“Evametaṃ purāṇānaṃ,",
+          "en": "“That’s how it was"
+        },
+        {
+          "scid": "sn2.24:14.2",
+          "pli": "sahāyānaṃ ahu saṅgamo;",
+          "en": "when those friends of old met again."
+        },
+        {
+          "scid": "sn2.24:14.3",
+          "pli": "Ubhinnaṃ bhāvitattānaṃ,",
+          "en": "Both of them have developed themselves,"
+        },
+        {
+          "scid": "sn2.24:14.4",
+          "pli": "sarīrantimadhārinan”ti.",
+          "en": "and bear their final body.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Standing to one side…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.24/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.24//SN 105",
+    "volpages": "SN i 60//SN i 137",
+    "uid": "sn2.24",
+    "blurb": "The deity Ghaṭīkāra speaks of the seven mendicants reborn in the Aviha realm. The sutta is similar to SN 1.50.",
+    "difficulty": null,
+    "original_title": "Ghaṭīkāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Ghaṭikāra",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.24_sujato",
+        "segmented": true,
+        "title": "With Ghaṭikāra"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 4
+  }
+}

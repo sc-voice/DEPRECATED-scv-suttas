@@ -1,0 +1,115 @@
+{
+  "sutta_uid": "an7.30",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.30",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Failures for a Lay Follower",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Downfalls for a Lay Follower",
+      "uid": "an7.31"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Non-decline for a Lay Follower",
+      "uid": "an7.29"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.30:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.30:0.2",
+          "pli": "3. Vajjisattakavagga",
+          "en": "3. The Vajji Seven"
+        },
+        {
+          "scid": "an7.30:0.3",
+          "pli": "30. Vipattisutta",
+          "en": "30. Failures for a Lay Follower"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.30:1.1",
+          "pli": "Sattimā, bhikkhave, upāsakassa vipattiyo … pe …",
+          "en": "“Mendicants, there are these seven failures for a lay follower …"
+        },
+        {
+          "scid": "an7.30:1.2",
+          "pli": "sattimā, bhikkhave, upāsakassa sampadā … pe ….",
+          "en": "There are these seven accomplishments for a lay follower …”"
+        },
+        {
+          "scid": "an7.30:1.3",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.30/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.30//AN 7.28",
+    "volpages": "AN iv 26",
+    "uid": "an7.30",
+    "blurb": "Seven failures for a lay follower.",
+    "difficulty": null,
+    "original_title": "Vipatti Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Failures for a Lay Follower",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.30_sujato",
+        "segmented": true,
+        "title": "Failures for a Lay Follower"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

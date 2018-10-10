@@ -1,0 +1,310 @@
+{
+  "sutta_uid": "sn41.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn41.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Seeing the Sick",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vicious",
+      "uid": "sn42.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kassapa, the Naked Ascetic",
+      "uid": "sn41.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn41.10:0.1",
+          "pli": "Saṃyutta Nikāya 41",
+          "en": "Linked Discourses 41"
+        },
+        {
+          "scid": "sn41.10:0.2",
+          "pli": "1. Cittavagga",
+          "en": "1. With Citta"
+        },
+        {
+          "scid": "sn41.10:0.3",
+          "pli": "10. Gilānadassanasutta",
+          "en": "10. Seeing the Sick"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 41…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn41.10:1.1",
+          "pli": "Tena kho pana samayena citto gahapati ābādhiko hoti dukkhito bāḷhagilāno.",
+          "en": "Now at that time the householder Citta was sick, suffering, gravely ill."
+        },
+        {
+          "scid": "sn41.10:1.2",
+          "pli": "Atha kho sambahulā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā saṅgamma samāgamma cittaṃ gahapatiṃ etadavocuṃ:",
+          "en": "Then several deities of the parks, forests, trees, and those who haunt the herbs, grass, and big trees came together and said to Citta:"
+        },
+        {
+          "scid": "sn41.10:1.3",
+          "pli": "“paṇidhehi, gahapati, anāgatamaddhānaṃ rājā assaṃ cakkavattī”ti.",
+          "en": "“Householder, make a wish to become a wheel-turning monarch in the future!”"
+        },
+        {
+          "scid": "sn41.10:2.1",
+          "pli": "Evaṃ vutte, citto gahapati tā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā etadavoca:",
+          "en": "When they said this, Citta said to them:"
+        },
+        {
+          "scid": "sn41.10:2.2",
+          "pli": "“tampi aniccaṃ, tampi addhuvaṃ, tampi pahāya gamanīyan”ti.",
+          "en": "“That too is impermanent! That too will pass! That too will be left behind!”"
+        },
+        {
+          "scid": "sn41.10:2.3",
+          "pli": "Evaṃ vutte, cittassa gahapatino mittāmaccā ñātisālohitā cittaṃ gahapatiṃ etadavocuṃ:",
+          "en": "When he said this, his friends and colleagues, relatives and family members said:"
+        },
+        {
+          "scid": "sn41.10:2.4",
+          "pli": "“satiṃ, ayyaputta, upaṭṭhapehi, mā vippalapī”ti.",
+          "en": "“Be mindful, lord! Don’t babble.”"
+        },
+        {
+          "scid": "sn41.10:2.5",
+          "pli": "“Kiṃ tāhaṃ vadāmi yaṃ maṃ tumhe evaṃ vadetha:",
+          "en": "“What have I said that makes you say that?”"
+        },
+        {
+          "scid": "sn41.10:2.6",
+          "pli": "‘satiṃ, ayyaputta, upaṭṭhapehi, mā vippalapī’”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn41.10:2.7",
+          "pli": "“Evaṃ kho tvaṃ, ayyaputta, vadesi:",
+          "en": "“It’s because you said:"
+        },
+        {
+          "scid": "sn41.10:2.8",
+          "pli": "‘tampi aniccaṃ, tampi addhuvaṃ, tampi pahāya gamanīyan’”ti.",
+          "en": "‘That too is impermanent! That too will pass! That too will be left behind!’”"
+        },
+        {
+          "scid": "sn41.10:2.9",
+          "pli": "“Tathā hi pana maṃ ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā evamāhaṃsu:",
+          "en": "“Oh, well, that’s because the deities of the parks, forests, trees, and those who haunt the herbs, grass, and big trees said to me:"
+        },
+        {
+          "scid": "sn41.10:2.10",
+          "pli": "‘paṇidhehi, gahapati, anāgatamaddhānaṃ rājā assaṃ cakkavattī’ti.",
+          "en": "‘Householder, make a wish to become a wheel-turning monarch in the future!’"
+        },
+        {
+          "scid": "sn41.10:2.11",
+          "pli": "Tāhaṃ evaṃ vadāmi:",
+          "en": "So I said to them:"
+        },
+        {
+          "scid": "sn41.10:2.12",
+          "pli": "‘tampi aniccaṃ … pe … tampi pahāya gamanīyan’”ti.",
+          "en": "‘That too is impermanent! That too will pass! That too will be left behind!’”"
+        },
+        {
+          "scid": "sn41.10:2.13",
+          "pli": "“Kiṃ pana tā, ayyaputta, ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṃ sampassamānā evamāhaṃsu:",
+          "en": "“But what reason do they see for saying that to you?”"
+        },
+        {
+          "scid": "sn41.10:2.14",
+          "pli": "‘paṇidhehi, gahapati, anāgatamaddhānaṃ rājā assaṃ cakkavattī’”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn41.10:2.15",
+          "pli": "“Tāsaṃ kho ārāmadevatānaṃ vanadevatānaṃ rukkhadevatānaṃ osadhitiṇavanappatīsu adhivatthānaṃ devatānaṃ evaṃ hoti:",
+          "en": "“They think:"
+        },
+        {
+          "scid": "sn41.10:2.16",
+          "pli": "‘ayaṃ kho citto gahapati, sīlavā kalyāṇadhammo.",
+          "en": "‘This householder Citta is ethical, of good character."
+        },
+        {
+          "scid": "sn41.10:2.17",
+          "pli": "Sace paṇidahissati—",
+          "en": "If he makes a wish to"
+        },
+        {
+          "scid": "sn41.10:2.18",
+          "pli": "anāgatamaddhānaṃ rājā assaṃ cakkavattī’ti, ‘tassa kho ayaṃ ijjhissati, sīlavato cetopaṇidhi visuddhattā dhammiko dhammikaṃ phalaṃ anupassatī’ti.",
+          "en": "become a wheel-turning monarch in the future, his heart’s wish will succeed because of the purity of his ethics. And then as a proper, principled king he will provide proper spirit-offerings.’"
+        },
+        {
+          "scid": "sn41.10:2.19",
+          "pli": "Imaṃ kho tā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṃ sampassamānā evamāhaṃsu:",
+          "en": "That’s the reason they see for saying to me:"
+        },
+        {
+          "scid": "sn41.10:2.20",
+          "pli": "‘paṇidhehi, gahapati, anāgatamaddhānaṃ rājā assaṃ cakkavattī’ti.",
+          "en": "‘Householder, make a wish to become a wheel-turning monarch in the future!’"
+        },
+        {
+          "scid": "sn41.10:2.21",
+          "pli": "Tāhaṃ evaṃ vadāmi:",
+          "en": "So I said to them:"
+        },
+        {
+          "scid": "sn41.10:2.22",
+          "pli": "‘tampi aniccaṃ, tampi addhuvaṃ, tampi pahāya gamanīyan’”ti.",
+          "en": "‘That too is impermanent! That too will pass! That too will be left behind!’”"
+        },
+        {
+          "scid": "sn41.10:3.1",
+          "pli": "“Tena hi, ayyaputta, amhepi ovadāhī”ti.",
+          "en": "“Then, lord, advise us!”"
+        },
+        {
+          "scid": "sn41.10:3.2",
+          "pli": "“Tasmā hi vo evaṃ sikkhitabbaṃ—",
+          "en": "“So you should train like this:"
+        },
+        {
+          "scid": "sn41.10:3.3",
+          "pli": "buddhe aveccappasādena samannāgatā bhavissāma:",
+          "en": "We will have experiential confidence in the Buddha:"
+        },
+        {
+          "scid": "sn41.10:3.4",
+          "pli": "‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti.",
+          "en": "‘That Blessed One is perfect, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’"
+        },
+        {
+          "scid": "sn41.10:3.5",
+          "pli": "Dhamme aveccappasādena samannāgatā bhavissāma:",
+          "en": "We will have experiential confidence in the teaching:"
+        },
+        {
+          "scid": "sn41.10:3.6",
+          "pli": "‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’ti.",
+          "en": "‘The teaching is well explained by the Buddha—realizable in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves.’"
+        },
+        {
+          "scid": "sn41.10:3.7",
+          "pli": "Saṅghe aveccappasādena samannāgatā bhavissāma:",
+          "en": "We will have experiential confidence in the Saṅgha:"
+        },
+        {
+          "scid": "sn41.10:3.8",
+          "pli": "‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti.",
+          "en": "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, straightforward, methodical, and proper. It consists of the four pairs, the eight individuals. This Saṅgha of the Buddha’s disciples is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, and worthy of greeting with joined palms. It is a supreme field of merit for the world.’"
+        },
+        {
+          "scid": "sn41.10:3.9",
+          "pli": "Yaṃ kho pana kiñci kule deyyadhammaṃ sabbaṃ taṃ appaṭivibhattaṃ bhavissati sīlavantehi kalyāṇadhammehīti evañhi vo sikkhitabban”ti.",
+          "en": "And we will share without reservation all the gifts available to give in our family with those who are ethical and of good character.”"
+        },
+        {
+          "scid": "sn41.10:3.10",
+          "pli": "Atha kho citto gahapati mittāmacce ñātisālohite buddhe ca dhamme ca saṅghe ca cāge ca samādapetvā kālamakāsīti.",
+          "en": "Then, after Citta had encouraged his friends and colleagues, relatives and family members in the Buddha, the teaching, the Saṅgha, and generosity, he passed away."
+        },
+        {
+          "scid": "sn41.10:3.11",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn41.10:3.12",
+          "pli": "Cittavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn41.10:4.1",
+          "pli": "Saṃyojanaṃ dve isidattā,",
+          "en": ""
+        },
+        {
+          "scid": "sn41.10:4.2",
+          "pli": "Mahako kāmabhūpi ca;",
+          "en": ""
+        },
+        {
+          "scid": "sn41.10:4.3",
+          "pli": "Godatto ca nigaṇṭho ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn41.10:4.4",
+          "pli": "Acelena gilānadassananti.",
+          "en": ""
+        },
+        {
+          "scid": "sn41.10:4.5",
+          "pli": "Cittasaṃyuttaṃ samattaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Now at that time the householder Citta…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn41.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 41.10",
+    "volpages": "SN iv 302",
+    "uid": "sn41.10",
+    "blurb": "When Citta was on his deathbed, rather than receiving comfort, he gave comfort and teaching to those present.",
+    "difficulty": null,
+    "original_title": "Gilānadassana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Seeing the Sick",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn41.10_sujato",
+        "segmented": true,
+        "title": "Seeing the Sick"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

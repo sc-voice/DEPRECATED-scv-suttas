@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Cut How Many?",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Awake",
+      "uid": "sn1.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Time Flies",
+      "uid": "sn1.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.5:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.5:0.2",
+          "pli": "1. Naḷavagga",
+          "en": "1. A Reed"
+        },
+        {
+          "scid": "sn1.5:0.3",
+          "pli": "5. Katichindasutta",
+          "en": "5. Cut How Many?"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.5:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn1.5:1.2",
+          "pli": "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn1.5:2.1",
+          "pli": "“Kati chinde kati jahe,",
+          "en": "“Cut how many? Drop how many?"
+        },
+        {
+          "scid": "sn1.5:2.2",
+          "pli": "kati cuttari bhāvaye;",
+          "en": "How many more should be developed?"
+        },
+        {
+          "scid": "sn1.5:2.3",
+          "pli": "Kati saṅgātigo bhikkhu,",
+          "en": "How many kinds of clinging must a mendicant get over"
+        },
+        {
+          "scid": "sn1.5:2.4",
+          "pli": "oghatiṇṇoti vuccatī”ti.",
+          "en": "before you call them a flood crosser?”"
+        },
+        {
+          "scid": "sn1.5:3.1",
+          "pli": "“Pañca chinde pañca jahe,",
+          "en": "“Five to cut, five to drop,"
+        },
+        {
+          "scid": "sn1.5:3.2",
+          "pli": "pañca cuttari bhāvaye;",
+          "en": "and five more to develop."
+        },
+        {
+          "scid": "sn1.5:3.3",
+          "pli": "Pañca saṅgātigo bhikkhu,",
+          "en": "A mendicant must get over five kinds of clinging"
+        },
+        {
+          "scid": "sn1.5:3.4",
+          "pli": "oghatiṇṇoti vuccatī”ti.",
+          "en": "before you call them a flood crosser.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.5//SN 5",
+    "volpages": "SN i 3//SN i 5",
+    "uid": "sn1.5",
+    "blurb": "A cryptic set of questions, which the Buddha answers equally cryptically.",
+    "difficulty": null,
+    "original_title": "Katichinda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Cut How Many?",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.5_sujato",
+        "segmented": true,
+        "title": "Cut How Many?"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.5_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "How Many Must One Cut?"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 5
+  }
+}

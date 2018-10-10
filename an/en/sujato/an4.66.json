@@ -1,0 +1,185 @@
+{
+  "sutta_uid": "an4.66",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.66",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Greedy",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Snake King",
+      "uid": "an4.67"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Appearance",
+      "uid": "an4.65"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.66:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.66:0.2",
+          "pli": "7. Pattakammavagga",
+          "en": "7. Deeds of Substance"
+        },
+        {
+          "scid": "an4.66:0.3",
+          "pli": "66. Sarāgasutta",
+          "en": "66. Greedy"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.66:1.1",
+          "pli": "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“Mendicants, these four people are found in the world."
+        },
+        {
+          "scid": "an4.66:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.66:1.3",
+          "pli": "Sarāgo, sadoso, samoho, samāno—",
+          "en": "The greedy, the hateful, the delusional, and the conceited."
+        },
+        {
+          "scid": "an4.66:1.4",
+          "pli": "ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasminti.",
+          "en": "These are the four people found in the world."
+        },
+        {
+          "scid": "an4.66:2.1",
+          "pli": "Sārattā rajanīyesu,",
+          "en": "Full of desire for desirable things,"
+        },
+        {
+          "scid": "an4.66:2.2",
+          "pli": "Piyarūpābhinandino;",
+          "en": "enjoying things that seem pleasant,"
+        },
+        {
+          "scid": "an4.66:2.3",
+          "pli": "Mohena āvutā sattā,",
+          "en": "beings shrouded by ignorance,"
+        },
+        {
+          "scid": "an4.66:2.4",
+          "pli": "Baddhā vaḍḍhenti bandhanaṃ.",
+          "en": "only tighten their bonds."
+        },
+        {
+          "scid": "an4.66:3.1",
+          "pli": "Rāgajaṃ dosajañcāpi,",
+          "en": "Born of greed, born of hate,"
+        },
+        {
+          "scid": "an4.66:3.2",
+          "pli": "mohajaṃ cāpaviddasū;",
+          "en": "born of delusion: the ignorant"
+        },
+        {
+          "scid": "an4.66:3.3",
+          "pli": "Karontākusalaṃ kammaṃ,",
+          "en": "make bad karma"
+        },
+        {
+          "scid": "an4.66:3.4",
+          "pli": "savighātaṃ dukhudrayaṃ.",
+          "en": "that afflicts and produces pain."
+        },
+        {
+          "scid": "an4.66:4.1",
+          "pli": "Avijjānivutā posā,",
+          "en": "If you act out of these qualities, that’s what you become."
+        },
+        {
+          "scid": "an4.66:4.2",
+          "pli": "andhabhūtā acakkhukā;",
+          "en": "But men hindered by ignorance,"
+        },
+        {
+          "scid": "an4.66:4.3",
+          "pli": "Yathā dhammā tathā santā,",
+          "en": "are blind, with no eyes to see,"
+        },
+        {
+          "scid": "an4.66:4.4",
+          "pli": "na tassevanti maññare”ti.",
+          "en": "and they never imagine that this could be so.”"
+        },
+        {
+          "scid": "an4.66:4.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.66/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.66",
+    "volpages": "AN ii 71",
+    "uid": "an4.66",
+    "blurb": "The greedy, the hateful, the delusional, and the conceited.",
+    "difficulty": null,
+    "original_title": "Sarāga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Greedy",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.66_sujato",
+        "segmented": true,
+        "title": "Greedy"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

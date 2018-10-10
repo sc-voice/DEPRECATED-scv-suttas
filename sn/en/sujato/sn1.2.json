@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Liberation",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Led On",
+      "uid": "sn1.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Crossing the Flood",
+      "uid": "sn1.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.2:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.2:0.2",
+          "pli": "1. Naḷavagga",
+          "en": "1. A Reed"
+        },
+        {
+          "scid": "sn1.2:0.3",
+          "pli": "2. Nimokkhasutta",
+          "en": "2. Liberation"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.2:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn1.2:1.2",
+          "pli": "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca:",
+          "en": "Then, late at night, a glorious deity, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him:"
+        },
+        {
+          "scid": "sn1.2:2.1",
+          "pli": "“Jānāsi no tvaṃ, mārisa, sattānaṃ nimokkhaṃ pamokkhaṃ vivekan”ti?",
+          "en": "“Good sir, do you know the liberation, emancipation, and seclusion for sentient beings?”"
+        },
+        {
+          "scid": "sn1.2:3.1",
+          "pli": "“Jānāmi khvāhaṃ, āvuso, sattānaṃ nimokkhaṃ pamokkhaṃ vivekan”ti.",
+          "en": "“I do, sir.”"
+        },
+        {
+          "scid": "sn1.2:4.1",
+          "pli": "“Yathākathaṃ pana tvaṃ, mārisa, jānāsi sattānaṃ nimokkhaṃ pamokkhaṃ vivekan”ti?",
+          "en": "“But in what way do you know this?”"
+        },
+        {
+          "scid": "sn1.2:5.1",
+          "pli": "“Nandībhavaparikkhayā,",
+          "en": "“Because of ending the relishing of rebirth,"
+        },
+        {
+          "scid": "sn1.2:5.2",
+          "pli": "Saññāviññāṇasaṅkhayā;",
+          "en": "and the finishing of perception and consciousness,"
+        },
+        {
+          "scid": "sn1.2:5.3",
+          "pli": "Vedanānaṃ nirodhā upasamā,",
+          "en": "and the cessation and stilling of feelings:"
+        },
+        {
+          "scid": "sn1.2:5.4",
+          "pli": "Evaṃ khvāhaṃ āvuso jānāmi;",
+          "en": "that, sir, is how I know"
+        },
+        {
+          "scid": "sn1.2:5.5",
+          "pli": "Sattānaṃ nimokkhaṃ pamokkhaṃ vivekan”ti.",
+          "en": "the liberation, emancipation, and seclusion of sentient beings.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.2//SN 2",
+    "volpages": "SN i 2//SN i 2",
+    "uid": "sn1.2",
+    "blurb": "Freedom comes when we end attachment to rebirth.",
+    "difficulty": null,
+    "original_title": "Nimokkha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Liberation",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.2_sujato",
+        "segmented": true,
+        "title": "Liberation"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.2_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Emancipation"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an4.147",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.147",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Times (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Conduct",
+      "uid": "an4.148"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Times (1st)",
+      "uid": "an4.146"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.147:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.147:0.2",
+          "pli": "15. Ābhāvagga",
+          "en": "15. Brightness"
+        },
+        {
+          "scid": "an4.147:0.3",
+          "pli": "147. Dutiyakālasutta",
+          "en": "147. Times (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.147:1.1",
+          "pli": "“Cattārome, bhikkhave, kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti.",
+          "en": "“Mendicants, when these four times are rightly developed and progressed, they gradually lead to the ending of defilements."
+        },
+        {
+          "scid": "an4.147:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.147:1.3",
+          "pli": "Kālena dhammassavanaṃ, kālena dhammasākacchā, kālena sammasanā, kālena vipassanā—",
+          "en": "A time for listening to the teaching, a time for discussing the teaching, a time for serenity, and a time for discernment."
+        },
+        {
+          "scid": "an4.147:1.4",
+          "pli": "ime kho, bhikkhave, cattāro kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.147:2.1",
+          "pli": "Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti; pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti; kusobbhā paripūrā mahāsobbhe paripūrenti; mahāsobbhā paripūrā kunnadiyo paripūrenti; kunnadiyo paripūrā mahānadiyo paripūrenti; mahānadiyo paripūrā samuddaṃ paripūrenti.",
+          "en": "It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean."
+        },
+        {
+          "scid": "an4.147:2.2",
+          "pli": "Evamevaṃ kho, bhikkhave, ime cattāro kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpentī”ti.",
+          "en": "In the same way, when these four times are rightly developed and progressed, they gradually lead to the ending of defilements.”"
+        },
+        {
+          "scid": "an4.147:2.3",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.147/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.147",
+    "volpages": "AN ii 140",
+    "uid": "an4.147",
+    "blurb": "A time for listening to the teaching, a time for discussing the teaching, a time for serenity, and a time for discernment.",
+    "difficulty": null,
+    "original_title": "Dutiyakāla Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Times (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.147_sujato",
+        "segmented": true,
+        "title": "Times (2nd)"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 7
+  }
+}

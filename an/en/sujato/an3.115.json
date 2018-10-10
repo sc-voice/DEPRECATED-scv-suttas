@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "an3.115",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.115",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Immeasurable",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Imperturbable",
+      "uid": "an3.116"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rare",
+      "uid": "an3.114"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.115:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.115:0.2",
+          "pli": "12. Āpāyikavagga",
+          "en": "12. Bound for Loss"
+        },
+        {
+          "scid": "an3.115:0.3",
+          "pli": "115. Appameyyasutta",
+          "en": "115. Immeasurable"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.115:1.1",
+          "pli": "“Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“Mendicants, these three people are found in the world."
+        },
+        {
+          "scid": "an3.115:1.2",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.115:1.3",
+          "pli": "Suppameyyo, duppameyyo, appameyyo.",
+          "en": "Someone easy to measure, someone hard to measure, and someone who is immeasurable."
+        },
+        {
+          "scid": "an3.115:1.4",
+          "pli": "Katamo ca, bhikkhave, puggalo suppameyyo?",
+          "en": "And who is the person easy to measure?"
+        },
+        {
+          "scid": "an3.115:1.5",
+          "pli": "Idha, bhikkhave, ekacco puggalo uddhato hoti unnaḷo capalo mukharo vikiṇṇavāco muṭṭhassati asampajāno asamāhito vibbhantacitto pākatindriyo.",
+          "en": "It’s a person who is restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying mind and undisciplined faculties."
+        },
+        {
+          "scid": "an3.115:1.6",
+          "pli": "Ayaṃ vuccati, bhikkhave, puggalo suppameyyo.",
+          "en": "This is called ‘a person easy to measure’."
+        },
+        {
+          "scid": "an3.115:2.1",
+          "pli": "Katamo ca, bhikkhave, puggalo duppameyyo?",
+          "en": "And who is the person hard to measure?"
+        },
+        {
+          "scid": "an3.115:2.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo anuddhato hoti anunnaḷo acapalo amukharo avikiṇṇavāco upaṭṭhitassati sampajāno samāhito ekaggacitto saṃvutindriyo.",
+          "en": "It’s a person who is not restless, insolent, fickle, gossipy, or loose-tongued. They have established mindfulness, situational awareness and immersion, with unified mind and restrained faculties."
+        },
+        {
+          "scid": "an3.115:2.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, puggalo duppameyyo.",
+          "en": "This is called ‘a person hard to measure’."
+        },
+        {
+          "scid": "an3.115:3.1",
+          "pli": "Katamo ca, bhikkhave, puggalo appameyyo?",
+          "en": "And who is the immeasurable person?"
+        },
+        {
+          "scid": "an3.115:3.2",
+          "pli": "Idha, bhikkhave, bhikkhu arahaṃ hoti khīṇāsavo.",
+          "en": "It’s a mendicant who is perfected, and has ended defilements."
+        },
+        {
+          "scid": "an3.115:3.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, puggalo appameyyo.",
+          "en": "This is called ‘an immeasurable person’."
+        },
+        {
+          "scid": "an3.115:3.4",
+          "pli": "Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "These are the three people found in the world."
+        },
+        {
+          "scid": "an3.115:3.5",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.115/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.115//AN 3.113",
+    "volpages": "AN i 266",
+    "uid": "an3.115",
+    "blurb": "People who are easy to measure, hard to measure, and immeasurable.",
+    "difficulty": null,
+    "original_title": "Appameyya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Immeasurable",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.115_sujato",
+        "segmented": true,
+        "title": "Immeasurable"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

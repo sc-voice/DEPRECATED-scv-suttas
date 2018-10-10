@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn46.35",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.35",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Improper Attention",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Proper Attention",
+      "uid": "sn46.36"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Not Corruptions",
+      "uid": "sn46.34"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.35:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.35:0.2",
+          "pli": "4. Nīvaraṇavagga",
+          "en": "4. Hindrances"
+        },
+        {
+          "scid": "sn46.35:0.3",
+          "pli": "35. Ayonisomanasikārasutta",
+          "en": "35. Improper Attention"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.35:1.1",
+          "pli": "“Ayoniso, bhikkhave, manasikaroto anuppanno ceva kāmacchando uppajjati, uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattati; anuppanno ceva byāpādo uppajjati, uppanno ca byāpādo bhiyyobhāvāya vepullāya saṃvattati; anuppannañceva thinamiddhaṃ uppajjati, uppannañca thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattati; anuppannañceva uddhaccakukkuccaṃ uppajjati, uppannañca uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattati; anuppannā ceva vicikicchā uppajjati, uppannā ca vicikicchā bhiyyobhāvāya vepullāya saṃvattatī”ti.",
+          "en": "“Mendicants, when you attend improperly, sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt arise, and once arisen they increase and grow.”"
+        },
+        {
+          "scid": "sn46.35:1.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.35/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.35",
+    "volpages": "SN v 93",
+    "uid": "sn46.35",
+    "blurb": "Improper attention promotes the hindrances; proper attention promotes the awakening factors.",
+    "difficulty": null,
+    "original_title": "Yonisomanasikāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Improper Attention",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.35_sujato",
+        "segmented": true,
+        "title": "Improper Attention"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn46.35_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Careful Attention"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

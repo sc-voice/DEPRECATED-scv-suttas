@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an4.218",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.218",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Kinds of Expression (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Imprudence",
+      "uid": "an4.219"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kinds of Expression (1st)",
+      "uid": "an4.217"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.218:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.218:0.2",
+          "pli": "22. Parisāvagga",
+          "en": "22. Assembly"
+        },
+        {
+          "scid": "an4.218:0.3",
+          "pli": "218. Dutiyavohārapathasutta",
+          "en": "218. Kinds of Expression (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.218:1.1",
+          "pli": "… pe … Diṭṭhe adiṭṭhavādī hoti, sute asutavādī hoti, mute amutavādī hoti, viññāte aviññātavādī hoti … pe … diṭṭhe diṭṭhavādī hoti, sute sutavādī hoti, mute mutavādī hoti, viññāte viññātavādī hoti.",
+          "en": "“Someone with four qualities is cast down to hell. … They say they haven’t seen, heard, thought, or cognized something, but they have. … Someone with four qualities is raised up to heaven. … They say they’ve seen, heard, thought, or cognized something, and they have. …”"
+        },
+        {
+          "scid": "an4.218:1.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Someone with four qualities is cast down…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.218/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.218",
+    "volpages": "AN ii 227",
+    "uid": "an4.218",
+    "blurb": "Truth and untruth determine rebirth.",
+    "difficulty": null,
+    "original_title": "Dutiyavohārapatha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kinds of Expression (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.218_sujato",
+        "segmented": true,
+        "title": "Kinds of Expression (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

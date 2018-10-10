@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn38.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn38.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Question About Ignorance",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Question About Craving",
+      "uid": "sn38.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Question About Defilements",
+      "uid": "sn38.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn38.9:0.1",
+          "pli": "Saṃyutta Nikāya 38",
+          "en": "Linked Discourses 38"
+        },
+        {
+          "scid": "sn38.9:0.2",
+          "pli": "1. Jambukhādakavagga",
+          "en": "1. With Jambukhādaka"
+        },
+        {
+          "scid": "sn38.9:0.3",
+          "pli": "9. Avijjāpañhāsutta",
+          "en": "9. A Question About Ignorance"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 38…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn38.9:1.1",
+          "pli": "“‘Avijjā, avijjā’ti, āvuso sāriputta, vuccati.",
+          "en": "“Reverend Sāriputta, they speak of this thing called ‘ignorance’."
+        },
+        {
+          "scid": "sn38.9:1.2",
+          "pli": "Katamā nu kho, āvuso, avijjā”ti?",
+          "en": "What is ignorance?”"
+        },
+        {
+          "scid": "sn38.9:1.3",
+          "pli": "“Yaṃ kho, āvuso, dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ—",
+          "en": "“Not knowing about suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering."
+        },
+        {
+          "scid": "sn38.9:1.4",
+          "pli": "ayaṃ vuccatāvuso, avijjā”ti.",
+          "en": "This is called ignorance.”"
+        },
+        {
+          "scid": "sn38.9:1.5",
+          "pli": "“Atthi panāvuso, maggo atthi paṭipadā, etissā avijjāya pahānāyā”ti?",
+          "en": "“But, reverend, is there a path and a practice for giving up that ignorance?”"
+        },
+        {
+          "scid": "sn38.9:1.6",
+          "pli": "“Atthi kho, āvuso, maggo atthi paṭipadā, etissā avijjāya pahānāyā”ti.",
+          "en": "“There is.” …"
+        },
+        {
+          "scid": "sn38.9:1.7",
+          "pli": "“Katamo panāvuso, maggo katamā paṭipadā, etissā avijjāya pahānāyā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn38.9:1.8",
+          "pli": "“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etissā avijjāya pahānāya, seyyathidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "sn38.9:1.9",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": ""
+        },
+        {
+          "scid": "sn38.9:1.10",
+          "pli": "Ayaṃ kho, āvuso, maggo ayaṃ paṭipadā, etissā avijjāya pahānāyā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn38.9:1.11",
+          "pli": "“Bhaddako, āvuso, maggo bhaddikā paṭipadā, etissā avijjāya pahānāya.",
+          "en": ""
+        },
+        {
+          "scid": "sn38.9:1.12",
+          "pli": "Alañca panāvuso sāriputta, appamādāyā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn38.9:1.13",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Reverend Sāriputta…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn38.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 38.9",
+    "volpages": "SN iv 256",
+    "uid": "sn38.9",
+    "blurb": "The wanderer Jambukhādaka asks Sāriputta what is ignorance.",
+    "difficulty": null,
+    "original_title": "Avijjāpañhā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Question About Ignorance",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn38.9_sujato",
+        "segmented": true,
+        "title": "A Question About Ignorance"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

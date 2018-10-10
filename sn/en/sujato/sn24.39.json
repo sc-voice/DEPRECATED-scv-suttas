@@ -1,0 +1,115 @@
+{
+  "sutta_uid": "sn24.39",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn24.39",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Self Has Form and Is Formless",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Self Neither Has Form Nor Is Formless",
+      "uid": "sn24.40"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Self Is Formless",
+      "uid": "sn24.38"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn24.39:0.1",
+          "pli": "Saṃyutta Nikāya 24",
+          "en": "Linked Discourses 24"
+        },
+        {
+          "scid": "sn24.39:0.2",
+          "pli": "2. Dutiyagamanavagga",
+          "en": "2. The Second Round"
+        },
+        {
+          "scid": "sn24.39:0.3",
+          "pli": "39. Rūpīcaarūpīcaattāsutta",
+          "en": "39. The Self Has Form and Is Formless"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 24…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn24.39:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn24.39:1.2",
+          "pli": "“Rūpī ca arūpī ca attā hoti arogo paraṃ maraṇā”ti … pe ….",
+          "en": "“‘The self has form and is formless, and is sound after death’?” …"
+        },
+        {
+          "scid": "sn24.39:1.3",
+          "pli": "Ekavīsatimaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn24.39/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 24.39",
+    "volpages": "SN iii 219",
+    "uid": "sn24.39",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Rūpīcaarūpīcaattā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Self Has Form and Is Formless",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn24.39_sujato",
+        "segmented": true,
+        "title": "The Self Has Form and Is Formless"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 6
+  }
+}

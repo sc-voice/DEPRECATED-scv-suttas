@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an10.57",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.57",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Perceptions (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rooted",
+      "uid": "an10.58"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perceptions (1st)",
+      "uid": "an10.56"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.57:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.57:0.2",
+          "pli": "6. Sacittavagga",
+          "en": "6. Your Own Mind"
+        },
+        {
+          "scid": "an10.57:0.3",
+          "pli": "57. Dutiyasaññāsutta",
+          "en": "57. Perceptions (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.57:1.1",
+          "pli": "“Dasayimā, bhikkhave, saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā.",
+          "en": "“Mendicants, these ten perceptions, when developed and cultivated, are very fruitful and beneficial. They culminate in the deathless and end with the deathless."
+        },
+        {
+          "scid": "an10.57:1.2",
+          "pli": "Katamā dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.57:1.3",
+          "pli": "Aniccasaññā, anattasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā, aṭṭhikasaññā, puḷavakasaññā, vinīlakasaññā, vicchiddakasaññā, uddhumātakasaññā—",
+          "en": "The perceptions of impermanence, not-self, death, repulsiveness of food, dissatisfaction with the whole world, a skeleton, a worm-infested corpse, a livid corpse, a split open corpse, and a bloated corpse."
+        },
+        {
+          "scid": "an10.57:1.4",
+          "pli": "imā kho, bhikkhave, dasa saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā”ti.",
+          "en": "These ten perceptions, when developed and cultivated, are very fruitful and beneficial. They culminate in the deathless and end with the deathless.”"
+        },
+        {
+          "scid": "an10.57:1.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.57/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.57",
+    "volpages": "AN v 106",
+    "uid": "an10.57",
+    "blurb": "Ten meditative perceptions that lead to the deathless.",
+    "difficulty": null,
+    "original_title": "Dutiyasaññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Perceptions (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.57_sujato",
+        "segmented": true,
+        "title": "Perceptions (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an10.57_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Perceptions (2)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

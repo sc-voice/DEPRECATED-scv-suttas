@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn51.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn51.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "From the Near Shore",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Missed Out",
+      "uid": "sn51.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Another Series on Floods, Etc.",
+      "uid": "sn50.99-108"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn51.1:0.1",
+          "pli": "Saṃyutta Nikāya 51",
+          "en": "Linked Discourses 51"
+        },
+        {
+          "scid": "sn51.1:0.2",
+          "pli": "1. Cāpālavagga",
+          "en": "1. At the Cāpāla Shrine"
+        },
+        {
+          "scid": "sn51.1:0.3",
+          "pli": "1. Apārasutta",
+          "en": "1. From the Near Shore"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 51…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn51.1:1.1",
+          "pli": "“Cattārome, bhikkhave, iddhipādā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattanti.",
+          "en": "“Mendicants, when these four bases of psychic power are developed and cultivated they lead to going from the near shore to the far shore."
+        },
+        {
+          "scid": "sn51.1:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn51.1:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ",
+          "en": "It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm, and active effort. "
+        },
+        {
+          "scid": "sn51.1:1.4",
+          "pli": "vīriyasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ",
+          "en": "They develop the basis of psychic power that has immersion due to energy, and active effort. "
+        },
+        {
+          "scid": "sn51.1:1.5",
+          "pli": "cittasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ",
+          "en": "They develop the basis of psychic power that has immersion due to higher mind, and active effort. "
+        },
+        {
+          "scid": "sn51.1:1.6",
+          "pli": "vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.",
+          "en": "They develop the basis of psychic power that has immersion due to inquiry, and active effort."
+        },
+        {
+          "scid": "sn51.1:1.7",
+          "pli": "Ime kho, bhikkhave, cattāro iddhipādā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattantī”ti.",
+          "en": "When these four bases of psychic power are developed and cultivated they lead to going from the near shore to the far shore.”"
+        },
+        {
+          "scid": "sn51.1:1.8",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn51.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 51.1",
+    "volpages": "SN v 254",
+    "uid": "sn51.1",
+    "blurb": "The four bases of psychic power lead from the near to the far shore.",
+    "difficulty": null,
+    "original_title": "Apāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "From the Near Shore",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn51.1_sujato",
+        "segmented": true,
+        "title": "From the Near Shore"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

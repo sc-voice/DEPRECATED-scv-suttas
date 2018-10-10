@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an9.61",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.61",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Progressive Cessation",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Requirements for Perfection",
+      "uid": "an9.62"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cessation",
+      "uid": "an9.60"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.61:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.61:0.2",
+          "pli": "6. Khemavagga",
+          "en": "6. A Safe Place"
+        },
+        {
+          "scid": "an9.61:0.3",
+          "pli": "61. Anupubbanirodhasutta",
+          "en": "61. Progressive Cessation"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.61:1.1",
+          "pli": "“‘Anupubbanirodho, anupubbanirodho’ti, āvuso, vuccati.",
+          "en": "“Reverend, they speak of ‘progressive cessation’. …"
+        },
+        {
+          "scid": "an9.61:1.2",
+          "pli": "Kittāvatā nu kho, āvuso, anupubbanirodho vutto bhagavatā”ti?",
+          "en": "What is the progressive cessation that the Buddha spoke of?”"
+        },
+        {
+          "scid": "an9.61:2.1",
+          "pli": "“Idhāvuso, bhikkhu vivicceva kāmehi … pe … paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "“First, take a mendicant who, quite secluded from sensual pleasures … enters and remains in the first absorption."
+        },
+        {
+          "scid": "an9.61:2.2",
+          "pli": "Ettāvatāpi kho, āvuso, anupubbanirodho vutto bhagavatā pariyāyena … pe ….",
+          "en": "To this extent the Buddha spoke of progressive cessation in a qualified sense."
+        },
+        {
+          "scid": "an9.61:3.1",
+          "pli": "Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti.",
+          "en": "Furthermore, take a mendicant who, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end."
+        },
+        {
+          "scid": "an9.61:3.2",
+          "pli": "Ettāvatāpi kho, āvuso, anupubbanirodho vutto bhagavatā nippariyāyenā”ti.",
+          "en": "To this extent the Buddha spoke of progressive cessation in a unqualified sense.”"
+        },
+        {
+          "scid": "an9.61:3.3",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Reverend…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.61/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.61",
+    "volpages": "AN iv 456",
+    "uid": "an9.61",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Anupubbanirodha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Progressive Cessation",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.61_sujato",
+        "segmented": true,
+        "title": "Progressive Cessation"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

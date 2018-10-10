@@ -1,0 +1,280 @@
+{
+  "sutta_uid": "sn41.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn41.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Isidatta (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Isidatta (2nd)",
+      "uid": "sn41.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Fetter",
+      "uid": "sn41.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn41.2:0.1",
+          "pli": "Saṃyutta Nikāya 41",
+          "en": "Linked Discourses 41"
+        },
+        {
+          "scid": "sn41.2:0.2",
+          "pli": "1. Cittavagga",
+          "en": "1. With Citta"
+        },
+        {
+          "scid": "sn41.2:0.3",
+          "pli": "2. Paṭhamaisidattasutta",
+          "en": "2. Isidatta (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 41…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn41.2:1.1",
+          "pli": "Ekaṃ samayaṃ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane.",
+          "en": "At one time several senior mendicants were staying near Macchikāsaṇḍa in the Wild Mango Grove."
+        },
+        {
+          "scid": "sn41.2:1.2",
+          "pli": "Atha kho citto gahapati yena therā bhikkhū tenupasaṅkami; upasaṅkamitvā there bhikkhū abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho citto gahapati there bhikkhū etadavoca:",
+          "en": "Then Citta the householder went up to them, bowed, sat down to one side, and said to them:"
+        },
+        {
+          "scid": "sn41.2:1.3",
+          "pli": "“adhivāsentu me, bhante, therā svātanāya bhattan”ti.",
+          "en": "“Sirs, may the senior mendicants please accept my offering of tomorrow’s meal.”"
+        },
+        {
+          "scid": "sn41.2:1.4",
+          "pli": "Adhivāsesuṃ kho therā bhikkhū tuṇhībhāvena.",
+          "en": "They consented in silence."
+        },
+        {
+          "scid": "sn41.2:1.5",
+          "pli": "Atha kho citto gahapati therānaṃ bhikkhūnaṃ adhivāsanaṃ viditvā uṭṭhāyāsanā there bhikkhū abhivādetvā padakkhiṇaṃ katvā pakkāmi.",
+          "en": "Then, knowing that the senior mendicants had accepted, Citta got up from his seat, bowed, and respectfully circled them, keeping them on his right, before leaving."
+        },
+        {
+          "scid": "sn41.2:1.6",
+          "pli": "Atha kho therā bhikkhū tassā rattiyā accayena pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena cittassa gahapatissa nivesanaṃ tenupasaṅkamiṃsu; upasaṅkamitvā paññatte āsane nisīdiṃsu.",
+          "en": "Then when the night had passed, the senior mendicants robed up in the morning and, taking their bowls and robes, went to Citta’s home, and sat down on the seats spread out."
+        },
+        {
+          "scid": "sn41.2:2.1",
+          "pli": "Atha kho citto gahapati yena therā bhikkhū tenupasaṅkami; upasaṅkamitvā there bhikkhū abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho citto gahapati āyasmantaṃ theraṃ etadavoca:",
+          "en": "Then Citta went up to them, bowed, sat down to one side, and said to the senior venerable:"
+        },
+        {
+          "scid": "sn41.2:2.2",
+          "pli": "“‘dhātunānattaṃ, dhātunānattan’ti, bhante thera, vuccati.",
+          "en": "“Sir, they speak of ‘the diversity of elements’."
+        },
+        {
+          "scid": "sn41.2:2.3",
+          "pli": "Kittāvatā nu kho, bhante, dhātunānattaṃ vuttaṃ bhagavatā”ti?",
+          "en": "In what way did the Buddha speak of the diversity of elements?”"
+        },
+        {
+          "scid": "sn41.2:2.4",
+          "pli": "Evaṃ vutte, āyasmā thero tuṇhī ahosi.",
+          "en": "When he said this, the senior venerable kept silent."
+        },
+        {
+          "scid": "sn41.2:2.5",
+          "pli": "Dutiyampi kho citto gahapati āyasmantaṃ theraṃ etadavoca:",
+          "en": "For a second time …"
+        },
+        {
+          "scid": "sn41.2:2.6",
+          "pli": "“‘dhātunānattaṃ, dhātunānattan’ti, bhante thera, vuccati.",
+          "en": ""
+        },
+        {
+          "scid": "sn41.2:2.7",
+          "pli": "Kittāvatā nu kho, bhante, dhātunānattaṃ vuttaṃ bhagavatā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn41.2:2.8",
+          "pli": "Dutiyampi kho āyasmā thero tuṇhī ahosi.",
+          "en": ""
+        },
+        {
+          "scid": "sn41.2:2.9",
+          "pli": "Tatiyampi kho citto gahapati āyasmantaṃ theraṃ etadavoca:",
+          "en": "And for a third time, Citta asked him:"
+        },
+        {
+          "scid": "sn41.2:2.10",
+          "pli": "“‘dhātunānattaṃ, dhātunānattan’ti, bhante thera, vuccati.",
+          "en": "“Sir, they speak of ‘the diversity of elements’."
+        },
+        {
+          "scid": "sn41.2:2.11",
+          "pli": "Kittāvatā nu kho, bhante, dhātunānattaṃ vuttaṃ bhagavatā”ti?",
+          "en": "In what way did the Buddha speak of the diversity of elements?”"
+        },
+        {
+          "scid": "sn41.2:2.12",
+          "pli": "Tatiyampi kho āyasmā thero tuṇhī ahosi.",
+          "en": "And a second time and a third time the senior venerable kept silent."
+        },
+        {
+          "scid": "sn41.2:3.1",
+          "pli": "Tena kho pana samayena āyasmā isidatto tasmiṃ bhikkhusaṅghe sabbanavako hoti.",
+          "en": "Now at that time Venerable Isidatta was the most junior mendicant in that Saṅgha."
+        },
+        {
+          "scid": "sn41.2:3.2",
+          "pli": "Atha kho āyasmā isidatto āyasmantaṃ theraṃ etadavoca:",
+          "en": "Then Venerable Isidatta said to the senior venerable:"
+        },
+        {
+          "scid": "sn41.2:3.3",
+          "pli": "“byākaromahaṃ, bhante thera, cittassa gahapatino etaṃ pañhan”ti?",
+          "en": "“Sir, may I answer Citta’s question?”"
+        },
+        {
+          "scid": "sn41.2:3.4",
+          "pli": "“Byākarohi tvaṃ, āvuso isidatta, cittassa gahapatino etaṃ pañhan”ti.",
+          "en": "“Answer it, Reverend Isidatta.”"
+        },
+        {
+          "scid": "sn41.2:3.5",
+          "pli": "“Evañhi tvaṃ, gahapati, pucchasi:",
+          "en": "“Householder, is this your question:"
+        },
+        {
+          "scid": "sn41.2:3.6",
+          "pli": "‘dhātunānattaṃ, dhātunānattanti, bhante thera, vuccati.",
+          "en": "‘They speak of “the diversity of elements”."
+        },
+        {
+          "scid": "sn41.2:3.7",
+          "pli": "Kittāvatā nu kho, bhante, dhātunānattaṃ, vuttaṃ bhagavatā’”ti?",
+          "en": "In what way did the Buddha speak of the diversity of elements?’”"
+        },
+        {
+          "scid": "sn41.2:3.8",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "sn41.2:3.9",
+          "pli": "“Idaṃ kho, gahapati, dhātunānattaṃ vuttaṃ bhagavatā—",
+          "en": "“This is the diversity of elements spoken of by the Buddha."
+        },
+        {
+          "scid": "sn41.2:3.10",
+          "pli": "cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu … pe …",
+          "en": "The eye element, the sights element, the eye consciousness element …"
+        },
+        {
+          "scid": "sn41.2:3.11",
+          "pli": "manodhātu, dhammadhātu, manoviññāṇadhātu.",
+          "en": "The mind element, the thought element, the mind consciousness element."
+        },
+        {
+          "scid": "sn41.2:3.12",
+          "pli": "Ettāvatā kho, gahapati, dhātunānattaṃ vuttaṃ bhagavatā”ti.",
+          "en": "This is how the Buddha spoke of the diversity of elements.”"
+        },
+        {
+          "scid": "sn41.2:4.1",
+          "pli": "Atha kho citto gahapati āyasmato isidattassa bhāsitaṃ abhinanditvā anumoditvā there bhikkhū paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.",
+          "en": "Then Citta, having approved and agreed with what Isidatta said, served and satisfied the senior mendicants with his own hands with a variety of delicious foods."
+        },
+        {
+          "scid": "sn41.2:4.2",
+          "pli": "Atha kho therā bhikkhū bhuttāvino onītapattapāṇino uṭṭhāyāsanā pakkamiṃsu.",
+          "en": "When the senior mendicants had eaten and washed their hands and bowls, they got up from their seats and left."
+        },
+        {
+          "scid": "sn41.2:4.3",
+          "pli": "Atha kho āyasmā thero āyasmantaṃ isidattaṃ etadavoca:",
+          "en": "Then the senior venerable said to Venerable Isidatta:"
+        },
+        {
+          "scid": "sn41.2:4.4",
+          "pli": "“sādhu kho taṃ, āvuso isidatta, eso pañho paṭibhāsi, neso pañho maṃ paṭibhāsi.",
+          "en": "“Isidatta, it’s good that you felt inspired to answer that question, because I didn’t."
+        },
+        {
+          "scid": "sn41.2:4.5",
+          "pli": "Tenahāvuso isidatta, yadā aññathāpi evarūpo pañho āgaccheyya, taññevettha paṭibhāseyyā”ti.",
+          "en": "So Isidatta, when a similar question comes up, you should also answer it as you feel inspired.”"
+        },
+        {
+          "scid": "sn41.2:4.6",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time several senior mendicants were…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn41.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 41.2",
+    "volpages": "SN iv 283",
+    "uid": "sn41.2",
+    "blurb": "Citta the householder invites some mendicants to his home for a meal. He asks them about the diversity of the elements, but only the junior monk, Isidatta, is able to answer.",
+    "difficulty": null,
+    "original_title": "Paṭhamaisidatta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Isidatta (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn41.2_sujato",
+        "segmented": true,
+        "title": "Isidatta (1st)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

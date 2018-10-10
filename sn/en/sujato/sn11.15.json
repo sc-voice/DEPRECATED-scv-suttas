@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn11.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn11.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Delightful",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sponsoring Sacrifice",
+      "uid": "sn11.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Poor",
+      "uid": "sn11.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn11.15:0.1",
+          "pli": "Saṃyutta Nikāya 11",
+          "en": "Linked Discourses 11"
+        },
+        {
+          "scid": "sn11.15:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn11.15:0.3",
+          "pli": "15. Rāmaṇeyyakasutta",
+          "en": "15. Delightful"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 11…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn11.15:1.1",
+          "pli": "Sāvatthiyaṃ jetavane.",
+          "en": "Near Sāvatthī in Jeta’s Grove."
+        },
+        {
+          "scid": "sn11.15:1.2",
+          "pli": "Atha kho sakko devānamindo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho sakko devānamindo bhagavantaṃ etadavoca:",
+          "en": "And then Sakka, lord of gods, went up to the Buddha, bowed, stood to one side, and said to him:"
+        },
+        {
+          "scid": "sn11.15:1.3",
+          "pli": "“kiṃ nu kho, bhante, bhūmirāmaṇeyyakan”ti?",
+          "en": "“Sir, what is a delightful place?”"
+        },
+        {
+          "scid": "sn11.15:2.1",
+          "pli": "“Ārāmacetyā vanacetyā,",
+          "en": "“Shrines in parks and forests,"
+        },
+        {
+          "scid": "sn11.15:2.2",
+          "pli": "pokkharañño sunimmitā;",
+          "en": "well-made lotus ponds,"
+        },
+        {
+          "scid": "sn11.15:2.3",
+          "pli": "Manussarāmaṇeyyassa,",
+          "en": "are not worth a sixteenth part"
+        },
+        {
+          "scid": "sn11.15:2.4",
+          "pli": "kalaṃ nāgghanti soḷasiṃ.",
+          "en": "of a delightful human being."
+        },
+        {
+          "scid": "sn11.15:3.1",
+          "pli": "Gāme vā yadi vāraññe,",
+          "en": "Whether in village or wilderness,"
+        },
+        {
+          "scid": "sn11.15:3.2",
+          "pli": "Ninne vā yadi vā thale;",
+          "en": "in a valley or the uplands,"
+        },
+        {
+          "scid": "sn11.15:3.3",
+          "pli": "Yattha arahanto viharanti,",
+          "en": "wherever the perfected ones live"
+        },
+        {
+          "scid": "sn11.15:3.4",
+          "pli": "Taṃ bhūmirāmaṇeyyakan”ti.",
+          "en": "is a delightful place.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Near Sāvatthī in Jeta’s Grove…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn11.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 11.15//SN 261",
+    "volpages": "SN i 232//SN i 499",
+    "uid": "sn11.15",
+    "blurb": "When Sakka asks what place is truly delightful, the Buddha replies that it is wherever the perfected ones dwell.",
+    "difficulty": null,
+    "original_title": "Rāmaṇeyyaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Delightful",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn11.15_sujato",
+        "segmented": true,
+        "title": "Delightful"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn11.15_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Delightful Place"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 5
+  }
+}

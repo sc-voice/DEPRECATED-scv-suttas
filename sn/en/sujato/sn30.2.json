@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn30.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn30.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "They Carry Off",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Both Kinds of Deeds",
+      "uid": "sn30.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Plain Version",
+      "uid": "sn30.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn30.2:0.1",
+          "pli": "Saṃyutta Nikāya 30",
+          "en": "Linked Discourses 30"
+        },
+        {
+          "scid": "sn30.2:0.2",
+          "pli": "1. Supaṇṇavagga",
+          "en": "1. Phoenixes"
+        },
+        {
+          "scid": "sn30.2:0.3",
+          "pli": "2. Harantisutta",
+          "en": "2. They Carry Off"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 30…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn30.2:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn30.2:1.2",
+          "pli": "“Catasso imā, bhikkhave, supaṇṇayoniyo.",
+          "en": "“Mendicants, phoenixes reproduce in these four ways."
+        },
+        {
+          "scid": "sn30.2:1.3",
+          "pli": "Katamā catasso?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn30.2:1.4",
+          "pli": "Aṇḍajā … pe …",
+          "en": "Phoenixes are born from eggs, from a womb, from moisture, or spontaneously."
+        },
+        {
+          "scid": "sn30.2:1.5",
+          "pli": "imā kho, bhikkhave, catasso supaṇṇayoniyo.",
+          "en": "These are the four ways that phoenixes reproduce."
+        },
+        {
+          "scid": "sn30.2:1.6",
+          "pli": "Tatra, bhikkhave, aṇḍajā supaṇṇā aṇḍajeva nāge haranti, na jalābuje, na saṃsedaje, na opapātike.",
+          "en": "Of these, phoenixes born from an egg can only carry off dragons born from an egg, not those born from a womb, from moisture, or spontaneously."
+        },
+        {
+          "scid": "sn30.2:1.7",
+          "pli": "Tatra, bhikkhave, jalābujā supaṇṇā aṇḍaje ca jalābuje ca nāge haranti, na saṃsedaje, na opapātike.",
+          "en": "Phoenixes born from a womb can carry off dragons born from an egg or from a womb, but not those born from moisture or spontaneously."
+        },
+        {
+          "scid": "sn30.2:1.8",
+          "pli": "Tatra, bhikkhave, saṃsedajā supaṇṇā aṇḍaje ca jalābuje ca saṃsedaje ca nāge haranti, na opapātike.",
+          "en": "Phoenixes born from moisture can carry off dragons born from an egg, from a womb, or from moisture, but not those born spontaneously."
+        },
+        {
+          "scid": "sn30.2:1.9",
+          "pli": "Tatra, bhikkhave, opapātikā supaṇṇā aṇḍaje ca jalābuje ca saṃsedaje ca opapātike ca nāge haranti.",
+          "en": "Phoenixes born spontaneously can carry off dragons born from an egg, from a womb, from moisture, or spontaneously."
+        },
+        {
+          "scid": "sn30.2:1.10",
+          "pli": "Imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.",
+          "en": "These are the four ways that phoenixes reproduce.”"
+        },
+        {
+          "scid": "sn30.2:1.11",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn30.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 30.2",
+    "volpages": "SN iii 246",
+    "uid": "sn30.2",
+    "blurb": "Phoenixes may be born from eggs, the womb, moisture, or spontaneously. Each of them may carry off a dragon of lower birth.",
+    "difficulty": null,
+    "original_title": "Haranti Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "They Carry Off",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn30.2_sujato",
+        "segmented": true,
+        "title": "They Carry Off"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 2
+  }
+}

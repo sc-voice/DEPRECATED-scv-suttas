@@ -1,0 +1,335 @@
+{
+  "sutta_uid": "sn4.24",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn4.24",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Seven Years of Following",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Māra’s Daughters",
+      "uid": "sn4.25"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Godhika",
+      "uid": "sn4.23"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn4.24:0.1",
+          "pli": "Saṃyutta Nikāya 4",
+          "en": "Linked Discourses 4"
+        },
+        {
+          "scid": "sn4.24:0.2",
+          "pli": "3. Tatiyavagga",
+          "en": "3. Māra"
+        },
+        {
+          "scid": "sn4.24:0.3",
+          "pli": "24. Sattavassānubandhasutta",
+          "en": "24. Seven Years of Following"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn4.24:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn4.24:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhe.",
+          "en": "At one time the Buddha was staying near Uruvelā at the goatherd’s banyan tree on the bank of the Nerañjarā River."
+        },
+        {
+          "scid": "sn4.24:1.3",
+          "pli": "Tena kho pana samayena māro pāpimā sattavassāni bhagavantaṃ anubandho hoti otārāpekkho otāraṃ alabhamāno.",
+          "en": "Now at that time Māra the Wicked had been following the Buddha for seven years hoping to find a vulnerability without success."
+        },
+        {
+          "scid": "sn4.24:1.4",
+          "pli": "Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Then Māra the Wicked went up to the Buddha and addressed him in verse:"
+        },
+        {
+          "scid": "sn4.24:2.1",
+          "pli": "“Sokāvatiṇṇo nu vanamhi jhāyasi,",
+          "en": "“Are you overwhelmed by sorrow that you meditate in the forest?"
+        },
+        {
+          "scid": "sn4.24:2.2",
+          "pli": "Vittaṃ nu jīno uda patthayāno;",
+          "en": "Have you lost a fortune, or do you long for one?"
+        },
+        {
+          "scid": "sn4.24:2.3",
+          "pli": "Āguṃ nu gāmasmimakāsi kiñci,",
+          "en": "Or perhaps you’ve committed some crime in the village?"
+        },
+        {
+          "scid": "sn4.24:2.4",
+          "pli": "Kasmā janena na karosi sakkhiṃ;",
+          "en": "Why don’t you get too close to people?"
+        },
+        {
+          "scid": "sn4.24:2.5",
+          "pli": "Sakkhī na sampajjati kenaci te”ti.",
+          "en": "And why does no-one get close to you?”"
+        },
+        {
+          "scid": "sn4.24:3.1",
+          "pli": "“Sokassa mūlaṃ palikhāya sabbaṃ,",
+          "en": "“I’ve dug out the root of sorrow completely."
+        },
+        {
+          "scid": "sn4.24:3.2",
+          "pli": "Anāgu jhāyāmi asocamāno;",
+          "en": "I practice absorption free of guilt or sorrow."
+        },
+        {
+          "scid": "sn4.24:3.3",
+          "pli": "Chetvāna sabbaṃ bhavalobhajappaṃ,",
+          "en": "I’ve cut off all greed and hunger for future lives."
+        },
+        {
+          "scid": "sn4.24:3.4",
+          "pli": "Anāsavo jhāyāmi pamattabandhū”ti.",
+          "en": "Undefiled, I practice absorption, O kinsman of the negligent!”"
+        },
+        {
+          "scid": "sn4.24:4.1",
+          "pli": "“Yaṃ vadanti mama yidanti,",
+          "en": "“The things they call ‘mine’,"
+        },
+        {
+          "scid": "sn4.24:4.2",
+          "pli": "ye vadanti mamanti ca;",
+          "en": "and those who say ‘it’s mine’:"
+        },
+        {
+          "scid": "sn4.24:4.3",
+          "pli": "Ettha ce te mano atthi,",
+          "en": "if your mind remains there,"
+        },
+        {
+          "scid": "sn4.24:4.4",
+          "pli": "na me samaṇa mokkhasī”ti.",
+          "en": "you won’t escape me, ascetic!”"
+        },
+        {
+          "scid": "sn4.24:5.1",
+          "pli": "“Yaṃ vadanti na taṃ mayhaṃ,",
+          "en": "“The things they speak of aren’t mine;"
+        },
+        {
+          "scid": "sn4.24:5.2",
+          "pli": "ye vadanti na te ahaṃ;",
+          "en": "I’m not someone who speaks like that."
+        },
+        {
+          "scid": "sn4.24:5.3",
+          "pli": "Evaṃ pāpima jānāhi,",
+          "en": "So know this, Wicked One:"
+        },
+        {
+          "scid": "sn4.24:5.4",
+          "pli": "na me maggampi dakkhasī”ti.",
+          "en": "you won’t even see my path.”"
+        },
+        {
+          "scid": "sn4.24:6.1",
+          "pli": "“Sace maggaṃ anubuddhaṃ,",
+          "en": "“If you’ve discovered the path"
+        },
+        {
+          "scid": "sn4.24:6.2",
+          "pli": "khemaṃ amatagāminaṃ;",
+          "en": "that’s safe, and leads to the deathless,"
+        },
+        {
+          "scid": "sn4.24:6.3",
+          "pli": "Apehi gaccha tvameveko,",
+          "en": "go and walk that path alone—"
+        },
+        {
+          "scid": "sn4.24:6.4",
+          "pli": "kimaññamanusāsasī”ti.",
+          "en": "why teach it to anyone else?”"
+        },
+        {
+          "scid": "sn4.24:7.1",
+          "pli": "“Amaccudheyyaṃ pucchanti,",
+          "en": "“Those crossing to the far shore"
+        },
+        {
+          "scid": "sn4.24:7.2",
+          "pli": "ye janā pāragāmino;",
+          "en": "ask what’s beyond the domain of Death."
+        },
+        {
+          "scid": "sn4.24:7.3",
+          "pli": "Tesāhaṃ puṭṭho akkhāmi,",
+          "en": "When I’m asked, I explain to them"
+        },
+        {
+          "scid": "sn4.24:7.4",
+          "pli": "yaṃ saccaṃ taṃ nirūpadhin”ti.",
+          "en": "the truth without attachments.”"
+        },
+        {
+          "scid": "sn4.24:8.1",
+          "pli": "“Seyyathāpi, bhante, gāmassa vā nigamassa vā avidūre pokkharaṇī.",
+          "en": "“Sir, suppose there was a lotus pond not far from a town or village,"
+        },
+        {
+          "scid": "sn4.24:8.2",
+          "pli": "Tatrassa kakkaṭako.",
+          "en": "and a crab lived there."
+        },
+        {
+          "scid": "sn4.24:8.3",
+          "pli": "Atha kho, bhante, sambahulā kumārakā vā kumārikāyo vā tamhā gāmā vā nigamā vā nikkhamitvā yena sā pokkharaṇī tenupasaṅkameyyuṃ; upasaṅkamitvā taṃ kakkaṭakaṃ udakā uddharitvā thale patiṭṭhapeyyuṃ.",
+          "en": "Then several boys or girls would leave the town or village and go to the pond, where they’d pull out the crab and put it on dry land."
+        },
+        {
+          "scid": "sn4.24:8.4",
+          "pli": "Yaṃ yadeva hi so, bhante, kakkaṭako aḷaṃ abhininnāmeyya taṃ tadeva te kumārakā vā kumārikāyo vā kaṭṭhena vā kathalāya vā sañchindeyyuṃ sambhañjeyyuṃ sampalibhañjeyyuṃ.",
+          "en": "Whenever that crab extended a claw, those boys or girls would snap, crack, and break it off with a stick or a stone."
+        },
+        {
+          "scid": "sn4.24:8.5",
+          "pli": "Evañhi so, bhante, kakkaṭako sabbehi aḷehi sañchinnehi sambhaggehi sampalibhaggehi abhabbo taṃ pokkharaṇiṃ otarituṃ.",
+          "en": "And when that crab’s claws had all been snapped, cracked, and broken off it wouldn’t be able to return down into that lotus pond."
+        },
+        {
+          "scid": "sn4.24:8.6",
+          "pli": "Evameva kho, bhante, yāni kānici visūkāyikāni visevitāni vipphanditāni, sabbāni tāni bhagavatā sañchinnāni sambhaggāni sampalibhaggāni.",
+          "en": "In the same way, sir, the Buddha has snapped, cracked, and broken off all my tricks, dodges, and evasions."
+        },
+        {
+          "scid": "sn4.24:8.7",
+          "pli": "Abhabbo dānāhaṃ, bhante, puna bhagavantaṃ upasaṅkamituṃ yadidaṃ otārāpekkho”ti.",
+          "en": "Now I’m not able to approach the Buddha again in hopes of finding a vulnerability.”"
+        },
+        {
+          "scid": "sn4.24:8.8",
+          "pli": "Atha kho māro pāpimā bhagavato santike imā nibbejanīyā gāthāyo abhāsi:",
+          "en": "Then Māra the Wicked recited these verses of disillusionment in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn4.24:9.1",
+          "pli": "“Medavaṇṇañca pāsāṇaṃ,",
+          "en": "“A crow once circled a stone"
+        },
+        {
+          "scid": "sn4.24:9.2",
+          "pli": "vāyaso anupariyagā;",
+          "en": "that looked like a lump of fat."
+        },
+        {
+          "scid": "sn4.24:9.3",
+          "pli": "Apettha muduṃ vindema,",
+          "en": "‘Perhaps I’ll find something tender,’ it thought,"
+        },
+        {
+          "scid": "sn4.24:9.4",
+          "pli": "api assādanā siyā.",
+          "en": "‘perhaps there’s something tasty.’"
+        },
+        {
+          "scid": "sn4.24:10.1",
+          "pli": "Aladdhā tattha assādaṃ,",
+          "en": "But it didn’t find anything tasty,"
+        },
+        {
+          "scid": "sn4.24:10.2",
+          "pli": "vāyasetto apakkame;",
+          "en": "so the crow left that place."
+        },
+        {
+          "scid": "sn4.24:10.3",
+          "pli": "Kākova selamāsajja,",
+          "en": "Like the crow that pecked the stone,"
+        },
+        {
+          "scid": "sn4.24:10.4",
+          "pli": "nibbijjāpema gotamā”ti.",
+          "en": "I leave Gotama disillusioned.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn4.24/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 4.24//SN 160",
+    "volpages": "SN i 122//SN i 269",
+    "uid": "sn4.24",
+    "blurb": "Māra has tried to distract the Buddha for seven years without success. He laments his failure with the similes of a crab whose limbs are smashed by a group of children, and a crow who tried to eat a stone.",
+    "difficulty": null,
+    "original_title": "Sattavassānubandha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Seven Years of Following",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn4.24_sujato",
+        "segmented": true,
+        "title": "Seven Years of Following"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn4.24_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Seven Years of Pursuit"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

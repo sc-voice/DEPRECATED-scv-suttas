@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn53.23-34",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "sn53.23-34",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Hard Work",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Searches",
+      "uid": "sn53.35-44"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Diligence",
+      "uid": "sn53.13-22"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn53.23-34:0.1",
+          "pli": "Saṃyutta Nikāya 53",
+          "en": "Linked Discourses 53"
+        },
+        {
+          "scid": "sn53.23-34:0.2",
+          "pli": "3. Balakaraṇīyavagga",
+          "en": "3. Hard Work"
+        },
+        {
+          "scid": "sn53.23-34:0.3",
+          "pli": "23. Balakaraṇīyavagga",
+          "en": "23. Hard Work"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 53…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn53.23-34:1.1",
+          "pli": "(Balakaraṇīyavaggo vitthāretabbo.)",
+          "en": "(To be expanded as in the chapter on hard work at SN 45.149–160.)"
+        },
+        {
+          "scid": "sn53.23-34:2.1",
+          "pli": "Balaṃ bījañca nāgo ca,",
+          "en": "Hard work, seeds, and dragons,"
+        },
+        {
+          "scid": "sn53.23-34:2.2",
+          "pli": "rukkho kumbhena sūkiyā;",
+          "en": "a tree, a pot, and a spike,"
+        },
+        {
+          "scid": "sn53.23-34:2.3",
+          "pli": "Ākāsena ca dve meghā,",
+          "en": "the sky, and two on clouds,"
+        },
+        {
+          "scid": "sn53.23-34:2.4",
+          "pli": "nāvā āgantukā nadīti.",
+          "en": "a ship, a guest house, and a river."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "(To be expanded as in the chapter…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn53.23-34/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn53.23-34",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Balakaraṇīya Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Hard Work",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn53.23-34_sujato",
+        "segmented": true,
+        "title": "Hard Work"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

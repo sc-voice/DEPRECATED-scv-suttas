@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an7.92",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.92",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Perfected One",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Qualities",
+      "uid": "an7.93"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Noble One",
+      "uid": "an7.91"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.92:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.92:0.2",
+          "pli": "9. Samaṇavagga",
+          "en": "9. An Ascetic"
+        },
+        {
+          "scid": "an7.92:0.3",
+          "pli": "92. Arahāsutta",
+          "en": "92. A Perfected One"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.92:1.1",
+          "pli": "“Ārakattā arahā hoti.",
+          "en": "“Mendicants, it’s by being far from seven things that you become a perfected one."
+        },
+        {
+          "scid": "an7.92:1.2",
+          "pli": "Katamesaṃ sattannaṃ?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.92:1.3",
+          "pli": "Sakkāyadiṭṭhi ārakā hoti, vicikicchā ārakā hoti, sīlabbataparāmāso ārako hoti, rāgo ārako hoti, doso ārako hoti, moho ārako hoti, māno ārako hoti.",
+          "en": "Identity view, doubt, misapprehension of precepts and observances, greed, hate, delusion, and conceit."
+        },
+        {
+          "scid": "an7.92:1.4",
+          "pli": "Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ ārakattā arahā hotī”ti.",
+          "en": "It’s because of being far from these seven things that you become a perfected one.”"
+        },
+        {
+          "scid": "an7.92:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.92/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.92",
+    "volpages": "AN iv 145",
+    "uid": "an7.92",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Arahā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Perfected One",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.92_sujato",
+        "segmented": true,
+        "title": "A Perfected One"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

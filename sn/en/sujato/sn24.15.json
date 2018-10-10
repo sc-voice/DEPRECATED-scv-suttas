@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn24.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn24.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Realized One Exists",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Realized One Doesn’t Exist",
+      "uid": "sn24.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Soul and the Body Are Different Things",
+      "uid": "sn24.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn24.15:0.1",
+          "pli": "Saṃyutta Nikāya 24",
+          "en": "Linked Discourses 24"
+        },
+        {
+          "scid": "sn24.15:0.2",
+          "pli": "1. Sotāpattivagga",
+          "en": "1. Stream-Entry"
+        },
+        {
+          "scid": "sn24.15:0.3",
+          "pli": "15. Hotitathāgatosutta",
+          "en": "15. A Realized One Exists"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 24…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn24.15:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn24.15:1.2",
+          "pli": "“Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati:",
+          "en": "“Mendicants, when what exists, because of grasping what and insisting on what, does the view arise:"
+        },
+        {
+          "scid": "sn24.15:1.3",
+          "pli": "‘hoti tathāgato paraṃ maraṇā’”ti?",
+          "en": "‘A Realized One exists after death’?” …"
+        },
+        {
+          "scid": "sn24.15:1.4",
+          "pli": "“Bhagavaṃmūlakā no, bhante, dhammā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn24.15:1.5",
+          "pli": "niyato sambodhiparāyano”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn24.15:1.6",
+          "pli": "Pannarasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn24.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 24.15",
+    "volpages": "SN iii 215",
+    "uid": "sn24.15",
+    "blurb": "The view that the Realized One exists after death is given up by seeing the aggregates, as well as what is seen, heard, thought, and known, as impermanent.",
+    "difficulty": null,
+    "original_title": "Hotitathāgato Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Realized One Exists",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn24.15_sujato",
+        "segmented": true,
+        "title": "A Realized One Exists"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 15
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn56.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Arguments",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unworthy Talk",
+      "uid": "sn56.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "State of Mind",
+      "uid": "sn56.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.9:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.9:0.2",
+          "pli": "1. Samādhivagga",
+          "en": "1. Immersion"
+        },
+        {
+          "scid": "sn56.9:0.3",
+          "pli": "9. Viggāhikakathāsutta",
+          "en": "9. Arguments"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.9:1.1",
+          "pli": "“Mā, bhikkhave, viggāhikakathaṃ katheyyātha:",
+          "en": "“Mendicants, don’t get into arguments."
+        },
+        {
+          "scid": "sn56.9:1.2",
+          "pli": "‘na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi. Kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi. Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṃ me, asahitaṃ te. Purevacanīyaṃ pacchā avaca, pacchāvacanīyaṃ pure avaca. Adhiciṇṇaṃ te viparāvattaṃ. Āropito te vādo, cara vādappamokkhāya. Niggahitosi, nibbeṭhehi vā sace pahosī’ti.",
+          "en": "‘You don’t understand this teaching and training. I understand this teaching and training. What, you understand this teaching and training? You’re practicing wrong. I’m practicing right. I stay on topic, you don’t. You said last what you should have said first. You said first what you should have said last. What you’ve thought so much about has been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re trapped; get yourself out of this—if you can!’"
+        },
+        {
+          "scid": "sn56.9:1.3",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "sn56.9:1.4",
+          "pli": "Nesā, bhikkhave, kathā atthasaṃhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati.",
+          "en": "Because those discussions aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment."
+        },
+        {
+          "scid": "sn56.9:2.1",
+          "pli": "Kathentā ca kho tumhe, bhikkhave, ‘idaṃ dukkhan’ti katheyyātha, ‘ayaṃ dukkhasamudayo’ti katheyyātha, ‘ayaṃ dukkhanirodho’ti katheyyātha, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti katheyyātha … pe …",
+          "en": "When you discuss, you should discuss: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. …"
+        },
+        {
+          "scid": "sn56.9:2.2",
+          "pli": "yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.9:2.3",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.9",
+    "volpages": "SN v 419",
+    "uid": "sn56.9",
+    "blurb": "Don’t argue. Instead, converse on the four noble truths.",
+    "difficulty": null,
+    "original_title": "Viggāhikakathā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Arguments",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.9_sujato",
+        "segmented": true,
+        "title": "Arguments"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.9_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Disputatious Talk"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

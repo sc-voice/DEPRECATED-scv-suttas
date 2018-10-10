@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn54.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn54.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fruits (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fruits (2nd)",
+      "uid": "sn54.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Plain Version",
+      "uid": "sn54.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn54.4:0.1",
+          "pli": "Saṃyutta Nikāya 54",
+          "en": "Linked Discourses 54"
+        },
+        {
+          "scid": "sn54.4:0.2",
+          "pli": "1. Ekadhammavagga",
+          "en": "1. One Thing"
+        },
+        {
+          "scid": "sn54.4:0.3",
+          "pli": "4. Paṭhamaphalasutta",
+          "en": "4. Fruits (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 54…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn54.4:1.1",
+          "pli": "“Ānāpānassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṃsā.",
+          "en": "“Mendicants, when mindfulness of breathing is developed and cultivated it’s very fruitful and beneficial."
+        },
+        {
+          "scid": "sn54.4:1.2",
+          "pli": "Kathaṃ bhāvitā ca, bhikkhave, ānāpānassati kathaṃ bahulīkatā mahapphalā hoti mahānisaṃsā?",
+          "en": "And how is mindfulness of breathing developed and cultivated to be very fruitful and beneficial?"
+        },
+        {
+          "scid": "sn54.4:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
+          "en": "It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut. They sit down cross-legged, with their body straight, and establish mindfulness right there."
+        },
+        {
+          "scid": "sn54.4:1.4",
+          "pli": "So satova assasati, satova passasati … pe …",
+          "en": "Just mindful, they breathe in. Mindful, they breathe out. …"
+        },
+        {
+          "scid": "sn54.4:1.5",
+          "pli": "‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.",
+          "en": "They practice like this: ‘I’ll breathe in observing letting go.’ They practice like this: ‘I’ll breathe out observing letting go.’"
+        },
+        {
+          "scid": "sn54.4:1.6",
+          "pli": "Evaṃ bhāvitā kho, bhikkhave, ānāpānassati evaṃ bahulīkatā mahapphalā hoti mahānisaṃsā.",
+          "en": "Mindfulness of breathing, when developed and cultivated in this way, is very fruitful and beneficial."
+        },
+        {
+          "scid": "sn54.4:1.7",
+          "pli": "Evaṃ bhāvitāya kho, bhikkhave, ānāpānassatiyā evaṃ bahulīkatāya dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ—",
+          "en": "When mindfulness of breathing is developed and cultivated in this way you can expect one of two results:"
+        },
+        {
+          "scid": "sn54.4:1.8",
+          "pli": "diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.",
+          "en": "enlightenment in the present life, or if there’s something left over, non-return.”"
+        },
+        {
+          "scid": "sn54.4:1.9",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn54.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 54.4",
+    "volpages": "SN v 313",
+    "uid": "sn54.4",
+    "blurb": "Breath meditation is very beneficial. When developed it leads to perfection or once-return.",
+    "difficulty": null,
+    "original_title": "Paṭhamaphala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fruits (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn54.4_sujato",
+        "segmented": true,
+        "title": "Fruits (1st)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 4
+  }
+}

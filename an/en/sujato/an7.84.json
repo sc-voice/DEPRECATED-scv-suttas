@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "an7.84",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.84",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Settlement of Disciplinary Issues",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Mendicant",
+      "uid": "an7.85"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Teacher’s Instructions",
+      "uid": "an7.83"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.84:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.84:0.2",
+          "pli": "8. Vinayavagga",
+          "en": "8. The Monastic Law"
+        },
+        {
+          "scid": "an7.84:0.3",
+          "pli": "84. Adhikaraṇasamathasutta",
+          "en": "84. Settlement of Disciplinary Issues"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.84:1.1",
+          "pli": "“Sattime, bhikkhave, adhikaraṇasamathā dhammā uppannuppannānaṃ adhikaraṇānaṃ samathāya vūpasamāya.",
+          "en": "“Mendicants, there are these seven principles for the settlement of any disciplinary issues that might arise."
+        },
+        {
+          "scid": "an7.84:1.2",
+          "pli": "Katame satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.84:1.3",
+          "pli": "Sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo, paṭiññātakaraṇaṃ dātabbaṃ, yebhuyyasikā dātabbā, tassapāpiyasikā dātabbā, tiṇavatthārako dātabbo.",
+          "en": "Removal in the presence of those concerned is applicable. Removal by accurate recollection is applicable. Removal due to recovery from madness is applicable. The acknowledgement of the offense is applicable. The decision of a majority is applicable. A verdict of aggravated misconduct is applicable. Covering over with grass is applicable."
+        },
+        {
+          "scid": "an7.84:1.4",
+          "pli": "Ime kho, bhikkhave, satta adhikaraṇasamathā dhammā uppannuppannānaṃ adhikaraṇānaṃ samathāya vūpasamāyā”ti.",
+          "en": "These are the seven principles for the settlement of any disciplinary issues that might arise.”"
+        },
+        {
+          "scid": "an7.84:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an7.84:1.6",
+          "pli": "Vinayavaggo aṭṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "an7.84:2.1",
+          "pli": "Caturo vinayadharā,",
+          "en": ""
+        },
+        {
+          "scid": "an7.84:2.2",
+          "pli": "caturo ceva sobhanā;",
+          "en": ""
+        },
+        {
+          "scid": "an7.84:2.3",
+          "pli": "Sāsanaṃ adhikaraṇa—​",
+          "en": ""
+        },
+        {
+          "scid": "an7.84:2.4",
+          "pli": "samathenaṭṭhame dasāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.84/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.84//AN 7.80",
+    "volpages": "AN iv 144",
+    "uid": "an7.84",
+    "blurb": "Seven principles for settling issues and disputes that have arisen in the community.",
+    "difficulty": null,
+    "original_title": "Adhikaraṇasamatha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Settlement of Disciplinary Issues",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.84_sujato",
+        "segmented": true,
+        "title": "Settlement of Disciplinary Issues"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

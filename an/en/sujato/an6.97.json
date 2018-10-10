@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an6.97",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.97",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Benefit",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Impermanence",
+      "uid": "an6.98"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Appearance",
+      "uid": "an6.96"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.97:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.97:0.2",
+          "pli": "10. Ānisaṃsavagga",
+          "en": "10. Benefit"
+        },
+        {
+          "scid": "an6.97:0.3",
+          "pli": "97. Ānisaṃsasutta",
+          "en": "97. Benefit"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.97:1.1",
+          "pli": "“Chayime, bhikkhave, ānisaṃsā sotāpattiphalasacchikiriyāya.",
+          "en": "“Mendicants, these are the six benefits of realizing the fruit of stream-entry."
+        },
+        {
+          "scid": "an6.97:1.2",
+          "pli": "Katame cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.97:1.3",
+          "pli": "Saddhammaniyato hoti, aparihānadhammo hoti, pariyantakatassa dukkhaṃ hoti, asādhāraṇena ñāṇena samannāgato hoti, hetu cassa sudiṭṭho, hetusamuppannā ca dhammā.",
+          "en": "You’re bound for the true teaching. You’re not liable to decline. You suffer only for a limited period. You have unshared knowledge. You’ve clearly seen causes and the phenomena that arise from causes."
+        },
+        {
+          "scid": "an6.97:1.4",
+          "pli": "Ime kho, bhikkhave, cha ānisaṃsā sotāpattiphalasacchikiriyāyā”ti.",
+          "en": "These are the six benefits of realizing the fruit of stream-entry.”"
+        },
+        {
+          "scid": "an6.97:1.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.97/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.97",
+    "volpages": "AN iii 441",
+    "uid": "an6.97",
+    "blurb": "Benefits of stream-entry.",
+    "difficulty": null,
+    "original_title": "Ānisaṃsa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Benefit",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.97_sujato",
+        "segmented": true,
+        "title": "Benefit"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an6.97_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Rewards"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

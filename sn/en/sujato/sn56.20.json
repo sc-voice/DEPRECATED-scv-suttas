@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "sn56.20",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.20",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Real",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At the Village of Koṭi (1st)",
+      "uid": "sn56.21"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "sn56.19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.20:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.20:0.2",
+          "pli": "2. Dhammacakkappavattanavagga",
+          "en": "2. Rolling Forth the Wheel of Dhamma"
+        },
+        {
+          "scid": "sn56.20:0.3",
+          "pli": "20. Tathasutta",
+          "en": "20. Real"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.20:1.1",
+          "pli": "“Cattārimāni, bhikkhave, tathāni avitathāni anaññathāni.",
+          "en": "“Mendicants, these four things are real, not unreal, not otherwise."
+        },
+        {
+          "scid": "sn56.20:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn56.20:1.3",
+          "pli": "‘Idaṃ dukkhan’ti, bhikkhave, tathametaṃ avitathametaṃ anaññathametaṃ;",
+          "en": "‘This is suffering’ …"
+        },
+        {
+          "scid": "sn56.20:1.4",
+          "pli": "‘ayaṃ dukkhasamudayo’ti tathametaṃ avitathametaṃ anaññathametaṃ;",
+          "en": "‘This is the origin of suffering’ …"
+        },
+        {
+          "scid": "sn56.20:1.5",
+          "pli": "‘ayaṃ dukkhanirodho’ti tathametaṃ avitathametaṃ anaññathametaṃ;",
+          "en": "‘This is the cessation of suffering’ …"
+        },
+        {
+          "scid": "sn56.20:1.6",
+          "pli": "‘ayaṃ dukkhanirodhagāminī paṭipadā’ti tathametaṃ avitathametaṃ anaññathametaṃ—",
+          "en": "‘This is the practice that leads to the cessation of suffering’ …"
+        },
+        {
+          "scid": "sn56.20:1.7",
+          "pli": "imāni kho, bhikkhave, cattāri tathāni avitathāni anaññathāni.",
+          "en": "These four things are real, not unreal, not otherwise."
+        },
+        {
+          "scid": "sn56.20:2.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.20:2.2",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn56.20:2.3",
+          "pli": "Dhammacakkappavattanavaggo dutiyo.",
+          "en": ""
+        },
+        {
+          "scid": "sn56.20:3.1",
+          "pli": "Dhammacakkaṃ tathāgataṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn56.20:3.2",
+          "pli": "khandhā āyatanena ca;",
+          "en": ""
+        },
+        {
+          "scid": "sn56.20:3.3",
+          "pli": "Dhāraṇā ca dve avijjā,",
+          "en": ""
+        },
+        {
+          "scid": "sn56.20:3.4",
+          "pli": "vijjā saṅkāsanā tathāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.20/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.20",
+    "volpages": "SN v 430",
+    "uid": "sn56.20",
+    "blurb": "Each of the four noble truths is real, not otherwise.",
+    "difficulty": null,
+    "original_title": "Tatha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Real",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.20_sujato",
+        "segmented": true,
+        "title": "Real"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.20_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Actual"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 10
+  }
+}

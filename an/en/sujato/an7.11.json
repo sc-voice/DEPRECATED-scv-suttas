@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an7.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Underlying Tendencies",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Tendencies",
+      "uid": "an7.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Stinginess",
+      "uid": "an7.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.11:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.11:0.2",
+          "pli": "2. Anusayavagga",
+          "en": "2. Tendencies"
+        },
+        {
+          "scid": "an7.11:0.3",
+          "pli": "11. Paṭhamaanusayasutta",
+          "en": "11. Underlying Tendencies"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.11:1.1",
+          "pli": "“Sattime, bhikkhave, anusayā.",
+          "en": "“Mendicants, there are these seven underlying tendencies."
+        },
+        {
+          "scid": "an7.11:1.2",
+          "pli": "Katame satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.11:1.3",
+          "pli": "Kāmarāgānusayo, paṭighānusayo, diṭṭhānusayo, vicikicchānusayo, mānānusayo, bhavarāgānusayo, avijjānusayo.",
+          "en": "The underlying tendencies of sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance."
+        },
+        {
+          "scid": "an7.11:1.4",
+          "pli": "Ime kho, bhikkhave, satta anusayā”ti.",
+          "en": "These are the seven underlying tendencies.”"
+        },
+        {
+          "scid": "an7.11:1.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.11",
+    "volpages": "AN iv 9",
+    "uid": "an7.11",
+    "blurb": "The underlying tendencies of sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance.",
+    "difficulty": null,
+    "original_title": "Paṭhamaanusaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Underlying Tendencies",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.11_sujato",
+        "segmented": true,
+        "title": "Underlying Tendencies"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an7.11_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Obsessions (1)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

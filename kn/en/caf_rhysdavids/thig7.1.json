@@ -1,0 +1,133 @@
+{
+  "sutta_uid": "thig7.1",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig7.1",
+    "lang": "en",
+    "is_root": false,
+    "title": "Uttarā",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Cālā",
+      "uid": "thig7.2"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Vijayā",
+      "uid": "thig6.8"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig7.1:0.1",
+          "en": "Therīgāthā 7.1"
+        },
+        {
+          "scid": "thig7.1:0.2",
+          "en": "Uttarā",
+          "pli": "Uttarātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig7.1:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig7.1:1.0.2",
+          "en": "Canto 7"
+        },
+        {
+          "scid": "thig7.1:1.0.3",
+          "en": "1. Uttarā"
+        },
+        {
+          "scid": "thig7.1:1.0.4",
+          "en": "“‘Men in their prime, with pestle and with quern Are busied pounding rice and grinding corn. Men in their prime gather and heap up wealth, To have and nourish wife and children dear."
+        },
+        {
+          "scid": "thig7.1:1.0.5",
+          "en": "Yours is the task to spend yourselves upon The Buddha’s will which bringeth no remorse. Swiftly bathe ye your feet, then sit ye down"
+        },
+        {
+          "scid": "thig7.1:1.0.6",
+          "en": "Apart. Planting your minds in Steadfastness, With concentrated effort well composed, Ponder how what ye do, and say, and think, Proceeds not from a Self, is not your Self.’"
+        },
+        {
+          "scid": "thig7.1:1.0.7",
+          "en": "The will of her who spake—Paṭācārā— I heard and marked and forthwith carried out. Bathing my feet, I sat me down apart."
+        },
+        {
+          "scid": "thig7.1:1.0.8",
+          "en": "While passed the first watch of the night there rose Long memories of the bygone line of lives. While passed the second watch, the Heavenly Eye, Purview celestial, I clarified."
+        },
+        {
+          "scid": "thig7.1:1.0.9",
+          "en": "While passed the third watch of the night, I burst And rent aside the gloom of ignorance. Now rich in Threefold Wisdom I arose: ‘O Lady! verily thy will is done."
+        },
+        {
+          "scid": "thig7.1:1.0.10",
+          "en": "And like to Sakka o’er the thrice ten gods, Chieftain unconquered in celestial wars, I place thee as my chief, and so shall live. The Threefold Wisdom have I gotten now. From deadly drugs my soul is purified.’”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig7.1/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 7.1",
+    "volpages": "Thig 140",
+    "uid": "thig7.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uttarātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uttarā",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig7.1_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Uttarā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn56.37",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.37",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Simile of the Sun (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Simile of the Sun (2nd)",
+      "uid": "sn56.38"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Living Creatures",
+      "uid": "sn56.36"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.37:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.37:0.2",
+          "pli": "4. Sīsapāvanavagga",
+          "en": "4. In a Rosewood Forest"
+        },
+        {
+          "scid": "sn56.37:0.3",
+          "pli": "37. Paṭhamasūriyasutta",
+          "en": "37. The Simile of the Sun (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.37:1.1",
+          "pli": "“Sūriyassa, bhikkhave, udayato etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ—aruṇuggaṃ.",
+          "en": "“Mendicants, the dawn is the forerunner and precursor of the sunrise."
+        },
+        {
+          "scid": "sn56.37:1.2",
+          "pli": "Evameva kho, bhikkhave, bhikkhuno catunnaṃ ariyasaccānaṃ yathābhūtaṃ abhisamayāya etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ—sammādiṭṭhi.",
+          "en": "In the same way, right view is the forerunner and precursor of truly comprehending the four noble truths."
+        },
+        {
+          "scid": "sn56.37:1.3",
+          "pli": "Tassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ:",
+          "en": "A mendicant with right view can expect to truly understand:"
+        },
+        {
+          "scid": "sn56.37:1.4",
+          "pli": "‘idaṃ dukkhan’ti yathābhūtaṃ pajānissati … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānissati.",
+          "en": "‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+        },
+        {
+          "scid": "sn56.37:2.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.37:2.2",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.37/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.37",
+    "volpages": "SN v 442",
+    "uid": "sn56.37",
+    "blurb": "As the dawn precedes the sunrise, right view precedes the penetration of the four  noble truths.",
+    "difficulty": null,
+    "original_title": "Paṭhamasūriya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Simile of the Sun (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.37_sujato",
+        "segmented": true,
+        "title": "The Simile of the Sun (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.37_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Sun (1)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

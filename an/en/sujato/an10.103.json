@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an10.103",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.103",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Wrong Way",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Seed",
+      "uid": "an10.104"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Awakening Factors",
+      "uid": "an10.102"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.103:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.103:0.2",
+          "pli": "11. Samaṇasaññāvagga",
+          "en": "11. Perceptions for Ascetics"
+        },
+        {
+          "scid": "an10.103:0.3",
+          "pli": "103. Micchattasutta",
+          "en": "103. The Wrong Way"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.103:1.1",
+          "pli": "“Micchattaṃ, bhikkhave, āgamma virādhanā hoti, no ārādhanā.",
+          "en": "“Mendicants, relying on the wrong way leads to failure, not success."
+        },
+        {
+          "scid": "an10.103:1.2",
+          "pli": "Kathañca, bhikkhave, micchattaṃ āgamma virādhanā hoti, no ārādhanā?",
+          "en": "And how does relying on the wrong way lead to failure, not success?"
+        },
+        {
+          "scid": "an10.103:1.3",
+          "pli": "Micchādiṭṭhikassa, bhikkhave, micchāsaṅkappo pahoti, micchāsaṅkappassa micchāvācā pahoti, micchāvācassa micchākammanto pahoti, micchākammantassa micchāājīvo pahoti, micchāājīvassa micchāvāyāmo pahoti, micchāvāyāmassa micchāsati pahoti, micchāsatissa micchāsamādhi pahoti, micchāsamādhissa micchāñāṇaṃ pahoti, micchāñāṇissa micchāvimutti pahoti.",
+          "en": "Wrong view gives rise to wrong thought. Wrong thought gives rise to wrong speech. Wrong speech gives rise to wrong action. Wrong action gives rise to wrong livelihood. Wrong livelihood gives rise to wrong effort. Wrong effort gives rise to wrong mindfulness. Wrong mindfulness gives rise to wrong immersion. Wrong immersion gives rise to wrong knowledge. Wrong knowledge gives rise to wrong freedom."
+        },
+        {
+          "scid": "an10.103:1.4",
+          "pli": "Evaṃ kho, bhikkhave, micchattaṃ āgamma virādhanā hoti, no ārādhanā.",
+          "en": "That’s how relying on the wrong way leads to failure, not success."
+        },
+        {
+          "scid": "an10.103:2.1",
+          "pli": "Sammattaṃ, bhikkhave, āgamma ārādhanā hoti, no virādhanā.",
+          "en": "Relying on the right way leads to success, not failure."
+        },
+        {
+          "scid": "an10.103:2.2",
+          "pli": "Kathañca, bhikkhave, sammattaṃ āgamma ārādhanā hoti, no virādhanā?",
+          "en": "And how does relying on the right way lead to success, not failure?"
+        },
+        {
+          "scid": "an10.103:2.3",
+          "pli": "Sammādiṭṭhikassa, bhikkhave, sammāsaṅkappo pahoti, sammāsaṅkappassa sammāvācā pahoti, sammāvācassa sammākammanto pahoti, sammākammantassa sammāājīvo pahoti, sammāājīvassa sammāvāyāmo pahoti, sammāvāyāmassa sammāsati pahoti, sammāsatissa sammāsamādhi pahoti, sammāsamādhissa sammāñāṇaṃ pahoti, sammāñāṇissa sammāvimutti pahoti.",
+          "en": "Right view gives rise to right thought. Right thought gives rise to right speech. Right speech gives rise to right action. Right action gives rise to right livelihood. Right livelihood gives rise to right effort. Right effort gives rise to right mindfulness. Right mindfulness gives rise to right immersion. Right immersion gives rise to right knowledge. Right knowledge gives rise to right freedom."
+        },
+        {
+          "scid": "an10.103:2.4",
+          "pli": "Evaṃ kho, bhikkhave, sammattaṃ āgamma ārādhanā hoti, no virādhanā”ti.",
+          "en": "That’s how relying on the right way leads to success, not failure.”"
+        },
+        {
+          "scid": "an10.103:2.5",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.103/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.103",
+    "volpages": "AN v 211",
+    "uid": "an10.103",
+    "blurb": "The tenfold wrong path leads to failure, the tenfold right path leads to success.",
+    "difficulty": null,
+    "original_title": "Micchatta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Wrong Way",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.103_sujato",
+        "segmented": true,
+        "title": "The Wrong Way"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an10.103_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Wrongness"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 3
+  }
+}

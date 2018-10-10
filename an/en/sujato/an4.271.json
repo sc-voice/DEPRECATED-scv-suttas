@@ -1,0 +1,115 @@
+{
+  "sutta_uid": "an4.271",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.271",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Covetousness",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ill Will",
+      "uid": "an4.272"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Talking Nonsense",
+      "uid": "an4.270"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.271:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.271:0.2",
+          "pli": "27. Kammapathavagga",
+          "en": "27. Ways of Performing Deeds"
+        },
+        {
+          "scid": "an4.271:0.3",
+          "pli": "271. Abhijjhālusutta",
+          "en": "271. Covetousness"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.271:1.1",
+          "pli": "… pe … Attanā ca abhijjhālu hoti, parañca abhijjhāya samādapeti, abhijjhāya ca samanuñño hoti, abhijjhāya ca vaṇṇaṃ bhāsati … pe ….",
+          "en": "… They themselves are covetous …"
+        },
+        {
+          "scid": "an4.271:2.1",
+          "pli": "Attanā ca anabhijjhālu hoti, parañca anabhijjhāya samādapeti, anabhijjhāya ca samanuñño hoti, anabhijjhāya ca vaṇṇaṃ bhāsati—imehi kho … pe ….",
+          "en": "… They themselves are content …"
+        },
+        {
+          "scid": "an4.271:2.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "… They themselves are covetous ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.271/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.271//AN 4.268",
+    "volpages": "AN ii 255",
+    "uid": "an4.271",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Abhijjhālu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Covetousness",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.271_sujato",
+        "segmented": true,
+        "title": "Covetousness"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

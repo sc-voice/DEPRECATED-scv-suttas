@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "sn22.34",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.34",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "It’s Not Yours (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Mendicant",
+      "uid": "sn22.35"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "It’s Not Yours",
+      "uid": "sn22.33"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.34:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.34:0.2",
+          "pli": "4. Natumhākavagga",
+          "en": "4. It’s Not Yours"
+        },
+        {
+          "scid": "sn22.34:0.3",
+          "pli": "34. Dutiyanatumhākasutta",
+          "en": "34. It’s Not Yours (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.34:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.34:1.2",
+          "pli": "“Yaṃ, bhikkhave, na tumhākaṃ, taṃ pajahatha.",
+          "en": "“Mendicants, give up what’s not yours."
+        },
+        {
+          "scid": "sn22.34:1.3",
+          "pli": "Taṃ vo pahīnaṃ hitāya sukhāya bhavissati.",
+          "en": "Giving it up will be for your welfare and happiness."
+        },
+        {
+          "scid": "sn22.34:1.4",
+          "pli": "Kiñca, bhikkhave, na tumhākaṃ?",
+          "en": "And what isn’t yours?"
+        },
+        {
+          "scid": "sn22.34:1.5",
+          "pli": "Rūpaṃ, bhikkhave, na tumhākaṃ, taṃ pajahatha.",
+          "en": "Form isn’t yours: give it up."
+        },
+        {
+          "scid": "sn22.34:1.6",
+          "pli": "Taṃ vo pahīnaṃ hitāya sukhāya bhavissati.",
+          "en": "Giving it up will be for your welfare and happiness."
+        },
+        {
+          "scid": "sn22.34:1.7",
+          "pli": "Vedanā na tumhākaṃ …",
+          "en": "Feeling …"
+        },
+        {
+          "scid": "sn22.34:1.8",
+          "pli": "saññā na tumhākaṃ …",
+          "en": "Perception …"
+        },
+        {
+          "scid": "sn22.34:1.9",
+          "pli": "saṅkhārā na tumhākaṃ …",
+          "en": "Choices …"
+        },
+        {
+          "scid": "sn22.34:1.10",
+          "pli": "viññāṇaṃ na tumhākaṃ, taṃ pajahatha.",
+          "en": "Consciousness isn’t yours: give it up."
+        },
+        {
+          "scid": "sn22.34:1.11",
+          "pli": "Taṃ vo pahīnaṃ hitāya sukhāya bhavissati.",
+          "en": "Giving it up will be for your welfare and happiness."
+        },
+        {
+          "scid": "sn22.34:1.12",
+          "pli": "Yaṃ, bhikkhave, na tumhākaṃ taṃ pajahatha.",
+          "en": "Give up what’s not yours."
+        },
+        {
+          "scid": "sn22.34:1.13",
+          "pli": "Taṃ vo pahīnaṃ hitāya sukhāya bhavissatī”ti.",
+          "en": "Giving it up will be for your welfare and happiness.”"
+        },
+        {
+          "scid": "sn22.34:1.14",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.34/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.34",
+    "volpages": "SN iii 34",
+    "uid": "sn22.34",
+    "blurb": "Let go of what is not yours: the five aggregates.",
+    "difficulty": null,
+    "original_title": "Dutiyanatumhāka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "It’s Not Yours (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.34_sujato",
+        "segmented": true,
+        "title": "It’s Not Yours (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.34_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Not Yours (2)"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn2.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Māgha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Māghadha",
+      "uid": "sn2.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kassapa (2nd)",
+      "uid": "sn2.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.3:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.3:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The Sun"
+        },
+        {
+          "scid": "sn2.3:0.3",
+          "pli": "3. Māghasutta",
+          "en": "3. With Māgha"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.3:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn2.3:1.2",
+          "pli": "Atha kho māgho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.",
+          "en": "Then, late at night, the glorious god Māgha, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side,"
+        },
+        {
+          "scid": "sn2.3:1.3",
+          "pli": "Ekamantaṃ ṭhito kho māgho devaputto bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "and addressed the Buddha in verse:"
+        },
+        {
+          "scid": "sn2.3:2.1",
+          "pli": "“Kiṃsu chetvā sukhaṃ seti,",
+          "en": "“When what is incinerated do you sleep at ease?"
+        },
+        {
+          "scid": "sn2.3:2.2",
+          "pli": "kiṃsu chetvā na socati;",
+          "en": "When what is incinerated is there no sorrow?"
+        },
+        {
+          "scid": "sn2.3:2.3",
+          "pli": "Kissassu ekadhammassa,",
+          "en": "What is the one thing"
+        },
+        {
+          "scid": "sn2.3:2.4",
+          "pli": "vadhaṃ rocesi gotamā”ti.",
+          "en": "whose killing you approve?”"
+        },
+        {
+          "scid": "sn2.3:3.1",
+          "pli": "“Kodhaṃ chetvā sukhaṃ seti,",
+          "en": "“When anger’s incinerated you sleep at ease."
+        },
+        {
+          "scid": "sn2.3:3.2",
+          "pli": "kodhaṃ chetvā na socati;",
+          "en": "When anger’s incinerated there is no sorrow."
+        },
+        {
+          "scid": "sn2.3:3.3",
+          "pli": "Kodhassa visamūlassa,",
+          "en": "Vatrabhū, anger has a poisoned root,"
+        },
+        {
+          "scid": "sn2.3:3.4",
+          "pli": "madhuraggassa vatrabhū;",
+          "en": "and a honey tip."
+        },
+        {
+          "scid": "sn2.3:3.5",
+          "pli": "Vadhaṃ ariyā pasaṃsanti,",
+          "en": "The noble ones praise the slaying of anger,"
+        },
+        {
+          "scid": "sn2.3:3.6",
+          "pli": "tañhi chetvā na socatī”ti.",
+          "en": "for when it’s incinerated there is no sorrow.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.3//SN 84",
+    "volpages": "SN i 47//SN i 105",
+    "uid": "sn2.3",
+    "blurb": "The god Māgha asks the Buddha about what one should slay in order to sleep well and be without sorrow.",
+    "difficulty": null,
+    "original_title": "Māgha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Māgha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.3_sujato",
+        "segmented": true,
+        "title": "With Māgha"
+      }
+    ],
+    "parallel_count": 25,
+    "biblio": null,
+    "num": 3
+  }
+}

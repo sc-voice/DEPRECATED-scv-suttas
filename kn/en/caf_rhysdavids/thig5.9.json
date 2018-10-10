@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thig5.9",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig5.9",
+    "lang": "en",
+    "is_root": false,
+    "title": "Bhaddā Kuṇḍalakesā, the ex-Jain",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Paṭācārā",
+      "uid": "thig5.10"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Soṇā",
+      "uid": "thig5.8"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig5.9:0.1",
+          "en": "Therīgāthā 5.9"
+        },
+        {
+          "scid": "thig5.9:0.2",
+          "en": "Bhaddā Kuṇḍalakesā, the ex-Jain",
+          "pli": "Bhaddākuṇḍalakesātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig5.9:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig5.9:1.0.2",
+          "en": "Canto 5"
+        },
+        {
+          "scid": "thig5.9:1.0.3",
+          "en": "9. Bhaddā Kuṇḍalakesā, the ex-Jain"
+        },
+        {
+          "scid": "thig5.9:1.0.4",
+          "en": "“Hairless, dirt-laden and half-clad —so fared I formerly, deeming that harmless things Held harm, nor was I ’ware of harm In many things wherein, in sooth, harm lay."
+        },
+        {
+          "scid": "thig5.9:1.0.5",
+          "en": "Then forth I went from siesta in the shade Up to the Vulture’s Peak, and there I saw The Buddha, the Immaculate, begirt And followed by the Bhikkhu-company."
+        },
+        {
+          "scid": "thig5.9:1.0.6",
+          "en": "Low on my knees I worshipped, with both hands Adoring. ‘Come, Bhaddā!’ the Master said! Thereby to me was ordination given."
+        },
+        {
+          "scid": "thig5.9:1.0.7",
+          "en": "Lo! fifty years have I a pilgrim been, In Anga, Magadha and in Vajjī, In Kāsī and the land of Kosala, Nought owing, living on the people’s alms."
+        },
+        {
+          "scid": "thig5.9:1.0.8",
+          "en": "And great the merit by that layman gained, Sagacious man, who gave Bhaddā a robe— Bhaddā who now (captive once more to gear) Is wholly free from bondage of the mind.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig5.9/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 5.9",
+    "volpages": "Thig 134",
+    "uid": "thig5.9",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bhaddākuṇḍalakesātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bhaddā Kuṇḍalakesā, the ex-Jain",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig5.9_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Bhaddā Kuṇḍalakesā, the ex-Jain"
+      },
+      {
+        "author": "Dr. Hellmuth Hecker, Ayya Khema",
+        "author_short": "Hecker …",
+        "author_uid": "hecker-khema",
+        "id": "en_thig5.9_hecker-khema",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Bhadda Kundalakesa: The Former Jain Ascetic"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

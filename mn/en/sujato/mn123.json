@@ -1,0 +1,620 @@
+{
+  "sutta_uid": "mn123",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn123",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Incredible and Amazing",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Bakkula",
+      "uid": "mn124"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Longer Discourse on Emptiness",
+      "uid": "mn122"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn123:0.1",
+          "pli": "Majjhima Nikāya 123",
+          "en": "Middle Discourses 123"
+        },
+        {
+          "scid": "mn123:0.2",
+          "pli": "Acchariyaabbhutasutta",
+          "en": "Incredible and Amazing"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 123…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn123:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn123:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn123:2.1",
+          "pli": "Atha kho sambahulānaṃ bhikkhūnaṃ pacchābhattaṃ piṇḍapātapaṭikkantānaṃ upaṭṭhānasālāyaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi:",
+          "en": "Then after the meal, on return from alms-round, several senior mendicants sat together in the pavilion and this discussion came up among them."
+        },
+        {
+          "scid": "mn123:2.2",
+          "pli": "“acchariyaṃ, āvuso, abbhutaṃ, āvuso. Tathāgatassa mahiddhikatā mahānubhāvatā,",
+          "en": "“It’s incredible, reverends, it’s amazing, the power and might of a Realized One!"
+        },
+        {
+          "scid": "mn123:2.3",
+          "pli": "yatra hi nāma tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jānissati:",
+          "en": "For he is able to know the Buddhas of the past who have become completely extinguished, cut off proliferation, cut off the track, finished off the cycle, and transcended suffering."
+        },
+        {
+          "scid": "mn123:2.4",
+          "pli": "‘evaṃjaccā te bhagavanto ahesuṃ’ itipi, ‘evaṃnāmā te bhagavanto ahesuṃ’ itipi, ‘evaṃgottā te bhagavanto ahesuṃ’ itipi, ‘evaṃsīlā te bhagavanto ahesuṃ’ itipi, ‘evaṃdhammā te bhagavanto ahesuṃ’ itipi, ‘evaṃpaññā te bhagavanto ahesuṃ’ itipi, ‘evaṃvihārī te bhagavanto ahesuṃ’ itipi, ‘evaṃvimuttā te bhagavanto ahesuṃ’ itipī”ti.",
+          "en": "He knows the caste they were born in, and also their names, clans, conduct, teaching, wisdom, meditation, and freedom.”"
+        },
+        {
+          "scid": "mn123:2.5",
+          "pli": "Evaṃ vutte, āyasmā ānando te bhikkhū etadavoca:",
+          "en": "When they said this, Venerable Ānanda said:"
+        },
+        {
+          "scid": "mn123:2.6",
+          "pli": "“acchariyā ceva, āvuso, tathāgatā acchariyadhammasamannāgatā ca;",
+          "en": "“The Realized Ones are incredible, reverends, and they have incredible qualities."
+        },
+        {
+          "scid": "mn123:2.7",
+          "pli": "abbhutā ceva, āvuso, tathāgatā abbhutadhammasamannāgatā cā”ti.",
+          "en": "They’re amazing, and they have amazing qualities.”"
+        },
+        {
+          "scid": "mn123:2.8",
+          "pli": "Ayañca hidaṃ tesaṃ bhikkhūnaṃ antarākathā vippakatā hoti.",
+          "en": "But this conversation among those mendicants was left unfinished."
+        },
+        {
+          "scid": "mn123:2.9",
+          "pli": "Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yenupaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.",
+          "en": "Then in the late afternoon, the Buddha came out of retreat, went to the assembly hall, sat down on the seat spread out,"
+        },
+        {
+          "scid": "mn123:2.10",
+          "pli": "Nisajja kho bhagavā bhikkhū āmantesi:",
+          "en": "and addressed the mendicants:"
+        },
+        {
+          "scid": "mn123:2.11",
+          "pli": "“kāya nuttha, bhikkhave, etarahi kathāya sannisinnā, kā ca pana vo antarākathā vippakatā”ti?",
+          "en": "“Mendicants, what were you sitting talking about just now? What conversation was unfinished?”"
+        },
+        {
+          "scid": "mn123:2.12",
+          "pli": "“Idha, bhante, amhākaṃ pacchābhattaṃ piṇḍapātapaṭikkantānaṃ upaṭṭhānasālāyaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi:",
+          "en": "So the mendicants told him what they had been talking about when the Buddha arrived. The Buddha said:"
+        },
+        {
+          "scid": "mn123:2.13",
+          "pli": "‘acchariyaṃ, āvuso, abbhutaṃ, āvuso, tathāgatassa mahiddhikatā mahānubhāvatā, yatra hi nāma tathāgato atīte buddhe parinibbute chinnapapañce chinnavaṭume pariyādinnavaṭṭe sabbadukkhavītivatte jānissati—",
+          "en": ""
+        },
+        {
+          "scid": "mn123:2.14",
+          "pli": "evaṃjaccā te bhagavanto ahesuṃ itipi, evaṃnāmā … evaṅgottā … evaṃsīlā … evaṃdhammā … evaṃpaññā … evaṃvihārī … evaṃvimuttā te bhagavanto ahesuṃ itipī’ti. Evaṃ vutte, bhante, āyasmā ānando amhe etadavoca:",
+          "en": ""
+        },
+        {
+          "scid": "mn123:2.15",
+          "pli": "‘acchariyā ceva, āvuso, tathāgatā acchariyadhammasamannāgatā ca;",
+          "en": ""
+        },
+        {
+          "scid": "mn123:2.16",
+          "pli": "abbhutā ceva, āvuso, tathāgatā abbhutadhammasamannāgatā cā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn123:2.17",
+          "pli": "Ayaṃ kho no, bhante, antarākathā vippakatā; atha bhagavā anuppatto”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn123:2.18",
+          "pli": "Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi:",
+          "en": ""
+        },
+        {
+          "scid": "mn123:2.19",
+          "pli": "“tasmātiha taṃ, ānanda, bhiyyoso mattāya paṭibhantu tathāgatassa acchariyā abbhutadhammā”ti.",
+          "en": "“So, Ānanda, say some more about the incredible and amazing qualities of the Realized One.”"
+        },
+        {
+          "scid": "mn123:3.1",
+          "pli": "“Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "“Sir, I have heard and learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:3.2",
+          "pli": "‘sato sampajāno, ānanda, bodhisatto tusitaṃ kāyaṃ upapajjī’ti.",
+          "en": "‘Mindful and aware, the being intent on awakening is reborn in the group of Joyful Gods.’"
+        },
+        {
+          "scid": "mn123:3.3",
+          "pli": "Yampi, bhante, sato sampajāno bodhisatto tusitaṃ kāyaṃ upapajji idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (1)",
+          "en": "This I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:4.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:4.2",
+          "pli": "‘sato sampajāno, ānanda, bodhisatto tusite kāye aṭṭhāsī’ti.",
+          "en": "‘Mindful and aware, the being intent on awakening remains in the group of Joyful Gods.’"
+        },
+        {
+          "scid": "mn123:4.3",
+          "pli": "Yampi, bhante, sato sampajāno bodhisatto tusite kāye aṭṭhāsi idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (2)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:5.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:5.2",
+          "pli": "‘yāvatāyukaṃ, ānanda, bodhisatto tusite kāye aṭṭhāsī’ti.",
+          "en": "‘For the whole of that life, the being intent on awakening remains in the group of Joyful Gods.’"
+        },
+        {
+          "scid": "mn123:5.3",
+          "pli": "Yampi, bhante, yāvatāyukaṃ bodhisatto tusite kāye aṭṭhāsi idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (3)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:6.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:6.2",
+          "pli": "‘sato sampajāno, ānanda, bodhisatto tusitā, kāyā cavitvā mātukucchiṃ okkamī’ti.",
+          "en": "‘Mindful and aware, the being intent on awakening passes away from the group of Joyful Gods and is conceived in his mother’s womb.’"
+        },
+        {
+          "scid": "mn123:6.3",
+          "pli": "Yampi, bhante, sato sampajāno bodhisatto tusitā kāyā cavitvā mātukucchiṃ okkami idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (4)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:7.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:7.2",
+          "pli": "‘yadā, ānanda, bodhisatto tusitā kāyā cavitvā mātukucchiṃ okkamati, ",
+          "en": "‘When the being intent on awakening passes away from the group of Joyful Gods, he’s conceived in his mother’s womb. "
+        },
+        {
+          "scid": "mn123:7.3",
+          "pli": "atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso loke pātubhavati atikkammeva devānaṃ devānubhāvaṃ.",
+          "en": "And then—in this world with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—an immeasurable, magnificent light appears, surpassing the glory of the gods."
+        },
+        {
+          "scid": "mn123:7.4",
+          "pli": "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā, yatthapime candimasūriyā evaṃmahiddhikā evaṃmahānubhāvā ābhāya nānubhonti tatthapi appamāṇo uḷāro obhāso loke pātubhavati atikkammeva devānaṃ devānubhāvaṃ.",
+          "en": "Even in the boundless desolation of interstellar space—so utterly dark that even the light of the moon and the sun, so mighty and powerful, makes no impression—an immeasurable, magnificent light appears, surpassing the glory of the gods."
+        },
+        {
+          "scid": "mn123:7.5",
+          "pli": "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti—aññepi kira, bho, santi sattā idhūpapannāti.",
+          "en": "And even the sentient beings reborn there recognize each other by that light: “So, it seems other sentient beings have been reborn here!”"
+        },
+        {
+          "scid": "mn123:7.6",
+          "pli": "Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati appamāṇo ca uḷāro obhāso loke pātubhavati atikkammeva devānaṃ devānubhāvan’ti.",
+          "en": "And this galaxy shakes and rocks and trembles. And an immeasurable, magnificent light appears in the world, surpassing the glory of the gods.’"
+        },
+        {
+          "scid": "mn123:7.7",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (5)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:8.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:8.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchiṃ okkanto hoti, cattāro devaputtā catuddisaṃ ārakkhāya upagacchanti—mā naṃ bodhisattaṃ vā bodhisattamātaraṃ vā manusso vā amanusso vā koci vā viheṭhesī’ti.",
+          "en": "‘When the being intent on awakening is conceived in his mother’s belly, four deities approach to guard the four directions, so that no human or non-human or anyone at all shall harm the being intent on awakening or his mother.’"
+        },
+        {
+          "scid": "mn123:8.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (6)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:9.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:9.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchiṃ okkanto hoti, pakatiyā sīlavatī bodhisattamātā hoti viratā pāṇātipātā viratā adinnādānā viratā kāmesumicchācārā viratā musāvādā viratā surāmerayamajjapamādaṭṭhānā’ti.",
+          "en": "‘When the being intent on awakening is conceived in his mother’s belly, she becomes naturally ethical. She refrains from killing living creatures, stealing, sexual misconduct, lying, and alcoholic drinks that cause negligence.’"
+        },
+        {
+          "scid": "mn123:9.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (7)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:10.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:10.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchiṃ okkanto hoti, na bodhisattamātu purisesu mānasaṃ uppajjati kāmaguṇūpasaṃhitaṃ, anatikkamanīyā ca bodhisattamātā hoti kenaci purisena rattacittenā’ti.",
+          "en": "‘When the being intent on awakening is conceived in his mother’s belly, she no longer feels sexual desire for men, and she cannot be violated by a man of lustful intent.’"
+        },
+        {
+          "scid": "mn123:10.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (8)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:11.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:11.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchiṃ okkanto hoti, lābhinī bodhisattamātā hoti pañcannaṃ kāmaguṇānaṃ. Sā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāretī’ti.",
+          "en": "‘When the being intent on awakening is conceived in his mother’s belly, she obtains the five kinds of sensual stimulation and amuses herself, supplied and provided with them.’"
+        },
+        {
+          "scid": "mn123:11.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (9)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:12.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:12.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchiṃ okkanto hoti, na bodhisattamātu kocideva ābādho uppajjati; sukhinī bodhisattamātā hoti akilantakāyā; bodhisattañca bodhisattamātā tirokucchigataṃ passati sabbaṅgapaccaṅgaṃ ahīnindriyaṃ.",
+          "en": "‘When the being intent on awakening is conceived in his mother’s belly, no afflictions beset her. She’s happy and free of bodily fatigue. And she sees the being intent on awakening in her womb, complete with all his various parts, not deficient in any faculty."
+        },
+        {
+          "scid": "mn123:12.3",
+          "pli": "Seyyathāpi, ānanda, maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato. Tatrāssa suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vā.",
+          "en": "Suppose there was a beryl gem that was naturally beautiful, eight-faceted, with expert workmanship. And it was strung with a thread of blue, yellow, red, white, or golden brown."
+        },
+        {
+          "scid": "mn123:12.4",
+          "pli": "Tamenaṃ cakkhumā puriso hatthe karitvā paccavekkheyya—ayaṃ kho maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato, tatridaṃ suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vāti.",
+          "en": "And someone with good eyesight were to take it in their hand and examine it: “This beryl gem is naturally beautiful, eight-faceted, with expert workmanship. And it’s strung with a thread of blue, yellow, red, white, or golden brown.”"
+        },
+        {
+          "scid": "mn123:12.5",
+          "pli": "Evameva kho, ānanda, yadā bodhisatto mātukucchiṃ okkanto hoti, na bodhisattamātu kocideva ābādho uppajjati; sukhinī bodhisattamātā hoti akilantakāyā; bodhisattañca bodhisattamātā tirokucchigataṃ passati sabbaṅgapaccaṅgaṃ ahīnindriyan’ti.",
+          "en": "In the same way, when the being intent on awakening is conceived in his mother’s belly, no afflictions beset her. She’s happy and free of bodily fatigue. And she sees the being intent on awakening in her womb, complete with all his various parts, not deficient in any faculty.’"
+        },
+        {
+          "scid": "mn123:12.6",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (10)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:13.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:13.2",
+          "pli": "‘sattāhajāte, ānanda, bodhisatte bodhisattamātā kālaṃ karoti, tusitaṃ kāyaṃ upapajjatī’ti.",
+          "en": "‘Seven days after the being intent on awakening is born, his mother passes away and is reborn in the group of Joyful Gods.’"
+        },
+        {
+          "scid": "mn123:13.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (11)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:14.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:14.2",
+          "pli": "‘yathā kho panānanda, aññā itthikā nava vā dasa vā māse gabbhaṃ kucchinā pariharitvā vijāyanti, na hevaṃ bodhisattaṃ bodhisattamātā vijāyati. Daseva māsāni bodhisattaṃ bodhisattamātā kucchinā pariharitvā vijāyatī’ti.",
+          "en": "‘Other women carry the infant in the womb for nine or ten months before giving birth. Not so the mother of the being intent on awakening. She gives birth after exactly ten months.’"
+        },
+        {
+          "scid": "mn123:14.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (12)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:15.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:15.2",
+          "pli": "‘yathā kho panānanda, aññā itthikā nisinnā vā nipannā vā vijāyanti, na hevaṃ bodhisattaṃ bodhisattamātā vijāyati. Ṭhitāva bodhisattaṃ bodhisattamātā vijāyatī’ti.",
+          "en": "‘Other women give birth while sitting or lying down. Not so the mother of the being intent on awakening. She only gives birth standing up.’"
+        },
+        {
+          "scid": "mn123:15.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (13)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:16.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:16.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, devā naṃ paṭhamaṃ paṭiggaṇhanti pacchā manussā’ti.",
+          "en": "‘When the being intent on awakening emerges from his mother’s womb, gods receive him first, then humans.’"
+        },
+        {
+          "scid": "mn123:16.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (14)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:17.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:17.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, appattova bodhisatto pathaviṃ hoti, cattāro naṃ devaputtā paṭiggahetvā mātu purato ṭhapenti—attamanā, devi, hohi; mahesakkho te putto uppanno’ti.",
+          "en": "‘When the being intent on awakening emerges from his mother’s womb, before he reaches the ground, four deities receive him and place him before his mother, saying: ‘Rejoice, O Queen! An illustrious son is born to you.’"
+        },
+        {
+          "scid": "mn123:17.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (15)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:18.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:18.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, visadova nikkhamati amakkhito udena amakkhito semhena amakkhito ruhirena amakkhito kenaci asucinā suddho visado.",
+          "en": "‘When the being intent on awakening emerges from his mother’s womb, he emerges already clean, unsoiled by waters, mucus, blood, or any other kind of impurity, pure and clean."
+        },
+        {
+          "scid": "mn123:18.3",
+          "pli": "Seyyathāpi, ānanda, maṇiratanaṃ kāsike vatthe nikkhittaṃ neva maṇiratanaṃ kāsikaṃ vatthaṃ makkheti nāpi kāsikaṃ vatthaṃ maṇiratanaṃ makkheti.",
+          "en": "Suppose a jewel-treasure was placed on a cloth from Kāsī. The jewel would not soil the cloth, nor would the cloth soil the jewel."
+        },
+        {
+          "scid": "mn123:18.4",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn123:18.5",
+          "pli": "Ubhinnaṃ suddhattā.",
+          "en": "Because of the cleanliness of them both."
+        },
+        {
+          "scid": "mn123:18.6",
+          "pli": "Evameva kho, ānanda, yadā bodhisatto mātukucchimhā nikkhamati, visadova nikkhamati amakkhito udena amakkhito semhena amakkhito ruhirena amakkhito kenaci asucinā suddho visado’ti.",
+          "en": "In the same way, when the being intent on awakening emerges from his mother’s womb, he emerges already clean, unsoiled by waters, mucus, blood, or any other kind of impurity, pure and clean.’"
+        },
+        {
+          "scid": "mn123:18.7",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (16)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:19.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:19.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, dve udakassa dhārā antalikkhā pātubhavanti—ekā sītassa, ekā uṇhassa; yena bodhisattassa udakakiccaṃ karonti mātu cā’ti.",
+          "en": "‘When the being intent on awakening emerges from his mother’s womb, two streams of water appear in the sky, one cool, one warm, for bathing the being intent on awakening and his mother.’"
+        },
+        {
+          "scid": "mn123:19.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (17)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:20.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:20.2",
+          "pli": "‘sampatijāto, ānanda, bodhisatto samehi pādehi pathaviyaṃ patiṭṭhahitvā uttarābhimukho sattapadavītihārena gacchati, setamhi chatte anudhāriyamāne, sabbā ca disā viloketi, āsabhiñca vācaṃ bhāsati—aggohamasmi lokassa, jeṭṭhohamasmi lokassa, seṭṭhohamasmi lokassa. Ayamantimā jāti, natthi dāni punabbhavo’ti.",
+          "en": "‘As soon as he’s born, the being intent on awakening stands firm with his own feet on the ground. Facing north, he takes seven strides with a white parasol held above him, surveys all quarters, and makes this dramatic statement: “I am the foremost in the world! I am the eldest in the world! I am the best in the world! This is my last rebirth. Now there are no more future lives.”’"
+        },
+        {
+          "scid": "mn123:20.3",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremi. (18)",
+          "en": "This too I remember as an incredible quality of the Buddha."
+        },
+        {
+          "scid": "mn123:21.1",
+          "pli": "Sammukhā metaṃ, bhante, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:",
+          "en": "I have learned this in the presence of the Buddha:"
+        },
+        {
+          "scid": "mn123:21.2",
+          "pli": "‘yadā, ānanda, bodhisatto mātukucchimhā nikkhamati, atha sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya appamāṇo uḷāro obhāso loke pātubhavati atikkammeva devānaṃ devānubhāvaṃ.",
+          "en": "‘When the being intent on awakening emerges from his mother’s womb then—in this world with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—an immeasurable, magnificent light appears, surpassing the glory of the gods."
+        },
+        {
+          "scid": "mn123:21.3",
+          "pli": "Yāpi tā lokantarikā aghā asaṃvutā andhakārā andhakāratimisā yatthapime candimasūriyā evaṃmahiddhikā evaṃmahānubhāvā ābhāya nānubhonti tatthapi appamāṇo uḷāro obhāso loke pātubhavati atikkammeva devānaṃ devānubhāvaṃ.",
+          "en": "Even in the boundless desolation of interstellar space—so utterly dark that even the light of the moon and the sun, so mighty and powerful, makes no impression—an immeasurable, magnificent light appears, surpassing the glory of the gods."
+        },
+        {
+          "scid": "mn123:21.4",
+          "pli": "Yepi tattha sattā upapannā tepi tenobhāsena aññamaññaṃ sañjānanti—aññepi kira, bho, santi sattā idhūpapannāti.",
+          "en": "And the sentient beings reborn there recognize each other by that light: “So, it seems other sentient beings have been reborn here!”"
+        },
+        {
+          "scid": "mn123:21.5",
+          "pli": "Ayañca dasasahassī lokadhātu saṅkampati sampakampati sampavedhati, appamāṇo ca uḷāro obhāso loke pātubhavati atikkammeva devānaṃ devānubhāvan’ti.",
+          "en": "And this galaxy shakes and rocks and trembles. And an immeasurable, magnificent light appears in the world, surpassing the glory of the gods.’"
+        },
+        {
+          "scid": "mn123:21.6",
+          "pli": "Yampi, bhante … pe … idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremī”ti. (19)",
+          "en": "This too I remember as an incredible and amazing quality of the Buddha.”"
+        },
+        {
+          "scid": "mn123:22.1",
+          "pli": "“Tasmātiha tvaṃ, ānanda, idampi tathāgatassa acchariyaṃ abbhutadhammaṃ dhārehi.",
+          "en": "“So, Ānanda, you should also remember this as an incredible and amazing quality of the Realized One."
+        },
+        {
+          "scid": "mn123:22.2",
+          "pli": "Idhānanda, tathāgatassa viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti;",
+          "en": "It’s that the Realized One knows feelings as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "mn123:22.3",
+          "pli": "viditā saññā uppajjanti … pe …",
+          "en": "He knows perceptions as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "mn123:22.4",
+          "pli": "viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti.",
+          "en": "He knows thoughts as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "mn123:22.5",
+          "pli": "Idampi kho tvaṃ, ānanda, tathāgatassa acchariyaṃ abbhutadhammaṃ dhārehī”ti.",
+          "en": "This too you should remember as an incredible and amazing quality of the Realized One.”"
+        },
+        {
+          "scid": "mn123:23.1",
+          "pli": "“Yampi, bhante, bhagavato viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti;",
+          "en": "“Sir, the Buddha knows feelings as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "mn123:23.2",
+          "pli": "viditā saññā …",
+          "en": "He knows perceptions as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "mn123:23.3",
+          "pli": "viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti.",
+          "en": "He knows thoughts as they arise, as they remain, and as they go away."
+        },
+        {
+          "scid": "mn123:23.4",
+          "pli": "Idampāhaṃ, bhante, bhagavato acchariyaṃ abbhutadhammaṃ dhāremī”ti. (20)",
+          "en": "This too I remember as an incredible and amazing quality of the Buddha.”"
+        },
+        {
+          "scid": "mn123:23.5",
+          "pli": "Idamavoca āyasmā ānando.",
+          "en": "That’s what Ānanda said,"
+        },
+        {
+          "scid": "mn123:23.6",
+          "pli": "Samanuñño satthā ahosi;",
+          "en": "and the teacher approved."
+        },
+        {
+          "scid": "mn123:23.7",
+          "pli": "attamanā ca te bhikkhū āyasmato ānandassa bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, those mendicants were happy with what the Venerable Ānanda said."
+        },
+        {
+          "scid": "mn123:23.8",
+          "pli": "Acchariyaabbhutasuttaṃ niṭṭhitaṃ tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn123/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 123",
+    "volpages": "MN iii 118",
+    "uid": "mn123",
+    "blurb": "Venerable Ananda is invited by the Buddha to speak on the Buddha’s amazing qualities, and proceeds to list a series of apparently miraculous events accompanying his birth. The Buddha caps it off by explaining what he thinks is really amazing about himself.",
+    "difficulty": 2,
+    "original_title": "Acchariyaabbhuta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Incredible and Amazing",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn123_sujato",
+        "segmented": true,
+        "title": "Incredible and Amazing"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 3
+  }
+}

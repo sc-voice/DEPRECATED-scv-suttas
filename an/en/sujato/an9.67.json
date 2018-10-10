@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "an9.67",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.67",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Lower Fetters",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Places of Rebirth",
+      "uid": "an9.68"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Grasping Aggregates",
+      "uid": "an9.66"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.67:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.67:0.2",
+          "pli": "7. Satipaṭṭhānavagga",
+          "en": "7. Mindfulness Meditation"
+        },
+        {
+          "scid": "an9.67:0.3",
+          "pli": "67. Orambhāgiyasutta",
+          "en": "67. Lower Fetters"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.67:1.1",
+          "pli": "“Pañcimāni, bhikkhave, orambhāgiyāni saṃyojanāni.",
+          "en": "“Mendicants, there are five lower fetters."
+        },
+        {
+          "scid": "an9.67:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an9.67:1.3",
+          "pli": "Sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo—",
+          "en": "Identity view, doubt, misapprehension of precepts and observances, sensual desire, and ill will."
+        },
+        {
+          "scid": "an9.67:1.4",
+          "pli": "imāni kho, bhikkhave, pañcorambhāgiyāni saṃyojanāni.",
+          "en": "These are the five lower fetters."
+        },
+        {
+          "scid": "an9.67:2.1",
+          "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya … pe … ime cattāro satipaṭṭhānā bhāvetabbā”ti.",
+          "en": "To give up these five lower fetters you should develop the four kinds of mindfulness meditation. …”"
+        },
+        {
+          "scid": "an9.67:2.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.67/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.67",
+    "volpages": "AN iv 459",
+    "uid": "an9.67",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Orambhāgiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Lower Fetters",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.67_sujato",
+        "segmented": true,
+        "title": "Lower Fetters"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

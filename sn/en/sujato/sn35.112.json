@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "sn35.112",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.112",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Complete Understanding of the Exterior",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Listening In",
+      "uid": "sn35.113"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Complete Understanding of the Interior",
+      "uid": "sn35.111"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.112:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.112:0.2",
+          "pli": "11. Yogakkhemivagga",
+          "en": "11. Sanctuary"
+        },
+        {
+          "scid": "sn35.112:0.3",
+          "pli": "112. Bāhirāyatanaparijānanasutta",
+          "en": "112. Complete Understanding of the Exterior"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.112:1.1",
+          "pli": "“Rūpe, bhikkhave, anabhijānaṃ aparijānaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya.",
+          "en": "“Mendicants, without directly knowing and completely understanding sights …"
+        },
+        {
+          "scid": "sn35.112:1.2",
+          "pli": "Sadde …",
+          "en": "sounds …"
+        },
+        {
+          "scid": "sn35.112:1.3",
+          "pli": "gandhe …",
+          "en": "smells …"
+        },
+        {
+          "scid": "sn35.112:1.4",
+          "pli": "rase …",
+          "en": "tastes …"
+        },
+        {
+          "scid": "sn35.112:1.5",
+          "pli": "phoṭṭhabbe …",
+          "en": "touches …"
+        },
+        {
+          "scid": "sn35.112:1.6",
+          "pli": "dhamme anabhijānaṃ aparijānaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya.",
+          "en": "thoughts, without dispassion for them and giving them up, you can’t end suffering."
+        },
+        {
+          "scid": "sn35.112:1.7",
+          "pli": "Rūpe ca kho, bhikkhave, abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāya.",
+          "en": "By directly knowing and completely understanding sights …"
+        },
+        {
+          "scid": "sn35.112:1.8",
+          "pli": "Sadde …",
+          "en": "sounds …"
+        },
+        {
+          "scid": "sn35.112:1.9",
+          "pli": "gandhe …",
+          "en": "smells …"
+        },
+        {
+          "scid": "sn35.112:1.10",
+          "pli": "rase …",
+          "en": "tastes …"
+        },
+        {
+          "scid": "sn35.112:1.11",
+          "pli": "phoṭṭhabbe …",
+          "en": "touches …"
+        },
+        {
+          "scid": "sn35.112:1.12",
+          "pli": "dhamme abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā”ti.",
+          "en": "thoughts, having dispassion for them and giving them up, you can end suffering.”"
+        },
+        {
+          "scid": "sn35.112:1.13",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.112/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.112",
+    "volpages": "SN iv 90",
+    "uid": "sn35.112",
+    "blurb": "Without understanding the six exterior sense fields and becoming dispassionate towards them, it is impossible to be free of suffering.",
+    "difficulty": null,
+    "original_title": "Bāhirāyatanaparijānana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Complete Understanding of the Exterior",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.112_sujato",
+        "segmented": true,
+        "title": "Complete Understanding of the Exterior"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.112_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Fully Understanding (2)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

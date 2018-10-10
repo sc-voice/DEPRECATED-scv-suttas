@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "an9.29",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.29",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Grounds for Resentment",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Getting Rid of Resentment",
+      "uid": "an9.30"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dangers and Threats (2nd)",
+      "uid": "an9.28"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.29:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.29:0.2",
+          "pli": "3. Sattāvāsavagga",
+          "en": "3. Abodes of Sentient Beings"
+        },
+        {
+          "scid": "an9.29:0.3",
+          "pli": "29. Āghātavatthusutta",
+          "en": "29. Grounds for Resentment"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.29:1.1",
+          "pli": "“Navayimāni, bhikkhave, āghātavatthūni.",
+          "en": "“Mendicants, there are nine grounds for resentment."
+        },
+        {
+          "scid": "an9.29:1.2",
+          "pli": "Katamāni nava?",
+          "en": "What nine?"
+        },
+        {
+          "scid": "an9.29:1.3",
+          "pli": "‘Anatthaṃ me acarī’ti āghātaṃ bandhati;",
+          "en": "Thinking: ‘They did wrong to me,’ you harbor resentment."
+        },
+        {
+          "scid": "an9.29:1.4",
+          "pli": "‘anatthaṃ me caratī’ti āghātaṃ bandhati;",
+          "en": "Thinking: ‘They are doing wrong to me’ …"
+        },
+        {
+          "scid": "an9.29:1.5",
+          "pli": "‘anatthaṃ me carissatī’ti āghātaṃ bandhati;",
+          "en": "‘They will do wrong to me’ …"
+        },
+        {
+          "scid": "an9.29:1.6",
+          "pli": "‘piyassa me manāpassa anatthaṃ acarī’ti … pe …",
+          "en": "‘They did wrong to someone I love’ …"
+        },
+        {
+          "scid": "an9.29:1.7",
+          "pli": "‘anatthaṃ caratī’ti … pe …",
+          "en": "‘They are doing wrong to someone I love’ …"
+        },
+        {
+          "scid": "an9.29:1.8",
+          "pli": "‘anatthaṃ carissatī’ti āghātaṃ bandhati;",
+          "en": "‘They will do wrong to someone I love’ …"
+        },
+        {
+          "scid": "an9.29:1.9",
+          "pli": "‘appiyassa me amanāpassa atthaṃ acarī’ti … pe …",
+          "en": "‘They helped someone I dislike’ …"
+        },
+        {
+          "scid": "an9.29:1.10",
+          "pli": "‘atthaṃ caratī’ti … pe …",
+          "en": "They are helping someone I dislike’ …"
+        },
+        {
+          "scid": "an9.29:1.11",
+          "pli": "‘atthaṃ carissatī’ti āghātaṃ bandhati.",
+          "en": "Thinking: ‘They will help someone I dislike,’ you harbor resentment."
+        },
+        {
+          "scid": "an9.29:1.12",
+          "pli": "Imāni kho, bhikkhave, nava āghātavatthūnī”ti.",
+          "en": "These are the nine grounds for resentment.”"
+        },
+        {
+          "scid": "an9.29:1.13",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.29/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.29",
+    "volpages": "AN iv 408",
+    "uid": "an9.29",
+    "blurb": "Nine grounds for resentment.",
+    "difficulty": null,
+    "original_title": "Āghātavatthu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Grounds for Resentment",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.29_sujato",
+        "segmented": true,
+        "title": "Grounds for Resentment"
+      }
+    ],
+    "parallel_count": 6,
+    "biblio": null,
+    "num": 9
+  }
+}

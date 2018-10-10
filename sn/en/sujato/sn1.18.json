@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Conscience",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Little Hut",
+      "uid": "sn1.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hard to Do",
+      "uid": "sn1.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.18:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.18:0.2",
+          "pli": "2. Nandanavagga",
+          "en": "2. The Garden of Delight"
+        },
+        {
+          "scid": "sn1.18:0.3",
+          "pli": "18. Hirīsutta",
+          "en": "18. Conscience"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.18:1.1",
+          "pli": "“Hirīnisedho puriso,",
+          "en": "“Can a person constrained by conscience"
+        },
+        {
+          "scid": "sn1.18:1.2",
+          "pli": "koci lokasmiṃ vijjati;",
+          "en": "be found in the world?"
+        },
+        {
+          "scid": "sn1.18:1.3",
+          "pli": "Yo nindaṃ apabodhati,",
+          "en": "Who shies away from blame,"
+        },
+        {
+          "scid": "sn1.18:1.4",
+          "pli": "asso bhadro kasāmivā”ti.",
+          "en": "like a fine horse from the whip?”"
+        },
+        {
+          "scid": "sn1.18:2.1",
+          "pli": "“Hirīnisedhā tanuyā,",
+          "en": "“Few are those constrained by conscience,"
+        },
+        {
+          "scid": "sn1.18:2.2",
+          "pli": "ye caranti sadā satā;",
+          "en": "who live always mindful."
+        },
+        {
+          "scid": "sn1.18:2.3",
+          "pli": "Antaṃ dukkhassa pappuyya,",
+          "en": "Having reached the end of suffering,"
+        },
+        {
+          "scid": "sn1.18:2.4",
+          "pli": "caranti visame saman”ti.",
+          "en": "they live smoothly in the rough.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Can a person constrained by conscience…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.18//SN 18",
+    "volpages": "SN i 7//SN i 16",
+    "uid": "sn1.18",
+    "blurb": "Does anyone have a sense of conscience and shame?",
+    "difficulty": null,
+    "original_title": "Hirī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Conscience",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.18_sujato",
+        "segmented": true,
+        "title": "Conscience"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.18_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Sense of Shame"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 8
+  }
+}

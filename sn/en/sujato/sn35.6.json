@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn35.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Exterior as Not-Self",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Interior as Impermanent in the Three Times",
+      "uid": "sn35.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Exterior as Suffering",
+      "uid": "sn35.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.6:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.6:0.2",
+          "pli": "1. Aniccavagga",
+          "en": "1. Impermanence"
+        },
+        {
+          "scid": "sn35.6:0.3",
+          "pli": "6. Bāhirānattasutta",
+          "en": "6. The Exterior as Not-Self"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.6:1.1",
+          "pli": "“Rūpā, bhikkhave, anattā.",
+          "en": "“Mendicants, sights are not-self."
+        },
+        {
+          "scid": "sn35.6:1.2",
+          "pli": "Yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "And what’s not-self should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’ …”"
+        },
+        {
+          "scid": "sn35.6:1.3",
+          "pli": "Saddā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.6:1.4",
+          "pli": "gandhā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.6:1.5",
+          "pli": "rasā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.6:1.6",
+          "pli": "phoṭṭhabbā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.6:1.7",
+          "pli": "dhammā anattā.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.6:1.8",
+          "pli": "Yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.6:1.9",
+          "pli": "Evaṃ passaṃ … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.6:1.10",
+          "pli": "nāparaṃ itthattāyāti pajānātī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.6:1.11",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.6",
+    "volpages": "SN iv 3",
+    "uid": "sn35.6",
+    "blurb": "The six exterior sense fields are not-self. When a noble disciple truly sees them like this, they become disillusioned and liberated.",
+    "difficulty": null,
+    "original_title": "Bāhirānatta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Exterior as Not-Self",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.6_sujato",
+        "segmented": true,
+        "title": "The Exterior as Not-Self"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.6_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The External as Nonself"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 6
+  }
+}

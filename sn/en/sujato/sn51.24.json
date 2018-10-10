@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn51.24",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn51.24",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Plain Version",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fruits (1st)",
+      "uid": "sn51.25"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Mendicant",
+      "uid": "sn51.23"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn51.24:0.1",
+          "pli": "Saṃyutta Nikāya 51",
+          "en": "Linked Discourses 51"
+        },
+        {
+          "scid": "sn51.24:0.2",
+          "pli": "3. Ayoguḷavagga",
+          "en": "3. The Iron Ball"
+        },
+        {
+          "scid": "sn51.24:0.3",
+          "pli": "24. Suddhikasutta",
+          "en": "24. Plain Version"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 51…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn51.24:1.1",
+          "pli": "“Cattārome, bhikkhave, iddhipādā.",
+          "en": "“Mendicants, there are these four bases of psychic power."
+        },
+        {
+          "scid": "sn51.24:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn51.24:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ",
+          "en": "It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm … "
+        },
+        {
+          "scid": "sn51.24:1.4",
+          "pli": "vīriyasamādhi … pe …",
+          "en": "energy …"
+        },
+        {
+          "scid": "sn51.24:1.5",
+          "pli": "cittasamādhi …",
+          "en": "higher mind …"
+        },
+        {
+          "scid": "sn51.24:1.6",
+          "pli": "vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti—",
+          "en": "inquiry, and active effort."
+        },
+        {
+          "scid": "sn51.24:1.7",
+          "pli": "ime kho, bhikkhave, cattāro iddhipādā”ti.",
+          "en": "These are the four bases of psychic power.”"
+        },
+        {
+          "scid": "sn51.24:1.8",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn51.24/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 51.24",
+    "volpages": "SN v 284",
+    "uid": "sn51.24",
+    "blurb": "The four bases for psychic power are desire, energy, higher mind, and inquiry.",
+    "difficulty": null,
+    "original_title": "Suddhika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Plain Version",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn51.24_sujato",
+        "segmented": true,
+        "title": "Plain Version"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

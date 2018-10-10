@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn24.20-35",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn24.20-35",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "This Is Mine, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Neither Exists Nor Doesn’t Exist",
+      "uid": "sn24.36"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Winds",
+      "uid": "sn24.19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn24.20-35:0.1",
+          "pli": "Saṃyutta Nikāya 24",
+          "en": "Linked Discourses 24"
+        },
+        {
+          "scid": "sn24.20-35:0.2",
+          "pli": "2. Dutiyagamanavagga",
+          "en": "2. The Second Round"
+        },
+        {
+          "scid": "sn24.20-35:0.3",
+          "pli": "20–​35. Etaṃmamādisutta",
+          "en": "20–35. This Is Mine, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 24…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn24.20-35:1.1",
+          "pli": "(Purimavagge viya aṭṭhārasa veyyākaraṇāni vitthāretabbānīti.)",
+          "en": "(These should be expanded in the same way as discourses 2 through 17 of the previous chapter.)"
+        },
+        {
+          "scid": "sn24.20-35:1.2",
+          "pli": "Sattarasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "(These should be expanded in the same…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn24.20-35/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn24.20-35",
+    "blurb": "The various views arise from grasping to the five aggregates, which are suffering. But by seeing the aggregates as impermanent, these views are given up.",
+    "difficulty": null,
+    "original_title": "Etaṃmamādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "This Is Mine, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn24.20-35_sujato",
+        "segmented": true,
+        "title": "This Is Mine, Etc."
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an5.189",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.189",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Refusers of Late Food",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Those Who Eat Only From the Almsbowl",
+      "uid": "an5.190"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Those Who Eat in One Sitting",
+      "uid": "an5.188"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.189:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.189:0.2",
+          "pli": "19. Araññavagga",
+          "en": "19. Wilderness Dwellers"
+        },
+        {
+          "scid": "an5.189:0.3",
+          "pli": "189. Khalupacchābhattikasutta",
+          "en": "189. Refusers of Late Food"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.189:1.1",
+          "pli": "“Pañcime, bhikkhave, khalupacchābhattikā … pe ….",
+          "en": "“There are these five kinds of people who refuse to accept food offered after the meal has begun. …”"
+        },
+        {
+          "scid": "an5.189:1.2",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“There are these five kinds of people…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.189/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.189",
+    "volpages": "AN iii 220",
+    "uid": "an5.189",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Khalupacchābhattika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Refusers of Late Food",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.189_sujato",
+        "segmented": true,
+        "title": "Refusers of Late Food"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

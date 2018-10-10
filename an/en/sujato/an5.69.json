@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an5.69",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.69",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Disillusionment",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ending of Defilements",
+      "uid": "an5.70"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bases of Psychic Power (2nd)",
+      "uid": "an5.68"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.69:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.69:0.2",
+          "pli": "7. Saññāvagga",
+          "en": "7. Perceptions"
+        },
+        {
+          "scid": "an5.69:0.3",
+          "pli": "69. Nibbidāsutta",
+          "en": "69. Disillusionment"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.69:1.1",
+          "pli": "“Pañcime, bhikkhave, dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti.",
+          "en": "“Mendicants, these five things, when developed and cultivated, lead solely to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment."
+        },
+        {
+          "scid": "an5.69:2.1",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.69:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti.",
+          "en": "A mendicant meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death."
+        },
+        {
+          "scid": "an5.69:2.3",
+          "pli": "Ime kho, bhikkhave, pañca dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattantī”ti.",
+          "en": "These five things, when developed and cultivated, lead solely to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment.”"
+        },
+        {
+          "scid": "an5.69:2.4",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.69/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.69",
+    "volpages": "AN iii 83",
+    "uid": "an5.69",
+    "blurb": "Five meditations that lead to disillusionment with the world.",
+    "difficulty": null,
+    "original_title": "Nibbidā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Disillusionment",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.69_sujato",
+        "segmented": true,
+        "title": "Disillusionment"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

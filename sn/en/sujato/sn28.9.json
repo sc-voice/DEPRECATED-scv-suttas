@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn28.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn28.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Attainment of Cessation",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sucimukhī",
+      "uid": "sn28.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Dimension of Neither Perception Nor Non-Perception",
+      "uid": "sn28.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn28.9:0.1",
+          "pli": "Saṃyutta Nikāya 28",
+          "en": "Linked Discourses 28"
+        },
+        {
+          "scid": "sn28.9:0.2",
+          "pli": "1. Sāriputtavagga",
+          "en": "1. With Sāriputta"
+        },
+        {
+          "scid": "sn28.9:0.3",
+          "pli": "9. Nirodhasamāpattisutta",
+          "en": "9. The Attainment of Cessation"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 28…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn28.9:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn28.9:1.2",
+          "pli": "Atha kho āyasmā sāriputto … pe ….",
+          "en": "Venerable Ānanda saw Venerable Sāriputta …"
+        },
+        {
+          "scid": "sn28.9:1.3",
+          "pli": "“Idhāhaṃ, āvuso, sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharāmi.",
+          "en": "“Reverend, going totally beyond the dimension of neither perception nor non-perception, I entered and remained in the cessation of perception and feeling."
+        },
+        {
+          "scid": "sn28.9:1.4",
+          "pli": "Tassa mayhaṃ, āvuso, na evaṃ hoti:",
+          "en": "But it didn’t occur to me:"
+        },
+        {
+          "scid": "sn28.9:1.5",
+          "pli": "‘ahaṃ saññāvedayitanirodhaṃ samāpajjāmī’ti vā ‘ahaṃ saññāvedayitanirodhaṃ samāpanno’ti vā ‘ahaṃ saññāvedayitanirodhā vuṭṭhito’ti vā”ti.",
+          "en": "‘I am entering the cessation of perception and feeling’ or ‘I have entered the cessation of perception and feeling’ or ‘I am emerging from the cessation of perception and feeling’.”"
+        },
+        {
+          "scid": "sn28.9:1.6",
+          "pli": "Tathā hi panāyasmato sāriputtassa dīgharattaṃ ahaṅkāramamaṅkāramānānusayā susamūhatā.",
+          "en": "“That must be because Venerable Sāriputta has long ago totally uprooted ego, possessiveness, and the underlying tendency to conceit."
+        },
+        {
+          "scid": "sn28.9:1.7",
+          "pli": "Tasmā āyasmato sāriputtassa na evaṃ hoti:",
+          "en": "That’s why it didn’t occur to you:"
+        },
+        {
+          "scid": "sn28.9:1.8",
+          "pli": "“‘ahaṃ saññāvedayitanirodhaṃ samāpajjāmī’ti vā ‘ahaṃ saññāvedayitanirodhaṃ samāpanno’ti vā ‘ahaṃ saññāvedayitanirodhā vuṭṭhito’ti vā”ti.",
+          "en": "‘I am entering the cessation of perception and feeling’ or ‘I have entered the cessation of perception and feeling’ or ‘I am emerging from the cessation of perception and feeling’.”"
+        },
+        {
+          "scid": "sn28.9:1.9",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn28.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 28.9",
+    "volpages": "SN iii 238",
+    "uid": "sn28.9",
+    "blurb": "Sāriputta goes to Mirkwood for meditation, and afterwards Ānanda asks why his face is so radiant. Sāriputta replies that he was practicing the attainment of cessation without any thought of self.",
+    "difficulty": null,
+    "original_title": "Nirodhasamāpatti Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Attainment of Cessation",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn28.9_sujato",
+        "segmented": true,
+        "title": "The Attainment of Cessation"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

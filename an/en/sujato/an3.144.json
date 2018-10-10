@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an3.144",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.144",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "At the Peacocks’ Feeding Ground (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At the Peacocks’ Feeding Ground (3rd)",
+      "uid": "an3.145"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At the Peacocks’ Feeding Ground (1st)",
+      "uid": "an3.143"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.144:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.144:0.2",
+          "pli": "14. Yodhājīvavagga",
+          "en": "14. A Warrior"
+        },
+        {
+          "scid": "an3.144:0.3",
+          "pli": "144. Dutiyamoranivāpasutta",
+          "en": "144. At the Peacocks’ Feeding Ground (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.144:1.1",
+          "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bhikkhu accantaniṭṭho hoti accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānaṃ.",
+          "en": "“Mendicants, a mendicant who has three qualities has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal. They are best among gods and humans."
+        },
+        {
+          "scid": "an3.144:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.144:1.3",
+          "pli": "Iddhipāṭihāriyena, ādesanāpāṭihāriyena, anusāsanīpāṭihāriyena—",
+          "en": "A demonstration of psychic power, a demonstration of revealing, and an instructional demonstration."
+        },
+        {
+          "scid": "an3.144:1.4",
+          "pli": "imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu accantaniṭṭho hoti accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānan”ti.",
+          "en": "A mendicant with these three qualities has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal. They are best among gods and humans."
+        },
+        {
+          "scid": "an3.144:1.5",
+          "pli": "Dvādasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.144/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.144//AN 3.140b",
+    "volpages": "AN i 291",
+    "uid": "an3.144",
+    "blurb": "The ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal: the three wonders.",
+    "difficulty": null,
+    "original_title": "Dutiyamoranivāpa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "At the Peacocks’ Feeding Ground (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.144_sujato",
+        "segmented": true,
+        "title": "At the Peacocks’ Feeding Ground (2nd)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 12
+  }
+}

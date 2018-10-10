@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.127",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.127",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Living Apart",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "An Ascetic’s Happiness",
+      "uid": "an5.128"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Longevity (2nd)",
+      "uid": "an5.126"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.127:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.127:0.2",
+          "pli": "13. Gilānavagga",
+          "en": "13. Sick"
+        },
+        {
+          "scid": "an5.127:0.3",
+          "pli": "127. Vapakāsasutta",
+          "en": "127. Living Apart"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.127:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu nālaṃ saṃghamhā vapakāsituṃ.",
+          "en": "“Mendicants, a mendicant with five qualities is not fit to live apart from a Saṅgha community."
+        },
+        {
+          "scid": "an5.127:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.127:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu asantuṭṭho hoti itarītarena cīvarena, asantuṭṭho hoti itarītarena piṇḍapātena, asantuṭṭho hoti itarītarena senāsanena, asantuṭṭho hoti itarītarena gilānappaccayabhesajjaparikkhārena, kāmasaṅkappabahulo ca viharati.",
+          "en": "It’s when a mendicant is not content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they have a lot of sensual thoughts."
+        },
+        {
+          "scid": "an5.127:1.4",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu nālaṃ saṃghamhā vapakāsituṃ.",
+          "en": "A mendicant with these five qualities is not fit to live apart from a Saṅgha community."
+        },
+        {
+          "scid": "an5.127:2.1",
+          "pli": "Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu alaṃ saṃghamhā vapakāsituṃ.",
+          "en": "A mendicant with five qualities is fit to live apart from a Saṅgha community."
+        },
+        {
+          "scid": "an5.127:2.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.127:2.3",
+          "pli": "Idha, bhikkhave, bhikkhu santuṭṭho hoti itarītarena cīvarena, santuṭṭho hoti itarītarena piṇḍapātena, santuṭṭho hoti itarītarena senāsanena, santuṭṭho hoti itarītarena gilānappaccayabhesajjaparikkhārena, nekkhammasaṅkappabahulo ca viharati.",
+          "en": "It’s when a mendicant is content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they think a lot about renunciation."
+        },
+        {
+          "scid": "an5.127:2.4",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu alaṃ saṃghamhā vapakāsitun”ti.",
+          "en": "A mendicant with these five qualities is fit to live apart from a Saṅgha community.”"
+        },
+        {
+          "scid": "an5.127:2.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.127/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.127",
+    "volpages": "AN iii 145",
+    "uid": "an5.127",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vapakāsa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Living Apart",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.127_sujato",
+        "segmented": true,
+        "title": "Living Apart"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

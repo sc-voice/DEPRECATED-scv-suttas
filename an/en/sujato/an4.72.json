@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.72",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.72",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Right View",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Good Person",
+      "uid": "an4.73"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Effort",
+      "uid": "an4.71"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.72:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.72:0.2",
+          "pli": "8. Apaṇṇakavagga",
+          "en": "8. Guaranteed"
+        },
+        {
+          "scid": "an4.72:0.3",
+          "pli": "72. Sammādiṭṭhisutta",
+          "en": "72. Right View"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.72:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṃ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṃ khayāya.",
+          "en": "“Mendicants, when a mendicant has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements."
+        },
+        {
+          "scid": "an4.72:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.72:1.3",
+          "pli": "Nekkhammavitakkena, abyāpādavitakkena, avihiṃsāvitakkena, sammādiṭṭhiyā—",
+          "en": "Thoughts of renunciation, love, and kindness; and right view."
+        },
+        {
+          "scid": "an4.72:1.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṃ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṃ khayāyā”ti.",
+          "en": "When a mendicant has these four things their practice is guaranteed, and they have laid the groundwork for ending the defilements.”"
+        },
+        {
+          "scid": "an4.72:1.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.72/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.72",
+    "volpages": "AN ii 76",
+    "uid": "an4.72",
+    "blurb": "Unfailing practices: thoughts of renunciation, good will, and kindness; and right view.",
+    "difficulty": null,
+    "original_title": "Sammādiṭṭhi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Right View",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.72_sujato",
+        "segmented": true,
+        "title": "Right View"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

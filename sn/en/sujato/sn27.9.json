@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn27.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn27.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Elements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Aggregates",
+      "uid": "sn27.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Craving",
+      "uid": "sn27.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn27.9:0.1",
+          "pli": "Saṃyutta Nikāya 27",
+          "en": "Linked Discourses 27"
+        },
+        {
+          "scid": "sn27.9:0.2",
+          "pli": "1. Kilesavagga",
+          "en": "1. Corruptions"
+        },
+        {
+          "scid": "sn27.9:0.3",
+          "pli": "9. Dhātusutta",
+          "en": "9. Elements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 27…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn27.9:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn27.9:1.2",
+          "pli": "“Yo, bhikkhave, pathavīdhātuyā chandarāgo, cittasseso upakkileso.",
+          "en": "“Mendicants, desire and greed for the earth element,"
+        },
+        {
+          "scid": "sn27.9:1.3",
+          "pli": "Yo āpodhātuyā …",
+          "en": "the water element,"
+        },
+        {
+          "scid": "sn27.9:1.4",
+          "pli": "yo tejodhātuyā …",
+          "en": "the fire element,"
+        },
+        {
+          "scid": "sn27.9:1.5",
+          "pli": "yo vāyodhātuyā …",
+          "en": "the air element,"
+        },
+        {
+          "scid": "sn27.9:1.6",
+          "pli": "yo ākāsadhātuyā …",
+          "en": "the space element,"
+        },
+        {
+          "scid": "sn27.9:1.7",
+          "pli": "yo viññāṇadhātuyā chandarāgo, cittasseso upakkileso.",
+          "en": "or the consciousness element is a corruption of the mind. …”"
+        },
+        {
+          "scid": "sn27.9:1.8",
+          "pli": "Yato kho, bhikkhave, bhikkhuno imesu chasu ṭhānesu cetaso upakkileso pahīno hoti, nekkhammaninnañcassa cittaṃ hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn27.9:1.9",
+          "pli": "Nekkhammaparibhāvitaṃ cittaṃ kammaniyaṃ khāyati, abhiññā sacchikaraṇīyesu dhammesū”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn27.9:1.10",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn27.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 27.9",
+    "volpages": "SN iii 234",
+    "uid": "sn27.9",
+    "blurb": "Desire for four physical elements is a corruption of the mind, and letting go such desire one is able to realize the various kinds of direct knowledge.",
+    "difficulty": null,
+    "original_title": "Dhātu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Elements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn27.9_sujato",
+        "segmented": true,
+        "title": "Elements"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

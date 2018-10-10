@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an5.64",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.64",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Growth (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Discussion",
+      "uid": "an5.65"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Growth (1st)",
+      "uid": "an5.63"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.64:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.64:0.2",
+          "pli": "7. Saññāvagga",
+          "en": "7. Perceptions"
+        },
+        {
+          "scid": "an5.64:0.3",
+          "pli": "64. Dutiyavaḍḍhisutta",
+          "en": "64. Growth (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.64:1.1",
+          "pli": "“Pañcahi, bhikkhave, vaḍḍhīhi vaḍḍhamānā ariyasāvikā ariyāya vaḍḍhiyā vaḍḍhati, sārādāyinī ca hoti varādāyinī ca kāyassa.",
+          "en": "“Mendicants, a female noble disciple who grows in five ways grows nobly, taking on what is essential and excellent in this life."
+        },
+        {
+          "scid": "an5.64:1.2",
+          "pli": "Katamāhi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.64:1.3",
+          "pli": "Saddhāya vaḍḍhati, sīlena vaḍḍhati, sutena vaḍḍhati, cāgena vaḍḍhati, paññāya vaḍḍhati—",
+          "en": "She grows in faith, ethics, learning, generosity, and wisdom."
+        },
+        {
+          "scid": "an5.64:1.4",
+          "pli": "imāhi kho, bhikkhave, pañcahi vaḍḍhīhi vaḍḍhamānā ariyasāvikā ariyāya vaḍḍhiyā vaḍḍhati, sārādāyinī ca hoti varādāyinī ca kāyassāti.",
+          "en": "A female noble disciple who grows in these five ways grows nobly, taking on what is essential and excellent in this life."
+        },
+        {
+          "scid": "an5.64:2.1",
+          "pli": "Saddhāya sīlena ca yā pavaḍḍhati,",
+          "en": "She who grows in faith and ethics,"
+        },
+        {
+          "scid": "an5.64:2.2",
+          "pli": "Paññāya cāgena sutena cūbhayaṃ;",
+          "en": "wisdom, and both generosity and learning—"
+        },
+        {
+          "scid": "an5.64:2.3",
+          "pli": "Sā tādisī sīlavatī upāsikā,",
+          "en": "a virtuous laywoman such as she"
+        },
+        {
+          "scid": "an5.64:2.4",
+          "pli": "Ādīyatī sāramidheva attano”ti.",
+          "en": "takes on what is essential for herself in this life.”"
+        },
+        {
+          "scid": "an5.64:2.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.64/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.64",
+    "volpages": "AN iii 80",
+    "uid": "an5.64",
+    "blurb": "Noble growth for a female disciple.",
+    "difficulty": null,
+    "original_title": "Dutiyavaḍḍhi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Growth (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.64_sujato",
+        "segmented": true,
+        "title": "Growth (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an5.64_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Growth (2)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

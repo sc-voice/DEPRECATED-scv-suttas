@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn37.16",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.16",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Free of Hostility",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Free of Envy",
+      "uid": "sn37.17"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Free of Anger",
+      "uid": "sn37.15"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.16:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.16:0.2",
+          "pli": "2. Dutiyapeyyālavagga",
+          "en": "2. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.16:0.3",
+          "pli": "16. Anupanāhīsutta",
+          "en": "16. Free of Hostility"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.16:1.1",
+          "pli": "“Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": ""
+        },
+        {
+          "scid": "sn37.16:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": ""
+        },
+        {
+          "scid": "sn37.16:1.3",
+          "pli": "Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, anupanāhī ca hoti, paññavā ca hoti—",
+          "en": "“… They’re faithful, conscientious, prudent, free of hostility, and wise. …”"
+        },
+        {
+          "scid": "sn37.16:1.4",
+          "pli": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn37.16:1.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.16/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.16",
+    "volpages": "SN iv 244",
+    "uid": "sn37.16",
+    "blurb": "A woman with five good qualities has a good rebirth.",
+    "difficulty": null,
+    "original_title": "Anupanāhī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Free of Hostility",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.16_sujato",
+        "segmented": true,
+        "title": "Free of Hostility"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

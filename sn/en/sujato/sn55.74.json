@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn55.74",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.74",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Penetrating Wisdom",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Immersion",
+      "uid": "sn56.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sharp Wisdom",
+      "uid": "sn55.73"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.74:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.74:0.2",
+          "pli": "7. Mahāpaññavagga",
+          "en": "7. Great Wisdom"
+        },
+        {
+          "scid": "sn55.74:0.3",
+          "pli": "74. Nibbedhikapaññāsutta",
+          "en": "74. Penetrating Wisdom"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.74:1.1",
+          "pli": "“… Nibbedhikapaññatāya saṃvattanti.",
+          "en": "“Mendicants, when four things are developed and cultivated they lead to penetrating wisdom."
+        },
+        {
+          "scid": "sn55.74:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn55.74:1.3",
+          "pli": "Sappurisasaṃsevo, saddhammassavanaṃ, yonisomanasikāro, dhammānudhammappaṭipatti—",
+          "en": "Associating with good people, listening to the true teaching, proper attention, and practicing in line with the teaching."
+        },
+        {
+          "scid": "sn55.74:1.4",
+          "pli": "ime kho, bhikkhave, cattāro dhammā bhāvitā bahulīkatā nibbedhikapaññatāya saṃvattantī”ti.",
+          "en": "When these four things are developed and cultivated they lead to penetrating wisdom.”"
+        },
+        {
+          "scid": "sn55.74:1.5",
+          "pli": "Terasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.74:1.6",
+          "pli": "Mahāpaññavaggo sattamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.74:2.1",
+          "pli": "Mahā puthu vipula gambhīraṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn55.74:2.2",
+          "pli": "Appamatta bhūri bāhullaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "sn55.74:2.3",
+          "pli": "Sīgha lahu hāsa javana,",
+          "en": ""
+        },
+        {
+          "scid": "sn55.74:2.4",
+          "pli": "Tikkha nibbedhikāya cāti.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.74:2.5",
+          "pli": "Sotāpattisaṃyuttaṃ ekādasamaṃ.",
+          "en": "The Linked Discourses on Stream-Entry, the eleventh section."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.74/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.74",
+    "volpages": "SN v 413",
+    "uid": "sn55.74",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nibbedhikapaññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Penetrating Wisdom",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.74_sujato",
+        "segmented": true,
+        "title": "Penetrating Wisdom"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 13
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn34.16",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn34.16",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Entering and Projecting",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Entering and Carefulness",
+      "uid": "sn34.17"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Entering and Meditation Subjects",
+      "uid": "sn34.15"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn34.16:0.1",
+          "pli": "Saṃyutta Nikāya 34",
+          "en": ""
+        },
+        {
+          "scid": "sn34.16:0.2",
+          "pli": "1. Jhānavagga",
+          "en": "1. Absorption"
+        },
+        {
+          "scid": "sn34.16:0.3",
+          "pli": "16. Samāpattimūlakaabhinīhārasutta",
+          "en": "16. Entering and Projecting"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn34.16:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn34.16:1.2",
+          "pli": "“Cattārome, bhikkhave, jhāyī.",
+          "en": "“Mendicants, there are these four meditators."
+        },
+        {
+          "scid": "sn34.16:1.3",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn34.16:1.4",
+          "pli": "Idha, bhikkhave, ekacco jhāyī samādhismiṃ samāpattikusalo hoti, na samādhismiṃ abhinīhārakusalo.",
+          "en": "One meditator is skilled in entering immersion but not in projecting the mind purified by immersion. …”"
+        },
+        {
+          "scid": "sn34.16:1.5",
+          "pli": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṃ abhinīhārakusalo hoti, na samādhismiṃ samāpattikusalo.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.16:1.6",
+          "pli": "Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṃ samāpattikusalo hoti, na ca samādhismiṃ abhinīhārakusalo.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.16:1.7",
+          "pli": "Idha pana, bhikkhave, ekacco jhāyī samādhismiṃ samāpattikusalo ca hoti, samādhismiṃ abhinīhārakusalo ca.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.16:1.8",
+          "pli": "Tatra … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.16:1.9",
+          "pli": "pavaro cā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.16:1.10",
+          "pli": "Soḷasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn34.16/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 34.16",
+    "volpages": "SN iii 271",
+    "uid": "sn34.16",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Samāpattimūlakaabhinīhāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Entering and Projecting",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn34.16_sujato",
+        "segmented": true,
+        "title": "Entering and Projecting"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 16
+  }
+}

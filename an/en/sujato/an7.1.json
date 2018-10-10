@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "an7.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Pleasing (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pleasing (2nd)",
+      "uid": "an7.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an6.143-169"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.1:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.1:0.2",
+          "pli": "1. Dhanavagga",
+          "en": "1. Wealth"
+        },
+        {
+          "scid": "an7.1:0.3",
+          "pli": "1. Paṭhamapiyasutta",
+          "en": "1. Pleasing (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.1:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "an7.1:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "an7.1:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "an7.1:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "an7.1:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "an7.1:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "an7.1:2.1",
+          "pli": "“Sattahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "“Mendicants, a mendicant with seven qualities is disliked and disapproved by their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an7.1:2.2",
+          "pli": "Katamehi sattahi?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.1:2.3",
+          "pli": "Idha, bhikkhave, bhikkhu lābhakāmo ca hoti, sakkārakāmo ca hoti, anavaññattikāmo ca hoti, ahiriko ca hoti, anottappī ca, pāpiccho ca, micchādiṭṭhi ca.",
+          "en": "It’s when a mendicant desires material possessions, honor, and to be looked up to. They lack conscience and prudence. They have wicked desires and wrong view."
+        },
+        {
+          "scid": "an7.1:2.4",
+          "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "A mendicant with these seven qualities is disliked and disapproved by their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an7.1:3.1",
+          "pli": "Sattahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti, manāpo ca garu ca bhāvanīyo ca.",
+          "en": "A mendicant with seven qualities is liked and approved by their spiritual companions, respected and admired."
+        },
+        {
+          "scid": "an7.1:3.2",
+          "pli": "Katamehi sattahi?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.1:3.3",
+          "pli": "Idha, bhikkhave, bhikkhu na lābhakāmo ca hoti, na sakkārakāmo ca hoti, na anavaññattikāmo ca hoti, hirīmā ca hoti, ottappī ca, appiccho ca, sammādiṭṭhi ca.",
+          "en": "It’s when a mendicant doesn’t desire material possessions, honor, and to be looked up to. They have conscience and prudence. They have few desires and right view."
+        },
+        {
+          "scid": "an7.1:3.4",
+          "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti.",
+          "en": "A mendicant with these seven qualities is liked and approved by their spiritual companions, respected and admired.”"
+        },
+        {
+          "scid": "an7.1:3.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.1",
+    "volpages": "AN iv 1",
+    "uid": "an7.1",
+    "blurb": "Seven qualities that make a mendicant either agreeable or disagreeable to their fellow monastics.",
+    "difficulty": null,
+    "original_title": "Paṭhamapiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Pleasing (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.1_sujato",
+        "segmented": true,
+        "title": "Pleasing (1st)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "sutta_uid": "sn48.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Analysis (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gain",
+      "uid": "sn48.11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Analysis (1st)",
+      "uid": "sn48.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.10:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.10:0.2",
+          "pli": "1. Suddhikavagga",
+          "en": "1. Plain Version"
+        },
+        {
+          "scid": "sn48.10:0.3",
+          "pli": "10. Dutiyavibhaṅgasutta",
+          "en": "10. Analysis (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.10:1.1",
+          "pli": "“Pañcimāni, bhikkhave, indriyāni.",
+          "en": "“Mendicants, there are these five faculties."
+        },
+        {
+          "scid": "sn48.10:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn48.10:1.3",
+          "pli": "Saddhindriyaṃ … pe … paññindriyaṃ.",
+          "en": "The faculties of faith, energy, mindfulness, immersion, and wisdom."
+        },
+        {
+          "scid": "sn48.10:1.4",
+          "pli": "Katamañca, bhikkhave, saddhindriyaṃ?",
+          "en": "And what is the faculty of faith?"
+        },
+        {
+          "scid": "sn48.10:1.5",
+          "pli": "Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ:",
+          "en": "It’s when a noble disciple has faith in the Realized One’s awakening:"
+        },
+        {
+          "scid": "sn48.10:1.6",
+          "pli": "‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti—",
+          "en": "‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’"
+        },
+        {
+          "scid": "sn48.10:1.7",
+          "pli": "idaṃ vuccati, bhikkhave, saddhindriyaṃ.",
+          "en": "This is called the faculty of faith."
+        },
+        {
+          "scid": "sn48.10:2.1",
+          "pli": "Katamañca, bhikkhave, vīriyindriyaṃ?",
+          "en": "And what is the faculty of energy?"
+        },
+        {
+          "scid": "sn48.10:2.2",
+          "pli": "Idha, bhikkhave, ariyasāvako āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu.",
+          "en": "It’s when a mendicant lives with energy roused up for giving up unskillful qualities and gaining skillful qualities. They’re strong, firmly applied, not slacking off when it comes to developing skillful qualities."
+        },
+        {
+          "scid": "sn48.10:2.3",
+          "pli": "So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati;",
+          "en": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities don’t arise."
+        },
+        {
+          "scid": "sn48.10:2.4",
+          "pli": "uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati;",
+          "en": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up."
+        },
+        {
+          "scid": "sn48.10:2.5",
+          "pli": "anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati;",
+          "en": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise."
+        },
+        {
+          "scid": "sn48.10:2.6",
+          "pli": "uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati—",
+          "en": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development."
+        },
+        {
+          "scid": "sn48.10:2.7",
+          "pli": "idaṃ vuccati, bhikkhave, vīriyindriyaṃ.",
+          "en": "This is called the faculty of energy."
+        },
+        {
+          "scid": "sn48.10:3.1",
+          "pli": "Katamañca, bhikkhave, satindriyaṃ?",
+          "en": "And what is the faculty of mindfulness?"
+        },
+        {
+          "scid": "sn48.10:3.2",
+          "pli": "Idha, bhikkhave, ariyasāvako satimā hoti paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā.",
+          "en": "It’s when a noble disciple is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago."
+        },
+        {
+          "scid": "sn48.10:3.3",
+          "pli": "So kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "They meditate observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn48.10:3.4",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn48.10:3.5",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn48.10:3.6",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ—",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn48.10:3.7",
+          "pli": "idaṃ vuccati, bhikkhave, satindriyaṃ.",
+          "en": "This is called the faculty of mindfulness."
+        },
+        {
+          "scid": "sn48.10:4.1",
+          "pli": "Katamañca, bhikkhave, samādhindriyaṃ?",
+          "en": "And what is the faculty of immersion?"
+        },
+        {
+          "scid": "sn48.10:4.2",
+          "pli": "Idha, bhikkhave, ariyasāvako vossaggārammaṇaṃ karitvā labhati samādhiṃ, labhati cittassa ekaggataṃ.",
+          "en": "It’s when a noble disciple, relying on letting go, gains immersion, gains unification of mind."
+        },
+        {
+          "scid": "sn48.10:4.3",
+          "pli": "So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "sn48.10:4.4",
+          "pli": "Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "As the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected."
+        },
+        {
+          "scid": "sn48.10:4.5",
+          "pli": "Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’"
+        },
+        {
+          "scid": "sn48.10:4.6",
+          "pli": "Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati—",
+          "en": "Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness."
+        },
+        {
+          "scid": "sn48.10:4.7",
+          "pli": "idaṃ vuccati, bhikkhave, samādhindriyaṃ.",
+          "en": "This is called the faculty of immersion."
+        },
+        {
+          "scid": "sn48.10:5.1",
+          "pli": "Katamañca, bhikkhave, paññindriyaṃ?",
+          "en": "And what is the faculty of wisdom?"
+        },
+        {
+          "scid": "sn48.10:5.2",
+          "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya, sammā dukkhakkhayagāminiyā.",
+          "en": "It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering."
+        },
+        {
+          "scid": "sn48.10:5.3",
+          "pli": "So ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti—",
+          "en": "They truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+        },
+        {
+          "scid": "sn48.10:5.4",
+          "pli": "idaṃ vuccati, bhikkhave, paññindriyaṃ.",
+          "en": "This is called the faculty of wisdom."
+        },
+        {
+          "scid": "sn48.10:5.5",
+          "pli": "Imāni kho, bhikkhave, pañcindriyānī”ti.",
+          "en": "These are the five faculties.”"
+        },
+        {
+          "scid": "sn48.10:5.6",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn48.10:5.7",
+          "pli": "Suddhikavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn48.10:6.1",
+          "pli": "Suddhikañceva dve sotā,",
+          "en": ""
+        },
+        {
+          "scid": "sn48.10:6.2",
+          "pli": "arahantā apare duve;",
+          "en": ""
+        },
+        {
+          "scid": "sn48.10:6.3",
+          "pli": "Samaṇabrāhmaṇā daṭṭhabbaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn48.10:6.4",
+          "pli": "vibhaṅgā apare duveti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 48.10",
+    "volpages": "SN v 197",
+    "uid": "sn48.10",
+    "blurb": "The Buddha gives a detailed explanation of each of the five faculties. ",
+    "difficulty": null,
+    "original_title": "Dutiyavibhaṅga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Analysis (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.10_sujato",
+        "segmented": true,
+        "title": "Analysis (2nd)"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 10
+  }
+}

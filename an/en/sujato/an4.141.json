@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "an4.141",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.141",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Brightness",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Radiance",
+      "uid": "an4.142"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Speaker",
+      "uid": "an4.140"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.141:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.141:0.2",
+          "pli": "15. Ābhāvagga",
+          "en": "15. Brightness"
+        },
+        {
+          "scid": "an4.141:0.3",
+          "pli": "141. Ābhāsutta",
+          "en": "141. Brightness"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.141:1.1",
+          "pli": "“Catasso imā, bhikkhave, ābhā.",
+          "en": "“Mendicants, there are these four kinds of brightness."
+        },
+        {
+          "scid": "an4.141:1.2",
+          "pli": "Katamā catasso?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.141:1.3",
+          "pli": "Candābhā, sūriyābhā, aggābhā, paññābhā—",
+          "en": "The brightness of the moon, sun, fire, and wisdom."
+        },
+        {
+          "scid": "an4.141:1.4",
+          "pli": "imā kho, bhikkhave, catasso ābhā.",
+          "en": "These are the four kinds of brightness."
+        },
+        {
+          "scid": "an4.141:1.5",
+          "pli": "Etadaggaṃ, bhikkhave, imāsaṃ catunnaṃ ābhānaṃ yadidaṃ paññābhā”ti.",
+          "en": "The best of these four kinds of brightness is the brightness of wisdom.”"
+        },
+        {
+          "scid": "an4.141:1.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.141/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.141",
+    "volpages": "AN ii 139",
+    "uid": "an4.141",
+    "blurb": "The brightness of the moon, sun, fire, and wisdom.",
+    "difficulty": null,
+    "original_title": "Ābhā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Brightness",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.141_sujato",
+        "segmented": true,
+        "title": "Brightness"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

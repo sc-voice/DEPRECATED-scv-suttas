@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "sn22.108",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.108",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Ascetics and Brahmins (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Stream-Enterer",
+      "uid": "sn22.109"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics",
+      "uid": "sn22.107"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.108:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.108:0.2",
+          "pli": "11. Antavagga",
+          "en": "11. Sides"
+        },
+        {
+          "scid": "sn22.108:0.3",
+          "pli": "108. Dutiyasamaṇasutta",
+          "en": "108. Ascetics and Brahmins (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.108:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.108:1.2",
+          "pli": "“Pañcime, bhikkhave, upādānakkhandhā.",
+          "en": "“Mendicants, there are these five grasping aggregates."
+        },
+        {
+          "scid": "sn22.108:1.3",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn22.108:1.4",
+          "pli": "Seyyathidaṃ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho.",
+          "en": "That is, the grasping aggregates of form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "sn22.108:1.5",
+          "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ pañcannaṃ upādānakkhandhānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti … pe …",
+          "en": "There are ascetics and brahmins who don’t truly understand these five aggregates’ origin, ending, gratification, drawback, and escape … Those venerables don’t realize the goal of life as an ascetic or brahmin …"
+        },
+        {
+          "scid": "sn22.108:1.6",
+          "pli": "pajānanti, sayaṃ abhiññā sacchikatvā upasampajja viharantī”ti.",
+          "en": "There are ascetics and brahmins who do truly understand … Those venerables realize the goal of life as an ascetic or brahmin, and live having realized it with their own insight.”"
+        },
+        {
+          "scid": "sn22.108:1.7",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.108/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.108",
+    "volpages": "SN iii 160",
+    "uid": "sn22.108",
+    "blurb": "Only a true ascetic fully understands the five aggregates.",
+    "difficulty": null,
+    "original_title": "Dutiyasamaṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ascetics and Brahmins (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.108_sujato",
+        "segmented": true,
+        "title": "Ascetics and Brahmins (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

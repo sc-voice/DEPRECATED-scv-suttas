@@ -1,0 +1,445 @@
+{
+  "sutta_uid": "sn4.23",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn4.23",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Godhika",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Seven Years of Following",
+      "uid": "sn4.24"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Samiddhi",
+      "uid": "sn4.22"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn4.23:0.1",
+          "pli": "Saṃyutta Nikāya 4",
+          "en": "Linked Discourses 4"
+        },
+        {
+          "scid": "sn4.23:0.2",
+          "pli": "3. Tatiyavagga",
+          "en": "3. Rule"
+        },
+        {
+          "scid": "sn4.23:0.3",
+          "pli": "23. Godhikasutta",
+          "en": "23. With Godhika"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn4.23:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn4.23:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.",
+          "en": "At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground."
+        },
+        {
+          "scid": "sn4.23:1.3",
+          "pli": "Tena kho pana samayena āyasmā godhiko isigilipasse viharati kāḷasilāyaṃ.",
+          "en": "Now at that time Venerable Godhika was staying on the slopes of Isigili at the Black Rock."
+        },
+        {
+          "scid": "sn4.23:1.4",
+          "pli": "Atha kho āyasmā godhiko appamatto ātāpī pahitatto viharanto sāmayikaṃ cetovimuttiṃ phusi.",
+          "en": "Then Venerable Godhika, meditating diligent, keen, and resolute, experienced temporary freedom of heart."
+        },
+        {
+          "scid": "sn4.23:1.5",
+          "pli": "Atha kho āyasmā godhiko tamhā sāmayikāya cetovimuttiyā parihāyi.",
+          "en": "But then he fell away from that temporary freedom of heart."
+        },
+        {
+          "scid": "sn4.23:1.6",
+          "pli": "Dutiyampi kho āyasmā godhiko appamatto ātāpī pahitatto viharanto sāmayikaṃ cetovimuttiṃ phusi.",
+          "en": "For a second …"
+        },
+        {
+          "scid": "sn4.23:1.7",
+          "pli": "Dutiyampi kho āyasmā godhiko tamhā sāmayikāya cetovimuttiyā parihāyi.",
+          "en": ""
+        },
+        {
+          "scid": "sn4.23:1.8",
+          "pli": "Tatiyampi kho āyasmā godhiko appamatto ātāpī pahitatto viharanto sāmayikaṃ cetovimuttiṃ phusi.",
+          "en": "third …"
+        },
+        {
+          "scid": "sn4.23:1.9",
+          "pli": "Tatiyampi kho āyasmā godhiko tamhā … pe … parihāyi.",
+          "en": ""
+        },
+        {
+          "scid": "sn4.23:1.10",
+          "pli": "Catutthampi kho āyasmā godhiko appamatto … pe … vimuttiṃ phusi.",
+          "en": "fourth …"
+        },
+        {
+          "scid": "sn4.23:1.11",
+          "pli": "Catutthampi kho āyasmā godhiko tamhā … pe … parihāyi.",
+          "en": ""
+        },
+        {
+          "scid": "sn4.23:1.12",
+          "pli": "Pañcamampi kho āyasmā godhiko … pe … cetovimuttiṃ phusi.",
+          "en": "fifth …"
+        },
+        {
+          "scid": "sn4.23:1.13",
+          "pli": "Pañcamampi kho āyasmā … pe … vimuttiyā parihāyi.",
+          "en": ""
+        },
+        {
+          "scid": "sn4.23:1.14",
+          "pli": "Chaṭṭhampi kho āyasmā godhiko appamatto ātāpī pahitatto viharanto sāmayikaṃ cetovimuttiṃ phusi.",
+          "en": "sixth time Godhika experienced temporary freedom of heart."
+        },
+        {
+          "scid": "sn4.23:1.15",
+          "pli": "Chaṭṭhampi kho āyasmā godhiko tamhā sāmayikāya cetovimuttiyā parihāyi.",
+          "en": "But for a sixth time he fell away from it."
+        },
+        {
+          "scid": "sn4.23:1.16",
+          "pli": "Sattamampi kho āyasmā godhiko appamatto ātāpī pahitatto viharanto sāmayikaṃ cetovimuttiṃ phusi.",
+          "en": "For a seventh time Godhika, meditating diligent, keen, and resolute, experienced temporary freedom of heart."
+        },
+        {
+          "scid": "sn4.23:2.1",
+          "pli": "Atha kho āyasmato godhikassa etadahosi:",
+          "en": "Then he thought:"
+        },
+        {
+          "scid": "sn4.23:2.2",
+          "pli": "“yāva chaṭṭhaṃ khvāhaṃ sāmayikāya cetovimuttiyā parihīno.",
+          "en": "“I’ve fallen away from this temporary freedom of heart no less than six times."
+        },
+        {
+          "scid": "sn4.23:2.3",
+          "pli": "Yannūnāhaṃ satthaṃ āhareyyan”ti.",
+          "en": "Why don’t I commit suicide?”"
+        },
+        {
+          "scid": "sn4.23:2.4",
+          "pli": "Atha kho māro pāpimā āyasmato godhikassa cetasā cetoparivitakkamaññāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāhi ajjhabhāsi:",
+          "en": "And then Māra the Wicked, knowing what Godhika was thinking, went up to the Buddha and addressed him in verse:"
+        },
+        {
+          "scid": "sn4.23:3.1",
+          "pli": "“Mahāvīra mahāpañña,",
+          "en": "“O great hero, O greatly wise!"
+        },
+        {
+          "scid": "sn4.23:3.2",
+          "pli": "iddhiyā yasasā jala;",
+          "en": "Shining with power and glory."
+        },
+        {
+          "scid": "sn4.23:3.3",
+          "pli": "Sabbaverabhayātīta,",
+          "en": "You’ve gone beyond all threats and perils,"
+        },
+        {
+          "scid": "sn4.23:3.4",
+          "pli": "pāde vandāmi cakkhuma.",
+          "en": "I bow to your feet, O seer!"
+        },
+        {
+          "scid": "sn4.23:4.1",
+          "pli": "Sāvako te mahāvīra,",
+          "en": "Great hero, master of death,"
+        },
+        {
+          "scid": "sn4.23:4.2",
+          "pli": "maraṇaṃ maraṇābhibhū;",
+          "en": "your disciple longs for death,"
+        },
+        {
+          "scid": "sn4.23:4.3",
+          "pli": "Ākaṅkhati cetayati,",
+          "en": "he’s planning for it."
+        },
+        {
+          "scid": "sn4.23:4.4",
+          "pli": "taṃ nisedha jutindhara.",
+          "en": "Stop him, O light-bringer!"
+        },
+        {
+          "scid": "sn4.23:5.1",
+          "pli": "Kathañhi bhagavā tuyhaṃ,",
+          "en": "For how, Blessed One, can a disciple of yours,"
+        },
+        {
+          "scid": "sn4.23:5.2",
+          "pli": "Sāvako sāsane rato;",
+          "en": "one who loves your teaching,"
+        },
+        {
+          "scid": "sn4.23:5.3",
+          "pli": "Appattamānaso sekkho,",
+          "en": "a trainee who hasn’t achieved their heart’s desire,"
+        },
+        {
+          "scid": "sn4.23:5.4",
+          "pli": "Kālaṃ kayirā janesutā”ti.",
+          "en": "take his own life, O renowned one?”"
+        },
+        {
+          "scid": "sn4.23:6.1",
+          "pli": "Tena kho pana samayena āyasmatā godhikena satthaṃ āharitaṃ hoti.",
+          "en": "Now at that time Venerable Godhika had already committed suicide."
+        },
+        {
+          "scid": "sn4.23:6.2",
+          "pli": "Atha kho bhagavā “māro ayaṃ pāpimā” iti viditvā māraṃ pāpimantaṃ gāthāya ajjhabhāsi:",
+          "en": "Then the Buddha, knowing that this was Māra the Wicked, addressed him in verse:"
+        },
+        {
+          "scid": "sn4.23:7.1",
+          "pli": "“Evañhi dhīrā kubbanti,",
+          "en": "“This is how the sages act,"
+        },
+        {
+          "scid": "sn4.23:7.2",
+          "pli": "nāvakaṅkhanti jīvitaṃ;",
+          "en": "for they don’t long for life."
+        },
+        {
+          "scid": "sn4.23:7.3",
+          "pli": "Samūlaṃ taṇhamabbuyha,",
+          "en": "Having plucked out craving, root and all,"
+        },
+        {
+          "scid": "sn4.23:7.4",
+          "pli": "godhiko parinibbuto”ti.",
+          "en": "Godhika is extinguished.”"
+        },
+        {
+          "scid": "sn4.23:8.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "sn4.23:8.2",
+          "pli": "“āyāma, bhikkhave, yena isigilipassaṃ kāḷasilā tenupasaṅkamissāma yattha godhikena kulaputtena satthaṃ āharitan”ti.",
+          "en": "“Come, mendicants, let’s go to the Black Rock on the slopes of Isigili where Godhika, who came from a good family, committed suicide.”"
+        },
+        {
+          "scid": "sn4.23:8.3",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "sn4.23:9.1",
+          "pli": "Atha kho bhagavā sambahulehi bhikkhūhi saddhiṃ yena isigilipassaṃ kāḷasilā tenupasaṅkami.",
+          "en": "Then the Buddha together with several mendicants went to the Black Rock on the slopes of Isigili."
+        },
+        {
+          "scid": "sn4.23:9.2",
+          "pli": "Addasā kho bhagavā āyasmantaṃ godhikaṃ dūratova mañcake vivattakkhandhaṃ semānaṃ.",
+          "en": "The Buddha saw Godhika off in the distance lying on his cot, having cast off the aggregates."
+        },
+        {
+          "scid": "sn4.23:9.3",
+          "pli": "Tena kho pana samayena dhūmāyitattaṃ timirāyitattaṃ gacchateva purimaṃ disaṃ, gacchati pacchimaṃ disaṃ, gacchati uttaraṃ disaṃ, gacchati dakkhiṇaṃ disaṃ, gacchati uddhaṃ, gacchati adho, gacchati anudisaṃ.",
+          "en": "Now at that time a cloud of black smoke was moving east, west, north, south, above, below, and in-between."
+        },
+        {
+          "scid": "sn4.23:10.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "sn4.23:10.2",
+          "pli": "“passatha no tumhe, bhikkhave, etaṃ dhūmāyitattaṃ timirāyitattaṃ gacchateva purimaṃ disaṃ, gacchati pacchimaṃ disaṃ, gacchati uttaraṃ disaṃ, gacchati dakkhiṇaṃ disaṃ, gacchati uddhaṃ, gacchati adho, gacchati anudisan”ti?",
+          "en": "“Mendicants, do you see that cloud of black smoke moving east, west, north, south, above, below, and in-between?”"
+        },
+        {
+          "scid": "sn4.23:10.3",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "sn4.23:10.4",
+          "pli": "“Eso kho, bhikkhave, māro pāpimā godhikassa kulaputtassa viññāṇaṃ samanvesati:",
+          "en": "“That’s Māra the Wicked searching for Godhika’s consciousness, wondering:"
+        },
+        {
+          "scid": "sn4.23:10.5",
+          "pli": "‘kattha godhikassa kulaputtassa viññāṇaṃ patiṭṭhitan’ti?",
+          "en": "‘Where is Godhika’s consciousness established?’"
+        },
+        {
+          "scid": "sn4.23:10.6",
+          "pli": "Appatiṭṭhitena ca, bhikkhave, viññāṇena godhiko kulaputto parinibbuto”ti.",
+          "en": "But since his consciousness is not established, Godhika is extinguished.”"
+        },
+        {
+          "scid": "sn4.23:10.7",
+          "pli": "Atha kho māro pāpimā beluvapaṇḍuvīṇaṃ ādāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Then Māra, carrying his harp of yellow wood apple, went up to the Buddha and addressed him in verse:"
+        },
+        {
+          "scid": "sn4.23:11.1",
+          "pli": "“Uddhaṃ adho ca tiriyaṃ,",
+          "en": "“Above, below, and all around,"
+        },
+        {
+          "scid": "sn4.23:11.2",
+          "pli": "disā anudisā svahaṃ;",
+          "en": "in the four quarters and in-between,"
+        },
+        {
+          "scid": "sn4.23:11.3",
+          "pli": "Anvesaṃ nādhigacchāmi,",
+          "en": "I’ve been searching without success:"
+        },
+        {
+          "scid": "sn4.23:11.4",
+          "pli": "godhiko so kuhiṃ gato”ti.",
+          "en": "where has that Godhika got to?”"
+        },
+        {
+          "scid": "sn4.23:12.1",
+          "pli": "“Yo dhīro dhitisampanno,",
+          "en": "“He was a steadfast sage,"
+        },
+        {
+          "scid": "sn4.23:12.2",
+          "pli": "jhāyī jhānarato sadā;",
+          "en": "a meditator who loved to practice absorption."
+        },
+        {
+          "scid": "sn4.23:12.3",
+          "pli": "Ahorattaṃ anuyuñjaṃ,",
+          "en": "By day and by night he applied himself,"
+        },
+        {
+          "scid": "sn4.23:12.4",
+          "pli": "jīvitaṃ anikāmayaṃ.",
+          "en": "without concern for his life."
+        },
+        {
+          "scid": "sn4.23:13.1",
+          "pli": "Jetvāna maccuno senaṃ,",
+          "en": "He defeated the army of death,"
+        },
+        {
+          "scid": "sn4.23:13.2",
+          "pli": "anāgantvā punabbhavaṃ;",
+          "en": "and won’t return for any future life."
+        },
+        {
+          "scid": "sn4.23:13.3",
+          "pli": "Samūlaṃ taṇhamabbuyha,",
+          "en": "Having plucked out craving root and all"
+        },
+        {
+          "scid": "sn4.23:13.4",
+          "pli": "godhiko parinibbuto”ti.",
+          "en": "Godhika is extinguished.”"
+        },
+        {
+          "scid": "sn4.23:14.1",
+          "pli": "Tassa sokaparetassa,",
+          "en": "Stricken with sorrow,"
+        },
+        {
+          "scid": "sn4.23:14.2",
+          "pli": "vīṇā kacchā abhassatha;",
+          "en": "his harp dropping from his armpit,"
+        },
+        {
+          "scid": "sn4.23:14.3",
+          "pli": "Tato so dummano yakkho,",
+          "en": "that spirit, downcast,"
+        },
+        {
+          "scid": "sn4.23:14.4",
+          "pli": "tatthevantaradhāyathāti.",
+          "en": "vanished right there."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn4.23/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 4.23//SN 159",
+    "volpages": "SN i 120//SN i 264",
+    "uid": "sn4.23",
+    "blurb": "Venerable Godhika finds himself repeatedly falling away from his meditation attainments due to severe illness. Eventually he considers suicide, and Māra tries to get the Buddha to deter him. But the Buddha says Godhika has already attained awakening and has died blamelessly.",
+    "difficulty": null,
+    "original_title": "Godhika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Godhika",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn4.23_sujato",
+        "segmented": true,
+        "title": "With Godhika"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn4.23_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Godhika"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 3
+  }
+}

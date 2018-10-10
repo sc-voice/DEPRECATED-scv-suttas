@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn47.85-94",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.85-94",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Searches, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Higher Fetters, Etc.",
+      "uid": "sn47.95-104"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hard Work, Etc.",
+      "uid": "sn47.73-84"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.85-94:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.85-94:0.2",
+          "pli": "9. Esanāvagga",
+          "en": "9. Searches"
+        },
+        {
+          "scid": "sn47.85-94:0.3",
+          "pli": "85–​94. Esanādisutta",
+          "en": "85–94. Searches, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.85-94:1.1",
+          "pli": "“Tisso imā, bhikkhave, esanā.",
+          "en": "“Mendicants, there are these three searches."
+        },
+        {
+          "scid": "sn47.85-94:1.2",
+          "pli": "Katamā tisso?",
+          "en": "What three?"
+        },
+        {
+          "scid": "sn47.85-94:1.3",
+          "pli": "Kāmesanā, bhavesanā, brahmacariyesanā”ti vitthāretabbaṃ.",
+          "en": "The search for sensual pleasures, the search for continued existence, and the search for a spiritual path. …”"
+        },
+        {
+          "scid": "sn47.85-94:1.4",
+          "pli": "Esanāvaggo navamo.",
+          "en": "(To be expanded as in SN 45.161–170.)"
+        },
+        {
+          "scid": "sn47.85-94:2.1",
+          "pli": "Esanā vidhā āsavo,",
+          "en": "Searches, discriminations, defilements,"
+        },
+        {
+          "scid": "sn47.85-94:2.2",
+          "pli": "Bhavo ca dukkhatā tisso;",
+          "en": "states of existence, three kinds of suffering,"
+        },
+        {
+          "scid": "sn47.85-94:2.3",
+          "pli": "Khilaṃ malañca nīgho ca,",
+          "en": "barrenness, stains, and troubles,"
+        },
+        {
+          "scid": "sn47.85-94:2.4",
+          "pli": "Vedanā taṇhā tasināya cāti.",
+          "en": "feelings, craving, and thirst."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.85-94/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn47.85-94",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Esanā Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Searches, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.85-94_sujato",
+        "segmented": true,
+        "title": "Searches, Etc."
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.85-94_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Searches, Etc."
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

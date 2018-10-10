@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "an9.70",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.70",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Higher Fetters",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Emotional Barrenness",
+      "uid": "an9.71"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Stinginess",
+      "uid": "an9.69"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.70:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.70:0.2",
+          "pli": "7. Satipaṭṭhānavagga",
+          "en": "7. Mindfulness Meditation"
+        },
+        {
+          "scid": "an9.70:0.3",
+          "pli": "70. Uddhambhāgiyasutta",
+          "en": "70. Higher Fetters"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.70:1.1",
+          "pli": "“Pañcimāni, bhikkhave, uddhambhāgiyāni saṃyojanāni.",
+          "en": "“Mendicants, there are five higher fetters."
+        },
+        {
+          "scid": "an9.70:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an9.70:1.3",
+          "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṃ, avijjā—",
+          "en": "Desire for rebirth in the realm of luminous form, desire to be reborn in the formless realm, conceit, restlessness, and ignorance."
+        },
+        {
+          "scid": "an9.70:1.4",
+          "pli": "imāni kho, bhikkhave, pañcuddhambhāgiyāni saṃyojanāni.",
+          "en": "These are the five higher fetters."
+        },
+        {
+          "scid": "an9.70:2.1",
+          "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ pahānāya … pe … ime cattāro satipaṭṭhānā bhāvetabbā”ti.",
+          "en": "To give up these five higher fetters you should develop the four kinds of mindfulness meditation. …”"
+        },
+        {
+          "scid": "an9.70:2.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.70/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.70",
+    "volpages": "AN iv 460",
+    "uid": "an9.70",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uddhambhāgiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Higher Fetters",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.70_sujato",
+        "segmented": true,
+        "title": "Higher Fetters"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

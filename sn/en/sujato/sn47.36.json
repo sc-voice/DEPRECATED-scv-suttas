@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn47.36",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.36",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Enlightenment",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Desire",
+      "uid": "sn47.37"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mindful",
+      "uid": "sn47.35"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.36:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.36:0.2",
+          "pli": "4. Ananussutavagga",
+          "en": "4. Not Learned From Anyone Else"
+        },
+        {
+          "scid": "sn47.36:0.3",
+          "pli": "36. Aññāsutta",
+          "en": "36. Enlightenment"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.36:1.1",
+          "pli": "“Cattārome, bhikkhave, satipaṭṭhānā.",
+          "en": "“Mendicants, there are these four kinds of mindfulness meditation."
+        },
+        {
+          "scid": "sn47.36:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn47.36:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.36:1.4",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn47.36:1.5",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn47.36:1.6",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.36:1.7",
+          "pli": "Ime kho, bhikkhave, cattāro satipaṭṭhānā.",
+          "en": "These are the four kinds of mindfulness meditation."
+        },
+        {
+          "scid": "sn47.36:1.8",
+          "pli": "Imesaṃ kho, bhikkhave, catunnaṃ satipaṭṭhānānaṃ bhāvitattā bahulīkatattā dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ—",
+          "en": "Because of developing and cultivating these four kinds of mindfulness meditation, one of two results can be expected:"
+        },
+        {
+          "scid": "sn47.36:1.9",
+          "pli": "diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.",
+          "en": "enlightenment in the present life, or if there’s something left over, non-return.”"
+        },
+        {
+          "scid": "sn47.36:1.10",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.36/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 47.36",
+    "volpages": "SN v 181",
+    "uid": "sn47.36",
+    "blurb": "When the four kinds of mindfulness meditation are developed, perfection or non-return may be expected.",
+    "difficulty": null,
+    "original_title": "Aññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Enlightenment",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.36_sujato",
+        "segmented": true,
+        "title": "Enlightenment"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.36_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Final Knowledge"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

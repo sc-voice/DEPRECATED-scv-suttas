@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an4.92",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.92",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Immersion (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Immersion (2nd)",
+      "uid": "an4.93"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Demons",
+      "uid": "an4.91"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.92:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.92:0.2",
+          "pli": "10. Asuravagga",
+          "en": "10. Demons"
+        },
+        {
+          "scid": "an4.92:0.3",
+          "pli": "92. Paṭhamasamādhisutta",
+          "en": "92. Immersion (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.92:1.1",
+          "pli": "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“Mendicants, these four people are found in the world."
+        },
+        {
+          "scid": "an4.92:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.92:1.3",
+          "pli": "Idha, bhikkhave, ekacco puggalo lābhī hoti ajjhattaṃ cetosamathassa, na lābhī adhipaññādhammavipassanāya.",
+          "en": "One person has internal serenity of heart, but not the higher wisdom of discernment of principles."
+        },
+        {
+          "scid": "an4.92:1.4",
+          "pli": "Idha pana, bhikkhave, ekacco puggalo lābhī hoti adhipaññādhammavipassanāya, na lābhī ajjhattaṃ cetosamathassa.",
+          "en": "One person has the higher wisdom of discernment of principles, but not internal serenity of heart."
+        },
+        {
+          "scid": "an4.92:1.5",
+          "pli": "Idha pana, bhikkhave, ekacco puggalo na ceva lābhī hoti ajjhattaṃ cetosamathassa na ca lābhī adhipaññādhammavipassanāya.",
+          "en": "One person has neither internal serenity of heart, nor the higher wisdom of discernment of principles."
+        },
+        {
+          "scid": "an4.92:1.6",
+          "pli": "Idha pana, bhikkhave, ekacco puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya.",
+          "en": "One person has both internal serenity of heart, and the higher wisdom of discernment of principles."
+        },
+        {
+          "scid": "an4.92:1.7",
+          "pli": "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "These are the four people found in the world.”"
+        },
+        {
+          "scid": "an4.92:1.8",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.92/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.92",
+    "volpages": "AN ii 92",
+    "uid": "an4.92",
+    "blurb": "Serenity and discernment.",
+    "difficulty": null,
+    "original_title": "Paṭhamasamādhi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Immersion (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.92_sujato",
+        "segmented": true,
+        "title": "Immersion (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

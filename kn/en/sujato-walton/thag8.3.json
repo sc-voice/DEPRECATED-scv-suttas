@@ -1,0 +1,141 @@
+{
+  "sutta_uid": "thag8.3",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag8.3",
+    "lang": "en",
+    "is_root": false,
+    "title": "Mahāpanthaka",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Bhūta",
+      "uid": "thag9.1"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Sirimitta",
+      "uid": "thag8.2"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag8.3:0.1",
+          "en": "Theragāthā 8.3"
+        },
+        {
+          "scid": "thag8.3:0.2",
+          "en": "Mahāpanthaka",
+          "pli": "Mahāpanthakattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag8.3:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag8.3:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag8.3:1.0.3",
+          "en": "Chapter of the Eights"
+        },
+        {
+          "scid": "thag8.3:1.0.4",
+          "en": "8.3. Mahāpanthaka"
+        },
+        {
+          "scid": "thag8.3:1.1.5",
+          "en": "When I first saw the teacher, Who was free of fear from any direction, I was struck with awe, Since I’d seen the best of men."
+        },
+        {
+          "scid": "thag8.3:1.2.6",
+          "en": "If you have the good luck To find such a teacher, But you push it all away, You’ll lose your chance. "
+        },
+        {
+          "scid": "thag8.3:1.3.7",
+          "en": "Then I left behind my children and wife, My riches and my grain; I cut off my hair and beard, And went forth into homelessness."
+        },
+        {
+          "scid": "thag8.3:1.4.8",
+          "en": "Endowed with the monastic training and livelihood, My sense faculties well-restrained, Paying homage to the Buddha, I dwelt undefeated."
+        },
+        {
+          "scid": "thag8.3:1.5.9",
+          "en": "Then a resolve occurred to me, My heart’s truest wish: I wouldn’t sit down, not even for a moment, Until the dart of craving was pulled out."
+        },
+        {
+          "scid": "thag8.3:1.6.10",
+          "en": "As I dwell like this, See my energy and striving! I’ve attained the three knowledges, And fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag8.3:1.7.11",
+          "en": "I know my past life; My divine eye is clarified; I’m an Arahant, worthy of offerings, Liberated, without attachments."
+        },
+        {
+          "scid": "thag8.3:1.8.12",
+          "en": "Then, at the end of the night, As the rising of the sun drew near, All craving was dried up, So I sat down cross-legged."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag8.3/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 8.3",
+    "volpages": "Thag 53",
+    "uid": "thag8.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mahāpanthakattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mahāpanthaka",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag8.3_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Mahāpanthaka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

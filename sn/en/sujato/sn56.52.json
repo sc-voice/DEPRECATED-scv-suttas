@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn56.52",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.52",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Lotus Pond",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Where the Waters Flow Together (1st)",
+      "uid": "sn56.53"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Fingernail",
+      "uid": "sn56.51"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.52:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.52:0.2",
+          "pli": "6. Abhisamayavagga",
+          "en": "6. Comprehension"
+        },
+        {
+          "scid": "sn56.52:0.3",
+          "pli": "52. Pokkharaṇīsutta",
+          "en": "52. A Lotus Pond"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.52:1.1",
+          "pli": "“Seyyathāpi, bhikkhave, pokkharaṇī paññāsayojanāni āyāmena, paññāsayojanāni vitthārena, paññāsayojanāni ubbedhena, puṇṇā udakassa samatittikā kākapeyyā.",
+          "en": "“Mendicants, suppose there was a lotus pond that was fifty leagues long, fifty leagues wide, and fifty leagues deep, full to the brim so a crow could drink from it."
+        },
+        {
+          "scid": "sn56.52:1.2",
+          "pli": "Tato puriso kusaggena udakaṃ uddhareyya.",
+          "en": "Then a person would pick up some water on the tip of a blade of grass."
+        },
+        {
+          "scid": "sn56.52:1.3",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "sn56.52:1.4",
+          "pli": "katamaṃ nu kho bahutaraṃ—yaṃ vā kusaggena ubbhataṃ, yaṃ vā pokkharaṇiyā udakan”ti?",
+          "en": "Which is more: the water on the tip of the blade of grass, or the water in the lotus pond?”"
+        },
+        {
+          "scid": "sn56.52:1.5",
+          "pli": "“Etadeva, bhante, bahutaraṃ, yadidaṃ—pokkharaṇiyā udakaṃ; appamattakaṃ kusaggena udakaṃ ubbhataṃ.",
+          "en": "“Sir, the water in the lotus pond is certainly more. The water on the tip of a blade of grass is tiny."
+        },
+        {
+          "scid": "sn56.52:1.6",
+          "pli": "Saṅkhampi na upeti, upanidhampi na upeti, kalabhāgampi na upeti pokkharaṇiyā udakaṃ upanidhāya kusaggena udakaṃ ubbhatan”ti.",
+          "en": "Compared to the water in the lotus pond, it can’t be reckoned or compared, it’s not even a fraction.”"
+        },
+        {
+          "scid": "sn56.52:1.7",
+          "pli": "“Evameva kho, bhikkhave, ariyasāvakassa … pe …",
+          "en": "“In the same way, for a noble disciple …"
+        },
+        {
+          "scid": "sn56.52:1.8",
+          "pli": "yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.52:1.9",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.52/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.52",
+    "volpages": "SN v 460",
+    "uid": "sn56.52",
+    "blurb": "As a drop of water on a blade of grass compared to a massive dam, so is the suffering remaining to one who has seen the four noble truths.",
+    "difficulty": null,
+    "original_title": "Pokkharaṇī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Lotus Pond",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.52_sujato",
+        "segmented": true,
+        "title": "A Lotus Pond"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 2
+  }
+}

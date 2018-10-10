@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an5.212",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.212",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Starting Arguments",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ethics",
+      "uid": "an5.213"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "An Abuser",
+      "uid": "an5.211"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.212:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.212:0.2",
+          "pli": "22. Akkosakavagga",
+          "en": "22. Abuse"
+        },
+        {
+          "scid": "an5.212:0.3",
+          "pli": "212. Bhaṇḍanakārakasutta",
+          "en": "212. Starting Arguments"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.212:1.1",
+          "pli": "“Yo so, bhikkhave, bhikkhu bhaṇḍanakārako kalahakārako vivādakārako bhassakārako saṃghe adhikaraṇakārako, tassa pañca ādīnavā pāṭikaṅkhā.",
+          "en": "“Mendicants, a mendicant who starts arguments, quarrels, fights, debates, and disciplinary issues in the Saṅgha can expect five drawbacks."
+        },
+        {
+          "scid": "an5.212:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.212:1.3",
+          "pli": "Anadhigataṃ nādhigacchati, adhigatā parihāyati, pāpako kittisaddo abbhuggacchati, sammūḷho kālaṃ karoti, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": "They don’t achieve the unachieved. What they have achieved falls away. They get a bad reputation. They feel lost when they die. And when their body breaks up, after death, they are reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "an5.212:1.4",
+          "pli": "Yo so, bhikkhave, bhikkhu bhaṇḍanakārako kalahakārako vivādakārako bhassakārako saṃghe adhikaraṇakārako, tassa ime pañca ādīnavā pāṭikaṅkhā”ti.",
+          "en": "A mendicant who starts arguments, quarrels, fights, debates, and disciplinary issues in the Saṅgha can expect these five drawbacks.”"
+        },
+        {
+          "scid": "an5.212:1.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.212/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.212",
+    "volpages": "AN iii 252",
+    "uid": "an5.212",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bhaṇḍanakāraka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Starting Arguments",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.212_sujato",
+        "segmented": true,
+        "title": "Starting Arguments"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

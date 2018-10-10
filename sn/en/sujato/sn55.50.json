@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn55.50",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.50",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Factors",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Verses",
+      "uid": "sn55.51"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Mahānāma",
+      "uid": "sn55.49"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.50:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.50:0.2",
+          "pli": "5. Sagāthakapuññābhisandavagga",
+          "en": "5. Overflowing Merit, With Verses"
+        },
+        {
+          "scid": "sn55.50:0.3",
+          "pli": "50. Aṅgasutta",
+          "en": "50. Factors"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.50:1.1",
+          "pli": "“Cattārimāni, bhikkhave, sotāpattiyaṅgāni.",
+          "en": "“Mendicants, there are these four factors of stream-entry."
+        },
+        {
+          "scid": "sn55.50:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn55.50:1.3",
+          "pli": "Sappurisasaṃsevo, saddhammassavanaṃ, yonisomanasikāro, dhammānudhammappaṭipatti—",
+          "en": "Associating with good people, listening to the true teaching, proper attention, and practicing in line with the teaching."
+        },
+        {
+          "scid": "sn55.50:1.4",
+          "pli": "imāni kho, bhikkhave, cattāri sotāpattiyaṅgānī”ti.",
+          "en": "These are the four factors of stream-entry.”"
+        },
+        {
+          "scid": "sn55.50:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.50:1.6",
+          "pli": "Sagāthakapuññābhisandavaggo pañcamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.50:2.1",
+          "pli": "Abhisandā tayo vuttā,",
+          "en": ""
+        },
+        {
+          "scid": "sn55.50:2.2",
+          "pli": "Duve mahaddhanena ca;",
+          "en": ""
+        },
+        {
+          "scid": "sn55.50:2.3",
+          "pli": "Suddhaṃ nandiyaṃ bhaddiyaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn55.50:2.4",
+          "pli": "Mahānāmaṅgena te dasāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.50/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.50",
+    "volpages": "SN v 404",
+    "uid": "sn55.50",
+    "blurb": "Four factors for stream-entry: association with good people, hearing the teaching, proper attention, and right practice.",
+    "difficulty": null,
+    "original_title": "Aṅga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Factors",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.50_sujato",
+        "segmented": true,
+        "title": "Factors"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

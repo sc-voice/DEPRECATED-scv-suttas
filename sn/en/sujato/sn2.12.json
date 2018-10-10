@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn2.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Vishnu",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Dīghalaṭṭhi",
+      "uid": "sn2.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Candimasa",
+      "uid": "sn2.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.12:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.12:0.2",
+          "pli": "2. Anāthapiṇḍikavagga",
+          "en": "2. With Anāthapiṇḍika"
+        },
+        {
+          "scid": "sn2.12:0.3",
+          "pli": "12. Veṇḍusutta",
+          "en": "12. With Vishnu"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.12:1.1",
+          "pli": "Ekamantaṃ ṭhito kho veṇḍu devaputto bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, the god Vishnu recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn2.12:2.1",
+          "pli": "“Sukhitāva te manujā,",
+          "en": "“Happy are the children of Manu"
+        },
+        {
+          "scid": "sn2.12:2.2",
+          "pli": "sugataṃ payirupāsiya;",
+          "en": "who pay homage to the Holy One!"
+        },
+        {
+          "scid": "sn2.12:2.3",
+          "pli": "Yuñjaṃ gotamasāsane,",
+          "en": "They apply themselves to Gotama’s instructions,"
+        },
+        {
+          "scid": "sn2.12:2.4",
+          "pli": "appamattā nu sikkhare”ti.",
+          "en": "diligently training.”"
+        },
+        {
+          "scid": "sn2.12:3.1",
+          "pli": "“Ye me pavutte siṭṭhipade, (veṇḍūti bhagavā)",
+          "en": "“Those who practice absorption in accord with the training"
+        },
+        {
+          "scid": "sn2.12:3.2",
+          "pli": "Anusikkhanti jhāyino;",
+          "en": "in the way of teaching I’ve proclaimed,” said the Buddha to Vishnu,"
+        },
+        {
+          "scid": "sn2.12:3.3",
+          "pli": "Kāle te appamajjantā,",
+          "en": "“they’re in time to be diligent;"
+        },
+        {
+          "scid": "sn2.12:3.4",
+          "pli": "Na maccuvasagā siyun”ti.",
+          "en": "they won’t fall under the sway of Death.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Standing to one side…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.12//SN 93",
+    "volpages": "SN i 52//SN i 118",
+    "uid": "sn2.12",
+    "blurb": "The deity Veṇhu celebrates the joy of those who follow the Buddha’s teaching. The Buddha affirms that such will escape death. Veṇhu is the Pali spelling of Sanskrit Viṣṇu, and this marks a rare appearance of a god of this name in the early texts.",
+    "difficulty": null,
+    "original_title": "Veṇḍu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Vishnu",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.12_sujato",
+        "segmented": true,
+        "title": "With Vishnu"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 2
+  }
+}

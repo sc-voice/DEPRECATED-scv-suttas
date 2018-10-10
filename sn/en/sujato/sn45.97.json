@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn45.97",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.97",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Slanting to the Ocean",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Discourses on Slanting to the Ocean",
+      "uid": "sn45.98-102"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sixth Discourse on Slanting East",
+      "uid": "sn45.96"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.97:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.97:0.2",
+          "pli": "9. Gaṅgāpeyyālavagga",
+          "en": "9. Abbreviated Texts on the Ganges"
+        },
+        {
+          "scid": "sn45.97:0.3",
+          "pli": "97. Paṭhamasamuddaninnasutta",
+          "en": "97. Slanting to the Ocean"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.97:1.1",
+          "pli": "“Seyyathāpi, bhikkhave, gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā;",
+          "en": "“Mendicants, the Ganges river slants, slopes, and inclines to the ocean."
+        },
+        {
+          "scid": "sn45.97:1.2",
+          "pli": "evameva kho, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.",
+          "en": "In the same way, a mendicant who develops the noble eightfold path slants, slopes, and inclines to extinguishment. …”"
+        },
+        {
+          "scid": "sn45.97:1.3",
+          "pli": "Kathañca, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro?",
+          "en": ""
+        },
+        {
+          "scid": "sn45.97:1.4",
+          "pli": "Idha, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ … pe … sammāsamādhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn45.97:1.5",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn45.97:1.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.97/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.97",
+    "volpages": "SN v 39",
+    "uid": "sn45.97",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paṭhamasamuddaninna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Slanting to the Ocean",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.97_sujato",
+        "segmented": true,
+        "title": "Slanting to the Ocean"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.97_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Ocean"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

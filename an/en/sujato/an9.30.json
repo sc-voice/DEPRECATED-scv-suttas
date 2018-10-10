@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "an9.30",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.30",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Getting Rid of Resentment",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Progressive Cessations",
+      "uid": "an9.31"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Grounds for Resentment",
+      "uid": "an9.29"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.30:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.30:0.2",
+          "pli": "3. Sattāvāsavagga",
+          "en": "3. Abodes of Sentient Beings"
+        },
+        {
+          "scid": "an9.30:0.3",
+          "pli": "30. Āghātapaṭivinayasutta",
+          "en": "30. Getting Rid of Resentment"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.30:1.1",
+          "pli": "“Navayime, bhikkhave, āghātapaṭivinayā.",
+          "en": "“Mendicants, there are these nine methods to get rid of resentment."
+        },
+        {
+          "scid": "an9.30:1.2",
+          "pli": "Katame nava?",
+          "en": "What nine?"
+        },
+        {
+          "scid": "an9.30:1.3",
+          "pli": "‘Anatthaṃ me acari, taṃ kutettha labbhā’ti āghātaṃ paṭivineti;",
+          "en": "Thinking: ‘They did wrong to me, but what can I possibly do?’ you get rid of resentment."
+        },
+        {
+          "scid": "an9.30:1.4",
+          "pli": "‘anatthaṃ me carati, taṃ kutettha labbhā’ti āghātaṃ paṭivineti;",
+          "en": "Thinking: ‘They are doing wrong to me …’ …"
+        },
+        {
+          "scid": "an9.30:1.5",
+          "pli": "‘anatthaṃ me carissati, taṃ kutettha labbhā’ti āghātaṃ paṭivineti;",
+          "en": "‘They will do wrong to me …’ …"
+        },
+        {
+          "scid": "an9.30:1.6",
+          "pli": "piyassa me manāpassa anatthaṃ acari … pe …",
+          "en": "‘They did wrong by someone I love …’ …"
+        },
+        {
+          "scid": "an9.30:1.7",
+          "pli": "anatthaṃ carati … pe …",
+          "en": "‘They are doing wrong by someone I love …’"
+        },
+        {
+          "scid": "an9.30:1.8",
+          "pli": "‘anatthaṃ carissati, taṃ kutettha labbhā’ti āghātaṃ paṭivineti;",
+          "en": "‘They will do wrong by someone I love …’ …"
+        },
+        {
+          "scid": "an9.30:1.9",
+          "pli": "appiyassa me amanāpassa atthaṃ acari … pe …",
+          "en": "‘They helped someone I dislike …’ …"
+        },
+        {
+          "scid": "an9.30:1.10",
+          "pli": "atthaṃ carati … pe …",
+          "en": "‘They are helping someone I dislike …’ …"
+        },
+        {
+          "scid": "an9.30:1.11",
+          "pli": "‘atthaṃ carissati, taṃ kutettha labbhā’ti āghātaṃ paṭivineti.",
+          "en": "Thinking: ‘They will help someone I dislike, but what can I possibly do?’ you get rid of resentment."
+        },
+        {
+          "scid": "an9.30:1.12",
+          "pli": "Ime kho, bhikkhave, nava āghātapaṭivinayā”ti.",
+          "en": "These are the nine ways of getting rid of resentment.”"
+        },
+        {
+          "scid": "an9.30:1.13",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.30/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.30",
+    "volpages": "AN iv 408",
+    "uid": "an9.30",
+    "blurb": "Nine ways of removing resentment.",
+    "difficulty": null,
+    "original_title": "Āghātapaṭivinaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Getting Rid of Resentment",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.30_sujato",
+        "segmented": true,
+        "title": "Getting Rid of Resentment"
+      }
+    ],
+    "parallel_count": 6,
+    "biblio": null,
+    "num": 10
+  }
+}

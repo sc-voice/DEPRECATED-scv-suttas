@@ -1,0 +1,750 @@
+{
+  "sutta_uid": "sn43.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn43.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Unconditioned",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uninclined",
+      "uid": "sn43.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Path",
+      "uid": "sn43.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn43.12:0.1",
+          "pli": "Saṃyutta Nikāya 43",
+          "en": "Linked Discourses 43"
+        },
+        {
+          "scid": "sn43.12:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn43.12:0.3",
+          "pli": "12. Asaṅkhatasutta",
+          "en": "12. The Unconditioned"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 43…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn43.12:1.1",
+          "pli": "“Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ.",
+          "en": "“Mendicants, I will teach you the unconditioned and the path that leads to the unconditioned."
+        },
+        {
+          "scid": "sn43.12:1.2",
+          "pli": "Taṃ suṇātha.",
+          "en": "Listen …"
+        },
+        {
+          "scid": "sn43.12:1.3",
+          "pli": "Katamañca, bhikkhave, asaṅkhataṃ?",
+          "en": "And what is the unconditioned?"
+        },
+        {
+          "scid": "sn43.12:1.4",
+          "pli": "Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—",
+          "en": "The ending of greed, hate, and delusion."
+        },
+        {
+          "scid": "sn43.12:1.5",
+          "pli": "idaṃ vuccati, bhikkhave, asaṅkhataṃ.",
+          "en": "This is called the unconditioned."
+        },
+        {
+          "scid": "sn43.12:1.6",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": "And what is the path that leads to the unconditioned?"
+        },
+        {
+          "scid": "sn43.12:1.7",
+          "pli": "Samatho.",
+          "en": "Serenity."
+        },
+        {
+          "scid": "sn43.12:1.8",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo.",
+          "en": "This is called the path that leads to the unconditioned."
+        },
+        {
+          "scid": "sn43.12:1.9",
+          "pli": "Iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ, desito asaṅkhatagāmimaggo.",
+          "en": "So, mendicants, I’ve taught you the unconditioned and the path that leads to the unconditioned."
+        },
+        {
+          "scid": "sn43.12:1.10",
+          "pli": "Yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā.",
+          "en": "Out of compassion, I’ve done what a teacher should do for the benefit of their disciples."
+        },
+        {
+          "scid": "sn43.12:1.11",
+          "pli": "Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanīti. (1.1)",
+          "en": "Here are these roots of trees, and here are these empty huts. Practice absorption, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.”"
+        },
+        {
+          "scid": "sn43.12:2.1",
+          "pli": "Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ.",
+          "en": "“Mendicants, I will teach you the unconditioned and the path that leads to the unconditioned."
+        },
+        {
+          "scid": "sn43.12:2.2",
+          "pli": "Taṃ suṇātha.",
+          "en": "Listen …"
+        },
+        {
+          "scid": "sn43.12:2.3",
+          "pli": "Katamañca, bhikkhave, asaṅkhataṃ?",
+          "en": "And what is the unconditioned?"
+        },
+        {
+          "scid": "sn43.12:2.4",
+          "pli": "Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—",
+          "en": "The ending of greed, hate, and delusion."
+        },
+        {
+          "scid": "sn43.12:2.5",
+          "pli": "idaṃ vuccati, bhikkhave, asaṅkhataṃ.",
+          "en": "This is called the unconditioned."
+        },
+        {
+          "scid": "sn43.12:2.6",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": "And what is the path that leads to the unconditioned?"
+        },
+        {
+          "scid": "sn43.12:2.7",
+          "pli": "Vipassanā.",
+          "en": "Discernment."
+        },
+        {
+          "scid": "sn43.12:2.8",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo.",
+          "en": "This is called the path that leads to the unconditioned. …”"
+        },
+        {
+          "scid": "sn43.12:2.9",
+          "pli": "Iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:2.10",
+          "pli": "ayaṃ vo amhākaṃ anusāsanīti. (1.2)",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:3.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": "“And what is the path that leads to the unconditioned?"
+        },
+        {
+          "scid": "sn43.12:3.2",
+          "pli": "Savitakko savicāro samādhi.",
+          "en": "Immersion with placing the mind and keeping it connected. …"
+        },
+        {
+          "scid": "sn43.12:3.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:3.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:3.5",
+          "pli": "Avitakko vicāramatto samādhi.",
+          "en": "Immersion without placing the mind, but just keeping it connected. …"
+        },
+        {
+          "scid": "sn43.12:3.6",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:3.7",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:3.8",
+          "pli": "Avitakko avicāro samādhi. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …. (1.3–5.)",
+          "en": "Immersion without placing the mind or keeping it connected. …"
+        },
+        {
+          "scid": "sn43.12:4.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:4.2",
+          "pli": "Suññato samādhi.",
+          "en": "Emptiness immersion. …"
+        },
+        {
+          "scid": "sn43.12:4.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:4.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:4.5",
+          "pli": "Animitto samādhi.",
+          "en": "Signless immersion. …"
+        },
+        {
+          "scid": "sn43.12:4.6",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:4.7",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:4.8",
+          "pli": "Appaṇihito samādhi. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …. (1.6–8.)",
+          "en": "Undirected immersion. …"
+        },
+        {
+          "scid": "sn43.12:5.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:5.2",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ.",
+          "en": "A mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world. …"
+        },
+        {
+          "scid": "sn43.12:5.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:5.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:5.5",
+          "pli": "Idha, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati … pe …",
+          "en": "A mendicant meditates by observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn43.12:5.6",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:5.7",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:5.8",
+          "pli": "Idha, bhikkhave, bhikkhu citte cittānupassī viharati … pe …",
+          "en": "A mendicant meditates by observing an aspect of the mind …"
+        },
+        {
+          "scid": "sn43.12:5.9",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:5.10",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:5.11",
+          "pli": "Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati … pe … ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …. (1.9–12.)",
+          "en": "A mendicant meditates by observing an aspect of principles …"
+        },
+        {
+          "scid": "sn43.12:6.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:6.2",
+          "pli": "Idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati.",
+          "en": "A mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise. …"
+        },
+        {
+          "scid": "sn43.12:6.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:6.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:6.5",
+          "pli": "Idha, bhikkhave, bhikkhu uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati.",
+          "en": "A mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities are given up. …"
+        },
+        {
+          "scid": "sn43.12:6.6",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:6.7",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:6.8",
+          "pli": "Idha, bhikkhave, bhikkhu anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati.",
+          "en": "A mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that skillful qualities arise. …"
+        },
+        {
+          "scid": "sn43.12:6.9",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:6.10",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:6.11",
+          "pli": "Idha, bhikkhave, bhikkhu uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …. (1.13–16.)",
+          "en": "A mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development."
+        },
+        {
+          "scid": "sn43.12:7.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:7.2",
+          "pli": "Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.",
+          "en": "A mendicant develops the basis of psychic power that has immersion due to enthusiasm, and active effort. …"
+        },
+        {
+          "scid": "sn43.12:7.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:7.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:7.5",
+          "pli": "Idha, bhikkhave, bhikkhu vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.",
+          "en": "A mendicant develops the basis of psychic power that has immersion due to energy …"
+        },
+        {
+          "scid": "sn43.12:7.6",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:7.7",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:7.8",
+          "pli": "Idha, bhikkhave, bhikkhu cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.",
+          "en": "immersion due to higher mind …"
+        },
+        {
+          "scid": "sn43.12:7.9",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:7.10",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:7.11",
+          "pli": "Idha, bhikkhave, bhikkhu vīmaṃsasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …. (1.17–20.)",
+          "en": "immersion due to inquiry, and active effort. …"
+        },
+        {
+          "scid": "sn43.12:8.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.2",
+          "pli": "Idha, bhikkhave, bhikkhu saddhindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.",
+          "en": "A mendicant develops the faculty of faith, which relies on seclusion, fading away, and cessation, and ripens as letting go. …"
+        },
+        {
+          "scid": "sn43.12:8.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.5",
+          "pli": "Idha, bhikkhave, bhikkhu vīriyindriyaṃ bhāveti vivekanissitaṃ … pe …",
+          "en": "A mendicant develops the faculty of energy …"
+        },
+        {
+          "scid": "sn43.12:8.6",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.7",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.8",
+          "pli": "Idha, bhikkhave, bhikkhu satindriyaṃ bhāveti … pe …",
+          "en": "mindfulness …"
+        },
+        {
+          "scid": "sn43.12:8.9",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.10",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.11",
+          "pli": "Idha, bhikkhave, bhikkhu samādhindriyaṃ bhāveti … pe …",
+          "en": "immersion …"
+        },
+        {
+          "scid": "sn43.12:8.12",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.13",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:8.14",
+          "pli": "Idha, bhikkhave, bhikkhu paññindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …. (1.21–25.)",
+          "en": "wisdom, which relies on seclusion, fading away, and cessation, and ripens as letting go. …"
+        },
+        {
+          "scid": "sn43.12:9.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.2",
+          "pli": "Idha, bhikkhave, bhikkhu saddhābalaṃ bhāveti vivekanissitaṃ … pe …",
+          "en": "A mendicant develops the power of faith …"
+        },
+        {
+          "scid": "sn43.12:9.3",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.5",
+          "pli": "Idha, bhikkhave, bhikkhu vīriyabalaṃ bhāveti … pe …",
+          "en": "energy …"
+        },
+        {
+          "scid": "sn43.12:9.6",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.7",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.8",
+          "pli": "Idha, bhikkhave, bhikkhu satibalaṃ bhāveti … pe …",
+          "en": "mindfulness …"
+        },
+        {
+          "scid": "sn43.12:9.9",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.10",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.11",
+          "pli": "Idha, bhikkhave, bhikkhu samādhibalaṃ bhāveti … pe …",
+          "en": "immersion …"
+        },
+        {
+          "scid": "sn43.12:9.12",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.13",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:9.14",
+          "pli": "Idha, bhikkhave, bhikkhu paññābalaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …. (1.26–30.)",
+          "en": "wisdom, which relies on seclusion, fading away, and cessation, and ripens as letting go. …"
+        },
+        {
+          "scid": "sn43.12:10.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:10.2",
+          "pli": "Idha, bhikkhave, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ … pe …",
+          "en": "A mendicant develops the awakening factor of mindfulness …"
+        },
+        {
+          "scid": "sn43.12:10.3",
+          "pli": "ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:10.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:10.5",
+          "pli": "Idha, bhikkhave, bhikkhu dhammavicayasambojjhaṅgaṃ bhāveti … pe …",
+          "en": "investigation of principles …"
+        },
+        {
+          "scid": "sn43.12:10.6",
+          "pli": "vīriyasambojjhaṅgaṃ bhāveti … pe …",
+          "en": "energy …"
+        },
+        {
+          "scid": "sn43.12:10.7",
+          "pli": "pītisambojjhaṅgaṃ bhāveti … pe …",
+          "en": "rapture …"
+        },
+        {
+          "scid": "sn43.12:10.8",
+          "pli": "passaddhisambojjhaṅgaṃ bhāveti … pe …",
+          "en": "tranquility …"
+        },
+        {
+          "scid": "sn43.12:10.9",
+          "pli": "samādhisambojjhaṅgaṃ bhāveti … pe …",
+          "en": "immersion …"
+        },
+        {
+          "scid": "sn43.12:10.10",
+          "pli": "upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …. (1.31–37.)",
+          "en": "equanimity, which relies on seclusion, fading away, and cessation, and ripens as letting go."
+        },
+        {
+          "scid": "sn43.12:11.1",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:11.2",
+          "pli": "Idha, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.",
+          "en": "A mendicant develops right view …"
+        },
+        {
+          "scid": "sn43.12:11.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:11.4",
+          "pli": "katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:11.5",
+          "pli": "Idha, bhikkhave, bhikkhu sammāsaṅkappaṃ bhāveti … pe …",
+          "en": "right thought …"
+        },
+        {
+          "scid": "sn43.12:11.6",
+          "pli": "sammāvācaṃ bhāveti … pe …",
+          "en": "right speech …"
+        },
+        {
+          "scid": "sn43.12:11.7",
+          "pli": "sammākammantaṃ bhāveti … pe …",
+          "en": "right action …"
+        },
+        {
+          "scid": "sn43.12:11.8",
+          "pli": "sammāājīvaṃ bhāveti … pe …",
+          "en": "right livelihood …"
+        },
+        {
+          "scid": "sn43.12:11.9",
+          "pli": "sammāvāyāmaṃ bhāveti … pe …",
+          "en": "right effort …"
+        },
+        {
+          "scid": "sn43.12:11.10",
+          "pli": "sammāsatiṃ bhāveti … pe …",
+          "en": "right mindfulness …"
+        },
+        {
+          "scid": "sn43.12:11.11",
+          "pli": "asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:11.12",
+          "pli": "Taṃ suṇātha.",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:11.13",
+          "pli": "Katamañca, bhikkhave, asaṅkhataṃ … pe …?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:11.14",
+          "pli": "Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": ""
+        },
+        {
+          "scid": "sn43.12:11.15",
+          "pli": "Idha, bhikkhave, bhikkhu sammāsamādhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.",
+          "en": "right immersion, which relies on seclusion, fading away, and cessation, and ripens as letting go."
+        },
+        {
+          "scid": "sn43.12:11.16",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo.",
+          "en": "This is called the path that leads to the unconditioned."
+        },
+        {
+          "scid": "sn43.12:11.17",
+          "pli": "Iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ, desito asaṅkhatagāmimaggo.",
+          "en": "So, mendicants, I’ve taught you the unconditioned and the path that leads to the unconditioned."
+        },
+        {
+          "scid": "sn43.12:11.18",
+          "pli": "Yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā.",
+          "en": "Out of compassion, I’ve done what a teacher should do for the benefit of their disciples."
+        },
+        {
+          "scid": "sn43.12:11.19",
+          "pli": "Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanī”ti. (1.38–45)",
+          "en": "Here are these roots of trees, and here are these empty huts. Practice absorption, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.”"
+        },
+        {
+          "scid": "sn43.12:11.20",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn43.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 43.12",
+    "volpages": "SN iv 362",
+    "uid": "sn43.12",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Asaṅkhata Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Unconditioned",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn43.12_sujato",
+        "segmented": true,
+        "title": "The Unconditioned"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn43.12_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Unconditioned"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

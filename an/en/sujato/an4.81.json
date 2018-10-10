@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an4.81",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.81",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Killing Living Creatures",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lying",
+      "uid": "an4.82"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Persia",
+      "uid": "an4.80"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.81:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.81:0.2",
+          "pli": "9. Macalavagga",
+          "en": "9. Confirmed"
+        },
+        {
+          "scid": "an4.81:0.3",
+          "pli": "81. Pāṇātipātasutta",
+          "en": "81. Killing Living Creatures"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.81:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "“Mendicants, someone with four qualities is cast down to hell."
+        },
+        {
+          "scid": "an4.81:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.81:1.3",
+          "pli": "Pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti—",
+          "en": "They kill living creatures, steal, commit sexual misconduct, and lie."
+        },
+        {
+          "scid": "an4.81:1.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "Someone with these four qualities is cast down to hell."
+        },
+        {
+          "scid": "an4.81:2.1",
+          "pli": "Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge.",
+          "en": "Someone with four qualities is raised up to heaven."
+        },
+        {
+          "scid": "an4.81:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.81:2.3",
+          "pli": "Pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti—",
+          "en": "They don’t kill living creatures, steal, commit sexual misconduct, or lie."
+        },
+        {
+          "scid": "an4.81:2.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge”ti.",
+          "en": "Someone with these four qualities is raised up to heaven.”"
+        },
+        {
+          "scid": "an4.81:2.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.81/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.81",
+    "volpages": "AN ii 83",
+    "uid": "an4.81",
+    "blurb": "Precepts lead to heaven or hell.",
+    "difficulty": null,
+    "original_title": "Pāṇātipāta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Killing Living Creatures",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.81_sujato",
+        "segmented": true,
+        "title": "Killing Living Creatures"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an7.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Observing Not-self",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Extinguishment",
+      "uid": "an7.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Observing Suffering",
+      "uid": "an7.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.18:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.18:0.2",
+          "pli": "2. Anusayavagga",
+          "en": "2. Tendencies"
+        },
+        {
+          "scid": "an7.18:0.3",
+          "pli": "18. Anattānupassīsutta",
+          "en": "18. Observing Not-self"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.18:1.1",
+          "pli": "Sabbesu dhammesu anattānupassī viharati … pe ….",
+          "en": "“First, take a person who meditates observing not-self in all things. They perceive not-self and experience not-self. Constantly, continually, and without stopping, they apply the mind and fathom with wisdom. …”"
+        },
+        {
+          "scid": "an7.18:1.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“First…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.18//AN 7.17b",
+    "volpages": "AN iv 14",
+    "uid": "an7.18",
+    "blurb": "Seven persons who are worthy of gifts and veneration.",
+    "difficulty": null,
+    "original_title": "Anattānupassī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Observing Not-self",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.18_sujato",
+        "segmented": true,
+        "title": "Observing Not-self"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "sutta_uid": "thig6.7",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig6.7",
+    "lang": "en",
+    "is_root": false,
+    "title": "Guttā",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Vijayā",
+      "uid": "thig6.8"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Mahā-Pajāpatī the Gotamid",
+      "uid": "thig6.6"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig6.7:0.1",
+          "en": "Therīgāthā 6.7"
+        },
+        {
+          "scid": "thig6.7:0.2",
+          "en": "Guttā",
+          "pli": "Guttātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig6.7:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig6.7:1.0.2",
+          "en": "Canto 6"
+        },
+        {
+          "scid": "thig6.7:1.0.3",
+          "en": "7. Guttā"
+        },
+        {
+          "scid": "thig6.7:1.0.4",
+          "en": "“Bethink thee, Guttā, of that high reward For which thou wast content to lose thy world, Renouncing hope of children, lure of wealth. To that direct and consecrate the mind, Nor give thyself to sway of truant thoughts."
+        },
+        {
+          "scid": "thig6.7:1.0.5",
+          "en": "Deceivers ever are the thoughts of men, Fain for the haunts where Māra finds his prey; And running ever on from birth to birth, To the dread circle bound—a witless world."
+        },
+        {
+          "scid": "thig6.7:1.0.6",
+          "en": "But thou, O Sister, bound to other goals, Thine is’t to break those Fetters five: the lust Of sense, ill-will, delusion of the Self, The taint of rites and ritual, and doubt,"
+        },
+        {
+          "scid": "thig6.7:1.0.7",
+          "en": "That drag thee backward to the hither shore. ’Tis not for thee to come again to this!"
+        },
+        {
+          "scid": "thig6.7:1.0.8",
+          "en": "Get thee away from life-lust, from conceit, From ignorance, and from distraction’s craze; Sunder the bonds; so only shalt thou come To utter end of Ill. Throw off the Chain"
+        },
+        {
+          "scid": "thig6.7:1.0.9",
+          "en": "Of birth and death—thou knowest what they mean. So, free from craving, in this life on earth, Thou shalt go on thy way calm and serene.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig6.7/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 6.7",
+    "volpages": "Thig 139",
+    "uid": "thig6.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Guttātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Guttā",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig6.7_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Guttā"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig6.7_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Gutta"
+      }
+    ],
+    "parallel_count": 6,
+    "biblio": null,
+    "num": 7
+  }
+}

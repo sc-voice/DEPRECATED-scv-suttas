@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an6.80",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.80",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Greatness",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hell (1st)",
+      "uid": "an6.81"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Achievement",
+      "uid": "an6.79"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.80:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.80:0.2",
+          "pli": "8. Arahattavagga",
+          "en": "8. Perfection"
+        },
+        {
+          "scid": "an6.80:0.3",
+          "pli": "80. Mahantattasutta",
+          "en": "80. Greatness"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.80:1.1",
+          "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva mahantattaṃ vepullattaṃ pāpuṇāti dhammesu.",
+          "en": "“Mendicants, a mendicant with six qualities soon acquires great and abundant good qualities."
+        },
+        {
+          "scid": "an6.80:1.2",
+          "pli": "Katamehi chahi?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.80:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu ālokabahulo ca hoti yogabahulo ca vedabahulo ca asantuṭṭhibahulo ca anikkhittadhuro ca kusalesu dhammesu uttari ca patāreti.",
+          "en": "It’s when a mendicant is full of light, full of practice, full of inspiration, and full of eagerness. They don’t slack off when it comes to developing skillful qualities. They reach further."
+        },
+        {
+          "scid": "an6.80:1.4",
+          "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu nacirasseva mahantattaṃ vepullattaṃ pāpuṇāti dhammesū”ti.",
+          "en": "A mendicant who has these six qualities soon acquires great and abundant good qualities.”"
+        },
+        {
+          "scid": "an6.80:1.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.80/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.80",
+    "volpages": "AN iii 432",
+    "uid": "an6.80",
+    "blurb": "Possessing six qualities a mendicant attains to greatness.",
+    "difficulty": null,
+    "original_title": "Mahantatta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Greatness",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.80_sujato",
+        "segmented": true,
+        "title": "Greatness"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

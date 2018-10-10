@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn48.20",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.20",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Ending of Defilements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Future Lives",
+      "uid": "sn48.21"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Endowed",
+      "uid": "sn48.19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.20:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.20:0.2",
+          "pli": "2. Mudutaravagga",
+          "en": "2. Weaker"
+        },
+        {
+          "scid": "sn48.20:0.3",
+          "pli": "20. Āsavakkhayasutta",
+          "en": "20. The Ending of Defilements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.20:1.1",
+          "pli": "“Pañcimāni, bhikkhave, indriyāni.",
+          "en": "“Mendicants, there are these five faculties."
+        },
+        {
+          "scid": "sn48.20:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn48.20:1.3",
+          "pli": "Saddhindriyaṃ … pe … paññindriyaṃ—",
+          "en": "The faculties of faith, energy, mindfulness, immersion, and wisdom."
+        },
+        {
+          "scid": "sn48.20:1.4",
+          "pli": "imāni kho, bhikkhave, pañcindriyāni.",
+          "en": "These are the five faculties."
+        },
+        {
+          "scid": "sn48.20:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti.",
+          "en": "It’s because of developing and cultivating these five faculties that a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.”"
+        },
+        {
+          "scid": "sn48.20:1.6",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn48.20:1.7",
+          "pli": "Mudutaravaggo dutiyo.",
+          "en": ""
+        },
+        {
+          "scid": "sn48.20:2.1",
+          "pli": "Paṭilābho tayo saṃkhittā,",
+          "en": ""
+        },
+        {
+          "scid": "sn48.20:2.2",
+          "pli": "vitthārā apare tayo;",
+          "en": ""
+        },
+        {
+          "scid": "sn48.20:2.3",
+          "pli": "Paṭipanno ca sampanno,",
+          "en": ""
+        },
+        {
+          "scid": "sn48.20:2.4",
+          "pli": "dasamaṃ āsavakkhayanti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.20/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 48.20",
+    "volpages": "SN v 203",
+    "uid": "sn48.20",
+    "blurb": "The five faculties lead to the ending of defilements in this very life.",
+    "difficulty": null,
+    "original_title": "Āsavakkhaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Ending of Defilements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.20_sujato",
+        "segmented": true,
+        "title": "The Ending of Defilements"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

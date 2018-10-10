@@ -1,0 +1,820 @@
+{
+  "sutta_uid": "mn127",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn127",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Anuruddha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Corruptions",
+      "uid": "mn128"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Bhūmija",
+      "uid": "mn126"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn127:0.1",
+          "pli": "Majjhima Nikāya 127",
+          "en": "Middle Discourses 127"
+        },
+        {
+          "scid": "mn127:0.2",
+          "pli": "Anuruddhasutta",
+          "en": "With Anuruddha"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 127…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn127:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn127:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn127:2.1",
+          "pli": "Atha kho pañcakaṅgo thapati aññataraṃ purisaṃ āmantesi:",
+          "en": "And then the master builder Pañcakaṅga addressed a man:"
+        },
+        {
+          "scid": "mn127:2.2",
+          "pli": "“ehi tvaṃ, ambho purisa, yenāyasmā anuruddho tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato anuruddhassa pāde sirasā vandāhi:",
+          "en": "“Please, mister, go to Venerable Anuruddha, and in my name bow with your head to his feet. Say to him:"
+        },
+        {
+          "scid": "mn127:2.3",
+          "pli": "‘pañcakaṅgo, bhante, thapati āyasmato anuruddhassa pāde sirasā vandatī’ti;",
+          "en": "‘Sir, the master builder Pañcakaṅga bows with his head to your feet.’"
+        },
+        {
+          "scid": "mn127:2.4",
+          "pli": "evañca vadehi:",
+          "en": "And then ask him whether he"
+        },
+        {
+          "scid": "mn127:2.5",
+          "pli": "‘adhivāsetu kira, bhante, āyasmā anuruddho pañcakaṅgassa thapatissa svātanāya attacatuttho bhattaṃ;",
+          "en": "might accept tomorrow’s meal from Pañcakaṅga together with the mendicant Saṅgha."
+        },
+        {
+          "scid": "mn127:2.6",
+          "pli": "yena ca kira, bhante, āyasmā anuruddho pagevataraṃ āgaccheyya;",
+          "en": "And ask whether he might please come earlier than usual,"
+        },
+        {
+          "scid": "mn127:2.7",
+          "pli": "pañcakaṅgo, bhante, thapati bahukicco bahukaraṇīyo rājakaraṇīyenā’”ti.",
+          "en": "for Pañcakaṅga has many duties, and much work to do for the king.”"
+        },
+        {
+          "scid": "mn127:2.8",
+          "pli": "“Evaṃ, bhante”ti kho so puriso pañcakaṅgassa thapatissa paṭissutvā yenāyasmā anuruddho tenupasaṅkami; upasaṅkamitvā āyasmantaṃ anuruddhaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so puriso āyasmantaṃ anuruddhaṃ etadavoca:",
+          "en": "“Yes, sir,” that man replied. He did as Pañcakaṅga asked, and"
+        },
+        {
+          "scid": "mn127:2.9",
+          "pli": "“pañcakaṅgo, bhante, thapati āyasmato anuruddhassa pāde sirasā vandati, evañca vadeti:",
+          "en": ""
+        },
+        {
+          "scid": "mn127:2.10",
+          "pli": "‘adhivāsetu kira, bhante, āyasmā anuruddho pañcakaṅgassa thapatissa svātanāya attacatuttho bhattaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn127:2.11",
+          "pli": "yena ca kira, bhante, āyasmā anuruddho pagevataraṃ āgaccheyya;",
+          "en": ""
+        },
+        {
+          "scid": "mn127:2.12",
+          "pli": "pañcakaṅgo, bhante, thapati bahukicco bahukaraṇīyo rājakaraṇīyenā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:2.13",
+          "pli": "Adhivāsesi kho āyasmā anuruddho tuṇhībhāvena.",
+          "en": "Venerable Anuruddha consented in silence."
+        },
+        {
+          "scid": "mn127:3.1",
+          "pli": "Atha kho āyasmā anuruddho tassā rattiyā accayena pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena pañcakaṅgassa thapatissa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.",
+          "en": "Then when the night had passed, Anuruddha robed up in the morning and, taking his bowl and robe, went to Pañcakaṅga’s home, where he sat on the seat spread out."
+        },
+        {
+          "scid": "mn127:3.2",
+          "pli": "Atha kho pañcakaṅgo thapati āyasmantaṃ anuruddhaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.",
+          "en": "Then Pañcakaṅga served and satisfied Anuruddha with his own hands with a variety of delicious foods."
+        },
+        {
+          "scid": "mn127:3.3",
+          "pli": "Atha kho pañcakaṅgo thapati āyasmantaṃ anuruddhaṃ bhuttāviṃ onītapattapāṇiṃ aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi.",
+          "en": "When Anuruddha had eaten and washed his hands and bowl, Pañcakaṅga took a low seat, sat to one side,"
+        },
+        {
+          "scid": "mn127:3.4",
+          "pli": "Ekamantaṃ nisinno kho pañcakaṅgo thapati āyasmantaṃ anuruddhaṃ etadavoca:",
+          "en": "and said to him:"
+        },
+        {
+          "scid": "mn127:4.1",
+          "pli": "“Idha maṃ, bhante, therā bhikkhū upasaṅkamitvā evamāhaṃsu:",
+          "en": "“Sir, some senior mendicants have come to me and said:"
+        },
+        {
+          "scid": "mn127:4.2",
+          "pli": "‘appamāṇaṃ, gahapati, cetovimuttiṃ bhāvehī’ti.",
+          "en": "‘Householder, develop the limitless release of heart.’"
+        },
+        {
+          "scid": "mn127:4.3",
+          "pli": "Ekacce therā evamāhaṃsu:",
+          "en": "Others have said:"
+        },
+        {
+          "scid": "mn127:4.4",
+          "pli": "‘mahaggataṃ, gahapati, cetovimuttiṃ bhāvehī’ti.",
+          "en": "‘Householder, develop the expansive release of heart.’"
+        },
+        {
+          "scid": "mn127:4.5",
+          "pli": "Yā cāyaṃ, bhante, appamāṇā cetovimutti yā ca mahaggatā cetovimutti—",
+          "en": "Now, the limitless release of the heart and the expansive release of the heart:"
+        },
+        {
+          "scid": "mn127:4.6",
+          "pli": "ime dhammā nānatthā ceva nānābyañjanā ca, udāhu ekatthā byañjanameva nānan”ti?",
+          "en": "do these things differ in both meaning and phrasing? Or do they mean the same thing, and differ only in the phrasing?”"
+        },
+        {
+          "scid": "mn127:5.1",
+          "pli": "“Tena hi, gahapati, taṃyevettha paṭibhātu, apaṇṇakante ito bhavissatī”ti.",
+          "en": "“Well then, householder, let me know what you think about this. Afterwards you’ll get it for sure.”"
+        },
+        {
+          "scid": "mn127:5.2",
+          "pli": "“Mayhaṃ kho, bhante, evaṃ hoti:",
+          "en": "“Sir, this is what I think."
+        },
+        {
+          "scid": "mn127:5.3",
+          "pli": "‘yā cāyaṃ appamāṇā cetovimutti yā ca mahaggatā cetovimutti ime dhammā ekatthā byañjanameva nānan’”ti.",
+          "en": "The limitless release of the heart and the expansive release of the heart mean the same thing, and differ only in the phrasing.”"
+        },
+        {
+          "scid": "mn127:6.1",
+          "pli": "“Yā cāyaṃ, gahapati, appamāṇā cetovimutti yā ca mahaggatā cetovimutti ime dhammā nānatthā ceva nānābyañjanā ca.",
+          "en": "“The limitless release of the heart and the expansive release of the heart differ in both meaning and phrasing."
+        },
+        {
+          "scid": "mn127:6.2",
+          "pli": "Tadamināpetaṃ, gahapati, pariyāyena veditabbaṃ yathā ime dhammā nānatthā ceva nānābyañjanā ca.",
+          "en": "This is a way to understand how these things differ in both meaning and phrasing."
+        },
+        {
+          "scid": "mn127:7.1",
+          "pli": "Katamā ca, gahapati, appamāṇā cetovimutti?",
+          "en": "And what is the limitless release of the heart?"
+        },
+        {
+          "scid": "mn127:7.2",
+          "pli": "Idha, gahapati, bhikkhu mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ tathā tatiyaṃ tathā catutthaṃ; iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati.",
+          "en": "It’s when a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world—abundant, expansive, limitless, free of enmity and ill will."
+        },
+        {
+          "scid": "mn127:7.3",
+          "pli": "Karuṇāsahagatena cetasā …",
+          "en": "They meditate spreading a heart full of compassion …"
+        },
+        {
+          "scid": "mn127:7.4",
+          "pli": "muditāsahagatena cetasā …",
+          "en": "They meditate spreading a heart full of rejoicing …"
+        },
+        {
+          "scid": "mn127:7.5",
+          "pli": "upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ tathā tatiyaṃ tathā catutthaṃ; iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati.",
+          "en": "They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world—abundant, expansive, limitless, free of enmity and ill will."
+        },
+        {
+          "scid": "mn127:7.6",
+          "pli": "Ayaṃ vuccati, gahapati, appamāṇā cetovimutti.",
+          "en": "This is called the limitless release of the heart."
+        },
+        {
+          "scid": "mn127:8.1",
+          "pli": "Katamā ca, gahapati, mahaggatā cetovimutti?",
+          "en": "And what is the expansive release of the heart?"
+        },
+        {
+          "scid": "mn127:8.2",
+          "pli": "Idha, gahapati, bhikkhu yāvatā ekaṃ rukkhamūlaṃ mahaggatanti pharitvā adhimuccitvā viharati.",
+          "en": "It’s when a mendicant meditates resolved on pervading the extent of a single tree root as expansive."
+        },
+        {
+          "scid": "mn127:8.3",
+          "pli": "Ayaṃ vuccati, gahapati, mahaggatā cetovimutti.",
+          "en": "This is called the expansive release of the heart."
+        },
+        {
+          "scid": "mn127:8.4",
+          "pli": "Idha pana, gahapati, bhikkhu yāvatā dve vā tīṇi vā rukkhamūlāni mahaggatanti pharitvā adhimuccitvā viharati.",
+          "en": "Also, a mendicant meditates resolved on pervading the extent of a two or three tree roots …"
+        },
+        {
+          "scid": "mn127:8.5",
+          "pli": "Ayampi vuccati, gahapati, mahaggatā cetovimutti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:8.6",
+          "pli": "Idha pana, gahapati, bhikkhu yāvatā ekaṃ gāmakkhettaṃ mahaggatanti pharitvā adhimuccitvā viharati.",
+          "en": "a single village district …"
+        },
+        {
+          "scid": "mn127:8.7",
+          "pli": "Ayampi vuccati, gahapati, mahaggatā cetovimutti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:8.8",
+          "pli": "Idha pana, gahapati, bhikkhu yāvatā dve vā tīṇi vā gāmakkhettāni mahaggatanti pharitvā adhimuccitvā viharati.",
+          "en": "two or three village districts …"
+        },
+        {
+          "scid": "mn127:8.9",
+          "pli": "Ayampi vuccati, gahapati, mahaggatā cetovimutti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:8.10",
+          "pli": "Idha pana, gahapati, bhikkhu yāvatā ekaṃ mahārajjaṃ mahaggatanti pharitvā adhimuccitvā viharati.",
+          "en": "a single kingdom …"
+        },
+        {
+          "scid": "mn127:8.11",
+          "pli": "Ayampi vuccati, gahapati, mahaggatā cetovimutti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:8.12",
+          "pli": "Idha pana, gahapati, bhikkhu yāvatā dve vā tīṇi vā mahārajjāni mahaggatanti pharitvā adhimuccitvā viharati.",
+          "en": "two or three kingdoms …"
+        },
+        {
+          "scid": "mn127:8.13",
+          "pli": "Ayampi vuccati, gahapati, mahaggatā cetovimutti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:8.14",
+          "pli": "Idha pana, gahapati, bhikkhu yāvatā samuddapariyantaṃ pathaviṃ mahaggatanti pharitvā adhimuccitvā viharati.",
+          "en": "this land surrounded by ocean."
+        },
+        {
+          "scid": "mn127:8.15",
+          "pli": "Ayampi vuccati, gahapati, mahaggatā cetovimutti.",
+          "en": "This too is called the expansive release of the heart."
+        },
+        {
+          "scid": "mn127:8.16",
+          "pli": "Iminā kho etaṃ, gahapati, pariyāyena veditabbaṃ yathā ime dhammā nānatthā ceva nānābyañjanā ca.",
+          "en": "This is a way to understand how these things differ in both meaning and phrasing."
+        },
+        {
+          "scid": "mn127:9.1",
+          "pli": "Catasso kho imā gahapati, bhavūpapattiyo.",
+          "en": "Householder, there are these four kinds of rebirth in a future life."
+        },
+        {
+          "scid": "mn127:9.2",
+          "pli": "Katamā catasso?",
+          "en": "What four?"
+        },
+        {
+          "scid": "mn127:9.3",
+          "pli": "Idha, gahapati, ekacco ‘parittābhā’ti pharitvā adhimuccitvā viharati.",
+          "en": "Take someone who meditates resolved on pervading ‘limited radiance’."
+        },
+        {
+          "scid": "mn127:9.4",
+          "pli": "So kāyassa bhedā paraṃ maraṇā parittābhānaṃ devānaṃ sahabyataṃ upapajjati.",
+          "en": "When their body breaks up, after death, they’re reborn in the company of the gods of limited radiance."
+        },
+        {
+          "scid": "mn127:9.5",
+          "pli": "Idha pana, gahapati, ekacco ‘appamāṇābhā’ti pharitvā adhimuccitvā viharati.",
+          "en": "Next, take someone who meditates resolved on pervading ‘limitless radiance’."
+        },
+        {
+          "scid": "mn127:9.6",
+          "pli": "So kāyassa bhedā paraṃ maraṇā appamāṇābhānaṃ devānaṃ sahabyataṃ upapajjati.",
+          "en": "When their body breaks up, after death, they’re reborn in the company of the gods of limitless radiance."
+        },
+        {
+          "scid": "mn127:9.7",
+          "pli": "Idha pana, gahapati, ekacco ‘saṅkiliṭṭhābhā’ti pharitvā adhimuccitvā viharati.",
+          "en": "Next, take someone who meditates resolved on pervading ‘corrupted radiance’."
+        },
+        {
+          "scid": "mn127:9.8",
+          "pli": "So kāyassa bhedā paraṃ maraṇā saṅkiliṭṭhābhānaṃ devānaṃ sahabyataṃ upapajjati.",
+          "en": "When their body breaks up, after death, they’re reborn in the company of the gods of corrupted radiance."
+        },
+        {
+          "scid": "mn127:9.9",
+          "pli": "Idha pana, gahapati, ekacco ‘parisuddhābhā’ti pharitvā adhimuccitvā viharati.",
+          "en": "Next, take someone who meditates resolved on pervading ‘pure radiance’."
+        },
+        {
+          "scid": "mn127:9.10",
+          "pli": "So kāyassa bhedā paraṃ maraṇā parisuddhābhānaṃ devānaṃ sahabyataṃ upapajjati.",
+          "en": "When their body breaks up, after death, they’re reborn in the company of the gods of pure radiance."
+        },
+        {
+          "scid": "mn127:9.11",
+          "pli": "Imā kho, gahapati, catasso bhavūpapattiyo.",
+          "en": "These are the four kinds of rebirth in a future life."
+        },
+        {
+          "scid": "mn127:10.1",
+          "pli": "Hoti kho so, gahapati, samayo, yā tā devatā ekajjhaṃ sannipatanti, tāsaṃ ekajjhaṃ sannipatitānaṃ vaṇṇanānattañhi kho paññāyati no ca ābhānānattaṃ.",
+          "en": "There comes a time, householder, when the deities gather together as one. When they do so, a difference in their color is evident, but not in their radiance."
+        },
+        {
+          "scid": "mn127:10.2",
+          "pli": "Seyyathāpi, gahapati, puriso sambahulāni telappadīpāni ekaṃ gharaṃ paveseyya.",
+          "en": "It’s like when a person brings several oil lamps into one house."
+        },
+        {
+          "scid": "mn127:10.3",
+          "pli": "Tesaṃ ekaṃ gharaṃ pavesitānaṃ accinānattañhi kho paññāyetha, no ca ābhānānattaṃ;",
+          "en": "You can detect a difference in their flames, but not in their radiance."
+        },
+        {
+          "scid": "mn127:10.4",
+          "pli": "evameva kho, gahapati, hoti kho so samayo, yā tā devatā ekajjhaṃ sannipatanti tāsaṃ ekajjhaṃ sannipatitānaṃ vaṇṇanānattañhi kho paññāyati, no ca ābhānānattaṃ.",
+          "en": "In the same way, when the deities gather together as one, a difference in their color is evident, but not in their radiance."
+        },
+        {
+          "scid": "mn127:11.1",
+          "pli": "Hoti kho so, gahapati, samayo, yā tā devatā tato vipakkamanti, tāsaṃ tato vipakkamantīnaṃ vaṇṇanānattañceva paññāyati ābhānānattañca.",
+          "en": "There comes a time when those deities go their separate ways. When they do so, a difference both in their color and also in their radiance is evident."
+        },
+        {
+          "scid": "mn127:11.2",
+          "pli": "Seyyathāpi, gahapati, puriso tāni sambahulāni telappadīpāni tamhā gharā nīhareyya.",
+          "en": "It’s like when a person takes those several oil lamps out of that house."
+        },
+        {
+          "scid": "mn127:11.3",
+          "pli": "Tesaṃ tato nīhatānaṃ accinānattañceva paññāyetha ābhānānattañca;",
+          "en": "You can detect a difference both in their flames and also in their radiance."
+        },
+        {
+          "scid": "mn127:11.4",
+          "pli": "evameva kho, gahapati, hoti kho so samayo, yā tā devatā tato vipakkamanti, tāsaṃ tato vipakkamantīnaṃ vaṇṇanānattañceva paññāyati ābhānānattañca.",
+          "en": "In the same way, when the deities go their separate ways, a difference both in their color and also in their radiance is evident."
+        },
+        {
+          "scid": "mn127:12.1",
+          "pli": "Na kho, gahapati, tāsaṃ devatānaṃ evaṃ hoti:",
+          "en": "It’s not that those deities think:"
+        },
+        {
+          "scid": "mn127:12.2",
+          "pli": "‘idaṃ amhākaṃ niccanti vā dhuvanti vā sassatanti vā’, api ca yattha yattheva tā devatā abhinivisanti tattha tattheva tā devatā abhiramanti.",
+          "en": "‘What we have is permanent, lasting, and eternal.’ Rather, wherever those deities cling, that’s where they take pleasure."
+        },
+        {
+          "scid": "mn127:12.3",
+          "pli": "Seyyathāpi, gahapati, makkhikānaṃ kājena vā piṭakena vā harīyamānānaṃ na evaṃ hoti:",
+          "en": "It’s like when flies are being carried along on a carrying-pole or basket. It’s not that they think:"
+        },
+        {
+          "scid": "mn127:12.4",
+          "pli": "‘idaṃ amhākaṃ niccanti vā dhuvanti vā sassatanti vā’, api ca yattha yattheva tā makkhikā abhinivisanti tattha tattheva tā makkhikā abhiramanti;",
+          "en": "‘What we have is permanent, lasting, and eternal.’ Rather, wherever those flies cling, that’s where they take pleasure."
+        },
+        {
+          "scid": "mn127:12.5",
+          "pli": "evameva kho, gahapati, tāsaṃ devatānaṃ na evaṃ hoti:",
+          "en": "In the same way, it’s not that those deities think:"
+        },
+        {
+          "scid": "mn127:12.6",
+          "pli": "‘idaṃ amhākaṃ niccanti vā dhuvanti vā sassatanti vā’, api ca yattha yattheva tā devatā abhinivisanti tattha tattheva tā devatā abhiramantī”ti.",
+          "en": "‘What we have is permanent, lasting, and eternal.’ Rather, wherever those deities cling, that’s where they take pleasure.”"
+        },
+        {
+          "scid": "mn127:13.1",
+          "pli": "Evaṃ vutte, āyasmā sabhiyo kaccāno āyasmantaṃ anuruddhaṃ etadavoca:",
+          "en": "When he had spoken, Venerable Abhiya Kaccāna said to Venerable Anuruddha:"
+        },
+        {
+          "scid": "mn127:13.2",
+          "pli": "“sādhu, bhante anuruddha.",
+          "en": "“Good, Venerable Anuruddha!"
+        },
+        {
+          "scid": "mn127:13.3",
+          "pli": "Atthi ca me ettha uttariṃ paṭipucchitabbaṃ.",
+          "en": "I have a further question about this."
+        },
+        {
+          "scid": "mn127:13.4",
+          "pli": "Yā tā, bhante, devatā ābhā sabbā tā parittābhā udāhu santettha ekaccā devatā appamāṇābhā”ti?",
+          "en": "Do all the radiant deities have limited radiance, or do some there have limitless radiance?”"
+        },
+        {
+          "scid": "mn127:13.5",
+          "pli": "“Tadaṅgena kho, āvuso kaccāna, santettha ekaccā devatā parittābhā, santi panettha ekaccā devatā appamāṇābhā”ti.",
+          "en": "“In that respect, Reverend Kaccāna, some deities there have limited radiance, while some have limitless radiance.”"
+        },
+        {
+          "scid": "mn127:14.1",
+          "pli": "“Ko nu kho, bhante anuruddha, hetu ko paccayo yena tāsaṃ devatānaṃ ekaṃ devanikāyaṃ upapannānaṃ santettha ekaccā devatā parittābhā, santi panettha ekaccā devatā appamāṇābhā”ti?",
+          "en": "“What is the cause, Venerable Anuruddha, what is the reason why, when those deities have been reborn in a single order of gods, some deities there have limited radiance, while some have limitless radiance?”"
+        },
+        {
+          "scid": "mn127:14.2",
+          "pli": "“Tena hāvuso kaccāna, taṃyevettha paṭipucchissāmi. Yathā te khameyya tathā naṃ byākareyyāsi.",
+          "en": "“Well then, Reverend Kaccāna, I’ll ask you about this in return, and you can answer as you like."
+        },
+        {
+          "scid": "mn127:14.3",
+          "pli": "Taṃ kiṃ maññasi, āvuso kaccāna, ",
+          "en": "What do you think, Reverend Kaccāna? "
+        },
+        {
+          "scid": "mn127:14.4",
+          "pli": "yvāyaṃ bhikkhu yāvatā ekaṃ rukkhamūlaṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati, yo cāyaṃ bhikkhu yāvatā dve vā tīṇi vā rukkhamūlāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": "Which of these two kinds of mental development is more expansive: when a mendicant meditates resolved on pervading as expansive the extent of a single tree root, or two or three tree roots?”"
+        },
+        {
+          "scid": "mn127:14.5",
+          "pli": "imāsaṃ ubhinnaṃ cittabhāvanānaṃ katamā cittabhāvanā mahaggatatarā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.6",
+          "pli": "“Yvāyaṃ, bhante, bhikkhu yāvatā dve vā tīṇi vā rukkhamūlāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": "“When a mendicant meditates on two or three tree roots.”"
+        },
+        {
+          "scid": "mn127:14.7",
+          "pli": "ayaṃ imāsaṃ ubhinnaṃ cittabhāvanānaṃ mahaggatatarā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.8",
+          "pli": "“Taṃ kiṃ maññasi, āvuso kaccāna, ",
+          "en": "“What do you think, Reverend Kaccāna? "
+        },
+        {
+          "scid": "mn127:14.9",
+          "pli": "yvāyaṃ bhikkhu yāvatā dve vā tīṇi vā rukkhamūlāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati, yo cāyaṃ bhikkhu yāvatā ekaṃ gāmakkhettaṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": "Which of these two kinds of mental development is more expansive: when a mendicant meditates resolved on pervading as expansive the extent of two or three tree roots, or a single village district …"
+        },
+        {
+          "scid": "mn127:14.10",
+          "pli": "imāsaṃ ubhinnaṃ cittabhāvanānaṃ katamā cittabhāvanā mahaggatatarā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.11",
+          "pli": "“Yvāyaṃ, bhante, bhikkhu yāvatā ekaṃ gāmakkhettaṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.12",
+          "pli": "ayaṃ imāsaṃ ubhinnaṃ cittabhāvanānaṃ mahaggatatarā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.13",
+          "pli": "“Taṃ kiṃ maññasi, āvuso kaccāna, yvāyaṃ bhikkhu yāvatā ekaṃ gāmakkhettaṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati, yo cāyaṃ bhikkhu yāvatā dve vā tīṇi vā gāmakkhettāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": "two or three village districts …"
+        },
+        {
+          "scid": "mn127:14.14",
+          "pli": "imāsaṃ ubhinnaṃ cittabhāvanānaṃ katamā cittabhāvanā mahaggatatarā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.15",
+          "pli": "“Yvāyaṃ, bhante, bhikkhu yāvatā dve vā tīṇi vā gāmakkhettāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.16",
+          "pli": "ayaṃ imāsaṃ ubhinnaṃ cittabhāvanānaṃ mahaggatatarā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.17",
+          "pli": "“Taṃ kiṃ maññasi, āvuso kaccāna, yvāyaṃ bhikkhu yāvatā dve vā tīṇi vā gāmakkhettāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati, yo cāyaṃ bhikkhu yāvatā ekaṃ mahārajjaṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": "a single kingdom …"
+        },
+        {
+          "scid": "mn127:14.18",
+          "pli": "imāsaṃ ubhinnaṃ cittabhāvanānaṃ katamā cittabhāvanā mahaggatatarā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.19",
+          "pli": "“Yvāyaṃ, bhante, bhikkhu yāvatā ekaṃ mahārajjaṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.20",
+          "pli": "ayaṃ imāsaṃ ubhinnaṃ cittabhāvanānaṃ mahaggatatarā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.21",
+          "pli": "“Taṃ kiṃ maññasi, āvuso kaccāna, yvāyaṃ bhikkhu yāvatā ekaṃ mahārajjaṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati, yo cāyaṃ bhikkhu yāvatā dve vā tīṇi vā mahārajjāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": "two or three kingdoms …"
+        },
+        {
+          "scid": "mn127:14.22",
+          "pli": "imāsaṃ ubhinnaṃ cittabhāvanānaṃ katamā cittabhāvanā mahaggatatarā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.23",
+          "pli": "“Yvāyaṃ, bhante, bhikkhu yāvatā dve vā tīṇi vā mahārajjāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.24",
+          "pli": "ayaṃ imāsaṃ ubhinnaṃ cittabhāvanānaṃ mahaggatatarā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.25",
+          "pli": "“Taṃ kiṃ maññasi, āvuso kaccāna, yvāyaṃ bhikkhu yāvatā dve vā tīṇi vā mahārajjāni ‘mahaggatan’ti pharitvā adhimuccitvā viharati, yo cāyaṃ bhikkhu yāvatā samuddapariyantaṃ pathaviṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": "this land surrounded by ocean?”"
+        },
+        {
+          "scid": "mn127:14.26",
+          "pli": "imāsaṃ ubhinnaṃ cittabhāvanānaṃ katamā cittabhāvanā mahaggatatarā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.27",
+          "pli": "“Yvāyaṃ, bhante, bhikkhu yāvatā samuddapariyantaṃ pathaviṃ ‘mahaggatan’ti pharitvā adhimuccitvā viharati—",
+          "en": "“When a mendicant meditates on this land surrounded by ocean.”"
+        },
+        {
+          "scid": "mn127:14.28",
+          "pli": "ayaṃ imāsaṃ ubhinnaṃ cittabhāvanānaṃ mahaggatatarā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn127:14.29",
+          "pli": "“Ayaṃ kho, āvuso kaccāna, hetu ayaṃ paccayo, yena tāsaṃ devatānaṃ ekaṃ devanikāyaṃ upapannānaṃ santettha ekaccā devatā parittābhā, santi panettha ekaccā devatā appamāṇābhā”ti.",
+          "en": "“This is the cause, Reverend Kaccāna, this is the reason why, when those deities have been reborn in a single order of gods, some deities there have limited radiance, while some have limitless radiance.”"
+        },
+        {
+          "scid": "mn127:15.1",
+          "pli": "“Sādhu, bhante anuruddha.",
+          "en": "“Good, Venerable Anuruddha!"
+        },
+        {
+          "scid": "mn127:15.2",
+          "pli": "Atthi ca me ettha uttariṃ paṭipucchitabbaṃ.",
+          "en": "I have a further question about this."
+        },
+        {
+          "scid": "mn127:15.3",
+          "pli": "Yāvatā, bhante, devatā ābhā sabbā tā saṃkiliṭṭhābhā udāhu santettha ekaccā devatā parisuddhābhā”ti?",
+          "en": "Do all the radiant deities have corrupted radiance, or do some there have pure radiance?”"
+        },
+        {
+          "scid": "mn127:15.4",
+          "pli": "“Tadaṅgena kho, āvuso kaccāna, santettha ekaccā devatā saṃkiliṭṭhābhā, santi panettha ekaccā devatā parisuddhābhā”ti.",
+          "en": "“In that respect, Reverend Kaccāna, some deities there have corrupted radiance, while some have pure radiance.”"
+        },
+        {
+          "scid": "mn127:16.1",
+          "pli": "“Ko nu kho, bhante, anuruddha, hetu ko paccayo, yena tāsaṃ devatānaṃ ekaṃ devanikāyaṃ upapannānaṃ santettha ekaccā devatā saṃkiliṭṭhābhā, santi panettha ekaccā devatā parisuddhābhā”ti?",
+          "en": "“What is the cause, Venerable Anuruddha, what is the reason why, when those deities have been reborn in a single order of gods, some deities there have corrupted radiance, while some have pure radiance?”"
+        },
+        {
+          "scid": "mn127:16.2",
+          "pli": "“Tena hāvuso kaccāna, upamaṃ te karissāmi.",
+          "en": "“Well then, Reverend Kaccāna, I shall give you a simile."
+        },
+        {
+          "scid": "mn127:16.3",
+          "pli": "Upamāyapidhekacce viññū purisā bhāsitassa atthaṃ ājānanti.",
+          "en": "For by means of a simile some sensible people understand the meaning of what is said."
+        },
+        {
+          "scid": "mn127:16.4",
+          "pli": "Seyyathāpi, āvuso kaccāna, telappadīpassa jhāyato telampi aparisuddhaṃ vaṭṭipi aparisuddhā.",
+          "en": "Suppose an oil lamp was burning with impure oil and impure wick."
+        },
+        {
+          "scid": "mn127:16.5",
+          "pli": "So telassapi aparisuddhattā vaṭṭiyāpi aparisuddhattā andhandhaṃ viya jhāyati;",
+          "en": "Because of the impurity of the oil and the wick it burns dimly, as it were."
+        },
+        {
+          "scid": "mn127:16.6",
+          "pli": "evameva kho, āvuso kaccāna, idhekacco bhikkhu ‘saṃkiliṭṭhābhā’ti pharitvā adhimuccitvā viharati, ",
+          "en": "In the same way, take some mendicant who meditates resolved on pervading ‘corrupted radiance’. "
+        },
+        {
+          "scid": "mn127:16.7",
+          "pli": "tassa kāyaduṭṭhullampi na suppaṭippassaddhaṃ hoti, thinamiddhampi na susamūhataṃ hoti, uddhaccakukkuccampi na suppaṭivinītaṃ hoti.",
+          "en": "Their physical discomfort is not completely settled, their dullness and drowsiness is not completely eradicated, and their restlessness and remorse is not completely eliminated."
+        },
+        {
+          "scid": "mn127:16.8",
+          "pli": "So kāyaduṭṭhullassapi na suppaṭippassaddhattā thinamiddhassapi na susamūhatattā uddhaccakukkuccassapi na suppaṭivinītattā andhandhaṃ viya jhāyati.",
+          "en": "Because of this they practice absorption dimly, as it were."
+        },
+        {
+          "scid": "mn127:16.9",
+          "pli": "So kāyassa bhedā paraṃ maraṇā saṃkiliṭṭhābhānaṃ devānaṃ sahabyataṃ upapajjati.",
+          "en": "When their body breaks up, after death, they’re reborn in the company of the gods of corrupted radiance."
+        },
+        {
+          "scid": "mn127:16.10",
+          "pli": "Seyyathāpi, āvuso kaccāna, telappadīpassa jhāyato telampi parisuddhaṃ vaṭṭipi parisuddhā.",
+          "en": "Suppose an oil lamp was burning with pure oil and pure wick."
+        },
+        {
+          "scid": "mn127:16.11",
+          "pli": "So telassapi parisuddhattā vaṭṭiyāpi parisuddhattā na andhandhaṃ viya jhāyati;",
+          "en": "Because of the purity of the oil and the wick it doesn’t burn dimly, as it were."
+        },
+        {
+          "scid": "mn127:16.12",
+          "pli": "evameva kho, āvuso kaccāna, idhekacco bhikkhu ‘parisuddhābhā’ti pharitvā adhimuccitvā viharati.",
+          "en": "In the same way, take some mendicant who meditates resolved on pervading ‘pure radiance’."
+        },
+        {
+          "scid": "mn127:16.13",
+          "pli": "Tassa kāyaduṭṭhullampi suppaṭippassaddhaṃ hoti, thinamiddhampi susamūhataṃ hoti, uddhaccakukkuccampi suppaṭivinītaṃ hoti.",
+          "en": "Their physical discomfort is completely settled, their dullness and drowsiness is completely eradicated, and their restlessness and remorse is completely eliminated."
+        },
+        {
+          "scid": "mn127:16.14",
+          "pli": "So kāyaduṭṭhullassapi suppaṭippassaddhattā thinamiddhassapi susamūhatattā uddhaccakukkuccassapi suppaṭivinītattā na andhandhaṃ viya jhāyati.",
+          "en": "Because of this they don’t practice absorption dimly, as it were."
+        },
+        {
+          "scid": "mn127:16.15",
+          "pli": "So kāyassa bhedā paraṃ maraṇā parisuddhābhānaṃ devānaṃ sahabyataṃ upapajjati.",
+          "en": "When their body breaks up, after death, they’re reborn in the company of the gods of pure radiance."
+        },
+        {
+          "scid": "mn127:16.16",
+          "pli": "Ayaṃ kho, āvuso kaccāna, hetu ayaṃ paccayo yena tāsaṃ devatānaṃ ekaṃ devanikāyaṃ upapannānaṃ santettha ekaccā devatā saṃkiliṭṭhābhā, santi panettha ekaccā devatā parisuddhābhā”ti.",
+          "en": "“This is the cause, Reverend Kaccāna, this is the reason why, when those deities have been reborn in a single order of gods, some deities there have corrupted radiance, while some have pure radiance.”"
+        },
+        {
+          "scid": "mn127:17.1",
+          "pli": "Evaṃ vutte, āyasmā sabhiyo kaccāno āyasmantaṃ anuruddhaṃ etadavoca:",
+          "en": "When he had spoken, Venerable Abhiya Kaccāna said to Venerable Anuruddha:"
+        },
+        {
+          "scid": "mn127:17.2",
+          "pli": "“sādhu, bhante anuruddha.",
+          "en": "“Good, Venerable Anuruddha!"
+        },
+        {
+          "scid": "mn127:17.3",
+          "pli": "Na, bhante, āyasmā anuruddho evamāha:",
+          "en": "Venerable Anuruddha, you don’t say:"
+        },
+        {
+          "scid": "mn127:17.4",
+          "pli": "‘evaṃ me sutan’ti vā ‘evaṃ arahati bhavitun’ti vā;",
+          "en": "‘So I have heard’ or ‘It ought to be like this.’"
+        },
+        {
+          "scid": "mn127:17.5",
+          "pli": "atha ca pana, bhante, āyasmā anuruddho ‘evampi tā devatā, itipi tā devatā’tveva bhāsati.",
+          "en": "Rather, you say: ‘These deities are like this, those deities are like that.’"
+        },
+        {
+          "scid": "mn127:17.6",
+          "pli": "Tassa mayhaṃ, bhante, evaṃ hoti:",
+          "en": "Sir, it occurs to me:"
+        },
+        {
+          "scid": "mn127:17.7",
+          "pli": "‘addhā āyasmatā anuruddhena tāhi devatāhi saddhiṃ sannivutthapubbañceva sallapitapubbañca sākacchā ca samāpajjitapubbā’”ti.",
+          "en": "‘Clearly, Venerable Anuruddha has previously lived together with those deities, conversed, and engaged in discussion.’”"
+        },
+        {
+          "scid": "mn127:17.8",
+          "pli": "“Addhā kho ayaṃ, āvuso kaccāna, āsajja upanīya vācā bhāsitā, ",
+          "en": "“Your words are clearly invasive and intrusive, Reverend Kaccāna. "
+        },
+        {
+          "scid": "mn127:17.9",
+          "pli": "api ca te ahaṃ byākarissāmi:",
+          "en": "Nevertheless, I will answer you."
+        },
+        {
+          "scid": "mn127:17.10",
+          "pli": "‘dīgharattaṃ kho me, āvuso kaccāna, tāhi devatāhi saddhiṃ sannivutthapubbañceva sallapitapubbañca sākacchā ca samāpajjitapubbā’”ti.",
+          "en": "For a long time I have previously lived together with those deities, conversed, and engaged in discussion.”"
+        },
+        {
+          "scid": "mn127:18.1",
+          "pli": "Evaṃ vutte, āyasmā sabhiyo kaccāno pañcakaṅgaṃ thapatiṃ etadavoca:",
+          "en": "When he had spoken, Venerable Abhiya Kaccāna said to Pañcakaṅga the master builder:"
+        },
+        {
+          "scid": "mn127:18.2",
+          "pli": "“lābhā te, gahapati, suladdhaṃ te, gahapati, ",
+          "en": "“You’re fortunate, householder, so very fortunate, "
+        },
+        {
+          "scid": "mn127:18.3",
+          "pli": "yaṃ tvañceva taṃ kaṅkhādhammaṃ pahāsi, mayañcimaṃ dhammapariyāyaṃ alatthamhā savanāyā”ti.",
+          "en": "to have given up your state of uncertainty, and to have got the chance to listen to this exposition of the teaching.”"
+        },
+        {
+          "scid": "mn127:18.4",
+          "pli": "Anuruddhasuttaṃ niṭṭhitaṃ sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn127/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 127",
+    "volpages": "MN iii 144",
+    "uid": "mn127",
+    "blurb": "A lay person becomes confused when encouraged to develop the “limitless” and “expansive” liberations, and asks Venerable Anuruddha to explain whether they are the same or different.",
+    "difficulty": 3,
+    "original_title": "Anuruddha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Anuruddha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn127_sujato",
+        "segmented": true,
+        "title": "With Anuruddha"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

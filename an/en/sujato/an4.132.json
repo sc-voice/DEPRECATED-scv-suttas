@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an4.132",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.132",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Eloquence",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "One Who Understands Immediately",
+      "uid": "an4.133"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fetters",
+      "uid": "an4.131"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.132:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.132:0.2",
+          "pli": "14. Puggalavagga",
+          "en": "14. Persons"
+        },
+        {
+          "scid": "an4.132:0.3",
+          "pli": "132. Paṭibhānasutta",
+          "en": "132. Eloquence"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.132:1.1",
+          "pli": "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“Mendicants, these four people are found in the world."
+        },
+        {
+          "scid": "an4.132:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.132:1.3",
+          "pli": "Yuttappaṭibhāno, no muttappaṭibhāno;",
+          "en": "One who speaks on topic, but not fluently."
+        },
+        {
+          "scid": "an4.132:1.4",
+          "pli": "muttappaṭibhāno, no yuttappaṭibhāno;",
+          "en": "One who speaks fluently, but not on topic."
+        },
+        {
+          "scid": "an4.132:1.5",
+          "pli": "yuttappaṭibhāno ca muttappaṭibhāno ca;",
+          "en": "One who speaks on topic and fluently."
+        },
+        {
+          "scid": "an4.132:1.6",
+          "pli": "neva yuttappaṭibhāno na muttappaṭibhāno—",
+          "en": "One who speaks neither on topic nor fluently."
+        },
+        {
+          "scid": "an4.132:1.7",
+          "pli": "ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "These are the four people found in the world.”"
+        },
+        {
+          "scid": "an4.132:1.8",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.132/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.132",
+    "volpages": "AN ii 135",
+    "uid": "an4.132",
+    "blurb": "Speaking on topic and fluently.",
+    "difficulty": null,
+    "original_title": "Paṭibhāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Eloquence",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.132_sujato",
+        "segmented": true,
+        "title": "Eloquence"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

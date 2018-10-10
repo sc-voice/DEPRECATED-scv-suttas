@@ -1,0 +1,305 @@
+{
+  "sutta_uid": "an3.20",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.20",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Shopkeeper (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Samiddha",
+      "uid": "an3.21"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Shopkeeper (1st)",
+      "uid": "an3.19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.20:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.20:0.2",
+          "pli": "2. Rathakāravagga",
+          "en": "2. The Chariotmaker"
+        },
+        {
+          "scid": "an3.20:0.3",
+          "pli": "20. Dutiyapāpaṇikasutta",
+          "en": "20. A Shopkeeper (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.20:1.1",
+          "pli": "“Tīhi, bhikkhave, aṅgehi samannāgato pāpaṇiko nacirasseva mahattaṃ vepullattaṃ pāpuṇāti bhogesu.",
+          "en": "“Mendicants, a shopkeeper who has three factors soon acquires great and abundant wealth."
+        },
+        {
+          "scid": "an3.20:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.20:1.3",
+          "pli": "Idha, bhikkhave, pāpaṇiko cakkhumā ca hoti vidhuro ca nissayasampanno ca.",
+          "en": "It’s when a shopkeeper sees clearly, is responsible, and has supporters."
+        },
+        {
+          "scid": "an3.20:1.4",
+          "pli": "Kathañca, bhikkhave, pāpaṇiko cakkhumā hoti?",
+          "en": "And how does a shopkeeper see clearly?"
+        },
+        {
+          "scid": "an3.20:1.5",
+          "pli": "Idha, bhikkhave, pāpaṇiko paṇiyaṃ jānāti:",
+          "en": "It’s when a shopkeeper knows of a product:"
+        },
+        {
+          "scid": "an3.20:1.6",
+          "pli": "‘idaṃ paṇiyaṃ evaṃ kītaṃ, evaṃ vikkayamānaṃ, ettakaṃ mūlaṃ bhavissati, ettako udayo’ti.",
+          "en": "‘This product is bought at this price and is selling at this price. With this much investment, it’ll bring this much profit.’"
+        },
+        {
+          "scid": "an3.20:1.7",
+          "pli": "Evaṃ kho, bhikkhave, pāpaṇiko cakkhumā hoti.",
+          "en": "That’s how a shopkeeper sees clearly."
+        },
+        {
+          "scid": "an3.20:2.1",
+          "pli": "Kathañca, bhikkhave, pāpaṇiko vidhuro hoti?",
+          "en": "And how is a shopkeeper responsible?"
+        },
+        {
+          "scid": "an3.20:2.2",
+          "pli": "Idha, bhikkhave, pāpaṇiko kusalo hoti paṇiyaṃ ketuñca vikketuñca.",
+          "en": "It’s when a shopkeeper is an expert in buying and selling products."
+        },
+        {
+          "scid": "an3.20:2.3",
+          "pli": "Evaṃ kho, bhikkhave, pāpaṇiko vidhuro hoti.",
+          "en": "That’s how a shopkeeper is responsible."
+        },
+        {
+          "scid": "an3.20:3.1",
+          "pli": "Kathañca, bhikkhave, pāpaṇiko nissayasampanno hoti?",
+          "en": "And how does a shopkeeper have supporters?"
+        },
+        {
+          "scid": "an3.20:3.2",
+          "pli": "Idha, bhikkhave, pāpaṇikaṃ ye te gahapatī vā gahapatiputtā vā aḍḍhā mahaddhanā mahābhogā te evaṃ jānanti:",
+          "en": "It’s when rich, affluent, and wealthy householders or householder’s children know of him:"
+        },
+        {
+          "scid": "an3.20:3.3",
+          "pli": "‘ayaṃ kho bhavaṃ pāpaṇiko cakkhumā vidhuro ca paṭibalo puttadārañca posetuṃ, amhākañca kālena kālaṃ anuppadātun’ti.",
+          "en": "‘This good shopkeeper keeps an eye out and is responsible. They are capable of providing for their wife and children, and paying us back from time to time.’"
+        },
+        {
+          "scid": "an3.20:3.4",
+          "pli": "Te naṃ bhogehi nipatanti:",
+          "en": "They deposit money with the shopkeeper, saying:"
+        },
+        {
+          "scid": "an3.20:3.5",
+          "pli": "‘ito, samma pāpaṇika, bhoge karitvā puttadārañca posehi, amhākañca kālena kālaṃ anuppadehī’ti.",
+          "en": "‘With this, friend shopkeeper, earn money to raise your wife and children, and pay us back from time to time.’"
+        },
+        {
+          "scid": "an3.20:3.6",
+          "pli": "Evaṃ kho, bhikkhave, pāpaṇiko nissayasampanno hoti.",
+          "en": "That’s how a shopkeeper has supporters."
+        },
+        {
+          "scid": "an3.20:3.7",
+          "pli": "Imehi kho, bhikkhave, tīhi aṅgehi samannāgato pāpaṇiko nacirasseva mahattaṃ vepullattaṃ pāpuṇāti bhogesu.",
+          "en": "A shopkeeper who has these three factors soon acquires great and abundant wealth."
+        },
+        {
+          "scid": "an3.20:4.1",
+          "pli": "Evamevaṃ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu nacirasseva mahattaṃ vepullattaṃ pāpuṇāti kusalesu dhammesu.",
+          "en": "In the same way, a mendicant who has three factors soon acquires great and abundant qualities."
+        },
+        {
+          "scid": "an3.20:4.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.20:4.3",
+          "pli": "Idha, bhikkhave, bhikkhu cakkhumā ca hoti vidhuro ca nissayasampanno ca.",
+          "en": "It’s when a mendicant sees clearly, is responsible, and has supporters."
+        },
+        {
+          "scid": "an3.20:4.4",
+          "pli": "Kathañca, bhikkhave, bhikkhu cakkhumā hoti?",
+          "en": "And how does a mendicant see clearly?"
+        },
+        {
+          "scid": "an3.20:4.5",
+          "pli": "Idha, bhikkhave, bhikkhu ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.",
+          "en": "It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+        },
+        {
+          "scid": "an3.20:4.6",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu cakkhumā hoti.",
+          "en": "That’s how a mendicant sees clearly."
+        },
+        {
+          "scid": "an3.20:5.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu vidhuro hoti?",
+          "en": "And how is a mendicant responsible?"
+        },
+        {
+          "scid": "an3.20:5.2",
+          "pli": "Idha, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu.",
+          "en": "It’s when a mendicant lives with energy roused up for giving up unskillful qualities and gaining skillful qualities. They are strong, firmly applied, not slacking off when it comes to developing skillful qualities."
+        },
+        {
+          "scid": "an3.20:5.3",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu vidhuro hoti.",
+          "en": "That’s how a mendicant is responsible."
+        },
+        {
+          "scid": "an3.20:6.1",
+          "pli": "Kathañca, bhikkhave, bhikkhu nissayasampanno hoti?",
+          "en": "And how does a mendicant have supporters?"
+        },
+        {
+          "scid": "an3.20:6.2",
+          "pli": "Idha, bhikkhave, bhikkhu ye te bhikkhū bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā te kālena kālaṃ upasaṅkamitvā paripucchati paripañhati:",
+          "en": "It’s when from time to time a mendicant goes up to those mendicants who are very learned—knowledgeable in the scriptures, who have memorized the teachings, the Vinaya, and the outlines—and asks them questions:"
+        },
+        {
+          "scid": "an3.20:6.3",
+          "pli": "‘idaṃ, bhante, kathaṃ, imassa ko attho’ti?",
+          "en": "‘Why, sir, does it say this? What does that mean?’"
+        },
+        {
+          "scid": "an3.20:6.4",
+          "pli": "Tassa te āyasmanto avivaṭañceva vivaranti, anuttānīkatañca uttānīkaronti, anekavihitesu ca kaṅkhāṭhāniyesu dhammesu kaṅkhaṃ paṭivinodenti.",
+          "en": "Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters."
+        },
+        {
+          "scid": "an3.20:6.5",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu nissayasampanno hoti.",
+          "en": "That’s how a mendicant has supporters."
+        },
+        {
+          "scid": "an3.20:6.6",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu nacirasseva mahattaṃ vepullattaṃ pāpuṇāti kusalesu dhammesū”ti.",
+          "en": "A mendicant who has these three factors soon acquires great and abundant qualities."
+        },
+        {
+          "scid": "an3.20:6.7",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an3.20:6.8",
+          "pli": "Rathakāravaggo dutiyo.",
+          "en": ""
+        },
+        {
+          "scid": "an3.20:6.9",
+          "pli": "Paṭhamabhāṇavāro niṭṭhito.",
+          "en": "The first recitation section is finished."
+        },
+        {
+          "scid": "an3.20:7.1",
+          "pli": "Ñāto sāraṇīyo bhikkhu,",
+          "en": ""
+        },
+        {
+          "scid": "an3.20:7.2",
+          "pli": "cakkavattī sacetano;",
+          "en": ""
+        },
+        {
+          "scid": "an3.20:7.3",
+          "pli": "Apaṇṇakattā devo ca,",
+          "en": ""
+        },
+        {
+          "scid": "an3.20:7.4",
+          "pli": "duve pāpaṇikena cāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.20/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.20",
+    "volpages": "AN i 116",
+    "uid": "an3.20",
+    "blurb": "Shopkeepers and mendicants both have to be clever, responsible, and well supported.",
+    "difficulty": null,
+    "original_title": "Dutiyapāpaṇika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Shopkeeper (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.20_sujato",
+        "segmented": true,
+        "title": "A Shopkeeper (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.20_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Shopkeeper (2)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

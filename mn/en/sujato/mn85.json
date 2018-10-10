@@ -1,0 +1,2860 @@
+{
+  "sutta_uid": "mn85",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn85",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Prince Bodhi",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Aṅgulimāla",
+      "uid": "mn86"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At Madhurā",
+      "uid": "mn84"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn85:0.1",
+          "pli": "Majjhima Nikāya 85",
+          "en": "Middle Discourses 85"
+        },
+        {
+          "scid": "mn85:0.2",
+          "pli": "Bodhirājakumārasutta",
+          "en": "With Prince Bodhi"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 85…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn85:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn85:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye.",
+          "en": "At one time the Buddha was staying in the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā’s Wood."
+        },
+        {
+          "scid": "mn85:2.1",
+          "pli": "Tena kho pana samayena bodhissa rājakumārassa kokanado nāma pāsādo acirakārito hoti anajjhāvuṭṭho samaṇena vā brāhmaṇena vā kenaci vā manussabhūtena.",
+          "en": "Now at that time a new stilt longhouse named Pink Lotus had recently been constructed for Prince Bodhi. It had not yet been occupied by an ascetic or brahmin or any person at all."
+        },
+        {
+          "scid": "mn85:3.1",
+          "pli": "Atha kho bodhi rājakumāro sañjikāputtaṃ māṇavaṃ āmantesi:",
+          "en": "Then Prince Bodhi addressed the brahmin student Sañjikāputta:"
+        },
+        {
+          "scid": "mn85:3.2",
+          "pli": "“ehi tvaṃ, samma sañjikāputta, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vanda, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ puccha:",
+          "en": "“Please, dear Sañjikāputta, go to the Buddha, and in my name bow with your head to his feet. Ask him if he is healthy and well, nimble, strong, and living comfortably."
+        },
+        {
+          "scid": "mn85:3.3",
+          "pli": "‘bodhi, bhante, rājakumāro bhagavato pāde sirasā vandati, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchatī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:3.4",
+          "pli": "Evañca vadehi:",
+          "en": "And then ask him whether he"
+        },
+        {
+          "scid": "mn85:3.5",
+          "pli": "‘adhivāsetu kira, bhante, bhagavā bodhissa rājakumārassa svātanāya bhattaṃ saddhiṃ bhikkhusaṃghenā’”ti.",
+          "en": "might accept tomorrow’s meal from me together with the mendicant Saṅgha.”"
+        },
+        {
+          "scid": "mn85:4.1",
+          "pli": "“Evaṃ, bho”ti kho sañjikāputto māṇavo bodhissa rājakumārassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi.",
+          "en": "“Yes, sir,” Sañjikāputta replied. He did as Prince Bodhi asked, and"
+        },
+        {
+          "scid": "mn85:4.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho sañjikāputto māṇavo bhagavantaṃ etadavoca:",
+          "en": ""
+        },
+        {
+          "scid": "mn85:4.3",
+          "pli": "“bodhi kho rājakumāro bhoto gotamassa pāde sirasā vandati, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchati.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:4.4",
+          "pli": "Evañca vadeti:",
+          "en": ""
+        },
+        {
+          "scid": "mn85:4.5",
+          "pli": "‘adhivāsetu kira bhavaṃ gotamo bodhissa rājakumārassa svātanāya bhattaṃ saddhiṃ bhikkhusaṃghenā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:4.6",
+          "pli": "Adhivāsesi bhagavā tuṇhībhāvena.",
+          "en": "the Buddha consented in silence."
+        },
+        {
+          "scid": "mn85:4.7",
+          "pli": "Atha kho sañjikāputto māṇavo bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā yena bodhi rājakumāro tenupasaṅkami; upasaṅkamitvā bodhiṃ rājakumāraṃ etadavoca:",
+          "en": "Then, knowing that the Buddha had accepted, Sañjikāputta got up from his seat, went to Prince Bodhi, and said:"
+        },
+        {
+          "scid": "mn85:4.8",
+          "pli": "“avocumha bhoto vacanena taṃ bhavantaṃ gotamaṃ:",
+          "en": "“I gave the ascetic Gotama your message,"
+        },
+        {
+          "scid": "mn85:4.9",
+          "pli": "‘bodhi kho rājakumāro bhoto gotamassa pāde sirasā vandati, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchati.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:4.10",
+          "pli": "Evañca vadeti—",
+          "en": ""
+        },
+        {
+          "scid": "mn85:4.11",
+          "pli": "adhivāsetu kira bhavaṃ gotamo bodhissa rājakumārassa svātanāya bhattaṃ saddhiṃ bhikkhusaṅghenā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:4.12",
+          "pli": "Adhivuṭṭhañca pana samaṇena gotamenā”ti.",
+          "en": "and he accepted.”"
+        },
+        {
+          "scid": "mn85:5.1",
+          "pli": "Atha kho bodhi rājakumāro tassā rattiyā accayena sake nivesane paṇītaṃ khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā, kokanadañca pāsādaṃ odātehi dussehi santharāpetvā yāva pacchimasopānakaḷevarā, sañjikāputtaṃ māṇavaṃ āmantesi:",
+          "en": "And when the night had passed Prince Bodhi had a variety of delicious foods prepared in his own home. He also had the Pink Lotus longhouse spread with white cloth down to the last step of the staircase. Then he said to Sañjikāputta:"
+        },
+        {
+          "scid": "mn85:5.2",
+          "pli": "“ehi tvaṃ, samma sañjikāputta, yena bhagavā tenupasaṅkama; upasaṅkamitvā bhagavato kālaṃ ārocehi:",
+          "en": "“Please, dear Sañjikāputta, go to the Buddha, and announce the time, saying:"
+        },
+        {
+          "scid": "mn85:5.3",
+          "pli": "‘kālo, bhante, niṭṭhitaṃ bhattan’”ti.",
+          "en": "‘Sir, it’s time. The meal is ready.’”"
+        },
+        {
+          "scid": "mn85:5.4",
+          "pli": "“Evaṃ, bho”ti kho sañjikāputto māṇavo bodhissa rājakumārassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato kālaṃ ārocesi:",
+          "en": "“Yes, sir,” Sañjikāputta replied, and he did as he was asked."
+        },
+        {
+          "scid": "mn85:5.5",
+          "pli": "“kālo, bho gotama, niṭṭhitaṃ bhattan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:6.1",
+          "pli": "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena bodhissa rājakumārassa nivesanaṃ tenupasaṅkami.",
+          "en": "Then the Buddha robed up in the morning and, taking his bowl and robe, went to Prince Bodhi’s home,"
+        },
+        {
+          "scid": "mn85:7.1",
+          "pli": "Tena kho pana samayena bodhi rājakumāro bahidvārakoṭṭhake ṭhito hoti bhagavantaṃ āgamayamāno.",
+          "en": "Now at that time Prince Bodhi was standing outside the gates waiting for the Buddha."
+        },
+        {
+          "scid": "mn85:7.2",
+          "pli": "Addasā kho bodhi rājakumāro bhagavantaṃ dūratova āgacchantaṃ.",
+          "en": "Seeing the Buddha coming off in the distance,"
+        },
+        {
+          "scid": "mn85:7.3",
+          "pli": "Disvāna paccuggantvā bhagavantaṃ abhivādetvā purakkhatvā yena kokanado pāsādo tenupasaṅkami.",
+          "en": "he went out to greet him. After bowing and inviting the Buddha to go first, he approached the Pink Lotus longhouse."
+        },
+        {
+          "scid": "mn85:7.4",
+          "pli": "Atha kho bhagavā pacchimaṃ sopānakaḷevaraṃ nissāya aṭṭhāsi.",
+          "en": "But the Buddha stopped by the last step of the staircase."
+        },
+        {
+          "scid": "mn85:7.5",
+          "pli": "Atha kho bodhi rājakumāro bhagavantaṃ etadavoca:",
+          "en": "Then Prince Bodhi said to him:"
+        },
+        {
+          "scid": "mn85:7.6",
+          "pli": "“abhiruhatu, bhante, bhagavā dussāni, abhiruhatu sugato dussāni;",
+          "en": "“Sir, let the Blessed One ascend on the cloth! Let the Holy One ascend on the cloth!"
+        },
+        {
+          "scid": "mn85:7.7",
+          "pli": "yaṃ mama assa dīgharattaṃ hitāya sukhāyā”ti.",
+          "en": "It will be for my lasting welfare and happiness.”"
+        },
+        {
+          "scid": "mn85:7.8",
+          "pli": "Evaṃ vutte, bhagavā tuṇhī ahosi.",
+          "en": "But when he said this, the Buddha kept silent."
+        },
+        {
+          "scid": "mn85:7.9",
+          "pli": "Dutiyampi kho … pe …",
+          "en": "For a second time,"
+        },
+        {
+          "scid": "mn85:7.10",
+          "pli": "tatiyampi kho bodhi rājakumāro bhagavantaṃ etadavoca:",
+          "en": "and a third time, Prince Bodhi said to him:"
+        },
+        {
+          "scid": "mn85:7.11",
+          "pli": "“abhiruhatu, bhante, bhagavā dussāni, abhiruhatu sugato dussāni;",
+          "en": "“Sir, let the Blessed One ascend on the cloth! Let the Holy One ascend on the cloth!"
+        },
+        {
+          "scid": "mn85:7.12",
+          "pli": "yaṃ mama assa dīgharattaṃ hitāya sukhāyā”ti.",
+          "en": "It will be for my lasting welfare and happiness.”"
+        },
+        {
+          "scid": "mn85:7.13",
+          "pli": "Atha kho bhagavā āyasmantaṃ ānandaṃ apalokesi.",
+          "en": "Then the Buddha glanced at Venerable Ānanda."
+        },
+        {
+          "scid": "mn85:7.14",
+          "pli": "Atha kho āyasmā ānando bodhiṃ rājakumāraṃ etadavoca:",
+          "en": "So Ānanda said to Prince Bodhi:"
+        },
+        {
+          "scid": "mn85:7.15",
+          "pli": "“saṃharatu, rājakumāra, dussāni;",
+          "en": "“Fold up the cloth, Prince."
+        },
+        {
+          "scid": "mn85:7.16",
+          "pli": "na bhagavā celapaṭikaṃ akkamissati.",
+          "en": "The Buddha will not step upon white cloth."
+        },
+        {
+          "scid": "mn85:7.17",
+          "pli": "Pacchimaṃ janataṃ tathāgato anukampatī”ti.",
+          "en": "The Realized One has compassion for future generations.”"
+        },
+        {
+          "scid": "mn85:8.1",
+          "pli": "Atha kho bodhi rājakumāro dussāni saṃharāpetvā uparikokanadapāsāde āsanāni paññapesi.",
+          "en": "So Prince Bodhi had the cloth folded up and the seats spread out upstairs in the longhouse."
+        },
+        {
+          "scid": "mn85:8.2",
+          "pli": "Atha kho bhagavā kokanadaṃ pāsādaṃ abhiruhitvā paññatte āsane nisīdi saddhiṃ bhikkhusaṃghena.",
+          "en": "Then the Buddha ascended the longhouse and sat on the seats spread out together with the Saṅgha of mendicants."
+        },
+        {
+          "scid": "mn85:9.1",
+          "pli": "Atha kho bodhi rājakumāro buddhappamukhaṃ bhikkhusaṃghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.",
+          "en": "Then Prince Bodhi served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods."
+        },
+        {
+          "scid": "mn85:9.2",
+          "pli": "Atha kho bodhi rājakumāro bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi.",
+          "en": "When the Buddha had eaten and washed his hand and bowl, Prince Bodhi took a low seat, sat to one side,"
+        },
+        {
+          "scid": "mn85:9.3",
+          "pli": "Ekamantaṃ nisinno kho bodhi rājakumāro bhagavantaṃ etadavoca:",
+          "en": "and said to him:"
+        },
+        {
+          "scid": "mn85:9.4",
+          "pli": "“mayhaṃ kho, bhante, evaṃ hoti:",
+          "en": "“Sir, this is what I think:"
+        },
+        {
+          "scid": "mn85:9.5",
+          "pli": "‘na kho sukhena sukhaṃ adhigantabbaṃ, dukkhena kho sukhaṃ adhigantabban’”ti.",
+          "en": "‘Pleasure is not gained through pleasure; pleasure is gained through pain.’”"
+        },
+        {
+          "scid": "mn85:10.1",
+          "pli": "“Mayhampi kho, rājakumāra, pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi:",
+          "en": "“Prince, before my awakening—when I was still unawakened but intent on awakening—I too thought:"
+        },
+        {
+          "scid": "mn85:10.2",
+          "pli": "‘na kho sukhena sukhaṃ adhigantabbaṃ, dukkhena kho sukhaṃ adhigantabban’ti.",
+          "en": "‘Pleasure is not gained through pleasure; pleasure is gained through pain.’"
+        },
+        {
+          "scid": "mn85:11.1",
+          "pli": "So kho ahaṃ, rājakumāra, aparena samayena daharova samāno susukāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā akāmakānaṃ mātāpitūnaṃ assumukhānaṃ rudantānaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajiṃ.",
+          "en": "Some time later, while still black-haired, blessed with youth, in the prime of life—though my mother and father wished otherwise, weeping with tearful faces—I shaved off my hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness."
+        },
+        {
+          "scid": "mn85:11.2",
+          "pli": "So evaṃ pabbajito samāno kiṃkusalagavesī anuttaraṃ santivarapadaṃ pariyesamāno yena āḷāro kālāmo tenupasaṅkamiṃ; upasaṅkamitvā āḷāraṃ kālāmaṃ etadavocaṃ:",
+          "en": "Once I had gone forth I set out to discover what is skillful, seeking the supreme state of sublime peace. I approached Āḷāra Kālāma and said to him:"
+        },
+        {
+          "scid": "mn85:11.3",
+          "pli": "‘icchāmahaṃ, āvuso kālāma, imasmiṃ dhammavinaye brahmacariyaṃ caritun’ti.",
+          "en": "‘Reverend Kālāma, I wish to live the spiritual life in this teaching and training.’"
+        },
+        {
+          "scid": "mn85:11.4",
+          "pli": "Evaṃ vutte, rājakumāra, āḷāro kālāmo maṃ etadavoca:",
+          "en": "Āḷāra Kālāma replied:"
+        },
+        {
+          "scid": "mn85:11.5",
+          "pli": "‘viharatāyasmā, ",
+          "en": "‘Stay, venerable. "
+        },
+        {
+          "scid": "mn85:11.6",
+          "pli": "tādiso ayaṃ dhammo yattha viññū puriso nacirasseva sakaṃ ācariyakaṃ sayaṃ abhiññā sacchikatvā upasampajja vihareyyā’ti.",
+          "en": "This teaching is such that a sensible person can soon realize their own teacher’s doctrine with their own insight and live having achieved it.’"
+        },
+        {
+          "scid": "mn85:11.7",
+          "pli": "So kho ahaṃ, rājakumāra, nacirasseva khippameva taṃ dhammaṃ pariyāpuṇiṃ.",
+          "en": "I quickly memorized that teaching."
+        },
+        {
+          "scid": "mn85:11.8",
+          "pli": "So kho ahaṃ, rājakumāra, tāvatakeneva oṭṭhapahatamattena lapitalāpanamattena ñāṇavādañca vadāmi, theravādañca jānāmi passāmīti ca paṭijānāmi, ahañceva aññe ca.",
+          "en": "So far as lip-recital and oral recitation were concerned, I spoke with knowledge and the authority of the elders. I claimed to know and see, and so did others."
+        },
+        {
+          "scid": "mn85:11.9",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:11.10",
+          "pli": "‘na kho āḷāro kālāmo imaṃ dhammaṃ kevalaṃ saddhāmattakena sayaṃ abhiññā sacchikatvā upasampajja viharāmīti pavedeti;",
+          "en": "‘It is not solely by mere faith that Āḷāra Kālāma declares: “I realize this teaching with my own insight, and live having achieved it.”"
+        },
+        {
+          "scid": "mn85:11.11",
+          "pli": "addhā āḷāro kālāmo imaṃ dhammaṃ jānaṃ passaṃ viharatī’ti.",
+          "en": "Surely he meditates knowing and seeing this teaching.’"
+        },
+        {
+          "scid": "mn85:12.1",
+          "pli": "Atha khvāhaṃ, rājakumāra, yena āḷāro kālāmo tenupasaṅkamiṃ; upasaṅkamitvā āḷāraṃ kālāmaṃ etadavocaṃ:",
+          "en": "So I approached Āḷāra Kālāma and said to him:"
+        },
+        {
+          "scid": "mn85:12.2",
+          "pli": "‘kittāvatā no, āvuso kālāma, imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja viharāmīti pavedesī’ti?",
+          "en": "‘Reverend Kālāma, to what extent do you say you’ve realized this teaching with your own insight?’"
+        },
+        {
+          "scid": "mn85:12.3",
+          "pli": "Evaṃ vutte, rājakumāra, āḷāro kālāmo ākiñcaññāyatanaṃ pavedesi.",
+          "en": "When I said this, he declared the dimension of nothingness."
+        },
+        {
+          "scid": "mn85:12.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:12.5",
+          "pli": "‘na kho āḷārasseva kālāmassa atthi saddhā, mayhampatthi saddhā;",
+          "en": "‘It’s not just Āḷāra Kālāma who has faith,"
+        },
+        {
+          "scid": "mn85:12.6",
+          "pli": "na kho āḷārasseva kālāmassa atthi vīriyaṃ … pe …",
+          "en": "energy,"
+        },
+        {
+          "scid": "mn85:12.7",
+          "pli": "sati …",
+          "en": "mindfulness,"
+        },
+        {
+          "scid": "mn85:12.8",
+          "pli": "samādhi …",
+          "en": "immersion,"
+        },
+        {
+          "scid": "mn85:12.9",
+          "pli": "paññā, mayhampatthi paññā.",
+          "en": "and wisdom; I too have these things."
+        },
+        {
+          "scid": "mn85:12.10",
+          "pli": "Yannūnāhaṃ yaṃ dhammaṃ āḷāro kālāmo sayaṃ abhiññā sacchikatvā upasampajja viharāmīti pavedeti tassa dhammassa sacchikiriyāya padaheyyan’ti.",
+          "en": "Why don’t I make an effort to realize the same teaching that Āḷāra Kālāma says he has realized with his own insight?’"
+        },
+        {
+          "scid": "mn85:12.11",
+          "pli": "So kho ahaṃ, rājakumāra, nacirasseva khippameva taṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja vihāsiṃ.",
+          "en": "I quickly realized that teaching with my own insight, and lived having achieved it."
+        },
+        {
+          "scid": "mn85:12.12",
+          "pli": "Atha khvāhaṃ, rājakumāra, yena āḷāro kālāmo tenupasaṅkamiṃ; upasaṅkamitvā āḷāraṃ kālāmaṃ etadavocaṃ:",
+          "en": "So I approached Āḷāra Kālāma and said to him:"
+        },
+        {
+          "scid": "mn85:12.13",
+          "pli": "‘ettāvatā no, āvuso kālāma, imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedesī’ti?",
+          "en": "‘Reverend Kālāma, have you realized this teaching with your own insight up to this point, and declare it having achieved it?’"
+        },
+        {
+          "scid": "mn85:12.14",
+          "pli": "‘Ettāvatā kho ahaṃ, āvuso, imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedemī’ti.",
+          "en": "‘I have, reverend.’"
+        },
+        {
+          "scid": "mn85:12.15",
+          "pli": "‘Ahampi kho, āvuso, ettāvatā imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja viharāmī’ti.",
+          "en": "‘I too have realized this teaching with my own insight up to this point, and live having achieved it.’"
+        },
+        {
+          "scid": "mn85:12.16",
+          "pli": "‘Lābhā no, āvuso, suladdhaṃ no, āvuso, ",
+          "en": "‘We are fortunate, reverend, so very fortunate "
+        },
+        {
+          "scid": "mn85:12.17",
+          "pli": "ye mayaṃ āyasmantaṃ tādisaṃ sabrahmacāriṃ passāma.",
+          "en": "to see a venerable such as yourself as one of our spiritual companions!"
+        },
+        {
+          "scid": "mn85:12.18",
+          "pli": "Iti yāhaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedemi, taṃ tvaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja viharasi.",
+          "en": "So the teaching that I’ve realized with my own insight, and declare having achieved it, you’ve realized with your own insight, and live having achieved it."
+        },
+        {
+          "scid": "mn85:12.19",
+          "pli": "Yaṃ tvaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja viharasi, tamahaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedemi.",
+          "en": "The teaching that you’ve realized with your own insight, and live having achieved it, I’ve realized with my own insight, and declare having achieved it."
+        },
+        {
+          "scid": "mn85:12.20",
+          "pli": "Iti yāhaṃ dhammaṃ jānāmi taṃ tvaṃ dhammaṃ jānāsi; yaṃ tvaṃ dhammaṃ jānāsi tamahaṃ dhammaṃ jānāmi.",
+          "en": "So the teaching that I know, you know, and the teaching you know, I know."
+        },
+        {
+          "scid": "mn85:12.21",
+          "pli": "Iti yādiso ahaṃ, tādiso tuvaṃ; yādiso tuvaṃ tādiso ahaṃ.",
+          "en": "I am like you and you are like me."
+        },
+        {
+          "scid": "mn85:12.22",
+          "pli": "Ehi dāni, āvuso, ubhova santā imaṃ gaṇaṃ pariharāmā’ti.",
+          "en": "Come now, reverend! We should both lead this community together.’"
+        },
+        {
+          "scid": "mn85:12.23",
+          "pli": "Iti kho, rājakumāra, āḷāro kālāmo ācariyo me samāno attano antevāsiṃ maṃ samānaṃ attanā samasamaṃ ṭhapesi, uḷārāya ca maṃ pūjāya pūjesi.",
+          "en": "And that is how my teacher Āḷāra Kālāma placed me, his student, on the same position as him, and honored me with lofty praise."
+        },
+        {
+          "scid": "mn85:12.24",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:12.25",
+          "pli": "‘nāyaṃ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti.",
+          "en": "‘This teaching doesn’t lead to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment. It only leads as far as rebirth in the dimension of nothingness.’"
+        },
+        {
+          "scid": "mn85:12.26",
+          "pli": "So kho ahaṃ, rājakumāra, taṃ dhammaṃ analaṅkaritvā tasmā dhammā nibbijja apakkamiṃ.",
+          "en": "Realizing that this teaching was inadequate, I became disillusioned and left."
+        },
+        {
+          "scid": "mn85:12.27",
+          "pli": "So kho ahaṃ, rājakumāra, kiṃkusalagavesī anuttaraṃ santivarapadaṃ pariyesamāno yena udako rāmaputto tenupasaṅkamiṃ; upasaṅkamitvā udakaṃ rāmaputtaṃ etadavocaṃ:",
+          "en": "I set out to discover what is skillful, seeking the supreme state of sublime peace. I approached Uddaka, son of Rāma, and said to him:"
+        },
+        {
+          "scid": "mn85:12.28",
+          "pli": "‘icchāmahaṃ, āvuso, imasmiṃ dhammavinaye brahmacariyaṃ caritun’ti.",
+          "en": "‘Reverend, I wish to live the spiritual life in this teaching and training.’"
+        },
+        {
+          "scid": "mn85:12.29",
+          "pli": "Evaṃ vutte, rājakumāra, udako rāmaputto maṃ etadavoca:",
+          "en": "Uddaka replied:"
+        },
+        {
+          "scid": "mn85:12.30",
+          "pli": "‘viharatāyasmā, ",
+          "en": "‘Stay, venerable. "
+        },
+        {
+          "scid": "mn85:12.31",
+          "pli": "tādiso ayaṃ dhammo yattha viññū puriso nacirasseva sakaṃ ācariyakaṃ sayaṃ abhiññā sacchikatvā upasampajja vihareyyā’ti.",
+          "en": "This teaching is such that a sensible person can soon realize their own teacher’s doctrine with their own insight and live having achieved it.’"
+        },
+        {
+          "scid": "mn85:12.32",
+          "pli": "So kho ahaṃ, rājakumāra, nacirasseva khippameva taṃ dhammaṃ pariyāpuṇiṃ.",
+          "en": "I quickly memorized that teaching."
+        },
+        {
+          "scid": "mn85:12.33",
+          "pli": "So kho ahaṃ, rājakumāra, tāvatakeneva oṭṭhapahatamattena lapitalāpanamattena ñāṇavādañca vadāmi, theravādañca jānāmi passāmīti ca paṭijānāmi, ahañceva aññe ca.",
+          "en": "So far as lip-recital and oral recitation were concerned, I spoke with knowledge and the authority of the elders. I claimed to know and see, and so did others."
+        },
+        {
+          "scid": "mn85:12.34",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:12.35",
+          "pli": "‘na kho rāmo imaṃ dhammaṃ kevalaṃ saddhāmattakena sayaṃ abhiññā sacchikatvā upasampajja viharāmīti pavedesi;",
+          "en": "‘It is not solely by mere faith that Rāma declared: “I realize this teaching with my own insight, and live having achieved it.”"
+        },
+        {
+          "scid": "mn85:12.36",
+          "pli": "addhā rāmo imaṃ dhammaṃ jānaṃ passaṃ vihāsī’ti.",
+          "en": "Surely he meditated knowing and seeing this teaching.’"
+        },
+        {
+          "scid": "mn85:13.1",
+          "pli": "Atha khvāhaṃ, rājakumāra, yena udako rāmaputto tenupasaṅkamiṃ; upasaṅkamitvā udakaṃ rāmaputtaṃ etadavocaṃ:",
+          "en": "So I approached Uddaka, Rāma’s son, and said to him:"
+        },
+        {
+          "scid": "mn85:13.2",
+          "pli": "‘kittāvatā no, āvuso, rāmo imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja viharāmīti pavedesī’ti?",
+          "en": "‘Reverend, to what extent did Rāma say he’d realized this teaching with his own insight?’"
+        },
+        {
+          "scid": "mn85:13.3",
+          "pli": "Evaṃ vutte, rājakumāra, udako rāmaputto nevasaññānāsaññāyatanaṃ pavedesi.",
+          "en": "When I said this,Uddaka, son of Rāma, declared the dimension of neither perception nor non-perception."
+        },
+        {
+          "scid": "mn85:13.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:13.5",
+          "pli": "‘na kho rāmasseva ahosi saddhā, mayhampatthi saddhā;",
+          "en": "‘It’s not just Rāma who had faith,"
+        },
+        {
+          "scid": "mn85:13.6",
+          "pli": "na kho rāmasseva ahosi vīriyaṃ … pe …",
+          "en": "energy,"
+        },
+        {
+          "scid": "mn85:13.7",
+          "pli": "sati …",
+          "en": "mindfulness,"
+        },
+        {
+          "scid": "mn85:13.8",
+          "pli": "samādhi …",
+          "en": "immersion,"
+        },
+        {
+          "scid": "mn85:13.9",
+          "pli": "paññā, mayhampatthi paññā.",
+          "en": "and wisdom; I too have these things."
+        },
+        {
+          "scid": "mn85:13.10",
+          "pli": "Yannūnāhaṃ yaṃ dhammaṃ rāmo sayaṃ abhiññā sacchikatvā upasampajja viharāmīti pavedeti tassa dhammassa sacchikiriyāya padaheyyan’ti.",
+          "en": "Why don’t I make an effort to realize the same teaching that Rāma said he had realized with his own insight?’"
+        },
+        {
+          "scid": "mn85:13.11",
+          "pli": "So kho ahaṃ, rājakumāra, nacirasseva khippameva taṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja vihāsiṃ.",
+          "en": "I quickly realized that teaching with my own insight, and lived having achieved it."
+        },
+        {
+          "scid": "mn85:13.12",
+          "pli": "Atha khvāhaṃ, rājakumāra, yena udako rāmaputto tenupasaṅkamiṃ; upasaṅkamitvā udakaṃ rāmaputtaṃ etadavocaṃ:",
+          "en": "So I approachedUddaka, son of Rāma, and said to him:"
+        },
+        {
+          "scid": "mn85:13.13",
+          "pli": "‘ettāvatā no, āvuso, rāmo imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedesī’ti?",
+          "en": "‘Reverend, had Rāma realized this teaching with his own insight up to this point, and declared it having achieved it?’"
+        },
+        {
+          "scid": "mn85:13.14",
+          "pli": "‘Ettāvatā kho, āvuso, rāmo imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja pavedesī’ti.",
+          "en": "‘He had, reverend.’"
+        },
+        {
+          "scid": "mn85:13.15",
+          "pli": "‘Ahampi kho, āvuso, ettāvatā imaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja viharāmī’ti.",
+          "en": "‘I too have realized this teaching with my own insight up to this point, and live having achieved it.’"
+        },
+        {
+          "scid": "mn85:13.16",
+          "pli": "‘Lābhā no, āvuso, suladdhaṃ no, āvuso, ",
+          "en": "‘We are fortunate, reverend, so very fortunate "
+        },
+        {
+          "scid": "mn85:13.17",
+          "pli": "ye mayaṃ āyasmantaṃ tādisaṃ sabrahmacāriṃ passāma.",
+          "en": "to see a venerable such as yourself as one of our spiritual companions!"
+        },
+        {
+          "scid": "mn85:13.18",
+          "pli": "Iti yaṃ dhammaṃ rāmo sayaṃ abhiññā sacchikatvā upasampajja pavedesi taṃ tvaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja viharasi.",
+          "en": "The teaching that Rāma had realized with his own insight, and declared having achieved it, you've realized with your own insight, and live having achieved it."
+        },
+        {
+          "scid": "mn85:13.19",
+          "pli": "Yaṃ tvaṃ dhammaṃ sayaṃ abhiññā sacchikatvā upasampajja viharasi taṃ dhammaṃ rāmo sayaṃ abhiññā sacchikatvā upasampajja pavedesi.",
+          "en": "The teaching that you’ve realized with your own insight, and live having achieved it, Rāma had realized with his own insight, and declared having achieved it."
+        },
+        {
+          "scid": "mn85:13.20",
+          "pli": "Iti yaṃ dhammaṃ rāmo abhiññāsi taṃ tvaṃ dhammaṃ jānāsi; yaṃ tvaṃ dhammaṃ jānāsi taṃ dhammaṃ rāmo abhiññāsi.",
+          "en": "So the teaching that Rāma directly knew, you know, and the teaching you know, Rāma directly knew."
+        },
+        {
+          "scid": "mn85:13.21",
+          "pli": "Iti yādiso rāmo ahosi tādiso tuvaṃ, yādiso tuvaṃ tādiso rāmo ahosi.",
+          "en": "Rāma was like you and you are like Rāma."
+        },
+        {
+          "scid": "mn85:13.22",
+          "pli": "Ehi dāni, āvuso, tuvaṃ imaṃ gaṇaṃ pariharā’ti.",
+          "en": "Come now, reverend! You should lead this community.’"
+        },
+        {
+          "scid": "mn85:13.23",
+          "pli": "Iti kho, rājakumāra, udako rāmaputto sabrahmacārī me samāno ācariyaṭṭhāne maṃ ṭhapesi, uḷārāya ca maṃ pūjāya pūjesi.",
+          "en": "And that is how my spiritual companion Uddaka, son of Rāma, placed me in the position of a teacher, and honored me with lofty praise."
+        },
+        {
+          "scid": "mn85:13.24",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:13.25",
+          "pli": "‘nāyaṃ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati, yāvadeva nevasaññānāsaññāyatanūpapattiyā’ti.",
+          "en": "‘This teaching doesn’t lead to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment. It only leads as far as rebirth in the dimension of neither perception nor non-perception.’"
+        },
+        {
+          "scid": "mn85:13.26",
+          "pli": "So kho ahaṃ, rājakumāra, taṃ dhammaṃ analaṅkaritvā tasmā dhammā nibbijja apakkamiṃ.",
+          "en": "Realizing that this teaching was inadequate, I got disillusioned and left."
+        },
+        {
+          "scid": "mn85:14.1",
+          "pli": "So kho ahaṃ, rājakumāra, kiṃkusalagavesī anuttaraṃ santivarapadaṃ pariyesamāno, magadhesu anupubbena cārikaṃ caramāno, yena uruvelā senānigamo tadavasariṃ.",
+          "en": "I set out to discover what is skillful, seeking the supreme state of sublime peace. Travelling stage by stage in the Magadhan lands, I arrived at Senanigama near Uruvelā."
+        },
+        {
+          "scid": "mn85:14.2",
+          "pli": "Tatthaddasaṃ ramaṇīyaṃ bhūmibhāgaṃ, pāsādikañca vanasaṇḍaṃ, nadiñca sandantiṃ setakaṃ supatitthaṃ, ramaṇīyaṃ samantā ca gocaragāmaṃ.",
+          "en": "There I saw a delightful park, a lovely grove with a flowing river that was clean and charming, with smooth banks. And nearby was a village to go for alms."
+        },
+        {
+          "scid": "mn85:14.3",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:14.4",
+          "pli": "‘ramaṇīyo vata bho bhūmibhāgo, pāsādiko ca vanasaṇḍo, nadī ca sandati setakā supatitthā, ramaṇīyā samantā ca gocaragāmo.",
+          "en": "‘This park is truly delightful, a lovely grove with a flowing river that’s clean and charming, with smooth banks. And nearby there’s a village to go for alms."
+        },
+        {
+          "scid": "mn85:14.5",
+          "pli": "Alaṃ vatidaṃ kulaputtassa padhānatthikassa padhānāyā’ti.",
+          "en": "This is good enough for a respectable person who wishes to put forth effort in meditation.’"
+        },
+        {
+          "scid": "mn85:14.6",
+          "pli": "So kho ahaṃ, rājakumāra, tattheva nisīdiṃ:",
+          "en": "So I sat down right there, thinking:"
+        },
+        {
+          "scid": "mn85:14.7",
+          "pli": "‘alamidaṃ padhānāyā’ti.",
+          "en": "‘This is good enough for meditation.’"
+        },
+        {
+          "scid": "mn85:15.1",
+          "pli": "Apissu maṃ, rājakumāra, tisso upamā paṭibhaṃsu anacchariyā pubbe assutapubbā.",
+          "en": "And then these three examples, which were neither supernaturally inspired, nor learned before in the past, occurred to me."
+        },
+        {
+          "scid": "mn85:16.1",
+          "pli": "Seyyathāpi, rājakumāra, allaṃ kaṭṭhaṃ sasnehaṃ udake nikkhittaṃ.",
+          "en": "Suppose there was a green, sappy log, and it was lying in water."
+        },
+        {
+          "scid": "mn85:16.2",
+          "pli": "Atha puriso āgaccheyya uttarāraṇiṃ ādāya:",
+          "en": "Then a person comes along with a drill-stick, thinking"
+        },
+        {
+          "scid": "mn85:16.3",
+          "pli": "‘aggiṃ abhinibbattessāmi, tejo pātukarissāmī’ti.",
+          "en": "to light a fire and produce heat."
+        },
+        {
+          "scid": "mn85:16.4",
+          "pli": "Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "What do you think, Prince? "
+        },
+        {
+          "scid": "mn85:16.5",
+          "pli": "api nu so puriso amuṃ allaṃ kaṭṭhaṃ sasnehaṃ udake nikkhittaṃ uttarāraṇiṃ ādāya abhimanthento aggiṃ abhinibbatteyya, tejo pātukareyyā”ti?",
+          "en": "By drilling the stick against that green, sappy log on dry land far from water, could they light a fire and produce heat?”"
+        },
+        {
+          "scid": "mn85:16.6",
+          "pli": "“No hidaṃ, bhante.",
+          "en": "“No, sir."
+        },
+        {
+          "scid": "mn85:16.7",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn85:16.8",
+          "pli": "Aduñhi, bhante, allaṃ kaṭṭhaṃ sasnehaṃ tañca pana udake nikkhittaṃ, ",
+          "en": "Because it’s a green, sappy log, and it’s lying in the water. "
+        },
+        {
+          "scid": "mn85:16.9",
+          "pli": "yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.",
+          "en": "That person will eventually get weary and frustrated.”"
+        },
+        {
+          "scid": "mn85:17.1",
+          "pli": "“Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi avūpakaṭṭhā viharanti, yo ca nesaṃ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṃ na suppahīno hoti, na suppaṭippassaddho.",
+          "en": "“In the same way, there are ascetics and brahmins who don’t live withdrawn in body and mind from sensual pleasures. They haven’t internally given up or stilled desire, affection, stupefaction, thirst, and passion for sensual pleasures. Regardless of whether or not they feel painful, sharp, severe, acute feelings because of their efforts, they are incapable of knowledge and vision, of supreme awakening."
+        },
+        {
+          "scid": "mn85:17.2",
+          "pli": "Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:17.3",
+          "pli": "No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:17.4",
+          "pli": "Ayaṃ kho maṃ, rājakumāra, paṭhamā upamā paṭibhāsi anacchariyā pubbe assutapubbā.",
+          "en": "This was the first example that occurred to me."
+        },
+        {
+          "scid": "mn85:18.1",
+          "pli": "Aparāpi kho maṃ, rājakumāra, dutiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā.",
+          "en": "Then a second example occurred to me."
+        },
+        {
+          "scid": "mn85:18.2",
+          "pli": "Seyyathāpi, rājakumāra, allaṃ kaṭṭhaṃ sasnehaṃ ārakā udakā thale nikkhittaṃ.",
+          "en": "Suppose there was a green, sappy log, and it was lying on dry land far from the water."
+        },
+        {
+          "scid": "mn85:18.3",
+          "pli": "Atha puriso āgaccheyya uttarāraṇiṃ ādāya:",
+          "en": "Then a person comes along with a drill-stick, thinking"
+        },
+        {
+          "scid": "mn85:18.4",
+          "pli": "‘aggiṃ abhinibbattessāmi, tejo pātukarissāmī’ti.",
+          "en": "to light a fire and produce heat."
+        },
+        {
+          "scid": "mn85:18.5",
+          "pli": "Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "What do you think, Prince? "
+        },
+        {
+          "scid": "mn85:18.6",
+          "pli": "api nu so puriso amuṃ allaṃ kaṭṭhaṃ sasnehaṃ ārakā udakā thale nikkhittaṃ uttarāraṇiṃ ādāya abhimanthento aggiṃ abhinibbatteyya, tejo pātukareyyā”ti?",
+          "en": "By drilling the stick against that green, sappy log on dry land far from water, could they light a fire and produce heat?”"
+        },
+        {
+          "scid": "mn85:18.7",
+          "pli": "“No hidaṃ, bhante.",
+          "en": "“No, sir."
+        },
+        {
+          "scid": "mn85:18.8",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn85:18.9",
+          "pli": "Aduñhi, bhante, allaṃ kaṭṭhaṃ sasnehaṃ kiñcāpi ārakā udakā thale nikkhittaṃ, ",
+          "en": "Because it’s still a green, sappy log, despite the fact that it’s lying on dry land far from water. "
+        },
+        {
+          "scid": "mn85:18.10",
+          "pli": "yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.",
+          "en": "That person will eventually get weary and frustrated.”"
+        },
+        {
+          "scid": "mn85:18.11",
+          "pli": "“Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi vūpakaṭṭhā viharanti, yo ca nesaṃ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṃ na suppahīno hoti, na suppaṭippassaddho.",
+          "en": "“In the same way, there are ascetics and brahmins who live withdrawn in body and mind from sensual pleasures. But they haven’t internally given up or stilled desire, affection, stupefaction, thirst, and passion for sensual pleasures. Regardless of whether or not they feel painful, sharp, severe, acute feelings because of their efforts, they are incapable of knowledge and vision, of supreme awakening."
+        },
+        {
+          "scid": "mn85:18.12",
+          "pli": "Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:18.13",
+          "pli": "No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:18.14",
+          "pli": "Ayaṃ kho maṃ, rājakumāra, dutiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā.",
+          "en": "This was the second example that occurred to me."
+        },
+        {
+          "scid": "mn85:19.1",
+          "pli": "Aparāpi kho maṃ, rājakumāra, tatiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā.",
+          "en": "Then a third example occurred to me."
+        },
+        {
+          "scid": "mn85:19.2",
+          "pli": "Seyyathāpi, rājakumāra, sukkhaṃ kaṭṭhaṃ koḷāpaṃ ārakā udakā thale nikkhittaṃ.",
+          "en": "Suppose there was a dried up, withered log, and it was lying on dry land far from the water."
+        },
+        {
+          "scid": "mn85:19.3",
+          "pli": "Atha puriso āgaccheyya uttarāraṇiṃ ādāya:",
+          "en": "Then a person comes along with a drill-stick, thinking"
+        },
+        {
+          "scid": "mn85:19.4",
+          "pli": "‘aggiṃ abhinibbattessāmi, tejo pātukarissāmī’ti.",
+          "en": "to light a fire and produce heat."
+        },
+        {
+          "scid": "mn85:19.5",
+          "pli": "Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "What do you think, Prince? "
+        },
+        {
+          "scid": "mn85:19.6",
+          "pli": "api nu so puriso amuṃ sukkhaṃ kaṭṭhaṃ koḷāpaṃ ārakā udakā thale nikkhittaṃ uttarāraṇiṃ ādāya abhimanthento aggiṃ abhinibbatteyya, tejo pātukareyyā”ti?",
+          "en": "By drilling the stick against that dried up, withered log on dry land far from water, could they light a fire and produce heat?”"
+        },
+        {
+          "scid": "mn85:19.7",
+          "pli": "“Evaṃ, bhante.",
+          "en": "“Yes, sir."
+        },
+        {
+          "scid": "mn85:19.8",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn85:19.9",
+          "pli": "Aduñhi, bhante, sukkhaṃ kaṭṭhaṃ koḷāpaṃ, tañca pana ārakā udakā thale nikkhittan”ti.",
+          "en": "Because it’s a dried up, withered log, and it’s lying on dry land far from water.”"
+        },
+        {
+          "scid": "mn85:19.10",
+          "pli": "“Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi vūpakaṭṭhā viharanti, yo ca nesaṃ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṃ suppahīno hoti suppaṭippassaddho.",
+          "en": "“In the same way, there are ascetics and brahmins who live withdrawn in body and mind from sensual pleasures. And they have internally given up and stilled desire, affection, stupefaction, thirst, and passion for sensual pleasures. Regardless of whether or not they feel painful, sharp, severe, acute feelings because of their efforts, they are capable of knowledge and vision, of supreme awakening."
+        },
+        {
+          "scid": "mn85:19.11",
+          "pli": "Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, bhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:19.12",
+          "pli": "No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, bhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:19.13",
+          "pli": "Ayaṃ kho maṃ, rājakumāra, tatiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā.",
+          "en": "This was the third example that occurred to me."
+        },
+        {
+          "scid": "mn85:19.14",
+          "pli": "Imā kho maṃ, rājakumāra, tisso upamā paṭibhaṃsu anacchariyā pubbe assutapubbā.",
+          "en": "These are the three examples, which were neither supernaturally inspired, nor learned before in the past, that occurred to me."
+        },
+        {
+          "scid": "mn85:20.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:20.2",
+          "pli": "‘yannūnāhaṃ dantebhidantamādhāya, jivhāya tāluṃ āhacca, cetasā cittaṃ abhiniggaṇheyyaṃ abhinippīḷeyyaṃ abhisantāpeyyan’ti.",
+          "en": "‘Why don’t I, with teeth clenched and tongue pressed against the roof of my mouth, squeeze, squash, and torture mind with mind.’"
+        },
+        {
+          "scid": "mn85:20.3",
+          "pli": "So kho ahaṃ, rājakumāra, dantebhidantamādhāya, jivhāya tāluṃ āhacca, cetasā cittaṃ abhiniggaṇhāmi abhinippīḷemi abhisantāpemi.",
+          "en": "So that’s what I did,"
+        },
+        {
+          "scid": "mn85:20.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, dantebhidantamādhāya, jivhāya tāluṃ āhacca, cetasā cittaṃ abhiniggaṇhato abhinippīḷayato abhisantāpayato kacchehi sedā muccanti.",
+          "en": "until sweat ran from my armpits."
+        },
+        {
+          "scid": "mn85:20.5",
+          "pli": "Seyyathāpi, rājakumāra, balavā puriso dubbalataraṃ purisaṃ sīse vā gahetvā khandhe vā gahetvā abhiniggaṇheyya abhinippīḷeyya abhisantāpeyya;",
+          "en": "It was like when a strong man grabs a weaker man by the head or throat or shoulder and squeezes, squashes, and tortures them."
+        },
+        {
+          "scid": "mn85:20.6",
+          "pli": "evameva kho me, rājakumāra, dantebhidantamādhāya, jivhāya tāluṃ āhacca, cetasā cittaṃ abhiniggaṇhato abhinippīḷayato abhisantāpayato kacchehi sedā muccanti.",
+          "en": "In the same way, with teeth clenched and tongue pressed against the roof of my mouth, I squeezed, squashed, and tortured mind with mind until sweat ran from my armpits."
+        },
+        {
+          "scid": "mn85:20.7",
+          "pli": "Āraddhaṃ kho pana me, rājakumāra, vīriyaṃ hoti asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato.",
+          "en": "My energy was roused up and vigorous, and my mindfulness was established and lucid, but my body was disturbed, not tranquil, because I’d pushed too hard with that painful striving."
+        },
+        {
+          "scid": "mn85:21.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:21.2",
+          "pli": "‘yannūnāhaṃ appāṇakaṃyeva jhānaṃ jhāyeyyan’ti.",
+          "en": "‘Why don’t I practice the breathless absorption?’"
+        },
+        {
+          "scid": "mn85:21.3",
+          "pli": "So kho ahaṃ, rājakumāra, mukhato ca nāsato ca assāsapassāse uparundhiṃ.",
+          "en": "So I cut off my breathing through my mouth and nose."
+        },
+        {
+          "scid": "mn85:21.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, mukhato ca nāsato ca assāsapassāsesu uparuddhesu kaṇṇasotehi vātānaṃ nikkhamantānaṃ adhimatto saddo hoti.",
+          "en": "But then winds came out my ears making a loud noise,"
+        },
+        {
+          "scid": "mn85:21.5",
+          "pli": "Seyyathāpi nāma kammāragaggariyā dhamamānāya adhimatto saddo hoti;",
+          "en": "like the puffing of a blacksmith’s bellows."
+        },
+        {
+          "scid": "mn85:21.6",
+          "pli": "evameva kho me, rājakumāra, mukhato ca nāsato ca assāsapassāsesu uparuddhesu kaṇṇasotehi vātānaṃ nikkhamantānaṃ adhimatto saddo hoti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:21.7",
+          "pli": "Āraddhaṃ kho pana me, rājakumāra, vīriyaṃ hoti asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato.",
+          "en": "My energy was roused up and vigorous, and my mindfulness was established and lucid, but my body was disturbed, not tranquil, because I’d pushed too hard with that painful striving."
+        },
+        {
+          "scid": "mn85:22.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:22.2",
+          "pli": "‘yannūnāhaṃ appāṇakaṃyeva jhānaṃ jhāyeyyan’ti.",
+          "en": "‘Why don’t I keep practicing the breathless absorption?’"
+        },
+        {
+          "scid": "mn85:22.3",
+          "pli": "So kho ahaṃ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṃ.",
+          "en": "So I cut off my breathing through my mouth and nose and ears."
+        },
+        {
+          "scid": "mn85:22.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā muddhani ūhananti.",
+          "en": "But then strong winds ground my head,"
+        },
+        {
+          "scid": "mn85:22.5",
+          "pli": "Seyyathāpi, rājakumāra, balavā puriso tiṇhena sikharena muddhani abhimattheyya;",
+          "en": "like a strong man was drilling into my head with a sharp point."
+        },
+        {
+          "scid": "mn85:22.6",
+          "pli": "evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā muddhani ūhananti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:22.7",
+          "pli": "Āraddhaṃ kho pana me, rājakumāra, vīriyaṃ hoti asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato.",
+          "en": "My energy was roused up and vigorous, and my mindfulness was established and lucid, but my body was disturbed, not tranquil, because I’d pushed too hard with that painful striving."
+        },
+        {
+          "scid": "mn85:23.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:23.2",
+          "pli": "‘yannūnāhaṃ appāṇakaṃyeva jhānaṃ jhāyeyyan’ti.",
+          "en": "‘Why don’t I keep practicing the breathless absorption?’"
+        },
+        {
+          "scid": "mn85:23.3",
+          "pli": "So kho ahaṃ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṃ.",
+          "en": "So I cut off my breathing through my mouth and nose and ears."
+        },
+        {
+          "scid": "mn85:23.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā sīse sīsavedanā honti.",
+          "en": "But then I got a severe headache,"
+        },
+        {
+          "scid": "mn85:23.5",
+          "pli": "Seyyathāpi, rājakumāra, balavā puriso daḷhena varattakkhaṇḍena sīse sīsaveṭhaṃ dadeyya;",
+          "en": "like a strong man was tightening a tough leather strap around my head."
+        },
+        {
+          "scid": "mn85:23.6",
+          "pli": "evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā sīse sīsavedanā honti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:23.7",
+          "pli": "Āraddhaṃ kho pana me, rājakumāra, vīriyaṃ hoti asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato.",
+          "en": "My energy was roused up and vigorous, and my mindfulness was established and lucid, but my body was disturbed, not tranquil, because I’d pushed too hard with that painful striving."
+        },
+        {
+          "scid": "mn85:24.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:24.2",
+          "pli": "‘yannūnāhaṃ appāṇakaṃyeva jhānaṃ jhāyeyyan’ti.",
+          "en": "‘Why don’t I keep practicing the breathless absorption?’"
+        },
+        {
+          "scid": "mn85:24.3",
+          "pli": "So kho ahaṃ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṃ.",
+          "en": "So I cut off my breathing through my mouth and nose and ears."
+        },
+        {
+          "scid": "mn85:24.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā kucchiṃ parikantanti.",
+          "en": "But then strong winds carved up my belly,"
+        },
+        {
+          "scid": "mn85:24.5",
+          "pli": "Seyyathāpi, rājakumāra, dakkho goghātako vā goghātakantevāsī vā tiṇhena govikantanena kucchiṃ parikanteyya;",
+          "en": "like an expert butcher or their apprentice was slicing my belly open with a meat cleaver."
+        },
+        {
+          "scid": "mn85:24.6",
+          "pli": "evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā, vātā kucchiṃ parikantanti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:24.7",
+          "pli": "Āraddhaṃ kho pana me, rājakumāra, vīriyaṃ hoti asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato.",
+          "en": "My energy was roused up and vigorous, and my mindfulness was established and lucid, but my body was disturbed, not tranquil, because I’d pushed too hard with that painful striving."
+        },
+        {
+          "scid": "mn85:25.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:25.2",
+          "pli": "‘yannūnāhaṃ appāṇakaṃyeva jhānaṃ jhāyeyyan’ti.",
+          "en": "‘Why don’t I keep practicing the breathless absorption?’"
+        },
+        {
+          "scid": "mn85:25.3",
+          "pli": "So kho ahaṃ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṃ.",
+          "en": "So I cut off my breathing through my mouth and nose and ears."
+        },
+        {
+          "scid": "mn85:25.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimatto kāyasmiṃ ḍāho hoti.",
+          "en": "But then there was an intense burning in my body,"
+        },
+        {
+          "scid": "mn85:25.5",
+          "pli": "Seyyathāpi, rājakumāra, dve balavanto purisā dubbalataraṃ purisaṃ nānābāhāsu gahetvā aṅgārakāsuyā santāpeyyuṃ samparitāpeyyuṃ;",
+          "en": "like two strong men grabbing a weaker man by the arms to burn and scorch him on a pit of glowing coals."
+        },
+        {
+          "scid": "mn85:25.6",
+          "pli": "evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimatto kāyasmiṃ ḍāho hoti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:25.7",
+          "pli": "Āraddhaṃ kho pana me, rājakumāra, vīriyaṃ hoti asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato.",
+          "en": "My energy was roused up and vigorous, and my mindfulness was established and lucid, but my body was disturbed, not tranquil, because I’d pushed too hard with that painful striving."
+        },
+        {
+          "scid": "mn85:26.1",
+          "pli": "Apissu maṃ, rājakumāra, devatā disvā evamāhaṃsu:",
+          "en": "Then some deities saw me and said:"
+        },
+        {
+          "scid": "mn85:26.2",
+          "pli": "‘kālaṅkato samaṇo gotamo’ti.",
+          "en": "‘The ascetic Gotama is dead.’"
+        },
+        {
+          "scid": "mn85:26.3",
+          "pli": "Ekaccā devatā evamāhaṃsu:",
+          "en": "Others said:"
+        },
+        {
+          "scid": "mn85:26.4",
+          "pli": "‘na kālaṅkato samaṇo gotamo, api ca kālaṃ karotī’ti.",
+          "en": "‘He’s not dead, but he’s dying.’"
+        },
+        {
+          "scid": "mn85:26.5",
+          "pli": "Ekaccā devatā evamāhaṃsu:",
+          "en": "Others said:"
+        },
+        {
+          "scid": "mn85:26.6",
+          "pli": "‘na kālaṅkato samaṇo gotamo, nāpi kālaṃ karoti. Arahaṃ samaṇo gotamo. Vihāro tveva so arahato evarūpo hotī’ti.",
+          "en": "‘He’s not dead or dying. The ascetic Gotama is a perfected one, for that is how the perfected ones live.’"
+        },
+        {
+          "scid": "mn85:27.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:27.2",
+          "pli": "‘yannūnāhaṃ sabbaso āhārupacchedāya paṭipajjeyyan’ti.",
+          "en": "‘Why don’t I practice completely cutting off food?’"
+        },
+        {
+          "scid": "mn85:27.3",
+          "pli": "Atha kho maṃ, rājakumāra, devatā upasaṅkamitvā etadavocuṃ:",
+          "en": "But deities came to me and said:"
+        },
+        {
+          "scid": "mn85:27.4",
+          "pli": "‘mā kho tvaṃ, mārisa, sabbaso āhārupacchedāya paṭipajji.",
+          "en": "‘Good sir, don’t practice totally cutting off food."
+        },
+        {
+          "scid": "mn85:27.5",
+          "pli": "Sace kho tvaṃ, mārisa, sabbaso āhārupacchedāya paṭipajjissasi, tassa te mayaṃ dibbaṃ ojaṃ lomakūpehi ajjhohāressāma, tāya tvaṃ yāpessasī’ti.",
+          "en": "If you do, we’ll infuse divine nectar into your pores and you will live on that.’"
+        },
+        {
+          "scid": "mn85:27.6",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:27.7",
+          "pli": "‘ahañceva kho pana sabbaso ajajjitaṃ paṭijāneyyaṃ. Imā ca me devatā dibbaṃ ojaṃ lomakūpehi ajjhohāreyyuṃ, tāya cāhaṃ yāpeyyaṃ, taṃ mamassa musā’ti.",
+          "en": "‘If I claim to be completely fasting while these deities are infusing divine nectar in my pores, that would be a lie on my part.’"
+        },
+        {
+          "scid": "mn85:27.8",
+          "pli": "So kho ahaṃ, rājakumāra, tā devatā paccācikkhāmi. ‘Halan’ti vadāmi.",
+          "en": "So I dismissed those deities, saying, ‘There’s no need.’"
+        },
+        {
+          "scid": "mn85:28.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:28.2",
+          "pli": "‘yannūnāhaṃ thokaṃ thokaṃ āhāraṃ āhāreyyaṃ pasataṃ pasataṃ, yadi vā muggayūsaṃ yadi vā kulatthayūsaṃ yadi vā kaḷāyayūsaṃ yadi vā hareṇukayūsan’ti.",
+          "en": "‘Why don’t I just take a little bit of food each time, a cup of broth made from mung beans, lentils, chick peas, or green gram.’"
+        },
+        {
+          "scid": "mn85:28.3",
+          "pli": "So kho ahaṃ, rājakumāra, thokaṃ thokaṃ āhāraṃ āhāresiṃ pasataṃ pasataṃ, yadi vā muggayūsaṃ yadi vā kulatthayūsaṃ yadi vā kaḷāyayūsaṃ yadi vā hareṇukayūsaṃ.",
+          "en": "So that’s what I did,"
+        },
+        {
+          "scid": "mn85:28.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, thokaṃ thokaṃ āhāraṃ āhārayato pasataṃ pasataṃ, yadi vā muggayūsaṃ yadi vā kulatthayūsaṃ yadi vā kaḷāyayūsaṃ yadi vā hareṇukayūsaṃ, adhimattakasimānaṃ patto kāyo hoti.",
+          "en": "until my body became extremely emaciated."
+        },
+        {
+          "scid": "mn85:28.5",
+          "pli": "Seyyathāpi nāma āsītikapabbāni vā kāḷapabbāni vā; evamevassu me aṅgapaccaṅgāni bhavanti tāyevappāhāratāya.",
+          "en": "Due to eating so little, my limbs became like the joints of an eighty year old or a corpse,"
+        },
+        {
+          "scid": "mn85:28.6",
+          "pli": "Seyyathāpi nāma oṭṭhapadaṃ; evamevassu me ānisadaṃ hoti tāyevappāhāratāya.",
+          "en": "my bottom became like a camel’s hoof,"
+        },
+        {
+          "scid": "mn85:28.7",
+          "pli": "Seyyathāpi nāma vaṭṭanāvaḷī; evamevassu me piṭṭhikaṇṭako uṇṇatāvanato hoti tāyevappāhāratāya.",
+          "en": "my vertebrae stuck out like beads on a string,"
+        },
+        {
+          "scid": "mn85:28.8",
+          "pli": "Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya.",
+          "en": "and my ribs were as gaunt as the broken-down rafters on an old barn."
+        },
+        {
+          "scid": "mn85:28.9",
+          "pli": "Seyyathāpi nāma gambhīre udapāne udakatārakā gambhīragatā okkhāyikā dissanti; evamevassu me akkhikūpesu akkhitārakā gambhīragatā okkhāyikā dissanti tāyevappāhāratāya.",
+          "en": "Due to eating so little, the gleam of my eyes sank deep in their sockets, like the gleam of water sunk deep down a well."
+        },
+        {
+          "scid": "mn85:28.10",
+          "pli": "Seyyathāpi nāma tittakālābu āmakacchinno vātātapena samphuṭito hoti sammilāto; evamevassu me sīsacchavi samphuṭitā hoti sammilātā tāyevappāhāratāya.",
+          "en": "Due to eating so little, my scalp shriveled and withered like a green bitter-gourd in the wind and sun."
+        },
+        {
+          "scid": "mn85:28.11",
+          "pli": "So kho ahaṃ, rājakumāra, ‘udaracchaviṃ parimasissāmī’ti piṭṭhikaṇṭakaṃyeva pariggaṇhāmi, ‘piṭṭhikaṇṭakaṃ parimasissāmī’ti udaracchaviṃyeva pariggaṇhāmi. Yāvassu me, rājakumāra, udaracchavi piṭṭhikaṇṭakaṃ allīnā hoti tāyevappāhāratāya.",
+          "en": "Due to eating so little, the skin of my belly stuck to my backbone, so that when I tried to rub the skin of my belly I grabbed my backbone, and when I tried to rub my backbone I rubbed the skin of my belly."
+        },
+        {
+          "scid": "mn85:28.12",
+          "pli": "So kho ahaṃ, rājakumāra, ‘vaccaṃ vā muttaṃ vā karissāmī’ti tattheva avakujjo papatāmi tāyevappāhāratāya.",
+          "en": "Due to eating so little, when I tried to urinate or defecate I fell face down right there."
+        },
+        {
+          "scid": "mn85:28.13",
+          "pli": "So kho ahaṃ, rājakumāra, imameva kāyaṃ assāsento pāṇinā gattāni anumajjāmi. Tassa mayhaṃ, rājakumāra, pāṇinā gattāni anumajjato pūtimūlāni lomāni kāyasmā papatanti tāyevappāhāratāya.",
+          "en": "Due to eating so little, when I tried to relieve my body by rubbing my limbs with my hands, the hair, rotted at its roots, fell out."
+        },
+        {
+          "scid": "mn85:29.1",
+          "pli": "Apissu maṃ, rājakumāra, manussā disvā evamāhaṃsu: ‘kāḷo samaṇo gotamo’ti,",
+          "en": "Then some people saw me and said: ‘The ascetic Gotama is black.’"
+        },
+        {
+          "scid": "mn85:29.2",
+          "pli": "ekacce manussā evamāhaṃsu: ‘na kāḷo samaṇo gotamo, sāmo samaṇo gotamo’ti.",
+          "en": "Some said: ‘He’s not black, he’s brown.’"
+        },
+        {
+          "scid": "mn85:29.3",
+          "pli": "Ekacce manussā evamāhaṃsu: ‘na kāḷo samaṇo gotamo, napi sāmo, maṅguracchavi samaṇo gotamo’ti.",
+          "en": "Some said: ‘He’s neither black nor brown. The ascetic Gotama has tawny skin.’"
+        },
+        {
+          "scid": "mn85:29.4",
+          "pli": "Yāvassu me, rājakumāra, tāva parisuddho chavivaṇṇo pariyodāto upahato hoti tāyevappāhāratāya.",
+          "en": "That’s how far the pure, bright complexion of my skin had been ruined by taking so little food."
+        },
+        {
+          "scid": "mn85:30.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:30.2",
+          "pli": "‘ye kho keci atītamaddhānaṃ samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayiṃsu, etāvaparamaṃ nayito bhiyyo.",
+          "en": "‘Whatever ascetics and brahmins have experienced painful, sharp, severe, acute feelings due to overexertion—whether in the past, future, or present—this is as far as it goes, no-one has done more than this."
+        },
+        {
+          "scid": "mn85:30.3",
+          "pli": "Yepi hi keci anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayissanti, etāvaparamaṃ nayito bhiyyo.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:30.4",
+          "pli": "Yepi hi keci etarahi samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, etāvaparamaṃ nayito bhiyyo.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:30.5",
+          "pli": "Na kho panāhaṃ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammā alamariyañāṇadassanavisesaṃ;",
+          "en": "But I have not achieved any superhuman distinction in knowledge and vision worthy of the noble ones by this severe, gruelling work."
+        },
+        {
+          "scid": "mn85:30.6",
+          "pli": "siyā nu kho añño maggo bodhāyā’ti.",
+          "en": "Could there be another path to awakening?’"
+        },
+        {
+          "scid": "mn85:31.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:31.2",
+          "pli": "‘abhijānāmi kho panāhaṃ pitu sakkassa kammante sītāya jambucchāyāya nisinno vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharitā;",
+          "en": "‘I recall sitting in the cool shade of the rose-apple tree while my father the Sakyan was off working. Quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn85:31.3",
+          "pli": "siyā nu kho eso maggo bodhāyā’ti.",
+          "en": "Could that be the path to awakening?’"
+        },
+        {
+          "scid": "mn85:31.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, satānusāri viññāṇaṃ ahosi:",
+          "en": "Stemming from that memory came the realization:"
+        },
+        {
+          "scid": "mn85:31.5",
+          "pli": "‘eseva maggo bodhāyā’ti.",
+          "en": "‘<em>That</em> is the path to awakening!’"
+        },
+        {
+          "scid": "mn85:32.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:32.2",
+          "pli": "‘kiṃ nu kho ahaṃ tassa sukhassa bhāyāmi yaṃ taṃ sukhaṃ aññatreva kāmehi aññatra akusalehi dhammehī’ti?",
+          "en": "‘Why am I afraid of that pleasure, for it has nothing to do with sensual pleasures or unskillful qualities?’"
+        },
+        {
+          "scid": "mn85:32.3",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:32.4",
+          "pli": "‘na kho ahaṃ tassa sukhassa bhāyāmi yaṃ taṃ sukhaṃ aññatreva kāmehi aññatra akusalehi dhammehī’ti.",
+          "en": "‘I’m not afraid of that pleasure, for it has nothing to do with sensual pleasures or unskillful qualities.’"
+        },
+        {
+          "scid": "mn85:33.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:33.2",
+          "pli": "‘na kho taṃ sukaraṃ sukhaṃ adhigantuṃ evaṃ adhimattakasimānaṃ pattakāyena. Yannūnāhaṃ oḷārikaṃ āhāraṃ āhāreyyaṃ odanakummāsan’ti.",
+          "en": "‘I can’t achieve that pleasure with a body so excessively emaciated. Why don’t I eat some solid food, some rice and porridge?’"
+        },
+        {
+          "scid": "mn85:33.3",
+          "pli": "So kho ahaṃ, rājakumāra, oḷārikaṃ āhāraṃ āhāresiṃ odanakummāsaṃ.",
+          "en": "So I ate some solid food."
+        },
+        {
+          "scid": "mn85:33.4",
+          "pli": "Tena kho pana maṃ, rājakumāra, samayena pañcavaggiyā bhikkhū paccupaṭṭhitā honti:",
+          "en": "Now at that time the five mendicants were attending on me, thinking:"
+        },
+        {
+          "scid": "mn85:33.5",
+          "pli": "‘yaṃ kho samaṇo gotamo dhammaṃ adhigamissati taṃ no ārocessatī’ti.",
+          "en": "‘The ascetic Gotama will tell us of any truth that he realizes.’"
+        },
+        {
+          "scid": "mn85:33.6",
+          "pli": "Yato kho ahaṃ, rājakumāra, oḷārikaṃ āhāraṃ āhāresiṃ odanakummāsaṃ, atha me te pañcavaggiyā bhikkhū nibbijja pakkamiṃsu:",
+          "en": "But when I ate some solid food, they got disillusioned and left, saying:"
+        },
+        {
+          "scid": "mn85:33.7",
+          "pli": "‘bāhulliko samaṇo gotamo padhānavibbhanto, āvatto bāhullāyā’ti.",
+          "en": "‘The ascetic Gotama has become indulgent; he’s strayed from the struggle and returned to indulgence.’"
+        },
+        {
+          "scid": "mn85:34-37.1",
+          "pli": "So kho ahaṃ, rājakumāra, oḷārikaṃ āhāraṃ āhāretvā balaṃ gahetvā vivicceva kāmehi … pe … paṭhamaṃ jhānaṃ upasampajja vihāsiṃ.",
+          "en": "After eating solid food and gathering my strength, quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption …"
+        },
+        {
+          "scid": "mn85:34-37.2",
+          "pli": "Vitakkavicārānaṃ vūpasamā … dutiyaṃ jhānaṃ …",
+          "en": "second absorption …"
+        },
+        {
+          "scid": "mn85:34-37.3",
+          "pli": "tatiyaṃ jhānaṃ …",
+          "en": "third absorption …"
+        },
+        {
+          "scid": "mn85:34-37.4",
+          "pli": "catutthaṃ jhānaṃ upasampajja vihāsiṃ.",
+          "en": "fourth absorption."
+        },
+        {
+          "scid": "mn85:34-37.5",
+          "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmesiṃ.",
+          "en": "When my mind had immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—I extended it toward recollection of past lives."
+        },
+        {
+          "scid": "mn85:34-37.6",
+          "pli": "So anekavihitaṃ pubbenivāsaṃ anussarāmi, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo … pe … iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarāmi.",
+          "en": "I recollected many past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world evolving, many eons of the world contracting and evolving. And so I recollected my many kinds of past lives, with features and details."
+        },
+        {
+          "scid": "mn85:34-37.7",
+          "pli": "Ayaṃ kho me, rājakumāra, rattiyā paṭhame yāme paṭhamā ",
+          "en": "This was the first knowledge, which I achieved in the first watch of the night. "
+        },
+        {
+          "scid": "mn85:34-37.8",
+          "pli": "vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṃ appamattassa ātāpino pahitattassa viharato.",
+          "en": "Ignorance was destroyed and knowledge arose; darkness was destroyed and light arose, as happens for a meditator who is diligent, keen, and resolute."
+        },
+        {
+          "scid": "mn85:38.1",
+          "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmesiṃ.",
+          "en": "When my mind had immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—I extended it toward knowledge of the death and rebirth of sentient beings."
+        },
+        {
+          "scid": "mn85:38.2",
+          "pli": "So dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi … pe …",
+          "en": "With clairvoyance that is purified and superhuman, I saw sentient beings passing away and being reborn—inferior and superior, beautiful and ugly, in a good place or a bad place. I understood how sentient beings are reborn according to their deeds."
+        },
+        {
+          "scid": "mn85:39.1",
+          "pli": "ayaṃ kho me, rājakumāra, rattiyā majjhime yāme dutiyā vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṃ appamattassa ātāpino pahitattassa viharato.",
+          "en": "This was the second knowledge, which I achieved in the middle watch of the night. Ignorance was destroyed and knowledge arose; darkness was destroyed and light arose, as happens for a meditator who is diligent, keen, and resolute."
+        },
+        {
+          "scid": "mn85:40.1",
+          "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmesiṃ.",
+          "en": "When my mind had immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—I extended it toward knowledge of the ending of defilements."
+        },
+        {
+          "scid": "mn85:40.2",
+          "pli": "So ‘idaṃ dukkhan’ti yathābhūtaṃ abbhaññāsiṃ … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ abbhaññāsiṃ;",
+          "en": "I truly understood: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+        },
+        {
+          "scid": "mn85:40.3",
+          "pli": "‘ime āsavā’ti yathābhūtaṃ abbhaññāsiṃ … pe … ‘ayaṃ āsavanirodhagāminī paṭipadā’ti yathābhūtaṃ abbhaññāsiṃ.",
+          "en": "I truly understood: ‘These are defilements’ … ‘This is the origin of defilements’ … ‘This is the cessation of defilements’ … ‘This is the practice that leads to the cessation of defilements’."
+        },
+        {
+          "scid": "mn85:41.1",
+          "pli": "Tassa me evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccittha, bhavāsavāpi cittaṃ vimuccittha, avijjāsavāpi cittaṃ vimuccittha.",
+          "en": "Knowing and seeing like this, my mind was freed from the defilements of sensuality, desire to be reborn, and ignorance."
+        },
+        {
+          "scid": "mn85:41.2",
+          "pli": "Vimuttasmiṃ vimuttamiti ñāṇaṃ ahosi.",
+          "en": "When freed, I knew ‘it is freed’."
+        },
+        {
+          "scid": "mn85:41.3",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti abbhaññāsiṃ.",
+          "en": "I understood: ‘Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.’"
+        },
+        {
+          "scid": "mn85:42.1",
+          "pli": "Ayaṃ kho me, rājakumāra, rattiyā pacchime yāme tatiyā ",
+          "en": "This was the third knowledge, which I achieved in the last watch of the night. "
+        },
+        {
+          "scid": "mn85:42.2",
+          "pli": "vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṃ appamattassa ātāpino pahitattassa viharato.",
+          "en": "Ignorance was destroyed and knowledge arose; darkness was destroyed and light arose, as happens for a meditator who is diligent, keen, and resolute."
+        },
+        {
+          "scid": "mn85:43.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:43.2",
+          "pli": "‘adhigato kho myāyaṃ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo.",
+          "en": "‘This principle I have discovered is deep, hard to see, hard to understand, peaceful, sublime, beyond the scope of reason, subtle, comprehensible to the astute.’"
+        },
+        {
+          "scid": "mn85:43.3",
+          "pli": "Ālayarāmā kho panāyaṃ pajā ālayaratā ālayasammuditā.",
+          "en": "But people like attachment, they love it and enjoy it."
+        },
+        {
+          "scid": "mn85:43.4",
+          "pli": "Ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṃ idaṃ ṭhānaṃ yadidaṃ—idappaccayatāpaṭiccasamuppādo.",
+          "en": "It’s hard for them to see this thing; that is, specific conditionality, dependent origination."
+        },
+        {
+          "scid": "mn85:43.5",
+          "pli": "Idampi kho ṭhānaṃ duddasaṃ—yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṃ.",
+          "en": "It’s also hard for them to see this thing; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment."
+        },
+        {
+          "scid": "mn85:43.6",
+          "pli": "Ahañceva kho pana dhammaṃ deseyyaṃ, pare ca me na ājāneyyuṃ, so mamassa kilamatho, sā mamassa vihesā’ti.",
+          "en": "And if I were to teach the Dhamma, others might not understand me, which would be wearying and troublesome for me.’"
+        },
+        {
+          "scid": "mn85:43.7",
+          "pli": "Apissu maṃ, rājakumāra, imā anacchariyā gāthāyo paṭibhaṃsu pubbe assutapubbā:",
+          "en": "And then these verses, which were neither supernaturally inspired, nor learned before in the past, occurred to me:"
+        },
+        {
+          "scid": "mn85:43.8",
+          "pli": "‘Kicchena me adhigataṃ,",
+          "en": "‘I’ve struggled hard to realize this,"
+        },
+        {
+          "scid": "mn85:43.9",
+          "pli": "halaṃ dāni pakāsituṃ;",
+          "en": "enough with trying to explain it!"
+        },
+        {
+          "scid": "mn85:43.10",
+          "pli": "Rāgadosaparetehi,",
+          "en": "This teaching is not easily understood"
+        },
+        {
+          "scid": "mn85:43.11",
+          "pli": "nāyaṃ dhammo susambudho.",
+          "en": "by those mired in greed and hate."
+        },
+        {
+          "scid": "mn85:43.12",
+          "pli": "Paṭisotagāmiṃ nipuṇaṃ,",
+          "en": "Those caught up in greed can’t see"
+        },
+        {
+          "scid": "mn85:43.13",
+          "pli": "gambhīraṃ duddasaṃ aṇuṃ;",
+          "en": "what’s subtle, going against the stream,"
+        },
+        {
+          "scid": "mn85:43.14",
+          "pli": "Rāgarattā na dakkhanti,",
+          "en": "deep, hard to see, and very fine,"
+        },
+        {
+          "scid": "mn85:43.15",
+          "pli": "tamokhandhena āvuṭā’ti.",
+          "en": "for they’re shrouded in a mass of darkness.’"
+        },
+        {
+          "scid": "mn85:43.16",
+          "pli": "Itiha me, rājakumāra, paṭisañcikkhato appossukkatāya cittaṃ namati no dhammadesanāya.",
+          "en": "And as I reflected like this, my mind inclined to remaining passive, not to teaching the Dhamma."
+        },
+        {
+          "scid": "mn85:44.1",
+          "pli": "Atha kho, rājakumāra, brahmuno sahampatissa mama cetasā cetoparivitakkamaññāya etadahosi:",
+          "en": "Then Brahmā Sahampati, knowing what I was thinking, thought:"
+        },
+        {
+          "scid": "mn85:44.2",
+          "pli": "‘nassati vata bho loko; vinassati vata bho loko. Yatra hi nāma tathāgatassa arahato sammāsambuddhassa appossukkatāya cittaṃ namati no dhammadesanāyā’ti.",
+          "en": "‘Oh my goodness! The world will be lost, the world will perish! For the mind of the Realized One, the perfected one, the fully awakened Buddha, inclines to remaining passive, not to teaching the Dhamma.’"
+        },
+        {
+          "scid": "mn85:44.3",
+          "pli": "Atha kho, rājakumāra, brahmā sahampati—seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ samiñjeyya; evameva—brahmaloke antarahito mama purato pāturahosi.",
+          "en": "Then Brahmā Sahampati, as easily as a strong person would extend or contract their arm, vanished from the Brahmā realm and reappeared in front of the Buddha."
+        },
+        {
+          "scid": "mn85:44.4",
+          "pli": "Atha kho, rājakumāra, brahmā sahampati ekaṃsaṃ uttarāsaṅgaṃ karitvā yenāhaṃ tenañjaliṃ paṇāmetvā maṃ etadavoca:",
+          "en": "He arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and said:"
+        },
+        {
+          "scid": "mn85:44.5",
+          "pli": "‘desetu, bhante, bhagavā dhammaṃ, desetu sugato dhammaṃ.",
+          "en": "‘Sir, let the Blessed One teach the Dhamma! Let the Holy One teach the Dhamma!"
+        },
+        {
+          "scid": "mn85:44.6",
+          "pli": "Santi sattā apparajakkhajātikā assavanatāya dhammassa parihāyanti;",
+          "en": "There are beings with little dust in their eyes. They’re in decline because they haven’t heard the teaching."
+        },
+        {
+          "scid": "mn85:44.7",
+          "pli": "bhavissanti dhammassa aññātāro’ti.",
+          "en": "There will be those who understand the teaching!’"
+        },
+        {
+          "scid": "mn85:44.8",
+          "pli": "Idamavoca, rājakumāra, brahmā sahampati;",
+          "en": "That’s what Brahmā Sahampati said."
+        },
+        {
+          "scid": "mn85:44.9",
+          "pli": "idaṃ vatvā athāparaṃ etadavoca:",
+          "en": "Then he went on to say:"
+        },
+        {
+          "scid": "mn85:44.10",
+          "pli": "‘Pāturahosi magadhesu pubbe,",
+          "en": "‘Among the Magadhans there appeared in the past"
+        },
+        {
+          "scid": "mn85:44.11",
+          "pli": "Dhammo asuddho samalehi cintito;",
+          "en": "an impure teaching thought up by those still stained."
+        },
+        {
+          "scid": "mn85:44.12",
+          "pli": "Apāpuretaṃ amatassa dvāraṃ,",
+          "en": "Fling open the door to the deathless!"
+        },
+        {
+          "scid": "mn85:44.13",
+          "pli": "Suṇantu dhammaṃ vimalenānubuddhaṃ.",
+          "en": "Let them hear the teaching the stainless one discovered."
+        },
+        {
+          "scid": "mn85:44.14",
+          "pli": "Sele yathā pabbatamuddhaniṭṭhito,",
+          "en": "Standing high on a rocky mountain,"
+        },
+        {
+          "scid": "mn85:44.15",
+          "pli": "Yathāpi passe janataṃ samantato;",
+          "en": "you can see the people all around."
+        },
+        {
+          "scid": "mn85:44.16",
+          "pli": "Tathūpamaṃ dhammamayaṃ sumedha,",
+          "en": "In just the same way, all-seer, wise one,"
+        },
+        {
+          "scid": "mn85:44.17",
+          "pli": "Pāsādamāruyha samantacakkhu.",
+          "en": "ascend the palace built of Dhamma!"
+        },
+        {
+          "scid": "mn85:44.18",
+          "pli": "Sokāvatiṇṇaṃ janatamapetasoko,",
+          "en": "You’re free of sorrow; but look at these people"
+        },
+        {
+          "scid": "mn85:44.19",
+          "pli": "Avekkhassu jātijarābhibhūtaṃ;",
+          "en": "overwhelmed with sorrow, oppressed by rebirth and old age."
+        },
+        {
+          "scid": "mn85:44.20",
+          "pli": "Uṭṭhehi vīra vijitasaṅgāma,",
+          "en": "Rise, hero! Victor in battle, leader of the caravan,"
+        },
+        {
+          "scid": "mn85:44.21",
+          "pli": "Satthavāha aṇaṇa vicara loke;",
+          "en": "wander the world without obligation."
+        },
+        {
+          "scid": "mn85:44.22",
+          "pli": "Desassu bhagavā dhammaṃ,",
+          "en": "Let the Blessed One teach the Dhamma!"
+        },
+        {
+          "scid": "mn85:44.23",
+          "pli": "Aññātāro bhavissantī’ti.",
+          "en": "There will be those who understand!’"
+        },
+        {
+          "scid": "mn85:45.1",
+          "pli": "Atha khvāhaṃ, rājakumāra, brahmuno ca ajjhesanaṃ viditvā sattesu ca kāruññataṃ paṭicca buddhacakkhunā lokaṃ volokesiṃ.",
+          "en": "Then, understanding Brahmā’s invitation, I surveyed the world with the eye of a Buddha, because of my compassion for sentient beings."
+        },
+        {
+          "scid": "mn85:45.2",
+          "pli": "Addasaṃ kho ahaṃ, rājakumāra, buddhacakkhunā lokaṃ volokento satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante.",
+          "en": "And I saw sentient beings with little dust in their eyes, and some with much dust in their eyes; with keen faculties and with weak faculties, with good qualities and with bad qualities, easy to teach and hard to teach. And some of them lived seeing the danger in the flaw to do with the next world, while others did not."
+        },
+        {
+          "scid": "mn85:45.3",
+          "pli": "Seyyathāpi nāma uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakānuggatāni antonimuggaposīni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakānuggatāni samodakaṃ ṭhitāni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakā accuggamma ṭhitāni anupalittāni udakena;",
+          "en": "It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. Some of them sprout and grow in the water reaching the water’s surface. And some of them sprout and grow in the water but rise up above the water and stand with no water clinging to them."
+        },
+        {
+          "scid": "mn85:45.4",
+          "pli": "evameva kho ahaṃ, rājakumāra; buddhacakkhunā lokaṃ volokento addasaṃ satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:45.5",
+          "pli": "Atha khvāhaṃ, rājakumāra, brahmānaṃ sahampatiṃ gāthāya paccabhāsiṃ:",
+          "en": "Then I replied in verse to Brahmā Sahampati:"
+        },
+        {
+          "scid": "mn85:45.6",
+          "pli": "‘Apārutā tesaṃ amatassa dvārā,",
+          "en": "‘Flung open are the doors to the deathless!"
+        },
+        {
+          "scid": "mn85:45.7",
+          "pli": "Ye sotavanto pamuñcantu saddhaṃ;",
+          "en": "Let those with ears to hear decide their faith."
+        },
+        {
+          "scid": "mn85:45.8",
+          "pli": "Vihiṃsasaññī paguṇaṃ na bhāsiṃ,",
+          "en": "Thinking it would be troublesome, Brahmā, I did not teach"
+        },
+        {
+          "scid": "mn85:45.9",
+          "pli": "Dhammaṃ paṇītaṃ manujesu brahme’ti.",
+          "en": "the sophisticated, sublime Dhamma among humans.’"
+        },
+        {
+          "scid": "mn85:45.10",
+          "pli": "Atha kho, rājakumāra, brahmā sahampati ‘katāvakāso khomhi bhagavatā dhammadesanāyā’ti maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyi.",
+          "en": "Then Brahmā Sahampati, knowing that his request for me to teach the Dhamma had been granted, bowed and respectfully circled me, keeping me on his right, before vanishing right there."
+        },
+        {
+          "scid": "mn85:46.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:46.2",
+          "pli": "‘kassa nu kho ahaṃ paṭhamaṃ dhammaṃ deseyyaṃ?",
+          "en": "‘Who should I teach first of all?"
+        },
+        {
+          "scid": "mn85:46.3",
+          "pli": "Ko imaṃ dhammaṃ khippameva ājānissatī’ti?",
+          "en": "Who will quickly understand the teaching?’"
+        },
+        {
+          "scid": "mn85:46.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:46.5",
+          "pli": "‘ayaṃ kho āḷāro kālāmo paṇḍito viyatto medhāvī dīgharattaṃ apparajakkhajātiko.",
+          "en": "‘That Āḷāra Kālāma is astute, competent, clever, and has long had little dust in his eyes."
+        },
+        {
+          "scid": "mn85:46.6",
+          "pli": "Yannūnāhaṃ āḷārassa kālāmassa paṭhamaṃ dhammaṃ deseyyaṃ;",
+          "en": "Why don’t I teach him first of all?"
+        },
+        {
+          "scid": "mn85:46.7",
+          "pli": "so imaṃ dhammaṃ khippameva ājānissatī’ti.",
+          "en": "He’ll quickly understand the teaching.’"
+        },
+        {
+          "scid": "mn85:46.8",
+          "pli": "Atha kho maṃ, rājakumāra, devatā upasaṅkamitvā etadavoca:",
+          "en": "But a deity came to me and said:"
+        },
+        {
+          "scid": "mn85:46.9",
+          "pli": "‘sattāhakālaṅkato, bhante, āḷāro kālāmo’ti.",
+          "en": "‘Sir, Āḷāra Kālāma passed away seven days ago.’"
+        },
+        {
+          "scid": "mn85:46.10",
+          "pli": "Ñāṇañca pana me dassanaṃ udapādi:",
+          "en": "And knowledge and vision arose in me:"
+        },
+        {
+          "scid": "mn85:46.11",
+          "pli": "‘sattāhakālaṅkato āḷāro kālāmo’ti.",
+          "en": "‘Āḷāra Kālāma passed away seven days ago.’"
+        },
+        {
+          "scid": "mn85:46.12",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:46.13",
+          "pli": "‘mahājāniyo kho āḷāro kālāmo.",
+          "en": "‘This is a great loss for Āḷāra Kālāma."
+        },
+        {
+          "scid": "mn85:46.14",
+          "pli": "Sace hi so imaṃ dhammaṃ suṇeyya, khippameva ājāneyyā’ti.",
+          "en": "If he had heard the teaching, he would have understood it quickly.’"
+        },
+        {
+          "scid": "mn85:47.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:47.2",
+          "pli": "‘kassa nu kho ahaṃ paṭhamaṃ dhammaṃ deseyyaṃ?",
+          "en": "‘Who should I teach first of all?"
+        },
+        {
+          "scid": "mn85:47.3",
+          "pli": "Ko imaṃ dhammaṃ khippameva ājānissatī’ti?",
+          "en": "Who will quickly understand the teaching?’"
+        },
+        {
+          "scid": "mn85:47.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:47.5",
+          "pli": "‘ayaṃ kho udako rāmaputto paṇḍito viyatto medhāvī dīgharattaṃ apparajakkhajātiko.",
+          "en": "‘ThatUddaka, son of Rāma, is astute, competent, clever, and has long had little dust in his eyes."
+        },
+        {
+          "scid": "mn85:47.6",
+          "pli": "Yannūnāhaṃ udakassa rāmaputtassa paṭhamaṃ dhammaṃ deseyyaṃ;",
+          "en": "Why don’t I teach him first of all?"
+        },
+        {
+          "scid": "mn85:47.7",
+          "pli": "so imaṃ dhammaṃ khippameva ājānissatī’ti.",
+          "en": "He’ll quickly understand the teaching.’"
+        },
+        {
+          "scid": "mn85:47.8",
+          "pli": "Atha kho maṃ, rājakumāra, devatā upasaṅkamitvā etadavoca:",
+          "en": "But a deity came to me and said:"
+        },
+        {
+          "scid": "mn85:47.9",
+          "pli": "‘abhidosakālaṅkato, bhante, udako rāmaputto’ti.",
+          "en": "‘Sir,Uddaka, son of Rāma, passed away just last night.’"
+        },
+        {
+          "scid": "mn85:47.10",
+          "pli": "Ñāṇañca pana me dassanaṃ udapādi:",
+          "en": "And knowledge and vision arose in me:"
+        },
+        {
+          "scid": "mn85:47.11",
+          "pli": "‘abhidosakālaṅkato udako rāmaputto’ti.",
+          "en": "‘Udaka, Rāma’s son, passed away just last night.’"
+        },
+        {
+          "scid": "mn85:47.12",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:47.13",
+          "pli": "‘mahājāniyo kho udako rāmaputto.",
+          "en": "‘This is a great loss for Uddaka."
+        },
+        {
+          "scid": "mn85:47.14",
+          "pli": "Sace hi so imaṃ dhammaṃ suṇeyya, khippameva ājāneyyā’ti.",
+          "en": "If he had heard the teaching, he would have understood it quickly.’"
+        },
+        {
+          "scid": "mn85:48.1",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:48.2",
+          "pli": "‘kassa nu kho ahaṃ paṭhamaṃ dhammaṃ deseyyaṃ?",
+          "en": "‘Who should I teach first of all?"
+        },
+        {
+          "scid": "mn85:48.3",
+          "pli": "Ko imaṃ dhammaṃ khippameva ājānissatī’ti?",
+          "en": "Who will quickly understand the teaching?’"
+        },
+        {
+          "scid": "mn85:48.4",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:48.5",
+          "pli": "‘bahukārā kho me pañcavaggiyā bhikkhū ye maṃ padhānapahitattaṃ upaṭṭhahiṃsu.",
+          "en": "‘The group of five mendicants were very helpful to me. They looked after me during my time of resolute striving."
+        },
+        {
+          "scid": "mn85:48.6",
+          "pli": "Yannūnāhaṃ pañcavaggiyānaṃ bhikkhūnaṃ paṭhamaṃ dhammaṃ deseyyan’ti.",
+          "en": "Why don’t I teach them first of all?’"
+        },
+        {
+          "scid": "mn85:48.7",
+          "pli": "Tassa mayhaṃ, rājakumāra, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "mn85:48.8",
+          "pli": "‘kahaṃ nu kho etarahi pañcavaggiyā bhikkhū viharantī’ti.",
+          "en": "‘Where are the group of five mendicants staying these days?’"
+        },
+        {
+          "scid": "mn85:48.9",
+          "pli": "Addasaṃ khvāhaṃ, rājakumāra, dibbena cakkhunā visuddhena atikkantamānusakena pañcavaggiye bhikkhū bārāṇasiyaṃ viharante isipatane migadāye.",
+          "en": "With clairvoyance that is purified and superhuman I saw that the group of five mendicants were staying near Benares, in the deer park at Isipatana."
+        },
+        {
+          "scid": "mn85:49.1",
+          "pli": "Atha khvāhaṃ, rājakumāra, uruvelāyaṃ yathābhirantaṃ viharitvā yena bārāṇasī tena cārikaṃ pakkamiṃ.",
+          "en": "So, when I had stayed in Uruvelā as long as I wished, I set out for Benares."
+        },
+        {
+          "scid": "mn85:49.2",
+          "pli": "Addasā kho maṃ, rājakumāra, upako ājīvako antarā ca gayaṃ antarā ca bodhiṃ addhānamaggappaṭipannaṃ.",
+          "en": "While I was travelling along the road between Gaya and Bodhgaya, the Ājīvaka ascetic Upaka saw me"
+        },
+        {
+          "scid": "mn85:49.3",
+          "pli": "Disvāna maṃ etadavoca:",
+          "en": "and said:"
+        },
+        {
+          "scid": "mn85:49.4",
+          "pli": "‘vippasannāni kho te, āvuso, indriyāni, parisuddho chavivaṇṇo pariyodāto.",
+          "en": "‘Reverend, your faculties are so very clear, and your complexion is pure and bright."
+        },
+        {
+          "scid": "mn85:49.5",
+          "pli": "Kaṃsi tvaṃ, āvuso, uddissa pabbajito? Ko vā te satthā? Kassa vā tvaṃ dhammaṃ rocesī’ti?",
+          "en": "In whose name have you gone forth, reverend? Who is your Teacher? Whose teaching do you believe in?’"
+        },
+        {
+          "scid": "mn85:49.6",
+          "pli": "Evaṃ vutte, ahaṃ, rājakumāra, upakaṃ ājīvakaṃ gāthāhi ajjhabhāsiṃ:",
+          "en": "I replied to Upaka in verse:"
+        },
+        {
+          "scid": "mn85:49.7",
+          "pli": "‘Sabbābhibhū sabbavidūhamasmi,",
+          "en": "‘I am the champion, the knower of all,"
+        },
+        {
+          "scid": "mn85:49.8",
+          "pli": "Sabbesu dhammesu anūpalitto;",
+          "en": "unsullied in the midst of all things."
+        },
+        {
+          "scid": "mn85:49.9",
+          "pli": "Sabbañjaho taṇhākkhaye vimutto,",
+          "en": "I’ve given up all, freed in the ending of craving."
+        },
+        {
+          "scid": "mn85:49.10",
+          "pli": "Sayaṃ abhiññāya kamuddiseyyaṃ.",
+          "en": "When I know for myself, who should I follow?"
+        },
+        {
+          "scid": "mn85:49.11",
+          "pli": "Na me ācariyo atthi,",
+          "en": "I have no teacher."
+        },
+        {
+          "scid": "mn85:49.12",
+          "pli": "sadiso me na vijjati;",
+          "en": "There is no-one like me."
+        },
+        {
+          "scid": "mn85:49.13",
+          "pli": "Sadevakasmiṃ lokasmiṃ,",
+          "en": "In the world with its gods,"
+        },
+        {
+          "scid": "mn85:49.14",
+          "pli": "natthi me paṭipuggalo.",
+          "en": "I have no counterpart."
+        },
+        {
+          "scid": "mn85:49.15",
+          "pli": "Ahañhi arahā loke,",
+          "en": "For in this world, I am the perfected one;"
+        },
+        {
+          "scid": "mn85:49.16",
+          "pli": "ahaṃ satthā anuttaro;",
+          "en": "I am the supreme Teacher."
+        },
+        {
+          "scid": "mn85:49.17",
+          "pli": "Ekomhi sammāsambuddho,",
+          "en": "I alone am fully awakened,"
+        },
+        {
+          "scid": "mn85:49.18",
+          "pli": "sītibhūtosmi nibbuto.",
+          "en": "cooled, extinguished."
+        },
+        {
+          "scid": "mn85:49.19",
+          "pli": "Dhammacakkaṃ pavattetuṃ,",
+          "en": "I am going to the city of Kāsi"
+        },
+        {
+          "scid": "mn85:49.20",
+          "pli": "Gacchāmi kāsinaṃ puraṃ;",
+          "en": "to roll forth the Wheel of Dhamma."
+        },
+        {
+          "scid": "mn85:49.21",
+          "pli": "Andhībhūtasmiṃ lokasmiṃ,",
+          "en": "In this world that is so blind,"
+        },
+        {
+          "scid": "mn85:49.22",
+          "pli": "Āhañchaṃ amatadundubhin’ti.",
+          "en": "I’ll beat the deathless drum!’"
+        },
+        {
+          "scid": "mn85:49.23",
+          "pli": "‘Yathā kho tvaṃ, āvuso, paṭijānāsi arahasi anantajino’ti.",
+          "en": "‘According to what you claim, reverend, you ought to be the Infinite Victor.’"
+        },
+        {
+          "scid": "mn85:49.24",
+          "pli": "‘Mādisā ve jinā honti,",
+          "en": "‘The victors are those who, like me,"
+        },
+        {
+          "scid": "mn85:49.25",
+          "pli": "ye pattā āsavakkhayaṃ;",
+          "en": "have reached the ending of defilements."
+        },
+        {
+          "scid": "mn85:49.26",
+          "pli": "Jitā me pāpakā dhammā,",
+          "en": "I have conquered bad qualities, Upaka—"
+        },
+        {
+          "scid": "mn85:49.27",
+          "pli": "tasmāhamupaka jino’ti.",
+          "en": "that’s why I’m a victor.’"
+        },
+        {
+          "scid": "mn85:49.28",
+          "pli": "Evaṃ vutte, rājakumāra, upako ājīvako ‘hupeyyapāvuso’ti vatvā sīsaṃ okampetvā ummaggaṃ gahetvā pakkāmi.",
+          "en": "When I had spoken, Upaka said: ‘If you say so, reverend.’ Wobbling his head, he took a wrong turn and left."
+        },
+        {
+          "scid": "mn85:50.1",
+          "pli": "Atha khvāhaṃ, rājakumāra, anupubbena cārikaṃ caramāno yena bārāṇasī isipatanaṃ migadāyo yena pañcavaggiyā bhikkhū tenupasaṅkamiṃ.",
+          "en": "Travelling stage by stage, I arrived at Benares, and went to see the group of five mendicants in the deer park at Isipatana."
+        },
+        {
+          "scid": "mn85:50.2",
+          "pli": "Addasaṃsu kho maṃ, rājakumāra, pañcavaggiyā bhikkhū dūratova āgacchantaṃ.",
+          "en": "The group of five mendicants saw me coming off in the distance"
+        },
+        {
+          "scid": "mn85:50.3",
+          "pli": "Disvāna aññamaññaṃ saṇṭhapesuṃ:",
+          "en": "and stopped each other, saying:"
+        },
+        {
+          "scid": "mn85:50.4",
+          "pli": "‘ayaṃ kho, āvuso, samaṇo gotamo āgacchati bāhulliko padhānavibbhanto āvatto bāhullāya.",
+          "en": "‘Here comes the ascetic Gotama. He’s so indulgent; he strayed from the struggle and returned to indulgence."
+        },
+        {
+          "scid": "mn85:50.5",
+          "pli": "So neva abhivādetabbo, na paccuṭṭhātabbo, nāssa pattacīvaraṃ paṭiggahetabbaṃ;",
+          "en": "We shouldn’t bow to him or rise for him or receive his bowl and robe."
+        },
+        {
+          "scid": "mn85:50.6",
+          "pli": "api ca kho āsanaṃ ṭhapetabbaṃ—sace so ākaṅkhissati nisīdissatī’ti.",
+          "en": "But we can set out a seat; he can sit if he likes.’"
+        },
+        {
+          "scid": "mn85:50.7",
+          "pli": "Yathā yathā kho ahaṃ, rājakumāra, pañcavaggiye bhikkhū upasaṅkamiṃ tathā tathā pañcavaggiyā bhikkhū nāsakkhiṃsu sakāya katikāya saṇṭhātuṃ.",
+          "en": "Yet as I grew closer, the group of five mendicants were unable to stop themselves as they had agreed."
+        },
+        {
+          "scid": "mn85:50.8",
+          "pli": "Appekacce maṃ paccuggantvā pattacīvaraṃ paṭiggahesuṃ. Appekacce āsanaṃ paññapesuṃ. Appekacce pādodakaṃ upaṭṭhapesuṃ.",
+          "en": "Some came out to greet me and receive my bowl and robe, some spread out a seat, while others set out water for washing my feet."
+        },
+        {
+          "scid": "mn85:50.9",
+          "pli": "Api ca kho maṃ nāmena ca āvusovādena ca samudācaranti.",
+          "en": "But they still addressed me by name and as ‘reverend’."
+        },
+        {
+          "scid": "mn85:51.1",
+          "pli": "Evaṃ vutte, ahaṃ, rājakumāra, pañcavaggiye bhikkhū etadavocaṃ:",
+          "en": "So I said to them:"
+        },
+        {
+          "scid": "mn85:51.2",
+          "pli": "‘mā, bhikkhave, tathāgataṃ nāmena ca āvusovādena ca samudācaratha;",
+          "en": "‘Mendicants, don’t address me by name and as ‘reverend’."
+        },
+        {
+          "scid": "mn85:51.3",
+          "pli": "arahaṃ, bhikkhave, tathāgato sammāsambuddho.",
+          "en": "The Realized One is Perfected, a fully awakened Buddha."
+        },
+        {
+          "scid": "mn85:51.4",
+          "pli": "Odahatha, bhikkhave, sotaṃ. Amatamadhigataṃ ahamanusāsāmi, ahaṃ dhammaṃ desemi.",
+          "en": "Listen, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma."
+        },
+        {
+          "scid": "mn85:51.5",
+          "pli": "Yathānusiṭṭhaṃ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissathā’ti.",
+          "en": "By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which people from good families rightly go forth from the lay life to homelessness.’"
+        },
+        {
+          "scid": "mn85:51.6",
+          "pli": "Evaṃ vutte, rājakumāra, pañcavaggiyā bhikkhū maṃ etadavocuṃ:",
+          "en": "But they said to me:"
+        },
+        {
+          "scid": "mn85:51.7",
+          "pli": "‘tāyapi kho tvaṃ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṃ; kiṃ pana tvaṃ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?",
+          "en": "‘Reverend Gotama, even by that conduct, that practice, that grueling work you did not achieve any superhuman distinction in knowledge and vision worthy of the noble ones. How could you have achieved such a state now that you’ve become indulgent, strayed from the struggle and fallen into indulgence?’"
+        },
+        {
+          "scid": "mn85:51.8",
+          "pli": "Evaṃ vutte, ahaṃ, rājakumāra, pañcavaggiye bhikkhū etadavocaṃ:",
+          "en": "So I said to them:"
+        },
+        {
+          "scid": "mn85:51.9",
+          "pli": "‘na, bhikkhave, tathāgato bāhulliko na padhānavibbhanto na āvatto bāhullāya.",
+          "en": "‘The Realized One has not become indulgent, strayed from the struggle and fallen into indulgence."
+        },
+        {
+          "scid": "mn85:51.10",
+          "pli": "Arahaṃ, bhikkhave, tathāgato sammāsambuddho.",
+          "en": "The Realized One is Perfected, a fully awakened Buddha."
+        },
+        {
+          "scid": "mn85:51.11",
+          "pli": "Odahatha, bhikkhave, sotaṃ. Amatamadhigataṃ ahamanusāsāmi, ahaṃ dhammaṃ desemi.",
+          "en": "Listen, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma."
+        },
+        {
+          "scid": "mn85:51.12",
+          "pli": "Yathānusiṭṭhaṃ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissathā’ti.",
+          "en": "By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which people from good families rightly go forth from the lay life to homelessness.’"
+        },
+        {
+          "scid": "mn85:51.13",
+          "pli": "Dutiyampi kho, rājakumāra, pañcavaggiyā bhikkhū maṃ etadavocuṃ:",
+          "en": "But for a second time they said to me:"
+        },
+        {
+          "scid": "mn85:51.14",
+          "pli": "‘tāyapi kho tvaṃ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṃ; kiṃ pana tvaṃ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?",
+          "en": "‘Reverend Gotama … you’ve fallen into indulgence.’"
+        },
+        {
+          "scid": "mn85:51.15",
+          "pli": "Dutiyampi kho ahaṃ, rājakumāra, pañcavaggiye bhikkhū etadavocaṃ:",
+          "en": "So for a second time I said to them:"
+        },
+        {
+          "scid": "mn85:51.16",
+          "pli": "‘na, bhikkhave, tathāgato bāhulliko na padhānavibbhanto na āvatto bāhullāya.",
+          "en": "‘The Realized One has not become indulgent …’"
+        },
+        {
+          "scid": "mn85:51.17",
+          "pli": "Arahaṃ, bhikkhave, tathāgato sammāsambuddho.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:51.18",
+          "pli": "Odahatha, bhikkhave, sotaṃ. Amatamadhigataṃ ahamanusāsāmi, ahaṃ dhammaṃ desemi.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:51.19",
+          "pli": "Yathānusiṭṭhaṃ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissathā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:51.20",
+          "pli": "Tatiyampi kho, rājakumāra, pañcavaggiyā bhikkhū maṃ etadavocuṃ:",
+          "en": "But for a third time they said to me:"
+        },
+        {
+          "scid": "mn85:51.21",
+          "pli": "‘tāyapi kho tvaṃ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṃ; kiṃ pana tvaṃ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?",
+          "en": "‘Reverend Gotama … you’ve fallen into indulgence.’"
+        },
+        {
+          "scid": "mn85:52.1",
+          "pli": "Evaṃ vutte, ahaṃ, rājakumāra, pañcavaggiye bhikkhū etadavocaṃ:",
+          "en": "So I said to them:"
+        },
+        {
+          "scid": "mn85:52.2",
+          "pli": "‘abhijānātha me no tumhe, bhikkhave, ito pubbe evarūpaṃ pabhāvitametan’ti?",
+          "en": "‘Mendicants, have you ever known me to speak like this before?’"
+        },
+        {
+          "scid": "mn85:52.3",
+          "pli": "‘No hetaṃ, bhante’.",
+          "en": "‘No, sir.’"
+        },
+        {
+          "scid": "mn85:52.4",
+          "pli": "‘Arahaṃ, bhikkhave, tathāgato sammāsambuddho.",
+          "en": "‘The Realized One is Perfected, a fully awakened Buddha."
+        },
+        {
+          "scid": "mn85:52.5",
+          "pli": "Odahatha, bhikkhave, sotaṃ. Amatamadhigataṃ ahamanusāsāmi, ahaṃ dhammaṃ desemi.",
+          "en": "Listen, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma."
+        },
+        {
+          "scid": "mn85:52.6",
+          "pli": "Yathānusiṭṭhaṃ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissathā’ti.",
+          "en": "By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which people from good families rightly go forth from the lay life to homelessness.’"
+        },
+        {
+          "scid": "mn85:53.1",
+          "pli": "Asakkhiṃ kho ahaṃ, rājakumāra, pañcavaggiye bhikkhū saññāpetuṃ.",
+          "en": "I was able to persuade the group of five mendicants."
+        },
+        {
+          "scid": "mn85:53.2",
+          "pli": "Dvepi sudaṃ, rājakumāra, bhikkhū ovadāmi. Tayo bhikkhū piṇḍāya caranti.",
+          "en": "Then sometimes I advised two mendicants, while the other three went for alms."
+        },
+        {
+          "scid": "mn85:53.3",
+          "pli": "Yaṃ tayo bhikkhū piṇḍāya caritvā āharanti, tena chabbaggiyā yāpema.",
+          "en": "Then those three would feed all six of us with what they brought back."
+        },
+        {
+          "scid": "mn85:53.4",
+          "pli": "Tayopi sudaṃ, rājakumāra, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti.",
+          "en": "Sometimes I advised three mendicants, while the other two went for alms."
+        },
+        {
+          "scid": "mn85:53.5",
+          "pli": "Yaṃ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.",
+          "en": "Then those two would feed all six of us with what they brought back."
+        },
+        {
+          "scid": "mn85:54.1",
+          "pli": "Atha kho, rājakumāra, pañcavaggiyā bhikkhū mayā evaṃ ovadiyamānā evaṃ anusāsiyamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihariṃsū”ti.",
+          "en": "As the group of five mendicants were being advised and instructed by me like this, they soon realized the supreme end of the spiritual path in this very life. They lived having achieved with their own insight the goal for which people from good families rightly go forth from the lay life to homelessness.” "
+        },
+        {
+          "scid": "mn85:55.1",
+          "pli": "Evaṃ vutte, bodhi rājakumāro bhagavantaṃ etadavoca:",
+          "en": "When he had spoken, Prince Bodhi said to the Buddha:"
+        },
+        {
+          "scid": "mn85:55.2",
+          "pli": "“kīva cirena nu kho, bhante, bhikkhu tathāgataṃ vināyakaṃ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyyā”ti?",
+          "en": "“Sir, when a mendicant has the Realized One as trainer, how long would it take for them to realize the supreme end of the spiritual path in this very life?” "
+        },
+        {
+          "scid": "mn85:55.3",
+          "pli": "“Tena hi, rājakumāra, taṃyevettha paṭipucchissāmi. Yathā te khameyya, tathā naṃ byākareyyāsi.",
+          "en": "“Well then, prince, I’ll ask you about this in return, and you can answer as you like."
+        },
+        {
+          "scid": "mn85:55.4",
+          "pli": "Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "What do you think, prince? "
+        },
+        {
+          "scid": "mn85:55.5",
+          "pli": "kusalo tvaṃ hatthārūḷhe aṅkusagayhe sippe”ti?",
+          "en": "Are you skilled in the art of wielding a hooked goad while riding an elephant?”"
+        },
+        {
+          "scid": "mn85:55.6",
+          "pli": "“Evaṃ, bhante, kusalo ahaṃ hatthārūḷhe aṅkusagayhe sippe”ti.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn85:56.1",
+          "pli": "“Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "“What do you think, prince? "
+        },
+        {
+          "scid": "mn85:56.2",
+          "pli": "idha puriso āgaccheyya:",
+          "en": "Suppose a man were to come along thinking:"
+        },
+        {
+          "scid": "mn85:56.3",
+          "pli": "‘bodhi rājakumāro hatthārūḷhaṃ aṅkusagayhaṃ sippaṃ jānāti;",
+          "en": "‘Prince Bodhi knows the art of wielding a hooked goad while riding an elephant."
+        },
+        {
+          "scid": "mn85:56.4",
+          "pli": "tassāhaṃ santike hatthārūḷhaṃ aṅkusagayhaṃ sippaṃ sikkhissāmī’ti.",
+          "en": "I’ll train in that art under him.’"
+        },
+        {
+          "scid": "mn85:56.5",
+          "pli": "So cassa assaddho;",
+          "en": "If he’s faithless,"
+        },
+        {
+          "scid": "mn85:56.6",
+          "pli": "yāvatakaṃ saddhena pattabbaṃ taṃ na sampāpuṇeyya.",
+          "en": "he wouldn’t achieve what he could with faith."
+        },
+        {
+          "scid": "mn85:56.7",
+          "pli": "So cassa bahvābādho;",
+          "en": "If he’s unhealthy,"
+        },
+        {
+          "scid": "mn85:56.8",
+          "pli": "yāvatakaṃ appābādhena pattabbaṃ taṃ na sampāpuṇeyya.",
+          "en": "he wouldn’t achieve what he could with good health."
+        },
+        {
+          "scid": "mn85:56.9",
+          "pli": "So cassa saṭho māyāvī;",
+          "en": "If he’s devious or deceitful,"
+        },
+        {
+          "scid": "mn85:56.10",
+          "pli": "yāvatakaṃ asaṭhena amāyāvinā pattabbaṃ taṃ na sampāpuṇeyya.",
+          "en": "he wouldn’t achieve what he could with honesty and integrity."
+        },
+        {
+          "scid": "mn85:56.11",
+          "pli": "So cassa kusīto;",
+          "en": "If he’s lazy,"
+        },
+        {
+          "scid": "mn85:56.12",
+          "pli": "yāvatakaṃ āraddhavīriyena pattabbaṃ taṃ na sampāpuṇeyya.",
+          "en": "he wouldn’t achieve what he could with energy."
+        },
+        {
+          "scid": "mn85:56.13",
+          "pli": "So cassa duppañño;",
+          "en": "If he’s stupid,"
+        },
+        {
+          "scid": "mn85:56.14",
+          "pli": "yāvatakaṃ paññavatā pattabbaṃ taṃ na sampāpuṇeyya.",
+          "en": "he wouldn’t achieve what he could with wisdom."
+        },
+        {
+          "scid": "mn85:56.15",
+          "pli": "Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "What do you think, prince? "
+        },
+        {
+          "scid": "mn85:56.16",
+          "pli": "api nu so puriso tava santike hatthārūḷhaṃ aṅkusagayhaṃ sippaṃ sikkheyyā”ti?",
+          "en": "Could that man still train under you in the art of wielding a hooked goad while riding an elephant?”"
+        },
+        {
+          "scid": "mn85:56.17",
+          "pli": "“Ekamekenāpi, bhante, aṅgena samannāgato so puriso na mama santike hatthārūḷhaṃ aṅkusagayhaṃ sippaṃ sikkheyya, ko pana vādo pañcahaṅgehī”ti.",
+          "en": "“Sir, if he had even a single one of these factors he couldn’t train under me, not to speak of all five.”"
+        },
+        {
+          "scid": "mn85:57.1",
+          "pli": "“Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "“What do you think, prince? "
+        },
+        {
+          "scid": "mn85:57.2",
+          "pli": "idha puriso āgaccheyya:",
+          "en": "Suppose a man were to come along thinking:"
+        },
+        {
+          "scid": "mn85:57.3",
+          "pli": "‘bodhi rājakumāro hatthārūḷhaṃ aṅkusagayhaṃ sippaṃ jānāti;",
+          "en": "‘Prince Bodhi knows the art of wielding a hooked goad while riding an elephant."
+        },
+        {
+          "scid": "mn85:57.4",
+          "pli": "tassāhaṃ santike hatthārūḷhaṃ aṅkusagayhaṃ sippaṃ sikkhissāmī’ti.",
+          "en": "I’ll train in that art under him.’"
+        },
+        {
+          "scid": "mn85:57.5",
+          "pli": "So cassa saddho;",
+          "en": "If he’s faithful,"
+        },
+        {
+          "scid": "mn85:57.6",
+          "pli": "yāvatakaṃ saddhena pattabbaṃ taṃ sampāpuṇeyya.",
+          "en": "he’d achieve what he could with faith."
+        },
+        {
+          "scid": "mn85:57.7",
+          "pli": "So cassa appābādho;",
+          "en": "If he’s healthy,"
+        },
+        {
+          "scid": "mn85:57.8",
+          "pli": "yāvatakaṃ appābādhena pattabbaṃ taṃ sampāpuṇeyya.",
+          "en": "he’d achieve what he could with good health."
+        },
+        {
+          "scid": "mn85:57.9",
+          "pli": "So cassa asaṭho amāyāvī;",
+          "en": "If he’s honest and has integrity,"
+        },
+        {
+          "scid": "mn85:57.10",
+          "pli": "yāvatakaṃ asaṭhena amāyāvinā pattabbaṃ taṃ sampāpuṇeyya.",
+          "en": "he’d achieve what he could with honesty and integrity."
+        },
+        {
+          "scid": "mn85:57.11",
+          "pli": "So cassa āraddhavīriyo;",
+          "en": "If he’s energetic,"
+        },
+        {
+          "scid": "mn85:57.12",
+          "pli": "yāvatakaṃ āraddhavīriyena pattabbaṃ taṃ sampāpuṇeyya.",
+          "en": "he’d achieve what he could with energy."
+        },
+        {
+          "scid": "mn85:57.13",
+          "pli": "So cassa paññavā;",
+          "en": "If he’s wise,"
+        },
+        {
+          "scid": "mn85:57.14",
+          "pli": "yāvatakaṃ paññavatā pattabbaṃ taṃ sampāpuṇeyya.",
+          "en": "he’d achieve what he could with wsidom."
+        },
+        {
+          "scid": "mn85:57.15",
+          "pli": "Taṃ kiṃ maññasi, rājakumāra, ",
+          "en": "What do you think, prince? "
+        },
+        {
+          "scid": "mn85:57.16",
+          "pli": "api nu so puriso tava santike hatthārūḷhaṃ aṅkusagayhaṃ sippaṃ sikkheyyā”ti?",
+          "en": "Could that man still train under you in the art of wielding a hooked goad while riding an elephant?”"
+        },
+        {
+          "scid": "mn85:57.17",
+          "pli": "“Ekamekenāpi, bhante, aṅgena samannāgato so puriso mama santike hatthārūḷhaṃ aṅkusagayhaṃ sippaṃ sikkheyya, ko pana vādo pañcahaṅgehī”ti.",
+          "en": "“Sir, if he had even a single one of these factors he could train under me, not to speak of all five.”"
+        },
+        {
+          "scid": "mn85:58.1",
+          "pli": "“Evameva kho, rājakumāra, pañcimāni padhāniyaṅgāni.",
+          "en": "“In the same way, prince, there are these five factors that support meditation."
+        },
+        {
+          "scid": "mn85:58.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "mn85:58.3",
+          "pli": "Idha, rājakumāra, bhikkhu saddho hoti; saddahati tathāgatassa bodhiṃ:",
+          "en": "It’s when a noble disciple has faith in the Realized One’s awakening:"
+        },
+        {
+          "scid": "mn85:58.4",
+          "pli": "‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti;",
+          "en": "‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’"
+        },
+        {
+          "scid": "mn85:58.5",
+          "pli": "appābādho hoti appātaṅko samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya;",
+          "en": "They are rarely ill or unwell. Their stomach digests well, being neither too hot nor too cold, but just right, and fit for meditation."
+        },
+        {
+          "scid": "mn85:58.6",
+          "pli": "asaṭho hoti amāyāvī yathābhūtaṃ attānaṃ āvikattā satthari vā viññūsu vā sabrahmacārīsu;",
+          "en": "They’re not devious or deceitful. They reveal themselves honestly to the Teacher or sensible spiritual companions."
+        },
+        {
+          "scid": "mn85:58.7",
+          "pli": "āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu;",
+          "en": "They live with energy roused up for giving up unskillful qualities and gaining skillful qualities. They’re strong, firmly applied, not slacking off when it comes to developing skillful qualities."
+        },
+        {
+          "scid": "mn85:58.8",
+          "pli": "paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā.",
+          "en": "They’re wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering."
+        },
+        {
+          "scid": "mn85:58.9",
+          "pli": "Imāni kho, rājakumāra, pañca padhāniyaṅgāni.",
+          "en": "These are the five factors that support meditation."
+        },
+        {
+          "scid": "mn85:59.1",
+          "pli": "Imehi, rājakumāra, pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṃ vināyakaṃ labhamāno—",
+          "en": "When a mendicant with these five factors that support meditation has the Realized One as trainer, they could"
+        },
+        {
+          "scid": "mn85:59.2",
+          "pli": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyya satta vassāni.",
+          "en": "realize the supreme end of the spiritual path in seven years."
+        },
+        {
+          "scid": "mn85:59.3",
+          "pli": "Tiṭṭhantu, rājakumāra, satta vassāni.",
+          "en": "Let alone seven years,"
+        },
+        {
+          "scid": "mn85:59.4",
+          "pli": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṃ vināyakaṃ labhamāno—",
+          "en": "they could"
+        },
+        {
+          "scid": "mn85:59.5",
+          "pli": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyya chabbassāni …",
+          "en": " realize the supreme end of the spiritual path in six years,"
+        },
+        {
+          "scid": "mn85:59.6",
+          "pli": "pañca vassāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.7",
+          "pli": "cattāri vassāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.8",
+          "pli": "tīṇi vassāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.9",
+          "pli": "dve vassāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.10",
+          "pli": "ekaṃ vassaṃ.",
+          "en": "or as little as one year."
+        },
+        {
+          "scid": "mn85:59.11",
+          "pli": "Tiṭṭhatu, rājakumāra, ekaṃ vassaṃ.",
+          "en": "Let alone one year,"
+        },
+        {
+          "scid": "mn85:59.12",
+          "pli": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṃ vināyakaṃ labhamāno—",
+          "en": "when a mendicant with these five factors that support meditation has the Realized One as trainer, they could"
+        },
+        {
+          "scid": "mn85:59.13",
+          "pli": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyya satta māsāni.",
+          "en": " realize the supreme end of the spiritual path in seven months,"
+        },
+        {
+          "scid": "mn85:59.14",
+          "pli": "Tiṭṭhantu, rājakumāra, satta māsāni.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.15",
+          "pli": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṃ vināyakaṃ labhamāno—",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.16",
+          "pli": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.17",
+          "pli": "brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyya cha māsāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.18",
+          "pli": "pañca māsāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.19",
+          "pli": "cattāri māsāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.20",
+          "pli": "tīṇi māsāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.21",
+          "pli": "dve māsāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.22",
+          "pli": "ekaṃ māsaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.23",
+          "pli": "aḍḍhamāsaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.24",
+          "pli": "Tiṭṭhatu, rājakumāra, aḍḍhamāso.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.25",
+          "pli": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṃ vināyakaṃ labhamāno—",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.26",
+          "pli": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.27",
+          "pli": "brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyya satta rattindivāni.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.28",
+          "pli": "Tiṭṭhantu, rājakumāra, satta rattindivāni.",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.29",
+          "pli": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṃ vināyakaṃ labhamāno—",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.30",
+          "pli": "yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.31",
+          "pli": "brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyya cha rattindivāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.32",
+          "pli": "pañca rattindivāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.33",
+          "pli": "cattāri rattindivāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.34",
+          "pli": "tīṇi rattindivāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.35",
+          "pli": "dve rattindivāni …",
+          "en": ""
+        },
+        {
+          "scid": "mn85:59.36",
+          "pli": "ekaṃ rattindivaṃ.",
+          "en": "or as little as one day."
+        },
+        {
+          "scid": "mn85:59.37",
+          "pli": "Tiṭṭhatu, rājakumāra, eko rattindivo.",
+          "en": "Let alone one day,"
+        },
+        {
+          "scid": "mn85:59.38",
+          "pli": "Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṃ vināyakaṃ labhamāno sāyamanusiṭṭho pāto visesaṃ adhigamissati, pātamanusiṭṭho sāyaṃ visesaṃ adhigamissatī”ti.",
+          "en": "when a mendicant with these five factors that support meditation has the Realized One as trainer, they could be instructed in the evening and achieve distinction in the morning, or be instructed in the morning and achieve distinction in the evening.”"
+        },
+        {
+          "scid": "mn85:60.1",
+          "pli": "Evaṃ vutte, bodhi rājakumāro bhagavantaṃ etadavoca:",
+          "en": "When he had spoken, Prince Bodhi said to the Buddha:"
+        },
+        {
+          "scid": "mn85:60.2",
+          "pli": "“aho buddho, aho dhammo, aho dhammassa svākkhātatā.",
+          "en": "“Oh, the Buddha! Oh, the teaching! Oh, how well explained is the teaching!"
+        },
+        {
+          "scid": "mn85:60.3",
+          "pli": "Yatra hi nāma sāyamanusiṭṭho pāto visesaṃ adhigamissati, pātamanusiṭṭho sāyaṃ visesaṃ adhigamissatī”ti.",
+          "en": "For someone could be instructed in the evening and achieve distinction in the morning, or be instructed in the morning and achieve distinction in the evening.”"
+        },
+        {
+          "scid": "mn85:61.1",
+          "pli": "Evaṃ vutte, sañjikāputto māṇavo bodhiṃ rājakumāraṃ etadavoca:",
+          "en": "When he said this, Sañjikāputta said to Prince Bodhi:"
+        },
+        {
+          "scid": "mn85:61.2",
+          "pli": "“evameva panāyaṃ bhavaṃ bodhi:",
+          "en": "“Though Master Bodhi speaks like this,"
+        },
+        {
+          "scid": "mn85:61.3",
+          "pli": "‘aho buddho, aho dhammo, aho dhammassa svākkhātatā’ti ca vadeti;",
+          "en": ""
+        },
+        {
+          "scid": "mn85:61.4",
+          "pli": "atha ca pana na taṃ bhavantaṃ gotamaṃ saraṇaṃ gacchati dhammañca bhikkhusaṃghañcā”ti.",
+          "en": "you don’t go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha.”"
+        },
+        {
+          "scid": "mn85:61.5",
+          "pli": "“Mā hevaṃ, samma sañjikāputta, avaca; mā hevaṃ, samma sañjikāputta, avaca.",
+          "en": "“Don’t say that, dear Sañjikāputta, don’t say that."
+        },
+        {
+          "scid": "mn85:61.6",
+          "pli": "Sammukhā metaṃ, samma sañjikāputta, ayyāya sutaṃ, sammukhā paṭiggahitaṃ”.",
+          "en": "I have heard and learned this in the presence of the lady, my mother."
+        },
+        {
+          "scid": "mn85:61.7",
+          "pli": "“Ekamidaṃ, samma sañjikāputta, samayaṃ bhagavā kosambiyaṃ viharati ghositārāme.",
+          "en": "This one time the Buddha was staying near Kosambi, in Ghosita’s Monastery."
+        },
+        {
+          "scid": "mn85:61.8",
+          "pli": "Atha kho me ayyā kucchimatī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnā kho me ayyā bhagavantaṃ etadavoca:",
+          "en": "Then my pregnant mother went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "mn85:61.9",
+          "pli": "‘yo me ayaṃ, bhante, kucchigato kumārako vā kumārikā vā so bhagavantaṃ saraṇaṃ gacchati dhammañca bhikkhusaṃghañca.",
+          "en": "‘Sir, the prince or princess in my womb goes for refuge to the Buddha, the teaching, and the mendicant Saṅgha."
+        },
+        {
+          "scid": "mn85:61.10",
+          "pli": "Upāsakaṃ taṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan’ti.",
+          "en": "From this day forth, may the Buddha remember them as a lay follower who has gone for refuge for life.’"
+        },
+        {
+          "scid": "mn85:61.11",
+          "pli": "Ekamidaṃ, samma sañjikāputta, samayaṃ bhagavā idheva bhaggesu viharati susumāragire bhesakaḷāvane migadāye.",
+          "en": "Another time the Buddha was staying here in the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā’s Wood."
+        },
+        {
+          "scid": "mn85:61.12",
+          "pli": "Atha kho maṃ dhāti aṅkena haritvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho maṃ dhāti bhagavantaṃ etadavoca:",
+          "en": "Then my nurse, carrying me on her hip, went to the Buddha, bowed, stood to one side, and said to him:"
+        },
+        {
+          "scid": "mn85:61.13",
+          "pli": "‘ayaṃ, bhante, bodhi rājakumāro bhagavantaṃ saraṇaṃ gacchati dhammañca bhikkhusaṃghañca.",
+          "en": "‘Sir, this Prince Bodhi goes for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha."
+        },
+        {
+          "scid": "mn85:61.14",
+          "pli": "Upāsakaṃ taṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan’ti.",
+          "en": "From this day forth, may the Buddha remember him as a lay follower who has gone for refuge for life.’"
+        },
+        {
+          "scid": "mn85:61.15",
+          "pli": "Esāhaṃ, samma sañjikāputta, tatiyakampi bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṃghañca.",
+          "en": "Now for a third time I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha."
+        },
+        {
+          "scid": "mn85:61.16",
+          "pli": "Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+          "en": "From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”"
+        },
+        {
+          "scid": "mn85:61.17",
+          "pli": "Bodhirājakumārasuttaṃ niṭṭhitaṃ pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn85/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 85",
+    "volpages": "MN ii 91",
+    "uid": "mn85",
+    "blurb": "Admitting that he used to believe that pleasure was to be gained through pain, the Buddha explains how his practice showed him the fallacy of that idea.",
+    "difficulty": 2,
+    "original_title": "Bodhirājakumāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Prince Bodhi",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn85_sujato",
+        "segmented": true,
+        "title": "With Prince Bodhi"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn85_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discourse to Prince Bodhi"
+      }
+    ],
+    "parallel_count": 88,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an3.49",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.49",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Keen",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Master Thief",
+      "uid": "an3.50"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The King of Mountains",
+      "uid": "an3.48"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.49:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.49:0.2",
+          "pli": "5. Cūḷavagga",
+          "en": "5. The Lesser Chapter"
+        },
+        {
+          "scid": "an3.49:0.3",
+          "pli": "49. Ātappakaraṇīyasutta",
+          "en": "49. Keen"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.49:1.1",
+          "pli": "“Tīhi, bhikkhave, ṭhānehi ātappaṃ karaṇīyaṃ.",
+          "en": "“In three situations, mendicants, you should be keen."
+        },
+        {
+          "scid": "an3.49:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.49:1.3",
+          "pli": "Anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya ātappaṃ karaṇīyaṃ, anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya ātappaṃ karaṇīyaṃ, uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ adhivāsanāya ātappaṃ karaṇīyaṃ.",
+          "en": "You should be keen to prevent bad, unskillful qualities from arising. You should be keen to give rise to skillful qualities. And you should be keen to endure physical pain—intense, severe, acute, unpleasant, disagreeable, life-threatening."
+        },
+        {
+          "scid": "an3.49:1.4",
+          "pli": "Imehi tīhi, bhikkhave, ṭhānehi ātappaṃ karaṇīyaṃ.",
+          "en": "In these three situations, you should be keen."
+        },
+        {
+          "scid": "an3.49:2.1",
+          "pli": "Yato kho, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya ātappaṃ karoti, anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya ātappaṃ karoti, uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ adhivāsanāya ātappaṃ karoti.",
+          "en": "It’s a mendicant who is keen to prevent bad, unskillful qualities from arising. They’re keen to give rise to skillful qualities. And they’re keen to endure physical pain—intense, severe, acute, unpleasant, disagreeable, life-threatening."
+        },
+        {
+          "scid": "an3.49:2.2",
+          "pli": "Ayaṃ vuccati, bhikkhave, bhikkhu ātāpī nipako sato sammā dukkhassa antakiriyāyā”ti.",
+          "en": "This is called a mendicant who is keen, self-disciplined, and mindful so as to rightly make an end of suffering.”"
+        },
+        {
+          "scid": "an3.49:2.3",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“In three situations…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.49/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.49",
+    "volpages": "AN i 153",
+    "uid": "an3.49",
+    "blurb": "Being keen in three ways.",
+    "difficulty": null,
+    "original_title": "Ātappakaraṇīya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Keen",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.49_sujato",
+        "segmented": true,
+        "title": "Keen"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.49_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Ardor"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

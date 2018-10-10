@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn45.31",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.31",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Practice (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Practice (2nd)",
+      "uid": "sn45.32"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Uttiya",
+      "uid": "sn45.30"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.31:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.31:0.2",
+          "pli": "4. Paṭipattivagga",
+          "en": "4. Practice"
+        },
+        {
+          "scid": "sn45.31:0.3",
+          "pli": "31. Paṭhamapaṭipattisutta",
+          "en": "31. Practice (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.31:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn45.31:1.2",
+          "pli": "“Micchāpaṭipattiñca vo, bhikkhave, desessāmi, sammāpaṭipattiñca.",
+          "en": "“Mendicants, I will teach you the wrong practice and the right practice."
+        },
+        {
+          "scid": "sn45.31:1.3",
+          "pli": "Taṃ suṇātha.",
+          "en": "Listen …"
+        },
+        {
+          "scid": "sn45.31:1.4",
+          "pli": "Katamā ca, bhikkhave, micchāpaṭipatti?",
+          "en": "And what’s the wrong practice?"
+        },
+        {
+          "scid": "sn45.31:1.5",
+          "pli": "Seyyathidaṃ—micchādiṭṭhi … pe … micchāsamādhi.",
+          "en": "It is wrong view, wrong thought, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion."
+        },
+        {
+          "scid": "sn45.31:1.6",
+          "pli": "Ayaṃ vuccati, bhikkhave, micchāpaṭipatti.",
+          "en": "This is called the wrong practice."
+        },
+        {
+          "scid": "sn45.31:1.7",
+          "pli": "Katamā ca, bhikkhave, sammāpaṭipatti?",
+          "en": "And what’s the right practice?"
+        },
+        {
+          "scid": "sn45.31:1.8",
+          "pli": "Seyyathidaṃ—sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": "It is right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion."
+        },
+        {
+          "scid": "sn45.31:1.9",
+          "pli": "Ayaṃ vuccati, bhikkhave, sammāpaṭipattī”ti.",
+          "en": "This is called the right practice.”"
+        },
+        {
+          "scid": "sn45.31:1.10",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.31/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.31",
+    "volpages": "SN v 23",
+    "uid": "sn45.31",
+    "blurb": "The wrong eightfold path is wrong practice; the right eightfold path is right practice.",
+    "difficulty": null,
+    "original_title": "Paṭhamapaṭipatti Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Practice (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.31_sujato",
+        "segmented": true,
+        "title": "Practice (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.31_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Practice (1)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

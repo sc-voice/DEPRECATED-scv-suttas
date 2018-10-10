@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.226",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.226",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Visiting Families (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Riches",
+      "uid": "an5.227"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Visiting Families (1st)",
+      "uid": "an5.225"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.226:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.226:0.2",
+          "pli": "23. Dīghacārikavagga",
+          "en": "23. Long Wandering"
+        },
+        {
+          "scid": "an5.226:0.3",
+          "pli": "226. Dutiyakulūpakasutta",
+          "en": "226. Visiting Families (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.226:1.1",
+          "pli": "“Pañcime, bhikkhave, ādīnavā kulūpakassa bhikkhuno ativelaṃ kulesu saṃsaṭṭhassa viharato.",
+          "en": "“Mendicants, there are these five drawbacks for a mendicant who visits families for too long, mixing closely with them."
+        },
+        {
+          "scid": "an5.226:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.226:1.3",
+          "pli": "Mātugāmassa abhiṇhadassanaṃ, ",
+          "en": "You often see members of the opposite sex. "
+        },
+        {
+          "scid": "an5.226:1.4",
+          "pli": "dassane sati saṃsaggo, ",
+          "en": "Seeing them, you become close. "
+        },
+        {
+          "scid": "an5.226:1.5",
+          "pli": "saṃsagge sati vissāso, ",
+          "en": "Being so close, you become intimate. "
+        },
+        {
+          "scid": "an5.226:1.6",
+          "pli": "vissāse sati otāro, ",
+          "en": "Being intimate, lust overcomes you. "
+        },
+        {
+          "scid": "an5.226:1.7",
+          "pli": "otiṇṇacittassetaṃ pāṭikaṅkhaṃ: ‘anabhirato vā brahmacariyaṃ carissati aññataraṃ vā saṅkiliṭṭhaṃ āpattiṃ āpajjissati sikkhaṃ vā paccakkhāya hīnāyāvattissati’.",
+          "en": "When your mind is overcome by lust, you can expect that you will live the spiritual life dissatisfied, or commit one of the corrupt offenses, or reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an5.226:1.8",
+          "pli": "Ime kho, bhikkhave, pañca ādīnavā kulūpakassa bhikkhuno ativelaṃ kulesu saṃsaṭṭhassa viharato”ti.",
+          "en": "These are the five drawbacks for a mendicant who visits families for too long, mixing closely with them.”"
+        },
+        {
+          "scid": "an5.226:1.9",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.226/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.226",
+    "volpages": "AN iii 259",
+    "uid": "an5.226",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dutiyakulūpaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Visiting Families (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.226_sujato",
+        "segmented": true,
+        "title": "Visiting Families (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn35.174-176",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.174-176",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Desire, etc. for the Not-Self Interior",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Desire, etc. for the Impermanent Exterior",
+      "uid": "sn35.177-179"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Desire, etc. for the Suffering Interior",
+      "uid": "sn35.171-173"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.174-176:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.174-176:0.2",
+          "pli": "17. Saṭṭhipeyyālavagga",
+          "en": "17. Sixty Abbreviated Texts"
+        },
+        {
+          "scid": "sn35.174-176:0.3",
+          "pli": "174–​176. Anattachandādisutta",
+          "en": "174–176. Desire, etc. for the Not-Self Interior"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.174-176:1.1",
+          "pli": "“Yo, bhikkhave, anattā, tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo.",
+          "en": "“Mendicants, you should give up desire … greed … desire and greed for what is not-self."
+        },
+        {
+          "scid": "sn35.174-176:1.2",
+          "pli": "Ko ca, bhikkhave, anattā?",
+          "en": "And what is not-self?"
+        },
+        {
+          "scid": "sn35.174-176:1.3",
+          "pli": "Cakkhu, bhikkhave, anattā; tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo … pe …",
+          "en": "The eye, ear, nose, tongue, body, and mind are not-self …”"
+        },
+        {
+          "scid": "sn35.174-176:1.4",
+          "pli": "jivhā anattā; tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.174-176:1.5",
+          "pli": "mano anattā; tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.174-176:1.6",
+          "pli": "Yo, bhikkhave, anattā tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo”ti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.174-176/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn35.174-176",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Anattachandādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Desire, etc. for the Not-Self Interior",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.174-176_sujato",
+        "segmented": true,
+        "title": "Desire, etc. for the Not-Self Interior"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn2.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Subrahmā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kakudha",
+      "uid": "sn2.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Vāsudatta",
+      "uid": "sn2.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.17:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.17:0.2",
+          "pli": "2. Anāthapiṇḍikavagga",
+          "en": "2. With Anāthapiṇḍika"
+        },
+        {
+          "scid": "sn2.17:0.3",
+          "pli": "17. Subrahmasutta",
+          "en": "17. With Subrahmā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.17:1.1",
+          "pli": "Ekamantaṃ ṭhito kho subrahmā devaputto bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Standing to one side, the god Subrahmā addressed the Buddha in verse:"
+        },
+        {
+          "scid": "sn2.17:2.1",
+          "pli": "“Niccaṃ utrastamidaṃ cittaṃ,",
+          "en": "“This mind is always anxious,"
+        },
+        {
+          "scid": "sn2.17:2.2",
+          "pli": "niccaṃ ubbiggamidaṃ mano;",
+          "en": "this mind is always stressed"
+        },
+        {
+          "scid": "sn2.17:2.3",
+          "pli": "Anuppannesu kicchesu,",
+          "en": "about stresses that haven’t arisen"
+        },
+        {
+          "scid": "sn2.17:2.4",
+          "pli": "atho uppatitesu ca;",
+          "en": "and those that have."
+        },
+        {
+          "scid": "sn2.17:2.5",
+          "pli": "Sace atthi anutrastaṃ,",
+          "en": "If there is a state free of anxiety,"
+        },
+        {
+          "scid": "sn2.17:2.6",
+          "pli": "taṃ me akkhāhi pucchito”ti.",
+          "en": "please answer my question.”"
+        },
+        {
+          "scid": "sn2.17:3.1",
+          "pli": "“Nāññatra bojjhā tapasā,",
+          "en": "“Not without understanding and austerity,"
+        },
+        {
+          "scid": "sn2.17:3.2",
+          "pli": "nāññatrindriyasaṃvarā;",
+          "en": "not without restraining the sense faculties,"
+        },
+        {
+          "scid": "sn2.17:3.3",
+          "pli": "Nāññatra sabbanissaggā,",
+          "en": "not without letting go of everything,"
+        },
+        {
+          "scid": "sn2.17:3.4",
+          "pli": "sotthiṃ passāmi pāṇinan”ti.",
+          "en": "do I see safety for living creatures.”"
+        },
+        {
+          "scid": "sn2.17:4.1",
+          "pli": "Idamavoca … pe …",
+          "en": "That is what the Buddha said. …"
+        },
+        {
+          "scid": "sn2.17:4.2",
+          "pli": "tatthevantaradhāyīti.",
+          "en": "The god vanished right there."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Standing to one side…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.17//SN 98",
+    "volpages": "SN i 53//SN i 122",
+    "uid": "sn2.17",
+    "blurb": "Subrahmā the god asks for the escape from fear. The Buddha says there is no escape from fear without letting go of everything.",
+    "difficulty": null,
+    "original_title": "Subrahma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Subrahmā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.17_sujato",
+        "segmented": true,
+        "title": "With Subrahmā"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 7
+  }
+}

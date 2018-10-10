@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn48.19",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.19",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Endowed",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ending of Defilements",
+      "uid": "sn48.20"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Practicing",
+      "uid": "sn48.18"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.19:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.19:0.2",
+          "pli": "2. Mudutaravagga",
+          "en": "2. Weaker"
+        },
+        {
+          "scid": "sn48.19:0.3",
+          "pli": "19. Sampannasutta",
+          "en": "19. Endowed"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.19:1.1",
+          "pli": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "sn48.19:2.1",
+          "pli": "“‘Indriyasampanno, indriyasampanno’ti, bhante, vuccati.",
+          "en": "“Sir, they speak of someone who is ‘accomplished regarding the faculties’."
+        },
+        {
+          "scid": "sn48.19:2.2",
+          "pli": "Kittāvatā nu kho, bhante, indriyasampanno hotī”ti?",
+          "en": "How is someone accomplished regarding the faculties defined?”"
+        },
+        {
+          "scid": "sn48.19:2.3",
+          "pli": "“Idha, bhikkhu, bhikkhu saddhindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ, vīriyindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ, satindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ, samādhindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ, paññindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ.",
+          "en": "“Mendicant, it’s when a mendicant develops the faculties of faith, energy, mindfulness, immersion, and wisdom that lead to peace and awakening."
+        },
+        {
+          "scid": "sn48.19:2.4",
+          "pli": "Ettāvatā kho, bhikkhu, bhikkhu indriyasampanno hotī”ti.",
+          "en": "This is how someone who is accomplished regarding the faculties is defined.”"
+        },
+        {
+          "scid": "sn48.19:2.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then a mendicant went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.19/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 48.19",
+    "volpages": "SN v 202",
+    "uid": "sn48.19",
+    "blurb": "Someone who develops the faculties is said to be equipped with faculties.",
+    "difficulty": null,
+    "original_title": "Sampanna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Endowed",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.19_sujato",
+        "segmented": true,
+        "title": "Endowed"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

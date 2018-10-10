@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn2.28",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.28",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Nandivisāla",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Susīma",
+      "uid": "sn2.29"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Nanda",
+      "uid": "sn2.27"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.28:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.28:0.2",
+          "pli": "3. Nānātitthiyavagga",
+          "en": "3. Various Sectarians"
+        },
+        {
+          "scid": "sn2.28:0.3",
+          "pli": "28. Nandivisālasutta",
+          "en": "28. With Nandivisāla"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.28:1.1",
+          "pli": "Ekamantaṃ ṭhito kho nandivisālo devaputto bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Standing to one side, the god Nandivisāla addressed the Buddha in verse:"
+        },
+        {
+          "scid": "sn2.28:2.1",
+          "pli": "“Catucakkaṃ navadvāraṃ,",
+          "en": "“Four are its wheels, and nine its doors;"
+        },
+        {
+          "scid": "sn2.28:2.2",
+          "pli": "puṇṇaṃ lobhena saṃyutaṃ;",
+          "en": "it’s filled with greed and tied up;"
+        },
+        {
+          "scid": "sn2.28:2.3",
+          "pli": "Paṅkajātaṃ mahāvīra,",
+          "en": "and it’s born from a bog. Great hero,"
+        },
+        {
+          "scid": "sn2.28:2.4",
+          "pli": "kathaṃ yātrā bhavissatī”ti.",
+          "en": "how am I supposed to live like this?”"
+        },
+        {
+          "scid": "sn2.28:3.1",
+          "pli": "“Chetvā naddhiṃ varattañca,",
+          "en": "“Having cut the strap and harness—"
+        },
+        {
+          "scid": "sn2.28:3.2",
+          "pli": "icchālobhañca pāpakaṃ;",
+          "en": "wicked desire and greed—"
+        },
+        {
+          "scid": "sn2.28:3.3",
+          "pli": "Samūlaṃ taṇhamabbuyha,",
+          "en": "and having plucked out craving, root and all:"
+        },
+        {
+          "scid": "sn2.28:3.4",
+          "pli": "evaṃ yātrā bhavissatī”ti.",
+          "en": "that’s how you’re supposed to live like this.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Standing to one side…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.28/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.28//SN 109",
+    "volpages": "SN i 63//SN i 146",
+    "uid": "sn2.28",
+    "blurb": "The god Nandivisāla gives an elaborate metaphor for the body, and asks how to escape from it. ",
+    "difficulty": null,
+    "original_title": "Nandivisāla Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Nandivisāla",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.28_sujato",
+        "segmented": true,
+        "title": "With Nandivisāla"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 8
+  }
+}

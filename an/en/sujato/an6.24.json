@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an6.24",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.24",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Himalaya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Topics for Recollection",
+      "uid": "an6.25"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dangers",
+      "uid": "an6.23"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.24:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.24:0.2",
+          "pli": "3. Anuttariyavagga",
+          "en": "3. Unsurpassable"
+        },
+        {
+          "scid": "an6.24:0.3",
+          "pli": "24. Himavantasutta",
+          "en": "24. The Himalaya"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.24:1.1",
+          "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu himavantaṃ pabbatarājaṃ padāleyya, ko pana vādo chavāya avijjāya.",
+          "en": "“Mendicants, a mendicant who has six qualities could split apart Himalaya, the king of mountains. How much more so this wretched ignorance!"
+        },
+        {
+          "scid": "an6.24:1.2",
+          "pli": "Katamehi chahi?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.24:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, samādhissa kallitakusalo hoti, samādhissa gocarakusalo hoti, samādhissa abhinīhārakusalo hoti.",
+          "en": "It’s when a mendicant is skilled in entering immersion, skilled in remaining in immersion, skilled in emerging from immersion, skilled in gladdening the mind for immersion, skilled in the meditation subjects for immersion, and skilled in projecting the mind purified by immersion."
+        },
+        {
+          "scid": "an6.24:1.4",
+          "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu himavantaṃ pabbatarājaṃ padāleyya, ko pana vādo chavāya avijjāyā”ti.",
+          "en": "A mendicant who has these six qualities could split apart Himalaya, the king of mountains. How much more so this wretched ignorance!”"
+        },
+        {
+          "scid": "an6.24:1.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.24/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.24",
+    "volpages": "AN iii 311",
+    "uid": "an6.24",
+    "blurb": "A mendicant who has fully mastered meditation could even split apart the Himalayas.",
+    "difficulty": null,
+    "original_title": "Himavanta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Himalaya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.24_sujato",
+        "segmented": true,
+        "title": "The Himalaya"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

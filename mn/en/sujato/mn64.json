@@ -1,0 +1,720 @@
+{
+  "sutta_uid": "mn64",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn64",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Longer Discourse With Māluṅkya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Bhaddāli",
+      "uid": "mn65"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Shorter Discourse With Māluṅkya",
+      "uid": "mn63"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn64:0.1",
+          "pli": "Majjhima Nikāya 64",
+          "en": "Middle Discourses 64"
+        },
+        {
+          "scid": "mn64:0.2",
+          "pli": "Mahāmālukyasutta",
+          "en": "The Longer Discourse With Māluṅkya"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 64…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn64:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn64:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn64:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "mn64:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "mn64:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "mn64:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn64:2.1",
+          "pli": "“dhāretha no tumhe, bhikkhave, mayā desitāni pañcorambhāgiyāni saṃyojanānī”ti?",
+          "en": "“Mendicants, do you remember the five lower fetters that I taught?”"
+        },
+        {
+          "scid": "mn64:2.2",
+          "pli": "Evaṃ vutte, āyasmā mālukyaputto bhagavantaṃ etadavoca:",
+          "en": "When he said this, Venerable Māluṅkyaputta said to him:"
+        },
+        {
+          "scid": "mn64:2.3",
+          "pli": "“ahaṃ kho, bhante, dhāremi bhagavatā desitāni pañcorambhāgiyāni saṃyojanānī”ti.",
+          "en": "“Sir, I remember them.”"
+        },
+        {
+          "scid": "mn64:2.4",
+          "pli": "“Yathā kathaṃ pana tvaṃ, mālukyaputta, dhāresi mayā desitāni pañcorambhāgiyāni saṃyojanānī”ti?",
+          "en": "“But how do you remember them?”"
+        },
+        {
+          "scid": "mn64:2.5",
+          "pli": "“Sakkāyadiṭṭhiṃ kho ahaṃ, bhante, bhagavatā orambhāgiyaṃ saṃyojanaṃ desitaṃ dhāremi;",
+          "en": "“I remember the lower fetters taught by the Buddha as follows: identity view,"
+        },
+        {
+          "scid": "mn64:2.6",
+          "pli": "vicikicchaṃ kho ahaṃ, bhante, bhagavatā orambhāgiyaṃ saṃyojanaṃ desitaṃ dhāremi;",
+          "en": "doubt,"
+        },
+        {
+          "scid": "mn64:2.7",
+          "pli": "sīlabbataparāmāsaṃ kho ahaṃ, bhante, bhagavatā orambhāgiyaṃ saṃyojanaṃ desitaṃ dhāremi;",
+          "en": "misapprehension of precepts and observances,"
+        },
+        {
+          "scid": "mn64:2.8",
+          "pli": "kāmacchandaṃ kho ahaṃ, bhante, bhagavatā orambhāgiyaṃ saṃyojanaṃ desitaṃ dhāremi;",
+          "en": "sensual desire,"
+        },
+        {
+          "scid": "mn64:2.9",
+          "pli": "byāpādaṃ kho ahaṃ, bhante, bhagavatā orambhāgiyaṃ saṃyojanaṃ desitaṃ dhāremi.",
+          "en": "and ill will."
+        },
+        {
+          "scid": "mn64:2.10",
+          "pli": "Evaṃ kho ahaṃ, bhante, dhāremi bhagavatā desitāni pañcorambhāgiyāni saṃyojanānī”ti.",
+          "en": "That’s how I remember the five lower fetters taught by the Buddha.”"
+        },
+        {
+          "scid": "mn64:3.1",
+          "pli": "“Kassa kho nāma tvaṃ, mālukyaputta, imāni evaṃ pañcorambhāgiyāni saṃyojanāni desitāni dhāresi?",
+          "en": "“Who on earth do you remember being taught the five lower fetters in that way?"
+        },
+        {
+          "scid": "mn64:3.2",
+          "pli": "Nanu, mālukyaputta, aññatitthiyā paribbājakā iminā taruṇūpamena upārambhena upārambhissanti?",
+          "en": "Wouldn’t the wanderers who follow other paths fault you using the simile of the infant?"
+        },
+        {
+          "scid": "mn64:3.3",
+          "pli": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sakkāyotipi na hoti, kuto panassa uppajjissati sakkāyadiṭṭhi?",
+          "en": "For a little baby doesn’t even have a concept of ‘identity’, so how could identity view possibly arise in them?"
+        },
+        {
+          "scid": "mn64:3.4",
+          "pli": "Anusetvevassa sakkāyadiṭṭhānusayo.",
+          "en": "Yet the underlying tendency to identity view still lies within them."
+        },
+        {
+          "scid": "mn64:3.5",
+          "pli": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa dhammātipi na hoti, kuto panassa uppajjissati dhammesu vicikicchā?",
+          "en": "A little baby doesn’t even have a concept of ‘teachings’, so how could doubt about the teachings possibly arise in them?"
+        },
+        {
+          "scid": "mn64:3.6",
+          "pli": "Anusetvevassa vicikicchānusayo.",
+          "en": "Yet the underlying tendency to doubt still lies within them."
+        },
+        {
+          "scid": "mn64:3.7",
+          "pli": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sīlātipi na hoti, kuto panassa uppajjissati sīlesu sīlabbataparāmāso?",
+          "en": "For a little baby doesn’t even have a concept of ‘precepts’, so how could misapprehension of precepts and observances possibly arise in them?"
+        },
+        {
+          "scid": "mn64:3.8",
+          "pli": "Anusetvevassa sīlabbataparāmāsānusayo.",
+          "en": "Yet the underlying tendency to misapprehension of precepts and observances still lies within them."
+        },
+        {
+          "scid": "mn64:3.9",
+          "pli": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa kāmātipi na hoti, kuto panassa uppajjissati kāmesu kāmacchando?",
+          "en": "A little baby doesn’t even have a concept of ‘sensual pleasures’, so how could desire for sensual pleasures possibly arise in them?"
+        },
+        {
+          "scid": "mn64:3.10",
+          "pli": "Anusetvevassa kāmarāgānusayo.",
+          "en": "Yet the underlying tendency to sensual desire still lies within them."
+        },
+        {
+          "scid": "mn64:3.11",
+          "pli": "Daharassa hi, mālukyaputta, kumārassa mandassa uttānaseyyakassa sattātipi na hoti, kuto panassa uppajjissati sattesu byāpādo?",
+          "en": "A little baby doesn’t even have a concept of ‘sentient beings’, so how could ill will for sentient beings possibly arise in them?"
+        },
+        {
+          "scid": "mn64:3.12",
+          "pli": "Anusetvevassa byāpādānusayo.",
+          "en": "Yet the underlying tendency to ill will still lies within them."
+        },
+        {
+          "scid": "mn64:3.13",
+          "pli": "Nanu, mālukyaputta, aññatitthiyā paribbājakā iminā taruṇūpamena upārambhena upārambhissantī”ti?",
+          "en": "Wouldn’t the wanderers who follow other paths fault you using the simile of the infant?”"
+        },
+        {
+          "scid": "mn64:4.1",
+          "pli": "Evaṃ vutte, āyasmā ānando bhagavantaṃ etadavoca:",
+          "en": "When he said this, Venerable Ānanda said to the Buddha:"
+        },
+        {
+          "scid": "mn64:4.2",
+          "pli": "“etassa, bhagavā, kālo, etassa, sugata, kālo ",
+          "en": "“Now is the time, Blessed One! Now is the time, Holy One! "
+        },
+        {
+          "scid": "mn64:4.3",
+          "pli": "yaṃ bhagavā pañcorambhāgiyāni saṃyojanāni deseyya. Bhagavato sutvā bhikkhū dhāressantī”ti.",
+          "en": "May the Buddha teach the five lower fetters. The mendicants will listen and remember it.”"
+        },
+        {
+          "scid": "mn64:4.4",
+          "pli": "“Tena hānanda, suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti.",
+          "en": "“Well then, Ānanda, listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "mn64:4.5",
+          "pli": "“Evaṃ, bhante”ti kho āyasmā ānando bhagavato paccassosi.",
+          "en": "“Yes, sir,” Ānanda replied."
+        },
+        {
+          "scid": "mn64:4.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn64:5.1",
+          "pli": "“Idhānanda, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto ",
+          "en": "“Ānanda, take an uneducated ordinary person who has not seen the noble ones, and is neither skilled nor trained in their teaching. They’ve not seen good persons, and are neither skilled nor trained in their teaching. "
+        },
+        {
+          "scid": "mn64:5.2",
+          "pli": "sakkāyadiṭṭhipariyuṭṭhitena cetasā viharati sakkāyadiṭṭhiparetena;",
+          "en": "Their heart is overcome and mired in identity view,"
+        },
+        {
+          "scid": "mn64:5.3",
+          "pli": "uppannāya ca sakkāyadiṭṭhiyā nissaraṇaṃ yathābhūtaṃ nappajānāti.",
+          "en": "and they don’t truly understand the escape from identity view that has arisen."
+        },
+        {
+          "scid": "mn64:5.4",
+          "pli": "Tassa sā sakkāyadiṭṭhi thāmagatā appaṭivinītā orambhāgiyaṃ saṃyojanaṃ.",
+          "en": "That identity view is reinforced in them, not eliminated: it is a lower fetter."
+        },
+        {
+          "scid": "mn64:5.5",
+          "pli": "Vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena;",
+          "en": "Their heart is overcome and mired in doubt,"
+        },
+        {
+          "scid": "mn64:5.6",
+          "pli": "uppannāya ca vicikicchāya nissaraṇaṃ yathābhūtaṃ nappajānāti.",
+          "en": "and they don’t truly understand the escape from doubt that has arisen."
+        },
+        {
+          "scid": "mn64:5.7",
+          "pli": "Tassa sā vicikicchā thāmagatā appaṭivinītā orambhāgiyaṃ saṃyojanaṃ.",
+          "en": "That doubt is reinforced in them, not eliminated: it is a lower fetter."
+        },
+        {
+          "scid": "mn64:5.8",
+          "pli": "Sīlabbataparāmāsapariyuṭṭhitena cetasā viharati sīlabbataparāmāsaparetena;",
+          "en": "Their heart is overcome and mired in misapprehension of precepts and observances,"
+        },
+        {
+          "scid": "mn64:5.9",
+          "pli": "uppannassa ca sīlabbataparāmāsassa nissaraṇaṃ yathābhūtaṃ nappajānāti.",
+          "en": "and they don’t truly understand the escape from misapprehension of precepts and observances that has arisen."
+        },
+        {
+          "scid": "mn64:5.10",
+          "pli": "Tassa so sīlabbataparāmāso thāmagato appaṭivinīto orambhāgiyaṃ saṃyojanaṃ.",
+          "en": "That misapprehension of precepts and observances is reinforced in them, not eliminated: it is a lower fetter."
+        },
+        {
+          "scid": "mn64:5.11",
+          "pli": "Kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena;",
+          "en": "Their heart is overcome and mired in sensual desire,"
+        },
+        {
+          "scid": "mn64:5.12",
+          "pli": "uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ nappajānāti.",
+          "en": "and they don’t truly understand the escape from sensual desire that has arisen."
+        },
+        {
+          "scid": "mn64:5.13",
+          "pli": "Tassa so kāmarāgo thāmagato appaṭivinīto orambhāgiyaṃ saṃyojanaṃ.",
+          "en": "That sensual desire is reinforced in them, not eliminated: it is a lower fetter."
+        },
+        {
+          "scid": "mn64:5.14",
+          "pli": "Byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena;",
+          "en": "Their heart is overcome and mired in ill will,"
+        },
+        {
+          "scid": "mn64:5.15",
+          "pli": "uppannassa ca byāpādassa nissaraṇaṃ yathābhūtaṃ nappajānāti.",
+          "en": "and they don’t truly understand the escape from ill will that has arisen."
+        },
+        {
+          "scid": "mn64:5.16",
+          "pli": "Tassa so byāpādo thāmagato appaṭivinīto orambhāgiyaṃ saṃyojanaṃ.",
+          "en": "That ill will is reinforced in them, not eliminated: it is a lower fetter."
+        },
+        {
+          "scid": "mn64:6.1",
+          "pli": "Sutavā ca kho, ānanda, ariyasāvako ariyānaṃ dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisānaṃ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto na sakkāyadiṭṭhipariyuṭṭhitena cetasā viharati na sakkāyadiṭṭhiparetena;",
+          "en": "But an educated noble disciple has seen the noble ones, and is skilled and trained in their teaching. They’ve seen good persons, and are skilled and trained in their teaching. Their heart is not overcome and mired in identity view,"
+        },
+        {
+          "scid": "mn64:6.2",
+          "pli": "uppannāya ca sakkāyadiṭṭhiyā nissaraṇaṃ yathābhūtaṃ pajānāti.",
+          "en": "and they truly understand the escape from identity view that has arisen."
+        },
+        {
+          "scid": "mn64:6.3",
+          "pli": "Tassa sā sakkāyadiṭṭhi sānusayā pahīyati.",
+          "en": "That identity view, along with any underlying tendency to it, is given up in them."
+        },
+        {
+          "scid": "mn64:6.4",
+          "pli": "Na vicikicchāpariyuṭṭhitena cetasā viharati na vicikicchāparetena;",
+          "en": "Their heart is not overcome and mired in doubt,"
+        },
+        {
+          "scid": "mn64:6.5",
+          "pli": "uppannāya ca vicikicchāya nissaraṇaṃ yathābhūtaṃ pajānāti.",
+          "en": "and they truly understand the escape from doubt that has arisen."
+        },
+        {
+          "scid": "mn64:6.6",
+          "pli": "Tassa sā vicikicchā sānusayā pahīyati.",
+          "en": "That doubt, along with any underlying tendency to it, is given up in them."
+        },
+        {
+          "scid": "mn64:6.7",
+          "pli": "Na sīlabbataparāmāsapariyuṭṭhitena cetasā viharati na sīlabbataparāmāsaparetena;",
+          "en": "Their heart is not overcome and mired in misapprehension of precepts and observances,"
+        },
+        {
+          "scid": "mn64:6.8",
+          "pli": "uppannassa ca sīlabbataparāmāsassa nissaraṇaṃ yathābhūtaṃ pajānāti.",
+          "en": "and they truly understand the escape from misapprehension of precepts and observances that has arisen."
+        },
+        {
+          "scid": "mn64:6.9",
+          "pli": "Tassa so sīlabbataparāmāso sānusayo pahīyati.",
+          "en": "That misapprehension of precepts and observances, along with any underlying tendency to it, is given up in them."
+        },
+        {
+          "scid": "mn64:6.10",
+          "pli": "Na kāmarāgapariyuṭṭhitena cetasā viharati na kāmarāgaparetena;",
+          "en": "Their heart is not overcome and mired in sensual desire,"
+        },
+        {
+          "scid": "mn64:6.11",
+          "pli": "uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ pajānāti.",
+          "en": "and they truly understand the escape from sensual desire that has arisen."
+        },
+        {
+          "scid": "mn64:6.12",
+          "pli": "Tassa so kāmarāgo sānusayo pahīyati.",
+          "en": "That sensual desire, along with any underlying tendency to it, is given up in them."
+        },
+        {
+          "scid": "mn64:6.13",
+          "pli": "Na byāpādapariyuṭṭhitena cetasā viharati na byāpādaparetena;",
+          "en": "Their heart is not overcome and mired in ill will,"
+        },
+        {
+          "scid": "mn64:6.14",
+          "pli": "uppannassa ca byāpādassa nissaraṇaṃ yathābhūtaṃ pajānāti.",
+          "en": "and they truly understand the escape from ill will that has arisen."
+        },
+        {
+          "scid": "mn64:6.15",
+          "pli": "Tassa so byāpādo sānusayo pahīyati.",
+          "en": "That ill will, along with any underlying tendency to it, is given up in them."
+        },
+        {
+          "scid": "mn64:6.16",
+          "pli": "Yo, ānanda, maggo yā paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya taṃ maggaṃ taṃ paṭipadaṃ anāgamma pañcorambhāgiyāni saṃyojanāni ñassati vā dakkhati vā pajahissati vāti—netaṃ ṭhānaṃ vijjati.",
+          "en": "There is a path and a practice for giving up the five lower fetters. It’s not possible to know or see or give up the five lower fetters without relying on that path and that practice."
+        },
+        {
+          "scid": "mn64:6.17",
+          "pli": "Seyyathāpi, ānanda, mahato rukkhassa tiṭṭhato sāravato tacaṃ acchetvā phegguṃ acchetvā sāracchedo bhavissatīti—",
+          "en": "Suppose there was a large tree standing with heartwood. It’s not possible to cut out the heartwood without having cut through the bark and the softwood."
+        },
+        {
+          "scid": "mn64:6.18",
+          "pli": "netaṃ ṭhānaṃ vijjati;",
+          "en": ""
+        },
+        {
+          "scid": "mn64:6.19",
+          "pli": "evameva kho, ānanda, yo maggo yā paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya taṃ maggaṃ taṃ paṭipadaṃ anāgamma pañcorambhāgiyāni saṃyojanāni ñassati vā dakkhati vā pajahissati vāti—netaṃ ṭhānaṃ vijjati.",
+          "en": "In the same way, there is a path and a practice for giving up the five lower fetters. It’s not possible to know or see or give up the five lower fetters without relying on that path and that practice."
+        },
+        {
+          "scid": "mn64:7.1",
+          "pli": "Yo ca kho, ānanda, maggo yā paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya taṃ maggaṃ taṃ paṭipadaṃ āgamma pañcorambhāgiyāni saṃyojanāni ñassati vā dakkhati vā pajahissati vāti—ṭhānametaṃ vijjati.",
+          "en": "There is a path and a practice for giving up the five lower fetters. It is possible to know and see and give up the five lower fetters by relying on that path and that practice."
+        },
+        {
+          "scid": "mn64:8.1",
+          "pli": "Seyyathāpi, ānanda, mahato rukkhassa tiṭṭhato sāravato tacaṃ chetvā phegguṃ chetvā sāracchedo bhavissatīti—ṭhānametaṃ vijjati.",
+          "en": "Suppose there was a large tree standing with heartwood. It is possible to cut out the heartwood after having cut through the bark and the softwood."
+        },
+        {
+          "scid": "mn64:8.2",
+          "pli": "evameva kho, ānanda, yo maggo yā paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya taṃ maggaṃ taṃ paṭipadaṃ āgamma pañcorambhāgiyāni saṃyojanāni ñassati vā dakkhati vā pajahissati vāti—ṭhānametaṃ vijjati.",
+          "en": "In the same way, there is a path and a practice for giving up the five lower fetters. It is possible to know and see and give up the five lower fetters by relying on that path and that practice."
+        },
+        {
+          "scid": "mn64:8.3",
+          "pli": "Seyyathāpi, ānanda, gaṅgā nadī pūrā udakassa samatittikā kākapeyyā.",
+          "en": "Suppose the river Ganges was full to the brim so a crow could drink from it."
+        },
+        {
+          "scid": "mn64:8.4",
+          "pli": "Atha dubbalako puriso āgaccheyya:",
+          "en": "Then along comes a feeble person, who thinks:"
+        },
+        {
+          "scid": "mn64:8.5",
+          "pli": "‘ahaṃ imissā gaṅgāya nadiyā tiriyaṃ bāhāya sotaṃ chetvā sotthinā pāraṃ gacchissāmī’ti;",
+          "en": "‘By swimming with my arms I’ll safely cross over to the far shore of the Ganges.’"
+        },
+        {
+          "scid": "mn64:8.6",
+          "pli": "so na sakkuṇeyya gaṅgāya nadiyā tiriyaṃ bāhāya sotaṃ chetvā sotthinā pāraṃ gantuṃ.",
+          "en": "But they’re not able to do so."
+        },
+        {
+          "scid": "mn64:8.7",
+          "pli": "Evameva kho, ānanda, yesaṃ kesañci sakkāyanirodhāya dhamme desiyamāne cittaṃ na pakkhandati nappasīdati na santiṭṭhati na vimuccati;",
+          "en": "In the same way, when the Dhamma is being taught for the cessation of identity view, someone whose mind isn’t eager, confident, steady, and decided"
+        },
+        {
+          "scid": "mn64:8.8",
+          "pli": "seyyathāpi so dubbalako puriso evamete daṭṭhabbā.",
+          "en": "should be regarded as being like that feeble person."
+        },
+        {
+          "scid": "mn64:8.9",
+          "pli": "Seyyathāpi, ānanda, gaṅgā nadī pūrā udakassa samatittikā kākapeyyā.",
+          "en": "Suppose the river Ganges was full to the brim so a crow could drink from it."
+        },
+        {
+          "scid": "mn64:8.10",
+          "pli": "Atha balavā puriso āgaccheyya:",
+          "en": "Then along comes a strong person, who thinks:"
+        },
+        {
+          "scid": "mn64:8.11",
+          "pli": "‘ahaṃ imissā gaṅgāya nadiyā tiriyaṃ bāhāya sotaṃ chetvā sotthinā pāraṃ gacchissāmī’ti;",
+          "en": "‘By swimming with my arms I’ll safely cross over to the far shore of the Ganges.’"
+        },
+        {
+          "scid": "mn64:8.12",
+          "pli": "so sakkuṇeyya gaṅgāya nadiyā tiriyaṃ bāhāya sotaṃ chetvā sotthinā pāraṃ gantuṃ.",
+          "en": "And they are able to do so."
+        },
+        {
+          "scid": "mn64:8.13",
+          "pli": "Evameva kho, ānanda, yesaṃ kesañci sakkāyanirodhāya dhamme desiyamāne cittaṃ pakkhandati pasīdati santiṭṭhati vimuccati;",
+          "en": "In the same way, when the Dhamma is being taught for the cessation of identity view, someone whose mind is eager, confident, steady, and decided"
+        },
+        {
+          "scid": "mn64:8.14",
+          "pli": "seyyathāpi so balavā puriso evamete daṭṭhabbā.",
+          "en": "should be regarded as being like that strong person."
+        },
+        {
+          "scid": "mn64:9.1",
+          "pli": "Katamo cānanda, maggo, katamā paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya?",
+          "en": "And what, Ānanda, is the path and the practice for giving up the five lower fetters?"
+        },
+        {
+          "scid": "mn64:9.2",
+          "pli": "Idhānanda, bhikkhu upadhivivekā akusalānaṃ dhammānaṃ pahānā sabbaso kāyaduṭṭhullānaṃ paṭippassaddhiyā vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "It’s when a mendicant—due to the seclusion from attachments, the giving up of unskillful qualities, and the complete settling of physical discomfort—quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn64:9.3",
+          "pli": "So yadeva tattha hoti rūpagataṃ vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.",
+          "en": "They contemplate the phenomena there—included in form, feeling, perception, choices, and consciousness—as impermanent, as suffering, as diseased, as an abscess, as a dart, as misery, as an affliction, as alien, as falling apart, as empty, as not-self."
+        },
+        {
+          "scid": "mn64:9.4",
+          "pli": "So tehi dhammehi cittaṃ paṭivāpeti.",
+          "en": "They turn their mind away from those things,"
+        },
+        {
+          "scid": "mn64:9.5",
+          "pli": "So tehi dhammehi cittaṃ paṭivāpetvā amatāya dhātuyā cittaṃ upasaṃharati:",
+          "en": "and apply it to the deathless element:"
+        },
+        {
+          "scid": "mn64:9.6",
+          "pli": "‘etaṃ santaṃ etaṃ paṇītaṃ yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan’ti.",
+          "en": "‘This is peaceful; this is sublime—that is, the stilling of all activities, the letting go of all attachments, the ending of craving, cessation, extinguishment.’"
+        },
+        {
+          "scid": "mn64:9.7",
+          "pli": "So tattha ṭhito āsavānaṃ khayaṃ pāpuṇāti;",
+          "en": "Abiding in that they attain the ending of defilements."
+        },
+        {
+          "scid": "mn64:9.8",
+          "pli": "no ce āsavānaṃ khayaṃ pāpuṇāti teneva dhammarāgena tāya dhammanandiyā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā.",
+          "en": "If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously, because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world."
+        },
+        {
+          "scid": "mn64:9.9",
+          "pli": "Ayampi kho, ānanda, maggo ayaṃ paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya.",
+          "en": "This is the path and the practice for giving up the five lower fetters."
+        },
+        {
+          "scid": "mn64:10-12.1",
+          "pli": "Puna caparaṃ, ānanda, bhikkhu vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ jhānaṃ upasampajja viharati … pe …",
+          "en": "Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption …"
+        },
+        {
+          "scid": "mn64:10-12.2",
+          "pli": "tatiyaṃ jhānaṃ … pe …",
+          "en": "third absorption …"
+        },
+        {
+          "scid": "mn64:10-12.3",
+          "pli": "catutthaṃ jhānaṃ upasampajja viharati.",
+          "en": "fourth absorption."
+        },
+        {
+          "scid": "mn64:10-12.4",
+          "pli": "So yadeva tattha hoti rūpagataṃ vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ …",
+          "en": "They contemplate the phenomena there as impermanent …"
+        },
+        {
+          "scid": "mn64:10-12.5",
+          "pli": "pe …",
+          "en": "They turn their mind away from those things …"
+        },
+        {
+          "scid": "mn64:10-12.6",
+          "pli": "anāvattidhammo tasmā lokā.",
+          "en": "If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world."
+        },
+        {
+          "scid": "mn64:10-12.7",
+          "pli": "Ayampi kho, ānanda, maggo ayaṃ paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya.",
+          "en": "This too is the path and the practice for giving up the five lower fetters."
+        },
+        {
+          "scid": "mn64:13.1",
+          "pli": "Puna caparaṃ, ānanda, bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati.",
+          "en": "Furthermore, a mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space."
+        },
+        {
+          "scid": "mn64:13.2",
+          "pli": "So yadeva tattha hoti vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ …",
+          "en": "They contemplate the phenomena there as impermanent …"
+        },
+        {
+          "scid": "mn64:13.3",
+          "pli": "pe …",
+          "en": "They turn their mind away from those things …"
+        },
+        {
+          "scid": "mn64:13.4",
+          "pli": "anāvattidhammo tasmā lokā.",
+          "en": "If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world."
+        },
+        {
+          "scid": "mn64:13.5",
+          "pli": "Ayampi kho, ānanda, maggo ayaṃ paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya.",
+          "en": "This too is the path and the practice for giving up the five lower fetters."
+        },
+        {
+          "scid": "mn64:14.1",
+          "pli": "Puna caparaṃ, ānanda, bhikkhu sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇan’ti viññāṇañcāyatanaṃ upasampajja viharati.",
+          "en": "Furthermore, a mendicant, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness."
+        },
+        {
+          "scid": "mn64:14.2",
+          "pli": "So yadeva tattha hoti vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ …",
+          "en": "They contemplate the phenomena there as impermanent …"
+        },
+        {
+          "scid": "mn64:14.3",
+          "pli": "pe …",
+          "en": "They turn their mind away from those things …"
+        },
+        {
+          "scid": "mn64:14.4",
+          "pli": "anāvattidhammo tasmā lokā.",
+          "en": "If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world."
+        },
+        {
+          "scid": "mn64:14.5",
+          "pli": "Ayampi kho, ānanda, maggo ayaṃ paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya.",
+          "en": "This too is the path and the practice for giving up the five lower fetters."
+        },
+        {
+          "scid": "mn64:15.1",
+          "pli": "Puna caparaṃ, ānanda, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati.",
+          "en": "Furthermore, a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness."
+        },
+        {
+          "scid": "mn64:15.2",
+          "pli": "So yadeva tattha hoti vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ …",
+          "en": "They contemplate the phenomena there as impermanent …"
+        },
+        {
+          "scid": "mn64:15.3",
+          "pli": "pe …",
+          "en": "They turn their mind away from those things …"
+        },
+        {
+          "scid": "mn64:15.4",
+          "pli": "anāvattidhammo tasmā lokā.",
+          "en": "If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world."
+        },
+        {
+          "scid": "mn64:15.5",
+          "pli": "Ayampi kho, ānanda, maggo ayaṃ paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāyā”ti.",
+          "en": "This too is the path and the practice for giving up the five lower fetters.”"
+        },
+        {
+          "scid": "mn64:16.1",
+          "pli": "“Eso ce, bhante, maggo esā paṭipadā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya, atha kiñcarahi idhekacce bhikkhū cetovimuttino ekacce bhikkhū paññāvimuttino”ti?",
+          "en": "“Sir, if this is the path and the practice for giving up the five lower fetters, how come some mendicants here are released in heart while others are released by wisdom?”"
+        },
+        {
+          "scid": "mn64:16.2",
+          "pli": "“Ettha kho panesāhaṃ, ānanda, indriyavemattataṃ vadāmī”ti.",
+          "en": "“In that case, I say it is the diversity of their faculties.”"
+        },
+        {
+          "scid": "mn64:16.3",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn64:16.4",
+          "pli": "Attamano āyasmā ānando bhagavato bhāsitaṃ abhinandīti.",
+          "en": "Satisfied, Venerable Ānanda was happy with what the Buddha said."
+        },
+        {
+          "scid": "mn64:16.5",
+          "pli": "Mahāmālukyasuttaṃ niṭṭhitaṃ catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn64/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 64",
+    "volpages": "MN i 432",
+    "uid": "mn64",
+    "blurb": "A little baby has no wrong views or intentions, but the underlying tendency for these things is still there. Without practicing, they will inevitably recur.",
+    "difficulty": 2,
+    "original_title": "Mahāmālukya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Longer Discourse With Māluṅkya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn64_sujato",
+        "segmented": true,
+        "title": "The Longer Discourse With Māluṅkya"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn64_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Greater Discourse to Mālunkyāputta"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn64_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Greater Discourse to Māluṅkya (Putta)"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 4
+  }
+}

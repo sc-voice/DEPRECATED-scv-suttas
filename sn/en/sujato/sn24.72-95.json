@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn24.72-95",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn24.72-95",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "This Is Not Mine, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Self Is Neither Happy Nor Suffering",
+      "uid": "sn24.96"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Winds",
+      "uid": "sn24.71"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn24.72-95:0.1",
+          "pli": "Saṃyutta Nikāya 24",
+          "en": "Linked Discourses 24"
+        },
+        {
+          "scid": "sn24.72-95:0.2",
+          "pli": "4. Catutthagamanavagga",
+          "en": "4. The Fourth Round"
+        },
+        {
+          "scid": "sn24.72-95:0.3",
+          "pli": "72–​95. Etaṃmamādisutta",
+          "en": "72–95. This Is Not Mine, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 24…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn24.72-95:1.1",
+          "pli": "(Dutiyavagge viya catuvīsati suttāni pūretabbāni.)",
+          "en": "(To be completed in the same way as the 24 discourses of the second chapter.)"
+        },
+        {
+          "scid": "sn24.72-95:1.2",
+          "pli": "Pañcavīsatimaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "(To be completed in the same way…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn24.72-95/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn24.72-95",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Etaṃmamādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "This Is Not Mine, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn24.72-95_sujato",
+        "segmented": true,
+        "title": "This Is Not Mine, Etc."
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

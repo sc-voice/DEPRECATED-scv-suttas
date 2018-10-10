@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "an10.237",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.237",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an10.238"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an10.225-228"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.237:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.237:0.2",
+          "pli": "23. Rāgapeyyāla",
+          "en": "23. Abbreviated Texts Beginning With Greed"
+        },
+        {
+          "scid": "an10.237:0.3",
+          "pli": "237",
+          "en": "237."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.237:1.1",
+          "pli": "“Rāgassa, bhikkhave, abhiññāya dasa dhammā bhāvetabbā.",
+          "en": "“For insight into greed, ten things should be developed."
+        },
+        {
+          "scid": "an10.237:1.2",
+          "pli": "Katame dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.237:1.3",
+          "pli": "Asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā, aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā, nirodhasaññā—",
+          "en": "The perceptions of ugliness, death, repulsiveness of food, dissatisfaction with the whole world, impermanence, suffering in impermanence, and not-self in suffering, giving up, fading away, and cessation."
+        },
+        {
+          "scid": "an10.237:1.4",
+          "pli": "rāgassa, bhikkhave, abhiññāya ime dasa dhammā bhāvetabbā”ti.",
+          "en": "For insight into greed, these ten things should be developed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“For insight into greed…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.237/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "an10.237",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.237_sujato",
+        "segmented": true,
+        "title": ""
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an10.237_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

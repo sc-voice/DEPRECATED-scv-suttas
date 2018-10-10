@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "thag4.11",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag4.11",
+    "lang": "en",
+    "is_root": false,
+    "title": "Sappaka",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Mudita",
+      "uid": "thag4.12"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Dhammika",
+      "uid": "thag4.10"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag4.11:0.1",
+          "en": "Theragāthā 4.11"
+        },
+        {
+          "scid": "thag4.11:0.2",
+          "en": "Sappaka",
+          "pli": "Sappakattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag4.11:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag4.11:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag4.11:1.0.3",
+          "en": "Chapter of the Fours"
+        },
+        {
+          "scid": "thag4.11:1.0.4",
+          "en": "4.11. Sappaka"
+        },
+        {
+          "scid": "thag4.11:1.1.5",
+          "en": "When the crane with its beautiful white wings, Startled by fear of the dark thundercloud, Flees, seeking shelter— Then the River Ajakaraṇī delights me."
+        },
+        {
+          "scid": "thag4.11:1.2.6",
+          "en": "When the crane, so pure and white, Startled by fear of the dark thundercloud, Seeks for a cave to shelter in, but can’t see one— Then the River Ajakaraṇī delights me."
+        },
+        {
+          "scid": "thag4.11:1.3.7",
+          "en": "Who wouldn’t be delighted By the rose-apple trees That adorn both banks of the river there, Behind my cave?"
+        },
+        {
+          "scid": "thag4.11:1.4.8",
+          "en": "Rid of snakes, that death-mad swarm,  The lazy frogs croak: “Today isn’t the time to stray from mountain streams; Ajakaraṇī is safe, pleasant, and delightful.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag4.11/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 4.11",
+    "volpages": "Thag 35",
+    "uid": "thag4.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sappakattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sappaka",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag4.11_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Sappaka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 11
+  }
+}

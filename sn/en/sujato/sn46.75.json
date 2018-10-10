@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn46.75",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.75",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Dispassion",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cessation",
+      "uid": "sn46.76"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving Up",
+      "uid": "sn46.74"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.75:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.75:0.2",
+          "pli": "8. Nirodhavagga",
+          "en": "8. Cessation"
+        },
+        {
+          "scid": "sn46.75:0.3",
+          "pli": "75. Virāgasutta",
+          "en": "75. Dispassion"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.75:1.1",
+          "pli": "“Virāgasaññā, bhikkhave … pe …",
+          "en": "“Mendicants, when the perception of dispassion is developed and cultivated it’s very fruitful and beneficial. …”"
+        },
+        {
+          "scid": "sn46.75:1.2",
+          "pli": "navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.75/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.75",
+    "volpages": "SN v 133",
+    "uid": "sn46.75",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Virāga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dispassion",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.75_sujato",
+        "segmented": true,
+        "title": "Dispassion"
+      },
+      {
+        "author": "Frank Lee Woodward",
+        "author_short": "Woodward",
+        "author_uid": "woodward",
+        "id": "en_sn46.75_woodward",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Dispassion"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

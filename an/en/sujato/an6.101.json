@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an6.101",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.101",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Extinguished",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Transience",
+      "uid": "an6.102"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Not-Self",
+      "uid": "an6.100"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.101:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.101:0.2",
+          "pli": "10. Ānisaṃsavagga",
+          "en": "10. Benefit"
+        },
+        {
+          "scid": "an6.101:0.3",
+          "pli": "101. Nibbānasutta",
+          "en": "101. Extinguished"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.101:1.1",
+          "pli": "“‘So vata, bhikkhave, bhikkhu nibbānaṃ dukkhato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti netaṃ ṭhānaṃ vijjati.",
+          "en": "“Mendicants, it’s totally impossible for a mendicant who regards extinguishment as suffering to accept views that agree with the teaching. …"
+        },
+        {
+          "scid": "an6.101:1.2",
+          "pli": "‘Anulomikāya khantiyā asamannāgato sammattaniyāmaṃ okkamissatī’ti netaṃ ṭhānaṃ vijjati.",
+          "en": ""
+        },
+        {
+          "scid": "an6.101:1.3",
+          "pli": "‘Sammattaniyāmaṃ anokkamamāno sotāpattiphalaṃ vā sakadāgāmiphalaṃ vā anāgāmiphalaṃ vā arahattaṃ vā sacchikarissatī’ti netaṃ ṭhānaṃ vijjati.",
+          "en": ""
+        },
+        {
+          "scid": "an6.101:2.1",
+          "pli": "‘So vata, bhikkhave, bhikkhu nibbānaṃ sukhato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti ṭhānametaṃ vijjati.",
+          "en": "It’s totally possible for a mendicant who regards extinguishment as pleasurable to accept views that agree with the teaching. …”"
+        },
+        {
+          "scid": "an6.101:2.2",
+          "pli": "‘Anulomikāya khantiyā samannāgato sammattaniyāmaṃ okkamissatī’ti ṭhānametaṃ vijjati.",
+          "en": ""
+        },
+        {
+          "scid": "an6.101:2.3",
+          "pli": "‘Sammattaniyāmaṃ okkamamāno sotāpattiphalaṃ vā sakadāgāmiphalaṃ vā anāgāmiphalaṃ vā arahattaṃ vā sacchikarissatī’ti ṭhānametaṃ vijjatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "an6.101:2.4",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.101/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.101",
+    "volpages": "AN iii 442",
+    "uid": "an6.101",
+    "blurb": "A mendicant on the path cannot see extinguishment as suffering.",
+    "difficulty": null,
+    "original_title": "Nibbāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Extinguished",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.101_sujato",
+        "segmented": true,
+        "title": "Extinguished"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

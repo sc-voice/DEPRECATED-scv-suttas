@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "an4.77",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.77",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Inconceivable",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Teacher’s Offering",
+      "uid": "an4.78"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At Kusinārā",
+      "uid": "an4.76"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.77:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.77:0.2",
+          "pli": "8. Apaṇṇakavagga",
+          "en": "8. Guaranteed"
+        },
+        {
+          "scid": "an4.77:0.3",
+          "pli": "77. Acinteyyasutta",
+          "en": "77. Inconceivable"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.77:1.1",
+          "pli": "“Cattārimāni, bhikkhave, acinteyyāni, na cintetabbāni; yāni cintento ummādassa vighātassa bhāgī assa.",
+          "en": "“Mendicants, these four things are inconceivable. They should not be thought about, and anyone who tries to think about them will go mad or get frustrated."
+        },
+        {
+          "scid": "an4.77:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.77:1.3",
+          "pli": "Buddhānaṃ, bhikkhave, buddhavisayo acinteyyo, na cintetabbo;",
+          "en": "The scope of the Buddhas …"
+        },
+        {
+          "scid": "an4.77:1.4",
+          "pli": "yaṃ cintento ummādassa vighātassa bhāgī assa.",
+          "en": ""
+        },
+        {
+          "scid": "an4.77:1.5",
+          "pli": "Jhāyissa, bhikkhave, jhānavisayo acinteyyo, na cintetabbo;",
+          "en": "The scope of one in absorption …"
+        },
+        {
+          "scid": "an4.77:1.6",
+          "pli": "yaṃ cintento ummādassa vighātassa bhāgī assa.",
+          "en": ""
+        },
+        {
+          "scid": "an4.77:1.7",
+          "pli": "Kammavipāko, bhikkhave, acinteyyo, na cintetabbo;",
+          "en": "The results of deeds …"
+        },
+        {
+          "scid": "an4.77:1.8",
+          "pli": "yaṃ cintento ummādassa vighātassa bhāgī assa.",
+          "en": ""
+        },
+        {
+          "scid": "an4.77:1.9",
+          "pli": "Lokacintā, bhikkhave, acinteyyā, na cintetabbā;",
+          "en": "Speculation about the world …"
+        },
+        {
+          "scid": "an4.77:1.10",
+          "pli": "yaṃ cintento ummādassa vighātassa bhāgī assa.",
+          "en": ""
+        },
+        {
+          "scid": "an4.77:1.11",
+          "pli": "Imāni kho, bhikkhave, cattāri acinteyyāni, na cintetabbāni; yāni cintento ummādassa vighātassa bhāgī assā”ti.",
+          "en": "These are the four inconceivable things. They should not be thought about, and anyone who tries to think about them will go mad or get frustrated.”"
+        },
+        {
+          "scid": "an4.77:1.12",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.77/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.77",
+    "volpages": "AN ii 80",
+    "uid": "an4.77",
+    "blurb": "If you try to think about these things you will go mad or get frustrated.",
+    "difficulty": null,
+    "original_title": "Acinteyya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Inconceivable",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.77_sujato",
+        "segmented": true,
+        "title": "Inconceivable"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an4.77_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Unconjecturable"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 7
+  }
+}

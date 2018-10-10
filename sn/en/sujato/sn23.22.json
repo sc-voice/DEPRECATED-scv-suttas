@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "sn23.22",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn23.22",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Liable To Cease",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Eleven Discourses on Māra, Etc.",
+      "uid": "sn23.23-33"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Liable To Originate",
+      "uid": "sn23.21"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn23.22:0.1",
+          "pli": "Saṃyutta Nikāya 23",
+          "en": "Linked Discourses 23"
+        },
+        {
+          "scid": "sn23.22:0.2",
+          "pli": "2. Dutiyamāravagga",
+          "en": "2. About Māra (2nd)"
+        },
+        {
+          "scid": "sn23.22:0.3",
+          "pli": "22. Nirodhadhammasutta",
+          "en": "22. Liable To Cease"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 23…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn23.22:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn23.22:1.2",
+          "pli": "Ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca:",
+          "en": "Seated to one side, Venerable Rādha said to the Buddha:"
+        },
+        {
+          "scid": "sn23.22:1.3",
+          "pli": "“‘nirodhadhammo, nirodhadhammo’ti, bhante, vuccati.",
+          "en": "“Sir, they speak of things being ‘liable to cease’."
+        },
+        {
+          "scid": "sn23.22:1.4",
+          "pli": "Katamo nu kho, bhante, nirodhadhammo”ti?",
+          "en": "What is liable to cease?”"
+        },
+        {
+          "scid": "sn23.22:1.5",
+          "pli": "“Rūpaṃ kho, rādha, nirodhadhammo, vedanā nirodhadhammo, saññā nirodhadhammo, saṅkhārā nirodhadhammo, viññāṇaṃ nirodhadhammo.",
+          "en": "“Rādha, form, feeling, perception, choices, and consciousness are liable to cease."
+        },
+        {
+          "scid": "sn23.22:1.6",
+          "pli": "Evaṃ passaṃ … pe …",
+          "en": "Seeing this …"
+        },
+        {
+          "scid": "sn23.22:1.7",
+          "pli": "nāparaṃ itthattāyāti pajānātī”ti.",
+          "en": "They understand: ‘… there is no return to any state of existence.’”"
+        },
+        {
+          "scid": "sn23.22:1.8",
+          "pli": "Dvādasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn23.22:1.9",
+          "pli": "Dutiyamāravaggo.",
+          "en": ""
+        },
+        {
+          "scid": "sn23.22:2.1",
+          "pli": "Māro ca māradhammo ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn23.22:2.2",
+          "pli": "Aniccena apare duve;",
+          "en": ""
+        },
+        {
+          "scid": "sn23.22:2.3",
+          "pli": "Dukkhena ca duve vuttā,",
+          "en": ""
+        },
+        {
+          "scid": "sn23.22:2.4",
+          "pli": "Anattena tatheva ca;",
+          "en": ""
+        },
+        {
+          "scid": "sn23.22:2.5",
+          "pli": "Khayavayasamudayaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn23.22:2.6",
+          "pli": "Nirodhadhammena dvādasāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn23.22/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 23.22",
+    "volpages": "SN iii 197",
+    "uid": "sn23.22",
+    "blurb": "Rādha asks the Buddha about what is liable to cease, and the Buddha explains in terms of the five aggregates.",
+    "difficulty": null,
+    "original_title": "Nirodhadhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Liable To Cease",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn23.22_sujato",
+        "segmented": true,
+        "title": "Liable To Cease"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 12
+  }
+}

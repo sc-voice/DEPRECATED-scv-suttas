@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "an4.242",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.242",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Benefits of a Good Person",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Schism in the Saṅgha",
+      "uid": "an4.243"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics",
+      "uid": "an4.241"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.242:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.242:0.2",
+          "pli": "24. Kammavagga",
+          "en": "24. Deeds"
+        },
+        {
+          "scid": "an4.242:0.3",
+          "pli": "242. Sappurisānisaṃsasutta",
+          "en": "242. Benefits of a Good Person"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.242:1.1",
+          "pli": "“Sappurisaṃ, bhikkhave, nissāya cattāro ānisaṃsā pāṭikaṅkhā.",
+          "en": "“Mendicants, you can expect four benefits from relying on a good person."
+        },
+        {
+          "scid": "an4.242:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.242:1.3",
+          "pli": "Ariyena sīlena vaḍḍhati, ariyena samādhinā vaḍḍhati, ariyāya paññāya vaḍḍhati, ariyāya vimuttiyā vaḍḍhati—",
+          "en": "Growth in noble ethics, immersion, wisdom, and freedom."
+        },
+        {
+          "scid": "an4.242:1.4",
+          "pli": "sappurisaṃ, bhikkhave, nissāya ime cattāro ānisaṃsā pāṭikaṅkhā”ti.",
+          "en": "You can expect these four benefits from relying on a good person.”"
+        },
+        {
+          "scid": "an4.242:1.5",
+          "pli": "Ekādasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.242:1.6",
+          "pli": "Kammavaggo catuttho.",
+          "en": ""
+        },
+        {
+          "scid": "an4.242:2.1",
+          "pli": "Saṅkhitta vitthāra soṇakāyana,",
+          "en": ""
+        },
+        {
+          "scid": "an4.242:2.2",
+          "pli": "Sikkhāpadaṃ ariyamaggo bojjhaṅgaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "an4.242:2.3",
+          "pli": "Sāvajjañceva abyābajjhaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "an4.242:2.4",
+          "pli": "Samaṇo ca sappurisānisaṃsoti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.242/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.242//AN 4.240",
+    "volpages": "AN ii 239",
+    "uid": "an4.242",
+    "blurb": "Relying on a good person brings four benefits.",
+    "difficulty": null,
+    "original_title": "Sappurisānisaṃsa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Benefits of a Good Person",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.242_sujato",
+        "segmented": true,
+        "title": "Benefits of a Good Person"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 11
+  }
+}

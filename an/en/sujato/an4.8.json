@@ -1,0 +1,210 @@
+{
+  "sutta_uid": "an4.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Self-assured",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Arising of Craving",
+      "uid": "an4.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Beautifying",
+      "uid": "an4.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.8:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.8:0.2",
+          "pli": "1. Bhaṇḍagāmavagga",
+          "en": "1. At Bhaṇḍa Village"
+        },
+        {
+          "scid": "an4.8:0.3",
+          "pli": "8. Vesārajjasutta",
+          "en": "8. Self-assured"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.8:1.1",
+          "pli": "“Cattārimāni, bhikkhave, tathāgatassa vesārajjāni, yehi vesārajjehi samannāgato tathāgato āsabhaṃ ṭhānaṃ paṭijānāti, parisāsu sīhanādaṃ nadati, brahmacakkaṃ pavatteti.",
+          "en": "“Mendicants, a Realized One has four kinds of self-assurance. With these he claims the bull’s place, roars his lion’s roar in the assemblies, and turns the holy wheel."
+        },
+        {
+          "scid": "an4.8:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.8:1.3",
+          "pli": "‘“Sammāsambuddhassa te paṭijānato ime dhammā anabhisambuddhā”ti tatra vata maṃ samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ sahadhammena paṭicodessatī’ti nimittametaṃ, bhikkhave, na samanupassāmi.",
+          "en": "I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘You claim to be fully awakened, but you don’t understand these things.’"
+        },
+        {
+          "scid": "an4.8:1.4",
+          "pli": "Etamahaṃ, bhikkhave, nimittaṃ asamanupassanto khemappatto abhayappatto vesārajjappatto viharāmi.",
+          "en": "Since I see no such reason, I live secure, fearless, and assured."
+        },
+        {
+          "scid": "an4.8:2.1",
+          "pli": "‘“Khīṇāsavassa te paṭijānato ime āsavā aparikkhīṇā”ti tatra vata maṃ samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ sahadhammena paṭicodessatī’ti nimittametaṃ, bhikkhave, na samanupassāmi.",
+          "en": "I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘You claim to have ended all defilements, but these defilements have not ended.’"
+        },
+        {
+          "scid": "an4.8:2.2",
+          "pli": "Etamahaṃ, bhikkhave, nimittaṃ asamanupassanto khemappatto abhayappatto vesārajjappatto viharāmi.",
+          "en": "Since I see no such reason, I live secure, fearless, and assured."
+        },
+        {
+          "scid": "an4.8:3.1",
+          "pli": "‘“Ye kho pana te antarāyikā dhammā vuttā te paṭisevato nālaṃ antarāyāyā”ti tatra vata maṃ samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ sahadhammena paṭicodessatī’ti nimittametaṃ, bhikkhave, na samanupassāmi.",
+          "en": "I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘The acts that you say are obstructions are not really obstructions for the one who performs them.’"
+        },
+        {
+          "scid": "an4.8:3.2",
+          "pli": "Etamahaṃ, bhikkhave, nimittaṃ asamanupassanto khemappatto abhayappatto vesārajjappatto viharāmi.",
+          "en": "Since I see no such reason, I live secure, fearless, and assured."
+        },
+        {
+          "scid": "an4.8:4.1",
+          "pli": "‘“Yassa kho pana te atthāya dhammo desito so na niyyāti takkarassa sammā dukkhakkhayāyā”ti tatra vata maṃ samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ sahadhammena paṭicodessatī’ti nimittametaṃ, bhikkhave, na samanupassāmi.",
+          "en": "I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘Though you teach that this teaching leads to the goal of the complete ending of suffering, it doesn’t lead there for one who practices it.’"
+        },
+        {
+          "scid": "an4.8:4.2",
+          "pli": "Etamahaṃ, bhikkhave, nimittaṃ asamanupassanto khemappatto abhayappatto vesārajjappatto viharāmi.",
+          "en": "Since I see no such reason, I live secure, fearless, and assured."
+        },
+        {
+          "scid": "an4.8:4.3",
+          "pli": "Imāni kho, bhikkhave, cattāri tathāgatassa vesārajjāni, yehi vesārajjehi samannāgato tathāgato āsabhaṃ ṭhānaṃ paṭijānāti, parisāsu sīhanādaṃ nadati, brahmacakkaṃ pavattetīti.",
+          "en": "A Realized One has these four kinds of self-assurance. With these he claims the bull’s place, roars his lion’s roar in the assemblies, and turns the holy wheel."
+        },
+        {
+          "scid": "an4.8:5.1",
+          "pli": "Ye kecime vādapathā puthussitā,",
+          "en": "The various grounds for criticism"
+        },
+        {
+          "scid": "an4.8:5.2",
+          "pli": "Yaṃnissitā samaṇabrāhmaṇā ca;",
+          "en": "that ascetics and brahmins rely on"
+        },
+        {
+          "scid": "an4.8:5.3",
+          "pli": "Tathāgataṃ patvā na te bhavanti,",
+          "en": "don’t touch a Realized One,"
+        },
+        {
+          "scid": "an4.8:5.4",
+          "pli": "Visāradaṃ vādapathātivattaṃ.",
+          "en": "assured, gone beyond grounds for criticism."
+        },
+        {
+          "scid": "an4.8:6.1",
+          "pli": "Yo dhammacakkaṃ abhibhuyya kevalī,",
+          "en": "He rolls forth the Wheel of Dhamma as a consummate one,"
+        },
+        {
+          "scid": "an4.8:6.2",
+          "pli": "Pavattayī sabbabhūtānukampī;",
+          "en": "complete, compassionate for all living creatures."
+        },
+        {
+          "scid": "an4.8:6.3",
+          "pli": "Taṃ tādisaṃ devamanussaseṭṭhaṃ,",
+          "en": "Sentient beings revere him, best of gods and humans,"
+        },
+        {
+          "scid": "an4.8:6.4",
+          "pli": "Sattā namassanti bhavassa pāragun”ti.",
+          "en": "who has transcended rebirth.”"
+        },
+        {
+          "scid": "an4.8:6.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.8",
+    "volpages": "AN ii 8",
+    "uid": "an4.8",
+    "blurb": "Because of his spiritual attainments and practice, a Buddha is supremely self-confident.",
+    "difficulty": null,
+    "original_title": "Vesārajja Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Self-assured",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.8_sujato",
+        "segmented": true,
+        "title": "Self-assured"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.8_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Self-Confidence"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 8
+  }
+}

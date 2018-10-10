@@ -1,0 +1,865 @@
+{
+  "sutta_uid": "mn13",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn13",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Longer Discourse on the Mass of Suffering",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Shorter Discourse on the Mass of Suffering",
+      "uid": "mn14"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Longer Discourse on the Lion’s Roar",
+      "uid": "mn12"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn13:0.1",
+          "pli": "Majjhima Nikāya 13",
+          "en": "Middle Discourses 13"
+        },
+        {
+          "scid": "mn13:0.2",
+          "pli": "Mahādukkhakkhandhasutta",
+          "en": "The Longer Discourse on the Mass of Suffering"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 13…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn13:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn13:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn13:2.1",
+          "pli": "Atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisiṃsu.",
+          "en": "Then several mendicants robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms."
+        },
+        {
+          "scid": "mn13:2.2",
+          "pli": "Atha kho tesaṃ bhikkhūnaṃ etadahosi:",
+          "en": "Then those mendicants thought:"
+        },
+        {
+          "scid": "mn13:2.3",
+          "pli": "“atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ, ",
+          "en": "“It’s too early to wander for alms in Sāvatthī. "
+        },
+        {
+          "scid": "mn13:2.4",
+          "pli": "yaṃ nūna mayaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyyāmā”ti.",
+          "en": "Why don’t we go to the monastery of the wanderers who follow other paths?”"
+        },
+        {
+          "scid": "mn13:2.5",
+          "pli": "Atha kho te bhikkhū yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkamiṃsu; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṃ sammodiṃsu;",
+          "en": "Then they went to the monastery of the wanderers who follow other paths, and exchanged greetings with the wanderers there."
+        },
+        {
+          "scid": "mn13:2.6",
+          "pli": "sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinne kho te bhikkhū te aññatitthiyā paribbājakā etadavocuṃ:",
+          "en": "When the greetings and polite conversation were over, they sat down to one side. The wanderers said to them:"
+        },
+        {
+          "scid": "mn13:3.1",
+          "pli": "“samaṇo, āvuso, gotamo kāmānaṃ pariññaṃ paññapeti, mayampi kāmānaṃ pariññaṃ paññapema;",
+          "en": "“Reverends, the ascetic Gotama advocates the complete understanding of sensual pleasures, and so do we."
+        },
+        {
+          "scid": "mn13:3.2",
+          "pli": "samaṇo, āvuso, gotamo rūpānaṃ pariññaṃ paññapeti, mayampi rūpānaṃ pariññaṃ paññapema;",
+          "en": "The ascetic Gotama advocates the complete understanding of sights, and so do we."
+        },
+        {
+          "scid": "mn13:3.3",
+          "pli": "samaṇo, āvuso, gotamo vedanānaṃ pariññaṃ paññapeti, mayampi vedanānaṃ pariññaṃ paññapema;",
+          "en": "The ascetic Gotama advocates the complete understanding of feelings, and so do we."
+        },
+        {
+          "scid": "mn13:3.4",
+          "pli": "idha no, āvuso, ko viseso, ko adhippayāso, kiṃ nānākaraṇaṃ samaṇassa vā gotamassa amhākaṃ vā—",
+          "en": "What, then, is the difference between the ascetic Gotama’s teaching and instruction and ours?”"
+        },
+        {
+          "scid": "mn13:3.5",
+          "pli": "yadidaṃ dhammadesanāya vā dhammadesanaṃ, anusāsaniyā vā anusāsanin”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn13:4.1",
+          "pli": "Atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandiṃsu, nappaṭikkosiṃsu;",
+          "en": "Those mendicants neither approved nor dismissed that statement of the wanderers who follow other paths."
+        },
+        {
+          "scid": "mn13:4.2",
+          "pli": "anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu:",
+          "en": "They got up from their seat, thinking:"
+        },
+        {
+          "scid": "mn13:4.3",
+          "pli": "“bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā”ti.",
+          "en": "“We will learn the meaning of this statement from the Buddha himself.”"
+        },
+        {
+          "scid": "mn13:5.1",
+          "pli": "Atha kho te bhikkhū sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
+          "en": "Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what had happened. The Buddha said:"
+        },
+        {
+          "scid": "mn13:5.2",
+          "pli": "“idha mayaṃ, bhante, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisimha.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.3",
+          "pli": "Tesaṃ no, bhante, amhākaṃ etadahosi:",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.4",
+          "pli": "‘atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ, ",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.5",
+          "pli": "yaṃ nūna mayaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyyāmā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.6",
+          "pli": "Atha kho mayaṃ, bhante, yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkamimha; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṃ sammodimha;",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.7",
+          "pli": "sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdimha. Ekamantaṃ nisinne kho amhe, bhante, te aññatitthiyā paribbājakā etadavocuṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.8",
+          "pli": "‘samaṇo, āvuso, gotamo kāmānaṃ pariññaṃ paññapeti, mayampi kāmānaṃ pariññaṃ paññapema.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.9",
+          "pli": "Samaṇo, āvuso, gotamo rūpānaṃ pariññaṃ paññapeti, mayampi rūpānaṃ pariññaṃ paññapema.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.10",
+          "pli": "Samaṇo, āvuso, gotamo vedanānaṃ pariññaṃ paññapeti, mayampi vedanānaṃ pariññaṃ paññapema.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.11",
+          "pli": "Idha no, āvuso, ko viseso, ko adhippayāso, kiṃ nānākaraṇaṃ samaṇassa vā gotamassa amhākaṃ vā, yadidaṃ dhammadesanāya vā dhammadesanaṃ anusāsaniyā vā anusāsanin’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.12",
+          "pli": "Atha kho mayaṃ, bhante, tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandimha, nappaṭikkosimha;",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.13",
+          "pli": "anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamimha:",
+          "en": ""
+        },
+        {
+          "scid": "mn13:5.14",
+          "pli": "‘bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:6.1",
+          "pli": "“Evaṃvādino, bhikkhave, aññatitthiyā paribbājakā evamassu vacanīyā:",
+          "en": "“Mendicants, when wanderers who follow other paths say this, you should say to them:"
+        },
+        {
+          "scid": "mn13:6.2",
+          "pli": "‘ko panāvuso, kāmānaṃ assādo, ko ādīnavo, kiṃ nissaraṇaṃ?",
+          "en": "‘But reverends, what’s the gratification, the drawback, and the escape when it comes to sensual pleasures?"
+        },
+        {
+          "scid": "mn13:6.3",
+          "pli": "Ko rūpānaṃ assādo, ko ādīnavo, kiṃ nissaraṇaṃ?",
+          "en": "What’s the gratification, the drawback, and the escape when it comes to sights?"
+        },
+        {
+          "scid": "mn13:6.4",
+          "pli": "Ko vedanānaṃ assādo, ko ādīnavo, kiṃ nissaraṇan’ti?",
+          "en": "What’s the gratification, the drawback, and the escape when it comes to feelings?’"
+        },
+        {
+          "scid": "mn13:6.5",
+          "pli": "Evaṃ puṭṭhā, bhikkhave, aññatitthiyā paribbājakā na ceva sampāyissanti, uttariñca vighātaṃ āpajjissanti.",
+          "en": "Questioned like this, the wanderers who follow other paths would be stumped, and, in addition, would get frustrated."
+        },
+        {
+          "scid": "mn13:6.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn13:6.7",
+          "pli": "Yathā taṃ, bhikkhave, avisayasmiṃ.",
+          "en": "Because they’re out of their element."
+        },
+        {
+          "scid": "mn13:6.8",
+          "pli": "Nāhaṃ taṃ, bhikkhave, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yo imesaṃ pañhānaṃ veyyākaraṇena cittaṃ ārādheyya, aññatra tathāgatena vā tathāgatasāvakena vā, ito vā pana sutvā.",
+          "en": "I don’t see anyone in this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—who could provide a satisfying answer to these questions except for the Realized One or his disciple or someone who has heard it from them."
+        },
+        {
+          "scid": "mn13:7.1",
+          "pli": "Ko ca, bhikkhave, kāmānaṃ assādo?",
+          "en": "And what is the gratification of sensual pleasures?"
+        },
+        {
+          "scid": "mn13:7.2",
+          "pli": "Pañcime, bhikkhave, kāmaguṇā.",
+          "en": "There are these five kinds of sensual stimulation."
+        },
+        {
+          "scid": "mn13:7.3",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "mn13:7.4",
+          "pli": "Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā, ",
+          "en": "Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. "
+        },
+        {
+          "scid": "mn13:7.5",
+          "pli": "sotaviññeyyā saddā … pe …",
+          "en": "Sounds known by the ear …"
+        },
+        {
+          "scid": "mn13:7.6",
+          "pli": "ghānaviññeyyā gandhā …",
+          "en": "Smells known by the nose …"
+        },
+        {
+          "scid": "mn13:7.7",
+          "pli": "jivhāviññeyyā rasā …",
+          "en": "Tastes known by the tongue …"
+        },
+        {
+          "scid": "mn13:7.8",
+          "pli": "kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā—",
+          "en": "Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing."
+        },
+        {
+          "scid": "mn13:7.9",
+          "pli": "ime kho, bhikkhave, pañca kāmaguṇā.",
+          "en": "These are the five kinds of sensual stimulation."
+        },
+        {
+          "scid": "mn13:7.10",
+          "pli": "Yaṃ kho, bhikkhave, ime pañca kāmaguṇe paṭicca uppajjati sukhaṃ somanassaṃ—ayaṃ kāmānaṃ assādo.",
+          "en": "The pleasure and happiness that arise from these five kinds of sensual stimulation: this is the gratification of sensual pleasures."
+        },
+        {
+          "scid": "mn13:8.1",
+          "pli": "Ko ca, bhikkhave, kāmānaṃ ādīnavo?",
+          "en": "And what is the drawback of sensual pleasures?"
+        },
+        {
+          "scid": "mn13:8.2",
+          "pli": "Idha, bhikkhave, kulaputto yena sippaṭṭhānena jīvikaṃ kappeti—",
+          "en": "It’s when a respectable person earns a living by means such as"
+        },
+        {
+          "scid": "mn13:8.3",
+          "pli": "yadi muddāya yadi gaṇanāya yadi saṅkhānena yadi kasiyā yadi vaṇijjāya yadi gorakkhena yadi issatthena yadi rājaporisena yadi sippaññatarena—",
+          "en": "computing, accounting, calculating, farming, trade, raising cattle, archery, government service, or one of the professions."
+        },
+        {
+          "scid": "mn13:8.4",
+          "pli": "sītassa purakkhato uṇhassa purakkhato ḍaṃsamakasavātātapasarīsapasamphassehi rissamāno khuppipāsāya mīyamāno;",
+          "en": "But they must face cold and heat, being hurt by the touch of flies, mosquitoes, wind, sun, and reptiles, and risking death from hunger and thirst."
+        },
+        {
+          "scid": "mn13:8.5",
+          "pli": "ayampi, bhikkhave, kāmānaṃ ādīnavo sandiṭṭhiko, dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn13:9.1",
+          "pli": "Tassa ce, bhikkhave, kulaputtassa evaṃ uṭṭhahato ghaṭato vāyamato te bhogā nābhinipphajjanti.",
+          "en": "That respectable person might try hard, strive, and make an effort, but fail to earn any money."
+        },
+        {
+          "scid": "mn13:9.2",
+          "pli": "So socati kilamati paridevati urattāḷiṃ kandati, sammohaṃ āpajjati:",
+          "en": "If this happens, they sorrow and pine and lament, beating their breast and falling into confusion, saying:"
+        },
+        {
+          "scid": "mn13:9.3",
+          "pli": "‘moghaṃ vata me uṭṭhānaṃ, aphalo vata me vāyāmo’ti.",
+          "en": "‘Oh, my hard work is wasted. My efforts are fruitless!’"
+        },
+        {
+          "scid": "mn13:9.4",
+          "pli": "Ayampi, bhikkhave, kāmānaṃ ādīnavo sandiṭṭhiko dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn13:10.1",
+          "pli": "Tassa ce, bhikkhave, kulaputtassa evaṃ uṭṭhahato ghaṭato vāyamato te bhogā abhinipphajjanti.",
+          "en": "That respectable person might try hard, strive, and make an effort, and succeed in earning money."
+        },
+        {
+          "scid": "mn13:10.2",
+          "pli": "So tesaṃ bhogānaṃ ārakkhādhikaraṇaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti:",
+          "en": "But they experience pain and sadness when they try to protect it, thinking:"
+        },
+        {
+          "scid": "mn13:10.3",
+          "pli": "‘kinti me bhoge neva rājāno hareyyuṃ, na corā hareyyuṃ, na aggi daheyya, na udakaṃ vaheyya, na appiyā dāyādā hareyyun’ti.",
+          "en": "‘How can I prevent my wealth from being taken by rulers or bandits, consumed by fire, swept away by flood, or taken by unloved heirs?’"
+        },
+        {
+          "scid": "mn13:10.4",
+          "pli": "Tassa evaṃ ārakkhato gopayato te bhoge rājāno vā haranti, corā vā haranti, aggi vā dahati, udakaṃ vā vahati, appiyā vā dāyādā haranti.",
+          "en": "And even though they protect it and ward it, rulers or bandits take it, or fire consumes it, or flood sweeps it away, or unloved heirs take it."
+        },
+        {
+          "scid": "mn13:10.5",
+          "pli": "So socati kilamati paridevati urattāḷiṃ kandati, sammohaṃ āpajjati:",
+          "en": "They sorrow and pine and lament, beating their breast and falling into confusion:"
+        },
+        {
+          "scid": "mn13:10.6",
+          "pli": "‘yampi me ahosi tampi no natthī’ti.",
+          "en": "‘What used to be mine is gone.’"
+        },
+        {
+          "scid": "mn13:10.7",
+          "pli": "Ayampi, bhikkhave, kāmānaṃ ādīnavo sandiṭṭhiko, dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn13:11.1",
+          "pli": "Puna caparaṃ, bhikkhave, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu rājānopi rājūhi vivadanti, khattiyāpi khattiyehi vivadanti, brāhmaṇāpi brāhmaṇehi vivadanti, gahapatīpi gahapatīhi vivadanti, mātāpi puttena vivadati, puttopi mātarā vivadati, pitāpi puttena vivadati, puttopi pitarā vivadati, bhātāpi bhātarā vivadati, bhātāpi bhaginiyā vivadati, bhaginīpi bhātarā vivadati, sahāyopi sahāyena vivadati.",
+          "en": "Furthermore, for the sake of sensual pleasures kings fight with kings, aristocrats fight with aristocrats, brahmins fight with brahmins, and householders fight with householders. A mother fights with her child, child with mother, father with child, and child with father. Brother fights with brother, brother with sister, sister with brother, and friend fights with friend."
+        },
+        {
+          "scid": "mn13:11.2",
+          "pli": "Te tattha kalahaviggahavivādāpannā aññamaññaṃ pāṇīhipi upakkamanti, leḍḍūhipi upakkamanti, daṇḍehipi upakkamanti, satthehipi upakkamanti.",
+          "en": "Once they’ve started quarreling, arguing, and fighting, they attack each other with fists, stones, rods, and swords,"
+        },
+        {
+          "scid": "mn13:11.3",
+          "pli": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṃ.",
+          "en": "resulting in death and deadly pain."
+        },
+        {
+          "scid": "mn13:11.4",
+          "pli": "Ayampi, bhikkhave, kāmānaṃ ādīnavo sandiṭṭhiko, dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn13:12.1",
+          "pli": "Puna caparaṃ, bhikkhave, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu asicammaṃ gahetvā, dhanukalāpaṃ sannayhitvā, ubhatobyūḷhaṃ saṅgāmaṃ pakkhandanti usūsupi khippamānesu, sattīsupi khippamānāsu, asīsupi vijjotalantesu.",
+          "en": "Furthermore, for the sake of sensual pleasures they don their sword and shield, fasten their bow and arrows, and plunge into a battle massed on both sides, with arrows and spears flying and swords flashing."
+        },
+        {
+          "scid": "mn13:12.2",
+          "pli": "Te tattha usūhipi vijjhanti, sattiyāpi vijjhanti, asināpi sīsaṃ chindanti.",
+          "en": "There they are struck with arrows and spears, and their heads are chopped off,"
+        },
+        {
+          "scid": "mn13:12.3",
+          "pli": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṃ.",
+          "en": "resulting in death and deadly pain."
+        },
+        {
+          "scid": "mn13:12.4",
+          "pli": "Ayampi, bhikkhave, kāmānaṃ ādīnavo sandiṭṭhiko, dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn13:13.1",
+          "pli": "Puna caparaṃ, bhikkhave, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu asicammaṃ gahetvā, dhanukalāpaṃ sannayhitvā, addāvalepanā upakāriyo pakkhandanti usūsupi khippamānesu, sattīsupi khippamānāsu, asīsupi vijjotalantesu.",
+          "en": "Furthermore, for the sake of sensual pleasures they don their sword and shield, fasten their bow and arrows, and charge wetly plastered bastions, with arrows and spears flying and swords flashing."
+        },
+        {
+          "scid": "mn13:13.2",
+          "pli": "Te tattha usūhipi vijjhanti, sattiyāpi vijjhanti, chakaṇakāyapi osiñcanti, abhivaggenapi omaddanti, asināpi sīsaṃ chindanti.",
+          "en": "There they are struck with arrows and spears, splashed with dung, crushed with spiked blocks, and their heads are chopped off,"
+        },
+        {
+          "scid": "mn13:13.3",
+          "pli": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṃ.",
+          "en": "resulting in death and deadly pain."
+        },
+        {
+          "scid": "mn13:13.4",
+          "pli": "Ayampi, bhikkhave, kāmānaṃ ādīnavo sandiṭṭhiko, dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn13:14.1",
+          "pli": "Puna caparaṃ, bhikkhave, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu sandhimpi chindanti, nillopampi haranti, ekāgārikampi karonti, paripanthepi tiṭṭhanti, paradārampi gacchanti.",
+          "en": "Furthermore, for the sake of sensual pleasures they break into houses, plunder wealth, steal from isolated buildings, commit highway robbery, and commit adultery."
+        },
+        {
+          "scid": "mn13:14.2",
+          "pli": "Tamenaṃ rājāno gahetvā vividhā kammakāraṇā kārenti—",
+          "en": "The rulers would arrest them and subject them to various punishments—"
+        },
+        {
+          "scid": "mn13:14.3",
+          "pli": "kasāhipi tāḷenti, vettehipi tāḷenti, aḍḍhadaṇḍakehipi tāḷenti; hatthampi chindanti, pādampi chindanti, hatthapādampi chindanti, kaṇṇampi chindanti, nāsampi chindanti, kaṇṇanāsampi chindanti; bilaṅgathālikampi karonti, saṅkhamuṇḍikampi karonti, rāhumukhampi karonti, jotimālikampi karonti, hatthapajjotikampi karonti, erakavattikampi karonti, cīrakavāsikampi karonti, eṇeyyakampi karonti, baḷisamaṃsikampi karonti, kahāpaṇikampi karonti, khārāpatacchikampi karonti, palighaparivattikampi karonti, palālapīṭhakampi karonti, tattenapi telena osiñcanti, sunakhehipi khādāpenti, jīvantampi sūle uttāsenti, asināpi sīsaṃ chindanti.",
+          "en": "whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded."
+        },
+        {
+          "scid": "mn13:14.4",
+          "pli": "Te tattha maraṇampi nigacchanti, maraṇamattampi dukkhaṃ.",
+          "en": "These result in death and deadly pain."
+        },
+        {
+          "scid": "mn13:14.5",
+          "pli": "Ayampi, bhikkhave, kāmānaṃ ādīnavo sandiṭṭhiko, dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This too is a drawback of sensual pleasures apparent in this very life, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn13:15.1",
+          "pli": "Puna caparaṃ, bhikkhave, kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu kāyena duccaritaṃ caranti, vācāya duccaritaṃ caranti, manasā duccaritaṃ caranti.",
+          "en": "Furthermore, for the sake of sensual pleasures, they conduct themselves badly by way of body, speech, and mind."
+        },
+        {
+          "scid": "mn13:15.2",
+          "pli": "Te kāyena duccaritaṃ caritvā, vācāya duccaritaṃ caritvā, manasā duccaritaṃ caritvā, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjanti.",
+          "en": "When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell."
+        },
+        {
+          "scid": "mn13:15.3",
+          "pli": "Ayampi, bhikkhave, kāmānaṃ ādīnavo samparāyiko, dukkhakkhandho kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu.",
+          "en": "This is a drawback of sensual pleasures to do with lives to come, a mass of suffering caused by sensual pleasures."
+        },
+        {
+          "scid": "mn13:16.1",
+          "pli": "Kiñca, bhikkhave, kāmānaṃ nissaraṇaṃ?",
+          "en": "And what is the escape from sensual pleasures?"
+        },
+        {
+          "scid": "mn13:16.2",
+          "pli": "Yo kho, bhikkhave, kāmesu chandarāgavinayo chandarāgappahānaṃ—idaṃ kāmānaṃ nissaraṇaṃ.",
+          "en": "Removing and giving up desire and greed for sensual pleasures: this is the escape from sensual pleasures."
+        },
+        {
+          "scid": "mn13:17.1",
+          "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ kāmānaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ nappajānanti te vata sāmaṃ vā kāme parijānissanti, paraṃ vā tathattāya samādapessanti yathā paṭipanno kāme parijānissatīti—netaṃ ṭhānaṃ vijjati.",
+          "en": "There are ascetics and brahmins who don’t truly understand sensual pleasures’ gratification, drawback, and escape in this way for what they are. It’s impossible for them to completely understand sensual pleasures themselves, or to instruct another so that, practicing accordingly, they will completely understand sensual pleasures."
+        },
+        {
+          "scid": "mn13:17.2",
+          "pli": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ kāmānaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ pajānanti, te vata sāmaṃ vā kāme parijānissanti paraṃ vā tathattāya samādapessanti yathā paṭipanno kāme parijānissatīti—ṭhānametaṃ vijjati.",
+          "en": "There are ascetics and brahmins who do truly understand sensual pleasures’ gratification, drawback, and escape in this way for what they are. It is possible for them to completely understand sensual pleasures themselves, or to instruct another so that, practicing accordingly, they will completely understand sensual pleasures."
+        },
+        {
+          "scid": "mn13:18.1",
+          "pli": "Ko ca, bhikkhave, rūpānaṃ assādo?",
+          "en": "And what is the gratification of sights?"
+        },
+        {
+          "scid": "mn13:18.2",
+          "pli": "Seyyathāpi, bhikkhave, khattiyakaññā vā brāhmaṇakaññā vā gahapatikaññā vā pannarasavassuddesikā vā soḷasavassuddesikā vā, nātidīghā nātirassā nātikisā nātithūlā nātikāḷī nāccodātā paramā sā, bhikkhave, tasmiṃ samaye subhā vaṇṇanibhāti?",
+          "en": "Suppose there was a girl of the brahmins, aristocrats, or householders in her fifteenth or sixteenth year, neither too tall or too short, neither too thin or too fat, neither too dark or too fair. Is she not at the height of her beauty and prettiness?”"
+        },
+        {
+          "scid": "mn13:18.3",
+          "pli": "‘Evaṃ, bhante’.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn13:18.4",
+          "pli": "Yaṃ kho, bhikkhave, subhaṃ vaṇṇanibhaṃ paṭicca uppajjati sukhaṃ somanassaṃ—",
+          "en": "“The pleasure and happiness that arise from this beauty and prettiness"
+        },
+        {
+          "scid": "mn13:18.5",
+          "pli": "ayaṃ rūpānaṃ assādo.",
+          "en": "is the gratification of sights."
+        },
+        {
+          "scid": "mn13:19.1",
+          "pli": "Ko ca, bhikkhave, rūpānaṃ ādīnavo?",
+          "en": "And what is the drawback of sights?"
+        },
+        {
+          "scid": "mn13:19.2",
+          "pli": "Idha, bhikkhave, tameva bhaginiṃ passeyya aparena samayena āsītikaṃ vā nāvutikaṃ vā vassasatikaṃ vā jātiyā, jiṇṇaṃ gopānasivaṅkaṃ bhoggaṃ daṇḍaparāyanaṃ pavedhamānaṃ gacchantiṃ āturaṃ gatayobbanaṃ khaṇḍadantaṃ palitakesaṃ, vilūnaṃ khalitasiraṃ valinaṃ tilakāhatagattaṃ.",
+          "en": "Suppose that some time later you were to see that same sister—eighty, ninety, or a hundred years old—bent double, crooked, leaning on a staff, trembling as they walk, ailing, past their prime, with teeth broken, hair grey and scanty or bald, skin wrinkled, and limbs blotchy."
+        },
+        {
+          "scid": "mn13:19.3",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "mn13:19.4",
+          "pli": "yā purimā subhā vaṇṇanibhā sā antarahitā, ādīnavo pātubhūtoti?",
+          "en": "Has not that former beauty vanished and the drawback become clear?”"
+        },
+        {
+          "scid": "mn13:19.5",
+          "pli": "‘Evaṃ, bhante’.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn13:19.6",
+          "pli": "Ayampi, bhikkhave, rūpānaṃ ādīnavo.",
+          "en": "\"This is the drawback of sights."
+        },
+        {
+          "scid": "mn13:20.1",
+          "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi vuṭṭhāpiyamānaṃ, aññehi saṃvesiyamānaṃ.",
+          "en": "Furthermore, suppose that you were to see that same sister sick, suffering, gravely ill, collapsed in her own urine and feces, being picked up by some and put down by others."
+        },
+        {
+          "scid": "mn13:20.2",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "mn13:20.3",
+          "pli": "yā purimā subhā vaṇṇanibhā sā antarahitā, ādīnavo pātubhūtoti?",
+          "en": "Has not that former beauty vanished and the drawback become clear?”"
+        },
+        {
+          "scid": "mn13:20.4",
+          "pli": "‘Evaṃ, bhante’.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn13:20.5",
+          "pli": "Ayampi, bhikkhave, rūpānaṃ ādīnavo.",
+          "en": "“This too is the drawback of sights."
+        },
+        {
+          "scid": "mn13:21.1",
+          "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya sarīraṃ sivathikāya chaḍḍitaṃ—",
+          "en": "Furthermore, suppose that you were to see that same sister as a corpse thrown in a charnel ground. And she had been dead for one, two, or three days, bloated, livid, and festering."
+        },
+        {
+          "scid": "mn13:21.2",
+          "pli": "ekāhamataṃ vā dvīhamataṃ vā tīhamataṃ vā, uddhumātakaṃ vinīlakaṃ vipubbakajātaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:21.3",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "mn13:21.4",
+          "pli": "yā purimā subhā vaṇṇanibhā sā antarahitā, ādīnavo pātubhūtoti?",
+          "en": "Has not that former beauty vanished and the drawback become clear?”"
+        },
+        {
+          "scid": "mn13:21.5",
+          "pli": "‘Evaṃ, bhante’.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn13:21.6",
+          "pli": "Ayampi, bhikkhave, rūpānaṃ ādīnavo.",
+          "en": "“This too is the drawback of sights."
+        },
+        {
+          "scid": "mn13:22.1",
+          "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya sarīraṃ sivathikāya chaḍḍitaṃ—",
+          "en": "Furthermore, suppose that you were to see that same sister as a corpse thrown in a charnel ground. And she was being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures …"
+        },
+        {
+          "scid": "mn13:22.2",
+          "pli": "kākehi vā khajjamānaṃ, kulalehi vā khajjamānaṃ, gijjhehi vā khajjamānaṃ, kaṅkehi vā khajjamānaṃ, sunakhehi vā khajjamānaṃ, byagghehi vā khajjamānaṃ, dīpīhi vā khajjamānaṃ, siṅgālehi vā khajjamānaṃ, vividhehi vā pāṇakajātehi khajjamānaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:22.3",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, yā purimā subhā vaṇṇanibhā sā antarahitā, ādīnavo pātubhūtoti?",
+          "en": ""
+        },
+        {
+          "scid": "mn13:22.4",
+          "pli": "‘Evaṃ, bhante’.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:22.5",
+          "pli": "Ayampi, bhikkhave, rūpānaṃ ādīnavo.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:23-28.1",
+          "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya sarīraṃ sivathikāya chaḍḍitaṃ—",
+          "en": "Furthermore, suppose that you were to see that same sister as a corpse thrown in a charnel ground."
+        },
+        {
+          "scid": "mn13:23-28.2",
+          "pli": "aṭṭhikasaṅkhalikaṃ samaṃsalohitaṃ nhārusambandhaṃ, aṭṭhikasaṅkhalikaṃ nimaṃsalohitamakkhitaṃ nhārusambandhaṃ, aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ, aṭṭhikāni apagatasambandhāni disāvidisāvikkhittāni—",
+          "en": "And she had been reduced to a skeleton with flesh and blood, held together by sinews … a skeleton rid of flesh but smeared with blood, and held together by sinews … a skeleton rid of flesh and blood, held together by sinews …"
+        },
+        {
+          "scid": "mn13:23-28.3",
+          "pli": "aññena hatthaṭṭhikaṃ, aññena pādaṭṭhikaṃ, aññena gopphakaṭṭhikaṃ, aññena jaṅghaṭṭhikaṃ, aññena ūruṭṭhikaṃ, aññena kaṭiṭṭhikaṃ, aññena phāsukaṭṭhikaṃ, aññena piṭṭhiṭṭhikaṃ, aññena khandhaṭṭhikaṃ, aññena gīvaṭṭhikaṃ, aññena hanukaṭṭhikaṃ, aññena dantaṭṭhikaṃ, aññena sīsakaṭāhaṃ.",
+          "en": "bones without sinews scattered in every direction. Here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone, there a rib-bone, here a back-bone, there an arm-bone, here a neck-bone, there a jaw-bone, here a tooth, there the skull. …"
+        },
+        {
+          "scid": "mn13:23-28.4",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, yā purimā subhā vaṇṇanibhā sā antarahitā, ādīnavo pātubhūtoti?",
+          "en": ""
+        },
+        {
+          "scid": "mn13:23-28.5",
+          "pli": "‘Evaṃ, bhante’.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:23-28.6",
+          "pli": "Ayampi, bhikkhave, rūpānaṃ ādīnavo.",
+          "en": ""
+        },
+        {
+          "scid": "mn13:29.1",
+          "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya sarīraṃ sivathikāya chaḍḍitaṃ—",
+          "en": "Furthermore, suppose that you were to see that same sister as a corpse thrown in a charnel ground."
+        },
+        {
+          "scid": "mn13:29.2",
+          "pli": "aṭṭhikāni setāni saṅkhavaṇṇapaṭibhāgāni, aṭṭhikāni puñjakitāni terovassikāni, aṭṭhikāni pūtīni cuṇṇakajātāni.",
+          "en": "And she had been reduced to white bones, the color of shells … decrepit bones, heaped in a pile … bones rotted and crumbled to powder."
+        },
+        {
+          "scid": "mn13:29.3",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "mn13:29.4",
+          "pli": "yā purimā subhā vaṇṇanibhā sā antarahitā, ādīnavo pātubhūtoti?",
+          "en": "Has not that former beauty vanished and the drawback become clear?”"
+        },
+        {
+          "scid": "mn13:29.5",
+          "pli": "‘Evaṃ, bhante’.",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "mn13:29.6",
+          "pli": "Ayampi, bhikkhave, rūpānaṃ ādīnavo.",
+          "en": "“This too is the drawback of sights."
+        },
+        {
+          "scid": "mn13:30.1",
+          "pli": "Kiñca, bhikkhave, rūpānaṃ nissaraṇaṃ?",
+          "en": "And what is the escape from sights?"
+        },
+        {
+          "scid": "mn13:30.2",
+          "pli": "Yo, bhikkhave, rūpesu chandarāgavinayo chandarāgappahānaṃ—idaṃ rūpānaṃ nissaraṇaṃ.",
+          "en": "Removing and giving up desire and greed for sights: this is the escape from sights."
+        },
+        {
+          "scid": "mn13:31.1",
+          "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ rūpānaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ nappajānanti te vata sāmaṃ vā rūpe parijānissanti, paraṃ vā tathattāya samādapessanti yathā paṭipanno rūpe parijānissatīti—netaṃ ṭhānaṃ vijjati.",
+          "en": "There are ascetics and brahmins who don’t truly understand sights’ gratification, drawback, and escape in this way for what they are. It’s impossible for them to completely understand sights themselves, or to instruct another so that, practicing accordingly, they will completely understand sights."
+        },
+        {
+          "scid": "mn13:31.2",
+          "pli": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ rūpānaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ pajānanti te vata sāmaṃ vā rūpe parijānissanti paraṃ vā tathattāya samādapessanti yathā paṭipanno rūpe parijānissatīti—ṭhānametaṃ vijjati.",
+          "en": "There are ascetics and brahmins who do truly understand sights’ gratification, drawback, and escape in this way for what they are. It is possible for them to completely understand sights themselves, or to instruct another so that, practicing accordingly, they will completely understand sights."
+        },
+        {
+          "scid": "mn13:32.1",
+          "pli": "Ko ca, bhikkhave, vedanānaṃ assādo?",
+          "en": "And what is the gratification of feelings?"
+        },
+        {
+          "scid": "mn13:32.2",
+          "pli": "Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected."
+        },
+        {
+          "scid": "mn13:32.3",
+          "pli": "Yasmiṃ samaye, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati, neva tasmiṃ samaye attabyābādhāyapi ceteti, na parabyābādhāyapi ceteti, na ubhayabyābādhāyapi ceteti;",
+          "en": "At that time a mendicant doesn’t intend to hurt themselves, hurt others, or hurt both;"
+        },
+        {
+          "scid": "mn13:32.4",
+          "pli": "abyābajjhaṃyeva tasmiṃ samaye vedanaṃ vedeti.",
+          "en": "they feel only feelings that are not hurtful."
+        },
+        {
+          "scid": "mn13:32.5",
+          "pli": "Abyābajjhaparamāhaṃ, bhikkhave, vedanānaṃ assādaṃ vadāmi.",
+          "en": "Freedom from being hurt is the ultimate gratification of feelings, I say."
+        },
+        {
+          "scid": "mn13:33-35.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati … pe …",
+          "en": "Furthermore, a mendicant enters and remains in the second absorption …"
+        },
+        {
+          "scid": "mn13:33-35.2",
+          "pli": "yasmiṃ samaye, bhikkhave, bhikkhu pītiyā ca virāgā, upekkhako ca viharati, sato ca sampajāno sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati … pe …",
+          "en": "third absorption …"
+        },
+        {
+          "scid": "mn13:33-35.3",
+          "pli": "yasmiṃ samaye, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati, neva tasmiṃ samaye attabyābādhāyapi ceteti, na parabyābādhāyapi ceteti, na ubhayabyābādhāyapi ceteti;",
+          "en": "fourth absorption. At that time a mendicant doesn’t intend to hurt themselves, hurt others, or hurt both;"
+        },
+        {
+          "scid": "mn13:33-35.4",
+          "pli": "abyābajjhaṃyeva tasmiṃ samaye vedanaṃ vedeti.",
+          "en": "they feel only feelings that are not hurtful."
+        },
+        {
+          "scid": "mn13:33-35.5",
+          "pli": "Abyābajjhaparamāhaṃ, bhikkhave, vedanānaṃ assādaṃ vadāmi.",
+          "en": "Freedom from being hurt is the ultimate gratification of feelings, I say."
+        },
+        {
+          "scid": "mn13:36.1",
+          "pli": "Ko ca, bhikkhave, vedanānaṃ ādīnavo?",
+          "en": "And what is the drawback of feelings?"
+        },
+        {
+          "scid": "mn13:36.2",
+          "pli": "Yaṃ, bhikkhave, vedanā aniccā dukkhā vipariṇāmadhammā—ayaṃ vedanānaṃ ādīnavo.",
+          "en": "That feelings are impermanent, suffering, and perishable: this is their drawback."
+        },
+        {
+          "scid": "mn13:37.1",
+          "pli": "Kiñca, bhikkhave, vedanānaṃ nissaraṇaṃ?",
+          "en": "And what is the escape from feelings?"
+        },
+        {
+          "scid": "mn13:37.2",
+          "pli": "Yo, bhikkhave, vedanāsu chandarāgavinayo, chandarāgappahānaṃ—idaṃ vedanānaṃ nissaraṇaṃ.",
+          "en": "Removing and giving up desire and greed for feelings: this is the escape from feelings."
+        },
+        {
+          "scid": "mn13:38.1",
+          "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ vedanānaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ nappajānanti, te vata sāmaṃ vā vedanaṃ parijānissanti, paraṃ vā tathattāya samādapessanti yathā paṭipanno vedanaṃ parijānissatīti—netaṃ ṭhānaṃ vijjati.",
+          "en": "There are ascetics and brahmins who don’t truly understand feelings’ gratification, drawback, and escape in this way for what they are. It’s impossible for them to completely understand feelings themselves, or to instruct another so that, practicing accordingly, they will completely understand feelings."
+        },
+        {
+          "scid": "mn13:38.2",
+          "pli": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ vedanānaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ pajānanti te vata sāmaṃ vā vedanaṃ parijānissanti, paraṃ vā tathattāya samādapessanti yathā paṭipanno vedanaṃ parijānissatīti—ṭhānametaṃ vijjatī”ti.",
+          "en": "There are ascetics and brahmins who do truly understand feelings’ gratification, drawback, and escape in this way for what they are. It is possible for them to completely understand feelings themselves, or to instruct another so that, practicing accordingly, they will completely understand feelings.”"
+        },
+        {
+          "scid": "mn13:38.3",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn13:38.4",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn13:38.5",
+          "pli": "Mahādukkhakkhandhasuttaṃ niṭṭhitaṃ tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn13/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 13",
+    "volpages": "MN i 83",
+    "uid": "mn13",
+    "blurb": "Challenged to show the difference between his teaching and that of other ascetics, the Buddha points out that they speak of letting go, but do not really understand why. He then explains in great detail the suffering that arises from attachment to sensual stimulation.",
+    "difficulty": 2,
+    "original_title": "Mahādukkhakkhandha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Longer Discourse on the Mass of Suffering",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn13_sujato",
+        "segmented": true,
+        "title": "The Longer Discourse on the Mass of Suffering"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn13_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Greater Discourse on the Mass of Suffering"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn13_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Greater Discourse on the Stems of Anguish"
+      }
+    ],
+    "parallel_count": 12,
+    "biblio": null,
+    "num": 3
+  }
+}

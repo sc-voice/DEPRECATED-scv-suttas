@@ -1,0 +1,117 @@
+{
+  "sutta_uid": "thag2.5",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag2.5",
+    "lang": "en",
+    "is_root": false,
+    "title": "Ajina",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Meḷajina",
+      "uid": "thag2.6"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Gaṅgātīriya",
+      "uid": "thag2.4"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.5:0.1",
+          "en": "Theragāthā 2.5"
+        },
+        {
+          "scid": "thag2.5:0.2",
+          "en": "Ajina",
+          "pli": "Ajinattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag2.5:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag2.5:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.5:1.0.3",
+          "en": "Chapter of the Twos"
+        },
+        {
+          "scid": "thag2.5:1.0.4",
+          "en": "2.5. Ajina"
+        },
+        {
+          "scid": "thag2.5:1.1.5",
+          "en": "Even someone with the three knowledges, Who has conquered death, and is without defilements, Is looked down on for being unknown By fools without wisdom."
+        },
+        {
+          "scid": "thag2.5:1.2.6",
+          "en": "But a person who gets food and drink Is honored by them, Even if they are of bad character."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.5/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 2.5",
+    "volpages": "Thag 18",
+    "uid": "thag2.5",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ajinattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ajina",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.5_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Ajina"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

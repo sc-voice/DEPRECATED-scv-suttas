@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.148",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.148",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Bad Conduct",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Good Conduct",
+      "uid": "an4.149"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Times (2nd)",
+      "uid": "an4.147"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.148:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.148:0.2",
+          "pli": "15. Ābhāvagga",
+          "en": "15. Brightness"
+        },
+        {
+          "scid": "an4.148:0.3",
+          "pli": "148. Duccaritasutta",
+          "en": "148. Bad Conduct"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.148:1.1",
+          "pli": "“Cattārimāni, bhikkhave, vacīduccaritāni.",
+          "en": "“Mendicants, there are these four kinds of bad conduct by way of speech."
+        },
+        {
+          "scid": "an4.148:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.148:1.3",
+          "pli": "Musāvādo, pisuṇā vācā, pharusā vācā, samphappalāpo—",
+          "en": "Speech that’s false, divisive, harsh, or nonsensical."
+        },
+        {
+          "scid": "an4.148:1.4",
+          "pli": "imāni kho, bhikkhave, cattāri vacīduccaritānī”ti.",
+          "en": "These are the four kinds of bad conduct by way of speech.”"
+        },
+        {
+          "scid": "an4.148:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.148/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.148",
+    "volpages": "AN ii 141",
+    "uid": "an4.148",
+    "blurb": "Speech that’s lying, divisive, harsh, or meaningless.",
+    "difficulty": null,
+    "original_title": "Duccarita Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bad Conduct",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.148_sujato",
+        "segmented": true,
+        "title": "Bad Conduct"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn35.111",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.111",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Complete Understanding of the Interior",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Complete Understanding of the Exterior",
+      "uid": "sn35.112"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Things Prone to Being Grasped",
+      "uid": "sn35.110"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.111:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.111:0.2",
+          "pli": "11. Yogakkhemivagga",
+          "en": "11. Sanctuary"
+        },
+        {
+          "scid": "sn35.111:0.3",
+          "pli": "111. Ajjhattikāyatanaparijānanasutta",
+          "en": "111. Complete Understanding of the Interior"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.111:1.1",
+          "pli": "“Cakkhuṃ, bhikkhave, anabhijānaṃ aparijānaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya.",
+          "en": "“Mendicants, without directly knowing and completely understanding the eye, without dispassion for it and giving it up, you can’t end suffering."
+        },
+        {
+          "scid": "sn35.111:1.2",
+          "pli": "Sotaṃ …",
+          "en": "Without directly knowing and completely understanding the ear …"
+        },
+        {
+          "scid": "sn35.111:1.3",
+          "pli": "ghānaṃ …",
+          "en": "nose …"
+        },
+        {
+          "scid": "sn35.111:1.4",
+          "pli": "jivhaṃ …",
+          "en": "tongue …"
+        },
+        {
+          "scid": "sn35.111:1.5",
+          "pli": "kāyaṃ …",
+          "en": "body …"
+        },
+        {
+          "scid": "sn35.111:1.6",
+          "pli": "manaṃ anabhijānaṃ aparijānaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya.",
+          "en": "mind, without dispassion for it and giving it up, you can’t end suffering."
+        },
+        {
+          "scid": "sn35.111:1.7",
+          "pli": "Cakkhuñca kho, bhikkhave, abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāya … pe …",
+          "en": "By directly knowing and completely understanding the eye, having dispassion for it and giving it up, you can end suffering."
+        },
+        {
+          "scid": "sn35.111:1.8",
+          "pli": "jivhaṃ …",
+          "en": "By directly knowing and completely understanding the ear … nose … tongue …"
+        },
+        {
+          "scid": "sn35.111:1.9",
+          "pli": "kāyaṃ …",
+          "en": "body …"
+        },
+        {
+          "scid": "sn35.111:1.10",
+          "pli": "manaṃ abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāyā”ti.",
+          "en": "mind, having dispassion for it and giving it up, you can end suffering.”"
+        },
+        {
+          "scid": "sn35.111:1.11",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.111/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.111",
+    "volpages": "SN iv 89",
+    "uid": "sn35.111",
+    "blurb": "Without understanding the six interior sense fields and becoming dispassionate towards them, it is impossible to be free of suffering.",
+    "difficulty": null,
+    "original_title": "Ajjhattikāyatanaparijānana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Complete Understanding of the Interior",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.111_sujato",
+        "segmented": true,
+        "title": "Complete Understanding of the Interior"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.111_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Fully Understanding (1)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 8
+  }
+}

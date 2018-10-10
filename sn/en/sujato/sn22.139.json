@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn22.139",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.139",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Impermanence (3rd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Suffering",
+      "uid": "sn22.140"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Impermanence (2nd)",
+      "uid": "sn22.138"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.139:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.139:0.2",
+          "pli": "14. Kukkuḷavagga",
+          "en": "14. Burning Chaff"
+        },
+        {
+          "scid": "sn22.139:0.3",
+          "pli": "139. Tatiyaaniccasutta",
+          "en": "139. Impermanence (3rd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.139:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.139:1.2",
+          "pli": "“Yaṃ, bhikkhave, aniccaṃ; tatra vo chandarāgo pahātabbo.",
+          "en": "“Mendicants, you should give up desire and greed for what is impermanent."
+        },
+        {
+          "scid": "sn22.139:1.3",
+          "pli": "Kiñca, bhikkhave, aniccaṃ?",
+          "en": "And what is impermanent?"
+        },
+        {
+          "scid": "sn22.139:1.4",
+          "pli": "Rūpaṃ, bhikkhave, aniccaṃ, tatra vo chandarāgo pahātabbo.",
+          "en": "Form is impermanent; you should give up desire and greed for it."
+        },
+        {
+          "scid": "sn22.139:1.5",
+          "pli": "Vedanā aniccā …",
+          "en": "Feeling …"
+        },
+        {
+          "scid": "sn22.139:1.6",
+          "pli": "saññā …",
+          "en": "Perception …"
+        },
+        {
+          "scid": "sn22.139:1.7",
+          "pli": "saṅkhārā …",
+          "en": "Choices …"
+        },
+        {
+          "scid": "sn22.139:1.8",
+          "pli": "viññāṇaṃ aniccaṃ; tatra vo chandarāgo pahātabbo.",
+          "en": "Consciousness is impermanent; you should give up desire and greed for it."
+        },
+        {
+          "scid": "sn22.139:1.9",
+          "pli": "Yaṃ, bhikkhave, aniccaṃ; tatra vo chandarāgo pahātabbo”ti.",
+          "en": "You should give up desire and greed for what is impermanent.”"
+        },
+        {
+          "scid": "sn22.139:1.10",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.139/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.139",
+    "volpages": "SN iii 178",
+    "uid": "sn22.139",
+    "blurb": "Give up desire and lust for what is impermanent, i.e. the aggregates.",
+    "difficulty": null,
+    "original_title": "Tatiyaanicca Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Impermanence (3rd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.139_sujato",
+        "segmented": true,
+        "title": "Impermanence (3rd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

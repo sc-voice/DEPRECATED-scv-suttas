@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an6.82",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.82",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Hell (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Best Thing",
+      "uid": "an6.83"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hell (1st)",
+      "uid": "an6.81"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.82:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.82:0.2",
+          "pli": "8. Arahattavagga",
+          "en": "8. Perfection"
+        },
+        {
+          "scid": "an6.82:0.3",
+          "pli": "82. Dutiyanirayasutta",
+          "en": "82. Hell (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.82:1.1",
+          "pli": "“Chahi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "“Mendicants, someone with six qualities is cast down to hell."
+        },
+        {
+          "scid": "an6.82:1.2",
+          "pli": "Katamehi chahi?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.82:1.3",
+          "pli": "Pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti, luddho ca, pagabbho ca.",
+          "en": "They kill living creatures, steal, commit sexual misconduct, and lie. And they’re greedy and impudent."
+        },
+        {
+          "scid": "an6.82:1.4",
+          "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "Someone with these six qualities is cast down to hell."
+        },
+        {
+          "scid": "an6.82:2.1",
+          "pli": "Chahi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge.",
+          "en": "Someone with six qualities is raised up to heaven."
+        },
+        {
+          "scid": "an6.82:2.2",
+          "pli": "Katamehi chahi?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.82:2.3",
+          "pli": "Pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, aluddho ca, appagabbho ca.",
+          "en": "They don’t kill living creatures, steal, commit sexual misconduct, or lie. And they’re not greedy or impudent."
+        },
+        {
+          "scid": "an6.82:2.4",
+          "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge”ti.",
+          "en": "Someone with these six qualities is raised up to heaven.”"
+        },
+        {
+          "scid": "an6.82:2.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.82/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.82",
+    "volpages": "AN iii 433",
+    "uid": "an6.82",
+    "blurb": "Things leading to hell or heaven.",
+    "difficulty": null,
+    "original_title": "Dutiyaniraya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Hell (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.82_sujato",
+        "segmented": true,
+        "title": "Hell (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

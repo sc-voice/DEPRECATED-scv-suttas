@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn24.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn24.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The World Is Infinite",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Soul and the Body Are Identical",
+      "uid": "sn24.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The World Is Finite",
+      "uid": "sn24.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn24.12:0.1",
+          "pli": "Saṃyutta Nikāya 24",
+          "en": "Linked Discourses 24"
+        },
+        {
+          "scid": "sn24.12:0.2",
+          "pli": "1. Sotāpattivagga",
+          "en": "1. Stream-Entry"
+        },
+        {
+          "scid": "sn24.12:0.3",
+          "pli": "12. Anantavāsutta",
+          "en": "12. The World Is Infinite"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 24…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn24.12:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn24.12:1.2",
+          "pli": "“Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati:",
+          "en": "“Mendicants, when what exists, because of grasping what and insisting on what, does the view arise:"
+        },
+        {
+          "scid": "sn24.12:1.3",
+          "pli": "‘anantavā loko’”ti?",
+          "en": "‘The world is infinite’?” …"
+        },
+        {
+          "scid": "sn24.12:1.4",
+          "pli": "“Bhagavaṃmūlakā no, bhante, dhammā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn24.12:1.5",
+          "pli": "niyato sambodhiparāyano”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn24.12:1.6",
+          "pli": "Dvādasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn24.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 24.12",
+    "volpages": "SN iii 215",
+    "uid": "sn24.12",
+    "blurb": "The view that the cosmos is infinite is given up by seeing the aggregates, as well as what is seen, heard, thought, and known, as impermanent.",
+    "difficulty": null,
+    "original_title": "Anantavā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The World Is Infinite",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn24.12_sujato",
+        "segmented": true,
+        "title": "The World Is Infinite"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 12
+  }
+}

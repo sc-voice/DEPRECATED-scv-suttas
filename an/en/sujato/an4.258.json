@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an4.258",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.258",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Families",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Thoroughbred (1st)",
+      "uid": "an4.259"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Māluṅkyaputta",
+      "uid": "an4.257"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.258:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.258:0.2",
+          "pli": "26. Abhiññāvagga",
+          "en": "26. Insight"
+        },
+        {
+          "scid": "an4.258:0.3",
+          "pli": "258. Kulasutta",
+          "en": "258. Families"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.258:1.1",
+          "pli": "“Yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni na ciraṭṭhitikāni bhavanti, sabbāni tāni catūhi ṭhānehi, etesaṃ vā aññatarena.",
+          "en": "“Mendicants, when families don’t stay wealthy for long, it’s always for one or more of these four reasons."
+        },
+        {
+          "scid": "an4.258:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.258:1.3",
+          "pli": "Naṭṭhaṃ na gavesanti, jiṇṇaṃ na paṭisaṅkharonti, aparimitapānabhojanā honti, dussīlaṃ itthiṃ vā purisaṃ vā ādhipacce ṭhapenti.",
+          "en": "They don’t look for what’s lost; they don’t fix old things; they eat and drink too much; or they put an unethical woman or man in charge."
+        },
+        {
+          "scid": "an4.258:1.4",
+          "pli": "Yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni na ciraṭṭhitikāni bhavanti, sabbāni tāni imehi catūhi ṭhānehi, etesaṃ vā aññatarena.",
+          "en": "When families don’t stay wealthy for long, it’s always for one or more of these four reasons."
+        },
+        {
+          "scid": "an4.258:2.1",
+          "pli": "Yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni ciraṭṭhitikāni bhavanti, sabbāni tāni catūhi ṭhānehi, etesaṃ vā aññatarena.",
+          "en": "When families do stay wealthy for long, it’s always for one or more of these four reasons."
+        },
+        {
+          "scid": "an4.258:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.258:2.3",
+          "pli": "Naṭṭhaṃ gavesanti, jiṇṇaṃ paṭisaṅkharonti, parimitapānabhojanā honti, sīlavantaṃ itthiṃ vā purisaṃ vā ādhipacce ṭhapenti.",
+          "en": "They look for what’s lost; they fix old things; they eat and drink in moderation; and they put an ethical woman or man in charge."
+        },
+        {
+          "scid": "an4.258:2.4",
+          "pli": "Yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni ciraṭṭhitikāni bhavanti, sabbāni tāni imehi catūhi ṭhānehi, etesaṃ vā aññatarenā”ti.",
+          "en": "When families do stay wealthy for long, it’s always for one or more of these four reasons.”"
+        },
+        {
+          "scid": "an4.258:2.5",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.258/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.258//AN 4.255",
+    "volpages": "AN ii 249",
+    "uid": "an4.258",
+    "blurb": "Why families lose wealth.",
+    "difficulty": null,
+    "original_title": "Kula Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Families",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.258_sujato",
+        "segmented": true,
+        "title": "Families"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an4.258_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "On Families"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn37.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Free of Envy",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Free of Stinginess",
+      "uid": "sn37.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Free of Hostility",
+      "uid": "sn37.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.17:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.17:0.2",
+          "pli": "2. Dutiyapeyyālavagga",
+          "en": "2. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.17:0.3",
+          "pli": "17. Anissukīsutta",
+          "en": "17. Free of Envy"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.17:1.1",
+          "pli": "“Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": ""
+        },
+        {
+          "scid": "sn37.17:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": ""
+        },
+        {
+          "scid": "sn37.17:1.3",
+          "pli": "Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, anissukī ca hoti, paññavā ca hoti … pe ….",
+          "en": "“… They’re faithful, conscientious, prudent, free of envy, and wise. …”"
+        },
+        {
+          "scid": "sn37.17:1.4",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.17",
+    "volpages": "SN iv 244",
+    "uid": "sn37.17",
+    "blurb": "A woman with five good qualities has a good rebirth.",
+    "difficulty": null,
+    "original_title": "Anissukī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Free of Envy",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.17_sujato",
+        "segmented": true,
+        "title": "Free of Envy"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

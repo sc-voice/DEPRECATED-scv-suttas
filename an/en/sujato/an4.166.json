@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an4.166",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.166",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Both",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Moggallāna’s Practice",
+      "uid": "an4.167"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Patience (2nd)",
+      "uid": "an4.165"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.166:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.166:0.2",
+          "pli": "17. Paṭipadāvagga",
+          "en": "17. Practice"
+        },
+        {
+          "scid": "an4.166:0.3",
+          "pli": "166. Ubhayasutta",
+          "en": "166. Both"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.166:1.1",
+          "pli": "“Catasso imā, bhikkhave, paṭipadā.",
+          "en": "“Mendicants, there are four ways of practice."
+        },
+        {
+          "scid": "an4.166:1.2",
+          "pli": "Katamā catasso?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.166:1.3",
+          "pli": "Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.",
+          "en": "<ol><li>Painful practice with slow insight, </li><li>painful practice with swift insight, </li><li>pleasant practice with slow insight, and </li><li>pleasant practice with swift insight.</li></ol>"
+        },
+        {
+          "scid": "an4.166:2.1",
+          "pli": "Tatra, bhikkhave, yāyaṃ paṭipadā dukkhā dandhābhiññā, ayaṃ, bhikkhave, paṭipadā ubhayeneva hīnā akkhāyati. Yampāyaṃ paṭipadā dukkhā, imināpāyaṃ hīnā akkhāyati; yampāyaṃ paṭipadā dandhā, imināpāyaṃ hīnā akkhāyati.",
+          "en": "Of these, the painful practice with slow insight is said to be inferior in both ways: because it’s painful and because it’s slow."
+        },
+        {
+          "scid": "an4.166:2.2",
+          "pli": "Ayaṃ, bhikkhave, paṭipadā ubhayeneva hīnā akkhāyati.",
+          "en": "This practice is said to be inferior in both ways."
+        },
+        {
+          "scid": "an4.166:3.1",
+          "pli": "Tatra, bhikkhave, yāyaṃ paṭipadā dukkhā khippābhiññā, ayaṃ, bhikkhave, paṭipadā dukkhattā hīnā akkhāyati.",
+          "en": "The painful practice with swift insight is said to be inferior because it’s painful."
+        },
+        {
+          "scid": "an4.166:4.1",
+          "pli": "Tatra, bhikkhave, yāyaṃ paṭipadā sukhā dandhābhiññā, ayaṃ, bhikkhave, paṭipadā dandhattā hīnā akkhāyati.",
+          "en": "The pleasant practice with slow insight is said to be inferior because it’s slow."
+        },
+        {
+          "scid": "an4.166:5.1",
+          "pli": "Tatra, bhikkhave, yāyaṃ paṭipadā sukhā khippābhiññā, ayaṃ, bhikkhave, paṭipadā ubhayeneva paṇītā akkhāyati. Yampāyaṃ paṭipadā sukhā, imināpāyaṃ paṇītā akkhāyati; yampāyaṃ paṭipadā khippā, imināpāyaṃ paṇītā akkhāyati.",
+          "en": "The pleasant practice with swift insight is said to be superior in both ways: because it’s pleasant, and because it’s swift."
+        },
+        {
+          "scid": "an4.166:5.2",
+          "pli": "Ayaṃ, bhikkhave, paṭipadā ubhayeneva paṇītā akkhāyati.",
+          "en": "This practice is said to be superior in both ways."
+        },
+        {
+          "scid": "an4.166:5.3",
+          "pli": "Imā kho, bhikkhave, catasso paṭipadā”ti.",
+          "en": "These are the four ways of practice.”"
+        },
+        {
+          "scid": "an4.166:5.4",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.166/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.166",
+    "volpages": "AN ii 154",
+    "uid": "an4.166",
+    "blurb": "Painful practice with slow insight, painful practice with swift insight, pleasant practice with slow insight, and pleasant practice with swift insight: which is best?",
+    "difficulty": null,
+    "original_title": "Ubhaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Both",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.166_sujato",
+        "segmented": true,
+        "title": "Both"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

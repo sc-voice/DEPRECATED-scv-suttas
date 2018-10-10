@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an8.27",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an8.27",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Powers (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Powers (2nd)",
+      "uid": "an8.28"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Jīvaka",
+      "uid": "an8.26"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an8.27:0.1",
+          "pli": "Aṅguttara Nikāya 8",
+          "en": "Numbered Discourses 8"
+        },
+        {
+          "scid": "an8.27:0.2",
+          "pli": "3. Gahapativagga",
+          "en": "3. Householders"
+        },
+        {
+          "scid": "an8.27:0.3",
+          "pli": "27. Paṭhamabalasutta",
+          "en": "27. Powers (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an8.27:1.1",
+          "pli": "“Aṭṭhimāni, bhikkhave, balāni.",
+          "en": "“Mendicants, there are these eight powers."
+        },
+        {
+          "scid": "an8.27:1.2",
+          "pli": "Katamāni aṭṭha?",
+          "en": "What eight?"
+        },
+        {
+          "scid": "an8.27:1.3",
+          "pli": "Ruṇṇabalā, bhikkhave, dārakā, kodhabalā mātugāmā, āvudhabalā corā, issariyabalā rājāno, ujjhattibalā bālā, nijjhattibalā paṇḍitā, paṭisaṅkhānabalā bahussutā, khantibalā samaṇabrāhmaṇā—",
+          "en": "Crying is the power of babies. Anger is the power of females. Weapons are the power of bandits. Sovereignty is the power of rulers. Complaining is the power of fools. Reason is the power of the astute. Reflection is the power of the learned. Patience is the power of ascetics and brahmins."
+        },
+        {
+          "scid": "an8.27:1.4",
+          "pli": "imāni kho, bhikkhave, aṭṭha balānī”ti.",
+          "en": "These are the eight powers.”"
+        },
+        {
+          "scid": "an8.27:1.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an8.27/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 8.27",
+    "volpages": "AN iv 223",
+    "uid": "an8.27",
+    "blurb": "Eight very different kinds of powers.",
+    "difficulty": null,
+    "original_title": "Paṭhamabala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Powers (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an8.27_sujato",
+        "segmented": true,
+        "title": "Powers (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an8.27_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Powers (1)"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 7
+  }
+}

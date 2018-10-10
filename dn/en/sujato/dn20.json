@@ -1,0 +1,1780 @@
+{
+  "sutta_uid": "dn20",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "dn20",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Great Congregation",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sakka’s Questions",
+      "uid": "dn21"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Great Steward",
+      "uid": "dn19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "dn20:0.1",
+          "pli": "Dīgha Nikāya 20",
+          "en": "Long Discourses 20"
+        },
+        {
+          "scid": "dn20:0.2",
+          "pli": "Mahāsamayasutta",
+          "en": "The Great Congregation"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Long Discourses 20…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "dn20:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "dn20:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṃghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi;",
+          "en": "At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Great Wood, together with a large Saṅgha of around five hundred mendicants, all of whom were perfected ones."
+        },
+        {
+          "scid": "dn20:1.3",
+          "pli": "dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṃghañca.",
+          "en": "And most of the deities from ten solar systems had gathered to see the Buddha and the Saṅgha of mendicants."
+        },
+        {
+          "scid": "dn20:1.4",
+          "pli": "Atha kho catunnaṃ suddhāvāsakāyikānaṃ devatānaṃ etadahosi:",
+          "en": "Then four deities of the Pure Abodes, aware of what was happening, thought:"
+        },
+        {
+          "scid": "dn20:1.5",
+          "pli": "“ayaṃ kho bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṃghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi;",
+          "en": ""
+        },
+        {
+          "scid": "dn20:1.6",
+          "pli": "dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṃghañca.",
+          "en": ""
+        },
+        {
+          "scid": "dn20:1.7",
+          "pli": "Yannūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṃ gāthaṃ bhāseyyāmā”ti.",
+          "en": "“Why don’t we go to the Buddha and each recite a verse in his presence?”"
+        },
+        {
+          "scid": "dn20:3.1",
+          "pli": "Atha kho tā devatā seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ samiñjeyya; evameva—suddhāvāsesu devesu antarahitā bhagavato purato pāturahesuṃ.",
+          "en": "Then, as easily as a strong person would extend or contract their arm, they vanished from the Pure Abodes and reappeared in front of the Buddha."
+        },
+        {
+          "scid": "dn20:3.2",
+          "pli": "Atha kho tā devatā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu.",
+          "en": "They bowed to the Buddha and stood to one side."
+        },
+        {
+          "scid": "dn20:3.3",
+          "pli": "Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, one deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "dn20:3.4",
+          "pli": "“Mahāsamayo pavanasmiṃ,",
+          "en": "“There’s a great congregation in the woods,"
+        },
+        {
+          "scid": "dn20:3.5",
+          "pli": "Devakāyā samāgatā;",
+          "en": "a host of gods have assembled."
+        },
+        {
+          "scid": "dn20:3.6",
+          "pli": "Āgatamha imaṃ dhammasamayaṃ,",
+          "en": "We’ve come to this righteous congregation"
+        },
+        {
+          "scid": "dn20:3.7",
+          "pli": "Dakkhitāye aparājitasaṅghan”ti.",
+          "en": "to see the invincible Saṅgha!”"
+        },
+        {
+          "scid": "dn20:3.8",
+          "pli": "Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Then another deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "dn20:3.9",
+          "pli": "“Tatra bhikkhavo samādahaṃsu,",
+          "en": "“The mendicants there are immersed in samādhi,"
+        },
+        {
+          "scid": "dn20:3.10",
+          "pli": "Cittamattano ujukaṃ akaṃsu;",
+          "en": "they’ve straightened out their own minds."
+        },
+        {
+          "scid": "dn20:3.11",
+          "pli": "Sārathīva nettāni gahetvā,",
+          "en": "Like a charioteer who has taken the reins,"
+        },
+        {
+          "scid": "dn20:3.12",
+          "pli": "Indriyāni rakkhanti paṇḍitā”ti.",
+          "en": "the astute ones protect their senses.”"
+        },
+        {
+          "scid": "dn20:3.13",
+          "pli": "Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Then another deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "dn20:3.14",
+          "pli": "“Chetvā khīlaṃ chetvā palighaṃ,",
+          "en": "“Having cut the stake and cut the bar,"
+        },
+        {
+          "scid": "dn20:3.15",
+          "pli": "Indakhīlaṃ ūhacca manejā;",
+          "en": "they’re unmoved, with boundary post uprooted."
+        },
+        {
+          "scid": "dn20:3.16",
+          "pli": "Te caranti suddhā vimalā,",
+          "en": "They live pure and stainless,"
+        },
+        {
+          "scid": "dn20:3.17",
+          "pli": "Cakkhumatā sudantā susunāgā”ti.",
+          "en": "the young dragons tamed by the seer.”"
+        },
+        {
+          "scid": "dn20:3.18",
+          "pli": "Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Then another deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "dn20:3.19",
+          "pli": "“Ye keci buddhaṃ saraṇaṃ gatāse,",
+          "en": "“Anyone who has gone to the Buddha for refuge"
+        },
+        {
+          "scid": "dn20:3.20",
+          "pli": "Na te gamissanti apāyabhūmiṃ;",
+          "en": "won’t go to a plane of loss."
+        },
+        {
+          "scid": "dn20:3.21",
+          "pli": "Pahāya mānusaṃ dehaṃ,",
+          "en": "After giving up this human body,"
+        },
+        {
+          "scid": "dn20:3.22",
+          "pli": "Devakāyaṃ paripūressantī”ti.",
+          "en": "they swell the hosts of gods.”"
+        },
+        {
+          "scid": "dn20:3.23",
+          "pli": "1. Devatāsannipāta",
+          "en": "1. The Gathering of Deities"
+        },
+        {
+          "scid": "dn20:4.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "dn20:4.2",
+          "pli": "“yebhuyyena, bhikkhave, dasasu lokadhātūsu devatā sannipatitā honti, tathāgataṃ dassanāya bhikkhusaṃghañca.",
+          "en": "“Mendicants, most of the deities from ten solar systems have gathered to see the Realized One and the mendicant Saṅgha."
+        },
+        {
+          "scid": "dn20:4.3",
+          "pli": "Yepi te, bhikkhave, ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā, tesampi bhagavantānaṃ etapparamāyeva devatā sannipatitā ahesuṃ seyyathāpi mayhaṃ etarahi.",
+          "en": "The Buddhas of the past had, and the Buddhas of the future will have, gatherings of deities that are at most like the gathering for me now."
+        },
+        {
+          "scid": "dn20:4.4",
+          "pli": "Yepi te, bhikkhave, bhavissanti anāgatamaddhānaṃ arahanto sammāsambuddhā, tesampi bhagavantānaṃ etapparamāyeva devatā sannipatitā bhavissanti seyyathāpi mayhaṃ etarahi.",
+          "en": ""
+        },
+        {
+          "scid": "dn20:4.5",
+          "pli": "Ācikkhissāmi, bhikkhave, devakāyānaṃ nāmāni;",
+          "en": "I shall declare the names of the heavenly hosts;"
+        },
+        {
+          "scid": "dn20:4.6",
+          "pli": "kittayissāmi, bhikkhave, devakāyānaṃ nāmāni;",
+          "en": "I shall extol the names of the heavenly hosts;"
+        },
+        {
+          "scid": "dn20:4.7",
+          "pli": "desessāmi, bhikkhave, devakāyānaṃ nāmāni.",
+          "en": "I shall teach the names of the heavenly hosts."
+        },
+        {
+          "scid": "dn20:4.8",
+          "pli": "Taṃ suṇātha, sādhukaṃ manasikarotha, bhāsissāmī”ti.",
+          "en": "Listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "dn20:4.9",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "dn20:4.10",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "dn20:5.1",
+          "pli": "“Silokamanukassāmi,",
+          "en": "“I shall invoke a paean of praise!"
+        },
+        {
+          "scid": "dn20:5.2",
+          "pli": "yattha bhummā tadassitā;",
+          "en": "Where the earth-gods dwell,"
+        },
+        {
+          "scid": "dn20:5.3",
+          "pli": "Ye sitā girigabbharaṃ,",
+          "en": "there, in mountain caves,"
+        },
+        {
+          "scid": "dn20:5.4",
+          "pli": "pahitattā samāhitā.",
+          "en": "resolute and composed,"
+        },
+        {
+          "scid": "dn20:5.5",
+          "pli": "Puthūsīhāva sallīnā,",
+          "en": "dwell many like lonely lions,"
+        },
+        {
+          "scid": "dn20:5.6",
+          "pli": "lomahaṃsābhisambhuno;",
+          "en": "who have mastered their fears."
+        },
+        {
+          "scid": "dn20:5.7",
+          "pli": "Odātamanasā suddhā,",
+          "en": "Their minds are bright and pure,"
+        },
+        {
+          "scid": "dn20:5.8",
+          "pli": "vippasannamanāvilā.",
+          "en": "clear and undisturbed.”"
+        },
+        {
+          "scid": "dn20:5.9",
+          "pli": "Bhiyyo pañcasate ñatvā,",
+          "en": "The teacher knew that over five hundred"
+        },
+        {
+          "scid": "dn20:5.10",
+          "pli": "vane kāpilavatthave;",
+          "en": "were in the wood at Kapilavatthu."
+        },
+        {
+          "scid": "dn20:5.11",
+          "pli": "Tato āmantayī satthā,",
+          "en": "Therefore he addressed"
+        },
+        {
+          "scid": "dn20:5.12",
+          "pli": "sāvake sāsane rate.",
+          "en": "the disciples who love the teaching:"
+        },
+        {
+          "scid": "dn20:5.13",
+          "pli": "‘Devakāyā abhikkantā,",
+          "en": "“The heavenly hosts have come forth;"
+        },
+        {
+          "scid": "dn20:5.14",
+          "pli": "te vijānātha bhikkhavo’;",
+          "en": "mendicants, you should be aware of them.”"
+        },
+        {
+          "scid": "dn20:5.15",
+          "pli": "Te ca ātappamakaruṃ,",
+          "en": "Those monks became keen,"
+        },
+        {
+          "scid": "dn20:5.16",
+          "pli": "sutvā buddhassa sāsanaṃ.",
+          "en": "hearing the Buddha’s instruction."
+        },
+        {
+          "scid": "dn20:6.1",
+          "pli": "Tesaṃ pāturahu ñāṇaṃ,",
+          "en": "Knowledge manifested in them,"
+        },
+        {
+          "scid": "dn20:6.2",
+          "pli": "amanussānadassanaṃ;",
+          "en": "seeing those non-human beings."
+        },
+        {
+          "scid": "dn20:6.3",
+          "pli": "Appeke satamaddakkhuṃ,",
+          "en": "Some saw a hundred,"
+        },
+        {
+          "scid": "dn20:6.4",
+          "pli": "sahassaṃ atha sattariṃ.",
+          "en": "a thousand, even seventy thousand,"
+        },
+        {
+          "scid": "dn20:6.5",
+          "pli": "Sataṃ eke sahassānaṃ,",
+          "en": "while some saw a hundred thousand"
+        },
+        {
+          "scid": "dn20:6.6",
+          "pli": "amanussānamaddasuṃ;",
+          "en": "non-human beings."
+        },
+        {
+          "scid": "dn20:6.7",
+          "pli": "Appekenantamaddakkhuṃ,",
+          "en": "But some saw an endless number"
+        },
+        {
+          "scid": "dn20:6.8",
+          "pli": "disā sabbā phuṭā ahuṃ.",
+          "en": "spread out in every direction."
+        },
+        {
+          "scid": "dn20:6.9",
+          "pli": "Tañca sabbaṃ abhiññāya,",
+          "en": "And all that was known"
+        },
+        {
+          "scid": "dn20:6.10",
+          "pli": "vavatthitvāna cakkhumā;",
+          "en": "and distinguished by the Seer."
+        },
+        {
+          "scid": "dn20:6.11",
+          "pli": "Tato āmantayī satthā,",
+          "en": "Therefore he addressed"
+        },
+        {
+          "scid": "dn20:6.12",
+          "pli": "sāvake sāsane rate.",
+          "en": "the disciples who love the teaching:"
+        },
+        {
+          "scid": "dn20:6.13",
+          "pli": "‘Devakāyā abhikkantā,",
+          "en": "“The heavenly hosts have come forth;"
+        },
+        {
+          "scid": "dn20:6.14",
+          "pli": "te vijānātha bhikkhavo;",
+          "en": "mendicants, you should be aware of them."
+        },
+        {
+          "scid": "dn20:6.15",
+          "pli": "Ye vohaṃ kittayissāmi,",
+          "en": "I shall extol them for you,"
+        },
+        {
+          "scid": "dn20:6.16",
+          "pli": "girāhi anupubbaso’.",
+          "en": "with lyrics in proper order."
+        },
+        {
+          "scid": "dn20:7.1",
+          "pli": "Sattasahassā te yakkhā,",
+          "en": "There are seven thousand spirits,"
+        },
+        {
+          "scid": "dn20:7.2",
+          "pli": "bhummā kāpilavatthavā;",
+          "en": "earth-gods of Kapilavatthu."
+        },
+        {
+          "scid": "dn20:7.3",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:7.4",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:7.5",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:7.6",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:7.7",
+          "pli": "Chasahassā hemavatā,",
+          "en": "From the Himalayas there are six thousand"
+        },
+        {
+          "scid": "dn20:7.8",
+          "pli": "yakkhā nānattavaṇṇino;",
+          "en": "spirits of different colors."
+        },
+        {
+          "scid": "dn20:7.9",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:7.10",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:7.11",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:7.12",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:7.13",
+          "pli": "Sātāgirā tisahassā,",
+          "en": "From Sātāgira there are three thousand"
+        },
+        {
+          "scid": "dn20:7.14",
+          "pli": "yakkhā nānattavaṇṇino;",
+          "en": "spirits of different colors."
+        },
+        {
+          "scid": "dn20:7.15",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:7.16",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:7.17",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:7.18",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:7.19",
+          "pli": "Iccete soḷasasahassā,",
+          "en": "And thus there are sixteen thousand"
+        },
+        {
+          "scid": "dn20:7.20",
+          "pli": "yakkhā nānattavaṇṇino;",
+          "en": "spirits of different colors."
+        },
+        {
+          "scid": "dn20:7.21",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:7.22",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:7.23",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:7.24",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:8.1",
+          "pli": "Vessāmittā pañcasatā,",
+          "en": "From Vessamittā there are five hundred"
+        },
+        {
+          "scid": "dn20:8.2",
+          "pli": "yakkhā nānattavaṇṇino;",
+          "en": "spirits of different colors."
+        },
+        {
+          "scid": "dn20:8.3",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:8.4",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:8.5",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:8.6",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:8.7",
+          "pli": "Kumbhīro rājagahiko,",
+          "en": "And there’s Kumbhīra of Rājagaha,"
+        },
+        {
+          "scid": "dn20:8.8",
+          "pli": "vepullassa nivesanaṃ;",
+          "en": "whose home is on Mount Vepulla."
+        },
+        {
+          "scid": "dn20:8.9",
+          "pli": "Bhiyyo naṃ satasahassaṃ,",
+          "en": "Attended by more than"
+        },
+        {
+          "scid": "dn20:8.10",
+          "pli": "yakkhānaṃ payirupāsati;",
+          "en": "a hundred thousand spirits,"
+        },
+        {
+          "scid": "dn20:8.11",
+          "pli": "Kumbhīro rājagahiko,",
+          "en": "Kumbhīra of Rājagaha"
+        },
+        {
+          "scid": "dn20:8.12",
+          "pli": "sopāgā samitiṃ vanaṃ.",
+          "en": "also came to the meeting in the wood."
+        },
+        {
+          "scid": "dn20:9.1",
+          "pli": "Purimañca disaṃ rājā,",
+          "en": "King Dhataraṭṭha rules"
+        },
+        {
+          "scid": "dn20:9.2",
+          "pli": "dhataraṭṭho pasāsati;",
+          "en": "the eastern quarter."
+        },
+        {
+          "scid": "dn20:9.3",
+          "pli": "Gandhabbānaṃ adhipati,",
+          "en": "Lord of the fairies,"
+        },
+        {
+          "scid": "dn20:9.4",
+          "pli": "mahārājā yasassiso.",
+          "en": "he’s a great king, glorious."
+        },
+        {
+          "scid": "dn20:9.5",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": "And he has many mighty sons"
+        },
+        {
+          "scid": "dn20:9.6",
+          "pli": "indanāmā mahabbalā;",
+          "en": "all of them named Inda."
+        },
+        {
+          "scid": "dn20:9.7",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:9.8",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:9.9",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:9.10",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:9.11",
+          "pli": "Dakkhiṇañca disaṃ rājā,",
+          "en": "King Virūḷha rules"
+        },
+        {
+          "scid": "dn20:9.12",
+          "pli": "virūḷho taṃ pasāsati;",
+          "en": "the southern quarter."
+        },
+        {
+          "scid": "dn20:9.13",
+          "pli": "Kumbhaṇḍānaṃ adhipati,",
+          "en": "Lord of the goblins,"
+        },
+        {
+          "scid": "dn20:9.14",
+          "pli": "mahārājā yasassiso.",
+          "en": "he’s a great king, glorious."
+        },
+        {
+          "scid": "dn20:9.15",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": "And he has many mighty sons"
+        },
+        {
+          "scid": "dn20:9.16",
+          "pli": "indanāmā mahabbalā;",
+          "en": "all of them named Inda."
+        },
+        {
+          "scid": "dn20:9.17",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:9.18",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:9.19",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:9.20",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:9.21",
+          "pli": "Pacchimañca disaṃ rājā,",
+          "en": "King Virūpakkha rules"
+        },
+        {
+          "scid": "dn20:9.22",
+          "pli": "virūpakkho pasāsati;",
+          "en": "the western quarter."
+        },
+        {
+          "scid": "dn20:9.23",
+          "pli": "Nāgānañca adhipati,",
+          "en": "Lord of the dragons,"
+        },
+        {
+          "scid": "dn20:9.24",
+          "pli": "mahārājā yasassiso.",
+          "en": "he’s a great king, glorious."
+        },
+        {
+          "scid": "dn20:9.25",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": "And he has many mighty sons"
+        },
+        {
+          "scid": "dn20:9.26",
+          "pli": "indanāmā mahabbalā;",
+          "en": "all of them named Inda."
+        },
+        {
+          "scid": "dn20:9.27",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:9.28",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:9.29",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:9.30",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:9.31",
+          "pli": "Uttarañca disaṃ rājā,",
+          "en": "King Kuvera rules"
+        },
+        {
+          "scid": "dn20:9.32",
+          "pli": "kuvero taṃ pasāsati;",
+          "en": "the northern quarter."
+        },
+        {
+          "scid": "dn20:9.33",
+          "pli": "Yakkhānañca adhipati,",
+          "en": "Lord of spirits,"
+        },
+        {
+          "scid": "dn20:9.34",
+          "pli": "mahārājā yasassiso.",
+          "en": "he’s a great king, glorious."
+        },
+        {
+          "scid": "dn20:9.35",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": "And he has many mighty sons"
+        },
+        {
+          "scid": "dn20:9.36",
+          "pli": "indanāmā mahabbalā;",
+          "en": "all of them named Inda."
+        },
+        {
+          "scid": "dn20:9.37",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:9.38",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:9.39",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:9.40",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:9.41",
+          "pli": "Purimaṃ disaṃ dhataraṭṭho,",
+          "en": "Dhataraṭṭha in the east,"
+        },
+        {
+          "scid": "dn20:9.42",
+          "pli": "dakkhiṇena virūḷhako;",
+          "en": "Virūḷhaka to the south,"
+        },
+        {
+          "scid": "dn20:9.43",
+          "pli": "Pacchimena virūpakkho,",
+          "en": "Virūpakkha to the west,"
+        },
+        {
+          "scid": "dn20:9.44",
+          "pli": "kuvero uttaraṃ disaṃ.",
+          "en": "and Kuvera in the north."
+        },
+        {
+          "scid": "dn20:9.45",
+          "pli": "Cattāro te mahārājā,",
+          "en": "These Four Great Kings,"
+        },
+        {
+          "scid": "dn20:9.46",
+          "pli": "samantā caturo disā;",
+          "en": "all around in the four quarters,"
+        },
+        {
+          "scid": "dn20:9.47",
+          "pli": "Daddallamānā aṭṭhaṃsu,",
+          "en": "stood there dazzling"
+        },
+        {
+          "scid": "dn20:9.48",
+          "pli": "vane kāpilavatthave.",
+          "en": "in the wood at Kapilavatthu."
+        },
+        {
+          "scid": "dn20:10.1",
+          "pli": "Tesaṃ māyāvino dāsā,",
+          "en": "Their deceitful bondservants came,"
+        },
+        {
+          "scid": "dn20:10.2",
+          "pli": "āguṃ vañcanikā saṭhā;",
+          "en": "so treacherous and crafty—"
+        },
+        {
+          "scid": "dn20:10.3",
+          "pli": "Māyā kuṭeṇḍu viṭeṇḍu,",
+          "en": "the deceivers Kuṭeṇḍu, Viṭeṇḍu,"
+        },
+        {
+          "scid": "dn20:10.4",
+          "pli": "viṭucca viṭuṭo saha.",
+          "en": "with Viṭucca and Viṭuḍa."
+        },
+        {
+          "scid": "dn20:10.5",
+          "pli": "Candano kāmaseṭṭho ca,",
+          "en": "And Candana and Kāmaseṭṭha,"
+        },
+        {
+          "scid": "dn20:10.6",
+          "pli": "kinnighaṇḍu nighaṇḍu ca;",
+          "en": "Kinnughaṇḍu and Nighaṇḍu,"
+        },
+        {
+          "scid": "dn20:10.7",
+          "pli": "Panādo opamañño ca,",
+          "en": "Panāda and Opamañña,"
+        },
+        {
+          "scid": "dn20:10.8",
+          "pli": "devasūto ca mātali.",
+          "en": "and Mātali, the god’s charioteer."
+        },
+        {
+          "scid": "dn20:10.9",
+          "pli": "Cittaseno ca gandhabbo,",
+          "en": "Cittasena the fairy came too,"
+        },
+        {
+          "scid": "dn20:10.10",
+          "pli": "naḷorājā janesabho;",
+          "en": "and the kings Nala and Janesabha,"
+        },
+        {
+          "scid": "dn20:10.11",
+          "pli": "Āgā pañcasikho ceva,",
+          "en": "as well as Pañcasikha,"
+        },
+        {
+          "scid": "dn20:10.12",
+          "pli": "timbarū sūriyavacchasā.",
+          "en": "Timbaru, and Suriyavaccasā."
+        },
+        {
+          "scid": "dn20:10.13",
+          "pli": "Ete caññe ca rājāno,",
+          "en": "These and other kings there were,"
+        },
+        {
+          "scid": "dn20:10.14",
+          "pli": "gandhabbā saha rājubhi;",
+          "en": "the fairies with their kings."
+        },
+        {
+          "scid": "dn20:10.15",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:10.16",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:11.1",
+          "pli": "Athāguṃ nāgasā nāgā,",
+          "en": "Then came dragons from Nābhasa,"
+        },
+        {
+          "scid": "dn20:11.2",
+          "pli": "vesālā sahatacchakā;",
+          "en": "and Vesālī, with the Tacchakas."
+        },
+        {
+          "scid": "dn20:11.3",
+          "pli": "Kambalassatarā āguṃ,",
+          "en": "The Kambalas and Assataras came"
+        },
+        {
+          "scid": "dn20:11.4",
+          "pli": "pāyāgā saha ñātibhi.",
+          "en": "from Pāyāga with their kin."
+        },
+        {
+          "scid": "dn20:11.5",
+          "pli": "Yāmunā dhataraṭṭhā ca,",
+          "en": "From Yamunā the Dhataraṭṭha"
+        },
+        {
+          "scid": "dn20:11.6",
+          "pli": "āgū nāgā yasassino;",
+          "en": "dragons came, so glorious."
+        },
+        {
+          "scid": "dn20:11.7",
+          "pli": "Erāvaṇo mahānāgo,",
+          "en": "And Erāvaṇa the great dragon"
+        },
+        {
+          "scid": "dn20:11.8",
+          "pli": "sopāgā samitiṃ vanaṃ.",
+          "en": "also came to the meeting in the wood."
+        },
+        {
+          "scid": "dn20:11.9",
+          "pli": "Ye nāgarāje sahasā haranti,",
+          "en": "Those who seize the dragon kings by force—"
+        },
+        {
+          "scid": "dn20:11.10",
+          "pli": "Dibbā dijā pakkhi visuddhacakkhū;",
+          "en": "divine, twice-born birds with piercing vision—"
+        },
+        {
+          "scid": "dn20:11.11",
+          "pli": "Vehāyasā te vanamajjhapattā,",
+          "en": "swoop down to the wood from the sky;"
+        },
+        {
+          "scid": "dn20:11.12",
+          "pli": "Citrā supaṇṇā iti tesa nāmaṃ.",
+          "en": "their name is ‘Rainbow Phoenix’."
+        },
+        {
+          "scid": "dn20:11.13",
+          "pli": "Abhayaṃ tadā nāgarājānamāsi,",
+          "en": "But the dragon kings remained fearless,"
+        },
+        {
+          "scid": "dn20:11.14",
+          "pli": "Supaṇṇato khemamakāsi buddho;",
+          "en": "for the Buddha kept them safe from the phoenixes."
+        },
+        {
+          "scid": "dn20:11.15",
+          "pli": "Saṇhāhi vācāhi upavhayantā,",
+          "en": "Introducing each other with gentle words,"
+        },
+        {
+          "scid": "dn20:11.16",
+          "pli": "Nāgā supaṇṇā saraṇamakaṃsu buddhaṃ.",
+          "en": "the dragons and phoenixes took the Buddha as their refuge."
+        },
+        {
+          "scid": "dn20:12.1",
+          "pli": "Jitā vajirahatthena,",
+          "en": "Defeated by Vajirahattha,"
+        },
+        {
+          "scid": "dn20:12.2",
+          "pli": "samuddaṃ asurāsitā;",
+          "en": "the demons live in the ocean."
+        },
+        {
+          "scid": "dn20:12.3",
+          "pli": "Bhātaro vāsavassete,",
+          "en": "They’re brothers of Vāsava,"
+        },
+        {
+          "scid": "dn20:12.4",
+          "pli": "iddhimanto yasassino.",
+          "en": "powerful and glorious."
+        },
+        {
+          "scid": "dn20:12.5",
+          "pli": "Kālakañcā mahābhismā,",
+          "en": "There’s the terrifying Kālakañjas,"
+        },
+        {
+          "scid": "dn20:12.6",
+          "pli": "asurā dānaveghasā;",
+          "en": "the Dānaveghasa demons,"
+        },
+        {
+          "scid": "dn20:12.7",
+          "pli": "Vepacitti sucitti ca,",
+          "en": "Vepacitti and Sucitti,"
+        },
+        {
+          "scid": "dn20:12.8",
+          "pli": "pahārādo namucī saha.",
+          "en": "Pahārāda with Namuci,"
+        },
+        {
+          "scid": "dn20:12.9",
+          "pli": "Satañca baliputtānaṃ,",
+          "en": "and a hundred of Bali’s sons,"
+        },
+        {
+          "scid": "dn20:12.10",
+          "pli": "sabbe verocanāmakā;",
+          "en": "all named after Veroca."
+        },
+        {
+          "scid": "dn20:12.11",
+          "pli": "Sannayhitvā balisenaṃ,",
+          "en": "Bali’s army armed themselves"
+        },
+        {
+          "scid": "dn20:12.12",
+          "pli": "rāhubhaddamupāgamuṃ;",
+          "en": "and went up to the auspicious Rāhu, saying:"
+        },
+        {
+          "scid": "dn20:12.13",
+          "pli": "‘Samayo dāni bhaddante,",
+          "en": "‘Now is the time, sir,"
+        },
+        {
+          "scid": "dn20:12.14",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ’.",
+          "en": "for the meeting of mendicants in the wood.’"
+        },
+        {
+          "scid": "dn20:13.1",
+          "pli": "Āpo ca devā pathavī,",
+          "en": "The gods of Water and Earth,"
+        },
+        {
+          "scid": "dn20:13.2",
+          "pli": "tejo vāyo tadāgamuṃ;",
+          "en": "and Fire and Wind came there."
+        },
+        {
+          "scid": "dn20:13.3",
+          "pli": "Varuṇā vāraṇā devā,",
+          "en": "The Varuṇa and Vāruṇa gods,"
+        },
+        {
+          "scid": "dn20:13.4",
+          "pli": "somo ca yasasā saha.",
+          "en": "and Soma together with Yasa."
+        },
+        {
+          "scid": "dn20:13.5",
+          "pli": "Mettā karuṇā kāyikā,",
+          "en": "A host of the gods of Love"
+        },
+        {
+          "scid": "dn20:13.6",
+          "pli": "āguṃ devā yasassino;",
+          "en": "and Compassion came, so glorious."
+        },
+        {
+          "scid": "dn20:13.7",
+          "pli": "Dasete dasadhā kāyā,",
+          "en": "These ten hosts of gods"
+        },
+        {
+          "scid": "dn20:13.8",
+          "pli": "sabbe nānattavaṇṇino.",
+          "en": "shone in all different colors."
+        },
+        {
+          "scid": "dn20:13.9",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:13.10",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:13.11",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:13.12",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:14.1",
+          "pli": "Veṇḍudevā sahali ca,",
+          "en": "The Veṇhu and Sahali gods,"
+        },
+        {
+          "scid": "dn20:14.2",
+          "pli": "asamā ca duve yamā;",
+          "en": "and Asama, and the twin Yamas came."
+        },
+        {
+          "scid": "dn20:14.3",
+          "pli": "Candassūpanisā devā,",
+          "en": "The gods living on the moon came,"
+        },
+        {
+          "scid": "dn20:14.4",
+          "pli": "candamāguṃ purakkhatvā.",
+          "en": "with the Moon before them."
+        },
+        {
+          "scid": "dn20:14.5",
+          "pli": "Sūriyassūpanisā devā,",
+          "en": "The gods living on the sun came,"
+        },
+        {
+          "scid": "dn20:14.6",
+          "pli": "sūriyamāguṃ purakkhatvā;",
+          "en": "with the Sun before them."
+        },
+        {
+          "scid": "dn20:14.7",
+          "pli": "Nakkhattāni purakkhatvā,",
+          "en": "And with the stars before them"
+        },
+        {
+          "scid": "dn20:14.8",
+          "pli": "āguṃ mandavalāhakā.",
+          "en": "came the silly gods of clouds."
+        },
+        {
+          "scid": "dn20:14.9",
+          "pli": "Vasūnaṃ vāsavo seṭṭho,",
+          "en": "And Sakka came, the stronghold-giver,"
+        },
+        {
+          "scid": "dn20:14.10",
+          "pli": "sakkopāgā purindado;",
+          "en": "known as Vāsava, the best of the Vasus."
+        },
+        {
+          "scid": "dn20:14.11",
+          "pli": "Dasete dasadhā kāyā,",
+          "en": "These ten hosts of gods"
+        },
+        {
+          "scid": "dn20:14.12",
+          "pli": "sabbe nānattavaṇṇino.",
+          "en": "shone in all different colors."
+        },
+        {
+          "scid": "dn20:14.13",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:14.14",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:14.15",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:14.16",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:15.1",
+          "pli": "Athāguṃ sahabhū devā,",
+          "en": "Then came the Sahabhū gods,"
+        },
+        {
+          "scid": "dn20:15.2",
+          "pli": "jalamaggi sikhāriva;",
+          "en": "blazing like a crested flame;"
+        },
+        {
+          "scid": "dn20:15.3",
+          "pli": "Ariṭṭhakā ca rojā ca,",
+          "en": "and the Ariṭṭhakas and Rojas too,"
+        },
+        {
+          "scid": "dn20:15.4",
+          "pli": "umāpupphanibhāsino.",
+          "en": "and the gods hued blue as flax."
+        },
+        {
+          "scid": "dn20:15.5",
+          "pli": "Varuṇā sahadhammā ca,",
+          "en": "The Varuṇas and Sahadhammas,"
+        },
+        {
+          "scid": "dn20:15.6",
+          "pli": "accutā ca anejakā;",
+          "en": "the Accutas and Anejakas,"
+        },
+        {
+          "scid": "dn20:15.7",
+          "pli": "Sūleyyarucirā āguṃ,",
+          "en": "the Sūleyyas and Ruciras all came,"
+        },
+        {
+          "scid": "dn20:15.8",
+          "pli": "āguṃ vāsavanesino;",
+          "en": "as did the Vāsavanesi gods."
+        },
+        {
+          "scid": "dn20:15.9",
+          "pli": "Dasete dasadhā kāyā,",
+          "en": "These ten hosts of gods"
+        },
+        {
+          "scid": "dn20:15.10",
+          "pli": "sabbe nānattavaṇṇino.",
+          "en": "shone in all different colors."
+        },
+        {
+          "scid": "dn20:15.11",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:15.12",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:15.13",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:15.14",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:16.1",
+          "pli": "Samānā mahāsamanā,",
+          "en": "The Samānas, Mahāsamānas,"
+        },
+        {
+          "scid": "dn20:16.2",
+          "pli": "mānusā mānusuttamā;",
+          "en": "Mānusas, and Mānusuttamas all came,"
+        },
+        {
+          "scid": "dn20:16.3",
+          "pli": "Khiḍḍāpadosikā āguṃ,",
+          "en": "and the gods depraved by play,"
+        },
+        {
+          "scid": "dn20:16.4",
+          "pli": "āguṃ manopadosikā.",
+          "en": "and those who are malevolent."
+        },
+        {
+          "scid": "dn20:16.5",
+          "pli": "Athāguṃ harayo devā,",
+          "en": "Then came the Hari gods,"
+        },
+        {
+          "scid": "dn20:16.6",
+          "pli": "ye ca lohitavāsino;",
+          "en": "and the Lohitavāsīs."
+        },
+        {
+          "scid": "dn20:16.7",
+          "pli": "Pāragā mahāpāragā,",
+          "en": "The Pāragas and Mahāpāragas came,"
+        },
+        {
+          "scid": "dn20:16.8",
+          "pli": "āguṃ devā yasassino;",
+          "en": "such glorious gods."
+        },
+        {
+          "scid": "dn20:16.9",
+          "pli": "Dasete dasadhā kāyā,",
+          "en": "These ten hosts of gods"
+        },
+        {
+          "scid": "dn20:16.10",
+          "pli": "sabbe nānattavaṇṇino.",
+          "en": "shone in all different colors."
+        },
+        {
+          "scid": "dn20:16.11",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:16.12",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:16.13",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:16.14",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:17.1",
+          "pli": "Sukkā karambhā aruṇā,",
+          "en": "The Sukkas, Karumhas, and Aruṇas"
+        },
+        {
+          "scid": "dn20:17.2",
+          "pli": "āguṃ veghanasā saha;",
+          "en": "came along with the Veghanasas."
+        },
+        {
+          "scid": "dn20:17.3",
+          "pli": "Odātagayhā pāmokkhā,",
+          "en": "And the Odātagayhas came as chiefs"
+        },
+        {
+          "scid": "dn20:17.4",
+          "pli": "āguṃ devā vicakkhaṇā.",
+          "en": "of the Vicakkhaṇa gods."
+        },
+        {
+          "scid": "dn20:17.5",
+          "pli": "Sadāmattā hāragajā,",
+          "en": "The Sadāmattas and Hāragajas,"
+        },
+        {
+          "scid": "dn20:17.6",
+          "pli": "missakā ca yasassino;",
+          "en": "and the glorious Missakas;"
+        },
+        {
+          "scid": "dn20:17.7",
+          "pli": "Thanayaṃ āga pajjunno,",
+          "en": "Pajjuna came thundering,"
+        },
+        {
+          "scid": "dn20:17.8",
+          "pli": "yo disā abhivassati.",
+          "en": "he who rains on all quarters."
+        },
+        {
+          "scid": "dn20:17.9",
+          "pli": "Dasete dasadhā kāyā,",
+          "en": "These ten hosts of gods"
+        },
+        {
+          "scid": "dn20:17.10",
+          "pli": "sabbe nānattavaṇṇino;",
+          "en": "shone in all different colors."
+        },
+        {
+          "scid": "dn20:17.11",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:17.12",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:17.13",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:17.14",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:18.1",
+          "pli": "Khemiyā tusitā yāmā,",
+          "en": "The Khemiyas, Tusitas, Yāmas,"
+        },
+        {
+          "scid": "dn20:18.2",
+          "pli": "kaṭṭhakā ca yasassino;",
+          "en": "and the glorious Kaṭṭhakas came;"
+        },
+        {
+          "scid": "dn20:18.3",
+          "pli": "Lambītakā lāmaseṭṭhā,",
+          "en": "The Lambītakas, Lāmaseṭṭhas,"
+        },
+        {
+          "scid": "dn20:18.4",
+          "pli": "jotināmā ca āsavā;",
+          "en": "those called the Jotis and Āsavas."
+        },
+        {
+          "scid": "dn20:18.5",
+          "pli": "Nimmānaratino āguṃ,",
+          "en": "The Gods Who Love to Create came too,"
+        },
+        {
+          "scid": "dn20:18.6",
+          "pli": "athāguṃ paranimmitā.",
+          "en": "and those who delight in the Creations of Others."
+        },
+        {
+          "scid": "dn20:18.7",
+          "pli": "Dasete dasadhā kāyā,",
+          "en": "These ten hosts of gods"
+        },
+        {
+          "scid": "dn20:18.8",
+          "pli": "sabbe nānattavaṇṇino;",
+          "en": "shone in all different colors."
+        },
+        {
+          "scid": "dn20:18.9",
+          "pli": "Iddhimanto jutimanto,",
+          "en": "They’re powerful and brilliant,"
+        },
+        {
+          "scid": "dn20:18.10",
+          "pli": "vaṇṇavanto yasassino;",
+          "en": "so beautiful and glorious."
+        },
+        {
+          "scid": "dn20:18.11",
+          "pli": "Modamānā abhikkāmuṃ,",
+          "en": "Rejoicing, they’ve come forth"
+        },
+        {
+          "scid": "dn20:18.12",
+          "pli": "bhikkhūnaṃ samitiṃ vanaṃ.",
+          "en": "to the meeting of mendicants in the wood."
+        },
+        {
+          "scid": "dn20:19.1",
+          "pli": "Saṭṭhete devanikāyā,",
+          "en": "These sixty hosts of gods"
+        },
+        {
+          "scid": "dn20:19.2",
+          "pli": "sabbe nānattavaṇṇino;",
+          "en": "shone in all different colors."
+        },
+        {
+          "scid": "dn20:19.3",
+          "pli": "Nāmanvayena āgacchuṃ,",
+          "en": "They came in order of their names,"
+        },
+        {
+          "scid": "dn20:19.4",
+          "pli": "ye caññe sadisā saha.",
+          "en": "these and others likewise, thinking:"
+        },
+        {
+          "scid": "dn20:19.5",
+          "pli": "‘Pavuṭṭhajātimakhilaṃ,",
+          "en": "‘We shall see those rid of rebirth, kind,"
+        },
+        {
+          "scid": "dn20:19.6",
+          "pli": "oghatiṇṇamanāsavaṃ;",
+          "en": "the undefiled ones who have crossed the flood,"
+        },
+        {
+          "scid": "dn20:19.7",
+          "pli": "Dakkhemoghataraṃ nāgaṃ,",
+          "en": "and the dragon who brought them across,"
+        },
+        {
+          "scid": "dn20:19.8",
+          "pli": "candaṃva asitātigaṃ’.",
+          "en": "who like the Moon has overcome darkness.’"
+        },
+        {
+          "scid": "dn20:20.1",
+          "pli": "Subrahmā paramatto ca,",
+          "en": "Subrahmā and Paramatta came,"
+        },
+        {
+          "scid": "dn20:20.2",
+          "pli": "puttā iddhimato saha;",
+          "en": "with sons of those powerful ones."
+        },
+        {
+          "scid": "dn20:20.3",
+          "pli": "Sanaṅkumāro tisso ca,",
+          "en": "Sanaṅkumāra and Tissa"
+        },
+        {
+          "scid": "dn20:20.4",
+          "pli": "sopāga samitiṃ vanaṃ.",
+          "en": "also came to the meeting in the wood."
+        },
+        {
+          "scid": "dn20:20.5",
+          "pli": "Sahassaṃ brahmalokānaṃ,",
+          "en": "Of a thousand Brahmā realms,"
+        },
+        {
+          "scid": "dn20:20.6",
+          "pli": "mahābrahmābhitiṭṭhati;",
+          "en": "the Great Brahmā stands forth."
+        },
+        {
+          "scid": "dn20:20.7",
+          "pli": "Upapanno jutimanto,",
+          "en": "He has arisen, resplendent,"
+        },
+        {
+          "scid": "dn20:20.8",
+          "pli": "bhismākāyo yasassiso.",
+          "en": "his formidable body so glorious."
+        },
+        {
+          "scid": "dn20:20.9",
+          "pli": "Dasettha issarā āguṃ,",
+          "en": "The ten Issarās came there,"
+        },
+        {
+          "scid": "dn20:20.10",
+          "pli": "paccekavasavattino;",
+          "en": "each one of them wielding power,"
+        },
+        {
+          "scid": "dn20:20.11",
+          "pli": "Tesañca majjhato āga,",
+          "en": "and in the middle of them came"
+        },
+        {
+          "scid": "dn20:20.12",
+          "pli": "hārito parivārito.",
+          "en": "Hārita with his escorts.”"
+        },
+        {
+          "scid": "dn20:21.1",
+          "pli": "Te ca sabbe abhikkante,",
+          "en": "When they had all come forth—"
+        },
+        {
+          "scid": "dn20:21.2",
+          "pli": "sainde deve sabrahmake;",
+          "en": "the gods with their Lord, and the Brahmās—"
+        },
+        {
+          "scid": "dn20:21.3",
+          "pli": "Mārasenā abhikkāmi,",
+          "en": "Māra’s army came forth too:"
+        },
+        {
+          "scid": "dn20:21.4",
+          "pli": "passa kaṇhassa mandiyaṃ.",
+          "en": "see the stupidity of the Dark Lord!"
+        },
+        {
+          "scid": "dn20:21.5",
+          "pli": "‘Etha gaṇhatha bandhatha,",
+          "en": "“Come, seize them and bind them,” he said,"
+        },
+        {
+          "scid": "dn20:21.6",
+          "pli": "rāgena baddhamatthu vo;",
+          "en": "“let them be bound by desire!"
+        },
+        {
+          "scid": "dn20:21.7",
+          "pli": "Samantā parivāretha,",
+          "en": "Surround them on all sides,"
+        },
+        {
+          "scid": "dn20:21.8",
+          "pli": "mā vo muñcittha koci naṃ’.",
+          "en": "don’t let any escape!”"
+        },
+        {
+          "scid": "dn20:21.9",
+          "pli": "Iti tattha mahāseno,",
+          "en": "And so there the great general"
+        },
+        {
+          "scid": "dn20:21.10",
+          "pli": "kaṇho senaṃ apesayi;",
+          "en": "sent forth his dark army."
+        },
+        {
+          "scid": "dn20:21.11",
+          "pli": "Pāṇinā talamāhacca,",
+          "en": "He struck the ground with his fist"
+        },
+        {
+          "scid": "dn20:21.12",
+          "pli": "saraṃ katvāna bheravaṃ.",
+          "en": "to make a horrifying sound"
+        },
+        {
+          "scid": "dn20:21.13",
+          "pli": "Yathā pāvussako megho,",
+          "en": "like a storm cloud shedding rain,"
+        },
+        {
+          "scid": "dn20:21.14",
+          "pli": "thanayanto savijjuko;",
+          "en": "thundering and flashing."
+        },
+        {
+          "scid": "dn20:21.15",
+          "pli": "Tadā so paccudāvatti,",
+          "en": "But then he retreated,"
+        },
+        {
+          "scid": "dn20:21.16",
+          "pli": "saṅkuddho asayaṃvase.",
+          "en": "furious, out of control."
+        },
+        {
+          "scid": "dn20:22.1",
+          "pli": "Tañca sabbaṃ abhiññāya,",
+          "en": "And all that was known"
+        },
+        {
+          "scid": "dn20:22.2",
+          "pli": "vavatthitvāna cakkhumā;",
+          "en": "and distinguished by the Seer."
+        },
+        {
+          "scid": "dn20:22.3",
+          "pli": "Tato āmantayī satthā,",
+          "en": "Therefore he addressed"
+        },
+        {
+          "scid": "dn20:22.4",
+          "pli": "sāvake sāsane rate.",
+          "en": "the disciples who love the teaching:"
+        },
+        {
+          "scid": "dn20:22.5",
+          "pli": "‘Mārasenā abhikkantā,",
+          "en": "“Māra’s army has arrived;"
+        },
+        {
+          "scid": "dn20:22.6",
+          "pli": "te vijānātha bhikkhavo’;",
+          "en": "mendicants, you should be aware of them.”"
+        },
+        {
+          "scid": "dn20:22.7",
+          "pli": "Te ca ātappamakaruṃ,",
+          "en": "Those monks became keen,"
+        },
+        {
+          "scid": "dn20:22.8",
+          "pli": "sutvā buddhassa sāsanaṃ;",
+          "en": "hearing the Buddha’s instruction."
+        },
+        {
+          "scid": "dn20:22.9",
+          "pli": "Vītarāgehi pakkāmuṃ,",
+          "en": "The army fled from those free of passion,"
+        },
+        {
+          "scid": "dn20:22.10",
+          "pli": "nesaṃ lomāpi iñjayuṃ.",
+          "en": "and not a single hair was stirred!"
+        },
+        {
+          "scid": "dn20:22.11",
+          "pli": "‘Sabbe vijitasaṅgāmā,",
+          "en": "“All are triumphant in battle,"
+        },
+        {
+          "scid": "dn20:22.12",
+          "pli": "bhayātītā yasassino;",
+          "en": "so fearless and glorious."
+        },
+        {
+          "scid": "dn20:22.13",
+          "pli": "Modanti saha bhūtehi,",
+          "en": "They rejoice with all the spirits,"
+        },
+        {
+          "scid": "dn20:22.14",
+          "pli": "sāvakā te janesutā’”ti.",
+          "en": "the disciples well-known among men.”"
+        },
+        {
+          "scid": "dn20:22.15",
+          "pli": "Mahāsamayasuttaṃ niṭṭhitaṃ sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "dn20/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "DN 20",
+    "volpages": "DN ii 253",
+    "uid": "dn20",
+    "blurb": "When deities from all realms gather in homage to the Buddha, he gives a series of verses describing them. These verses, which are commonly chanted in Theravadin countries, give one of the most detailed descriptions of the deities worshiped at the the time of the Buddha.",
+    "difficulty": 2,
+    "original_title": "Mahāsamaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Great Congregation",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_dn20_sujato",
+        "segmented": true,
+        "title": "The Great Congregation"
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "id": "en_dn20_anandajoti",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Discourse on the Great Convention"
+      }
+    ],
+    "parallel_count": 12,
+    "biblio": null,
+    "num": 7
+  }
+}

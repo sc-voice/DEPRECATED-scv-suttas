@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "sn35.77",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.77",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Rādha on Suffering",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Rādha on Not-Self",
+      "uid": "sn35.78"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Rādha on Impermanence",
+      "uid": "sn35.76"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.77:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.77:0.2",
+          "pli": "8. Gilānavagga",
+          "en": "8. Sick"
+        },
+        {
+          "scid": "sn35.77:0.3",
+          "pli": "77. Rādhadukkhasutta",
+          "en": "77. With Rādha on Suffering"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.77:1.1",
+          "pli": "“Yaṃ kho, rādha, dukkhaṃ tatra te chando pahātabbo.",
+          "en": "“Rādha, you should give up desire for what is suffering. …”"
+        },
+        {
+          "scid": "sn35.77:1.2",
+          "pli": "Kiñca, rādha, dukkhaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.3",
+          "pli": "Cakkhu kho, rādha, dukkhaṃ. Tatra te chando pahātabbo.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.4",
+          "pli": "Rūpā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.5",
+          "pli": "cakkhuviññāṇaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.6",
+          "pli": "cakkhusamphasso …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.7",
+          "pli": "yampidaṃ cakkhusamphassa … pe … adukkhamasukhaṃ vā tampi dukkhaṃ. Tatra te chando pahātabbo … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.8",
+          "pli": "mano dukkho …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.9",
+          "pli": "dhammā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.10",
+          "pli": "manoviññāṇaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.11",
+          "pli": "manosamphasso …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.12",
+          "pli": "yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi dukkhaṃ. Tatra te chando pahātabbo.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.13",
+          "pli": "Yaṃ kho, rādha, dukkhaṃ tatra te chando pahātabbo”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.77:1.14",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Rādha…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.77/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.77",
+    "volpages": "SN iv 49",
+    "uid": "sn35.77",
+    "blurb": "Venerable Rādha asks for a teaching to take on retreat. The Buddha told him to abandon desire for sense experience, which is suffering.",
+    "difficulty": null,
+    "original_title": "Rādhadukkha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Rādha on Suffering",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.77_sujato",
+        "segmented": true,
+        "title": "With Rādha on Suffering"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.77_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Radha (2)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

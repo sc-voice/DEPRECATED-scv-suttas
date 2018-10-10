@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn45.56",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.56",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Good Friends (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Discourses on Accomplishment in Ethics, Etc. (2nd)",
+      "uid": "sn45.57-61"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Accomplishment in Proper Attention (1st)",
+      "uid": "sn45.55"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.56:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.56:0.2",
+          "pli": "6. Sūriyapeyyālavagga",
+          "en": "6. Abbreviated Texts on the Sun"
+        },
+        {
+          "scid": "sn45.56:0.3",
+          "pli": "56. Dutiyakalyāṇamittasutta",
+          "en": "56. Good Friends (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.56:1.1",
+          "pli": "“Sūriyassa, bhikkhave, udayato etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ—aruṇuggaṃ;",
+          "en": "“Mendicants, the dawn is the forerunner and precursor of the sunrise."
+        },
+        {
+          "scid": "sn45.56:1.2",
+          "pli": "evameva kho, bhikkhave, bhikkhuno ariyassa aṭṭhaṅgikassa maggassa uppādāya etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ—kalyāṇamittatā.",
+          "en": "In the same way good friendship is the forerunner and precursor of the noble eightfold path for a mendicant."
+        },
+        {
+          "scid": "sn45.56:1.3",
+          "pli": "Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ—ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvessati, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissati.",
+          "en": "A mendicant with good friends can expect to develop and cultivate the noble eightfold path."
+        },
+        {
+          "scid": "sn45.56:1.4",
+          "pli": "Kathañca, bhikkhave, bhikkhu kalyāṇamitto ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti?",
+          "en": "And how does a mendicant with good friends develop and cultivate the noble eightfold path?"
+        },
+        {
+          "scid": "sn45.56:1.5",
+          "pli": "Idha, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ … pe … sammāsamādhiṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ.",
+          "en": "It’s when a mendicant develops right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion, which culminate in the removal of greed, hate, and delusion."
+        },
+        {
+          "scid": "sn45.56:1.6",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu kalyāṇamitto ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarotī”ti.",
+          "en": "That’s how a mendicant with good friends develops and cultivates the noble eightfold path.”"
+        },
+        {
+          "scid": "sn45.56:1.7",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.56/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.56",
+    "volpages": "SN v 31",
+    "uid": "sn45.56",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dutiyakalyāṇamitta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Good Friends (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.56_sujato",
+        "segmented": true,
+        "title": "Good Friends (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.56_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Good Friend"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

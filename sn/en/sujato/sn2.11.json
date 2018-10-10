@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn2.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Candimasa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Vishnu",
+      "uid": "sn2.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Sun",
+      "uid": "sn2.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.11:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.11:0.2",
+          "pli": "2. Anāthapiṇḍikavagga",
+          "en": "2. With Anāthapiṇḍika"
+        },
+        {
+          "scid": "sn2.11:0.3",
+          "pli": "11. Candimasasutta",
+          "en": "11. With Candimasa"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.11:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn2.11:1.2",
+          "pli": "Atha kho candimaso devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.",
+          "en": "Then, late at night, the glorious god Candimasa, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side,"
+        },
+        {
+          "scid": "sn2.11:1.3",
+          "pli": "Ekamantaṃ ṭhito kho candimaso devaputto bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "and recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn2.11:2.1",
+          "pli": "“Te hi sotthiṃ gamissanti,",
+          "en": "“Like deer in a mosquito-free marsh,"
+        },
+        {
+          "scid": "sn2.11:2.2",
+          "pli": "kacchevāmakase magā;",
+          "en": "they will reach a safe place"
+        },
+        {
+          "scid": "sn2.11:2.3",
+          "pli": "Jhānāni upasampajja,",
+          "en": "having entered the absorptions,"
+        },
+        {
+          "scid": "sn2.11:2.4",
+          "pli": "ekodi nipakā satā”ti.",
+          "en": "unified, self-disciplined, and mindful.”"
+        },
+        {
+          "scid": "sn2.11:3.1",
+          "pli": "“Te hi pāraṃ gamissanti,",
+          "en": "“Like fish when the net is cut,"
+        },
+        {
+          "scid": "sn2.11:3.2",
+          "pli": "chetvā jālaṃva ambujo;",
+          "en": "they will reach the far shore"
+        },
+        {
+          "scid": "sn2.11:3.3",
+          "pli": "Jhānāni upasampajja,",
+          "en": "having entered the absorptions,"
+        },
+        {
+          "scid": "sn2.11:3.4",
+          "pli": "appamattā raṇañjahā”ti.",
+          "en": "diligent, with flaws discarded.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.11//SN 92",
+    "volpages": "SN i 51//SN i 117",
+    "uid": "sn2.11",
+    "blurb": "The deity Candimasa says that those who practice absorption will surely find escape. The Buddha adds that they must also be diligent and discard flaws.",
+    "difficulty": null,
+    "original_title": "Candimasa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Candimasa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.11_sujato",
+        "segmented": true,
+        "title": "With Candimasa"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

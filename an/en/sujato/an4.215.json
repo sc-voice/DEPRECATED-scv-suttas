@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an4.215",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.215",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Path (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Path (2nd)",
+      "uid": "an4.216"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Killing Living Creatures",
+      "uid": "an4.214"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.215:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.215:0.2",
+          "pli": "22. Parisāvagga",
+          "en": "22. Assembly"
+        },
+        {
+          "scid": "an4.215:0.3",
+          "pli": "215. Paṭhamamaggasutta",
+          "en": "215. Path (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.215:1.1",
+          "pli": "… pe … Micchādiṭṭhiko hoti, micchāsaṅkappo hoti, micchāvāco hoti, micchākammanto hoti … pe … sammādiṭṭhiko hoti, sammāsaṅkappo hoti, sammāvāco hoti, sammākammanto hoti.",
+          "en": "“Someone with four qualities is cast down to hell. … wrong view, wrong thought, wrong speech, wrong action. … Someone with four qualities is raised up to heaven. … right view, right thought, right speech, right action. …”"
+        },
+        {
+          "scid": "an4.215:1.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Someone with four qualities is cast down…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.215/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.215",
+    "volpages": "AN ii 226",
+    "uid": "an4.215",
+    "blurb": "Initial path factors determine rebirth.",
+    "difficulty": null,
+    "original_title": "Paṭhamamagga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Path (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.215_sujato",
+        "segmented": true,
+        "title": "Path (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

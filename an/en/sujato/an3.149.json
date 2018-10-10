@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an3.149",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.149",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Impure",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Broken (1st)",
+      "uid": "an3.150"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unethical",
+      "uid": "an3.148"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.149:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.149:0.2",
+          "pli": "15. Maṅgalavagga",
+          "en": "15. Good Fortune"
+        },
+        {
+          "scid": "an3.149:0.3",
+          "pli": "149. Asucisutta",
+          "en": "149. Impure"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.149:1.1",
+          "pli": "“Tīhi, bhikkhave … pe …",
+          "en": "“Someone with three qualities is cast down to hell. …"
+        },
+        {
+          "scid": "an3.149:1.2",
+          "pli": "asucinā kāyakammena, asucinā vacīkammena, asucinā manokammena—",
+          "en": "Filthy deeds by way of body, speech, and mind. …"
+        },
+        {
+          "scid": "an3.149:1.3",
+          "pli": "imehi kho … pe … evaṃ niraye.",
+          "en": ""
+        },
+        {
+          "scid": "an3.149:2.1",
+          "pli": "Tīhi, bhikkhave … pe …",
+          "en": "Someone with three qualities is raised up to heaven. …"
+        },
+        {
+          "scid": "an3.149:2.2",
+          "pli": "sucinā kāyakammena, sucinā vacīkammena, sucinā manokammena—",
+          "en": "Pure deeds by way of body, speech, and mind. …”"
+        },
+        {
+          "scid": "an3.149:2.3",
+          "pli": "imehi kho, bhikkhave, tīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge”ti.",
+          "en": ""
+        },
+        {
+          "scid": "an3.149:2.4",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Someone with three qualities is cast down…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.149/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.149//AN 3.144",
+    "volpages": "AN i 293",
+    "uid": "an3.149",
+    "blurb": "Pure and impure deeds determine rebirth.",
+    "difficulty": null,
+    "original_title": "Asuci Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Impure",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.149_sujato",
+        "segmented": true,
+        "title": "Impure"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

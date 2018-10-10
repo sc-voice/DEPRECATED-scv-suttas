@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "an3.83",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.83",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fields",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Vajjian",
+      "uid": "an3.84"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Donkey",
+      "uid": "an3.82"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.83:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.83:0.2",
+          "pli": "9. Samaṇavagga",
+          "en": "9. Ascetics"
+        },
+        {
+          "scid": "an3.83:0.3",
+          "pli": "83. Khettasutta",
+          "en": "83. Fields"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.83:1.1",
+          "pli": "“Tīṇimāni, bhikkhave, kassakassa gahapatissa pubbe karaṇīyāni.",
+          "en": "“Mendicants, a farmer has three primary duties."
+        },
+        {
+          "scid": "an3.83:1.2",
+          "pli": "Katamāni tīṇi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.83:1.3",
+          "pli": "Idha, bhikkhave, kassako gahapati paṭikacceva khettaṃ sukaṭṭhaṃ karoti sumatikataṃ.",
+          "en": "A farmer first of all makes sure the field is well ploughed and tilled."
+        },
+        {
+          "scid": "an3.83:1.4",
+          "pli": "Paṭikacceva khettaṃ sukaṭṭhaṃ karitvā sumatikataṃ kālena bījāni patiṭṭhāpeti.",
+          "en": "Next they plant seeds in season."
+        },
+        {
+          "scid": "an3.83:1.5",
+          "pli": "Kālena bījāni patiṭṭhāpetvā samayena udakaṃ abhinetipi apanetipi.",
+          "en": "When the time is right, they irrigate the field and then drain it."
+        },
+        {
+          "scid": "an3.83:1.6",
+          "pli": "Imāni kho, bhikkhave, tīṇi kassakassa gahapatissa pubbe karaṇīyāni.",
+          "en": "These are the three primary duties of a farmer."
+        },
+        {
+          "scid": "an3.83:2.1",
+          "pli": "Evamevaṃ kho, bhikkhave, tīṇimāni bhikkhussa pubbe karaṇīyāni.",
+          "en": "In the same way, a mendicant has three primary duties."
+        },
+        {
+          "scid": "an3.83:2.2",
+          "pli": "Katamāni tīṇi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.83:2.3",
+          "pli": "Adhisīlasikkhāsamādānaṃ, adhicittasikkhāsamādānaṃ, adhipaññāsikkhāsamādānaṃ—",
+          "en": "Undertaking the training in the higher ethics, the higher mind, and the higher wisdom."
+        },
+        {
+          "scid": "an3.83:2.4",
+          "pli": "imāni kho, bhikkhave, tīṇi bhikkhussa pubbe karaṇīyāni.",
+          "en": "These are the three primary duties of a mendicant."
+        },
+        {
+          "scid": "an3.83:3.1",
+          "pli": "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:",
+          "en": "So you should train like this:"
+        },
+        {
+          "scid": "an3.83:3.2",
+          "pli": "‘tibbo no chando bhavissati adhisīlasikkhāsamādāne, tibbo no chando bhavissati adhicittasikkhāsamādāne, tibbo no chando bhavissati adhipaññāsikkhāsamādāne’ti.",
+          "en": "‘We will have keen enthusiasm for undertaking the training in the higher ethics, the higher mind, and the higher wisdom.’"
+        },
+        {
+          "scid": "an3.83:3.3",
+          "pli": "Evañhi vo, bhikkhave, sikkhitabban”ti.",
+          "en": "That’s how you should train.”"
+        },
+        {
+          "scid": "an3.83:3.4",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.83/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.83//AN 3.82",
+    "volpages": "AN i 229",
+    "uid": "an3.83",
+    "blurb": "The duties of a farmer are like those of a mendicant.",
+    "difficulty": null,
+    "original_title": "Khetta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fields",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.83_sujato",
+        "segmented": true,
+        "title": "Fields"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 3
+  }
+}

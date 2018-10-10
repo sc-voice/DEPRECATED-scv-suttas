@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.24",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.24",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Shielding the Mind",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Perfected One",
+      "uid": "sn1.25"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Matted Hair",
+      "uid": "sn1.23"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.24:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.24:0.2",
+          "pli": "3. Sattivagga",
+          "en": "3. A Sword"
+        },
+        {
+          "scid": "sn1.24:0.3",
+          "pli": "24. Manonivāraṇasutta",
+          "en": "24. Shielding the Mind"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.24:1.1",
+          "pli": "“Yato yato mano nivāraye,",
+          "en": "“Whatever you’ve shielded the mind from"
+        },
+        {
+          "scid": "sn1.24:1.2",
+          "pli": "Na dukkhameti naṃ tato tato;",
+          "en": "can’t cause you suffering."
+        },
+        {
+          "scid": "sn1.24:1.3",
+          "pli": "Sa sabbato mano nivāraye,",
+          "en": "So you should shield the mind from everything,"
+        },
+        {
+          "scid": "sn1.24:1.4",
+          "pli": "Sa sabbato dukkhā pamuccatī”ti.",
+          "en": "then you’re freed from all suffering.”"
+        },
+        {
+          "scid": "sn1.24:2.1",
+          "pli": "“Na sabbato mano nivāraye,",
+          "en": "“You needn’t shield the mind from everything."
+        },
+        {
+          "scid": "sn1.24:2.2",
+          "pli": "Na mano saṃyatattamāgataṃ;",
+          "en": "When the mind is under control,"
+        },
+        {
+          "scid": "sn1.24:2.3",
+          "pli": "Yato yato ca pāpakaṃ,",
+          "en": "you need only shield the mind"
+        },
+        {
+          "scid": "sn1.24:2.4",
+          "pli": "Tato tato mano nivāraye”ti.",
+          "en": "from the places where bad things come.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Whatever you’ve shielded the mind from…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.24/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.24//SN 24",
+    "volpages": "SN i 14//SN i 29",
+    "uid": "sn1.24",
+    "blurb": "One should rein in the mind, but only from that which is evil.",
+    "difficulty": null,
+    "original_title": "Manonivāraṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Shielding the Mind",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.24_sujato",
+        "segmented": true,
+        "title": "Shielding the Mind"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.24_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Reining in the Mind"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

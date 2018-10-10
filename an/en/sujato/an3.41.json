@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an3.41",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.41",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Present",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Three Grounds",
+      "uid": "an3.42"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "In Charge",
+      "uid": "an3.40"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.41:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.41:0.2",
+          "pli": "5. Cūḷavagga",
+          "en": "5. The Lesser Chapter"
+        },
+        {
+          "scid": "an3.41:0.3",
+          "pli": "41. Sammukhībhāvasutta",
+          "en": "41. Present"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.41:1.1",
+          "pli": "“Tiṇṇaṃ, bhikkhave, sammukhībhāvā saddho kulaputto bahuṃ puññaṃ pasavati.",
+          "en": "“Mendicants, when three things are present, a faithful person from a good family makes much merit."
+        },
+        {
+          "scid": "an3.41:1.2",
+          "pli": "Katamesaṃ tiṇṇaṃ?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.41:1.3",
+          "pli": "Saddhāya, bhikkhave, sammukhībhāvā saddho kulaputto bahuṃ puññaṃ pasavati.",
+          "en": "When faith is present,"
+        },
+        {
+          "scid": "an3.41:1.4",
+          "pli": "Deyyadhammassa, bhikkhave, sammukhībhāvā saddho kulaputto bahuṃ puññaṃ pasavati.",
+          "en": "when a gift to give is present,"
+        },
+        {
+          "scid": "an3.41:1.5",
+          "pli": "Dakkhiṇeyyānaṃ, bhikkhave, sammukhībhāvā saddho kulaputto bahuṃ puññaṃ pasavati.",
+          "en": "and when those worthy of a teacher’s offering are present."
+        },
+        {
+          "scid": "an3.41:1.6",
+          "pli": "Imesaṃ kho, bhikkhave, tiṇṇaṃ sammukhībhāvā saddho kulaputto bahuṃ puññaṃ pasavatī”ti.",
+          "en": "When these three things are present, a faithful person from a good family makes much merit.”"
+        },
+        {
+          "scid": "an3.41:1.7",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.41/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.41",
+    "volpages": "AN i 150",
+    "uid": "an3.41",
+    "blurb": "Factors in making good karma.",
+    "difficulty": null,
+    "original_title": "Sammukhībhāva Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Present",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.41_sujato",
+        "segmented": true,
+        "title": "Present"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.41_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Present"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

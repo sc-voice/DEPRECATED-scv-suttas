@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.86",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.86",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Sunk Low",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Son",
+      "uid": "an4.87"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "From Darkness to Darkness",
+      "uid": "an4.85"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.86:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.86:0.2",
+          "pli": "9. Macalavagga",
+          "en": "9. Confirmed"
+        },
+        {
+          "scid": "an4.86:0.3",
+          "pli": "86. Oṇatoṇatasutta",
+          "en": "86. Sunk Low"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.86:1.1",
+          "pli": "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“These four people are found in the world."
+        },
+        {
+          "scid": "an4.86:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.86:1.3",
+          "pli": "Oṇatoṇato, oṇatuṇṇato, uṇṇatoṇato, uṇṇatuṇṇato.",
+          "en": "<ol><li>One sunk low who sinks lower, </li><li>one sunk low who rises high, </li><li>one risen high who sinks low, and </li><li>one risen high who rises higher.</li></ol>"
+        },
+        {
+          "scid": "an4.86:1.4",
+          "pli": "… Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "… These are the four people found in the world.”"
+        },
+        {
+          "scid": "an4.86:1.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“These four people are found in the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.86/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.86",
+    "volpages": "AN ii 86",
+    "uid": "an4.86",
+    "blurb": "One sunk low who sinks lower, one sunk low who rises high, one risen high who sinks low, and one risen high who rises higher.",
+    "difficulty": null,
+    "original_title": "Oṇatoṇata Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sunk Low",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.86_sujato",
+        "segmented": true,
+        "title": "Sunk Low"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 6
+  }
+}

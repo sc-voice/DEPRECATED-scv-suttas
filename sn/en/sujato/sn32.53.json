@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn32.53",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn32.53",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Gods of the Cool Clouds",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gods of the Warm Clouds",
+      "uid": "sn32.54"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "How Giving Helps to Become a Warm Cloud God, Etc.",
+      "uid": "sn32.13-52"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn32.53:0.1",
+          "pli": "Saṃyutta Nikāya 32",
+          "en": "Linked Discourses 32"
+        },
+        {
+          "scid": "sn32.53:0.2",
+          "pli": "1. Valāhakavagga",
+          "en": "1. Gods of the Clouds"
+        },
+        {
+          "scid": "sn32.53:0.3",
+          "pli": "53. Sītavalāhakasutta",
+          "en": "53. Gods of the Cool Clouds"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 32…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn32.53:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn32.53:1.2",
+          "pli": "Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Seated to one side, that mendicant said to the Buddha:"
+        },
+        {
+          "scid": "sn32.53:1.3",
+          "pli": "“ko nu kho, bhante, hetu, ko paccayo, yenekadā sītaṃ hotī”ti?",
+          "en": "“Sir, what is the cause, what is the reason why sometimes it becomes cool?”"
+        },
+        {
+          "scid": "sn32.53:1.4",
+          "pli": "“Santi, bhikkhu, sītavalāhakā nāma devā.",
+          "en": "“Mendicant, there are what are called gods of the cool clouds."
+        },
+        {
+          "scid": "sn32.53:1.5",
+          "pli": "Tesaṃ yadā evaṃ hoti:",
+          "en": "Sometimes they think:"
+        },
+        {
+          "scid": "sn32.53:1.6",
+          "pli": "‘yannūna mayaṃ sakāya ratiyā vaseyyāmā’ti, tesaṃ taṃ cetopaṇidhimanvāya sītaṃ hoti.",
+          "en": "‘Why don’t we revel in our own kind of enjoyment?’ Then, in accordance with their wish, it becomes cool."
+        },
+        {
+          "scid": "sn32.53:1.7",
+          "pli": "Ayaṃ kho, bhikkhu, hetu, ayaṃ paccayo, yenekadā sītaṃ hotī”ti.",
+          "en": "This is the cause, this is the reason why sometimes it becomes cool.”"
+        },
+        {
+          "scid": "sn32.53:1.8",
+          "pli": "Tepaññāsamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn32.53/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 32.53",
+    "volpages": "SN iii 256",
+    "uid": "sn32.53",
+    "blurb": "When the cool cloud gods decide to revel in their own element, the weather becomes cool.",
+    "difficulty": null,
+    "original_title": "Sītavalāhaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Gods of the Cool Clouds",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn32.53_sujato",
+        "segmented": true,
+        "title": "Gods of the Cool Clouds"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

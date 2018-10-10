@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an7.91",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.91",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Noble One",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Perfected One",
+      "uid": "an7.92"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Knowledge Master",
+      "uid": "an7.90"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.91:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.91:0.2",
+          "pli": "9. Samaṇavagga",
+          "en": "9. An Ascetic"
+        },
+        {
+          "scid": "an7.91:0.3",
+          "pli": "91. Ariyasutta",
+          "en": "91. A Noble One"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.91:1.1",
+          "pli": "“… Ārakattā ariyo hoti … pe ….",
+          "en": "“Mendicants, it’s because seven foes have been slain that you become a noble one …”"
+        },
+        {
+          "scid": "an7.91:1.2",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.91/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.91",
+    "volpages": "AN iv 145",
+    "uid": "an7.91",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ariya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Noble One",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.91_sujato",
+        "segmented": true,
+        "title": "A Noble One"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

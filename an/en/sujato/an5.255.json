@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an5.255",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.255",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Giving Up Stinginess",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The First Absorption",
+      "uid": "an5.256"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Kinds of Stinginess",
+      "uid": "an5.254"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.255:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.255:0.2",
+          "pli": "26. Upasampadāvagga",
+          "en": "26. Ordination"
+        },
+        {
+          "scid": "an5.255:0.3",
+          "pli": "255. Macchariyappahānasutta",
+          "en": "255. Giving Up Stinginess"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.255:1.1",
+          "pli": "“Pañcannaṃ, bhikkhave, macchariyānaṃ pahānāya samucchedāya brahmacariyaṃ vussati.",
+          "en": "“Mendicants, the spiritual life is lived to give up and cut out these five kinds of stinginess."
+        },
+        {
+          "scid": "an5.255:1.2",
+          "pli": "Katamesaṃ pañcannaṃ?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.255:1.3",
+          "pli": "Āvāsamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati;",
+          "en": "Stinginess with dwellings, families, material possessions, praise, and the teachings."
+        },
+        {
+          "scid": "an5.255:1.4",
+          "pli": "kulamacchariyassa … lābhamacchariyassa … vaṇṇamacchariyassa … dhammamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati.",
+          "en": ""
+        },
+        {
+          "scid": "an5.255:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ macchariyānaṃ pahānāya samucchedāya brahmacariyaṃ vussatī”ti.",
+          "en": "The spiritual life is lived to give up and cut out these five kinds of stinginess.”"
+        },
+        {
+          "scid": "an5.255:1.6",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.255/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.255",
+    "volpages": "AN iii 272",
+    "uid": "an5.255",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Macchariyappahāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Giving Up Stinginess",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.255_sujato",
+        "segmented": true,
+        "title": "Giving Up Stinginess"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an5.255_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Stinginess"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

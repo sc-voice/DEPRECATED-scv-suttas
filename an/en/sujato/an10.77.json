@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an10.77",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.77",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Crow",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jains",
+      "uid": "an10.78"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Three Things",
+      "uid": "an10.76"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.77:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.77:0.2",
+          "pli": "8. Ākaṅkhavagga",
+          "en": "8. If You Want"
+        },
+        {
+          "scid": "an10.77:0.3",
+          "pli": "77. Kākasutta",
+          "en": "77. A Crow"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.77:1.1",
+          "pli": "“Dasahi, bhikkhave, asaddhammehi samannāgato kāko.",
+          "en": "“Mendicants, a crow has ten bad qualities."
+        },
+        {
+          "scid": "an10.77:1.2",
+          "pli": "Katamehi dasahi?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.77:1.3",
+          "pli": "Dhaṃsī ca, pagabbho ca, tintiṇo ca, mahagghaso ca, luddo ca, akāruṇiko ca, dubbalo ca, oravitā ca, muṭṭhassati ca, necayiko ca—",
+          "en": "They’re rude and impudent, gluttonous and voracious, cruel and pitiless, weak and raucous, unmindful and acquisitive."
+        },
+        {
+          "scid": "an10.77:1.4",
+          "pli": "imehi kho, bhikkhave, dasahi asaddhammehi samannāgato kāko.",
+          "en": "A crow has these ten bad qualities."
+        },
+        {
+          "scid": "an10.77:1.5",
+          "pli": "Evamevaṃ kho, bhikkhave, dasahi asaddhammehi samannāgato pāpabhikkhu.",
+          "en": "In the same way, a bad mendicant has these ten bad qualities."
+        },
+        {
+          "scid": "an10.77:1.6",
+          "pli": "Katamehi dasahi?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.77:1.7",
+          "pli": "Dhaṃsī ca, pagabbho ca, tintiṇo ca, mahagghaso ca, luddo ca, akāruṇiko ca, dubbalo ca, oravitā ca, muṭṭhassati ca, necayiko ca—",
+          "en": "They’re rude and impudent, gluttonous and voracious, cruel and pitiless, weak and raucous, unmindful and acquisitive."
+        },
+        {
+          "scid": "an10.77:1.8",
+          "pli": "imehi kho, bhikkhave, dasahi asaddhammehi samannāgato pāpabhikkhū”ti.",
+          "en": "A bad mendicant has these ten bad qualities.”"
+        },
+        {
+          "scid": "an10.77:1.9",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.77/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.77",
+    "volpages": "AN v 149",
+    "uid": "an10.77",
+    "blurb": "A bad monk has ten bad qualities, like a crow.",
+    "difficulty": null,
+    "original_title": "Kāka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Crow",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.77_sujato",
+        "segmented": true,
+        "title": "A Crow"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

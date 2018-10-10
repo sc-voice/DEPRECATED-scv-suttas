@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn56.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Knowledge",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "sn56.19"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ignorance",
+      "uid": "sn56.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.18:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.18:0.2",
+          "pli": "2. Dhammacakkappavattanavagga",
+          "en": "2. Rolling Forth the Wheel of Dhamma"
+        },
+        {
+          "scid": "sn56.18:0.3",
+          "pli": "18. Vijjāsutta",
+          "en": "18. Knowledge"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.18:1.1",
+          "pli": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "sn56.18:1.2",
+          "pli": "“‘vijjā, vijjā’ti, bhante, vuccati.",
+          "en": "“Sir, they speak of this thing called ‘knowledge’."
+        },
+        {
+          "scid": "sn56.18:1.3",
+          "pli": "Katamā nu kho, bhante, vijjā;",
+          "en": "What is knowledge?"
+        },
+        {
+          "scid": "sn56.18:1.4",
+          "pli": "kittāvatā ca vijjāgato hotī”ti?",
+          "en": "And how is a knowledgeable person defined?”"
+        },
+        {
+          "scid": "sn56.18:1.5",
+          "pli": "“Yaṃ kho, bhikkhu, dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ—",
+          "en": "“Knowing about suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering."
+        },
+        {
+          "scid": "sn56.18:1.6",
+          "pli": "ayaṃ vuccati, bhikkhu, vijjā;",
+          "en": "This is called knowledge."
+        },
+        {
+          "scid": "sn56.18:1.7",
+          "pli": "ettāvatā ca vijjāgato hotīti.",
+          "en": "And this is how a knowledgeable person is defined."
+        },
+        {
+          "scid": "sn56.18:2.1",
+          "pli": "Tasmātiha, bhikkhu, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.18:2.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then a mendicant went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.18",
+    "volpages": "SN v 429",
+    "uid": "sn56.18",
+    "blurb": "Understanding is knowing the four noble truths.",
+    "difficulty": null,
+    "original_title": "Vijjā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Knowledge",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.18_sujato",
+        "segmented": true,
+        "title": "Knowledge"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.18_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "True Knowledge"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

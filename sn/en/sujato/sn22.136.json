@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn22.136",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.136",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Burning Chaff",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Impermanence",
+      "uid": "sn22.137"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Koṭṭhita (3rd)",
+      "uid": "sn22.135"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.136:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.136:0.2",
+          "pli": "14. Kukkuḷavagga",
+          "en": "14. Burning Chaff"
+        },
+        {
+          "scid": "sn22.136:0.3",
+          "pli": "136. Kukkuḷasutta",
+          "en": "136. Burning Chaff"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.136:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.136:1.2",
+          "pli": "“Rūpaṃ, bhikkhave, kukkuḷaṃ, vedanā kukkuḷā, saññā kukkuḷā, saṅkhārā kukkuḷā, viññāṇaṃ kukkuḷaṃ.",
+          "en": "“Mendicants, form, feeling, perception, choices, and consciousness are burning chaff."
+        },
+        {
+          "scid": "sn22.136:1.3",
+          "pli": "Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati.",
+          "en": "Seeing this, a learned noble disciple becomes disillusioned with form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "sn22.136:1.4",
+          "pli": "Nibbindaṃ virajjati; virāgā vimuccati. Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.",
+          "en": "Being disillusioned they become dispassionate. Being dispassionate they’re freed. When freed, they know ‘it is freed’."
+        },
+        {
+          "scid": "sn22.136:1.5",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’”"
+        },
+        {
+          "scid": "sn22.136:1.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.136/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.136",
+    "volpages": "SN iii 177",
+    "uid": "sn22.136",
+    "blurb": "The aggregates are like hot coals.",
+    "difficulty": null,
+    "original_title": "Kukkuḷa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Burning Chaff",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.136_sujato",
+        "segmented": true,
+        "title": "Burning Chaff"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

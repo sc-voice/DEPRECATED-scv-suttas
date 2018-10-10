@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.14",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.14",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Aristocrats",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Whispering",
+      "uid": "sn1.15"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nothing Equals a Child",
+      "uid": "sn1.13"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.14:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.14:0.2",
+          "pli": "2. Nandanavagga",
+          "en": "2. The Garden of Delight"
+        },
+        {
+          "scid": "sn1.14:0.3",
+          "pli": "14. Khattiyasutta",
+          "en": "14. Aristocrats"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.14:1.1",
+          "pli": "“Khattiyo dvipadaṃ seṭṭho,",
+          "en": "“An aristocrat is the best of bipeds,"
+        },
+        {
+          "scid": "sn1.14:1.2",
+          "pli": "balībaddo catuppadaṃ;",
+          "en": "an ox is the best of quadrupeds,"
+        },
+        {
+          "scid": "sn1.14:1.3",
+          "pli": "Komārī seṭṭhā bhariyānaṃ,",
+          "en": "a maiden is the best of wives,"
+        },
+        {
+          "scid": "sn1.14:1.4",
+          "pli": "yo ca puttāna pubbajo”ti.",
+          "en": "and a first-born the best of sons.”"
+        },
+        {
+          "scid": "sn1.14:2.1",
+          "pli": "“Sambuddho dvipadaṃ seṭṭho,",
+          "en": "“A Buddha is the best of bipeds,"
+        },
+        {
+          "scid": "sn1.14:2.2",
+          "pli": "ājānīyo catuppadaṃ;",
+          "en": "a thoroughbred is the best of quadrupeds,"
+        },
+        {
+          "scid": "sn1.14:2.3",
+          "pli": "Sussūsā seṭṭhā bhariyānaṃ,",
+          "en": "a good listener is the best of wives,"
+        },
+        {
+          "scid": "sn1.14:2.4",
+          "pli": "yo ca puttānamassavo”ti.",
+          "en": "and the best of sons is loyal.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“An aristocrat is the best of bipeds…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.14/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.14//SN 14",
+    "volpages": "SN i 6//SN i 13",
+    "uid": "sn1.14",
+    "blurb": "A god’s worldly values are improved by the Buddha’s version.",
+    "difficulty": null,
+    "original_title": "Khattiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Aristocrats",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.14_sujato",
+        "segmented": true,
+        "title": "Aristocrats"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.14_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Khattiya"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

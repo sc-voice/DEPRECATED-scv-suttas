@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn52.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn52.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Where All Paths of Practice Lead",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Diverse Elements",
+      "uid": "sn52.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "sn52.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn52.17:0.1",
+          "pli": "Saṃyutta Nikāya 52",
+          "en": "Linked Discourses 52"
+        },
+        {
+          "scid": "sn52.17:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. A Thousand"
+        },
+        {
+          "scid": "sn52.17:0.3",
+          "pli": "17. Sabbatthagāminisutta",
+          "en": "17. Where All Paths of Practice Lead"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 52…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn52.17:1.1",
+          "pli": "“Imesañca panāhaṃ, āvuso, catunnaṃ satipaṭṭhānānaṃ bhāvitattā bahulīkatattā sabbatthagāminippaṭipadaṃ yathābhūtaṃ pajānāmī”ti.",
+          "en": "“… And it’s because of developing and cultivating these four kinds of mindfulness meditation that I truly understand where all paths of practice lead.”"
+        },
+        {
+          "scid": "sn52.17:1.2",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… And it’s because of developing and…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn52.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 52.17",
+    "volpages": "SN v 304",
+    "uid": "sn52.17",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sabbatthagāmini Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Where All Paths of Practice Lead",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn52.17_sujato",
+        "segmented": true,
+        "title": "Where All Paths of Practice Lead"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 7
+  }
+}

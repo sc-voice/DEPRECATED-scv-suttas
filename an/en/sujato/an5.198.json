@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an5.198",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.198",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Well-Spoken Words",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Families",
+      "uid": "an5.199"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Obtacles to Rain",
+      "uid": "an5.197"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.198:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.198:0.2",
+          "pli": "20. Brāhmaṇavagga",
+          "en": "20. Brahmins"
+        },
+        {
+          "scid": "an5.198:0.3",
+          "pli": "198. Vācāsutta",
+          "en": "198. Well-Spoken Words"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.198:1.1",
+          "pli": "“Pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ.",
+          "en": "“Mendicants, speech that has five factors is well spoken, not poorly spoken. It’s blameless and is not criticized by sensible people."
+        },
+        {
+          "scid": "an5.198:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.198:1.3",
+          "pli": "Kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, atthasaṃhitā ca bhāsitā hoti, mettacittena ca bhāsitā hoti.",
+          "en": "It is speech that is timely, true, gentle, beneficial, and loving."
+        },
+        {
+          "scid": "an5.198:1.4",
+          "pli": "Imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan”ti.",
+          "en": "Speech with these five factors is well spoken, not poorly spoken. It’s blameless and is not criticized by sensible people.”"
+        },
+        {
+          "scid": "an5.198:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.198/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.198",
+    "volpages": "AN iii 243",
+    "uid": "an5.198",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vācā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Well-Spoken Words",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.198_sujato",
+        "segmented": true,
+        "title": "Well-Spoken Words"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an5.198_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Statement"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

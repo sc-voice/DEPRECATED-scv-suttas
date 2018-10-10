@@ -1,0 +1,860 @@
+{
+  "sutta_uid": "sn22.79",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.79",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Itchy",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Beggars",
+      "uid": "sn22.80"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Lion",
+      "uid": "sn22.78"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.79:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.79:0.2",
+          "pli": "8. Khajjanīyavagga",
+          "en": "8. Itchy"
+        },
+        {
+          "scid": "sn22.79:0.3",
+          "pli": "79. Khajjanīyasutta",
+          "en": "79. Itchy"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.79:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.79:1.2",
+          "pli": "“Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā anekavihitaṃ pubbenivāsaṃ anussaramānā anussaranti sabbete pañcupādānakkhandhe anussaranti etesaṃ vā aññataraṃ.",
+          "en": "“Mendicants, whatever ascetics and brahmins recollect many kinds of past lives, all recollect the five grasping aggregates, or one of them."
+        },
+        {
+          "scid": "sn22.79:1.3",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn22.79:1.4",
+          "pli": "‘Evaṃrūpo ahosiṃ atītamaddhānan’ti—",
+          "en": "‘I had such form in the past.’"
+        },
+        {
+          "scid": "sn22.79:1.5",
+          "pli": "iti vā hi, bhikkhave, anussaramāno rūpaṃyeva anussarati.",
+          "en": "Recollecting thus, it’s only form that they recollect."
+        },
+        {
+          "scid": "sn22.79:1.6",
+          "pli": "‘Evaṃvedano ahosiṃ atītamaddhānan’ti—",
+          "en": "‘I had such feeling …"
+        },
+        {
+          "scid": "sn22.79:1.7",
+          "pli": "iti vā hi, bhikkhave, anussaramāno vedanaṃyeva anussarati.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:1.8",
+          "pli": "‘Evaṃsañño ahosiṃ atītamaddhānan’ti …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:1.9",
+          "pli": "‘evaṃsaṅkhāro ahosiṃ atītamaddhānan’ti …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:1.10",
+          "pli": "‘evaṃviññāṇo ahosiṃ atītamaddhānan’ti—",
+          "en": "consciousness in the past.’"
+        },
+        {
+          "scid": "sn22.79:1.11",
+          "pli": "iti vā hi, bhikkhave, anussaramāno viññāṇameva anussarati.",
+          "en": "Recollecting thus, it’s only consciousness that they recollect."
+        },
+        {
+          "scid": "sn22.79:2.1",
+          "pli": "Kiñca, bhikkhave, rūpaṃ vadetha?",
+          "en": "And why do you call it form?"
+        },
+        {
+          "scid": "sn22.79:2.2",
+          "pli": "Ruppatīti kho, bhikkhave, tasmā ‘rūpan’ti vuccati.",
+          "en": "It’s deformed; that’s why it’s called ‘form’."
+        },
+        {
+          "scid": "sn22.79:2.3",
+          "pli": "Kena ruppati?",
+          "en": "Deformed by what?"
+        },
+        {
+          "scid": "sn22.79:2.4",
+          "pli": "Sītenapi ruppati, uṇhenapi ruppati, jighacchāyapi ruppati, pipāsāyapi ruppati, ḍaṃsamakasavātātapasarīsapasamphassenapi ruppati.",
+          "en": "Deformed by cold, heat, hunger, and thirst, and deformed by the touch of flies, mosquitoes, wind, sun, and reptiles."
+        },
+        {
+          "scid": "sn22.79:2.5",
+          "pli": "Ruppatīti kho, bhikkhave, tasmā ‘rūpan’ti vuccati.",
+          "en": "It’s deformed; that’s why it’s called ‘form’."
+        },
+        {
+          "scid": "sn22.79:3.1",
+          "pli": "Kiñca, bhikkhave, vedanaṃ vadetha?",
+          "en": "And why do you call it feeling?"
+        },
+        {
+          "scid": "sn22.79:3.2",
+          "pli": "Vedayatīti kho, bhikkhave, tasmā ‘vedanā’ti vuccati.",
+          "en": "It feels; that’s why it’s called ‘feeling’."
+        },
+        {
+          "scid": "sn22.79:3.3",
+          "pli": "Kiñca vedayati?",
+          "en": "And what does it feel?"
+        },
+        {
+          "scid": "sn22.79:3.4",
+          "pli": "Sukhampi vedayati, dukkhampi vedayati, adukkhamasukhampi vedayati.",
+          "en": "It feels pleasure, pain, and neutral."
+        },
+        {
+          "scid": "sn22.79:3.5",
+          "pli": "Vedayatīti kho, bhikkhave, tasmā ‘vedanā’ti vuccati.",
+          "en": "It feels; that’s why it’s called ‘feeling’."
+        },
+        {
+          "scid": "sn22.79:4.1",
+          "pli": "Kiñca, bhikkhave, saññaṃ vadetha?",
+          "en": "And why do you call it perception?"
+        },
+        {
+          "scid": "sn22.79:4.2",
+          "pli": "Sañjānātīti kho, bhikkhave, tasmā ‘saññā’ti vuccati.",
+          "en": "It perceives; that’s why it’s called ‘perception’."
+        },
+        {
+          "scid": "sn22.79:4.3",
+          "pli": "Kiñca sañjānāti?",
+          "en": "And what does it perceive?"
+        },
+        {
+          "scid": "sn22.79:4.4",
+          "pli": "Nīlampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti.",
+          "en": "It perceives blue, yellow, red, and white."
+        },
+        {
+          "scid": "sn22.79:4.5",
+          "pli": "Sañjānātīti kho, bhikkhave, tasmā ‘saññā’ti vuccati.",
+          "en": "It perceives; that’s why it’s called ‘perception’."
+        },
+        {
+          "scid": "sn22.79:5.1",
+          "pli": "Kiñca, bhikkhave, saṅkhāre vadetha?",
+          "en": "And why do you call them choices?"
+        },
+        {
+          "scid": "sn22.79:5.2",
+          "pli": "Saṅkhatamabhisaṅkharontīti kho, bhikkhave, tasmā ‘saṅkhārā’ti vuccati.",
+          "en": "Choices produce conditioned phenomena; that’s why they’re called ‘choices’."
+        },
+        {
+          "scid": "sn22.79:5.3",
+          "pli": "Kiñca saṅkhatamabhisaṅkharonti?",
+          "en": "And what are the conditioned phenomena that they produce?"
+        },
+        {
+          "scid": "sn22.79:5.4",
+          "pli": "Rūpaṃ rūpattāya saṅkhatamabhisaṅkharonti, vedanaṃ vedanattāya saṅkhatamabhisaṅkharonti, saññaṃ saññattāya saṅkhatamabhisaṅkharonti, saṅkhāre saṅkhārattāya saṅkhatamabhisaṅkharonti, viññāṇaṃ viññāṇattāya saṅkhatamabhisaṅkharonti.",
+          "en": "Form is a conditioned phenomenon; choices are what make it into form. Feeling is a conditioned phenomenon; choices are what make it into feeling. Perception is a conditioned phenomenon; choices are what make it into perception. Choices are conditioned phenomena; choices are what make them into choices. Consciousness is a conditioned phenomenon; choices are what make it into consciousness."
+        },
+        {
+          "scid": "sn22.79:5.5",
+          "pli": "Saṅkhatamabhisaṅkharontīti kho, bhikkhave, tasmā ‘saṅkhārā’ti vuccati.",
+          "en": "Choices produce conditioned phenomena; that’s why they’re called ‘choices’."
+        },
+        {
+          "scid": "sn22.79:6.1",
+          "pli": "Kiñca, bhikkhave, viññāṇaṃ vadetha?",
+          "en": "And why do you call it consciousness?"
+        },
+        {
+          "scid": "sn22.79:6.2",
+          "pli": "Vijānātīti kho, bhikkhave, tasmā ‘viññāṇan’ti vuccati.",
+          "en": "It cognizes; that’s why it’s called ‘consciousness’."
+        },
+        {
+          "scid": "sn22.79:6.3",
+          "pli": "Kiñca vijānāti?",
+          "en": "And what does it cognize?"
+        },
+        {
+          "scid": "sn22.79:6.4",
+          "pli": "Ambilampi vijānāti, tittakampi vijānāti, kaṭukampi vijānāti, madhurampi vijānāti, khārikampi vijānāti, akhārikampi vijānāti, loṇikampi vijānāti, aloṇikampi vijānāti.",
+          "en": "It cognizes sour, bitter, pungent, sweet, hot, mild, salty, and bland."
+        },
+        {
+          "scid": "sn22.79:6.5",
+          "pli": "Vijānātīti kho, bhikkhave, tasmā ‘viññāṇan’ti vuccati.",
+          "en": "It cognizes; that’s why it’s called ‘consciousness’."
+        },
+        {
+          "scid": "sn22.79:7.1",
+          "pli": "Tatra, bhikkhave, sutavā ariyasāvako iti paṭisañcikkhati:",
+          "en": "A noble disciple reflects on this:"
+        },
+        {
+          "scid": "sn22.79:7.2",
+          "pli": "‘ahaṃ kho etarahi rūpena khajjāmi.",
+          "en": "‘Currently I’m itched by form."
+        },
+        {
+          "scid": "sn22.79:7.3",
+          "pli": "Atītampāhaṃ addhānaṃ evameva rūpena khajjiṃ, seyyathāpi etarahi paccuppannena rūpena khajjāmi.",
+          "en": "In the past I was also itched by form just like now."
+        },
+        {
+          "scid": "sn22.79:7.4",
+          "pli": "Ahañceva kho pana anāgataṃ rūpaṃ abhinandeyyaṃ, anāgatampāhaṃ addhānaṃ evameva rūpena khajjeyyaṃ, seyyathāpi etarahi paccuppannena rūpena khajjāmī’ti.",
+          "en": "If I were to look forward to enjoying form in the future, I’d be itched by form in the future just as I am today.’"
+        },
+        {
+          "scid": "sn22.79:7.5",
+          "pli": "So iti paṭisaṅkhāya atītasmiṃ rūpasmiṃ anapekkho hoti;",
+          "en": "Reflecting like this they don’t worry about past form,"
+        },
+        {
+          "scid": "sn22.79:7.6",
+          "pli": "anāgataṃ rūpaṃ nābhinandati;",
+          "en": "they don’t look forward to enjoying future form,"
+        },
+        {
+          "scid": "sn22.79:7.7",
+          "pli": "paccuppannassa rūpassa nibbidāya virāgāya nirodhāya paṭipanno hoti.",
+          "en": "and they practice for the disillusionment, fading away, and cessation of present form."
+        },
+        {
+          "scid": "sn22.79:8.1",
+          "pli": "‘Ahaṃ kho etarahi vedanāya khajjāmi.",
+          "en": "‘Currently I’m itched by feeling …"
+        },
+        {
+          "scid": "sn22.79:8.2",
+          "pli": "Atītampāhaṃ addhānaṃ evameva vedanāya khajjiṃ, seyyathāpi etarahi paccuppannāya vedanāya khajjāmi.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:8.3",
+          "pli": "Ahañceva kho pana anāgataṃ vedanaṃ abhinandeyyaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:8.4",
+          "pli": "anāgatampāhaṃ addhānaṃ evameva vedanāya khajjeyyaṃ, seyyathāpi etarahi paccuppannāya vedanāya khajjāmī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:8.5",
+          "pli": "So iti paṭisaṅkhāya atītāya vedanāya anapekkho hoti;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:8.6",
+          "pli": "anāgataṃ vedanaṃ nābhinandati;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:8.7",
+          "pli": "paccuppannāya vedanāya nibbidāya virāgāya nirodhāya paṭipanno hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:9.1",
+          "pli": "‘Ahaṃ kho etarahi saññāya khajjāmi … pe …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:9.2",
+          "pli": "ahaṃ kho etarahi saṅkhārehi khajjāmi.",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:9.3",
+          "pli": "Atītampāhaṃ addhānaṃ evameva saṅkhārehi khajjiṃ, seyyathāpi etarahi paccuppannehi saṅkhārehi khajjāmīti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:9.4",
+          "pli": "Ahañceva kho pana anāgate saṅkhāre abhinandeyyaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:9.5",
+          "pli": "anāgatampāhaṃ addhānaṃ evameva saṅkhārehi khajjeyyaṃ, seyyathāpi etarahi paccuppannehi saṅkhārehi khajjāmī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:9.6",
+          "pli": "So iti paṭisaṅkhāya atītesu saṅkhāresu anapekkho hoti;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:9.7",
+          "pli": "anāgate saṅkhāre nābhinandati;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:9.8",
+          "pli": "paccuppannānaṃ saṅkhārānaṃ nibbidāya virāgāya nirodhāya paṭipanno hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:10.1",
+          "pli": "‘Ahaṃ kho etarahi viññāṇena khajjāmi.",
+          "en": "consciousness."
+        },
+        {
+          "scid": "sn22.79:10.2",
+          "pli": "Atītampi addhānaṃ evameva viññāṇena khajjiṃ, seyyathāpi etarahi paccuppannena viññāṇena khajjāmi.",
+          "en": "In the past I was also itched by consciousness just like now."
+        },
+        {
+          "scid": "sn22.79:10.3",
+          "pli": "Ahañceva kho pana anāgataṃ viññāṇaṃ abhinandeyyaṃ;",
+          "en": "If I were to look forward to enjoying consciousness in the future, I’d be itched by consciousness in the future just as I am today.’"
+        },
+        {
+          "scid": "sn22.79:10.4",
+          "pli": "anāgatampāhaṃ addhānaṃ evameva viññāṇena khajjeyyaṃ, seyyathāpi etarahi paccuppannena viññāṇena khajjāmī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.79:10.5",
+          "pli": "So iti paṭisaṅkhāya atītasmiṃ viññāṇasmiṃ anapekkho hoti;",
+          "en": "Reflecting like this they don’t worry about past consciousness,"
+        },
+        {
+          "scid": "sn22.79:10.6",
+          "pli": "anāgataṃ viññāṇaṃ nābhinandati;",
+          "en": "they don’t look forward to enjoying future consciousness,"
+        },
+        {
+          "scid": "sn22.79:10.7",
+          "pli": "paccuppannassa viññāṇassa nibbidāya virāgāya nirodhāya paṭipanno hoti.",
+          "en": "and they practice for the disillusionment, fading away, and cessation of present consciousness."
+        },
+        {
+          "scid": "sn22.79:11.1",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "sn22.79:11.2",
+          "pli": "rūpaṃ niccaṃ vā aniccaṃ vā”ti?",
+          "en": "Is form permanent or impermanent?”"
+        },
+        {
+          "scid": "sn22.79:11.3",
+          "pli": "“Aniccaṃ, bhante”.",
+          "en": "“Impermanent, sir.”"
+        },
+        {
+          "scid": "sn22.79:11.4",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?",
+          "en": "“But if it’s impermanent, is it suffering or happiness?”"
+        },
+        {
+          "scid": "sn22.79:11.5",
+          "pli": "“Dukkhaṃ, bhante”.",
+          "en": "“Suffering, sir.”"
+        },
+        {
+          "scid": "sn22.79:11.6",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:",
+          "en": "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus:"
+        },
+        {
+          "scid": "sn22.79:11.7",
+          "pli": "‘etaṃ mama, esohamasmi, eso me attā’”ti?",
+          "en": "‘This is mine, I am this, this is my self’?”"
+        },
+        {
+          "scid": "sn22.79:11.8",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn22.79:11.9",
+          "pli": "“Vedanā …",
+          "en": "“Is feeling …"
+        },
+        {
+          "scid": "sn22.79:11.10",
+          "pli": "saññā …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:11.11",
+          "pli": "saṅkhārā …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:11.12",
+          "pli": "viññāṇaṃ niccaṃ vā aniccaṃ vā”ti?",
+          "en": "consciousness permanent or impermanent?”"
+        },
+        {
+          "scid": "sn22.79:11.13",
+          "pli": "“Aniccaṃ, bhante”.",
+          "en": "“Impermanent, sir.”"
+        },
+        {
+          "scid": "sn22.79:11.14",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?",
+          "en": "“But if it’s impermanent, is it suffering or happiness?”"
+        },
+        {
+          "scid": "sn22.79:11.15",
+          "pli": "“Dukkhaṃ, bhante”.",
+          "en": "“Suffering, sir.”"
+        },
+        {
+          "scid": "sn22.79:11.16",
+          "pli": "“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:",
+          "en": "“But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus:"
+        },
+        {
+          "scid": "sn22.79:11.17",
+          "pli": "‘etaṃ mama, esohamasmi, eso me attā’”ti?",
+          "en": "‘This is mine, I am this, this is my self’?”"
+        },
+        {
+          "scid": "sn22.79:11.18",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "sn22.79:11.19",
+          "pli": "“Tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ: ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "“So you should truly see any kind of form at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "sn22.79:11.20",
+          "pli": "Yā kāci vedanā …",
+          "en": "You should truly see any kind of feeling …"
+        },
+        {
+          "scid": "sn22.79:11.21",
+          "pli": "yā kāci saññā …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:11.22",
+          "pli": "ye keci saṅkhārā …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:11.23",
+          "pli": "yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ … pe … yaṃ dūre santike vā, sabbaṃ viññāṇaṃ: ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "consciousness at all—past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "sn22.79:12.1",
+          "pli": "Ayaṃ vuccati, bhikkhave, ariyasāvako apacināti, no ācināti;",
+          "en": "This is called a noble disciple who gets rid of things and doesn’t accumulate them;"
+        },
+        {
+          "scid": "sn22.79:12.2",
+          "pli": "pajahati, na upādiyati;",
+          "en": "who gives things up and doesn’t grasp at them;"
+        },
+        {
+          "scid": "sn22.79:12.3",
+          "pli": "visineti, na ussineti;",
+          "en": "who discards things and doesn’t amass them;"
+        },
+        {
+          "scid": "sn22.79:12.4",
+          "pli": "vidhūpeti, na sandhūpeti.",
+          "en": "who dissipates things and doesn’t get clouded by them."
+        },
+        {
+          "scid": "sn22.79:12.5",
+          "pli": "Kiñca apacināti, no ācināti?",
+          "en": "And what things do they get rid of and not accumulate?"
+        },
+        {
+          "scid": "sn22.79:12.6",
+          "pli": "Rūpaṃ apacināti, no ācināti;",
+          "en": "They get rid of form and don’t accumulate it."
+        },
+        {
+          "scid": "sn22.79:12.7",
+          "pli": "vedanaṃ …",
+          "en": "They get rid of feeling …"
+        },
+        {
+          "scid": "sn22.79:12.8",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:12.9",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:12.10",
+          "pli": "viññāṇaṃ apacināti, no ācināti.",
+          "en": "consciousness and don’t accumulate it."
+        },
+        {
+          "scid": "sn22.79:12.11",
+          "pli": "Kiñca pajahati, na upādiyati?",
+          "en": "And what things do they give up and not grasp?"
+        },
+        {
+          "scid": "sn22.79:12.12",
+          "pli": "Rūpaṃ pajahati, na upādiyati;",
+          "en": "They give up form and don’t grasp it."
+        },
+        {
+          "scid": "sn22.79:12.13",
+          "pli": "vedanaṃ …",
+          "en": "They give up feeling …"
+        },
+        {
+          "scid": "sn22.79:12.14",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:12.15",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:12.16",
+          "pli": "viññāṇaṃ pajahati, na upādiyati.",
+          "en": "consciousness and don’t grasp it."
+        },
+        {
+          "scid": "sn22.79:12.17",
+          "pli": "Kiñca visineti, na ussineti?",
+          "en": "And what things do they discard and not amass?"
+        },
+        {
+          "scid": "sn22.79:12.18",
+          "pli": "Rūpaṃ visineti, na ussineti;",
+          "en": "They discard form and don’t amass it."
+        },
+        {
+          "scid": "sn22.79:12.19",
+          "pli": "vedanaṃ …",
+          "en": "They discard feeling …"
+        },
+        {
+          "scid": "sn22.79:12.20",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:12.21",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:12.22",
+          "pli": "viññāṇaṃ visineti, na ussineti.",
+          "en": "consciousness and don’t amass it."
+        },
+        {
+          "scid": "sn22.79:12.23",
+          "pli": "Kiñca vidhūpeti, na sandhūpeti?",
+          "en": "And what things do they dissipate and not get clouded by?"
+        },
+        {
+          "scid": "sn22.79:12.24",
+          "pli": "Rūpaṃ vidhūpeti, na sandhūpeti;",
+          "en": "They dissipate form and don’t get clouded by it."
+        },
+        {
+          "scid": "sn22.79:12.25",
+          "pli": "vedanaṃ …",
+          "en": "They dissipate feeling …"
+        },
+        {
+          "scid": "sn22.79:12.26",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:12.27",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:12.28",
+          "pli": "viññāṇaṃ vidhūpeti, na sandhūpeti.",
+          "en": "consciousness and don’t get clouded by it."
+        },
+        {
+          "scid": "sn22.79:13.1",
+          "pli": "Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi … saññāyapi … saṅkhāresupi … viññāṇasmimpi nibbindati.",
+          "en": "Seeing this, a learned noble disciple becomes disillusioned with form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "sn22.79:13.2",
+          "pli": "Nibbindaṃ virajjati; virāgā vimuccati. Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.",
+          "en": "Being disillusioned they become dispassionate. Being dispassionate they’re freed. When freed, they know ‘it is freed’."
+        },
+        {
+          "scid": "sn22.79:13.3",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’"
+        },
+        {
+          "scid": "sn22.79:14.1",
+          "pli": "Ayaṃ vuccati, bhikkhave, bhikkhu nevācināti na apacināti, apacinitvā ṭhito; neva pajahati na upādiyati, pajahitvā ṭhito; neva visineti na ussineti, visinetvā ṭhito; neva vidhūpeti na sandhūpeti vidhūpetvā ṭhito",
+          "en": "This is called a mendicant who neither gets rid of things nor accumulates them, but remains after getting rid of them. They neither give things up nor grasp them, but remain after giving them up. They neither discard things nor amass them, but remain after discarding them. They neither dissipate things nor get clouded by them, but remain after dissipating them."
+        },
+        {
+          "scid": "sn22.79:14.2",
+          "pli": "Kiñca nevācināti na apacināti, apacinitvā ṭhito?",
+          "en": "And what things do they neither get rid of nor accumulate, but remain after getting rid of them?"
+        },
+        {
+          "scid": "sn22.79:14.3",
+          "pli": "Rūpaṃ nevācināti na apacināti, apacinitvā ṭhito;",
+          "en": "They neither get rid of nor accumulate form, but remain after getting rid of it."
+        },
+        {
+          "scid": "sn22.79:14.4",
+          "pli": "vedanaṃ …",
+          "en": "They neither get rid of nor accumulate feeling …"
+        },
+        {
+          "scid": "sn22.79:14.5",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:14.6",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:14.7",
+          "pli": "viññāṇaṃ nevācināti na apacināti, apacinitvā ṭhito.",
+          "en": "consciousness, but remain after getting rid of it."
+        },
+        {
+          "scid": "sn22.79:14.8",
+          "pli": "Kiñca neva pajahati na upādiyati, pajahitvā ṭhito?",
+          "en": "And what things do they neither give up nor grasp, but remain after giving them up?"
+        },
+        {
+          "scid": "sn22.79:14.9",
+          "pli": "Rūpaṃ neva pajahati na upādiyati, pajahitvā ṭhito;",
+          "en": "They neither give up nor grasp form, but remain after giving it up."
+        },
+        {
+          "scid": "sn22.79:14.10",
+          "pli": "vedanaṃ …",
+          "en": "They neither give up nor grasp feeling …"
+        },
+        {
+          "scid": "sn22.79:14.11",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:14.12",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:14.13",
+          "pli": "viññāṇaṃ neva pajahati na upādiyati, pajahitvā ṭhito.",
+          "en": "consciousness, but remain after giving it up."
+        },
+        {
+          "scid": "sn22.79:14.14",
+          "pli": "Kiñca neva visineti na ussineti, visinetvā ṭhito?",
+          "en": "And what things do they neither discard nor amass, but remain after discarding them?"
+        },
+        {
+          "scid": "sn22.79:14.15",
+          "pli": "Rūpaṃ neva visineti na ussineti, visinetvā ṭhito;",
+          "en": "They neither discard nor amass form, but remain after discarding it."
+        },
+        {
+          "scid": "sn22.79:14.16",
+          "pli": "vedanaṃ …",
+          "en": "They neither discard nor amass feeling …"
+        },
+        {
+          "scid": "sn22.79:14.17",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:14.18",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:14.19",
+          "pli": "viññāṇaṃ neva visineti na ussineti, visinetvā ṭhito.",
+          "en": "consciousness, but remain after discarding it."
+        },
+        {
+          "scid": "sn22.79:14.20",
+          "pli": "Kiñca neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito?",
+          "en": "And what things do they neither dissipate nor get clouded by, but remain after dissipating them?"
+        },
+        {
+          "scid": "sn22.79:14.21",
+          "pli": "Rūpaṃ neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito;",
+          "en": "They neither dissipate nor get clouded by form, but remain after dissipating it."
+        },
+        {
+          "scid": "sn22.79:14.22",
+          "pli": "vedanaṃ …",
+          "en": "They neither dissipate nor get clouded by feeling …"
+        },
+        {
+          "scid": "sn22.79:14.23",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.79:14.24",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.79:14.25",
+          "pli": "viññāṇaṃ neva vidhūpeti na sandhūpeti, vidhūpetvā ṭhito.",
+          "en": "consciousness, but remain after dissipating it."
+        },
+        {
+          "scid": "sn22.79:14.26",
+          "pli": "Evaṃvimuttacittaṃ kho, bhikkhave, bhikkhuṃ saindā devā sabrahmakā sapajāpatikā ārakāva namassanti:",
+          "en": "When a mendicant’s mind is freed like this, the gods together with Indra, Brahmā, and Pajāpati worship them from afar:"
+        },
+        {
+          "scid": "sn22.79:15.1",
+          "pli": "‘Namo te purisājañña,",
+          "en": "‘Homage to you, O thoroughbred person!"
+        },
+        {
+          "scid": "sn22.79:15.2",
+          "pli": "namo te purisuttama;",
+          "en": "Homage to you, O highest of persons!"
+        },
+        {
+          "scid": "sn22.79:15.3",
+          "pli": "Yassa te nābhijānāma,",
+          "en": "We don’t understand"
+        },
+        {
+          "scid": "sn22.79:15.4",
+          "pli": "yampi nissāya jhāyasī’”ti.",
+          "en": "what you meditate dependent on.’”"
+        },
+        {
+          "scid": "sn22.79:15.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.79/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.79",
+    "volpages": "SN iii 86",
+    "uid": "sn22.79",
+    "blurb": "One of the most extensive discourses in this collection begins with the Buddha saying that when anyone recollects a past life, all they are recollecting is the five aggregates. He then gives a distinctive set of definitions of the aggregates in terms of their functions, and discusses them from various aspects.",
+    "difficulty": null,
+    "original_title": "Khajjanīya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Itchy",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.79_sujato",
+        "segmented": true,
+        "title": "Itchy"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.79_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Being Devoured"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

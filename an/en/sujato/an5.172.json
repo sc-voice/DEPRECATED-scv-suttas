@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.172",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.172",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Assured",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hell",
+      "uid": "an5.173"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Timidity",
+      "uid": "an5.171"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.172:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.172:0.2",
+          "pli": "18. Upāsakavagga",
+          "en": "18. A Lay Follower"
+        },
+        {
+          "scid": "an5.172:0.3",
+          "pli": "172. Visāradasutta",
+          "en": "172. Assured"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.172:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato upāsako avisārado agāraṃ ajjhāvasati.",
+          "en": "“A lay follower living at home with five qualities is not self-assured."
+        },
+        {
+          "scid": "an5.172:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.172:1.3",
+          "pli": "Pāṇātipātī hoti … pe … surāmerayamajjapamādaṭṭhāyī hoti.",
+          "en": "They kill living creatures, steal, commit sexual misconduct, lie, and use alcoholic drinks that cause negligence."
+        },
+        {
+          "scid": "an5.172:1.4",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato upāsako avisārado agāraṃ ajjhāvasati.",
+          "en": "A lay follower living at home with these five qualities is not self-assured."
+        },
+        {
+          "scid": "an5.172:2.1",
+          "pli": "Pañcahi, bhikkhave, dhammehi samannāgato upāsako visārado agāraṃ ajjhāvasati.",
+          "en": "A lay follower living at home with these five qualities is self-assured."
+        },
+        {
+          "scid": "an5.172:2.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.172:2.3",
+          "pli": "Pāṇātipātā paṭivirato hoti … pe … surāmerayamajjapamādaṭṭhānā paṭivirato hoti.",
+          "en": "They don’t kill living creatures, steal, commit sexual misconduct, lie, or use alcoholic drinks that cause negligence."
+        },
+        {
+          "scid": "an5.172:2.4",
+          "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato upāsako visārado agāraṃ ajjhāvasatī”ti.",
+          "en": "A lay follower living at home with these five qualities is self-assured.”"
+        },
+        {
+          "scid": "an5.172:2.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“A lay follower living at home with…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.172/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.172",
+    "volpages": "AN iii 203",
+    "uid": "an5.172",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Visārada Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Assured",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.172_sujato",
+        "segmented": true,
+        "title": "Assured"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

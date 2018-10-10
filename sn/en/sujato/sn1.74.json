@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn1.74",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.74",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Rain",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Afraid",
+      "uid": "sn1.75"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wealth",
+      "uid": "sn1.73"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.74:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.74:0.2",
+          "pli": "8. Chetvāvagga",
+          "en": "8. Incinerated"
+        },
+        {
+          "scid": "sn1.74:0.3",
+          "pli": "74. Vuṭṭhisutta",
+          "en": "74. Rain"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.74:1.1",
+          "pli": "“Kiṃsu uppatataṃ seṭṭhaṃ,",
+          "en": "“What’s the best of things that rise?"
+        },
+        {
+          "scid": "sn1.74:1.2",
+          "pli": "kiṃsu nipatataṃ varaṃ;",
+          "en": "And what’s the finest of things that fall?"
+        },
+        {
+          "scid": "sn1.74:1.3",
+          "pli": "Kiṃsu pavajamānānaṃ,",
+          "en": "And what of the things that go forth?"
+        },
+        {
+          "scid": "sn1.74:1.4",
+          "pli": "kiṃsu pavadataṃ varan”ti.",
+          "en": "And who’s the finest speaker?”"
+        },
+        {
+          "scid": "sn1.74:2.1",
+          "pli": "“Bījaṃ uppatataṃ seṭṭhaṃ,",
+          "en": "“A seed’s the best of things that rise."
+        },
+        {
+          "scid": "sn1.74:2.2",
+          "pli": "vuṭṭhi nipatataṃ varā;",
+          "en": "Rain’s the finest thing that falls."
+        },
+        {
+          "scid": "sn1.74:2.3",
+          "pli": "Gāvo pavajamānānaṃ,",
+          "en": "Cattle, of things that go forth."
+        },
+        {
+          "scid": "sn1.74:2.4",
+          "pli": "putto pavadataṃ varo”ti.",
+          "en": "And a child is the finest speaker.”"
+        },
+        {
+          "scid": "sn1.74:3.1",
+          "pli": "“Vijjā uppatataṃ seṭṭhā,",
+          "en": "“Knowledge is best of things that rise."
+        },
+        {
+          "scid": "sn1.74:3.2",
+          "pli": "avijjā nipatataṃ varā;",
+          "en": "Ignorance the finest thing that falls."
+        },
+        {
+          "scid": "sn1.74:3.3",
+          "pli": "Saṅgho pavajamānānaṃ,",
+          "en": "The Saṅgha, of things that go forth."
+        },
+        {
+          "scid": "sn1.74:3.4",
+          "pli": "buddho pavadataṃ varo”ti.",
+          "en": "And the Buddha is the finest speaker.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What’s the best of things that rise…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.74/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.74//SN 74",
+    "volpages": "SN i 42//SN i 95",
+    "uid": "sn1.74",
+    "blurb": "A series of questions asked by one deity, answered by another, and then given a better answer by the Buddha.",
+    "difficulty": null,
+    "original_title": "Vuṭṭhi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Rain",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.74_sujato",
+        "segmented": true,
+        "title": "Rain"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.74_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Rain"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

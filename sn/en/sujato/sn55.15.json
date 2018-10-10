@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn55.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fear of the Bad Place, the Underworld",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Friends and Colleagues (1st)",
+      "uid": "sn55.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fear of the Bad Place",
+      "uid": "sn55.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.15:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.15:0.2",
+          "pli": "2. Rājakārāmavagga",
+          "en": "2. A Thousand Nuns"
+        },
+        {
+          "scid": "sn55.15:0.3",
+          "pli": "15. Duggativinipātabhayasutta",
+          "en": "15. Fear of the Bad Place, the Underworld"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.15:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi samannāgato ariyasāvako sabbaduggativinipātabhayaṃ samatikkanto hoti.",
+          "en": "“Mendicants, a noble disciple who has four things has gone beyond all fear of being reborn in a bad place, the underworld."
+        },
+        {
+          "scid": "sn55.15:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn55.15:1.3",
+          "pli": "Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti—",
+          "en": "It’s when a noble disciple has experiential confidence in the Buddha …"
+        },
+        {
+          "scid": "sn55.15:1.4",
+          "pli": "itipi so bhagavā … pe … satthā devamanussānaṃ buddho bhagavāti.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.15:1.5",
+          "pli": "Dhamme … pe …",
+          "en": "the teaching …"
+        },
+        {
+          "scid": "sn55.15:1.6",
+          "pli": "saṃghe … pe …",
+          "en": "the Saṅgha …"
+        },
+        {
+          "scid": "sn55.15:1.7",
+          "pli": "ariyakantehi sīlehi samannāgato hoti akhaṇḍehi … pe … samādhisaṃvattanikehi.",
+          "en": "And they have the ethical conduct loved by the noble ones … leading to immersion."
+        },
+        {
+          "scid": "sn55.15:1.8",
+          "pli": "Imehi kho, bhikkhave, catūhi dhammehi samannāgato ariyasāvako sabbaduggativinipātabhayaṃ samatikkanto hotī”ti.",
+          "en": "A noble disciple who has these four things has gone beyond all fear of being reborn in a bad place, the underworld.”"
+        },
+        {
+          "scid": "sn55.15:1.9",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.15",
+    "volpages": "SN v 364",
+    "uid": "sn55.15",
+    "blurb": "A noble disciple has transcended fears of a bad rebirth.",
+    "difficulty": null,
+    "original_title": "Duggativinipātabhaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fear of the Bad Place, the Underworld",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.15_sujato",
+        "segmented": true,
+        "title": "Fear of the Bad Place, the Underworld"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

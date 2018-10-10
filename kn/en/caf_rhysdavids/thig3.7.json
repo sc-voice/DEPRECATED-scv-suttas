@@ -1,0 +1,117 @@
+{
+  "sutta_uid": "thig3.7",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig3.7",
+    "lang": "en",
+    "is_root": false,
+    "title": "Selā",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Somā",
+      "uid": "thig3.8"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Sukkā",
+      "uid": "thig3.6"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.7:0.1",
+          "en": "Therīgāthā 3.7"
+        },
+        {
+          "scid": "thig3.7:0.2",
+          "en": "Selā",
+          "pli": "Selātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig3.7:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig3.7:1.0.2",
+          "en": "Canto 3"
+        },
+        {
+          "scid": "thig3.7:1.0.3",
+          "en": "7. Selā"
+        },
+        {
+          "scid": "thig3.7:1.0.4",
+          "en": "“Ne’er shalt thou find escape while in the world! What profiteth thee then thy loneliness? Take the good things of life while yet thou mayst. Repentance else too late awaiteth thee."
+        },
+        {
+          "scid": "thig3.7:1.0.5",
+          "en": "Like spears and javelins are the joys of sense That pierce and rend the mortal frames of us. These that thou callest ‘the good things of life’— Good of that ilk to me is nothing worth."
+        },
+        {
+          "scid": "thig3.7:1.0.6",
+          "en": "On every hand the love of pleasure yields, And the thick gloom of ignorance is rent In twain. Know this, O Evil One, avaunt! Here, O Destroyer, shalt thou not prevail.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.7/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 3.7",
+    "volpages": "Thig 129",
+    "uid": "thig3.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Selātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Selā",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.7_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Selā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

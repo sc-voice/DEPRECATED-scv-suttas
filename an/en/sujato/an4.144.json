@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an4.144",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.144",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Shining",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lamps",
+      "uid": "an4.145"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Light",
+      "uid": "an4.143"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.144:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.144:0.2",
+          "pli": "15. Ābhāvagga",
+          "en": "15. Brightness"
+        },
+        {
+          "scid": "an4.144:0.3",
+          "pli": "144. Obhāsasutta",
+          "en": "144. Shining"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.144:1.1",
+          "pli": "“Cattārome, bhikkhave, obhāsā.",
+          "en": "“Mendicants, there are four kinds of shining."
+        },
+        {
+          "scid": "an4.144:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.144:1.3",
+          "pli": "Candobhāso, sūriyobhāso, aggobhāso, paññobhāso—",
+          "en": "The shining of the moon, sun, fire, and wisdom."
+        },
+        {
+          "scid": "an4.144:1.4",
+          "pli": "ime kho, bhikkhave, cattāro obhāsā.",
+          "en": "These are the four kinds of shining."
+        },
+        {
+          "scid": "an4.144:1.5",
+          "pli": "Etadaggaṃ, bhikkhave, imesaṃ catunnaṃ obhāsānaṃ yadidaṃ paññobhāso”ti.",
+          "en": "The best of these four kinds of shining is the shining of wisdom.”"
+        },
+        {
+          "scid": "an4.144:1.6",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.144/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.144",
+    "volpages": "AN ii 139",
+    "uid": "an4.144",
+    "blurb": "The shining of the moon, sun, fire, and wisdom.",
+    "difficulty": null,
+    "original_title": "Obhāsa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Shining",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.144_sujato",
+        "segmented": true,
+        "title": "Shining"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an4.144_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Brightness"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

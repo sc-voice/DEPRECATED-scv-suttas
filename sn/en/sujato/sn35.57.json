@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn35.57",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.57",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Uprooting Defilements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving Up Tendencies",
+      "uid": "sn35.58"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving Up Defilements",
+      "uid": "sn35.56"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.57:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.57:0.2",
+          "pli": "6. Avijjāvagga",
+          "en": "6. Ignorance"
+        },
+        {
+          "scid": "sn35.57:0.3",
+          "pli": "57. Āsavasamugghātasutta",
+          "en": "57. Uprooting Defilements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.57:1.1",
+          "pli": "“Kathaṃ nu kho, bhante, jānato, kathaṃ passato āsavā samugghātaṃ gacchantī”ti … pe ….",
+          "en": "“Sir, how does one know and see so that the defilements are uprooted?” …"
+        },
+        {
+          "scid": "sn35.57:1.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Sir…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.57/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.57",
+    "volpages": "SN iv 32",
+    "uid": "sn35.57",
+    "blurb": "A mendicant asks the Buddha how to see so as to uproot the defilements. The Buddha says one should see the six interior and exterior sense fields as not-self.",
+    "difficulty": null,
+    "original_title": "Āsavasamugghāta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uprooting Defilements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.57_sujato",
+        "segmented": true,
+        "title": "Uprooting Defilements"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "sutta_uid": "thag6.11",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag6.11",
+    "lang": "en",
+    "is_root": false,
+    "title": "Nhātakamuni",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Brahmadatta",
+      "uid": "thag6.12"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Sumana",
+      "uid": "thag6.10"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag6.11:0.1",
+          "en": "Theragāthā 6.11"
+        },
+        {
+          "scid": "thag6.11:0.2",
+          "en": "Nhātakamuni",
+          "pli": "Nhātakamunittheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag6.11:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag6.11:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag6.11:1.0.3",
+          "en": "Chapter of the Sixes"
+        },
+        {
+          "scid": "thag6.11:1.0.4",
+          "en": "6.11. Nhātakamuni"
+        },
+        {
+          "scid": "thag6.11:1.1.5",
+          "en": "“Struck by a wind ailment, While staying in a forest grove; You’ve gone into a tough place for gathering alms: How will you get by, monk?”"
+        },
+        {
+          "scid": "thag6.11:1.2.6",
+          "en": "“Pervading my body With lots of rapture and happiness, Putting up with what’s tough, I’ll dwell in the forest."
+        },
+        {
+          "scid": "thag6.11:1.3.7",
+          "en": "Developing the seven factors of awakening, The faculties and the powers, Endowed with subtle jhānas, I’ll dwell without defilements."
+        },
+        {
+          "scid": "thag6.11:1.4.8",
+          "en": "Freed from stains, My pure mind is undisturbed; Frequently reviewing this, I’ll dwell without defilements."
+        },
+        {
+          "scid": "thag6.11:1.5.9",
+          "en": "Those defilements that were found in me, Internally and externally, Are all cut off without remainder, And will not arise again."
+        },
+        {
+          "scid": "thag6.11:1.6.10",
+          "en": "The five aggregates are fully understood; They remain with their root cut off. I have attained the ending of suffering, Now there is no more rebirth into any state of existence.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag6.11/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 6.11",
+    "volpages": "Thag 46",
+    "uid": "thag6.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nhātakamunittheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Nhātakamuni",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag6.11_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Nhātakamuni"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 11
+  }
+}

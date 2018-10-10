@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn37.19",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.19",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Not Adulterous",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ethical",
+      "uid": "sn37.20"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Free of Stinginess",
+      "uid": "sn37.18"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.19:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.19:0.2",
+          "pli": "2. Dutiyapeyyālavagga",
+          "en": "2. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.19:0.3",
+          "pli": "19. Anaticārīsutta",
+          "en": "19. Not Adulterous"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.19:1.1",
+          "pli": "“Anaticārī ca hoti, paññavā ca hoti … pe ….",
+          "en": "“… They’re faithful, conscientious, prudent, not adulterous, and wise. …”"
+        },
+        {
+          "scid": "sn37.19:1.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… They’re faithful…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.19/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.19",
+    "volpages": "SN iv 244",
+    "uid": "sn37.19",
+    "blurb": "A woman with five good qualities has a good rebirth.",
+    "difficulty": null,
+    "original_title": "Anaticārī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Not Adulterous",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.19_sujato",
+        "segmented": true,
+        "title": "Not Adulterous"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

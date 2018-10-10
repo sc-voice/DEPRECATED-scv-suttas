@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn15.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn15.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Father",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Brother",
+      "uid": "sn15.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mother",
+      "uid": "sn15.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn15.15:0.1",
+          "pli": "Saṃyutta Nikāya 15",
+          "en": "Linked Discourses 15"
+        },
+        {
+          "scid": "sn15.15:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn15.15:0.3",
+          "pli": "15. Pitusutta",
+          "en": "15. Father"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 15…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn15.15:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn15.15:1.2",
+          "pli": "“Anamataggoyaṃ, bhikkhave, saṃsāro … pe …",
+          "en": "“Mendicants, transmigration has no known beginning. …"
+        },
+        {
+          "scid": "sn15.15:1.3",
+          "pli": "na so, bhikkhave, satto sulabharūpo yo napitābhūtapubbo … pe …",
+          "en": "It’s not easy to find a sentient being who in all this long time has not previously been your father. …"
+        },
+        {
+          "scid": "sn15.15:1.4",
+          "pli": "alaṃ vimuccitun”ti.",
+          "en": "This is quite enough for you to become disillusioned, dispassionate, and freed from all conditions.”"
+        },
+        {
+          "scid": "sn15.15:1.5",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn15.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 15.15",
+    "volpages": "SN ii 189",
+    "uid": "sn15.15",
+    "blurb": "It is not easy to find a being who has not been your father.",
+    "difficulty": null,
+    "original_title": "Pitu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Father",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn15.15_sujato",
+        "segmented": true,
+        "title": "Father"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 5
+  }
+}

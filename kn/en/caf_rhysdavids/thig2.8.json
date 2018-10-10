@@ -1,0 +1,109 @@
+{
+  "sutta_uid": "thig2.8",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig2.8",
+    "lang": "en",
+    "is_root": false,
+    "title": "Abhayā's Mother",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Abhayā",
+      "uid": "thig2.9"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Mittā",
+      "uid": "thig2.7"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.8:0.1",
+          "en": "Therīgāthā 2.8"
+        },
+        {
+          "scid": "thig2.8:0.2",
+          "en": "Abhayā's Mother",
+          "pli": "Abhayamātutherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig2.8:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig2.8:1.0.2",
+          "en": "Canto 2"
+        },
+        {
+          "scid": "thig2.8:1.0.3",
+          "en": "8. Abhayā's Mother"
+        },
+        {
+          "scid": "thig2.8:1.0.4",
+          "en": "“‘Upward from sole of foot, O mother dear, Downward from crown of hair this body see. Is’t not impure, the evil-smelling thing?’ This have I pondered, meditating still, Till every throb of lust is rooted out. Expunged is all the fever of desire. Cool am I now and calm—Nibbana’s peace.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.8/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 2.8",
+    "volpages": "Thig 127",
+    "uid": "thig2.8",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Abhayamātutherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Abhayā's Mother",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.8_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Abhayā's Mother"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 8
+  }
+}

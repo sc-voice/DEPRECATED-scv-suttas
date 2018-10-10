@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn47.45",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.45",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Heap of the Skillful",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Restraint in the Monastic Code",
+      "uid": "sn47.46"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mindful",
+      "uid": "sn47.44"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.45:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.45:0.2",
+          "pli": "5. Amatavagga",
+          "en": "5. The Deathless"
+        },
+        {
+          "scid": "sn47.45:0.3",
+          "pli": "45. Kusalarāsisutta",
+          "en": "45. A Heap of the Skillful"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.45:1.1",
+          "pli": "“‘Kusalarāsī’ti, bhikkhave, vadamāno cattāro satipaṭṭhāne sammā vadamāno vadeyya.",
+          "en": "“Rightly speaking, mendicants, you’d call these four kinds of mindfulness meditation a ‘heap of the skillful’."
+        },
+        {
+          "scid": "sn47.45:1.2",
+          "pli": "Kevalo hāyaṃ, bhikkhave, kusalarāsi, yadidaṃ—cattāro satipaṭṭhānā.",
+          "en": "For these four kinds of mindfulness meditation are entirely a heap of the skillful."
+        },
+        {
+          "scid": "sn47.45:2.1",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn47.45:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.45:2.3",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn47.45:2.4",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn47.45:2.5",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.45:2.6",
+          "pli": "‘Kusalarāsī’ti, bhikkhave, vadamāno ime cattāro satipaṭṭhāne sammā vadamāno vadeyya.",
+          "en": "Rightly speaking, you’d call these four kinds of mindfulness meditation a ‘heap of the skillful’."
+        },
+        {
+          "scid": "sn47.45:2.7",
+          "pli": "Kevalo hāyaṃ, bhikkhave, kusalarāsi, yadidaṃ—cattāro satipaṭṭhānā”ti.",
+          "en": "For these four kinds of mindfulness meditation are entirely a heap of the skillful.”"
+        },
+        {
+          "scid": "sn47.45:2.8",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Rightly speaking…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.45/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 47.45",
+    "volpages": "SN v 186",
+    "uid": "sn47.45",
+    "blurb": "The four kinds of mindfulness meditation are a heap of the skillful.",
+    "difficulty": null,
+    "original_title": "Kusalarāsi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Heap of the Skillful",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.45_sujato",
+        "segmented": true,
+        "title": "A Heap of the Skillful"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.45_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Heap of the Wholesome"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 5
+  }
+}

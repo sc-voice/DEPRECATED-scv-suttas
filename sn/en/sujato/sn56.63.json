@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn56.63",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.63",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Wisdom",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Alcohol and Drugs",
+      "uid": "sn56.64"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "In the Borderlands",
+      "uid": "sn56.62"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.63:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.63:0.2",
+          "pli": "7. Paṭhamaāmakadhaññapeyyālavagga",
+          "en": "7. Abbreviated Texts on Raw Grain"
+        },
+        {
+          "scid": "sn56.63:0.3",
+          "pli": "63. Paññāsutta",
+          "en": "63. Wisdom"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.63:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye pana ariyena paññācakkhunā samannāgatā; atha kho eteva bahutarā sattā ye avijjāgatā sammuḷhā … pe ….",
+          "en": "“… the sentient beings who have the noble eye of wisdom are few, while those who are ignorant and confused are many. …”"
+        },
+        {
+          "scid": "sn56.63:1.2",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who have the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.63/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.63",
+    "volpages": "SN v 467",
+    "uid": "sn56.63",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Wisdom",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.63_sujato",
+        "segmented": true,
+        "title": "Wisdom"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 3
+  }
+}

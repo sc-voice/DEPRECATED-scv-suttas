@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an5.202",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.202",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Listening to the Teaching",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Thoroughbred",
+      "uid": "an5.203"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kimbila",
+      "uid": "an5.201"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.202:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.202:0.2",
+          "pli": "21. Kimilavagga",
+          "en": "21. With Kimbila"
+        },
+        {
+          "scid": "an5.202:0.3",
+          "pli": "202. Dhammassavanasutta",
+          "en": "202. Listening to the Teaching"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.202:1.1",
+          "pli": "“Pañcime, bhikkhave, ānisaṃsā dhammassavane.",
+          "en": "“Mendicants, there are these five advantages of listening to the teaching."
+        },
+        {
+          "scid": "an5.202:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.202:1.3",
+          "pli": "Assutaṃ suṇāti, sutaṃ pariyodāpeti, kaṅkhaṃ vitarati, diṭṭhiṃ ujuṃ karoti, cittamassa pasīdati.",
+          "en": "You learn new things, clarify what you’ve learned, get over uncertainty, correct your views, and inspire confidence in your mind."
+        },
+        {
+          "scid": "an5.202:1.4",
+          "pli": "Ime kho, bhikkhave, pañca ānisaṃsā dhammassavane”ti.",
+          "en": "These are the five advantages of listening to the teaching.”"
+        },
+        {
+          "scid": "an5.202:1.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.202/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.202",
+    "volpages": "AN iii 248",
+    "uid": "an5.202",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dhammassavana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Listening to the Teaching",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.202_sujato",
+        "segmented": true,
+        "title": "Listening to the Teaching"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an5.202_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Listening to the Dhamma"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

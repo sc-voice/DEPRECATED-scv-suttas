@@ -1,0 +1,335 @@
+{
+  "sutta_uid": "an10.50",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.50",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Arguments",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Your Own Mind",
+      "uid": "an10.51"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Existing Because of the Body",
+      "uid": "an10.49"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.50:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.50:0.2",
+          "pli": "5. Akkosavagga",
+          "en": "5. Abuse"
+        },
+        {
+          "scid": "an10.50:0.3",
+          "pli": "50. Bhaṇḍanasutta",
+          "en": "50. Arguments"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.50:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "an10.50:1.2",
+          "pli": "Tena kho pana samayena sambahulā bhikkhū pacchābhattaṃ piṇḍapātapaṭikkantā upaṭṭhānasālāyaṃ sannisinnā sannipatitā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti.",
+          "en": "Now at that time, after the meal, on return from alms-round, several mendicants sat together in the meeting hall. They were arguing, quarreling, and disputing, stabbing each other with the dagger in the mouth."
+        },
+        {
+          "scid": "an10.50:2.1",
+          "pli": "Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.",
+          "en": "Then in the late afternoon, the Buddha came out of retreat and went to the assembly hall. He sat down on the seat spread out,"
+        },
+        {
+          "scid": "an10.50:2.2",
+          "pli": "Nisajja kho bhagavā bhikkhū āmantesi:",
+          "en": "and addressed the mendicants:"
+        },
+        {
+          "scid": "an10.50:2.3",
+          "pli": "“kāya nuttha, bhikkhave, etarahi kathāya sannisinnā sannipatitā, kā ca pana vo antarākathā vippakatā”ti?",
+          "en": "“Mendicants, what were you sitting talking about just now? What conversation was unfinished?”"
+        },
+        {
+          "scid": "an10.50:3.1",
+          "pli": "“Idha mayaṃ, bhante, pacchābhattaṃ piṇḍapātapaṭikkantā upaṭṭhānasālāyaṃ sannisinnā sannipatitā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharāmā”ti.",
+          "en": "“Sir, after the meal, on return from alms-round, we sat together in the meeting hall, arguing, quarreling, and disputing, stabbing each other with the dagger in the mouth.”"
+        },
+        {
+          "scid": "an10.50:3.2",
+          "pli": "“Na kho panetaṃ, bhikkhave, tumhākaṃ patirūpaṃ kulaputtānaṃ saddhāya agārasmā anagāriyaṃ pabbajitānaṃ, yaṃ tumhe bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā vihareyyātha.",
+          "en": "“Mendicants, this is not appropriate for you people of good families who have gone forth in faith from the lay life to homelessness."
+        },
+        {
+          "scid": "an10.50:4.1",
+          "pli": "Dasayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.",
+          "en": "There are ten warm-hearted qualities that make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "an10.50:4.2",
+          "pli": "Katame dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.50:4.3",
+          "pli": "Idha, bhikkhave, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.",
+          "en": "Firstly, a mendicant is ethical, restrained in the monastic code, and has appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+        },
+        {
+          "scid": "an10.50:4.4",
+          "pli": "Yampi, bhikkhave, bhikkhu sīlavā hoti … pe … samādāya sikkhati sikkhāpadesu,",
+          "en": "When a mendicant is ethical,"
+        },
+        {
+          "scid": "an10.50:4.5",
+          "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (1)",
+          "en": "this warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "an10.50:5.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.",
+          "en": "Furthermore, a mendicant is very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically. …"
+        },
+        {
+          "scid": "an10.50:5.2",
+          "pli": "Yampi, bhikkhave, bhikkhu bahussuto hoti … pe … diṭṭhiyā suppaṭividdhā,",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:5.3",
+          "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (2)",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:6.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko.",
+          "en": "Furthermore, a mendicant has good friends, companions, and associates. …"
+        },
+        {
+          "scid": "an10.50:6.2",
+          "pli": "Yampi, bhikkhave, bhikkhu kalyāṇamitto hoti kalyāṇasahāyo kalyāṇasampavaṅko, ",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:6.3",
+          "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (3)",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:7.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu suvaco hoti sovacassakaraṇehi dhammehi samannāgato khamo padakkhiṇaggāhī anusāsaniṃ.",
+          "en": "Furthermore, a mendicant is easy to correct, having qualities that make them easy to correct. They’re patient, and take instruction respectfully. …"
+        },
+        {
+          "scid": "an10.50:7.2",
+          "pli": "Yampi, bhikkhave, bhikkhu suvaco hoti sovacassakaraṇehi dhammehi samannāgato khamo padakkhiṇaggāhī anusāsaniṃ, ",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:7.3",
+          "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (4)",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:8.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu yāni tāni sabrahmacārīnaṃ uccāvacāni kiṅkaraṇīyāni—tattha dakkho hoti analaso, tatrūpāyāya vīmaṃsāya samannāgato alaṃ kātuṃ alaṃ saṃvidhātuṃ.",
+          "en": "Furthermore, a mendicant is skilled and tireless in a diverse spectrum of duties for their spiritual companions, understanding how to go about things in order to complete and organize the work. …"
+        },
+        {
+          "scid": "an10.50:8.2",
+          "pli": "Yampi, bhikkhave, bhikkhu yāni tāni sabrahmacārīnaṃ uccāvacāni kiṅkaraṇīyāni—tattha dakkho hoti analaso tatrūpāyāya vīmaṃsāya samannāgato alaṃ kātuṃ alaṃ saṃvidhātuṃ,",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:8.3",
+          "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (5)",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:9.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu dhammakāmo hoti piyasamudāhāro, abhidhamme abhivinaye uḷārapāmojjo.",
+          "en": "Furthermore, a mendicant loves the teachings and is a delight to converse with, being full of joy in the teaching and training. …"
+        },
+        {
+          "scid": "an10.50:9.2",
+          "pli": "Yampi, bhikkhave, bhikkhu dhammakāmo hoti piyasamudāhāro, abhidhamme abhivinaye uḷārapāmojjo, ",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:9.3",
+          "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (6)",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:10.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu.",
+          "en": "Furthermore, a mendicant lives with energy roused up for giving up unskillful qualities and gaining skillful qualities. They are strong, firmly applied, not slacking off when it comes to developing skillful qualities. …"
+        },
+        {
+          "scid": "an10.50:10.2",
+          "pli": "Yampi, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu, ",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:10.3",
+          "pli": "ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (7)",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:11.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu santuṭṭho hoti itarītaracīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārena.",
+          "en": "Furthermore, a mendicant is content with any kind of robes, alms-food, lodgings, and medicines and supplies for the sick. …"
+        },
+        {
+          "scid": "an10.50:11.2",
+          "pli": "Yampi, bhikkhave, bhikkhu santuṭṭho hoti itarītaracīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārena, ",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:11.3",
+          "pli": "ayampi dhammo sāraṇīyo … pe … saṃvattati. (8)",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:12.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu satimā hoti, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā.",
+          "en": "Furthermore, a mendicant is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. …"
+        },
+        {
+          "scid": "an10.50:12.2",
+          "pli": "Yampi, bhikkhave, bhikkhu satimā hoti, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā, ",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:12.3",
+          "pli": "ayampi dhammo sāraṇīyo … pe … saṃvattati. (9)",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:13.1",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā.",
+          "en": "Furthermore, a mendicant is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering."
+        },
+        {
+          "scid": "an10.50:13.2",
+          "pli": "Yampi, bhikkhave, bhikkhu paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā, ",
+          "en": "When a mendicant is wise, "
+        },
+        {
+          "scid": "an10.50:13.3",
+          "pli": "ayampi dhammo sāraṇīyo … pe … saṃvattati. (10)",
+          "en": "this warm-hearted quality makes for fondness and respect, helping the Saṅgha to live in harmony and unity, without quarreling."
+        },
+        {
+          "scid": "an10.50:14.1",
+          "pli": "Ime kho, bhikkhave, dasa dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattantī”ti.",
+          "en": "These ten warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.”"
+        },
+        {
+          "scid": "an10.50:14.2",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:14.3",
+          "pli": "Akkosavaggo pañcamo.",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:15.1",
+          "pli": "Vivādā dve ca mūlāni,",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:15.2",
+          "pli": "kusinārapavesane;",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:15.3",
+          "pli": "Sakko mahāli abhiṇhaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:15.4",
+          "pli": "sarīraṭṭhā ca bhaṇḍanāti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.50:15.5",
+          "pli": "Paṭhamo paṇṇāsako samatto.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.50/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.50",
+    "volpages": "AN v 88",
+    "uid": "an10.50",
+    "blurb": "Some monks are arguing, so the Buddha teaches them ten warm-hearted principles.",
+    "difficulty": null,
+    "original_title": "Bhaṇḍana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Arguments",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.50_sujato",
+        "segmented": true,
+        "title": "Arguments"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

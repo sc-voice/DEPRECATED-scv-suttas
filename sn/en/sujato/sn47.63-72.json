@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn47.63-72",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.63-72",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Realized One",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hard Work, Etc.",
+      "uid": "sn47.73-84"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Twelve Discourses on the Ganges River, Etc.",
+      "uid": "sn47.51-62"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.63-72:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.63-72:0.2",
+          "pli": "7. Appamādavagga",
+          "en": "7. Diligence"
+        },
+        {
+          "scid": "sn47.63-72:0.3",
+          "pli": "63–​72. Tathāgatādisutta",
+          "en": "63–​72. The Realized One"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.63-72:1.1",
+          "pli": "“Yāvatā, bhikkhave, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā”ti vitthāretabbaṃ.",
+          "en": "“Mendicants, the Realized One, the perfected one, the fully awakened Buddha, is said to be the best of all sentient beings—be they footless, with two feet, four feet, or many feet …” "
+        },
+        {
+          "scid": "sn47.63-72:1.2",
+          "pli": "Appamādavaggo sattamo.",
+          "en": "(To be expanded as in SN 45.139–148.)"
+        },
+        {
+          "scid": "sn47.63-72:2.1",
+          "pli": "Tathāgataṃ padaṃ kūṭaṃ,",
+          "en": "The Realized One, footprint, roof peak,"
+        },
+        {
+          "scid": "sn47.63-72:2.2",
+          "pli": "mūlaṃ sāro ca vassikaṃ;",
+          "en": "roots, heartwood, jasmine,"
+        },
+        {
+          "scid": "sn47.63-72:2.3",
+          "pli": "Rājā candimasūriyā,",
+          "en": "monarch, sun and moon,"
+        },
+        {
+          "scid": "sn47.63-72:2.4",
+          "pli": "vatthena dasamaṃ padanti.",
+          "en": "and cloth is the tenth."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.63-72/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn47.63-72",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Appamāda Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Realized One",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.63-72_sujato",
+        "segmented": true,
+        "title": "The Realized One"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.63-72_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Tathagata, Etc."
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

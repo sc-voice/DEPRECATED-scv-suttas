@@ -1,0 +1,475 @@
+{
+  "sutta_uid": "sn22.56",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.56",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Perspectives",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Seven Cases",
+      "uid": "sn22.57"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "An Inspired Saying",
+      "uid": "sn22.55"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.56:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.56:0.2",
+          "pli": "6. Upayavagga",
+          "en": "6. Involvement"
+        },
+        {
+          "scid": "sn22.56:0.3",
+          "pli": "56. Upādānaparipavattasutta",
+          "en": "56. Perspectives"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.56:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.56:1.2",
+          "pli": "“Pañcime, bhikkhave, upādānakkhandhā.",
+          "en": "“Mendicants, there are these five grasping aggregates."
+        },
+        {
+          "scid": "sn22.56:1.3",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn22.56:1.4",
+          "pli": "Rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho.",
+          "en": "The grasping aggregates of form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "sn22.56:1.5",
+          "pli": "Yāvakīvañcāhaṃ, bhikkhave, ime pañcupādānakkhandhe catuparivaṭṭaṃ yathābhūtaṃ nābbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ.",
+          "en": "As long as I didn’t truly understand these five grasping aggregates from four perspectives, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans."
+        },
+        {
+          "scid": "sn22.56:1.6",
+          "pli": "Yato ca khvāhaṃ, bhikkhave, ime pañcupādānakkhandhe catuparivaṭṭaṃ yathābhūtaṃ abbhaññāsiṃ, athāhaṃ, bhikkhave, sadevake loke … pe …",
+          "en": "But when I did truly understand these five grasping aggregates from four perspectives, I announced my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans."
+        },
+        {
+          "scid": "sn22.56:1.7",
+          "pli": "sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:2.1",
+          "pli": "Kathañca catuparivaṭṭaṃ?",
+          "en": "And how are there four perspectives?"
+        },
+        {
+          "scid": "sn22.56:2.2",
+          "pli": "Rūpaṃ abbhaññāsiṃ, rūpasamudayaṃ abbhaññāsiṃ, rūpanirodhaṃ abbhaññāsiṃ, rūpanirodhagāminiṃ paṭipadaṃ abbhaññāsiṃ;",
+          "en": "I directly knew form, its origin, its cessation, and the practice that leads to its cessation."
+        },
+        {
+          "scid": "sn22.56:2.3",
+          "pli": "vedanaṃ …",
+          "en": "I directly knew feeling …"
+        },
+        {
+          "scid": "sn22.56:2.4",
+          "pli": "saññaṃ …",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn22.56:2.5",
+          "pli": "saṅkhāre …",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn22.56:2.6",
+          "pli": "viññāṇaṃ abbhaññāsiṃ, viññāṇasamudayaṃ abbhaññāsiṃ, viññāṇanirodhaṃ abbhaññāsiṃ, viññāṇanirodhagāminiṃ paṭipadaṃ abbhaññāsiṃ.",
+          "en": "consciousness, its origin, its cessation, and the practice that leads to its cessation."
+        },
+        {
+          "scid": "sn22.56:3.1",
+          "pli": "Katamañca, bhikkhave, rūpaṃ?",
+          "en": "And what is form?"
+        },
+        {
+          "scid": "sn22.56:3.2",
+          "pli": "Cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāya rūpaṃ.",
+          "en": "The four primary elements, and form derived from the four primary elements."
+        },
+        {
+          "scid": "sn22.56:3.3",
+          "pli": "Idaṃ vuccati, bhikkhave, rūpaṃ.",
+          "en": "This is called form."
+        },
+        {
+          "scid": "sn22.56:3.4",
+          "pli": "Āhārasamudayā rūpasamudayo;",
+          "en": "Form originates from food."
+        },
+        {
+          "scid": "sn22.56:3.5",
+          "pli": "āhāranirodhā rūpanirodho.",
+          "en": "When food ceases, form ceases."
+        },
+        {
+          "scid": "sn22.56:3.6",
+          "pli": "Ayameva ariyo aṭṭhaṅgiko maggo rūpanirodhagāminī paṭipadā, seyyathidaṃ—",
+          "en": "The practice that leads to the cessation of form is simply this noble eightfold path, that is:"
+        },
+        {
+          "scid": "sn22.56:3.7",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": "right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion."
+        },
+        {
+          "scid": "sn22.56:4.1",
+          "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ rūpaṃ abhiññāya, evaṃ rūpasamudayaṃ abhiññāya, evaṃ rūpanirodhaṃ abhiññāya, evaṃ rūpanirodhagāminiṃ paṭipadaṃ abhiññāya rūpassa nibbidāya virāgāya nirodhāya paṭipannā, te suppaṭipannā.",
+          "en": "Those ascetics and brahmins who have directly known form in this way—and its origin, its cessation, and the practice that leads to its cessation—and are practicing for the disillusionment, fading away, and cessation of form: they are practicing well."
+        },
+        {
+          "scid": "sn22.56:4.2",
+          "pli": "Ye suppaṭipannā, te imasmiṃ dhammavinaye gādhanti.",
+          "en": "Those who practice well have a firm footing in this teaching and training."
+        },
+        {
+          "scid": "sn22.56:5.1",
+          "pli": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ rūpaṃ abhiññāya … pe … evaṃ rūpanirodhagāminiṃ paṭipadaṃ abhiññāya, rūpassa nibbidā virāgā nirodhā anupādā vimuttā te suvimuttā.",
+          "en": "Those ascetics and brahmins who have directly known form in this way—and its origin, its cessation, and the practice that leads to its cessation—and due to the disillusionment, fading away, and cessation of form, are freed by not grasping: they are well freed."
+        },
+        {
+          "scid": "sn22.56:5.2",
+          "pli": "Ye suvimuttā te kevalino.",
+          "en": "Those who are well freed are consummate ones."
+        },
+        {
+          "scid": "sn22.56:5.3",
+          "pli": "Ye kevalino vaṭṭaṃ tesaṃ natthi paññāpanāya.",
+          "en": "For consummate ones, there is no cycle of rebirths to be found."
+        },
+        {
+          "scid": "sn22.56:6.1",
+          "pli": "Katamā ca, bhikkhave, vedanā?",
+          "en": "And what is feeling?"
+        },
+        {
+          "scid": "sn22.56:6.2",
+          "pli": "Chayime, bhikkhave, vedanākāyā—",
+          "en": "There are these six classes of feeling:"
+        },
+        {
+          "scid": "sn22.56:6.3",
+          "pli": "cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manosamphassajā vedanā.",
+          "en": "feeling born of contact through the eye, ear, nose, tongue, body, and mind."
+        },
+        {
+          "scid": "sn22.56:6.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, vedanā.",
+          "en": "This is called feeling."
+        },
+        {
+          "scid": "sn22.56:6.5",
+          "pli": "Phassasamudayā vedanāsamudayo;",
+          "en": "Feeling originates from contact."
+        },
+        {
+          "scid": "sn22.56:6.6",
+          "pli": "phassanirodhā vedanānirodho.",
+          "en": "When contact ceases, feeling ceases."
+        },
+        {
+          "scid": "sn22.56:6.7",
+          "pli": "Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṃ—",
+          "en": "The practice that leads to the cessation of feelings is simply this noble eightfold path …"
+        },
+        {
+          "scid": "sn22.56:6.8",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:7.1",
+          "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ vedanaṃ abhiññāya, evaṃ vedanāsamudayaṃ abhiññāya, evaṃ vedanānirodhaṃ abhiññāya, evaṃ vedanānirodhagāminiṃ paṭipadaṃ abhiññāya vedanāya nibbidāya virāgāya nirodhāya paṭipannā, te suppaṭipannā.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:7.2",
+          "pli": "Ye suppaṭipannā, te imasmiṃ dhammavinaye gādhanti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:8.1",
+          "pli": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ vedanaṃ abhiññāya … pe … evaṃ vedanānirodhagāminiṃ paṭipadaṃ abhiññāya … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:8.2",
+          "pli": "vaṭṭaṃ tesaṃ natthi paññāpanāya.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:9.1",
+          "pli": "Katamā ca, bhikkhave, saññā?",
+          "en": "And what is perception?"
+        },
+        {
+          "scid": "sn22.56:9.2",
+          "pli": "Chayime, bhikkhave, saññākāyā—",
+          "en": "There are these six classes of perception:"
+        },
+        {
+          "scid": "sn22.56:9.3",
+          "pli": "rūpasaññā, saddasaññā, gandhasaññā, rasasaññā, phoṭṭhabbasaññā, dhammasaññā.",
+          "en": "perceptions of sights, sounds, smells, tastes, touches, and thoughts."
+        },
+        {
+          "scid": "sn22.56:9.4",
+          "pli": "Ayaṃ vuccati, bhikkhave, saññā.",
+          "en": "This is called perception."
+        },
+        {
+          "scid": "sn22.56:9.5",
+          "pli": "Phassasamudayā saññāsamudayo;",
+          "en": "Perception originates from contact."
+        },
+        {
+          "scid": "sn22.56:9.6",
+          "pli": "phassanirodhā saññānirodho.",
+          "en": "When contact ceases, perception ceases."
+        },
+        {
+          "scid": "sn22.56:9.7",
+          "pli": "Ayameva ariyo aṭṭhaṅgiko maggo saññānirodhagāminī paṭipadā, seyyathidaṃ—",
+          "en": "The practice that leads to the cessation of perceptions is simply this noble eightfold path …"
+        },
+        {
+          "scid": "sn22.56:9.8",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:9.9",
+          "pli": "vaṭṭaṃ tesaṃ natthi paññāpanāya.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:10.1",
+          "pli": "Katame ca, bhikkhave, saṅkhārā?",
+          "en": "And what are choices?"
+        },
+        {
+          "scid": "sn22.56:10.2",
+          "pli": "Chayime, bhikkhave, cetanākāyā—",
+          "en": "There are these six classes of intention:"
+        },
+        {
+          "scid": "sn22.56:10.3",
+          "pli": "rūpasañcetanā, saddasañcetanā, gandhasañcetanā, rasasañcetanā, phoṭṭhabbasañcetanā, dhammasañcetanā.",
+          "en": "intention regarding sights, sounds, smells, tastes, touches, and thoughts."
+        },
+        {
+          "scid": "sn22.56:10.4",
+          "pli": "Ime vuccanti, bhikkhave, saṅkhārā.",
+          "en": "These are called choices."
+        },
+        {
+          "scid": "sn22.56:10.5",
+          "pli": "Phassasamudayā saṅkhārasamudayo;",
+          "en": "Choices originate from contact."
+        },
+        {
+          "scid": "sn22.56:10.6",
+          "pli": "phassanirodhā saṅkhāranirodho.",
+          "en": "When contact ceases, choices cease."
+        },
+        {
+          "scid": "sn22.56:10.7",
+          "pli": "Ayameva ariyo aṭṭhaṅgiko maggo saṅkhāranirodhagāminī paṭipadā, seyyathidaṃ—",
+          "en": "The practice that leads to the cessation of choices is simply this noble eightfold path …"
+        },
+        {
+          "scid": "sn22.56:10.8",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:11.1",
+          "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ saṅkhāre abhiññāya, evaṃ saṅkhārasamudayaṃ abhiññāya, evaṃ saṅkhāranirodhaṃ abhiññāya, evaṃ saṅkhāranirodhagāminiṃ paṭipadaṃ abhiññāya saṅkhārānaṃ nibbidāya virāgāya nirodhāya paṭipannā, te suppaṭipannā.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:11.2",
+          "pli": "Ye suppaṭipannā, te imasmiṃ dhammavinaye gādhanti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:12.1",
+          "pli": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ saṅkhāre abhiññāya, evaṃ saṅkhārasamudayaṃ abhiññāya, evaṃ saṅkhāranirodhaṃ abhiññāya, evaṃ saṅkhāranirodhagāminiṃ paṭipadaṃ abhiññāya saṅkhārānaṃ nibbidā virāgā nirodhā anupādā vimuttā, te suvimuttā.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:12.2",
+          "pli": "Ye suvimuttā, te kevalino.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:12.3",
+          "pli": "Ye kevalino vaṭṭaṃ tesaṃ natthi paññāpanāya.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.56:13.1",
+          "pli": "Katamañca, bhikkhave, viññāṇaṃ?",
+          "en": "And what is consciousness?"
+        },
+        {
+          "scid": "sn22.56:13.2",
+          "pli": "Chayime, bhikkhave, viññāṇakāyā—",
+          "en": "There are these six classes of consciousness:"
+        },
+        {
+          "scid": "sn22.56:13.3",
+          "pli": "cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ, manoviññāṇaṃ.",
+          "en": "eye, ear, nose, tongue, body, and mind consciousness."
+        },
+        {
+          "scid": "sn22.56:13.4",
+          "pli": "Idaṃ vuccati, bhikkhave, viññāṇaṃ.",
+          "en": "This is called consciousness."
+        },
+        {
+          "scid": "sn22.56:13.5",
+          "pli": "Nāmarūpasamudayā viññāṇasamudayo;",
+          "en": "Consciousness originates from name and form."
+        },
+        {
+          "scid": "sn22.56:13.6",
+          "pli": "nāmarūpanirodhā viññāṇanirodho.",
+          "en": "When name and form cease, consciousness ceases."
+        },
+        {
+          "scid": "sn22.56:13.7",
+          "pli": "Ayameva ariyo aṭṭhaṅgiko maggo viññāṇanirodhagāminī paṭipadā, seyyathidaṃ—",
+          "en": "The practice that leads to the cessation of consciousness is simply this noble eightfold path, that is:"
+        },
+        {
+          "scid": "sn22.56:13.8",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": "right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion."
+        },
+        {
+          "scid": "sn22.56:14.1",
+          "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ viññāṇaṃ abhiññāya, evaṃ viññāṇasamudayaṃ abhiññāya, evaṃ viññāṇanirodhaṃ abhiññāya, evaṃ viññāṇanirodhagāminiṃ paṭipadaṃ abhiññāya viññāṇassa nibbidāya virāgāya nirodhāya paṭipannā, te suppaṭipannā.",
+          "en": "Those ascetics and brahmins who have directly known consciousness in this way—and its origin, its cessation, and the practice that leads to its cessation—and are practicing for the disillusionment, fading away, and cessation of consciousness: they are practicing well."
+        },
+        {
+          "scid": "sn22.56:14.2",
+          "pli": "Ye suppaṭipannā, te imasmiṃ dhammavinaye gādhanti.",
+          "en": "Those who practice well have a firm footing in this teaching and training."
+        },
+        {
+          "scid": "sn22.56:15.1",
+          "pli": "Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṃ viññāṇaṃ abhiññāya, evaṃ viññāṇasamudayaṃ abhiññāya, evaṃ viññāṇanirodhaṃ abhiññāya, evaṃ viññāṇanirodhagāminiṃ paṭipadaṃ abhiññāya viññāṇassa nibbidā virāgā nirodhā anupādā vimuttā, te suvimuttā.",
+          "en": "Those ascetics and brahmins who have directly known consciousness in this way—and its origin, its cessation, and the practice that leads to its cessation—and due to the disillusionment, fading away, and cessation of consciousness, are freed by not grasping: they are well freed."
+        },
+        {
+          "scid": "sn22.56:15.2",
+          "pli": "Ye suvimuttā, te kevalino.",
+          "en": "Those who are well freed are consummate ones."
+        },
+        {
+          "scid": "sn22.56:15.3",
+          "pli": "Ye kevalino vaṭṭaṃ tesaṃ natthi paññāpanāyā”ti.",
+          "en": "For consummate ones, there is no cycle of rebirths to be found.”"
+        },
+        {
+          "scid": "sn22.56:15.4",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.56/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.56",
+    "volpages": "SN iii 58",
+    "uid": "sn22.56",
+    "blurb": "The Buddha did not claim to be awakened until he had fully understood each of the five aggregates in the light of each of the four noble truths. This discourse includes definitions of each of the aggregates.",
+    "difficulty": null,
+    "original_title": "Upādānaparipavatta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Perspectives",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.56_sujato",
+        "segmented": true,
+        "title": "Perspectives"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.56_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Phases of the Clinging Aggregates"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 4
+  }
+}

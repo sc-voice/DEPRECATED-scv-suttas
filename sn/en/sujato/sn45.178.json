@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn45.178",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.178",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Grasping Aggregates",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lower Fetters",
+      "uid": "sn45.179"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hindrances",
+      "uid": "sn45.177"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.178:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.178:0.2",
+          "pli": "14. Oghavagga",
+          "en": "14. Floods"
+        },
+        {
+          "scid": "sn45.178:0.3",
+          "pli": "178. Upādānakkhandhasutta",
+          "en": "178. Grasping Aggregates"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.178:1.1",
+          "pli": "“Pañcime, bhikkhave, upādānakkhandhā.",
+          "en": "“Mendicants, there are these five grasping aggregates."
+        },
+        {
+          "scid": "sn45.178:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn45.178:1.3",
+          "pli": "Seyyathidaṃ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho.",
+          "en": "The grasping aggregates of form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "sn45.178:1.4",
+          "pli": "Ime kho, bhikkhave, pañcupādānakkhandhā.",
+          "en": "These are the five grasping aggregates."
+        },
+        {
+          "scid": "sn45.178:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ upādānakkhandhānaṃ abhiññāya pariññāya parikkhayāya pahānāya … pe … ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
+          "en": "The noble eightfold path should be developed for the direct knowledge, complete understanding, finishing, and giving up of these five grasping aggregates.”"
+        },
+        {
+          "scid": "sn45.178:1.6",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.178/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.178",
+    "volpages": "SN v 60",
+    "uid": "sn45.178",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Upādānakkhandha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Grasping Aggregates",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.178_sujato",
+        "segmented": true,
+        "title": "Grasping Aggregates"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.178_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Aggregates Subject to Clinging"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

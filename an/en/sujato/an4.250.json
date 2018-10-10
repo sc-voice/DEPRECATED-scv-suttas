@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.250",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.250",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Expressions (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Expressions (2nd)",
+      "uid": "an4.251"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Very Helpful",
+      "uid": "an4.249"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.250:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.250:0.2",
+          "pli": "25. Āpattibhayavagga",
+          "en": "25. Perils of Offenses"
+        },
+        {
+          "scid": "an4.250:0.3",
+          "pli": "250. Paṭhamavohārasutta",
+          "en": "250. Expressions (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.250:1.1",
+          "pli": "“Cattārome, bhikkhave, anariyavohārā.",
+          "en": "“Mendicants, there are these four ignoble expressions."
+        },
+        {
+          "scid": "an4.250:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.250:1.3",
+          "pli": "Adiṭṭhe diṭṭhavāditā, asute sutavāditā, amute mutavāditā, aviññāte viññātavāditā—",
+          "en": "Saying you’ve seen, heard, thought, or cognized something, but you haven’t."
+        },
+        {
+          "scid": "an4.250:1.4",
+          "pli": "ime kho, bhikkhave, cattāro anariyavohārā”ti.",
+          "en": "These are the four ignoble expressions.”"
+        },
+        {
+          "scid": "an4.250:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.250/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.250//AN 4.247",
+    "volpages": "AN ii 246",
+    "uid": "an4.250",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paṭhamavohāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Expressions (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.250_sujato",
+        "segmented": true,
+        "title": "Expressions (1st)"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 8
+  }
+}

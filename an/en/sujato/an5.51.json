@@ -1,0 +1,235 @@
+{
+  "sutta_uid": "an5.51",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.51",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Obstacles",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Heap of the Unskillful",
+      "uid": "an5.52"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Nārada",
+      "uid": "an5.50"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.51:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.51:0.2",
+          "pli": "6. Nīvaraṇavagga",
+          "en": "6. Hindrances"
+        },
+        {
+          "scid": "an5.51:0.3",
+          "pli": "51. Āvaraṇasutta",
+          "en": "51. Obstacles"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.51:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "an5.51:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "an5.51:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "an5.51:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "an5.51:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "an5.51:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "an5.51:2.1",
+          "pli": "“Pañcime, bhikkhave, āvaraṇā nīvaraṇā cetaso ajjhāruhā paññāya dubbalīkaraṇā.",
+          "en": "“Mendicants, there are these five obstacles and hindrances, parasites of the mind that weaken wisdom."
+        },
+        {
+          "scid": "an5.51:2.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.51:2.3",
+          "pli": "Kāmacchando, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo.",
+          "en": "Sensual desire …"
+        },
+        {
+          "scid": "an5.51:2.4",
+          "pli": "Byāpādo, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo.",
+          "en": "Ill will …"
+        },
+        {
+          "scid": "an5.51:2.5",
+          "pli": "Thinamiddhaṃ, bhikkhave, āvaraṇaṃ nīvaraṇaṃ cetaso ajjhāruhaṃ paññāya dubbalīkaraṇaṃ.",
+          "en": "Dullness and drowsiness …"
+        },
+        {
+          "scid": "an5.51:2.6",
+          "pli": "Uddhaccakukkuccaṃ, bhikkhave, āvaraṇaṃ nīvaraṇaṃ cetaso ajjhāruhaṃ paññāya dubbalīkaraṇaṃ.",
+          "en": "Restlessness and remorse …"
+        },
+        {
+          "scid": "an5.51:2.7",
+          "pli": "Vicikicchā, bhikkhave, āvaraṇā nīvaraṇā cetaso ajjhāruhā paññāya dubbalīkaraṇā.",
+          "en": "Doubt …"
+        },
+        {
+          "scid": "an5.51:2.8",
+          "pli": "Ime kho, bhikkhave, pañca āvaraṇā nīvaraṇā cetaso ajjhāruhā paññāya dubbalīkaraṇā.",
+          "en": "These are the five obstacles and hindrances, parasites of the mind that weaken wisdom."
+        },
+        {
+          "scid": "an5.51:3.1",
+          "pli": "So vata, bhikkhave, bhikkhu ime pañca āvaraṇe nīvaraṇe cetaso ajjhāruhe paññāya dubbalīkaraṇe appahāya, abalāya paññāya dubbalāya attatthaṃ vā ñassati paratthaṃ vā ñassati ubhayatthaṃ vā ñassati uttari vā manussadhammā alamariyañāṇadassanavisesaṃ sacchikarissatīti netaṃ ṭhānaṃ vijjati.",
+          "en": "Take a mendicant who has feeble and weak wisdom, not having given up these five obstacles and hindrances, parasites of the mind that weaken wisdom. It’s simply impossible that they would know what’s for their own good, the good of another, or the good of both; or that they would realize any superhuman distinction in knowledge and vision worthy of the noble ones."
+        },
+        {
+          "scid": "an5.51:3.2",
+          "pli": "Seyyathāpi, bhikkhave, nadī pabbateyyā dūraṅgamā sīghasotā hārahārinī.",
+          "en": "Suppose there was a mountain river that flowed swiftly, going far, carrying all before it."
+        },
+        {
+          "scid": "an5.51:3.3",
+          "pli": "Tassā puriso ubhato naṅgalamukhāni vivareyya.",
+          "en": "But then a man would open channels on both sides,"
+        },
+        {
+          "scid": "an5.51:3.4",
+          "pli": "Evañhi so, bhikkhave, majjhe nadiyā soto vikkhitto visaṭo byādiṇṇo neva dūraṅgamo assa na sīghasoto na hārahārī.",
+          "en": "so the mid-river current would be dispersed, spread out, and separated. The river would no longer flow swiftly, going far, carrying all before it."
+        },
+        {
+          "scid": "an5.51:3.5",
+          "pli": "Evamevaṃ kho, bhikkhave, so vata bhikkhu ime pañca āvaraṇe nīvaraṇe cetaso ajjhāruhe paññāya dubbalīkaraṇe appahāya, abalāya paññāya dubbalāya attatthaṃ vā ñassati paratthaṃ vā ñassati ubhayatthaṃ vā ñassati uttari vā manussadhammā alamariyañāṇadassanavisesaṃ sacchikarissatīti netaṃ ṭhānaṃ vijjati.",
+          "en": "In the same way, take a mendicant who has feeble and weak wisdom, not having given up these five obstacles and hindrances, parasites of the mind that weaken wisdom. It’s simply impossible that they would know what’s for their own good, the good of another, or the good of both; or that they would realize any superhuman distinction in knowledge and vision worthy of the noble ones."
+        },
+        {
+          "scid": "an5.51:4.1",
+          "pli": "So vata, bhikkhave, bhikkhu ime pañca āvaraṇe nīvaraṇe cetaso ajjhāruhe paññāya dubbalīkaraṇe pahāya, balavatiyā paññāya attatthaṃ vā ñassati paratthaṃ vā ñassati ubhayatthaṃ vā ñassati uttari vā manussadhammā alamariyañāṇadassanavisesaṃ sacchikarissatīti ṭhānametaṃ vijjati.",
+          "en": "Take a mendicant who has powerful wisdom, having given up these five obstacles and hindrances, parasites of the mind that weaken wisdom. It’s quite possible that they would know what’s for their own good, the good of another, or the good of both; or that they would realize any superhuman distinction in knowledge and vision worthy of the noble ones."
+        },
+        {
+          "scid": "an5.51:4.2",
+          "pli": "Seyyathāpi, bhikkhave, nadī pabbateyyā dūraṅgamā sīghasotā hārahārinī.",
+          "en": "Suppose there was a mountain river that flowed swiftly, going far, carrying all before it."
+        },
+        {
+          "scid": "an5.51:4.3",
+          "pli": "Tassā puriso ubhato naṅgalamukhāni pidaheyya.",
+          "en": "But then a man would close up the channels on both sides,"
+        },
+        {
+          "scid": "an5.51:4.4",
+          "pli": "Evañhi so, bhikkhave, majjhe nadiyā soto avikkhitto avisaṭo abyādiṇṇo dūraṅgamo ceva assa sīghasoto ca hārahārī ca.",
+          "en": "so the mid-river current would not be dispersed, spread out, and separated. The river would keep flowing swiftly for a long way, carrying all before it."
+        },
+        {
+          "scid": "an5.51:4.5",
+          "pli": "Evamevaṃ kho, bhikkhave, so vata bhikkhu ime pañca āvaraṇe nīvaraṇe cetaso ajjhāruhe paññāya dubbalīkaraṇe pahāya, balavatiyā paññāya attatthaṃ vā ñassati paratthaṃ vā ñassati ubhayatthaṃ vā ñassati uttari vā manussadhammā alamariyañāṇadassanavisesaṃ sacchikarissatīti ṭhānametaṃ vijjatī”ti.",
+          "en": "In the same way, take a mendicant who has powerful wisdom, having given up these five obstacles and hindrances, parasites of the mind that weaken wisdom. It’s quite possible that they would know what’s for their own good, the good of another, or the good of both; or that they would realize any superhuman distinction in knowledge and vision worthy of the noble ones.”"
+        },
+        {
+          "scid": "an5.51:4.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.51/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.51",
+    "volpages": "AN iii 63",
+    "uid": "an5.51",
+    "blurb": "The five hindrances weaken wisdom like side-channels weaken a river’s flow.",
+    "difficulty": null,
+    "original_title": "Āvaraṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Obstacles",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.51_sujato",
+        "segmented": true,
+        "title": "Obstacles"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an5.51_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Obstructions"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 1
+  }
+}

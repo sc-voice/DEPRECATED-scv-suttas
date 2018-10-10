@@ -1,0 +1,515 @@
+{
+  "sutta_uid": "sn10.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn10.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Āḷavaka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Suvīra",
+      "uid": "sn11.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With the Nun Cīrā",
+      "uid": "sn10.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn10.12:0.1",
+          "pli": "Saṃyutta Nikāya 10",
+          "en": "Linked Discourses 10"
+        },
+        {
+          "scid": "sn10.12:0.2",
+          "pli": "1. Indakavagga",
+          "en": "1. With Indaka"
+        },
+        {
+          "scid": "sn10.12:0.3",
+          "pli": "12. Āḷavakasutta",
+          "en": "12. With Āḷavaka"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn10.12:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn10.12:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā āḷaviyaṃ viharati āḷavakassa yakkhassa bhavane.",
+          "en": "At one time the Buddha was staying near Āḷavī in the haunt of the native spirit Āḷavaka."
+        },
+        {
+          "scid": "sn10.12:1.3",
+          "pli": "Atha kho āḷavako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ etadavoca:",
+          "en": "Then the native spirit Āḷavaka went up to the Buddha, and said to him:"
+        },
+        {
+          "scid": "sn10.12:1.4",
+          "pli": "“nikkhama, samaṇā”ti.",
+          "en": "“Get out, ascetic!”"
+        },
+        {
+          "scid": "sn10.12:1.5",
+          "pli": "“Sādhāvuso”ti bhagavā nikkhami.",
+          "en": "Saying, “All right, sir,” the Buddha went out."
+        },
+        {
+          "scid": "sn10.12:1.6",
+          "pli": "“Pavisa, samaṇā”ti.",
+          "en": "“Get in, ascetic!”"
+        },
+        {
+          "scid": "sn10.12:1.7",
+          "pli": "“Sādhāvuso”ti bhagavā pāvisi.",
+          "en": "Saying, “All right, sir,” the Buddha went in."
+        },
+        {
+          "scid": "sn10.12:1.8",
+          "pli": "Dutiyampi kho āḷavako yakkho bhagavantaṃ etadavoca:",
+          "en": "And for a second time the native spirit Āḷavaka said to the Buddha:"
+        },
+        {
+          "scid": "sn10.12:1.9",
+          "pli": "“nikkhama, samaṇā”ti.",
+          "en": "“Get out, ascetic!”"
+        },
+        {
+          "scid": "sn10.12:1.10",
+          "pli": "“Sādhāvuso”ti bhagavā nikkhami.",
+          "en": "Saying, “All right, sir,” the Buddha went out."
+        },
+        {
+          "scid": "sn10.12:1.11",
+          "pli": "“Pavisa, samaṇā”ti.",
+          "en": "“Get in, ascetic!”"
+        },
+        {
+          "scid": "sn10.12:1.12",
+          "pli": "“Sādhāvuso”ti bhagavā pāvisi.",
+          "en": "Saying, “All right, sir,” the Buddha went in."
+        },
+        {
+          "scid": "sn10.12:1.13",
+          "pli": "Tatiyampi kho āḷavako yakkho bhagavantaṃ etadavoca:",
+          "en": "And for a third time the native spirit Āḷavaka said to the Buddha:"
+        },
+        {
+          "scid": "sn10.12:1.14",
+          "pli": "“nikkhama, samaṇā”ti.",
+          "en": "“Get out, ascetic!”"
+        },
+        {
+          "scid": "sn10.12:1.15",
+          "pli": "“Sādhāvuso”ti bhagavā nikkhami.",
+          "en": "Saying, “All right, sir,” the Buddha went out."
+        },
+        {
+          "scid": "sn10.12:1.16",
+          "pli": "“Pavisa, samaṇā”ti.",
+          "en": "“Get in, ascetic!”"
+        },
+        {
+          "scid": "sn10.12:1.17",
+          "pli": "“Sādhāvuso”ti bhagavā pāvisi.",
+          "en": "Saying, “All right, sir,” the Buddha went in."
+        },
+        {
+          "scid": "sn10.12:1.18",
+          "pli": "Catutthampi kho āḷavako yakkho bhagavantaṃ etadavoca:",
+          "en": "And for a fourth time the native spirit Āḷavaka said to the Buddha:"
+        },
+        {
+          "scid": "sn10.12:1.19",
+          "pli": "“nikkhama, samaṇā”ti.",
+          "en": "“Get out, ascetic!”"
+        },
+        {
+          "scid": "sn10.12:1.20",
+          "pli": "“Na khvāhaṃ taṃ, āvuso, nikkhamissāmi.",
+          "en": "“No, sir, I won’t get out."
+        },
+        {
+          "scid": "sn10.12:1.21",
+          "pli": "Yaṃ te karaṇīyaṃ taṃ karohī”ti.",
+          "en": "Do whatever you have to do.”"
+        },
+        {
+          "scid": "sn10.12:1.22",
+          "pli": "“Pañhaṃ taṃ, samaṇa, pucchissāmi.",
+          "en": "“I will ask you a question, ascetic."
+        },
+        {
+          "scid": "sn10.12:1.23",
+          "pli": "Sace me na byākarissasi, cittaṃ vā te khipissāmi, hadayaṃ vā te phālessāmi, pādesu vā gahetvā pāragaṅgāya khipissāmī”ti.",
+          "en": "If you don’t answer me, I’ll drive you insane, or explode your heart, or grab you by the feet and throw you to the far shore of the Ganges!”"
+        },
+        {
+          "scid": "sn10.12:1.24",
+          "pli": "“Na khvāhaṃ taṃ, āvuso, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya, yo me cittaṃ vā khipeyya hadayaṃ vā phāleyya, pādesu vā gahetvā pāragaṅgāya khipeyya.",
+          "en": "“I don’t see anyone in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans who could do that to me."
+        },
+        {
+          "scid": "sn10.12:1.25",
+          "pli": "Api ca tvaṃ, āvuso, puccha yadā kaṅkhasī”ti ().",
+          "en": "But anyway, ask what you wish.”"
+        },
+        {
+          "scid": "sn10.12:2.1",
+          "pli": "“Kiṃsūdha vittaṃ purisassa seṭṭhaṃ,",
+          "en": "“What’s a person’s best wealth?"
+        },
+        {
+          "scid": "sn10.12:2.2",
+          "pli": "Kiṃsu suciṇṇaṃ sukhamāvahāti;",
+          "en": "What brings happiness when practiced well?"
+        },
+        {
+          "scid": "sn10.12:2.3",
+          "pli": "Kiṃsu have sādutaraṃ rasānaṃ,",
+          "en": "What’s the sweetest taste of all?"
+        },
+        {
+          "scid": "sn10.12:2.4",
+          "pli": "Kathaṃjīviṃ jīvitamāhu seṭṭhan”ti.",
+          "en": "The one who they say has the best life: how do they live?”"
+        },
+        {
+          "scid": "sn10.12:3.1",
+          "pli": "“Saddhīdha vittaṃ purisassa seṭṭhaṃ,",
+          "en": "“Faith here is a person’s best wealth."
+        },
+        {
+          "scid": "sn10.12:3.2",
+          "pli": "Dhammo suciṇṇo sukhamāvahāti;",
+          "en": "The teaching brings happiness when practiced well."
+        },
+        {
+          "scid": "sn10.12:3.3",
+          "pli": "Saccaṃ have sādutaraṃ rasānaṃ,",
+          "en": "Truth is the sweetest taste of all."
+        },
+        {
+          "scid": "sn10.12:3.4",
+          "pli": "Paññājīviṃ jīvitamāhu seṭṭhan”ti.",
+          "en": "The one who they say has the best life lives by wisdom.”"
+        },
+        {
+          "scid": "sn10.12:4.1",
+          "pli": "“Kathaṃsu tarati oghaṃ,",
+          "en": "“How do you cross the flood?"
+        },
+        {
+          "scid": "sn10.12:4.2",
+          "pli": "kathaṃsu tarati aṇṇavaṃ;",
+          "en": "How do you cross the deluge?"
+        },
+        {
+          "scid": "sn10.12:4.3",
+          "pli": "Kathaṃsu dukkhamacceti,",
+          "en": "How do you get over suffering?"
+        },
+        {
+          "scid": "sn10.12:4.4",
+          "pli": "kathaṃsu parisujjhatī”ti.",
+          "en": "How do you get purified?”"
+        },
+        {
+          "scid": "sn10.12:5.1",
+          "pli": "“Saddhāya tarati oghaṃ,",
+          "en": "“By faith you cross the flood,"
+        },
+        {
+          "scid": "sn10.12:5.2",
+          "pli": "appamādena aṇṇavaṃ;",
+          "en": "and by diligence the deluge."
+        },
+        {
+          "scid": "sn10.12:5.3",
+          "pli": "Vīriyena dukkhamacceti,",
+          "en": "By energy you get past suffering,"
+        },
+        {
+          "scid": "sn10.12:5.4",
+          "pli": "paññāya parisujjhatī”ti.",
+          "en": "and you’re purified by wisdom.”"
+        },
+        {
+          "scid": "sn10.12:6.1",
+          "pli": "“Kathaṃsu labhate paññaṃ,",
+          "en": "“How do you get wisdom?"
+        },
+        {
+          "scid": "sn10.12:6.2",
+          "pli": "kathaṃsu vindate dhanaṃ;",
+          "en": "How do you earn wealth?"
+        },
+        {
+          "scid": "sn10.12:6.3",
+          "pli": "Kathaṃsu kittiṃ pappoti,",
+          "en": "How do you get a good reputation?"
+        },
+        {
+          "scid": "sn10.12:6.4",
+          "pli": "kathaṃ mittāni ganthati;",
+          "en": "How do you hold on to friends?"
+        },
+        {
+          "scid": "sn10.12:6.5",
+          "pli": "Asmā lokā paraṃ lokaṃ,",
+          "en": "When you pass on from this world to the next,"
+        },
+        {
+          "scid": "sn10.12:6.6",
+          "pli": "kathaṃ pecca na socatī”ti.",
+          "en": "how do you not sorrow?”"
+        },
+        {
+          "scid": "sn10.12:7.1",
+          "pli": "“Saddahāno arahataṃ,",
+          "en": "“One who is diligent and discerning"
+        },
+        {
+          "scid": "sn10.12:7.2",
+          "pli": "dhammaṃ nibbānapattiyā;",
+          "en": "gains wisdom by wanting to learn,"
+        },
+        {
+          "scid": "sn10.12:7.3",
+          "pli": "Sussūsaṃ labhate paññaṃ,",
+          "en": "having faith in the perfected ones,"
+        },
+        {
+          "scid": "sn10.12:7.4",
+          "pli": "appamatto vicakkhaṇo.",
+          "en": "and the teaching for becoming extinguished."
+        },
+        {
+          "scid": "sn10.12:8.1",
+          "pli": "Patirūpakārī dhuravā,",
+          "en": "Being responsible, acting appropriately,"
+        },
+        {
+          "scid": "sn10.12:8.2",
+          "pli": "uṭṭhātā vindate dhanaṃ;",
+          "en": "and working hard you earn wealth."
+        },
+        {
+          "scid": "sn10.12:8.3",
+          "pli": "Saccena kittiṃ pappoti,",
+          "en": "Truthfulness wins you a good reputation."
+        },
+        {
+          "scid": "sn10.12:8.4",
+          "pli": "dadaṃ mittāni ganthati;",
+          "en": "You hold on to friends by giving."
+        },
+        {
+          "scid": "sn10.12:8.5",
+          "pli": "Asmā lokā paraṃ lokaṃ,",
+          "en": "When you pass on from this world to the next,"
+        },
+        {
+          "scid": "sn10.12:8.6",
+          "pli": "evaṃ pecca na socati.",
+          "en": "that’s how you do not sorrow."
+        },
+        {
+          "scid": "sn10.12:9.1",
+          "pli": "Yassete caturo dhammā,",
+          "en": "A faithful householder"
+        },
+        {
+          "scid": "sn10.12:9.2",
+          "pli": "saddhassa gharamesino;",
+          "en": "who has these four qualities"
+        },
+        {
+          "scid": "sn10.12:9.3",
+          "pli": "Saccaṃ dhammo dhiti cāgo,",
+          "en": "does not sorrow after death:"
+        },
+        {
+          "scid": "sn10.12:9.4",
+          "pli": "sa ve pecca na socati.",
+          "en": "truth, principle, steadfastness, and generosity."
+        },
+        {
+          "scid": "sn10.12:10.1",
+          "pli": "Iṅgha aññepi pucchassu,",
+          "en": "Go ahead, ask others as well,"
+        },
+        {
+          "scid": "sn10.12:10.2",
+          "pli": "puthū samaṇabrāhmaṇe;",
+          "en": "there are many ascetics and brahmins."
+        },
+        {
+          "scid": "sn10.12:10.3",
+          "pli": "Yadi saccā dhammā cāgā,",
+          "en": "See whether anything better is found"
+        },
+        {
+          "scid": "sn10.12:10.4",
+          "pli": "khantyā bhiyyodha vijjatī”ti.",
+          "en": "than truth, self-control, generosity, and patience.”"
+        },
+        {
+          "scid": "sn10.12:11.1",
+          "pli": "“Kathaṃ nu dāni puccheyyaṃ,",
+          "en": "“Why now would I question"
+        },
+        {
+          "scid": "sn10.12:11.2",
+          "pli": "puthū samaṇabrāhmaṇe;",
+          "en": "the many ascetics and brahmins?"
+        },
+        {
+          "scid": "sn10.12:11.3",
+          "pli": "Yohaṃ ajja pajānāmi,",
+          "en": "Today I understand"
+        },
+        {
+          "scid": "sn10.12:11.4",
+          "pli": "yo attho samparāyiko.",
+          "en": "what’s good for the next life."
+        },
+        {
+          "scid": "sn10.12:12.1",
+          "pli": "Atthāya vata me buddho,",
+          "en": "It was truly for my benefit"
+        },
+        {
+          "scid": "sn10.12:12.2",
+          "pli": "vāsāyāḷavimāgamā;",
+          "en": "that the Buddha came to stay at Āḷavī."
+        },
+        {
+          "scid": "sn10.12:12.3",
+          "pli": "Yohaṃ ajja pajānāmi,",
+          "en": "Today I understand"
+        },
+        {
+          "scid": "sn10.12:12.4",
+          "pli": "yattha dinnaṃ mahapphalaṃ.",
+          "en": "where a gift is very fruitful."
+        },
+        {
+          "scid": "sn10.12:13.1",
+          "pli": "So ahaṃ vicarissāmi,",
+          "en": "I myself will journey"
+        },
+        {
+          "scid": "sn10.12:13.2",
+          "pli": "Gāmā gāmaṃ purā puraṃ;",
+          "en": "village to village, town to town,"
+        },
+        {
+          "scid": "sn10.12:13.3",
+          "pli": "Namassamāno sambuddhaṃ,",
+          "en": "paying homage to the Buddha,"
+        },
+        {
+          "scid": "sn10.12:13.4",
+          "pli": "Dhammassa ca sudhammatan”ti.",
+          "en": "and the natural excellence of the teaching!”"
+        },
+        {
+          "scid": "sn10.12:13.5",
+          "pli": "Indakavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn10.12:14.1",
+          "pli": "Indako sakka sūci ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn10.12:14.2",
+          "pli": "Maṇibhaddo ca sānu ca;",
+          "en": ""
+        },
+        {
+          "scid": "sn10.12:14.3",
+          "pli": "Piyaṅkara punabbasu sudatto ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn10.12:14.4",
+          "pli": "Dve sukkā cīraāḷavīti dvādasa.",
+          "en": ""
+        },
+        {
+          "scid": "sn10.12:14.5",
+          "pli": "Yakkhasaṃyuttaṃ samattaṃ.",
+          "en": "The Linked Discourses with Native Spirits are complete."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn10.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 10.12//SN 246",
+    "volpages": "SN i 213//SN i 460",
+    "uid": "sn10.12",
+    "blurb": "The famous story of the spirit Āḷavaka, who tries to bully the Buddha, but is soon persuaded through a surprisingly insightful series of questions and answers. This discourse provided the background for several elaborate legends in the later traditions",
+    "difficulty": null,
+    "original_title": "Āḷavaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Āḷavaka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn10.12_sujato",
+        "segmented": true,
+        "title": "With Āḷavaka"
+      }
+    ],
+    "parallel_count": 12,
+    "biblio": null,
+    "num": 12
+  }
+}

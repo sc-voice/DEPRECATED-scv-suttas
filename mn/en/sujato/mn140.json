@@ -1,0 +1,1290 @@
+{
+  "sutta_uid": "mn140",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn140",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Analysis of the Elements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Analysis of the Truths",
+      "uid": "mn141"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Analysis of Non-Conflict",
+      "uid": "mn139"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn140:0.1",
+          "pli": "Majjhima Nikāya 140",
+          "en": "Middle Discourses 140"
+        },
+        {
+          "scid": "mn140:0.2",
+          "pli": "Dhātuvibhaṅgasutta",
+          "en": "The Analysis of the Elements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 140…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn140:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn140:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā magadhesu cārikaṃ caramāno yena rājagahaṃ tadavasari;",
+          "en": "At one time the Buddha was wandering in the Magadhan lands when he arrived at Rājagaha."
+        },
+        {
+          "scid": "mn140:1.3",
+          "pli": "yena bhaggavo kumbhakāro tenupasaṅkami; upasaṅkamitvā bhaggavaṃ kumbhakāraṃ etadavoca:",
+          "en": "He went to see Bhaggava the potter, and said:"
+        },
+        {
+          "scid": "mn140:2.1",
+          "pli": "“sace te, bhaggava, agaru viharemu āvesane ekarattan”ti.",
+          "en": "“Bhaggava, if it is no trouble, I’d like to spend a single night in your workshop.”"
+        },
+        {
+          "scid": "mn140:2.2",
+          "pli": "“Na kho me, bhante, garu.",
+          "en": "“It’s no trouble, sir."
+        },
+        {
+          "scid": "mn140:2.3",
+          "pli": "Atthi cettha pabbajito paṭhamaṃ vāsūpagato.",
+          "en": "But there’s a renunciate already staying there."
+        },
+        {
+          "scid": "mn140:2.4",
+          "pli": "Sace so anujānāti, viharatha, bhante, yathāsukhan”ti.",
+          "en": "If he allows it, sir, you may stay as long as you like.”"
+        },
+        {
+          "scid": "mn140:3.1",
+          "pli": "Tena kho pana samayena pukkusāti nāma kulaputto bhagavantaṃ uddissa saddhāya agārasmā anagāriyaṃ pabbajito.",
+          "en": "Now at that time a son of a good family named Pukkusāti had gone forth from the lay life to homelessness out of faith in the Buddha."
+        },
+        {
+          "scid": "mn140:3.2",
+          "pli": "So tasmiṃ kumbhakārāvesane paṭhamaṃ vāsūpagato hoti.",
+          "en": "And it was he who had first taken up residence in the workshop."
+        },
+        {
+          "scid": "mn140:3.3",
+          "pli": "Atha kho bhagavā yenāyasmā pukkusāti tenupasaṅkami; upasaṅkamitvā āyasmantaṃ pukkusātiṃ etadavoca:",
+          "en": "Then the Buddha approached Venerable Pukkusāti and said:"
+        },
+        {
+          "scid": "mn140:3.4",
+          "pli": "“sace te, bhikkhu, agaru viharemu āvesane ekarattan”ti.",
+          "en": "“Mendicant, if it is no trouble, I’d like to spend a single night in the workshop.”"
+        },
+        {
+          "scid": "mn140:3.5",
+          "pli": "“Urundaṃ, āvuso, kumbhakārāvesanaṃ.",
+          "en": "“The potter’s workshop is spacious, reverend."
+        },
+        {
+          "scid": "mn140:3.6",
+          "pli": "Viharatāyasmā yathāsukhan”ti.",
+          "en": "Please stay as long as you like.”"
+        },
+        {
+          "scid": "mn140:4.1",
+          "pli": "Atha kho bhagavā kumbhakārāvesanaṃ pavisitvā ekamantaṃ tiṇasanthārakaṃ paññāpetvā nisīdi pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
+          "en": "Then the Buddha entered the workshop and spread out a grass mat to one side. He sat down cross-legged, with his body straight, and established mindfulness right there."
+        },
+        {
+          "scid": "mn140:4.2",
+          "pli": "Atha kho bhagavā bahudeva rattiṃ nisajjāya vītināmesi.",
+          "en": "He spent most of the night sitting meditation,"
+        },
+        {
+          "scid": "mn140:4.3",
+          "pli": "Āyasmāpi kho pukkusāti bahudeva rattiṃ nisajjāya vītināmesi.",
+          "en": "and so did Pukkusāti."
+        },
+        {
+          "scid": "mn140:4.4",
+          "pli": "Atha kho bhagavato etadahosi:",
+          "en": "Then it occurred to the Buddha:"
+        },
+        {
+          "scid": "mn140:4.5",
+          "pli": "“pāsādikaṃ kho ayaṃ kulaputto iriyati.",
+          "en": "“This respectable person’s conduct is impressive."
+        },
+        {
+          "scid": "mn140:4.6",
+          "pli": "Yannūnāhaṃ puccheyyan”ti.",
+          "en": "Why don’t I question him?”"
+        },
+        {
+          "scid": "mn140:4.7",
+          "pli": "Atha kho bhagavā āyasmantaṃ pukkusātiṃ etadavoca:",
+          "en": "So the Buddha said to Pukkusāti:"
+        },
+        {
+          "scid": "mn140:5.1",
+          "pli": "“kaṃsi tvaṃ, bhikkhu, uddissa pabbajito? Ko vā te satthā? Kassa vā tvaṃ dhammaṃ rocesī”ti?",
+          "en": "“In whose name have you gone forth, reverend? Who is your Teacher? Whose teaching do you believe in?”"
+        },
+        {
+          "scid": "mn140:5.2",
+          "pli": "“Atthāvuso, samaṇo gotamo sakyaputto sakyakulā pabbajito.",
+          "en": "“Reverend, there is the ascetic Gotama—a Sakyan, gone forth from a Sakyan family."
+        },
+        {
+          "scid": "mn140:5.3",
+          "pli": "Taṃ kho pana bhagavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato:",
+          "en": "He has this good reputation:"
+        },
+        {
+          "scid": "mn140:5.4",
+          "pli": "‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti.",
+          "en": "‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’"
+        },
+        {
+          "scid": "mn140:5.5",
+          "pli": "Tāhaṃ bhagavantaṃ uddissa pabbajito.",
+          "en": "I’ve gone forth in his name."
+        },
+        {
+          "scid": "mn140:5.6",
+          "pli": "So ca me bhagavā satthā.",
+          "en": "That Blessed One is my Teacher,"
+        },
+        {
+          "scid": "mn140:5.7",
+          "pli": "Tassa cāhaṃ bhagavato dhammaṃ rocemī”ti.",
+          "en": "and I believe in his teaching.”"
+        },
+        {
+          "scid": "mn140:5.8",
+          "pli": "“Kahaṃ pana, bhikkhu, etarahi so bhagavā viharati arahaṃ sammāsambuddho”ti.",
+          "en": "“But mendicant, where is the Blessed One at present, the perfected one, the fully awakened Buddha?"
+        },
+        {
+          "scid": "mn140:5.9",
+          "pli": "“Atthāvuso, uttaresu janapadesu sāvatthi nāma nagaraṃ.",
+          "en": "“In the northern lands there is a city called Sāvatthī."
+        },
+        {
+          "scid": "mn140:5.10",
+          "pli": "Tattha so bhagavā etarahi viharati arahaṃ sammāsambuddho”ti.",
+          "en": "There the Blessed One is now staying, the perfected one, the fully awakened Buddha.”"
+        },
+        {
+          "scid": "mn140:5.11",
+          "pli": "“Diṭṭhapubbo pana te, bhikkhu, so bhagavā;",
+          "en": "“But have you ever seen that Buddha?"
+        },
+        {
+          "scid": "mn140:5.12",
+          "pli": "disvā ca pana jāneyyāsī”ti?",
+          "en": "Would you recognize him if you saw him?”"
+        },
+        {
+          "scid": "mn140:5.13",
+          "pli": "“Na kho me, āvuso, diṭṭhapubbo so bhagavā;",
+          "en": "“No, I’ve never seen him,"
+        },
+        {
+          "scid": "mn140:5.14",
+          "pli": "disvā cāhaṃ na jāneyyan”ti.",
+          "en": "and I wouldn’t recognize him if I did.”"
+        },
+        {
+          "scid": "mn140:6.1",
+          "pli": "Atha kho bhagavato etadahosi:",
+          "en": "Then it occurred to the Buddha:"
+        },
+        {
+          "scid": "mn140:6.2",
+          "pli": "“mamañca khvāyaṃ kulaputto uddissa pabbajito.",
+          "en": "“This respectable person has gone forth in my name."
+        },
+        {
+          "scid": "mn140:6.3",
+          "pli": "Yannūnassāhaṃ dhammaṃ deseyyan”ti.",
+          "en": "Why don’t I teach him the Dhamma?”"
+        },
+        {
+          "scid": "mn140:6.4",
+          "pli": "Atha kho bhagavā āyasmantaṃ pukkusātiṃ āmantesi:",
+          "en": "So the Buddha said to Pukkusāti:"
+        },
+        {
+          "scid": "mn140:6.5",
+          "pli": "“dhammaṃ te, bhikkhu, desessāmi.",
+          "en": "“Mendicant, I shall teach you the Dhamma."
+        },
+        {
+          "scid": "mn140:6.6",
+          "pli": "Taṃ suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti.",
+          "en": "Listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "mn140:6.7",
+          "pli": "“Evamāvuso”ti kho āyasmā pukkusāti bhagavato paccassosi.",
+          "en": "“Yes, reverend,” replied Pukkusāti."
+        },
+        {
+          "scid": "mn140:6.8",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn140:7.1",
+          "pli": "“‘Cha dhāturo ayaṃ, bhikkhu, puriso cha phassāyatano aṭṭhārasa manopavicāro caturādhiṭṭhāno;",
+          "en": "“‘This person has six elements, six fields of contact, and eighteen mental neighborhoods."
+        },
+        {
+          "scid": "mn140:7.2",
+          "pli": "yattha ṭhitaṃ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccati.",
+          "en": "They have four foundations, standing on which the streams of conceit don’t flow. And when the streams of conceit don’t flow, they’re called a sage at peace."
+        },
+        {
+          "scid": "mn140:7.3",
+          "pli": "Paññaṃ nappamajjeyya, saccamanurakkheyya, cāgamanubrūheyya, santimeva so sikkheyyā’ti—",
+          "en": "‘Don’t neglect wisdom, preserve truth, foster generosity, and train only for peace.’"
+        },
+        {
+          "scid": "mn140:7.4",
+          "pli": "ayamuddeso dhātuvibhaṅgassa.",
+          "en": "This is the recitation passage for the analysis of the elements."
+        },
+        {
+          "scid": "mn140:8.1",
+          "pli": "‘Cha dhāturo ayaṃ, bhikkhu, puriso’ti—",
+          "en": "‘This person has six elements.’"
+        },
+        {
+          "scid": "mn140:8.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "mn140:8.3",
+          "pli": "Chayimā, bhikkhu, dhātuyo—",
+          "en": "There are these six elements:"
+        },
+        {
+          "scid": "mn140:8.4",
+          "pli": "pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu.",
+          "en": "the elements of earth, water, fire, air, space, and consciousness."
+        },
+        {
+          "scid": "mn140:8.5",
+          "pli": "‘Cha dhāturo ayaṃ, bhikkhu, puriso’ti—",
+          "en": "‘This person has six elements.’"
+        },
+        {
+          "scid": "mn140:8.6",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "mn140:9.1",
+          "pli": "‘Cha phassāyatano ayaṃ, bhikkhu, puriso’ti—",
+          "en": "‘This person has six fields of contact.’"
+        },
+        {
+          "scid": "mn140:9.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "mn140:9.3",
+          "pli": "Cakkhusamphassāyatanaṃ, sotasamphassāyatanaṃ, ghānasamphassāyatanaṃ, jivhāsamphassāyatanaṃ, kāyasamphassāyatanaṃ, manosamphassāyatanaṃ.",
+          "en": "The fields of contact of the eye, ear, nose, tongue, body, and mind."
+        },
+        {
+          "scid": "mn140:9.4",
+          "pli": "‘Cha phassāyatano ayaṃ, bhikkhu, puriso’ti—",
+          "en": "‘This person has six fields of contact.’"
+        },
+        {
+          "scid": "mn140:9.5",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "mn140:10.1",
+          "pli": "‘Aṭṭhārasa manopavicāro ayaṃ, bhikkhu, puriso’ti—",
+          "en": "‘This person has eighteen mental neighborhoods.’"
+        },
+        {
+          "scid": "mn140:10.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "mn140:10.3",
+          "pli": "Cakkhunā rūpaṃ disvā somanassaṭṭhāniyaṃ rūpaṃ upavicarati, domanassaṭṭhāniyaṃ rūpaṃ upavicarati, upekkhāṭṭhāniyaṃ rūpaṃ upavicarati;",
+          "en": "Seeing a sight with the eye, they linger in the neighborhood of a sight that’s a basis for happiness or sadness or equanimity."
+        },
+        {
+          "scid": "mn140:10.4",
+          "pli": "sotena saddaṃ sutvā … pe …",
+          "en": "Hearing a sound with the ear …"
+        },
+        {
+          "scid": "mn140:10.5",
+          "pli": "ghānena gandhaṃ ghāyitvā …",
+          "en": "Smelling an odor with the nose …"
+        },
+        {
+          "scid": "mn140:10.6",
+          "pli": "jivhāya rasaṃ sāyitvā …",
+          "en": "Tasting a flavor with the tongue …"
+        },
+        {
+          "scid": "mn140:10.7",
+          "pli": "kāyena phoṭṭhabbaṃ phusitvā …",
+          "en": "Feeling a touch with the body …"
+        },
+        {
+          "scid": "mn140:10.8",
+          "pli": "manasā dhammaṃ viññāya somanassaṭṭhāniyaṃ dhammaṃ upavicarati, domanassaṭṭhāniyaṃ dhammaṃ upavicarati, upekkhāṭṭhāniyaṃ dhammaṃ upavicarati—",
+          "en": "Becoming conscious of a thought with the mind, they linger in the neighborhood of a thought that’s a basis for happiness or sadness or equanimity."
+        },
+        {
+          "scid": "mn140:10.9",
+          "pli": "iti cha somanassupavicārā, cha domanassupavicārā, cha upekkhupavicārā.",
+          "en": "So there are six neighborhoods near happiness, six neighborhoods near sadness, and six neighborhoods near equanimity."
+        },
+        {
+          "scid": "mn140:10.10",
+          "pli": "‘Aṭṭhārasa manopavicāro ayaṃ, bhikkhu, puriso’ti—",
+          "en": "‘This person has eighteen mental neighborhoods.’"
+        },
+        {
+          "scid": "mn140:10.11",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "mn140:11.1",
+          "pli": "‘Caturādhiṭṭhāno ayaṃ, bhikkhu, puriso’ti—",
+          "en": "‘This person has four foundations.’"
+        },
+        {
+          "scid": "mn140:11.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "mn140:11.3",
+          "pli": "Paññādhiṭṭhāno, saccādhiṭṭhāno, cāgādhiṭṭhāno, upasamādhiṭṭhāno.",
+          "en": "The foundations of wisdom, truth, generosity, and peace."
+        },
+        {
+          "scid": "mn140:11.4",
+          "pli": "‘Caturādhiṭṭhāno ayaṃ, bhikkhu, puriso’ti—",
+          "en": "‘This person has four foundations.’"
+        },
+        {
+          "scid": "mn140:11.5",
+          "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "mn140:12.1",
+          "pli": "‘Paññaṃ nappamajjeyya, saccamanurakkheyya, cāgamanubrūheyya, santimeva so sikkheyyā’ti—",
+          "en": "‘Don’t neglect wisdom, preserve truth, foster generosity, and train only for peace.’"
+        },
+        {
+          "scid": "mn140:12.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "mn140:13.1",
+          "pli": "Kathañca, bhikkhu, paññaṃ nappamajjati?",
+          "en": "And how does one not neglect wisdom?"
+        },
+        {
+          "scid": "mn140:13.2",
+          "pli": "Chayimā, bhikkhu, dhātuyo—",
+          "en": "There are these six elements:"
+        },
+        {
+          "scid": "mn140:13.3",
+          "pli": "pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu.",
+          "en": "the elements of earth, water, fire, air, space, and consciousness."
+        },
+        {
+          "scid": "mn140:14.1",
+          "pli": "Katamā ca, bhikkhu, pathavīdhātu?",
+          "en": "And what is the earth element?"
+        },
+        {
+          "scid": "mn140:14.2",
+          "pli": "Pathavīdhātu siyā ajjhattikā siyā bāhirā.",
+          "en": "The earth element may be interior or exterior."
+        },
+        {
+          "scid": "mn140:14.3",
+          "pli": "Katamā ca, bhikkhu, ajjhattikā pathavīdhātu?",
+          "en": "And what is the interior earth element?"
+        },
+        {
+          "scid": "mn140:14.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ kakkhaḷaṃ kharigataṃ upādinnaṃ, seyyathidaṃ—",
+          "en": "Anything hard, solid, and organic that’s internal, pertaining to an individual. This includes"
+        },
+        {
+          "scid": "mn140:14.5",
+          "pli": "kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ kakkhaḷaṃ kharigataṃ upādinnaṃ—",
+          "en": "head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, or anything else hard, solid, and organic that’s internal, pertaining to an individual."
+        },
+        {
+          "scid": "mn140:14.6",
+          "pli": "ayaṃ vuccati, bhikkhu, ajjhattikā pathavīdhātu.",
+          "en": "This is called the interior earth element."
+        },
+        {
+          "scid": "mn140:14.7",
+          "pli": "Yā ceva kho pana ajjhattikā pathavīdhātu yā ca bāhirā pathavīdhātu pathavīdhāturevesā.",
+          "en": "The interior earth element and the exterior earth element are just the earth element."
+        },
+        {
+          "scid": "mn140:14.8",
+          "pli": "‘Taṃ netaṃ mama nesohamasmi na meso attā’ti—evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn140:14.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā pathavīdhātuyā nibbindati, pathavīdhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you reject the earth element, detaching the mind from the earth element."
+        },
+        {
+          "scid": "mn140:15.1",
+          "pli": "Katamā ca, bhikkhu, āpodhātu?",
+          "en": "And what is the water element?"
+        },
+        {
+          "scid": "mn140:15.2",
+          "pli": "Āpodhātu siyā ajjhattikā siyā bāhirā.",
+          "en": "The water element may be interior or exterior."
+        },
+        {
+          "scid": "mn140:15.3",
+          "pli": "Katamā ca, bhikkhu, ajjhattikā āpodhātu?",
+          "en": "And what is the interior water element?"
+        },
+        {
+          "scid": "mn140:15.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ āpo āpogataṃ upādinnaṃ seyyathidaṃ—",
+          "en": "Anything that’s water, watery, and organic that’s internal, pertaining to an individual. This includes"
+        },
+        {
+          "scid": "mn140:15.5",
+          "pli": "pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttaṃ, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ āpo āpogataṃ upādinnaṃ—",
+          "en": "bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine, or anything else that’s water, watery, and organic that’s internal, pertaining to an individual."
+        },
+        {
+          "scid": "mn140:15.6",
+          "pli": "ayaṃ vuccati, bhikkhu, ajjhattikā āpodhātu.",
+          "en": "This is called the interior water element."
+        },
+        {
+          "scid": "mn140:15.7",
+          "pli": "Yā ceva kho pana ajjhattikā āpodhātu yā ca bāhirā āpodhātu āpodhāturevesā.",
+          "en": "The interior water element and the exterior water element are just the water element."
+        },
+        {
+          "scid": "mn140:15.8",
+          "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti—evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn140:15.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā āpodhātuyā nibbindati, āpodhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you reject the water element, detaching the mind from the water element."
+        },
+        {
+          "scid": "mn140:16.1",
+          "pli": "Katamā ca, bhikkhu, tejodhātu?",
+          "en": "And what is the fire element?"
+        },
+        {
+          "scid": "mn140:16.2",
+          "pli": "Tejodhātu siyā ajjhattikā siyā bāhirā.",
+          "en": "The fire element may be interior or exterior."
+        },
+        {
+          "scid": "mn140:16.3",
+          "pli": "Katamā ca, bhikkhu, ajjhattikā tejodhātu?",
+          "en": "And what is the interior fire element?"
+        },
+        {
+          "scid": "mn140:16.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ tejo tejogataṃ upādinnaṃ, seyyathidaṃ—",
+          "en": "Anything that’s fire, fiery, and organic that’s internal, pertaining to an individual. This includes"
+        },
+        {
+          "scid": "mn140:16.5",
+          "pli": "yena ca santappati, yena ca jīrīyati, yena ca pariḍayhati, yena ca asitapītakhāyitasāyitaṃ sammā pariṇāmaṃ gacchati, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ tejo tejogataṃ upādinnaṃ—",
+          "en": "that which warms, that which ages, that which heats you up when feverish, that which properly digests food and drink, or anything else that’s fire, fiery, and organic that’s internal, pertaining to an individual."
+        },
+        {
+          "scid": "mn140:16.6",
+          "pli": "ayaṃ vuccati, bhikkhu, ajjhattikā tejodhātu.",
+          "en": "This is called the interior fire element."
+        },
+        {
+          "scid": "mn140:16.7",
+          "pli": "Yā ceva kho pana ajjhattikā tejodhātu yā ca bāhirā tejodhātu tejodhāturevesā.",
+          "en": "The interior fire element and the exterior fire element are just the fire element."
+        },
+        {
+          "scid": "mn140:16.8",
+          "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti—evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn140:16.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā tejodhātuyā nibbindati, tejodhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you reject the fire element, detaching the mind from the fire element."
+        },
+        {
+          "scid": "mn140:17.1",
+          "pli": "Katamā ca, bhikkhu, vāyodhātu?",
+          "en": "And what is the air element?"
+        },
+        {
+          "scid": "mn140:17.2",
+          "pli": "Vāyodhātu siyā ajjhattikā siyā bāhirā.",
+          "en": "The air element may be interior or exterior."
+        },
+        {
+          "scid": "mn140:17.3",
+          "pli": "Katamā ca, bhikkhu, ajjhattikā vāyodhātu?",
+          "en": "And what is the interior air element?"
+        },
+        {
+          "scid": "mn140:17.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ vāyo vāyogataṃ upādinnaṃ, seyyathidaṃ—",
+          "en": "Anything that’s air, airy, and organic that’s internal, pertaining to an individual. This includes"
+        },
+        {
+          "scid": "mn140:17.5",
+          "pli": "uddhaṅgamā vātā adhogamā vātā kucchisayā vātā koṭṭhāsayā vātā aṅgamaṅgānusārino vātā assāso passāso iti, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ vāyo vāyogataṃ upādinnaṃ—",
+          "en": "winds that go up or down, winds in the belly or the bowels, winds that flow through the limbs, in-breaths and out-breaths, or anything else that’s air, airy, and organic that’s internal, pertaining to an individual."
+        },
+        {
+          "scid": "mn140:17.6",
+          "pli": "ayaṃ vuccati, bhikkhu, ajjhattikā vāyodhātu.",
+          "en": "This is called the interior air element."
+        },
+        {
+          "scid": "mn140:17.7",
+          "pli": "Yā ceva kho pana ajjhattikā vāyodhātu yā ca bāhirā vāyodhātu vāyodhāturevesā.",
+          "en": "The interior air element and the exterior air element are just the air element."
+        },
+        {
+          "scid": "mn140:17.8",
+          "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti—evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn140:17.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā vāyodhātuyā nibbindati, vāyodhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you reject the air element, detaching the mind from the air element."
+        },
+        {
+          "scid": "mn140:18.1",
+          "pli": "Katamā ca, bhikkhu, ākāsadhātu?",
+          "en": "And what is the space element?"
+        },
+        {
+          "scid": "mn140:18.2",
+          "pli": "Ākāsadhātu siyā ajjhattikā siyā bāhirā.",
+          "en": "The space element may be interior or exterior."
+        },
+        {
+          "scid": "mn140:18.3",
+          "pli": "Katamā ca, bhikkhu, ajjhattikā ākāsadhātu?",
+          "en": "And what is the interior space element?"
+        },
+        {
+          "scid": "mn140:18.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ ākāsaṃ ākāsagataṃ upādinnaṃ, seyyathidaṃ—",
+          "en": "Anything that’s space, spacious, and organic that’s internal, pertaining to an individual. This includes"
+        },
+        {
+          "scid": "mn140:18.5",
+          "pli": "kaṇṇacchiddaṃ nāsacchiddaṃ mukhadvāraṃ yena ca asitapītakhāyitasāyitaṃ ajjhoharati, yattha ca asitapītakhāyitasāyitaṃ santiṭṭhati, yena ca asitapītakhāyitasāyitaṃ adhobhāgaṃ nikkhamati, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ ākāsaṃ ākāsagataṃ aghaṃ aghagataṃ vivaraṃ vivaragataṃ asamphuṭṭhaṃ maṃsalohitehi upādinnaṃ—",
+          "en": "the ear canals, nostrils, and mouth; and the space for swallowing what is eaten and drunk, the space where it stays, and the space for excreting it from the nether regions."
+        },
+        {
+          "scid": "mn140:18.6",
+          "pli": "ayaṃ vuccati, bhikkhu, ajjhattikā ākāsadhātu.",
+          "en": "This is called the interior space element."
+        },
+        {
+          "scid": "mn140:18.7",
+          "pli": "Yā ceva kho pana ajjhattikā ākāsadhātu yā ca bāhirā ākāsadhātu ākāsadhāturevesā.",
+          "en": "The interior space element and the exterior space element are just the space element."
+        },
+        {
+          "scid": "mn140:18.8",
+          "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti—evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn140:18.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā ākāsadhātuyā nibbindati, ākāsadhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you reject the space element, detaching the mind from the space element."
+        },
+        {
+          "scid": "mn140:19.1",
+          "pli": "Athāparaṃ viññāṇaṃyeva avasissati parisuddhaṃ pariyodātaṃ.",
+          "en": "There remains only consciousness, pure and bright."
+        },
+        {
+          "scid": "mn140:19.2",
+          "pli": "Tena ca viññāṇena kiṃ vijānāti?",
+          "en": "And what does that consciousness know?"
+        },
+        {
+          "scid": "mn140:19.3",
+          "pli": "‘Sukhan’tipi vijānāti, ‘dukkhan’tipi vijānāti, ‘adukkhamasukhan’tipi vijānāti.",
+          "en": "It knows ‘pleasure’ and ‘pain’ and ‘neutral’."
+        },
+        {
+          "scid": "mn140:19.4",
+          "pli": "Sukhavedaniyaṃ, bhikkhu, phassaṃ paṭicca uppajjati sukhā vedanā.",
+          "en": "Pleasant feeling arises dependent on a contact to be experienced as pleasant."
+        },
+        {
+          "scid": "mn140:19.5",
+          "pli": "So sukhaṃ vedanaṃ vedayamāno ‘sukhaṃ vedanaṃ vedayāmī’ti pajānāti.",
+          "en": "When they feel a pleasant feeling, they know: ‘I feel a pleasant feeling.’"
+        },
+        {
+          "scid": "mn140:19.6",
+          "pli": "‘Tasseva sukhavedaniyassa phassassa nirodhā yaṃ tajjaṃ vedayitaṃ sukhavedaniyaṃ phassaṃ paṭicca uppannā sukhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti.",
+          "en": "They know: ‘With the cessation of that contact to be experienced as pleasant, the corresponding pleasant feeling ceases and stops.’"
+        },
+        {
+          "scid": "mn140:19.7",
+          "pli": "Dukkhavedaniyaṃ, bhikkhu, phassaṃ paṭicca uppajjati dukkhā vedanā.",
+          "en": "Painful feeling arises dependent on a contact to be experienced as painful."
+        },
+        {
+          "scid": "mn140:19.8",
+          "pli": "So dukkhaṃ vedanaṃ vedayamāno ‘dukkhaṃ vedanaṃ vedayāmī’ti pajānāti.",
+          "en": "When they feel a painful feeling, they know: ‘I feel a painful feeling.’"
+        },
+        {
+          "scid": "mn140:19.9",
+          "pli": "‘Tasseva dukkhavedaniyassa phassassa nirodhā yaṃ tajjaṃ vedayitaṃ dukkhavedaniyaṃ phassaṃ paṭicca uppannā dukkhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti.",
+          "en": "They know: ‘With the cessation of that contact to be experienced as painful, the corresponding painful feeling ceases and stops.’"
+        },
+        {
+          "scid": "mn140:19.10",
+          "pli": "Adukkhamasukhavedaniyaṃ, bhikkhu, phassaṃ paṭicca uppajjati adukkhamasukhā vedanā.",
+          "en": "Neutral feeling arises dependent on a contact to be experienced as neutral."
+        },
+        {
+          "scid": "mn140:19.11",
+          "pli": "So adukkhamasukhaṃ vedanaṃ vedayamāno ‘adukkhamasukhaṃ vedanaṃ vedayāmī’ti pajānāti.",
+          "en": "When they feel a neutral feeling, they know: ‘I feel a neutral feeling.’"
+        },
+        {
+          "scid": "mn140:19.12",
+          "pli": "‘Tasseva adukkhamasukhavedaniyassa phassassa nirodhā yaṃ tajjaṃ vedayitaṃ adukkhamasukhavedaniyaṃ phassaṃ paṭicca uppannā adukkhamasukhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti.",
+          "en": "They know: ‘With the cessation of that contact to be experienced as neutral, the corresponding neutral feeling ceases and stops.’"
+        },
+        {
+          "scid": "mn140:19.13",
+          "pli": "Seyyathāpi, bhikkhu, dvinnaṃ kaṭṭhānaṃ saṅghaṭṭā samodhānā usmā jāyati, tejo abhinibbattati, tesaṃyeva dvinnaṃ kaṭṭhānaṃ nānābhāvā vinikkhepā yā tajjā usmā sā nirujjhati, sā vūpasammati;",
+          "en": "When you rub two sticks together, heat is generated and fire is produced. But when you part the sticks and lay them aside, any corresponding heat ceases and stops."
+        },
+        {
+          "scid": "mn140:19.14",
+          "pli": "evameva kho, bhikkhu, sukhavedaniyaṃ phassaṃ paṭicca uppajjati sukhā vedanā.",
+          "en": "In the same way, pleasant feeling arises dependent on a contact to be experienced as pleasant. …"
+        },
+        {
+          "scid": "mn140:19.15",
+          "pli": "So sukhaṃ vedanaṃ vedayamāno ‘sukhaṃ vedanaṃ vedayāmī’ti pajānāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:19.16",
+          "pli": "‘Tasseva sukhavedaniyassa phassassa nirodhā yaṃ tajjaṃ vedayitaṃ sukhavedaniyaṃ phassaṃ paṭicca uppannā sukhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:19.17",
+          "pli": "Dukkhavedaniyaṃ, bhikkhu, phassaṃ paṭicca uppajjati dukkhā vedanā.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:19.18",
+          "pli": "So dukkhaṃ vedanaṃ vedayamāno ‘dukkhaṃ vedanaṃ vedayāmī’ti pajānāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:19.19",
+          "pli": "‘Tasseva dukkhavedaniyassa phassassa nirodhā yaṃ tajjaṃ vedayitaṃ dukkhavedaniyaṃ phassaṃ paṭicca uppannā dukkhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:19.20",
+          "pli": "Adukkhamasukhavedaniyaṃ, bhikkhu, phassaṃ paṭicca uppajjati adukkhamasukhā vedanā.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:19.21",
+          "pli": "So adukkhamasukhaṃ vedanaṃ vedayamāno ‘adukkhamasukhaṃ vedanaṃ vedayāmī’ti pajānāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:19.22",
+          "pli": "‘Tasseva adukkhamasukhavedaniyassa phassassa nirodhā yaṃ tajjaṃ vedayitaṃ adukkhamasukhavedaniyaṃ phassaṃ paṭicca uppannā adukkhamasukhā vedanā sā nirujjhati, sā vūpasammatī’ti pajānāti.",
+          "en": "They know: ‘With the cessation of that contact to be experienced as neutral, the corresponding neutral feeling ceases and stops.’"
+        },
+        {
+          "scid": "mn140:20.1",
+          "pli": "Athāparaṃ upekkhāyeva avasissati parisuddhā pariyodātā mudu ca kammaññā ca pabhassarā ca.",
+          "en": "There remains only equanimity, pure, bright, pliable, workable, and radiant."
+        },
+        {
+          "scid": "mn140:20.2",
+          "pli": "Seyyathāpi, bhikkhu, dakkho suvaṇṇakāro vā suvaṇṇakārantevāsī vā ukkaṃ bandheyya, ukkaṃ bandhitvā ukkāmukhaṃ ālimpeyya, ukkāmukhaṃ ālimpetvā saṇḍāsena jātarūpaṃ gahetvā ukkāmukhe pakkhipeyya, tamenaṃ kālena kālaṃ abhidhameyya, kālena kālaṃ udakena paripphoseyya, kālena kālaṃ ajjhupekkheyya, taṃ hoti jātarūpaṃ sudhantaṃ niddhantaṃ nīhaṭaṃ ninnītakasāvaṃ mudu ca kammaññañca pabhassarañca, yassā yassā ca piḷandhanavikatiyā ākaṅkhati—yadi paṭṭikāya yadi kuṇḍalāya yadi gīveyyakāya yadi suvaṇṇamālāya tañcassa atthaṃ anubhoti;",
+          "en": "It’s like when a goldsmith or a goldsmith’s apprentice prepares a forge, fires the crucible, picks up some gold with tongs and puts it in the crucible. From time to time they fan it, from time to time they sprinkle water on it, and from time to time they just watch over it. That gold becomes pliable, workable, and radiant, not brittle, and is ready to be worked. Then the goldsmith can successfully create any kind of ornament they want, whether a bracelet, earrings, a necklace, or a golden garland."
+        },
+        {
+          "scid": "mn140:20.3",
+          "pli": "evameva kho, bhikkhu, athāparaṃ upekkhāyeva avasissati parisuddhā pariyodātā mudu ca kammaññā ca pabhassarā ca.",
+          "en": "In the same way, there remains only equanimity, pure, bright, pliable, workable, and radiant."
+        },
+        {
+          "scid": "mn140:21.1",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn140:21.2",
+          "pli": "‘imañce ahaṃ upekkhaṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ ākāsānañcāyatanaṃ upasaṃhareyyaṃ, tadanudhammañca cittaṃ bhāveyyaṃ.",
+          "en": "‘If I was to apply this equanimity, so pure and bright, to the dimension of infinite space, my mind would develop accordingly."
+        },
+        {
+          "scid": "mn140:21.3",
+          "pli": "Evaṃ me ayaṃ upekkhā tannissitā tadupādānā ciraṃ dīghamaddhānaṃ tiṭṭheyya.",
+          "en": "And this equanimity of mine, relying on that and grasping it, would remain for a very long time."
+        },
+        {
+          "scid": "mn140:21.4",
+          "pli": "Imañce ahaṃ upekkhaṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ viññāṇañcāyatanaṃ upasaṃhareyyaṃ, tadanudhammañca cittaṃ bhāveyyaṃ.",
+          "en": "If I was to apply this equanimity, so pure and bright, to the dimension of infinite consciousness, my mind would develop accordingly."
+        },
+        {
+          "scid": "mn140:21.5",
+          "pli": "Evaṃ me ayaṃ upekkhā tannissitā tadupādānā ciraṃ dīghamaddhānaṃ tiṭṭheyya.",
+          "en": "And this equanimity of mine, relying on that and grasping it, would remain for a very long time."
+        },
+        {
+          "scid": "mn140:21.6",
+          "pli": "Imañce ahaṃ upekkhaṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ ākiñcaññāyatanaṃ upasaṃhareyyaṃ, tadanudhammañca cittaṃ bhāveyyaṃ.",
+          "en": "If I was to apply this equanimity, so pure and bright, to the dimension of nothingness, my mind would develop accordingly."
+        },
+        {
+          "scid": "mn140:21.7",
+          "pli": "Evaṃ me ayaṃ upekkhā tannissitā tadupādānā ciraṃ dīghamaddhānaṃ tiṭṭheyya.",
+          "en": "And this equanimity of mine, relying on that and grasping it, would remain for a very long time."
+        },
+        {
+          "scid": "mn140:21.8",
+          "pli": "Imañce ahaṃ upekkhaṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ nevasaññānāsaññāyatanaṃ upasaṃhareyyaṃ, tadanudhammañca cittaṃ bhāveyyaṃ.",
+          "en": "If I was to apply this equanimity, so pure and bright, to the dimension of neither perception nor non-perception, my mind would develop accordingly."
+        },
+        {
+          "scid": "mn140:21.9",
+          "pli": "Evaṃ me ayaṃ upekkhā tannissitā tadupādānā ciraṃ dīghamaddhānaṃ tiṭṭheyyā’ti.",
+          "en": "And this equanimity of mine, relying on that and grasping it, would remain for a very long time.’"
+        },
+        {
+          "scid": "mn140:22.1",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn140:22.2",
+          "pli": "‘imañce ahaṃ upekkhaṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ ākāsānañcāyatanaṃ upasaṃhareyyaṃ, tadanudhammañca cittaṃ bhāveyyaṃ;",
+          "en": "‘If I was to apply this equanimity, so pure and bright, to the dimension of infinite space, my mind would develop accordingly."
+        },
+        {
+          "scid": "mn140:22.3",
+          "pli": "saṅkhatametaṃ.",
+          "en": "But that is conditioned."
+        },
+        {
+          "scid": "mn140:22.4",
+          "pli": "Imañce ahaṃ upekkhaṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ viññāṇañcāyatanaṃ upasaṃhareyyaṃ, tadanudhammañca cittaṃ bhāveyyaṃ;",
+          "en": "If I was apply this equanimity, so pure and bright, to the dimension of infinite consciousness …"
+        },
+        {
+          "scid": "mn140:22.5",
+          "pli": "saṅkhatametaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:22.6",
+          "pli": "Imañce ahaṃ upekkhaṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ ākiñcaññāyatanaṃ upasaṃhareyyaṃ, tadanudhammañca cittaṃ bhāveyyaṃ;",
+          "en": "nothingness …"
+        },
+        {
+          "scid": "mn140:22.7",
+          "pli": "saṅkhatametaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn140:22.8",
+          "pli": "Imañce ahaṃ upekkhaṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ nevasaññānāsaññāyatanaṃ upasaṃhareyyaṃ, tadanudhammañca cittaṃ bhāveyyaṃ;",
+          "en": "neither perception nor non-perception, my mind would develop accordingly."
+        },
+        {
+          "scid": "mn140:22.9",
+          "pli": "saṅkhatametan’ti.",
+          "en": "But that is conditioned.’"
+        },
+        {
+          "scid": "mn140:22.10",
+          "pli": "So neva taṃ abhisaṅkharoti, na abhisañcetayati bhavāya vā vibhavāya vā.",
+          "en": "They neither make a choice nor form an intention to continue existence or to exterminate existence."
+        },
+        {
+          "scid": "mn140:22.11",
+          "pli": "So anabhisaṅkharonto anabhisañcetayanto bhavāya vā vibhavāya vā na kiñci loke upādiyati, ",
+          "en": "Because of this, they don’t grasp at anything in the world. "
+        },
+        {
+          "scid": "mn140:22.12",
+          "pli": "anupādiyaṃ na paritassati, aparitassaṃ paccattaṃyeva parinibbāyati.",
+          "en": "Not grasping, they’re not anxious. Not being anxious, they personally become extinguished."
+        },
+        {
+          "scid": "mn140:22.13",
+          "pli": "‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.",
+          "en": "They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’"
+        },
+        {
+          "scid": "mn140:23.1",
+          "pli": "So sukhañce vedanaṃ vedeti, ‘sā aniccā’ti pajānāti, ‘anajjhositā’ti pajānāti, ‘anabhinanditā’ti pajānāti.",
+          "en": "If they feel a pleasant feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it."
+        },
+        {
+          "scid": "mn140:23.2",
+          "pli": "Dukkhañce vedanaṃ vedeti, ‘sā aniccā’ti pajānāti, ‘anajjhositā’ti pajānāti, ‘anabhinanditā’ti pajānāti.",
+          "en": "If they feel a painful feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it."
+        },
+        {
+          "scid": "mn140:23.3",
+          "pli": "Adukkhamasukhañce vedanaṃ vedeti, ‘sā aniccā’ti pajānāti, ‘anajjhositā’ti pajānāti, ‘anabhinanditā’ti pajānāti.",
+          "en": "If they feel a neutral feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it."
+        },
+        {
+          "scid": "mn140:24.1",
+          "pli": "So sukhañce vedanaṃ vedeti, visaṃyutto naṃ vedeti;",
+          "en": "If they feel a pleasant feeling, they feel it detached."
+        },
+        {
+          "scid": "mn140:24.2",
+          "pli": "dukkhañce vedanaṃ vedeti, visaṃyutto naṃ vedeti;",
+          "en": "If they feel a painful feeling, they feel it detached."
+        },
+        {
+          "scid": "mn140:24.3",
+          "pli": "adukkhamasukhañce vedanaṃ vedeti, visaṃyutto naṃ vedeti.",
+          "en": "If they feel a neutral feeling, they feel it detached."
+        },
+        {
+          "scid": "mn140:24.4",
+          "pli": "So kāyapariyantikaṃ vedanaṃ vedayamāno ‘kāyapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti, jīvitapariyantikaṃ vedanaṃ vedayamāno ‘jīvitapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti, ",
+          "en": "Feeling the end of the body approaching, they understand: ‘I feel the end of the body approaching.’ Feeling the end of life approaching, they understand: ‘I feel the end of life approaching.’"
+        },
+        {
+          "scid": "mn140:24.5",
+          "pli": "‘kāyassa bhedā paraṃ maraṇā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti.",
+          "en": "They understand: ‘When my body breaks up and my life has come to an end, everything that’s felt, since I no longer take pleasure in it, will become cool right here.’"
+        },
+        {
+          "scid": "mn140:24.6",
+          "pli": "Seyyathāpi, bhikkhu, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyati;",
+          "en": "Suppose an oil lamp depended on oil and a wick to burn."
+        },
+        {
+          "scid": "mn140:24.7",
+          "pli": "tasseva telassa ca vaṭṭiyā ca pariyādānā aññassa ca anupahārā anāhāro nibbāyati;",
+          "en": "As the oil and the wick are used up, it would be extinguished due to lack of fuel."
+        },
+        {
+          "scid": "mn140:24.8",
+          "pli": "evameva kho, bhikkhu, kāyapariyantikaṃ vedanaṃ vedayamāno ‘kāyapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti, jīvitapariyantikaṃ vedanaṃ vedayamāno ‘jīvitapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti, ",
+          "en": "In the same way, feeling the end of the body approaching, they understand: ‘I feel the end of the body approaching.’ Feeling the end of life approaching, they understand: ‘I feel the end of life approaching.’"
+        },
+        {
+          "scid": "mn140:24.9",
+          "pli": "‘kāyassa bhedā paraṃ maraṇā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti.",
+          "en": "They understand: ‘When my body breaks up and my life has come to an end, everything that’s felt, since I no longer take pleasure in it, will become cool right here.’"
+        },
+        {
+          "scid": "mn140:25.1",
+          "pli": "Tasmā evaṃ samannāgato bhikkhu iminā paramena paññādhiṭṭhānena samannāgato hoti.",
+          "en": "Therefore a mendicant thus endowed is endowed with the ultimate foundation of wisdom."
+        },
+        {
+          "scid": "mn140:25.2",
+          "pli": "Esā hi, bhikkhu, paramā ariyā paññā yadidaṃ—",
+          "en": "For this is the ultimate noble wisdom, namely,"
+        },
+        {
+          "scid": "mn140:25.3",
+          "pli": "sabbadukkhakkhaye ñāṇaṃ.",
+          "en": "the knowledge of the ending of suffering."
+        },
+        {
+          "scid": "mn140:26.1",
+          "pli": "Tassa sā vimutti sacce ṭhitā akuppā hoti.",
+          "en": "Their freedom, being founded on truth, is unshakable."
+        },
+        {
+          "scid": "mn140:26.2",
+          "pli": "Tañhi, bhikkhu, musā yaṃ mosadhammaṃ, taṃ saccaṃ yaṃ amosadhammaṃ nibbānaṃ.",
+          "en": "For that which is false has a deceptive nature, while that which is true has an undeceptive nature—extinguishment."
+        },
+        {
+          "scid": "mn140:26.3",
+          "pli": "Tasmā evaṃ samannāgato bhikkhu iminā paramena saccādhiṭṭhānena samannāgato hoti.",
+          "en": "Therefore a mendicant thus endowed is endowed with the ultimate foundation of truth."
+        },
+        {
+          "scid": "mn140:26.4",
+          "pli": "Etañhi, bhikkhu, paramaṃ ariyasaccaṃ yadidaṃ—",
+          "en": "For this is the ultimate noble truth, namely,"
+        },
+        {
+          "scid": "mn140:26.5",
+          "pli": "amosadhammaṃ nibbānaṃ.",
+          "en": "that which has an undeceptive nature—extinguishment."
+        },
+        {
+          "scid": "mn140:27.1",
+          "pli": "Tasseva kho pana pubbe aviddasuno upadhī honti samattā samādinnā.",
+          "en": "In their ignorance, they used to acquire attachments."
+        },
+        {
+          "scid": "mn140:27.2",
+          "pli": "Tyāssa pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā.",
+          "en": "Those have been cut off at the root, made like a palm stump, exterminated so they are unable to arise in the future."
+        },
+        {
+          "scid": "mn140:27.3",
+          "pli": "Tasmā evaṃ samannāgato bhikkhu iminā paramena cāgādhiṭṭhānena samannāgato hoti.",
+          "en": "Therefore a mendicant thus endowed is endowed with the ultimate foundation of generosity."
+        },
+        {
+          "scid": "mn140:27.4",
+          "pli": "Eso hi, bhikkhu, paramo ariyo cāgo yadidaṃ—",
+          "en": "For this is the ultimate noble generosity, namely,"
+        },
+        {
+          "scid": "mn140:27.5",
+          "pli": "sabbūpadhipaṭinissaggo.",
+          "en": "letting go of all attachments."
+        },
+        {
+          "scid": "mn140:28.1",
+          "pli": "Tasseva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo.",
+          "en": "In their ignorance, they used to be covetous, full of desire and lust."
+        },
+        {
+          "scid": "mn140:28.2",
+          "pli": "Svāssa pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammo.",
+          "en": "That has been cut off at the root, made like a palm stump, exterminated so it’s unable to arise in the future."
+        },
+        {
+          "scid": "mn140:28.3",
+          "pli": "Tasseva kho pana pubbe aviddasuno āghāto hoti byāpādo sampadoso.",
+          "en": "In their ignorance, they used to be contemptuous, full of ill will and malevolence."
+        },
+        {
+          "scid": "mn140:28.4",
+          "pli": "Svāssa pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammo.",
+          "en": "That has been cut off at the root, made like a palm stump, exterminated so it’s unable to arise in the future."
+        },
+        {
+          "scid": "mn140:28.5",
+          "pli": "Tasseva kho pana pubbe aviddasuno avijjā hoti sammoho.",
+          "en": "In their ignorance, they used to be ignorant, full of delusion."
+        },
+        {
+          "scid": "mn140:28.6",
+          "pli": "Svāssa pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammo.",
+          "en": "That has been cut off at the root, made like a palm stump, exterminated so it’s unable to arise in the future."
+        },
+        {
+          "scid": "mn140:28.7",
+          "pli": "Tasmā evaṃ samannāgato bhikkhu iminā paramena upasamādhiṭṭhānena samannāgato hoti.",
+          "en": "Therefore a mendicant thus endowed is endowed with the ultimate foundation of peace."
+        },
+        {
+          "scid": "mn140:28.8",
+          "pli": "Eso hi, bhikkhu, paramo ariyo upasamo yadidaṃ—",
+          "en": "For this is the ultimate noble peace, namely,"
+        },
+        {
+          "scid": "mn140:28.9",
+          "pli": "rāgadosamohānaṃ upasamo.",
+          "en": "the pacification of greed, hate, and delusion."
+        },
+        {
+          "scid": "mn140:29.1",
+          "pli": "‘Paññaṃ nappamajjeyya, saccamanurakkheyya, cāgamanubrūheyya, santimeva so sikkheyyā’ti—",
+          "en": "‘Don’t neglect wisdom, preserve truth, foster generosity, and train only for peace.’"
+        },
+        {
+          "scid": "mn140:29.2",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "mn140:30.1",
+          "pli": "‘Yattha ṭhitaṃ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccatī’ti—",
+          "en": "‘They have four foundations, standing on which the streams of conceit don’t flow. And when the streams of conceit don’t flow, they’re called a sage at peace.’"
+        },
+        {
+          "scid": "mn140:30.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "mn140:31.1",
+          "pli": "‘Asmī’ti, bhikkhu, maññitametaṃ, ‘ayamahamasmī’ti maññitametaṃ, ‘bhavissan’ti maññitametaṃ, ‘na bhavissan’ti maññitametaṃ, ‘rūpī bhavissan’ti maññitametaṃ, ‘arūpī bhavissan’ti maññitametaṃ, ‘saññī bhavissan’ti maññitametaṃ, ‘asaññī bhavissan’ti maññitametaṃ, ‘nevasaññīnāsaññī bhavissan’ti maññitametaṃ.",
+          "en": "These are all forms of conceiving: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be non-percipient’, ‘I will be neither percipient nor non-percipient.’"
+        },
+        {
+          "scid": "mn140:31.2",
+          "pli": "Maññitaṃ, bhikkhu, rogo maññitaṃ gaṇḍo maññitaṃ sallaṃ.",
+          "en": "Conceit is a disease, a boil, a dart."
+        },
+        {
+          "scid": "mn140:31.3",
+          "pli": "Sabbamaññitānaṃ tveva, bhikkhu, samatikkamā muni santoti vuccati.",
+          "en": "Having gone beyond all conceit, one is called a sage at peace."
+        },
+        {
+          "scid": "mn140:31.4",
+          "pli": "Muni kho pana, bhikkhu, santo na jāyati, na jīyati, na mīyati, na kuppati, na piheti.",
+          "en": "The sage at peace is not reborn, does not grow old, and does not die. They are not shaken, and do not yearn."
+        },
+        {
+          "scid": "mn140:31.5",
+          "pli": "Tañhissa, bhikkhu, natthi yena jāyetha, ajāyamāno kiṃ jīyissati, ajīyamāno kiṃ mīyissati, amīyamāno kiṃ kuppissati, akuppamāno kissa pihessati?",
+          "en": "For they have nothing which would cause them to be reborn. Not being reborn, how could they grow old? Not growing old, how could they die? Not dying, how could they be shaken? Not shaking, for what could they yearn?"
+        },
+        {
+          "scid": "mn140:32.1",
+          "pli": "‘Yattha ṭhitaṃ maññassavā nappavattanti, maññassave kho pana nappavattamāne muni santoti vuccatī’ti—",
+          "en": "‘They have four foundations, standing on which the streams of conceit don’t flow. And when the streams of conceit don’t flow, they’re called a sage at peace.’"
+        },
+        {
+          "scid": "mn140:32.2",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "mn140:32.3",
+          "pli": "Imaṃ kho me tvaṃ, bhikkhu, saṃkhittena chadhātuvibhaṅgaṃ dhārehī”ti.",
+          "en": "Mendicant, you should remember this brief analysis of the six elements.”"
+        },
+        {
+          "scid": "mn140:33.1",
+          "pli": "Atha kho āyasmā pukkusāti:",
+          "en": "Then Venerable Pukkusāti thought:"
+        },
+        {
+          "scid": "mn140:33.2",
+          "pli": "“satthā kira me anuppatto, sugato kira me anuppatto, sammāsambuddho kira me anuppatto”ti uṭṭhāyāsanā ekaṃsaṃ cīvaraṃ katvā bhagavato pādesu sirasā nipatitvā bhagavantaṃ etadavoca:",
+          "en": "“It seems the Teacher has come to me! The Holy One has come to me! The fully awakened Buddha has come to me!” He got up from his seat, arranged his robe over one shoulder, bowed with his head to the Buddha’s feet, and said:"
+        },
+        {
+          "scid": "mn140:33.3",
+          "pli": "“accayo maṃ, bhante, accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yohaṃ bhagavantaṃ āvusovādena samudācaritabbaṃ amaññissaṃ.",
+          "en": "“I have made a mistake, sir. It was foolish, stupid, and unskillful of me to presume to address the Buddha as ‘reverend’."
+        },
+        {
+          "scid": "mn140:33.4",
+          "pli": "Tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu āyatiṃ saṃvarāyā”ti.",
+          "en": "Please, sir, accept my mistake for what it is, so I will restrain myself in future.”"
+        },
+        {
+          "scid": "mn140:33.5",
+          "pli": "“Taggha tvaṃ, bhikkhu, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yaṃ maṃ tvaṃ āvusovādena samudācaritabbaṃ amaññittha.",
+          "en": "“Indeed, reverend, you made a mistake. It was foolish, stupid, and unskillful of you to act in that way."
+        },
+        {
+          "scid": "mn140:33.6",
+          "pli": "Yato ca kho tvaṃ, bhikkhu, accayaṃ accayato disvā yathādhammaṃ paṭikarosi, taṃ te mayaṃ paṭiggaṇhāma.",
+          "en": "But since you have recognized your mistake for what it is, and have dealt with it properly, I accept it."
+        },
+        {
+          "scid": "mn140:33.7",
+          "pli": "Vuddhihesā, bhikkhu, ariyassa vinaye yo accayaṃ accayato disvā yathādhammaṃ paṭikaroti, āyatiṃ saṃvaraṃ āpajjatī”ti.",
+          "en": "For it is growth in the training of the noble one to recognize a mistake for what it is, deal with it properly, and commit to restraint in the future.”"
+        },
+        {
+          "scid": "mn140:34.1",
+          "pli": "“Labheyyāhaṃ, bhante, bhagavato santike upasampadan”ti.",
+          "en": "“Sir, may I receive the going forth, the ordination in the Buddha’s presence?”"
+        },
+        {
+          "scid": "mn140:34.2",
+          "pli": "“Paripuṇṇaṃ pana te, bhikkhu, pattacīvaran”ti?",
+          "en": "“But mendicant, are your bowl and robes complete?”"
+        },
+        {
+          "scid": "mn140:34.3",
+          "pli": "“Na kho me, bhante, paripuṇṇaṃ pattacīvaran”ti.",
+          "en": "“No, sir, they are not.”"
+        },
+        {
+          "scid": "mn140:34.4",
+          "pli": "“Na kho, bhikkhu, tathāgatā aparipuṇṇapattacīvaraṃ upasampādentī”ti.",
+          "en": "“The Realized Ones do not ordain those whose bowl and robes are incomplete.”"
+        },
+        {
+          "scid": "mn140:35.1",
+          "pli": "Atha kho āyasmā pukkusāti bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pattacīvarapariyesanaṃ pakkāmi.",
+          "en": "And then Venerable Pukkusāti approved and agreed with what the Buddha said. He got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving."
+        },
+        {
+          "scid": "mn140:35.2",
+          "pli": "Atha kho āyasmantaṃ pukkusātiṃ pattacīvarapariyesanaṃ carantaṃ vibbhantā gāvī jīvitā voropesi.",
+          "en": "But while he was wandering in search of a bowl and robes, a stray cow took his life."
+        },
+        {
+          "scid": "mn140:36.1",
+          "pli": "Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
+          "en": "Then several mendicants went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "mn140:36.2",
+          "pli": "“yo so, bhante, pukkusāti nāma kulaputto bhagavatā saṃkhittena ovādena ovadito so kālaṅkato.",
+          "en": "“Sir, the son of a good family named Pukkusāti, who was advised in brief by the Buddha, has passed away."
+        },
+        {
+          "scid": "mn140:36.3",
+          "pli": "Tassa kā gati, ko abhisamparāyo”ti?",
+          "en": "Where has he been reborn in his next life?”"
+        },
+        {
+          "scid": "mn140:36.4",
+          "pli": "“Paṇḍito, bhikkhave, pukkusāti kulaputto paccapādi dhammassānudhammaṃ, na ca maṃ dhammādhikaraṇaṃ vihesesi.",
+          "en": "“Mendicants, Pukkusāti was astute. He practiced in line with the teachings, and did not trouble me about the teachings."
+        },
+        {
+          "scid": "mn140:36.5",
+          "pli": "Pukkusāti, bhikkhave, kulaputto pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko tattha parinibbāyī anāvattidhammo tasmā lokā”ti.",
+          "en": "With the ending of the five lower fetters, he’s been reborn spontaneously and will become extinguished there, not liable to return from that world.”"
+        },
+        {
+          "scid": "mn140:36.6",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn140:36.7",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn140:36.8",
+          "pli": "Dhātuvibhaṅgasuttaṃ niṭṭhitaṃ dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn140/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 140",
+    "volpages": "MN iii 237",
+    "uid": "mn140",
+    "blurb": "While staying overnight in a potter’s workshop, the Buddha has a chance encounter with a monk who does not recognize him. They have a long and profound discussion based on the four elements. This is one of the most insightful and moving discourses in the canon.",
+    "difficulty": 3,
+    "original_title": "Dhātuvibhaṅga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Analysis of the Elements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn140_sujato",
+        "segmented": true,
+        "title": "The Analysis of the Elements"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn140_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Exposition of the Elements"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 10
+  }
+}

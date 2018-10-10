@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn45.27",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.27",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Pots",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Immersion",
+      "uid": "sn45.28"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Good Person (2nd)",
+      "uid": "sn45.26"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.27:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.27:0.2",
+          "pli": "3. Micchattavagga",
+          "en": "3. The Wrong Way"
+        },
+        {
+          "scid": "sn45.27:0.3",
+          "pli": "27. Kumbhasutta",
+          "en": "27. Pots"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.27:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn45.27:1.2",
+          "pli": "“Seyyathāpi, bhikkhave, kumbho anādhāro suppavattiyo hoti, sādhāro duppavattiyo hoti;",
+          "en": "“A pot without a stand is easy to overturn, but if it has a stand it’s hard to overturn."
+        },
+        {
+          "scid": "sn45.27:1.3",
+          "pli": "evameva kho, bhikkhave, cittaṃ anādhāraṃ suppavattiyaṃ hoti, sādhāraṃ duppavattiyaṃ hoti.",
+          "en": "In the same way, a mind without a stand is easy to overturn, but if it has a stand it’s hard to overturn."
+        },
+        {
+          "scid": "sn45.27:1.4",
+          "pli": "Ko ca, bhikkhave, cittassa ādhāro?",
+          "en": "And what’s the stand for the mind?"
+        },
+        {
+          "scid": "sn45.27:1.5",
+          "pli": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ—",
+          "en": "It is simply this noble eightfold path, that is:"
+        },
+        {
+          "scid": "sn45.27:1.6",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": "right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion."
+        },
+        {
+          "scid": "sn45.27:1.7",
+          "pli": "Ayaṃ cittassa ādhāro.",
+          "en": "This is the stand for the mind."
+        },
+        {
+          "scid": "sn45.27:1.8",
+          "pli": "Seyyathāpi, bhikkhave, kumbho anādhāro suppavattiyo hoti, sādhāro duppavattiyo hoti;",
+          "en": "A pot without a stand is easy to overturn, but if it has a stand it’s hard to overturn."
+        },
+        {
+          "scid": "sn45.27:1.9",
+          "pli": "evameva kho, bhikkhave, cittaṃ anādhāraṃ suppavattiyaṃ hoti, sādhāraṃ duppavattiyaṃ hotī”ti.",
+          "en": "In the same way, a mind without a stand is easy to overturn, but if it has a stand it’s hard to overturn.”"
+        },
+        {
+          "scid": "sn45.27:1.10",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.27/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.27",
+    "volpages": "SN v 20",
+    "uid": "sn45.27",
+    "blurb": "Someone without the eightfold path is easily knocked over, like a pot without a stand.",
+    "difficulty": null,
+    "original_title": "Kumbha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Pots",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.27_sujato",
+        "segmented": true,
+        "title": "Pots"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.27_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Pot"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

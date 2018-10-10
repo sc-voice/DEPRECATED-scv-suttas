@@ -1,0 +1,990 @@
+{
+  "sutta_uid": "mn126",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn126",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Bhūmija",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Anuruddha",
+      "uid": "mn127"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Level of the Tamed",
+      "uid": "mn125"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn126:0.1",
+          "pli": "Majjhima Nikāya 126",
+          "en": "Middle Discourses 126"
+        },
+        {
+          "scid": "mn126:0.2",
+          "pli": "Bhūmijasutta",
+          "en": "With Bhūmija"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 126…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn126:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn126:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.",
+          "en": "At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground."
+        },
+        {
+          "scid": "mn126:2.1",
+          "pli": "Atha kho āyasmā bhūmijo pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena jayasenassa rājakumārassa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.",
+          "en": "Then Venerable Bhūmija robed up in the morning and, taking his bowl and robe, went to the home of Prince Jayasena, where he sat on the seat spread out."
+        },
+        {
+          "scid": "mn126:3.1",
+          "pli": "Atha kho jayaseno rājakumāro yenāyasmā bhūmijo tenupasaṅkami; upasaṅkamitvā āyasmatā bhūmijena saddhiṃ sammodi.",
+          "en": "Then Jayasena approached and exchanged greetings with him."
+        },
+        {
+          "scid": "mn126:3.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho jayaseno rājakumāro āyasmantaṃ bhūmijaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side and said to Bhūmija:"
+        },
+        {
+          "scid": "mn126:3.3",
+          "pli": "“santi, bho bhūmija, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:",
+          "en": "“Master Bhūmija, there are some ascetics and brahmins who have this doctrine and view:"
+        },
+        {
+          "scid": "mn126:3.4",
+          "pli": "‘āsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "‘If you make a wish and lead the spiritual life, you can’t win the fruit."
+        },
+        {
+          "scid": "mn126:3.5",
+          "pli": "anāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "If you don’t make a wish and lead the spiritual life, you can’t win the fruit."
+        },
+        {
+          "scid": "mn126:3.6",
+          "pli": "āsañca anāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "If you both make a wish and don’t make a wish and lead the spiritual life, you can’t win the fruit."
+        },
+        {
+          "scid": "mn126:3.7",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāyā’ti.",
+          "en": "If you neither make a wish nor don’t make a wish and lead the spiritual life, you can’t win the fruit.’"
+        },
+        {
+          "scid": "mn126:3.8",
+          "pli": "Idha bhoto bhūmijassa satthā kiṃvādī kimakkhāyī”ti?",
+          "en": "What does Master Bhūmija’s Teacher say about this? How does he explain it?”"
+        },
+        {
+          "scid": "mn126:4.1",
+          "pli": "“Na kho metaṃ, rājakumāra, bhagavato sammukhā sutaṃ, sammukhā paṭiggahitaṃ.",
+          "en": "“Prince, I haven’t heard and learned this in the presence of the Buddha."
+        },
+        {
+          "scid": "mn126:4.2",
+          "pli": "Ṭhānañca kho etaṃ vijjati yaṃ bhagavā evaṃ byākareyya:",
+          "en": "But it’s possible that he might explain it like this:"
+        },
+        {
+          "scid": "mn126:4.3",
+          "pli": "‘āsañcepi karitvā ayoniso brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "‘If you lead the spiritual life irrationally, you can’t win the fruit, regardless of whether you make a wish,"
+        },
+        {
+          "scid": "mn126:4.4",
+          "pli": "anāsañcepi karitvā ayoniso brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "you don’t make a wish,"
+        },
+        {
+          "scid": "mn126:4.5",
+          "pli": "āsañca anāsañcepi karitvā ayoniso brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "you both do and do not make a wish,"
+        },
+        {
+          "scid": "mn126:4.6",
+          "pli": "nevāsaṃ nānāsañcepi karitvā ayoniso brahmacariyaṃ caranti, abhabbā phalassa adhigamāya.",
+          "en": "or you neither do nor don’t make a wish."
+        },
+        {
+          "scid": "mn126:4.7",
+          "pli": "Āsañcepi karitvā yoniso brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": "But if you lead the spiritual life rationally, you can win the fruit, regardless of whether you make a wish,"
+        },
+        {
+          "scid": "mn126:4.8",
+          "pli": "anāsañcepi karitvā yoniso brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": "you don’t make a wish,"
+        },
+        {
+          "scid": "mn126:4.9",
+          "pli": "āsañca anāsañcepi karitvā yoniso brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": "you both do and do not make a wish,"
+        },
+        {
+          "scid": "mn126:4.10",
+          "pli": "nevāsaṃ nānāsañcepi karitvā yoniso brahmacariyaṃ caranti, bhabbā phalassa adhigamāyā’ti.",
+          "en": "or you neither do nor don’t make a wish.’"
+        },
+        {
+          "scid": "mn126:4.11",
+          "pli": "Na kho me taṃ, rājakumāra, bhagavato sammukhā sutaṃ, sammukhā paṭiggahitaṃ.",
+          "en": "I haven’t heard and learned this in the presence of the Buddha."
+        },
+        {
+          "scid": "mn126:4.12",
+          "pli": "Ṭhānañca kho etaṃ vijjati yaṃ bhagavā evaṃ byākareyyā”ti.",
+          "en": "But it’s possible that he might explain it like that.”"
+        },
+        {
+          "scid": "mn126:5.1",
+          "pli": "“Sace kho bhoto bhūmijassa satthā evaṃvādī evamakkhāyī, addhā bhoto bhūmijassa satthā sabbesaṃyeva puthusamaṇabrāhmaṇānaṃ muddhānaṃ maññe āhacca tiṭṭhatī”ti.",
+          "en": "“If that’s what your teacher says, Master Bhūmija, he clearly stands head and shoulders above all the various other ascetics and brahmins.”"
+        },
+        {
+          "scid": "mn126:6.1",
+          "pli": "Atha kho jayaseno rājakumāro āyasmantaṃ bhūmijaṃ sakeneva thālipākena parivisi.",
+          "en": "Then Prince Jayasena served Venerable Bhūmija from his own dish."
+        },
+        {
+          "scid": "mn126:7.1",
+          "pli": "Atha kho āyasmā bhūmijo pacchābhattaṃ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā bhūmijo bhagavantaṃ etadavoca:",
+          "en": "Then after the meal, on his return from alms-round, Bhūmija went to the Buddha, bowed, sat down to one side, and told him all that had happened, adding:"
+        },
+        {
+          "scid": "mn126:7.2",
+          "pli": "“idhāhaṃ, bhante, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena jayasenassa rājakumārassa nivesanaṃ tenupasaṅkamiṃ; upasaṅkamitvā paññatte āsane nisīdiṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.3",
+          "pli": "Atha kho, bhante, jayaseno rājakumāro yenāhaṃ tenupasaṅkami; upasaṅkamitvā mayā saddhiṃ sammodi.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.4",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho, bhante, jayaseno rājakumāro maṃ etadavoca:",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.5",
+          "pli": "‘santi, bho bhūmija, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino—",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.6",
+          "pli": "āsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.7",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.8",
+          "pli": "āsañca anāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.9",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāyā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.10",
+          "pli": "‘Idha bhoto bhūmijassa satthā kiṃvādī kimakkhāyī’ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.11",
+          "pli": "Evaṃ vutte, ahaṃ, bhante, jayasenaṃ rājakumāraṃ etadavocaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.12",
+          "pli": "‘na kho me taṃ, rājakumāra, bhagavato sammukhā sutaṃ, sammukhā paṭiggahitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.13",
+          "pli": "Ṭhānañca kho etaṃ vijjati yaṃ bhagavā evaṃ byākareyya—",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.14",
+          "pli": "āsañcepi karitvā ayoniso brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.15",
+          "pli": "anāsañcepi karitvā ayoniso brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.16",
+          "pli": "āsañca anāsañcepi karitvā ayoniso brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.17",
+          "pli": "nevāsaṃ nānāsañcepi karitvā ayoniso brahmacariyaṃ caranti, abhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.18",
+          "pli": "Āsañcepi karitvā yoniso brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.19",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.20",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.21",
+          "pli": "nevāsaṃ nānāsañcepi karitvā yoniso brahmacariyaṃ caranti, bhabbā phalassa adhigamāyāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.22",
+          "pli": "Na kho me taṃ, rājakumāra, bhagavato sammukhā sutaṃ, sammukhā paṭiggahitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.23",
+          "pli": "Ṭhānañca kho etaṃ vijjati yaṃ bhagavā evaṃ byākareyyā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.24",
+          "pli": "‘Sace bhoto bhūmijassa satthā evaṃvādī evamakkhāyī, addhā bhoto bhūmijassa satthā sabbesaṃyeva puthusamaṇabrāhmaṇānaṃ muddhānaṃ maññe āhacca tiṭṭhatī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:7.25",
+          "pli": "‘Kaccāhaṃ, bhante, evaṃ puṭṭho evaṃ byākaramāno vuttavādī ceva bhagavato homi, na ca bhagavantaṃ abhūtena abbhācikkhāmi, dhammassa cānudhammaṃ byākaromi, na ca koci sahadhammiko vādānuvādo gārayhaṃ ṭhānaṃ āgacchatī’”ti?",
+          "en": "“Answering this way, I trust that I repeated what the Buddha has said, and didn’t misrepresent him with an untruth. I trust my explanation was in line with the teaching, and that there are no legitimate grounds for rebuke or criticism.”"
+        },
+        {
+          "scid": "mn126:8.1",
+          "pli": "“Taggha tvaṃ, bhūmija, evaṃ puṭṭho evaṃ byākaramāno vuttavādī ceva me hosi, na ca maṃ abhūtena abbhācikkhasi, dhammassa cānudhammaṃ byākarosi, na ca koci sahadhammiko vādānuvādo gārayhaṃ ṭhānaṃ āgacchati.",
+          "en": "“Indeed, Bhūmija, in answering this way you repeat what I’ve said, and don’t misrepresent me with an untruth. Your explanation is in line with the teaching, and there are no legitimate grounds for rebuke or criticism."
+        },
+        {
+          "scid": "mn126:9.1",
+          "pli": "Ye hi keci, bhūmija, samaṇā vā brāhmaṇā vā micchādiṭṭhino micchāsaṅkappā micchāvācā micchākammantā micchāājīvā micchāvāyāmā micchāsatī micchāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "There are some ascetics and brahmins who have wrong view, wrong thought, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion. If they lead the spiritual life, they can’t win the fruit, regardless of whether they make a wish,"
+        },
+        {
+          "scid": "mn126:9.2",
+          "pli": "anāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "they don’t make a wish,"
+        },
+        {
+          "scid": "mn126:9.3",
+          "pli": "āsañca anāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "they both do and do not make a wish,"
+        },
+        {
+          "scid": "mn126:9.4",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya.",
+          "en": "or they neither do nor don’t make a wish."
+        },
+        {
+          "scid": "mn126:9.5",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:9.6",
+          "pli": "Ayoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s an irrational way to win the fruit."
+        },
+        {
+          "scid": "mn126:10.1",
+          "pli": "Seyyathāpi, bhūmija, puriso telatthiko telagavesī telapariyesanaṃ caramāno vālikaṃ doṇiyā ākiritvā udakena paripphosakaṃ paripphosakaṃ pīḷeyya.",
+          "en": "Suppose there was a person in need of oil. While wandering in search of oil, they tried heaping sand in a bucket, sprinkling it thoroughly with water, and pressing it out."
+        },
+        {
+          "scid": "mn126:10.2",
+          "pli": "Āsañcepi karitvā vālikaṃ doṇiyā ākiritvā udakena paripphosakaṃ paripphosakaṃ pīḷeyya, abhabbo telassa adhigamāya;",
+          "en": "But by doing this, they couldn’t extract any oil, regardless of whether they made a wish,"
+        },
+        {
+          "scid": "mn126:10.3",
+          "pli": "anāsañcepi karitvā vālikaṃ doṇiyā ākiritvā udakena paripphosakaṃ paripphosakaṃ pīḷeyya, abhabbo telassa adhigamāya;",
+          "en": "didn’t make a wish,"
+        },
+        {
+          "scid": "mn126:10.4",
+          "pli": "āsañca anāsañcepi karitvā vālikaṃ doṇiyā ākiritvā udakena paripphosakaṃ paripphosakaṃ pīḷeyya, abhabbo telassa adhigamāya;",
+          "en": "both did and did not make a wish,"
+        },
+        {
+          "scid": "mn126:10.5",
+          "pli": "nevāsaṃ nānāsañcepi karitvā vālikaṃ doṇiyā ākiritvā udakena paripphosakaṃ paripphosakaṃ pīḷeyya, abhabbo telassa adhigamāya.",
+          "en": "or neither did nor did not make a wish."
+        },
+        {
+          "scid": "mn126:10.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:10.7",
+          "pli": "Ayoni hesā, bhūmija, telassa adhigamāya.",
+          "en": "Because that’s an irrational way to extract oil."
+        },
+        {
+          "scid": "mn126:10.8",
+          "pli": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā micchādiṭṭhino micchāsaṅkappā micchāvācā micchākammantā micchāājīvā micchāvāyāmā micchāsatī micchāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": "And so it is for any ascetics and brahmins who have wrong view, wrong thought, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion. If they lead the spiritual life, they can’t win the fruit, regardless of whether or not they make a wish."
+        },
+        {
+          "scid": "mn126:10.9",
+          "pli": "anāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:10.10",
+          "pli": "āsañca anāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:10.11",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:10.12",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:10.13",
+          "pli": "Ayoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s an irrational way to win the fruit."
+        },
+        {
+          "scid": "mn126:11.1",
+          "pli": "Seyyathāpi, bhūmija, puriso khīratthiko khīragavesī khīrapariyesanaṃ caramāno gāviṃ taruṇavacchaṃ visāṇato āviñcheyya.",
+          "en": "Suppose there was a person in need of milk. While wandering in search of milk, they tried pulling the horn of a newly-calved cow."
+        },
+        {
+          "scid": "mn126:11.2",
+          "pli": "Āsañcepi karitvā gāviṃ taruṇavacchaṃ visāṇato āviñcheyya, abhabbo khīrassa adhigamāya;",
+          "en": "But by doing this, they couldn’t get any milk, regardless of whether they made a wish,"
+        },
+        {
+          "scid": "mn126:11.3",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": "didn’t make a wish,"
+        },
+        {
+          "scid": "mn126:11.4",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": "both did and did not make a wish,"
+        },
+        {
+          "scid": "mn126:11.5",
+          "pli": "nevāsaṃ nānāsañcepi karitvā gāviṃ taruṇavacchaṃ visāṇato āviñcheyya, abhabbo khīrassa adhigamāya.",
+          "en": "or neither did nor did not make a wish."
+        },
+        {
+          "scid": "mn126:11.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:11.7",
+          "pli": "Ayoni hesā, bhūmija, khīrassa adhigamāya.",
+          "en": "Because that’s an irrational way to get milk."
+        },
+        {
+          "scid": "mn126:11.8",
+          "pli": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā micchādiṭṭhino … pe …",
+          "en": "And so it is for any ascetics and brahmins who have wrong view …"
+        },
+        {
+          "scid": "mn126:11.9",
+          "pli": "micchāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:11.10",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:11.11",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:11.12",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:11.13",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "mn126:11.14",
+          "pli": "Ayoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s an irrational way to win the fruit."
+        },
+        {
+          "scid": "mn126:12.1",
+          "pli": "Seyyathāpi, bhūmija, puriso navanītatthiko navanītagavesī navanītapariyesanaṃ caramāno udakaṃ kalase āsiñcitvā matthena āviñcheyya.",
+          "en": "Suppose there was a person in need of butter. While wandering in search of butter, they tried pouring water into a pot and churning it with a stick."
+        },
+        {
+          "scid": "mn126:12.2",
+          "pli": "Āsañcepi karitvā udakaṃ kalase āsiñcitvā matthena āviñcheyya, abhabbo navanītassa adhigamāya;",
+          "en": "But by doing this, they couldn’t produce any butter, regardless of whether they made a wish,"
+        },
+        {
+          "scid": "mn126:12.3",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": "didn’t make a wish,"
+        },
+        {
+          "scid": "mn126:12.4",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": "both did and did not make a wish,"
+        },
+        {
+          "scid": "mn126:12.5",
+          "pli": "nevāsaṃ nānāsañcepi karitvā udakaṃ kalase āsiñcitvā matthena āviñcheyya, abhabbo navanītassa adhigamāya.",
+          "en": "or neither did nor did not make a wish."
+        },
+        {
+          "scid": "mn126:12.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:12.7",
+          "pli": "Ayoni hesā, bhūmija, navanītassa adhigamāya.",
+          "en": "Because that’s an irrational way to produce butter."
+        },
+        {
+          "scid": "mn126:12.8",
+          "pli": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā micchādiṭṭhino … pe …",
+          "en": "And so it is for any ascetics and brahmins who have wrong view …"
+        },
+        {
+          "scid": "mn126:12.9",
+          "pli": "micchāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:12.10",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:12.11",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:12.12",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:12.13",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "mn126:12.14",
+          "pli": "Ayoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s an irrational way to win the fruit."
+        },
+        {
+          "scid": "mn126:13.1",
+          "pli": "Seyyathāpi, bhūmija, puriso aggitthiko aggigavesī aggipariyesanaṃ caramāno allaṃ kaṭṭhaṃ sasnehaṃ uttarāraṇiṃ ādāya abhimantheyya.",
+          "en": "Suppose there was a person in need of fire. While wandering in search of fire, they tried drilling a green, sappy log with a drill-stick."
+        },
+        {
+          "scid": "mn126:13.2",
+          "pli": "Āsañcepi karitvā allaṃ kaṭṭhaṃ sasnehaṃ uttarāraṇiṃ ādāya abhimantheyya, abhabbo aggissa adhigamāya;",
+          "en": "But by doing this, they couldn’t start a fire, regardless of whether they made a wish,"
+        },
+        {
+          "scid": "mn126:13.3",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": "didn’t make a wish,"
+        },
+        {
+          "scid": "mn126:13.4",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": "both did and did not make a wish,"
+        },
+        {
+          "scid": "mn126:13.5",
+          "pli": "nevāsaṃ nānāsañcepi karitvā allaṃ kaṭṭhaṃ sasnehaṃ uttarāraṇiṃ ādāya abhimantheyya, abhabbo aggissa adhigamāya.",
+          "en": "or neither did nor did not make a wish."
+        },
+        {
+          "scid": "mn126:13.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:13.7",
+          "pli": "Ayoni hesā, bhūmija, aggissa adhigamāya.",
+          "en": "Because that’s an irrational way to start a fire."
+        },
+        {
+          "scid": "mn126:13.8",
+          "pli": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā micchādiṭṭhino … pe …",
+          "en": "And so it is for any ascetics and brahmins who have wrong view …"
+        },
+        {
+          "scid": "mn126:13.9",
+          "pli": "micchāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:13.10",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:13.11",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:13.12",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, abhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:13.13",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "mn126:13.14",
+          "pli": "Ayoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s an irrational way to win the fruit."
+        },
+        {
+          "scid": "mn126:14.1",
+          "pli": "Ye hi keci, bhūmija, samaṇā vā brāhmaṇā vā sammādiṭṭhino sammāsaṅkappā sammāvācā sammākammantā sammāājīvā sammāvāyāmā sammāsatī sammāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": "There are some ascetics and brahmins who have right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. If they lead the spiritual life, they can win the fruit, regardless of whether they make a wish,"
+        },
+        {
+          "scid": "mn126:14.2",
+          "pli": "anāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": "they don’t make a wish,"
+        },
+        {
+          "scid": "mn126:14.3",
+          "pli": "āsañca anāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": "they both do and do not make a wish,"
+        },
+        {
+          "scid": "mn126:14.4",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya.",
+          "en": "or they neither do nor do not make a wish."
+        },
+        {
+          "scid": "mn126:14.5",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:14.6",
+          "pli": "Yoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s a rational way to win the fruit."
+        },
+        {
+          "scid": "mn126:15.1",
+          "pli": "Seyyathāpi, bhūmija, puriso telatthiko telagavesī telapariyesanaṃ caramāno tilapiṭṭhaṃ doṇiyā ākiritvā udakena paripphosakaṃ paripphosakaṃ pīḷeyya.",
+          "en": "Suppose there was a person in need of oil. While wandering in search of oil, they tried heaping sesame flour in a bucket, sprinkling it thoroughly with water, and pressing it out."
+        },
+        {
+          "scid": "mn126:15.2",
+          "pli": "Āsañcepi karitvā tilapiṭṭhaṃ doṇiyā ākiritvā udakena paripphosakaṃ paripphosakaṃ pīḷeyya, bhabbo telassa adhigamāya;",
+          "en": "By doing this, they could extract oil, regardless of whether they made a wish,"
+        },
+        {
+          "scid": "mn126:15.3",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": "didn’t make a wish,"
+        },
+        {
+          "scid": "mn126:15.4",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": "both did and did not make a wish,"
+        },
+        {
+          "scid": "mn126:15.5",
+          "pli": "nevāsaṃ nānāsañcepi karitvā tilapiṭṭhaṃ doṇiyā ākiritvā udakena paripphosakaṃ paripphosakaṃ pīḷeyya, bhabbo telassa adhigamāya.",
+          "en": "or neither did nor did not make a wish."
+        },
+        {
+          "scid": "mn126:15.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:15.7",
+          "pli": "Yoni hesā, bhūmija, telassa adhigamāya.",
+          "en": "Because that’s a rational way to extract oil."
+        },
+        {
+          "scid": "mn126:15.8",
+          "pli": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā sammādiṭṭhino … pe …",
+          "en": "And so it is for any ascetics and brahmins who have right view …"
+        },
+        {
+          "scid": "mn126:15.9",
+          "pli": "sammāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:15.10",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:15.11",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:15.12",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:15.13",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "mn126:15.14",
+          "pli": "Yoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s a rational way to win the fruit."
+        },
+        {
+          "scid": "mn126:16.1",
+          "pli": "Seyyathāpi, bhūmija, puriso khīratthiko khīragavesī khīrapariyesanaṃ caramāno gāviṃ taruṇavacchaṃ thanato āviñcheyya.",
+          "en": "Suppose there was a person in need of milk. While wandering in search of milk, they tried pulling the udder of a newly-calved cow."
+        },
+        {
+          "scid": "mn126:16.2",
+          "pli": "Āsañcepi karitvā gāviṃ taruṇavacchaṃ thanato āviñcheyya, bhabbo khīrassa adhigamāya;",
+          "en": "By doing this, they could get milk, regardless of whether they made a wish,"
+        },
+        {
+          "scid": "mn126:16.3",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": "didn’t make a wish,"
+        },
+        {
+          "scid": "mn126:16.4",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": "both did and did not make a wish,"
+        },
+        {
+          "scid": "mn126:16.5",
+          "pli": "nevāsaṃ nānāsañcepi karitvā gāviṃ taruṇavacchaṃ thanato āviñcheyya, bhabbo khīrassa adhigamāya.",
+          "en": "or neither did nor did not make a wish."
+        },
+        {
+          "scid": "mn126:16.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:16.7",
+          "pli": "Yoni hesā, bhūmija, khīrassa adhigamāya.",
+          "en": "Because that’s a rational way to get milk."
+        },
+        {
+          "scid": "mn126:16.8",
+          "pli": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā sammādiṭṭhino … pe …",
+          "en": "And so it is for any ascetics and brahmins who have right view …"
+        },
+        {
+          "scid": "mn126:16.9",
+          "pli": "sammāsamādhino te āsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:16.10",
+          "pli": "anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:16.11",
+          "pli": "āsañca anāsañcepi karitvā … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:16.12",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:16.13",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "mn126:16.14",
+          "pli": "Yoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s a rational way to win the fruit."
+        },
+        {
+          "scid": "mn126:17.1",
+          "pli": "Seyyathāpi, bhūmija, puriso navanītatthiko navanītagavesī navanītapariyesanaṃ caramāno dadhiṃ kalase āsiñcitvā matthena āviñcheyya.",
+          "en": "Suppose there was a person in need of butter. While wandering in search of butter, they tried pouring curds into a pot and churning them with a stick."
+        },
+        {
+          "scid": "mn126:17.2",
+          "pli": "Āsañcepi karitvā dadhiṃ kalase āsiñcitvā matthena āviñcheyya, bhabbo navanītassa adhigamāya;",
+          "en": "By doing this, they could produce butter, regardless of whether they made a wish,"
+        },
+        {
+          "scid": "mn126:17.3",
+          "pli": "anāsañcepi karitvā …",
+          "en": "didn’t make a wish,"
+        },
+        {
+          "scid": "mn126:17.4",
+          "pli": "āsañca anāsañcepi karitvā …",
+          "en": "both did and did not make a wish,"
+        },
+        {
+          "scid": "mn126:17.5",
+          "pli": "nevāsaṃ nānāsañcepi karitvā dadhiṃ kalase āsiñcitvā matthena āviñcheyya, bhabbo navanītassa adhigamāya.",
+          "en": "or neither did nor did not make a wish."
+        },
+        {
+          "scid": "mn126:17.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:17.7",
+          "pli": "Yoni hesā, bhūmija, navanītassa adhigamāya.",
+          "en": "Because that’s a rational way to produce butter."
+        },
+        {
+          "scid": "mn126:17.8",
+          "pli": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā sammādiṭṭhino … pe …",
+          "en": "And so it is for any ascetics and brahmins who have right view …"
+        },
+        {
+          "scid": "mn126:17.9",
+          "pli": "sammāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:17.10",
+          "pli": "anāsañcepi karitvā …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:17.11",
+          "pli": "āsañca anāsañcepi karitvā …",
+          "en": ""
+        },
+        {
+          "scid": "mn126:17.12",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:17.13",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "mn126:17.14",
+          "pli": "Yoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s a rational way to win the fruit."
+        },
+        {
+          "scid": "mn126:18.1",
+          "pli": "Seyyathāpi, bhūmija, puriso aggitthiko aggigavesī aggipariyesanaṃ caramāno sukkhaṃ kaṭṭhaṃ koḷāpaṃ uttarāraṇiṃ ādāya abhimantheyya;",
+          "en": "Suppose there was a person in need of fire. While wandering in search of fire, they tried drilling a dried up, withered log with a drill-stick."
+        },
+        {
+          "scid": "mn126:18.2",
+          "pli": "() āsañcepi karitvā …",
+          "en": "By doing this, they could start a fire, regardless of whether they made a wish,"
+        },
+        {
+          "scid": "mn126:18.3",
+          "pli": "anāsañcepi karitvā …",
+          "en": "didn’t make a wish,"
+        },
+        {
+          "scid": "mn126:18.4",
+          "pli": "āsañca anāsañcepi karitvā …",
+          "en": "both did and did not make a wish,"
+        },
+        {
+          "scid": "mn126:18.5",
+          "pli": "nevāsaṃ nānāsañcepi karitvā sukkhaṃ kaṭṭhaṃ koḷāpaṃ uttarāraṇiṃ ādāya abhimantheyya, bhabbo aggissa adhigamāya.",
+          "en": "or neither did nor did not make a wish."
+        },
+        {
+          "scid": "mn126:18.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "mn126:18.7",
+          "pli": "Yoni hesā, bhūmija, aggissa adhigamāya.",
+          "en": "Because that’s a rational way to start a fire."
+        },
+        {
+          "scid": "mn126:18.8",
+          "pli": "Evameva kho, bhūmija, ye hi keci samaṇā vā brāhmaṇā vā sammādiṭṭhino … pe …",
+          "en": "And so it is for any ascetics and brahmins who have right view …"
+        },
+        {
+          "scid": "mn126:18.9",
+          "pli": "sammāsamādhino te āsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:18.10",
+          "pli": "anāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:18.11",
+          "pli": "āsañca anāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya;",
+          "en": ""
+        },
+        {
+          "scid": "mn126:18.12",
+          "pli": "nevāsaṃ nānāsañcepi karitvā brahmacariyaṃ caranti, bhabbā phalassa adhigamāya.",
+          "en": ""
+        },
+        {
+          "scid": "mn126:18.13",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "mn126:18.14",
+          "pli": "Yoni hesā, bhūmija, phalassa adhigamāya.",
+          "en": "Because that’s a rational way to win the fruit."
+        },
+        {
+          "scid": "mn126:19.1",
+          "pli": "Sace kho taṃ, bhūmija, jayasenassa rājakumārassa imā catasso upamā paṭibhāyeyyuṃ anacchariyaṃ te jayaseno rājakumāro pasīdeyya, pasanno ca te pasannākāraṃ kareyyā”ti.",
+          "en": "Bhūmija, it wouldn’t be surprising if, had these four similes occurred to you, Prince Jayasena would have gained confidence in you and shown his confidence.”"
+        },
+        {
+          "scid": "mn126:19.2",
+          "pli": "“Kuto pana maṃ, bhante, jayasenassa rājakumārassa imā catasso upamā paṭibhāyissanti anacchariyā pubbe assutapubbā, seyyathāpi bhagavantan”ti?",
+          "en": "“But sir, how could these four similes have occurred to me as they did to the Buddha, since they were neither supernaturally inspired, nor learned before in the past?”"
+        },
+        {
+          "scid": "mn126:19.3",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn126:19.4",
+          "pli": "Attamano āyasmā bhūmijo bhagavato bhāsitaṃ abhinandīti.",
+          "en": "Satisfied, Venerable Bhūmija was happy with what the Buddha said."
+        },
+        {
+          "scid": "mn126:19.5",
+          "pli": "Bhūmijasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn126/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 126",
+    "volpages": "MN iii 138",
+    "uid": "mn126",
+    "blurb": "Success in the spiritual life does not depend on any vows you may or may not make, but on whether you practice well.",
+    "difficulty": 1,
+    "original_title": "Bhūmija Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Bhūmija",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn126_sujato",
+        "segmented": true,
+        "title": "With Bhūmija"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 6
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "sutta_uid": "sn1.36",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.36",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Faith",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Congregation",
+      "uid": "sn1.37"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Disdain",
+      "uid": "sn1.35"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.36:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.36:0.2",
+          "pli": "4. Satullapakāyikavagga",
+          "en": "4. The Satullapa Group"
+        },
+        {
+          "scid": "sn1.36:0.3",
+          "pli": "36. Saddhāsutta",
+          "en": "36. Faith"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.36:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "sn1.36:1.2",
+          "pli": "Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu.",
+          "en": "Then, late at night, several glorious deities of the Satullapa Group, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, and stood to one side."
+        },
+        {
+          "scid": "sn1.36:1.3",
+          "pli": "Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, one deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn1.36:2.1",
+          "pli": "“Saddhā dutiyā purisassa hoti,",
+          "en": "“Faith is a person’s partner."
+        },
+        {
+          "scid": "sn1.36:2.2",
+          "pli": "No ce assaddhiyaṃ avatiṭṭhati;",
+          "en": "If faithlessness doesn’t linger,"
+        },
+        {
+          "scid": "sn1.36:2.3",
+          "pli": "Yaso ca kittī ca tatvassa hoti,",
+          "en": "fame and renown are theirs,"
+        },
+        {
+          "scid": "sn1.36:2.4",
+          "pli": "Saggañca so gacchati sarīraṃ vihāyā”ti.",
+          "en": "and when they discard this corpse they go to heaven.”"
+        },
+        {
+          "scid": "sn1.36:3.1",
+          "pli": "Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi:",
+          "en": "Then another deity recited these verses in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn1.36:4.1",
+          "pli": "“Kodhaṃ jahe vippajaheyya mānaṃ,",
+          "en": "“You should give up anger and get rid of conceit,"
+        },
+        {
+          "scid": "sn1.36:4.2",
+          "pli": "Saṃyojanaṃ sabbamatikkameyya;",
+          "en": "and get past all the fetters."
+        },
+        {
+          "scid": "sn1.36:4.3",
+          "pli": "Taṃ nāmarūpasmimasajjamānaṃ,",
+          "en": "Clingings don’t torment the one who has nothing,"
+        },
+        {
+          "scid": "sn1.36:4.4",
+          "pli": "Akiñcanaṃ nānupatanti saṅgā”ti.",
+          "en": "not clinging to name and form.”"
+        },
+        {
+          "scid": "sn1.36:5.1",
+          "pli": "“Pamādamanuyuñjanti,",
+          "en": "“Fools and unintelligent people"
+        },
+        {
+          "scid": "sn1.36:5.2",
+          "pli": "bālā dummedhino janā;",
+          "en": "devote themselves to negligence."
+        },
+        {
+          "scid": "sn1.36:5.3",
+          "pli": "Appamādañca medhāvī,",
+          "en": "But the intelligent protect diligence"
+        },
+        {
+          "scid": "sn1.36:5.4",
+          "pli": "dhanaṃ seṭṭhaṃva rakkhati.",
+          "en": "as their best treasure."
+        },
+        {
+          "scid": "sn1.36:6.1",
+          "pli": "Mā pamādamanuyuñjetha,",
+          "en": "Don’t devote yourself to negligence,"
+        },
+        {
+          "scid": "sn1.36:6.2",
+          "pli": "mā kāmarati santhavaṃ;",
+          "en": "or delight in sexual intimacy."
+        },
+        {
+          "scid": "sn1.36:6.3",
+          "pli": "Appamatto hi jhāyanto,",
+          "en": "For if you’re diligent and practice absorption,"
+        },
+        {
+          "scid": "sn1.36:6.4",
+          "pli": "pappoti paramaṃ sukhan”ti.",
+          "en": "you’ll attain the highest happiness.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.36/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.36//SN 36",
+    "volpages": "SN i 25//SN i 53",
+    "uid": "sn1.36",
+    "blurb": "A series of Satullapa gods address the Buddha with verses on various topics. The identifications of the verses in this unclear, and comparison with the Chinese parallels suggests the Pali may have suffered textual loss.",
+    "difficulty": null,
+    "original_title": "Saddhā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Faith",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.36_sujato",
+        "segmented": true,
+        "title": "Faith"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.36_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Faith"
+      }
+    ],
+    "parallel_count": 31,
+    "biblio": null,
+    "num": 6
+  }
+}

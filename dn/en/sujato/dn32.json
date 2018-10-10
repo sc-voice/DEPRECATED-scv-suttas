@@ -1,0 +1,2965 @@
+{
+  "sutta_uid": "dn32",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "dn32",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Āṭānāṭiya Protection",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Reciting in Concert",
+      "uid": "dn33"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Advice to Sigālaka",
+      "uid": "dn31"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "dn32:0.1",
+          "pli": "Dīgha Nikāya 32",
+          "en": "Long Discourses 32"
+        },
+        {
+          "scid": "dn32:0.2",
+          "pli": "Āṭānāṭiyasutta",
+          "en": "The Āṭānāṭiya Protection"
+        },
+        {
+          "scid": "dn32:0.3",
+          "pli": "1. Paṭhamabhāṇavāra",
+          "en": "1. The First Recitation Section"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Long Discourses 32…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "dn32:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "dn32:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate.",
+          "en": "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain."
+        },
+        {
+          "scid": "dn32:1.3",
+          "pli": "Atha kho cattāro mahārājā mahatiyā ca yakkhasenāya mahatiyā ca gandhabbasenāya mahatiyā ca kumbhaṇḍasenāya mahatiyā ca nāgasenāya catuddisaṃ rakkhaṃ ṭhapetvā catuddisaṃ gumbaṃ ṭhapetvā catuddisaṃ ovaraṇaṃ ṭhapetvā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ gijjhakūṭaṃ pabbataṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu.",
+          "en": "Then, late at night, the Four Great Kings—with large armies of spirits, fairies, goblins, and dragons—set guards, troops, and wards at the four quarters and then, lighting up the entire Vulture’s Peak with their beauty, went up to the Buddha, bowed, and sat down to one side."
+        },
+        {
+          "scid": "dn32:1.4",
+          "pli": "Tepi kho yakkhā appekacce bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu, appekacce bhagavatā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu, appekacce yena bhagavā tenañjaliṃ paṇāmetvā ekamantaṃ nisīdiṃsu, appekacce nāmagottaṃ sāvetvā ekamantaṃ nisīdiṃsu, appekacce tuṇhībhūtā ekamantaṃ nisīdiṃsu.",
+          "en": "Before sitting down to one side, some spirits bowed, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent."
+        },
+        {
+          "scid": "dn32:2.1",
+          "pli": "Ekamantaṃ nisinno kho vessavaṇo mahārājā bhagavantaṃ etadavoca:",
+          "en": "Seated to one side, the Great King Vessavaṇa said to the Buddha:"
+        },
+        {
+          "scid": "dn32:2.2",
+          "pli": "“santi hi, bhante, uḷārā yakkhā bhagavato appasannā.",
+          "en": "“Sir, some high spirits have confidence in the Buddha,"
+        },
+        {
+          "scid": "dn32:2.3",
+          "pli": "Santi hi, bhante, uḷārā yakkhā bhagavato pasannā.",
+          "en": "some do not."
+        },
+        {
+          "scid": "dn32:2.4",
+          "pli": "Santi hi, bhante, majjhimā yakkhā bhagavato appasannā.",
+          "en": "Some middling spirits have confidence in the Buddha,"
+        },
+        {
+          "scid": "dn32:2.5",
+          "pli": "Santi hi, bhante, majjhimā yakkhā bhagavato pasannā.",
+          "en": "some do not."
+        },
+        {
+          "scid": "dn32:2.6",
+          "pli": "Santi hi, bhante, nīcā yakkhā bhagavato appasannā.",
+          "en": "Some low spirits have confidence in the Buddha,"
+        },
+        {
+          "scid": "dn32:2.7",
+          "pli": "Santi hi, bhante, nīcā yakkhā bhagavato pasannā.",
+          "en": "some do not."
+        },
+        {
+          "scid": "dn32:2.8",
+          "pli": "Yebhuyyena kho pana, bhante, yakkhā appasannāyeva bhagavato.",
+          "en": "But mostly the spirits don’t have confidence in the Buddha."
+        },
+        {
+          "scid": "dn32:2.9",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "dn32:2.10",
+          "pli": "Bhagavā hi, bhante, pāṇātipātā veramaṇiyā dhammaṃ deseti, adinnādānā veramaṇiyā dhammaṃ deseti, kāmesumicchācārā veramaṇiyā dhammaṃ deseti, musāvādā veramaṇiyā dhammaṃ deseti, surāmerayamajjappamādaṭṭhānā veramaṇiyā dhammaṃ deseti.",
+          "en": "Because the Buddha teaches them to refrain from killing living creatures, stealing, lying, sexual misconduct, and drinking alcohol."
+        },
+        {
+          "scid": "dn32:2.11",
+          "pli": "Yebhuyyena kho pana, bhante, yakkhā appaṭiviratāyeva pāṇātipātā, appaṭiviratā adinnādānā, appaṭiviratā kāmesumicchācārā, appaṭiviratā musāvādā, appaṭiviratā surāmerayamajjappamādaṭṭhānā.",
+          "en": "But mostly they don’t refrain from such things."
+        },
+        {
+          "scid": "dn32:2.12",
+          "pli": "Tesaṃ taṃ hoti appiyaṃ amanāpaṃ.",
+          "en": "They don’t like that or approve of it."
+        },
+        {
+          "scid": "dn32:2.13",
+          "pli": "Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni.",
+          "en": "Sir, there are disciples of the Buddha who frequent remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and appropriate for retreat."
+        },
+        {
+          "scid": "dn32:2.14",
+          "pli": "Tattha santi uḷārā yakkhā nivāsino, ye imasmiṃ bhagavato pāvacane appasannā.",
+          "en": "There dwell high spirits who have no confidence in the Buddha’s dispensation."
+        },
+        {
+          "scid": "dn32:2.15",
+          "pli": "Tesaṃ pasādāya uggaṇhātu, bhante, bhagavā āṭānāṭiyaṃ rakkhaṃ bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāyā”ti.",
+          "en": "To give them confidence, may the Buddha please learn the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the monks, nuns, laymen, and laywomen.”"
+        },
+        {
+          "scid": "dn32:2.16",
+          "pli": "Adhivāsesi bhagavā tuṇhībhāvena.",
+          "en": "The Buddha consented in silence."
+        },
+        {
+          "scid": "dn32:3.1",
+          "pli": "Atha kho vessavaṇo mahārājā bhagavato adhivāsanaṃ viditvā tāyaṃ velāyaṃ imaṃ āṭānāṭiyaṃ rakkhaṃ abhāsi:",
+          "en": "Then, knowing that the Buddha had consented, on that occasion Great King Vessavaṇa recited the Āṭānāṭiya protection."
+        },
+        {
+          "scid": "dn32:3.2",
+          "pli": "“Vipassissa ca namatthu,",
+          "en": "“Hail Vipassī,"
+        },
+        {
+          "scid": "dn32:3.3",
+          "pli": "cakkhumantassa sirīmato;",
+          "en": "the glorious seer!"
+        },
+        {
+          "scid": "dn32:3.4",
+          "pli": "Sikhissapi ca namatthu,",
+          "en": "Hail Sikhī,"
+        },
+        {
+          "scid": "dn32:3.5",
+          "pli": "sabbabhūtānukampino.",
+          "en": "compassionate for all beings!"
+        },
+        {
+          "scid": "dn32:3.6",
+          "pli": "Vessabhussa ca namatthu,",
+          "en": "Hail Vesabhū,"
+        },
+        {
+          "scid": "dn32:3.7",
+          "pli": "nhātakassa tapassino;",
+          "en": "cleansed and austere!"
+        },
+        {
+          "scid": "dn32:3.8",
+          "pli": "Namatthu kakusandhassa,",
+          "en": "Hail Kakusandha,"
+        },
+        {
+          "scid": "dn32:3.9",
+          "pli": "mārasenāpamaddino.",
+          "en": "crusher of Māra’s army!"
+        },
+        {
+          "scid": "dn32:3.10",
+          "pli": "Koṇāgamanassa namatthu,",
+          "en": "Hail Koṇāgamana,"
+        },
+        {
+          "scid": "dn32:3.11",
+          "pli": "brāhmaṇassa vusīmato;",
+          "en": "the accomplished brahmin!"
+        },
+        {
+          "scid": "dn32:3.12",
+          "pli": "Kassapassa ca namatthu,",
+          "en": "Hail Kassapa,"
+        },
+        {
+          "scid": "dn32:3.13",
+          "pli": "vippamuttassa sabbadhi.",
+          "en": "freed in every way!"
+        },
+        {
+          "scid": "dn32:3.14",
+          "pli": "Aṅgīrasassa namatthu,",
+          "en": "Hail Aṅgīrasa,"
+        },
+        {
+          "scid": "dn32:3.15",
+          "pli": "sakyaputtassa sirīmato;",
+          "en": "the glorious Sakyan!"
+        },
+        {
+          "scid": "dn32:3.16",
+          "pli": "Yo imaṃ dhammaṃ desesi,",
+          "en": "He taught this Dhamma"
+        },
+        {
+          "scid": "dn32:3.17",
+          "pli": "sabbadukkhāpanūdanaṃ.",
+          "en": "that dispels all suffering."
+        },
+        {
+          "scid": "dn32:3.18",
+          "pli": "Ye cāpi nibbutā loke,",
+          "en": "Those in the world who are extinguished,"
+        },
+        {
+          "scid": "dn32:3.19",
+          "pli": "yathābhūtaṃ vipassisuṃ;",
+          "en": "truly discerning,"
+        },
+        {
+          "scid": "dn32:3.20",
+          "pli": "Te janā apisuṇātha,",
+          "en": "not backbiters; such people"
+        },
+        {
+          "scid": "dn32:3.21",
+          "pli": "mahantā vītasāradā.",
+          "en": "being great of heart and rid of naivety,"
+        },
+        {
+          "scid": "dn32:3.22",
+          "pli": "Hitaṃ devamanussānaṃ,",
+          "en": "revere that Gotama;"
+        },
+        {
+          "scid": "dn32:3.23",
+          "pli": "yaṃ namassanti gotamaṃ;",
+          "en": "he who is helpful to gods and humans,"
+        },
+        {
+          "scid": "dn32:3.24",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": "accomplished in knowledge and conduct,"
+        },
+        {
+          "scid": "dn32:3.25",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": "great of heart and rid of naivety."
+        },
+        {
+          "scid": "dn32:4.1",
+          "pli": "Yato uggacchati sūriyo,",
+          "en": "Where rises the sun—"
+        },
+        {
+          "scid": "dn32:4.2",
+          "pli": "ādicco maṇḍalī mahā;",
+          "en": "Aditi’s child, the great circle,"
+        },
+        {
+          "scid": "dn32:4.3",
+          "pli": "Yassa cuggacchamānassa,",
+          "en": "who in his rising"
+        },
+        {
+          "scid": "dn32:4.4",
+          "pli": "saṃvarīpi nirujjhati;",
+          "en": "dispels the night,"
+        },
+        {
+          "scid": "dn32:4.5",
+          "pli": "Yassa cuggate sūriye,",
+          "en": "and of whom, when sun has risen,"
+        },
+        {
+          "scid": "dn32:4.6",
+          "pli": "‘divaso’ti pavuccati.",
+          "en": "it’s said to be the day—"
+        },
+        {
+          "scid": "dn32:4.7",
+          "pli": "Rahadopi tattha gambhīro,",
+          "en": "there is a deep lake"
+        },
+        {
+          "scid": "dn32:4.8",
+          "pli": "samuddo saritodako;",
+          "en": "an ocean, where water flows."
+        },
+        {
+          "scid": "dn32:4.9",
+          "pli": "Evaṃ taṃ tattha jānanti,",
+          "en": "So they know that in that place"
+        },
+        {
+          "scid": "dn32:4.10",
+          "pli": "‘samuddo saritodako’.",
+          "en": "there is an ocean where waters flow."
+        },
+        {
+          "scid": "dn32:4.11",
+          "pli": "Ito ‘sā purimā disā’,",
+          "en": "From here that is the eastern quarter,"
+        },
+        {
+          "scid": "dn32:4.12",
+          "pli": "iti naṃ ācikkhatī jano;",
+          "en": "so the people say."
+        },
+        {
+          "scid": "dn32:4.13",
+          "pli": "Yaṃ disaṃ abhipāleti,",
+          "en": "That quarter is warded"
+        },
+        {
+          "scid": "dn32:4.14",
+          "pli": "mahārājā yasassi so.",
+          "en": "by a great king, glorious,"
+        },
+        {
+          "scid": "dn32:4.15",
+          "pli": "Gandhabbānaṃ adhipati,",
+          "en": "the lord of the fairies;"
+        },
+        {
+          "scid": "dn32:4.16",
+          "pli": "dhataraṭṭho’ti nāmaso;",
+          "en": "his name is Dhataraṭṭha."
+        },
+        {
+          "scid": "dn32:4.17",
+          "pli": "Ramatī naccagītehi,",
+          "en": "He delights in song and dance,"
+        },
+        {
+          "scid": "dn32:4.18",
+          "pli": "gandhabbehi purakkhato.",
+          "en": "esteemed by the fairies."
+        },
+        {
+          "scid": "dn32:4.19",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": "And he has many mighty sons"
+        },
+        {
+          "scid": "dn32:4.20",
+          "pli": "ekanāmāti me sutaṃ;",
+          "en": "all of one name, so I’ve heard."
+        },
+        {
+          "scid": "dn32:4.21",
+          "pli": "Asīti dasa eko ca,",
+          "en": "Eighty, and ten, and one—"
+        },
+        {
+          "scid": "dn32:4.22",
+          "pli": "indanāmā mahabbalā.",
+          "en": "all of them named Inda."
+        },
+        {
+          "scid": "dn32:4.23",
+          "pli": "Te cāpi buddhaṃ disvāna,",
+          "en": "After seeing the Awakened One,"
+        },
+        {
+          "scid": "dn32:4.24",
+          "pli": "buddhaṃ ādiccabandhunaṃ;",
+          "en": "the Buddha, Kinsman of the Sun,"
+        },
+        {
+          "scid": "dn32:4.25",
+          "pli": "Dūratova namassanti,",
+          "en": "they revere him from afar,"
+        },
+        {
+          "scid": "dn32:4.26",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": "the one great of heart and rid of naivety."
+        },
+        {
+          "scid": "dn32:4.27",
+          "pli": "Namo te purisājañña,",
+          "en": "Homage to you, O thoroughbred!"
+        },
+        {
+          "scid": "dn32:4.28",
+          "pli": "namo te purisuttama;",
+          "en": "Homage to you, O highest of persons!"
+        },
+        {
+          "scid": "dn32:4.29",
+          "pli": "Kusalena samekkhasi,",
+          "en": "You’ve seen us with clarity and kindness."
+        },
+        {
+          "scid": "dn32:4.30",
+          "pli": "amanussāpi taṃ vandanti;",
+          "en": "The non-humans bow to you."
+        },
+        {
+          "scid": "dn32:4.31",
+          "pli": "Sutaṃ netaṃ abhiṇhaso,",
+          "en": "We’ve been asked many a time,"
+        },
+        {
+          "scid": "dn32:4.32",
+          "pli": "tasmā evaṃ vademase.",
+          "en": "‘Do you bow to Gotama the victor?’"
+        },
+        {
+          "scid": "dn32:4.33",
+          "pli": "‘Jinaṃ vandatha gotamaṃ’,",
+          "en": "And so we ought to declare:"
+        },
+        {
+          "scid": "dn32:4.34",
+          "pli": "‘jinaṃ vandāma gotamaṃ;",
+          "en": "‘We bow to Gotama the victor,"
+        },
+        {
+          "scid": "dn32:4.35",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": "accomplished in knowledge and conduct!"
+        },
+        {
+          "scid": "dn32:4.36",
+          "pli": "buddhaṃ vandāma gotamaṃ’.",
+          "en": "We bow to Gotama the awakened!’"
+        },
+        {
+          "scid": "dn32:5.1",
+          "pli": "Yena petā pavuccanti,",
+          "en": "It’s where the departed go, they say,"
+        },
+        {
+          "scid": "dn32:5.2",
+          "pli": "pisuṇā piṭṭhimaṃsikā;",
+          "en": "who are dividers and backbiters,"
+        },
+        {
+          "scid": "dn32:5.3",
+          "pli": "Pāṇātipātino luddā,",
+          "en": "killers and hunters,"
+        },
+        {
+          "scid": "dn32:5.4",
+          "pli": "corā nekatikā janā.",
+          "en": "bandits and frauds."
+        },
+        {
+          "scid": "dn32:5.5",
+          "pli": "Ito ‘sā dakkhiṇā disā’,",
+          "en": "From here that is the southern quarter,"
+        },
+        {
+          "scid": "dn32:5.6",
+          "pli": "iti naṃ ācikkhatī jano;",
+          "en": "so the people say."
+        },
+        {
+          "scid": "dn32:5.7",
+          "pli": "Yaṃ disaṃ abhipāleti,",
+          "en": "That quarter is warded"
+        },
+        {
+          "scid": "dn32:5.8",
+          "pli": "mahārājā yasassi so.",
+          "en": "by a great king, glorious,"
+        },
+        {
+          "scid": "dn32:5.9",
+          "pli": "Kumbhaṇḍānaṃ adhipati,",
+          "en": "the lord of the goblins;"
+        },
+        {
+          "scid": "dn32:5.10",
+          "pli": "‘virūḷho’ iti nāmaso;",
+          "en": "his name is Virūḷha."
+        },
+        {
+          "scid": "dn32:5.11",
+          "pli": "Ramatī naccagītehi,",
+          "en": "He delights in song and dance,"
+        },
+        {
+          "scid": "dn32:5.12",
+          "pli": "kumbhaṇḍehi purakkhato.",
+          "en": "esteemed by the goblins."
+        },
+        {
+          "scid": "dn32:5.13",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": "And he has many mighty sons"
+        },
+        {
+          "scid": "dn32:5.14",
+          "pli": "ekanāmāti me sutaṃ;",
+          "en": "all of one name, so I’ve heard."
+        },
+        {
+          "scid": "dn32:5.15",
+          "pli": "Asīti dasa eko ca,",
+          "en": "Eighty, and ten, and one—"
+        },
+        {
+          "scid": "dn32:5.16",
+          "pli": "indanāmā mahabbalā.",
+          "en": "all of them named Inda."
+        },
+        {
+          "scid": "dn32:5.17",
+          "pli": "Te cāpi buddhaṃ disvāna,",
+          "en": "After seeing the Awakened One,"
+        },
+        {
+          "scid": "dn32:5.18",
+          "pli": "buddhaṃ ādiccabandhunaṃ;",
+          "en": "the Buddha, Kinsman of the Sun,"
+        },
+        {
+          "scid": "dn32:5.19",
+          "pli": "Dūratova namassanti,",
+          "en": "they revere him from afar,"
+        },
+        {
+          "scid": "dn32:5.20",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": "the one great of heart and rid of naivety."
+        },
+        {
+          "scid": "dn32:5.21",
+          "pli": "Namo te purisājañña,",
+          "en": "Homage to you, O thoroughbred!"
+        },
+        {
+          "scid": "dn32:5.22",
+          "pli": "namo te purisuttama;",
+          "en": "Homage to you, O highest of persons!"
+        },
+        {
+          "scid": "dn32:5.23",
+          "pli": "Kusalena samekkhasi,",
+          "en": "You’ve seen us with clarity and kindness."
+        },
+        {
+          "scid": "dn32:5.24",
+          "pli": "amanussāpi taṃ vandanti;",
+          "en": "The non-humans bow to you."
+        },
+        {
+          "scid": "dn32:5.25",
+          "pli": "Sutaṃ netaṃ abhiṇhaso,",
+          "en": "We’ve been asked many a time,"
+        },
+        {
+          "scid": "dn32:5.26",
+          "pli": "tasmā evaṃ vademase.",
+          "en": "‘Do you bow to Gotama the victor?’"
+        },
+        {
+          "scid": "dn32:5.27",
+          "pli": "‘Jinaṃ vandatha gotamaṃ’,",
+          "en": "And so we ought to declare:"
+        },
+        {
+          "scid": "dn32:5.28",
+          "pli": "‘jinaṃ vandāma gotamaṃ;",
+          "en": "‘We bow to Gotama the victor,"
+        },
+        {
+          "scid": "dn32:5.29",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": "accomplished in knowledge and conduct!"
+        },
+        {
+          "scid": "dn32:5.30",
+          "pli": "buddhaṃ vandāma gotamaṃ’.",
+          "en": "We bow to Gotama the awakened!’"
+        },
+        {
+          "scid": "dn32:6.1",
+          "pli": "Yattha coggacchati sūriyo,",
+          "en": "Where sets the sun—"
+        },
+        {
+          "scid": "dn32:6.2",
+          "pli": "ādicco maṇḍalī mahā;",
+          "en": "Aditi’s child, the great circle,"
+        },
+        {
+          "scid": "dn32:6.3",
+          "pli": "Yassa coggacchamānassa,",
+          "en": "who in his setting"
+        },
+        {
+          "scid": "dn32:6.4",
+          "pli": "divasopi nirujjhati;",
+          "en": "closes the day,"
+        },
+        {
+          "scid": "dn32:6.5",
+          "pli": "Yassa coggate sūriye,",
+          "en": "and of whom, when sun has set,"
+        },
+        {
+          "scid": "dn32:6.6",
+          "pli": "‘saṃvarī’ti pavuccati.",
+          "en": "it’s said to be the night—"
+        },
+        {
+          "scid": "dn32:6.7",
+          "pli": "Rahadopi tattha gambhīro,",
+          "en": "there is a deep lake"
+        },
+        {
+          "scid": "dn32:6.8",
+          "pli": "samuddo saritodako;",
+          "en": "an ocean, where water flows."
+        },
+        {
+          "scid": "dn32:6.9",
+          "pli": "Evaṃ taṃ tattha jānanti,",
+          "en": "So they know that in that place"
+        },
+        {
+          "scid": "dn32:6.10",
+          "pli": "‘samuddo saritodako’.",
+          "en": "there is an ocean where waters flow."
+        },
+        {
+          "scid": "dn32:6.11",
+          "pli": "Ito ‘sā pacchimā disā’,",
+          "en": "From here that is the western quarter,"
+        },
+        {
+          "scid": "dn32:6.12",
+          "pli": "iti naṃ ācikkhatī jano;",
+          "en": "so the people say."
+        },
+        {
+          "scid": "dn32:6.13",
+          "pli": "Yaṃ disaṃ abhipāleti,",
+          "en": "That quarter is warded"
+        },
+        {
+          "scid": "dn32:6.14",
+          "pli": "mahārājā yasassi so.",
+          "en": "by a great king, glorious,"
+        },
+        {
+          "scid": "dn32:6.15",
+          "pli": "Nāgānañca adhipati,",
+          "en": "the lord of the dragons;"
+        },
+        {
+          "scid": "dn32:6.16",
+          "pli": "‘virūpakkho’ti nāmaso;",
+          "en": "his name is Virūpakkha."
+        },
+        {
+          "scid": "dn32:6.17",
+          "pli": "Ramatī naccagītehi,",
+          "en": "He delights in song and dance,"
+        },
+        {
+          "scid": "dn32:6.18",
+          "pli": "nāgeheva purakkhato.",
+          "en": "esteemed by the dragons."
+        },
+        {
+          "scid": "dn32:6.19",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": "And he has many mighty sons"
+        },
+        {
+          "scid": "dn32:6.20",
+          "pli": "ekanāmāti me sutaṃ;",
+          "en": "all of one name, so I’ve heard."
+        },
+        {
+          "scid": "dn32:6.21",
+          "pli": "Asīti dasa eko ca,",
+          "en": "Eighty, and ten, and one—"
+        },
+        {
+          "scid": "dn32:6.22",
+          "pli": "indanāmā mahabbalā.",
+          "en": "all of them named Inda."
+        },
+        {
+          "scid": "dn32:6.23",
+          "pli": "Te cāpi buddhaṃ disvāna,",
+          "en": "After seeing the Awakened One,"
+        },
+        {
+          "scid": "dn32:6.24",
+          "pli": "buddhaṃ ādiccabandhunaṃ;",
+          "en": "the Buddha, Kinsman of the Sun,"
+        },
+        {
+          "scid": "dn32:6.25",
+          "pli": "Dūratova namassanti,",
+          "en": "they revere him from afar,"
+        },
+        {
+          "scid": "dn32:6.26",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": "the one great of heart and rid of naivety."
+        },
+        {
+          "scid": "dn32:6.27",
+          "pli": "Namo te purisājañña,",
+          "en": "Homage to you, O thoroughbred!"
+        },
+        {
+          "scid": "dn32:6.28",
+          "pli": "namo te purisuttama;",
+          "en": "Homage to you, O highest of persons!"
+        },
+        {
+          "scid": "dn32:6.29",
+          "pli": "Kusalena samekkhasi,",
+          "en": "You’ve seen us with clarity and kindness."
+        },
+        {
+          "scid": "dn32:6.30",
+          "pli": "amanussāpi taṃ vandanti;",
+          "en": "The non-humans bow to you."
+        },
+        {
+          "scid": "dn32:6.31",
+          "pli": "Sutaṃ netaṃ abhiṇhaso,",
+          "en": "We’ve been asked many a time,"
+        },
+        {
+          "scid": "dn32:6.32",
+          "pli": "tasmā evaṃ vademase.",
+          "en": "‘Do you bow to Gotama the victor?’"
+        },
+        {
+          "scid": "dn32:6.33",
+          "pli": "‘Jinaṃ vandatha gotamaṃ’,",
+          "en": "And so we ought to declare:"
+        },
+        {
+          "scid": "dn32:6.34",
+          "pli": "‘jinaṃ vandāma gotamaṃ;",
+          "en": "‘We bow to Gotama the victor,"
+        },
+        {
+          "scid": "dn32:6.35",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": "accomplished in knowledge and conduct!"
+        },
+        {
+          "scid": "dn32:6.36",
+          "pli": "buddhaṃ vandāma gotamaṃ’.",
+          "en": "We bow to Gotama the awakened!’"
+        },
+        {
+          "scid": "dn32:7.1",
+          "pli": "Yena uttarakuruvho,",
+          "en": "Where lovely Uttarakuru is,"
+        },
+        {
+          "scid": "dn32:7.2",
+          "pli": "mahāneru sudassano;",
+          "en": "and the beautiful Mount Meru,"
+        },
+        {
+          "scid": "dn32:7.3",
+          "pli": "Manussā tattha jāyanti,",
+          "en": "humans born there"
+        },
+        {
+          "scid": "dn32:7.4",
+          "pli": "amamā apariggahā.",
+          "en": "are unselfish, not possessive."
+        },
+        {
+          "scid": "dn32:7.5",
+          "pli": "Na te bījaṃ pavapanti,",
+          "en": "They do not sow the seed,"
+        },
+        {
+          "scid": "dn32:7.6",
+          "pli": "napi nīyanti naṅgalā;",
+          "en": "nor do they draw the plough."
+        },
+        {
+          "scid": "dn32:7.7",
+          "pli": "Akaṭṭhapākimaṃ sāliṃ,",
+          "en": "The rice eaten by people"
+        },
+        {
+          "scid": "dn32:7.8",
+          "pli": "paribhuñjanti mānusā.",
+          "en": "ripens in untilled soil,"
+        },
+        {
+          "scid": "dn32:7.9",
+          "pli": "Akaṇaṃ athusaṃ suddhaṃ,",
+          "en": "free of powder or husk, pure,"
+        },
+        {
+          "scid": "dn32:7.10",
+          "pli": "sugandhaṃ taṇḍulapphalaṃ;",
+          "en": "fragrant, with only the rice-grain."
+        },
+        {
+          "scid": "dn32:7.11",
+          "pli": "Tuṇḍikīre pacitvāna,",
+          "en": "They eat that food"
+        },
+        {
+          "scid": "dn32:7.12",
+          "pli": "tato bhuñjanti bhojanaṃ.",
+          "en": "after cooking it in a ‘parrot’s beak’."
+        },
+        {
+          "scid": "dn32:7.13",
+          "pli": "Gāviṃ ekakhuraṃ katvā,",
+          "en": "Having prepared a cow with hooves uncloven,"
+        },
+        {
+          "scid": "dn32:7.14",
+          "pli": "anuyanti disodisaṃ;",
+          "en": "they’re drawn about from place to place."
+        },
+        {
+          "scid": "dn32:7.15",
+          "pli": "Pasuṃ ekakhuraṃ katvā,",
+          "en": "Having prepared a beast with hooves uncloven,"
+        },
+        {
+          "scid": "dn32:7.16",
+          "pli": "anuyanti disodisaṃ.",
+          "en": "they’re drawn about from place to place."
+        },
+        {
+          "scid": "dn32:7.17",
+          "pli": "Itthiṃ vā vāhanaṃ katvā,",
+          "en": "Having prepared a woman-drawn carriage,"
+        },
+        {
+          "scid": "dn32:7.18",
+          "pli": "anuyanti disodisaṃ;",
+          "en": "they’re drawn about from place to place."
+        },
+        {
+          "scid": "dn32:7.19",
+          "pli": "Purisaṃ vāhanaṃ katvā,",
+          "en": "Having prepared a man-drawn carriage,"
+        },
+        {
+          "scid": "dn32:7.20",
+          "pli": "anuyanti disodisaṃ.",
+          "en": "they’re drawn about from place to place."
+        },
+        {
+          "scid": "dn32:7.21",
+          "pli": "Kumāriṃ vāhanaṃ katvā,",
+          "en": "Having prepared a girl-drawn carriage,"
+        },
+        {
+          "scid": "dn32:7.22",
+          "pli": "anuyanti disodisaṃ;",
+          "en": "they’re drawn about from place to place."
+        },
+        {
+          "scid": "dn32:7.23",
+          "pli": "Kumāraṃ vāhanaṃ katvā,",
+          "en": "Having prepared a boy-drawn carriage,"
+        },
+        {
+          "scid": "dn32:7.24",
+          "pli": "anuyanti disodisaṃ.",
+          "en": "they’re drawn about from place to place."
+        },
+        {
+          "scid": "dn32:7.25",
+          "pli": "Te yāne abhiruhitvā,",
+          "en": "Having ascended their vehicle,"
+        },
+        {
+          "scid": "dn32:7.26",
+          "pli": "Sabbā disā anupariyāyanti;",
+          "en": "that king’s servants"
+        },
+        {
+          "scid": "dn32:7.27",
+          "pli": "Pacārā tassa rājino.",
+          "en": "tour about in every quarter,"
+        },
+        {
+          "scid": "dn32:7.28",
+          "pli": "Hatthiyānaṃ assayānaṃ,",
+          "en": "provided with vehicles,"
+        },
+        {
+          "scid": "dn32:7.29",
+          "pli": "dibbaṃ yānaṃ upaṭṭhitaṃ;",
+          "en": "elephant, horse, and divine."
+        },
+        {
+          "scid": "dn32:7.30",
+          "pli": "Pāsādā sivikā ceva,",
+          "en": "And there are mansions and palanquins"
+        },
+        {
+          "scid": "dn32:7.31",
+          "pli": "mahārājassa yasassino.",
+          "en": "for that great and glorious king."
+        },
+        {
+          "scid": "dn32:7.32",
+          "pli": "Tassa ca nagarā ahu,",
+          "en": "And he has cities, too,"
+        },
+        {
+          "scid": "dn32:7.33",
+          "pli": "Antalikkhe sumāpitā;",
+          "en": "well-built in the sky:"
+        },
+        {
+          "scid": "dn32:7.34",
+          "pli": "Āṭānāṭā kusināṭā parakusināṭā,",
+          "en": "Āṭānāṭā, Kusināṭā, Parakusināṭā,"
+        },
+        {
+          "scid": "dn32:7.35",
+          "pli": "Nāṭasuriyā parakusiṭanāṭā.",
+          "en": "Nāṭasuriyā, and Parakusiṭanāṭā."
+        },
+        {
+          "scid": "dn32:7.36",
+          "pli": "Uttarena kasivanto,",
+          "en": "To the north is Kapīvanta,"
+        },
+        {
+          "scid": "dn32:7.37",
+          "pli": "Janoghamaparena ca;",
+          "en": "and Jonogha lies beyond."
+        },
+        {
+          "scid": "dn32:7.38",
+          "pli": "Navanavutiyo ambaraambaravatiyo,",
+          "en": "And there’s Navanavutiya, Ambara-ambaravatiya,"
+        },
+        {
+          "scid": "dn32:7.39",
+          "pli": "Āḷakamandā nāma rājadhānī.",
+          "en": "and the royal captial named Āḷakamandā."
+        },
+        {
+          "scid": "dn32:7.40",
+          "pli": "Kuverassa kho pana mārisa,",
+          "en": "The Great King Kureva, dear sir,"
+        },
+        {
+          "scid": "dn32:7.41",
+          "pli": "Mahārājassa visāṇā nāma rājadhānī;",
+          "en": "has a capital named Visāṇā,"
+        },
+        {
+          "scid": "dn32:7.42",
+          "pli": "Tasmā kuvero mahārājā,",
+          "en": "which is why the great king"
+        },
+        {
+          "scid": "dn32:7.43",
+          "pli": "‘Vessavaṇo’ti pavuccati.",
+          "en": "is called ‘Vessavaṇa’."
+        },
+        {
+          "scid": "dn32:7.44",
+          "pli": "Paccesanto pakāsenti,",
+          "en": "These each individually inform the King:"
+        },
+        {
+          "scid": "dn32:7.45",
+          "pli": "Tatolā tattalā tatotalā;",
+          "en": "Tatolā, Tattalā, Tatotalā,"
+        },
+        {
+          "scid": "dn32:7.46",
+          "pli": "Ojasi tejasi tatojasī,",
+          "en": "Ojasi, Tejasi, Tatojasi,"
+        },
+        {
+          "scid": "dn32:7.47",
+          "pli": "Sūro rājā ariṭṭho nemi.",
+          "en": "Sūra, Rājā, Ariṭṭha, and Nemi."
+        },
+        {
+          "scid": "dn32:7.48",
+          "pli": "Rahadopi tattha dharaṇī nāma,",
+          "en": "There is a lake there too named Dharaṇī,"
+        },
+        {
+          "scid": "dn32:7.49",
+          "pli": "Yato meghā pavassanti;",
+          "en": "from whence the clouds rain down,"
+        },
+        {
+          "scid": "dn32:7.50",
+          "pli": "Vassā yato patāyanti,",
+          "en": "and the rains disperse."
+        },
+        {
+          "scid": "dn32:7.51",
+          "pli": "Sabhāpi tattha sālavatī nāma.",
+          "en": "There is a hall there too named Bhagalavatī,"
+        },
+        {
+          "scid": "dn32:7.52",
+          "pli": "Yattha yakkhā payirupāsanti,",
+          "en": "where the spirits frequent."
+        },
+        {
+          "scid": "dn32:7.53",
+          "pli": "Tattha niccaphalā rukkhā;",
+          "en": "There the trees are ever in fruit,"
+        },
+        {
+          "scid": "dn32:7.54",
+          "pli": "Nānā dijagaṇā yutā,",
+          "en": "with many different flocks of birds."
+        },
+        {
+          "scid": "dn32:7.55",
+          "pli": "Mayūrakoñcābhirudā;",
+          "en": "Peacocks and herons call out there,"
+        },
+        {
+          "scid": "dn32:7.56",
+          "pli": "Kokilādīhi vagguhi.",
+          "en": "and the sweet cuckoos too."
+        },
+        {
+          "scid": "dn32:7.57",
+          "pli": "Jīvañjīvakasaddettha,",
+          "en": "One bird cries out ‘Live, live!’,"
+        },
+        {
+          "scid": "dn32:7.58",
+          "pli": "atho oṭṭhavacittakā;",
+          "en": "another ‘Lift up your heart!’"
+        },
+        {
+          "scid": "dn32:7.59",
+          "pli": "Kukkuṭakā kuḷīrakā,",
+          "en": "There are cocks and kookaburras,"
+        },
+        {
+          "scid": "dn32:7.60",
+          "pli": "vane pokkharasātakā.",
+          "en": "and in the wood the lotus-crane."
+        },
+        {
+          "scid": "dn32:7.61",
+          "pli": "Sukasāḷikasaddettha,",
+          "en": "The parrots and mynah cry out there,"
+        },
+        {
+          "scid": "dn32:7.62",
+          "pli": "daṇḍamāṇavakāni ca;",
+          "en": "and the ‘little stick-boy’ birds."
+        },
+        {
+          "scid": "dn32:7.63",
+          "pli": "Sobhati sabbakālaṃ sā,",
+          "en": "Kuvera’s pond of rushes"
+        },
+        {
+          "scid": "dn32:7.64",
+          "pli": "kuveranaḷinī sadā.",
+          "en": "is lovely all the time."
+        },
+        {
+          "scid": "dn32:7.65",
+          "pli": "Ito ‘sā uttarā disā’,",
+          "en": "From here that is the northen quarter,"
+        },
+        {
+          "scid": "dn32:7.66",
+          "pli": "iti naṃ ācikkhatī jano;",
+          "en": "so the people say."
+        },
+        {
+          "scid": "dn32:7.67",
+          "pli": "Yaṃ disaṃ abhipāleti,",
+          "en": "That quarter is warded"
+        },
+        {
+          "scid": "dn32:7.68",
+          "pli": "mahārājā yasassi so.",
+          "en": "by a great king, glorious,"
+        },
+        {
+          "scid": "dn32:7.69",
+          "pli": "Yakkhānañca adhipati,",
+          "en": "the lord of spirits;"
+        },
+        {
+          "scid": "dn32:7.70",
+          "pli": "‘kuvero’ iti nāmaso;",
+          "en": "his name is ‘Kuvera’."
+        },
+        {
+          "scid": "dn32:7.71",
+          "pli": "Ramatī naccagītehi,",
+          "en": "He delights in song and dance,"
+        },
+        {
+          "scid": "dn32:7.72",
+          "pli": "yakkheheva purakkhato.",
+          "en": "esteemed by the spirits."
+        },
+        {
+          "scid": "dn32:7.73",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": "And he has many mighty sons"
+        },
+        {
+          "scid": "dn32:7.74",
+          "pli": "ekanāmāti me sutaṃ;",
+          "en": "all of one name, so I’ve heard."
+        },
+        {
+          "scid": "dn32:7.75",
+          "pli": "Asīti dasa eko ca,",
+          "en": "Eighty, and ten, and one—"
+        },
+        {
+          "scid": "dn32:7.76",
+          "pli": "indanāmā mahabbalā.",
+          "en": "all of them named Inda."
+        },
+        {
+          "scid": "dn32:7.77",
+          "pli": "Te cāpi buddhaṃ disvāna,",
+          "en": "After seeing the Awakened One,"
+        },
+        {
+          "scid": "dn32:7.78",
+          "pli": "buddhaṃ ādiccabandhunaṃ;",
+          "en": "the Buddha, Kinsman of the Sun,"
+        },
+        {
+          "scid": "dn32:7.79",
+          "pli": "Dūratova namassanti,",
+          "en": "they revere him from afar,"
+        },
+        {
+          "scid": "dn32:7.80",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": "the one great of heart and rid of naivety."
+        },
+        {
+          "scid": "dn32:7.81",
+          "pli": "Namo te purisājañña,",
+          "en": "Homage to you, O thoroughbred!"
+        },
+        {
+          "scid": "dn32:7.82",
+          "pli": "namo te purisuttama;",
+          "en": "Homage to you, O highest of persons!"
+        },
+        {
+          "scid": "dn32:7.83",
+          "pli": "Kusalena samekkhasi,",
+          "en": "You’ve seen us with clarity and kindness."
+        },
+        {
+          "scid": "dn32:7.84",
+          "pli": "amanussāpi taṃ vandanti;",
+          "en": "The non-humans bow to you."
+        },
+        {
+          "scid": "dn32:7.85",
+          "pli": "Sutaṃ netaṃ abhiṇhaso,",
+          "en": "We’ve been asked many a time,"
+        },
+        {
+          "scid": "dn32:7.86",
+          "pli": "tasmā evaṃ vademase.",
+          "en": "‘Do you bow to Gotama the victor?’"
+        },
+        {
+          "scid": "dn32:7.87",
+          "pli": "‘Jinaṃ vandatha gotamaṃ’,",
+          "en": "And so we ought to declare:"
+        },
+        {
+          "scid": "dn32:7.88",
+          "pli": "‘jinaṃ vandāma gotamaṃ;",
+          "en": "‘We bow to Gotama the victor,"
+        },
+        {
+          "scid": "dn32:7.89",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": "accomplished in knowledge and conduct!"
+        },
+        {
+          "scid": "dn32:7.90",
+          "pli": "buddhaṃ vandāma gotaman’ti.",
+          "en": "We bow to Gotama the awakened!’”"
+        },
+        {
+          "scid": "dn32:8.1",
+          "pli": "Ayaṃ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāya.",
+          "en": "This, dear sir, is the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the monks, nuns, laymen, and laywomen."
+        },
+        {
+          "scid": "dn32:8.2",
+          "pli": "Yassa kassaci, mārisa, bhikkhussa vā bhikkhuniyā vā upāsakassa vā upāsikāya vā ayaṃ āṭānāṭiyā rakkhā suggahitā bhavissati samattā pariyāputā.",
+          "en": "The monks, nuns, laymen, and laywomen should learn this Āṭānāṭiya protection well and completely memorize it."
+        },
+        {
+          "scid": "dn32:8.3",
+          "pli": "Tañce amanusso yakkho vā yakkhinī vā yakkhapotako vā yakkhapotikā vā yakkhamahāmatto vā yakkhapārisajjo vā yakkhapacāro vā, gandhabbo vā gandhabbī vā gandhabbapotako vā gandhabbapotikā vā gandhabbamahāmatto vā gandhabbapārisajjo vā gandhabbapacāro vā, kumbhaṇḍo vā kumbhaṇḍī vā kumbhaṇḍapotako vā kumbhaṇḍapotikā vā kumbhaṇḍamahāmatto vā kumbhaṇḍapārisajjo vā kumbhaṇḍapacāro vā, nāgo vā nāgī vā nāgapotako vā nāgapotikā vā nāgamahāmatto vā nāgapārisajjo vā nāgapacāro vā, paduṭṭhacitto bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā upāsikaṃ vā gacchantaṃ vā anugaccheyya, ṭhitaṃ vā upatiṭṭheyya, nisinnaṃ vā upanisīdeyya, nipannaṃ vā upanipajjeyya.",
+          "en": "If anyone who does so is approached while walking, standing, sitting, or lying down by any non-human being with malicious intent—including males, females, boys, girls, ministers, counselors, and servants among the spirits, fairies, goblins, and dragons—"
+        },
+        {
+          "scid": "dn32:8.4",
+          "pli": "Na me so, mārisa, amanusso labheyya gāmesu vā nigamesu vā sakkāraṃ vā garukāraṃ vā.",
+          "en": "that non-human will receive no homage or respect in any village or town."
+        },
+        {
+          "scid": "dn32:8.5",
+          "pli": "Na me so, mārisa, amanusso labheyya āḷakamandāya nāma rājadhāniyā vatthuṃ vā vāsaṃ vā.",
+          "en": "And they will receive no ground or dwelling in my capital of Ālakamandā."
+        },
+        {
+          "scid": "dn32:8.6",
+          "pli": "Na me so, mārisa, amanusso labheyya yakkhānaṃ samitiṃ gantuṃ.",
+          "en": "Nor will they get to go to the conference of the spirits."
+        },
+        {
+          "scid": "dn32:8.7",
+          "pli": "Apissu naṃ, mārisa, amanussā anāvayhampi naṃ kareyyuṃ avivayhaṃ.",
+          "en": "In addition, the non-humans would not give or take them in marriage."
+        },
+        {
+          "scid": "dn32:8.8",
+          "pli": "Apissu naṃ, mārisa, amanussā attāhipi paripuṇṇāhi paribhāsāhi paribhāseyyuṃ.",
+          "en": "They’d heap personal abuse on them,"
+        },
+        {
+          "scid": "dn32:8.9",
+          "pli": "Apissu naṃ, mārisa, amanussā rittampissa pattaṃ sīse nikkujjeyyuṃ.",
+          "en": "drop an empty bowl on their head,"
+        },
+        {
+          "scid": "dn32:8.10",
+          "pli": "Apissu naṃ, mārisa, amanussā sattadhāpissa muddhaṃ phāleyyuṃ.",
+          "en": "and even split their head into seven pieces!"
+        },
+        {
+          "scid": "dn32:9.1",
+          "pli": "Santi hi, mārisa, amanussā caṇḍā ruddhā rabhasā, te neva mahārājānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ purisakānaṃ ādiyanti.",
+          "en": "For there are, dear sir, non-humans who are fierce, cruel, and violent. They don’t obey the Great Kings or their men or their men’s men."
+        },
+        {
+          "scid": "dn32:9.2",
+          "pli": "Te kho te, mārisa, amanussā mahārājānaṃ avaruddhā nāma vuccanti.",
+          "en": "They’re said to be rebelling against the Great Kings."
+        },
+        {
+          "scid": "dn32:9.3",
+          "pli": "Seyyathāpi, mārisa, rañño māgadhassa vijite mahācorā.",
+          "en": "They’re just like the bandits in the king of Magadha’s realm"
+        },
+        {
+          "scid": "dn32:9.4",
+          "pli": "Te neva rañño māgadhassa ādiyanti, na rañño māgadhassa purisakānaṃ ādiyanti, na rañño māgadhassa purisakānaṃ purisakānaṃ ādiyanti.",
+          "en": "who don’t obey the king, his men, or his men’s men,"
+        },
+        {
+          "scid": "dn32:9.5",
+          "pli": "Te kho te, mārisa, mahācorā rañño māgadhassa avaruddhā nāma vuccanti.",
+          "en": "and are said to be rebelling against the king."
+        },
+        {
+          "scid": "dn32:9.6",
+          "pli": "Evameva kho, mārisa, santi amanussā caṇḍā ruddhā rabhasā, te neva mahārājānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ purisakānaṃ ādiyanti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:9.7",
+          "pli": "Te kho te, mārisa, amanussā mahārājānaṃ avaruddhā nāma vuccanti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:9.8",
+          "pli": "Yo hi koci, mārisa, amanusso yakkho vā yakkhinī vā … pe … gandhabbo vā gandhabbī vā … pe … kumbhaṇḍo vā kumbhaṇḍī vā … pe … nāgo vā nāgī vā nāgapotako vā nāgapotikā vā nāgamahāmatto vā nāgapārisajjo vā nāgapacāro vā paduṭṭhacitto bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā upāsikaṃ vā gacchantaṃ vā anugaccheyya, ṭhitaṃ vā upatiṭṭheyya, nisinnaṃ vā upanisīdeyya, nipannaṃ vā upanipajjeyya.",
+          "en": "If any non-human being with malicious intent—including males, females, boys, girls, ministers, counselors, and servants among the spirits, fairies, goblins, and dragons—approaches a monk, nun, layman, or laywoman while walking, standing, sitting, or lying down,"
+        },
+        {
+          "scid": "dn32:9.9",
+          "pli": "Imesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ ujjhāpetabbaṃ vikkanditabbaṃ viravitabbaṃ:",
+          "en": "one ought to yell, cry, and scream to the spirits, great spirits, generals, great generals:"
+        },
+        {
+          "scid": "dn32:9.10",
+          "pli": "‘ayaṃ yakkho gaṇhāti, ayaṃ yakkho āvisati, ayaṃ yakkho heṭheti, ayaṃ yakkho viheṭheti, ayaṃ yakkho hiṃsati, ayaṃ yakkho vihiṃsati, ayaṃ yakkho na muñcatī’ti.",
+          "en": "‘This spirit’s got me! This spirit’s entered me! This spirit’s annoying me! This spirit’s harassing me! This spirit’s hurting me! This spirit’s harming me! This spirit won’t let me go!’"
+        },
+        {
+          "scid": "dn32:10.1",
+          "pli": "Katamesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ?",
+          "en": "To what spirits, great spirits, generals, great generals?"
+        },
+        {
+          "scid": "dn32:10.2",
+          "pli": "Indo somo varuṇo ca,",
+          "en": "‘Inda, Soma, and Varuṇa,"
+        },
+        {
+          "scid": "dn32:10.3",
+          "pli": "bhāradvājo pajāpati;",
+          "en": "Bhāradvāja, Pajāpati,"
+        },
+        {
+          "scid": "dn32:10.4",
+          "pli": "Candano kāmaseṭṭho ca,",
+          "en": "Candana and Kāmaseṭṭha,"
+        },
+        {
+          "scid": "dn32:10.5",
+          "pli": "kinnughaṇḍu nighaṇḍu ca.",
+          "en": "Kinnughaṇḍu and Nighaṇḍu,"
+        },
+        {
+          "scid": "dn32:10.6",
+          "pli": "Panādo opamañño ca,",
+          "en": "Panāda and Opamañña,"
+        },
+        {
+          "scid": "dn32:10.7",
+          "pli": "devasūto ca mātali;",
+          "en": "and Mātali, the god’s charioteer."
+        },
+        {
+          "scid": "dn32:10.8",
+          "pli": "Cittaseno ca gandhabbo,",
+          "en": "Cittasena the fairy,"
+        },
+        {
+          "scid": "dn32:10.9",
+          "pli": "naḷo rājā janesabho.",
+          "en": "and the kings Nala and Janesabha,"
+        },
+        {
+          "scid": "dn32:10.10",
+          "pli": "Sātāgiro hemavato,",
+          "en": "Sātāgira, Hemavata,"
+        },
+        {
+          "scid": "dn32:10.11",
+          "pli": "puṇṇako karatiyo guḷo;",
+          "en": "Puṇṇaka, Karatiya, and Guḷa;"
+        },
+        {
+          "scid": "dn32:10.12",
+          "pli": "Sivako mucalindo ca,",
+          "en": "Sivaka and Mucalinda,"
+        },
+        {
+          "scid": "dn32:10.13",
+          "pli": "vessāmitto yugandharo.",
+          "en": "Vessāmitta, Yugandhara,"
+        },
+        {
+          "scid": "dn32:10.14",
+          "pli": "Gopālo supparodho ca,",
+          "en": "Gopāla, Supparodha,"
+        },
+        {
+          "scid": "dn32:10.15",
+          "pli": "Hiri netti ca mandiyo;",
+          "en": "Hiri, Netti, and Mandiya;"
+        },
+        {
+          "scid": "dn32:10.16",
+          "pli": "Pañcālacaṇḍo āḷavako,",
+          "en": "Pañcālacaṇḍa, Āḷavaka,"
+        },
+        {
+          "scid": "dn32:10.17",
+          "pli": "Pajjunno sumano sumukho;",
+          "en": "Pajjunna, Sumana, Sumukha,"
+        },
+        {
+          "scid": "dn32:10.18",
+          "pli": "Dadhimukho maṇi māṇivaro dīgho,",
+          "en": "Dadhimukha, Maṇi, Māṇivara, Dīgha,"
+        },
+        {
+          "scid": "dn32:10.19",
+          "pli": "Atho serīsako saha.",
+          "en": "together with Serīsaka.’"
+        },
+        {
+          "scid": "dn32:10.20",
+          "pli": "Imesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ ujjhāpetabbaṃ vikkanditabbaṃ viravitabbaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "dn32:10.21",
+          "pli": "‘ayaṃ yakkho gaṇhāti, ayaṃ yakkho āvisati, ayaṃ yakkho heṭheti, ayaṃ yakkho viheṭheti, ayaṃ yakkho hiṃsati, ayaṃ yakkho vihiṃsati, ayaṃ yakkho na muñcatī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:11.1",
+          "pli": "Ayaṃ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāya.",
+          "en": "This, dear sir, is the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the monks, nuns, laymen, and laywomen."
+        },
+        {
+          "scid": "dn32:11.2",
+          "pli": "Handa ca dāni mayaṃ, mārisa, gacchāma bahukiccā mayaṃ bahukaraṇīyā”ti.",
+          "en": "Well, now, dear sir, I must go. I have many duties, and much to do.”"
+        },
+        {
+          "scid": "dn32:11.3",
+          "pli": "“Yassadāni tumhe, mahārājāno, kālaṃ maññathā”ti.",
+          "en": "“Please, Great Kings, go at your convenience.”"
+        },
+        {
+          "scid": "dn32:11.4",
+          "pli": "Atha kho cattāro mahārājā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyiṃsu.",
+          "en": "Then the Four Great Kings got up from their seats, bowed, and respectfully circled the Buddha, keeping him on their right side, before vanishing right there."
+        },
+        {
+          "scid": "dn32:11.5",
+          "pli": "Tepi kho yakkhā uṭṭhāyāsanā appekacce bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyiṃsu. Appekacce bhagavatā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā tatthevantaradhāyiṃsu. Appekacce yena bhagavā tenañjaliṃ paṇāmetvā tatthevantaradhāyiṃsu. Appekacce nāmagottaṃ sāvetvā tatthevantaradhāyiṃsu. Appekacce tuṇhībhūtā tatthevantaradhāyiṃsūti.",
+          "en": "And before the other spirits present vanished, some bowed and respectfully circled the Buddha, keeping him on their right side, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent."
+        },
+        {
+          "scid": "dn32:11.6",
+          "pli": "Paṭhamabhāṇavāro niṭṭhito.",
+          "en": "The first recitation section is finished."
+        },
+        {
+          "scid": "dn32:11.7",
+          "pli": "2. Dutiyabhāṇavāra",
+          "en": "2. The Second Recitation Section"
+        },
+        {
+          "scid": "dn32:12.1",
+          "pli": "Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi:",
+          "en": "Then, when the night had passed, the Buddha told the mendicants all that had happened, repeating all the verses spoken. Then he added:"
+        },
+        {
+          "scid": "dn32:12.2",
+          "pli": "“imaṃ, bhikkhave, rattiṃ cattāro mahārājā mahatiyā ca yakkhasenāya mahatiyā ca gandhabbasenāya mahatiyā ca kumbhaṇḍasenāya mahatiyā ca nāgasenāya catuddisaṃ rakkhaṃ ṭhapetvā catuddisaṃ gumbaṃ ṭhapetvā catuddisaṃ ovaraṇaṃ ṭhapetvā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ gijjhakūṭaṃ pabbataṃ obhāsetvā yenāhaṃ tenupasaṅkamiṃsu; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.3",
+          "pli": "Tepi kho, bhikkhave, yakkhā appekacce maṃ abhivādetvā ekamantaṃ nisīdiṃsu. Appekacce mayā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Appekacce yenāhaṃ tenañjaliṃ paṇāmetvā ekamantaṃ nisīdiṃsu. Appekacce nāmagottaṃ sāvetvā ekamantaṃ nisīdiṃsu. Appekacce tuṇhībhūtā ekamantaṃ nisīdiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.4",
+          "pli": "Ekamantaṃ nisinno kho, bhikkhave, vessavaṇo mahārājā maṃ etadavoca:",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.5",
+          "pli": "‘santi hi, bhante, uḷārā yakkhā bhagavato appasannā … pe … santi hi, bhante, nīcā yakkhā bhagavato pasannā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.6",
+          "pli": "Yebhuyyena kho pana, bhante, yakkhā appasannāyeva bhagavato.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.7",
+          "pli": "Taṃ kissa hetu?",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.8",
+          "pli": "Bhagavā hi, bhante, pāṇātipātā veramaṇiyā dhammaṃ deseti … surāmerayamajjappamādaṭṭhānā veramaṇiyā dhammaṃ deseti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.9",
+          "pli": "Yebhuyyena kho pana, bhante, yakkhā appaṭiviratāyeva pāṇātipātā … appaṭiviratā surāmerayamajjappamādaṭṭhānā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.10",
+          "pli": "Tesaṃ taṃ hoti appiyaṃ amanāpaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.11",
+          "pli": "Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.12",
+          "pli": "Tattha santi uḷārā yakkhā nivāsino, ye imasmiṃ bhagavato pāvacane appasannā, tesaṃ pasādāya uggaṇhātu, bhante, bhagavā āṭānāṭiyaṃ rakkhaṃ bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāyā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.13",
+          "pli": "Adhivāsesiṃ kho ahaṃ, bhikkhave, tuṇhībhāvena.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.14",
+          "pli": "Atha kho, bhikkhave, vessavaṇo mahārājā me adhivāsanaṃ viditvā tāyaṃ velāyaṃ imaṃ āṭānāṭiyaṃ rakkhaṃ abhāsi:",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.15",
+          "pli": "‘Vipassissa ca namatthu,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.16",
+          "pli": "cakkhumantassa sirīmato;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.17",
+          "pli": "Sikhissapi ca namatthu,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.18",
+          "pli": "sabbabhūtānukampino.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.19",
+          "pli": "Vessabhussa ca namatthu,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.20",
+          "pli": "nhātakassa tapassino;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.21",
+          "pli": "Namatthu kakusandhassa,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.22",
+          "pli": "mārasenāpamaddino.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.23",
+          "pli": "Koṇāgamanassa namatthu,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.24",
+          "pli": "brāhmaṇassa vusīmato;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.25",
+          "pli": "Kassapassa ca namatthu,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.26",
+          "pli": "vippamuttassa sabbadhi.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.27",
+          "pli": "Aṅgīrasassa namatthu,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.28",
+          "pli": "sakyaputtassa sirīmato;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.29",
+          "pli": "Yo imaṃ dhammaṃ desesi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.30",
+          "pli": "sabbadukkhāpanūdanaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.31",
+          "pli": "Ye cāpi nibbutā loke,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.32",
+          "pli": "yathābhūtaṃ vipassisuṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.33",
+          "pli": "Te janā apisuṇātha,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.34",
+          "pli": "mahantā vītasāradā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.35",
+          "pli": "Hitaṃ devamanussānaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.36",
+          "pli": "yaṃ namassanti gotamaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.37",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.38",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.39",
+          "pli": "Yato uggacchati sūriyo,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.40",
+          "pli": "ādicco maṇḍalī mahā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.41",
+          "pli": "Yassa cuggacchamānassa,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.42",
+          "pli": "saṃvarīpi nirujjhati;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.43",
+          "pli": "Yassa cuggate sūriye,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.44",
+          "pli": "“divaso”ti pavuccati.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.45",
+          "pli": "Rahadopi tattha gambhīro,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.46",
+          "pli": "samuddo saritodako;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.47",
+          "pli": "Evaṃ taṃ tattha jānanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.48",
+          "pli": "“samuddo saritodako”.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.49",
+          "pli": "Ito “sā purimā disā”,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.50",
+          "pli": "iti naṃ ācikkhatī jano;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.51",
+          "pli": "Yaṃ disaṃ abhipāleti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.52",
+          "pli": "mahārājā yasassi so.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.53",
+          "pli": "Gandhabbānaṃ adhipati,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.54",
+          "pli": "“dhataraṭṭho”ti nāmaso;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.55",
+          "pli": "Ramatī naccagītehi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.56",
+          "pli": "gandhabbehi purakkhato.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.57",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.58",
+          "pli": "ekanāmāti me sutaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.59",
+          "pli": "Asīti dasa eko ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.60",
+          "pli": "indanāmā mahabbalā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.61",
+          "pli": "Te cāpi buddhaṃ disvāna,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.62",
+          "pli": "buddhaṃ ādiccabandhunaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.63",
+          "pli": "Dūratova namassanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.64",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.65",
+          "pli": "Namo te purisājañña,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.66",
+          "pli": "namo te purisuttama;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.67",
+          "pli": "Kusalena samekkhasi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.68",
+          "pli": "amanussāpi taṃ vandanti;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.69",
+          "pli": "Sutaṃ netaṃ abhiṇhaso,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.70",
+          "pli": "tasmā evaṃ vademase.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.71",
+          "pli": "“Jinaṃ vandatha gotamaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.72",
+          "pli": "jinaṃ vandāma gotamaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.73",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.74",
+          "pli": "buddhaṃ vandāma gotamaṃ”.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.75",
+          "pli": "Yena petā pavuccanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.76",
+          "pli": "pisuṇā piṭṭhimaṃsikā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.77",
+          "pli": "Pāṇātipātino luddā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.78",
+          "pli": "corā nekatikā janā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.79",
+          "pli": "Ito “sā dakkhiṇā disā”,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.80",
+          "pli": "iti naṃ ācikkhatī jano;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.81",
+          "pli": "Yaṃ disaṃ abhipāleti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.82",
+          "pli": "mahārājā yasassi so.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.83",
+          "pli": "Kumbhaṇḍānaṃ adhipati,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.84",
+          "pli": "“virūḷho” iti nāmaso;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.85",
+          "pli": "Ramatī naccagītehi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.86",
+          "pli": "kumbhaṇḍehi purakkhato.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.87",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.88",
+          "pli": "ekanāmāti me sutaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.89",
+          "pli": "Asīti dasa eko ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.90",
+          "pli": "indanāmā mahabbalā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.91",
+          "pli": "Te cāpi buddhaṃ disvāna,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.92",
+          "pli": "buddhaṃ ādiccabandhunaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.93",
+          "pli": "Dūratova namassanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.94",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.95",
+          "pli": "Namo te purisājañña,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.96",
+          "pli": "namo te purisuttama;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.97",
+          "pli": "Kusalena samekkhasi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.98",
+          "pli": "amanussāpi taṃ vandanti;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.99",
+          "pli": "Sutaṃ netaṃ abhiṇhaso,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.100",
+          "pli": "tasmā evaṃ vademase.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.101",
+          "pli": "“Jinaṃ vandatha gotamaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.102",
+          "pli": "jinaṃ vandāma gotamaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.103",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.104",
+          "pli": "buddhaṃ vandāma gotamaṃ”.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.105",
+          "pli": "Yattha coggacchati sūriyo,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.106",
+          "pli": "ādicco maṇḍalī mahā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.107",
+          "pli": "Yassa coggacchamānassa,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.108",
+          "pli": "divasopi nirujjhati;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.109",
+          "pli": "Yassa coggate sūriye,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.110",
+          "pli": "“saṃvarī”ti pavuccati.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.111",
+          "pli": "Rahadopi tattha gambhīro,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.112",
+          "pli": "samuddo saritodako;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.113",
+          "pli": "Evaṃ taṃ tattha jānanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.114",
+          "pli": "samuddo saritodako.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.115",
+          "pli": "Ito “sā pacchimā disā”,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.116",
+          "pli": "iti naṃ ācikkhatī jano;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.117",
+          "pli": "Yaṃ disaṃ abhipāleti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.118",
+          "pli": "mahārājā yasassi so.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.119",
+          "pli": "Nāgānañca adhipati,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.120",
+          "pli": "“virūpakkho”ti nāmaso;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.121",
+          "pli": "Ramatī naccagītehi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.122",
+          "pli": "nāgeheva purakkhato.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.123",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.124",
+          "pli": "ekanāmāti me sutaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.125",
+          "pli": "Asīti dasa eko ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.126",
+          "pli": "indanāmā mahabbalā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.127",
+          "pli": "Te cāpi buddhaṃ disvāna,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.128",
+          "pli": "buddhaṃ ādiccabandhunaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.129",
+          "pli": "Dūratova namassanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.130",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.131",
+          "pli": "Namo te purisājañña,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.132",
+          "pli": "namo te purisuttama;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.133",
+          "pli": "Kusalena samekkhasi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.134",
+          "pli": "amanussāpi taṃ vandanti;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.135",
+          "pli": "Sutaṃ netaṃ abhiṇhaso,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.136",
+          "pli": "tasmā evaṃ vademase.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.137",
+          "pli": "“Jinaṃ vandatha gotamaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.138",
+          "pli": "jinaṃ vandāma gotamaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.139",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.140",
+          "pli": "buddhaṃ vandāma gotamaṃ”.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.141",
+          "pli": "Yena uttarakuruvho,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.142",
+          "pli": "mahāneru sudassano;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.143",
+          "pli": "Manussā tattha jāyanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.144",
+          "pli": "amamā apariggahā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.145",
+          "pli": "Na te bījaṃ pavapanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.146",
+          "pli": "nāpi nīyanti naṅgalā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.147",
+          "pli": "Akaṭṭhapākimaṃ sāliṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.148",
+          "pli": "paribhuñjanti mānusā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.149",
+          "pli": "Akaṇaṃ athusaṃ suddhaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.150",
+          "pli": "sugandhaṃ taṇḍulapphalaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.151",
+          "pli": "Tuṇḍikīre pacitvāna,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.152",
+          "pli": "tato bhuñjanti bhojanaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.153",
+          "pli": "Gāviṃ ekakhuraṃ katvā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.154",
+          "pli": "anuyanti disodisaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.155",
+          "pli": "Pasuṃ ekakhuraṃ katvā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.156",
+          "pli": "anuyanti disodisaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.157",
+          "pli": "Itthiṃ vā vāhanaṃ katvā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.158",
+          "pli": "anuyanti disodisaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.159",
+          "pli": "Purisaṃ vāhanaṃ katvā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.160",
+          "pli": "anuyanti disodisaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.161",
+          "pli": "Kumāriṃ vāhanaṃ katvā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.162",
+          "pli": "anuyanti disodisaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.163",
+          "pli": "Kumāraṃ vāhanaṃ katvā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.164",
+          "pli": "anuyanti disodisaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.165",
+          "pli": "Te yāne abhiruhitvā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.166",
+          "pli": "Sabbā disā anupariyāyanti;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.167",
+          "pli": "Pacārā tassa rājino.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.168",
+          "pli": "Hatthiyānaṃ assayānaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.169",
+          "pli": "dibbaṃ yānaṃ upaṭṭhitaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.170",
+          "pli": "Pāsādā sivikā ceva,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.171",
+          "pli": "mahārājassa yasassino.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.172",
+          "pli": "Tassa ca nagarā ahu,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.173",
+          "pli": "Antalikkhe sumāpitā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.174",
+          "pli": "Āṭānāṭā kusināṭā parakusināṭā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.175",
+          "pli": "Nāṭasuriyā parakusiṭanāṭā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.176",
+          "pli": "Uttarena kasivanto,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.177",
+          "pli": "Janoghamaparena ca;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.178",
+          "pli": "Navanavutiyo ambaraambaravatiyo,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.179",
+          "pli": "Āḷakamandā nāma rājadhānī.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.180",
+          "pli": "Kuverassa kho pana mārisa,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.181",
+          "pli": "Mahārājassa visāṇā nāma rājadhānī;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.182",
+          "pli": "Tasmā kuvero mahārājā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.183",
+          "pli": "“Vessavaṇo”ti pavuccati.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.184",
+          "pli": "Paccesanto pakāsenti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.185",
+          "pli": "Tatolā tattalā tatotalā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.186",
+          "pli": "Ojasi tejasi tatojasī,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.187",
+          "pli": "Sūro rājā ariṭṭho nemi.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.188",
+          "pli": "Rahadopi tattha dharaṇī nāma,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.189",
+          "pli": "Yato meghā pavassanti;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.190",
+          "pli": "Vassā yato patāyanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.191",
+          "pli": "Sabhāpi tattha sālavatī nāma.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.192",
+          "pli": "Yattha yakkhā payirupāsanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.193",
+          "pli": "Tattha niccaphalā rukkhā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.194",
+          "pli": "Nānā dijagaṇā yutā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.195",
+          "pli": "Mayūrakoñcābhirudā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.196",
+          "pli": "Kokilādīhi vagguhi.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.197",
+          "pli": "Jīvañjīvakasaddettha,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.198",
+          "pli": "atho oṭṭhavacittakā;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.199",
+          "pli": "Kukkuṭakā kuḷīrakā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.200",
+          "pli": "vane pokkharasātakā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.201",
+          "pli": "Sukasāḷika saddettha,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.202",
+          "pli": "daṇḍamāṇavakāni ca;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.203",
+          "pli": "Sobhati sabbakālaṃ sā,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.204",
+          "pli": "kuveranaḷinī sadā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.205",
+          "pli": "Ito “sā uttarā disā”,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.206",
+          "pli": "iti naṃ ācikkhatī jano;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.207",
+          "pli": "Yaṃ disaṃ abhipāleti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.208",
+          "pli": "mahārājā yasassi so.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.209",
+          "pli": "Yakkhānañca adhipati,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.210",
+          "pli": "“kuvero” iti nāmaso;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.211",
+          "pli": "Ramatī naccagītehi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.212",
+          "pli": "yakkheheva purakkhato.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.213",
+          "pli": "Puttāpi tassa bahavo,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.214",
+          "pli": "ekanāmāti me sutaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.215",
+          "pli": "Asīti dasa eko ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.216",
+          "pli": "indanāmā mahabbalā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.217",
+          "pli": "Te cāpi buddhaṃ disvāna,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.218",
+          "pli": "buddhaṃ ādiccabandhunaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.219",
+          "pli": "Dūratova namassanti,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.220",
+          "pli": "mahantaṃ vītasāradaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.221",
+          "pli": "Namo te purisājañña,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.222",
+          "pli": "namo te purisuttama;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.223",
+          "pli": "Kusalena samekkhasi,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.224",
+          "pli": "amanussāpi taṃ vandanti;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.225",
+          "pli": "Sutaṃ netaṃ abhiṇhaso,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.226",
+          "pli": "tasmā evaṃ vademase.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.227",
+          "pli": "“Jinaṃ vandatha gotamaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.228",
+          "pli": "jinaṃ vandāma gotamaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.229",
+          "pli": "Vijjācaraṇasampannaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.230",
+          "pli": "buddhaṃ vandāma gotaman”ti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.231",
+          "pli": "Ayaṃ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāya.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.232",
+          "pli": "Yassa kassaci, mārisa, bhikkhussa vā bhikkhuniyā vā upāsakassa vā upāsikāya vā ayaṃ āṭānāṭiyā rakkhā suggahitā bhavissati samattā pariyāputā tañce amanusso yakkho vā yakkhinī vā … pe … gandhabbo vā gandhabbī vā … pe … kumbhaṇḍo vā kumbhaṇḍī vā … pe … nāgo vā nāgī vā nāgapotako vā nāgapotikā vā nāgamahāmatto vā nāgapārisajjo vā nāgapacāro vā, paduṭṭhacitto bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā upāsikaṃ vā gacchantaṃ vā anugaccheyya, ṭhitaṃ vā upatiṭṭheyya, nisinnaṃ vā upanisīdeyya, nipannaṃ vā upanipajjeyya.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.233",
+          "pli": "Na me so, mārisa, amanusso labheyya gāmesu vā nigamesu vā sakkāraṃ vā garukāraṃ vā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.234",
+          "pli": "Na me so, mārisa, amanusso labheyya āḷakamandāya nāma rājadhāniyā vatthuṃ vā vāsaṃ vā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.235",
+          "pli": "Na me so, mārisa, amanusso labheyya yakkhānaṃ samitiṃ gantuṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.236",
+          "pli": "Apissu naṃ, mārisa, amanussā anāvayhampi naṃ kareyyuṃ avivayhaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.237",
+          "pli": "Apissu naṃ, mārisa, amanussā attāhi paripuṇṇāhi paribhāsāhi paribhāseyyuṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.238",
+          "pli": "Apissu naṃ, mārisa, amanussā rittampissa pattaṃ sīse nikkujjeyyuṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.239",
+          "pli": "Apissu naṃ, mārisa, amanussā sattadhāpissa muddhaṃ phāleyyuṃ.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.240",
+          "pli": "Santi hi, mārisa, amanussā caṇḍā ruddhā rabhasā, te neva mahārājānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ purisakānaṃ ādiyanti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.241",
+          "pli": "Te kho te, mārisa, amanussā mahārājānaṃ avaruddhā nāma vuccanti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.242",
+          "pli": "Seyyathāpi, mārisa, rañño māgadhassa vijite mahācorā.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.243",
+          "pli": "Te neva rañño māgadhassa ādiyanti, na rañño māgadhassa purisakānaṃ ādiyanti, na rañño māgadhassa purisakānaṃ purisakānaṃ ādiyanti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.244",
+          "pli": "Te kho te, mārisa, mahācorā rañño māgadhassa avaruddhā nāma vuccanti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.245",
+          "pli": "Evameva kho, mārisa, santi amanussā caṇḍā ruddhā rabhasā, te neva mahārājānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ purisakānaṃ ādiyanti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.246",
+          "pli": "Te kho te, mārisa, amanussā mahārājānaṃ avaruddhā nāma vuccanti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.247",
+          "pli": "Yo hi koci, mārisa, amanusso yakkho vā yakkhinī vā … pe … gandhabbo vā gandhabbī vā … pe … kumbhaṇḍo vā kumbhaṇḍī vā … pe … nāgo vā nāgī vā … pe … paduṭṭhacitto bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā upāsikaṃ vā gacchantaṃ vā upagaccheyya, ṭhitaṃ vā upatiṭṭheyya, nisinnaṃ vā upanisīdeyya, nipannaṃ vā upanipajjeyya.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.248",
+          "pli": "Imesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ ujjhāpetabbaṃ vikkanditabbaṃ viravitabbaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.249",
+          "pli": "“ayaṃ yakkho gaṇhāti, ayaṃ yakkho āvisati, ayaṃ yakkho heṭheti, ayaṃ yakkho viheṭheti, ayaṃ yakkho hiṃsati, ayaṃ yakkho vihiṃsati, ayaṃ yakkho na muñcatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.250",
+          "pli": "Katamesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.251",
+          "pli": "Indo somo varuṇo ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.252",
+          "pli": "bhāradvājo pajāpati;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.253",
+          "pli": "Candano kāmaseṭṭho ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.254",
+          "pli": "kinnughaṇḍu nighaṇḍu ca.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.255",
+          "pli": "Panādo opamañño ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.256",
+          "pli": "devasūto ca mātali;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.257",
+          "pli": "Cittaseno ca gandhabbo,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.258",
+          "pli": "naḷo rājā janesabho.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.259",
+          "pli": "Sātāgiro hemavato,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.260",
+          "pli": "puṇṇako karatiyo guḷo;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.261",
+          "pli": "Sivako mucalindo ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.262",
+          "pli": "vessāmitto yugandharo.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.263",
+          "pli": "Gopālo supparodho ca,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.264",
+          "pli": "Hiri netti ca mandiyo;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.265",
+          "pli": "Pañcālacaṇḍo āḷavako,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.266",
+          "pli": "Pajjunno sumano sumukho;",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.267",
+          "pli": "Dadhimukho maṇi māṇivaro dīgho,",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.268",
+          "pli": "Atho serīsako saha.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.269",
+          "pli": "Imesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ ujjhāpetabbaṃ vikkanditabbaṃ viravitabbaṃ:",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.270",
+          "pli": "“ayaṃ yakkho gaṇhāti, ayaṃ yakkho āvisati, ayaṃ yakkho heṭheti, ayaṃ yakkho viheṭheti, ayaṃ yakkho hiṃsati, ayaṃ yakkho vihiṃsati, ayaṃ yakkho na muñcatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.271",
+          "pli": "Ayaṃ kho, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāya.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.272",
+          "pli": "Handa ca dāni mayaṃ, mārisa, gacchāma, bahukiccā mayaṃ bahukaraṇīyā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.273",
+          "pli": "‘Yassadāni tumhe, mahārājāno, kālaṃ maññathā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.274",
+          "pli": "Atha kho, bhikkhave, cattāro mahārājā uṭṭhāyāsanā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.275",
+          "pli": "Tepi kho, bhikkhave, yakkhā uṭṭhāyāsanā appekacce maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.276",
+          "pli": "Appekacce mayā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā tatthevantaradhāyiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.277",
+          "pli": "Appekacce yenāhaṃ tenañjaliṃ paṇāmetvā tatthevantaradhāyiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.278",
+          "pli": "Appekacce nāmagottaṃ sāvetvā tatthevantaradhāyiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:12.279",
+          "pli": "Appekacce tuṇhībhūtā tatthevantaradhāyiṃsu.",
+          "en": ""
+        },
+        {
+          "scid": "dn32:13.1",
+          "pli": "Uggaṇhātha, bhikkhave, āṭānāṭiyaṃ rakkhaṃ.",
+          "en": "“Mendicants, learn the Āṭānāṭiya protection!"
+        },
+        {
+          "scid": "dn32:13.2",
+          "pli": "Pariyāpuṇātha, bhikkhave, āṭānāṭiyaṃ rakkhaṃ.",
+          "en": "Memorize the Āṭānāṭiya protection!"
+        },
+        {
+          "scid": "dn32:13.3",
+          "pli": "Dhāretha, bhikkhave, āṭānāṭiyaṃ rakkhaṃ.",
+          "en": "Remember the Āṭānāṭiya protection!"
+        },
+        {
+          "scid": "dn32:13.4",
+          "pli": "Atthasaṃhitā, bhikkhave, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāyā”ti.",
+          "en": "The Āṭānāṭiya protection is beneficial, and is for the guarding, protection, safety, and comfort of the monks, nuns, laymen, and laywomen.”"
+        },
+        {
+          "scid": "dn32:13.5",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "dn32:13.6",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "dn32:13.7",
+          "pli": "Āṭānāṭiyasuttaṃ niṭṭhitaṃ navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "dn32/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "DN 32",
+    "volpages": "DN iii 194",
+    "uid": "dn32",
+    "blurb": "Mighty spirits hold a congregation, and warn the Buddha that, since not all spirits are friendly, the mendicants should learn verses of protection.",
+    "difficulty": 2,
+    "original_title": "Āṭānāṭiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Āṭānāṭiya Protection",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_dn32_sujato",
+        "segmented": true,
+        "title": "The Āṭānāṭiya Protection"
+      },
+      {
+        "author": "Bhikkhu Ānandajoti",
+        "author_short": "Ānandajoti",
+        "author_uid": "anandajoti",
+        "id": "en_dn32_anandajoti",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Āṭānāṭiya Discourse"
+      }
+    ],
+    "parallel_count": 9,
+    "biblio": null,
+    "num": 9
+  }
+}

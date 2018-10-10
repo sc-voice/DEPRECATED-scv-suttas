@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn55.29",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.29",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Dangers and Threats (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Nandaka the Licchavi",
+      "uid": "sn55.30"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dangers and Threats (1st)",
+      "uid": "sn55.28"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.29:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.29:0.2",
+          "pli": "3. Saraṇānivagga",
+          "en": "3. About Sarakāni"
+        },
+        {
+          "scid": "sn55.29:0.3",
+          "pli": "29. Dutiyabhayaverūpasantasutta",
+          "en": "29. Dangers and Threats (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.29:1.1",
+          "pli": "Sāvatthinidānaṃ … pe …",
+          "en": "At Sāvatthī. …"
+        },
+        {
+          "scid": "sn55.29:1.2",
+          "pli": "“yato kho, bhikkhave, ariyasāvakassa imāni pañca bhayāni verāni vūpasantāni honti, imehi catūhi sotāpattiyaṅgehi samannāgato hoti, ayañcassa ariyo ñāyo paññāya sudiṭṭho hoti suppaṭividdho; so ākaṅkhamāno attanāva attānaṃ byākareyya:",
+          "en": "“Mendicants, when a noble disciple has quelled five dangers and threats, has the four factors of stream-entry, and has clearly seen and comprehended the noble process with wisdom, they may, if they wish, declare of themselves:"
+        },
+        {
+          "scid": "sn55.29:1.3",
+          "pli": "‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto; sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’”ti.",
+          "en": "‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am bound for awakening.’”"
+        },
+        {
+          "scid": "sn55.29:1.4",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.29/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.29",
+    "volpages": "SN v 389",
+    "uid": "sn55.29",
+    "blurb": "A noble disciple who is a layperson has eliminated the fear that comes from breaking precepts, possesses the four factors of stream-entry, and understands dependent origination.",
+    "difficulty": null,
+    "original_title": "Dutiyabhayaverūpasanta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dangers and Threats (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.29_sujato",
+        "segmented": true,
+        "title": "Dangers and Threats (2nd)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 9
+  }
+}

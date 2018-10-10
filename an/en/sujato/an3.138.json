@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an3.138",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.138",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Accomplishment",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Growth",
+      "uid": "an3.139"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Hair Blanket",
+      "uid": "an3.137"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.138:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.138:0.2",
+          "pli": "14. Yodhājīvavagga",
+          "en": "14. A Warrior"
+        },
+        {
+          "scid": "an3.138:0.3",
+          "pli": "138. Sampadāsutta",
+          "en": "138. Accomplishment"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.138:1.1",
+          "pli": "“Tisso imā, bhikkhave, sampadā.",
+          "en": "“Mendicants, there are three accomplishments."
+        },
+        {
+          "scid": "an3.138:1.2",
+          "pli": "Katamā tisso?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.138:1.3",
+          "pli": "Saddhāsampadā, sīlasampadā, paññāsampadā—",
+          "en": "Accomplishment in faith, ethics, and wisdom."
+        },
+        {
+          "scid": "an3.138:1.4",
+          "pli": "imā kho, bhikkhave, tisso sampadā”ti.",
+          "en": "These are the three accomplishments.”"
+        },
+        {
+          "scid": "an3.138:1.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.138/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.138//AN 3.136a",
+    "volpages": "AN i 287",
+    "uid": "an3.138",
+    "blurb": "Success in faith, morality, and wisdom.",
+    "difficulty": null,
+    "original_title": "Sampadā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Accomplishment",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.138_sujato",
+        "segmented": true,
+        "title": "Accomplishment"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

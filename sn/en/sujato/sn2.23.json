@@ -1,0 +1,465 @@
+{
+  "sutta_uid": "sn2.23",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.23",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Serī",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ghaṭikāra",
+      "uid": "sn2.24"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Khema",
+      "uid": "sn2.22"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.23:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.23:0.2",
+          "pli": "3. Nānātitthiyavagga",
+          "en": "3. Various Sectarians"
+        },
+        {
+          "scid": "sn2.23:0.3",
+          "pli": "23. Serīsutta",
+          "en": "23. With Serī"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.23:1.1",
+          "pli": "Ekamantaṃ ṭhito kho serī devaputto bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Standing to one side, the god Serī addressed the Buddha in verse:"
+        },
+        {
+          "scid": "sn2.23:2.1",
+          "pli": "“Annamevābhinandanti,",
+          "en": "“Both gods and humans"
+        },
+        {
+          "scid": "sn2.23:2.2",
+          "pli": "ubhaye devamānusā;",
+          "en": "enjoy their food."
+        },
+        {
+          "scid": "sn2.23:2.3",
+          "pli": "Atha ko nāma so yakkho,",
+          "en": "So what’s the name of the spirit"
+        },
+        {
+          "scid": "sn2.23:2.4",
+          "pli": "yaṃ annaṃ nābhinandatī”ti.",
+          "en": "who doesn’t like food?”"
+        },
+        {
+          "scid": "sn2.23:3.1",
+          "pli": "“Ye naṃ dadanti saddhāya,",
+          "en": "“Those who give with faith"
+        },
+        {
+          "scid": "sn2.23:3.2",
+          "pli": "vippasannena cetasā;",
+          "en": "and a clear and confident heart,"
+        },
+        {
+          "scid": "sn2.23:3.3",
+          "pli": "Tameva annaṃ bhajati,",
+          "en": "partake of food"
+        },
+        {
+          "scid": "sn2.23:3.4",
+          "pli": "asmiṃ loke paramhi ca.",
+          "en": "in this world and the next."
+        },
+        {
+          "scid": "sn2.23:4.1",
+          "pli": "Tasmā vineyya maccheraṃ,",
+          "en": "So you should dispel stinginess,"
+        },
+        {
+          "scid": "sn2.23:4.2",
+          "pli": "dajjā dānaṃ malābhibhū;",
+          "en": "overcoming that stain, and give a gift."
+        },
+        {
+          "scid": "sn2.23:4.3",
+          "pli": "Puññāni paralokasmiṃ,",
+          "en": "The good deeds of sentient beings"
+        },
+        {
+          "scid": "sn2.23:4.4",
+          "pli": "patiṭṭhā honti pāṇinan”ti.",
+          "en": "support them in the next world.”"
+        },
+        {
+          "scid": "sn2.23:5.1",
+          "pli": "“Acchariyaṃ, bhante, abbhutaṃ, bhante.",
+          "en": "“It’s incredible, sir, it’s amazing,"
+        },
+        {
+          "scid": "sn2.23:5.2",
+          "pli": "Yāvasubhāsitamidaṃ, bhante, bhagavatā:",
+          "en": "how well said this was by Master Gotama. He repeated the Buddha’s verses, and said:"
+        },
+        {
+          "scid": "sn2.23:6.1",
+          "pli": "‘Ye naṃ dadanti saddhāya,",
+          "en": ""
+        },
+        {
+          "scid": "sn2.23:6.2",
+          "pli": "vippasannena cetasā;",
+          "en": ""
+        },
+        {
+          "scid": "sn2.23:6.3",
+          "pli": "Tameva annaṃ bhajati,",
+          "en": ""
+        },
+        {
+          "scid": "sn2.23:6.4",
+          "pli": "asmiṃ loke paramhi ca.",
+          "en": ""
+        },
+        {
+          "scid": "sn2.23:7.1",
+          "pli": "Tasmā vineyya maccheraṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn2.23:7.2",
+          "pli": "dajjā dānaṃ malābhibhū;",
+          "en": ""
+        },
+        {
+          "scid": "sn2.23:7.3",
+          "pli": "Puññāni paralokasmiṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn2.23:7.4",
+          "pli": "patiṭṭhā honti pāṇinan’ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn2.23:8.1",
+          "pli": "Bhūtapubbāhaṃ, bhante, sirī nāma rājā ahosiṃ dāyako dānapati dānassa vaṇṇavādī.",
+          "en": "“Once upon a time, sir, I was a king named Serī, a giver, a donor, who praised giving."
+        },
+        {
+          "scid": "sn2.23:8.2",
+          "pli": "Tassa mayhaṃ, bhante, catūsu dvāresu dānaṃ dīyittha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ.",
+          "en": "I gave gifts at the four gates to ascetics and brahmins, to paupers, vagrants, travelers, and beggars."
+        },
+        {
+          "scid": "sn2.23:8.3",
+          "pli": "Atha kho maṃ, bhante, itthāgāraṃ upasaṅkamitvā etadavoca:",
+          "en": "Then the ladies of my harem approached me and said:"
+        },
+        {
+          "scid": "sn2.23:8.4",
+          "pli": "‘devassa kho dānaṃ dīyati; amhākaṃ dānaṃ na dīyati.",
+          "en": "‘Your Majesty gives gifts, but we don’t."
+        },
+        {
+          "scid": "sn2.23:8.5",
+          "pli": "Sādhu mayampi devaṃ nissāya dānāni dadeyyāma, puññāni kareyyāmā’ti.",
+          "en": "Your Majesty, please support us to give gifts and make merit.’"
+        },
+        {
+          "scid": "sn2.23:8.6",
+          "pli": "Tassa mayhaṃ, bhante, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "sn2.23:8.7",
+          "pli": "‘ahaṃ khosmi dāyako dānapati dānassa vaṇṇavādī.",
+          "en": "‘I’m a giver, a donor, who praises giving."
+        },
+        {
+          "scid": "sn2.23:8.8",
+          "pli": "Dānaṃ dassāmāti vadante kinti vadeyyan’ti?",
+          "en": "When they say, “We would give gifts”, what am I to say?’"
+        },
+        {
+          "scid": "sn2.23:8.9",
+          "pli": "So khvāhaṃ, bhante, paṭhamaṃ dvāraṃ itthāgārassa adāsiṃ.",
+          "en": "And so I gave the first gate to the ladies of my harem."
+        },
+        {
+          "scid": "sn2.23:8.10",
+          "pli": "Tattha itthāgārassa dānaṃ dīyittha; mama dānaṃ paṭikkami.",
+          "en": "There they gave gifts, while my own giving dwindled."
+        },
+        {
+          "scid": "sn2.23:9.1",
+          "pli": "Atha kho maṃ, bhante, khattiyā anuyantā upasaṅkamitvā etadavocuṃ:",
+          "en": "Then my aristocrat vassals approached me and said:"
+        },
+        {
+          "scid": "sn2.23:9.2",
+          "pli": "‘devassa kho dānaṃ dīyati; itthāgārassa dānaṃ dīyati; amhākaṃ dānaṃ na dīyati.",
+          "en": "‘Your Majesty gives gifts, the ladies of your harem give gifts, but we don’t."
+        },
+        {
+          "scid": "sn2.23:9.3",
+          "pli": "Sādhu mayampi devaṃ nissāya dānāni dadeyyāma, puññāni kareyyāmā’ti.",
+          "en": "Your Majesty, please support us to give gifts and make merit.’"
+        },
+        {
+          "scid": "sn2.23:9.4",
+          "pli": "Tassa mayhaṃ, bhante, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "sn2.23:9.5",
+          "pli": "‘ahaṃ khosmi dāyako dānapati dānassa vaṇṇavādī.",
+          "en": "‘I’m a giver, a donor, who praises giving."
+        },
+        {
+          "scid": "sn2.23:9.6",
+          "pli": "Dānaṃ dassāmāti vadante kinti vadeyyan’ti?",
+          "en": "When they say, “We would give gifts”, what am I to say?’"
+        },
+        {
+          "scid": "sn2.23:9.7",
+          "pli": "So khvāhaṃ, bhante, dutiyaṃ dvāraṃ khattiyānaṃ anuyantānaṃ adāsiṃ.",
+          "en": "And so I gave the second gate to my aristocrat vassals."
+        },
+        {
+          "scid": "sn2.23:9.8",
+          "pli": "Tattha khattiyānaṃ anuyantānaṃ dānaṃ dīyittha, mama dānaṃ paṭikkami.",
+          "en": "There they gave gifts, while my own giving dwindled."
+        },
+        {
+          "scid": "sn2.23:10.1",
+          "pli": "Atha kho maṃ, bhante, balakāyo upasaṅkamitvā etadavoca:",
+          "en": "Then my troops approached me and said:"
+        },
+        {
+          "scid": "sn2.23:10.2",
+          "pli": "‘devassa kho dānaṃ dīyati; itthāgārassa dānaṃ dīyati; khattiyānaṃ anuyantānaṃ dānaṃ dīyati; amhākaṃ dānaṃ na dīyati.",
+          "en": "‘Your Majesty gives gifts, the ladies of your harem give gifts, your aristocrat vassals give gifts, but we don’t."
+        },
+        {
+          "scid": "sn2.23:10.3",
+          "pli": "Sādhu mayampi devaṃ nissāya dānāni dadeyyāma, puññāni kareyyāmā’ti.",
+          "en": "Your Majesty, please support us to give gifts and make merit.’"
+        },
+        {
+          "scid": "sn2.23:10.4",
+          "pli": "Tassa mayhaṃ, bhante, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "sn2.23:10.5",
+          "pli": "‘ahaṃ khosmi dāyako dānapati dānassa vaṇṇavādī.",
+          "en": "‘I’m a giver, a donor, who praises giving."
+        },
+        {
+          "scid": "sn2.23:10.6",
+          "pli": "Dānaṃ dassāmāti vadante kinti vadeyyan’ti?",
+          "en": "When they say, “We would give gifts”, what am I to say?’"
+        },
+        {
+          "scid": "sn2.23:10.7",
+          "pli": "So khvāhaṃ, bhante, tatiyaṃ dvāraṃ balakāyassa adāsiṃ.",
+          "en": "And so I gave the third gate to my troops."
+        },
+        {
+          "scid": "sn2.23:10.8",
+          "pli": "Tattha balakāyassa dānaṃ dīyittha, mama dānaṃ paṭikkami.",
+          "en": "There they gave gifts, while my own giving dwindled."
+        },
+        {
+          "scid": "sn2.23:11.1",
+          "pli": "Atha kho maṃ, bhante, brāhmaṇagahapatikā upasaṅkamitvā etadavocuṃ:",
+          "en": "Then my brahmins and householders approached me and said:"
+        },
+        {
+          "scid": "sn2.23:11.2",
+          "pli": "‘devassa kho dānaṃ dīyati; itthāgārassa dānaṃ dīyati; khattiyānaṃ anuyantānaṃ dānaṃ dīyati; balakāyassa dānaṃ dīyati; amhākaṃ dānaṃ na dīyati.",
+          "en": "‘Your Majesty gives gifts, the ladies of your harem give gifts, your aristocrat vassals give gifts, your troops give gifts, but we don’t."
+        },
+        {
+          "scid": "sn2.23:11.3",
+          "pli": "Sādhu mayampi devaṃ nissāya dānāni dadeyyāma, puññāni kareyyāmā’ti.",
+          "en": "Your Majesty, please support us to give gifts and make merit.’"
+        },
+        {
+          "scid": "sn2.23:11.4",
+          "pli": "Tassa mayhaṃ, bhante, etadahosi:",
+          "en": "Then it occurred to me:"
+        },
+        {
+          "scid": "sn2.23:11.5",
+          "pli": "‘ahaṃ khosmi dāyako dānapati dānassa vaṇṇavādī.",
+          "en": "‘I’m a giver, a donor, who praises giving."
+        },
+        {
+          "scid": "sn2.23:11.6",
+          "pli": "Dānaṃ dassāmāti vadante kinti vadeyyan’ti?",
+          "en": "When they say, “We would give gifts”, what am I to say?’"
+        },
+        {
+          "scid": "sn2.23:11.7",
+          "pli": "So khvāhaṃ, bhante, catutthaṃ dvāraṃ brāhmaṇagahapatikānaṃ adāsiṃ.",
+          "en": "And so I gave the fourth gate to my brahmins and householders."
+        },
+        {
+          "scid": "sn2.23:11.8",
+          "pli": "Tattha brāhmaṇagahapatikānaṃ dānaṃ dīyittha, mama dānaṃ paṭikkami.",
+          "en": "There they gave gifts, while my own giving dwindled."
+        },
+        {
+          "scid": "sn2.23:12.1",
+          "pli": "Atha kho maṃ, bhante, purisā upasaṅkamitvā etadavocuṃ:",
+          "en": "Then my men approached me and said:"
+        },
+        {
+          "scid": "sn2.23:12.2",
+          "pli": "‘na kho dāni devassa koci dānaṃ dīyatī’ti.",
+          "en": "‘Now Your Majesty is not giving gifts at all!’"
+        },
+        {
+          "scid": "sn2.23:12.3",
+          "pli": "Evaṃ vuttāhaṃ, bhante, te purise etadavocaṃ:",
+          "en": "When they said this, I said to those men:"
+        },
+        {
+          "scid": "sn2.23:12.4",
+          "pli": "‘tena hi, bhaṇe, yo bāhiresu janapadesu āyo sañjāyati tato upaḍḍhaṃ antepure pavesetha, upaḍḍhaṃ tattheva dānaṃ detha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānan’ti.",
+          "en": "‘So then, my men, send half of the revenue from the outer districts to the royal compound. Then give half right there to ascetics and brahmins, to paupers, vagrants, travelers, and beggars.’"
+        },
+        {
+          "scid": "sn2.23:12.5",
+          "pli": "So khvāhaṃ, bhante, evaṃ dīgharattaṃ katānaṃ puññānaṃ evaṃ dīgharattaṃ katānaṃ kusalānaṃ dhammānaṃ pariyantaṃ nādhigacchāmi—",
+          "en": "Sir, for a long time I made so much merit and did so many skillful deeds. I never reached any limit so as to say"
+        },
+        {
+          "scid": "sn2.23:12.6",
+          "pli": "ettakaṃ puññanti vā ettako puññavipākoti vā ettakaṃ sagge ṭhātabbanti vāti.",
+          "en": "‘there’s this much merit’ or ‘there’s this much result of merit’ or ‘for so long I’ll remain in heaven’."
+        },
+        {
+          "scid": "sn2.23:12.7",
+          "pli": "Acchariyaṃ, bhante, abbhutaṃ, bhante.",
+          "en": "It’s incredible, sir, it’s amazing,"
+        },
+        {
+          "scid": "sn2.23:12.8",
+          "pli": "Yāvasubhāsitamidaṃ, bhante, bhagavatā:",
+          "en": "how well said this was by Master Gotama:"
+        },
+        {
+          "scid": "sn2.23:13.1",
+          "pli": "‘Ye naṃ dadanti saddhāya,",
+          "en": "‘Those who give with faith"
+        },
+        {
+          "scid": "sn2.23:13.2",
+          "pli": "vippasannena cetasā;",
+          "en": "and a clear and confident heart,"
+        },
+        {
+          "scid": "sn2.23:13.3",
+          "pli": "Tameva annaṃ bhajati,",
+          "en": "partake of food"
+        },
+        {
+          "scid": "sn2.23:13.4",
+          "pli": "asmiṃ loke paramhi ca.",
+          "en": "in this world and the next."
+        },
+        {
+          "scid": "sn2.23:14.1",
+          "pli": "Tasmā vineyya maccheraṃ,",
+          "en": "So you should dispel stinginess,"
+        },
+        {
+          "scid": "sn2.23:14.2",
+          "pli": "dajjā dānaṃ malābhibhū;",
+          "en": "overcoming that stain, and give a gift."
+        },
+        {
+          "scid": "sn2.23:14.3",
+          "pli": "Puññāni paralokasmiṃ,",
+          "en": "The good deeds of sentient beings"
+        },
+        {
+          "scid": "sn2.23:14.4",
+          "pli": "patiṭṭhā honti pāṇinan’”ti.",
+          "en": "support them in the next world.’”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Standing to one side…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.23/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.23//SN 104",
+    "volpages": "SN i 57//SN i 132",
+    "uid": "sn2.23",
+    "blurb": "The deity Serī speaks of how everyone loves food., to which the Buddha responds with verses in praise of giving. Serī speaks of his own generosity in a past life.",
+    "difficulty": null,
+    "original_title": "Serī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Serī",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.23_sujato",
+        "segmented": true,
+        "title": "With Serī"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 3
+  }
+}

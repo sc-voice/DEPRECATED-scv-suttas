@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn56.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Thoughts",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "State of Mind",
+      "uid": "sn56.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics and Brahmins (2nd)",
+      "uid": "sn56.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.7:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.7:0.2",
+          "pli": "1. Samādhivagga",
+          "en": "1. Immersion"
+        },
+        {
+          "scid": "sn56.7:0.3",
+          "pli": "7. Vitakkasutta",
+          "en": "7. Thoughts"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.7:1.1",
+          "pli": "“Mā, bhikkhave, pāpake akusale vitakke vitakkeyyātha, seyyathidaṃ—",
+          "en": "“Mendicants, don’t think bad, unskillful thoughts, such as"
+        },
+        {
+          "scid": "sn56.7:1.2",
+          "pli": "kāmavitakkaṃ, byāpādavitakkaṃ, vihiṃsāvitakkaṃ.",
+          "en": "sensual, malicious, and cruel thoughts."
+        },
+        {
+          "scid": "sn56.7:1.3",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "sn56.7:1.4",
+          "pli": "Nete, bhikkhave, vitakkā atthasaṃhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattanti.",
+          "en": "Because those thoughts aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment."
+        },
+        {
+          "scid": "sn56.7:2.1",
+          "pli": "Vitakkentā ca kho tumhe, bhikkhave, ‘idaṃ dukkhan’ti vitakkeyyātha, ‘ayaṃ dukkhasamudayo’ti vitakkeyyātha, ‘ayaṃ dukkhanirodho’ti vitakkeyyātha, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti vitakkeyyātha.",
+          "en": "When you think, you should think: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+        },
+        {
+          "scid": "sn56.7:2.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "sn56.7:2.3",
+          "pli": "Ete, bhikkhave, vitakkā atthasaṃhitā ete ādibrahmacariyakā ete nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti.",
+          "en": "Because those thoughts are beneficial and relevant to the fundamentals of the spiritual life. They lead to disillusionment, fading away, cessation, peace, insight, awakening, and extinguishment."
+        },
+        {
+          "scid": "sn56.7:3.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.7:3.2",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.7",
+    "volpages": "SN v 417",
+    "uid": "sn56.7",
+    "blurb": "Don’t think bad thoughts. Instead, think of the four noble truths.",
+    "difficulty": null,
+    "original_title": "Vitakka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Thoughts",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.7_sujato",
+        "segmented": true,
+        "title": "Thoughts"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.7_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Thoughts"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 7
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an7.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fetters",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving Up",
+      "uid": "an7.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ugga",
+      "uid": "an7.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.8:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.8:0.2",
+          "pli": "1. Dhanavagga",
+          "en": "1. Wealth"
+        },
+        {
+          "scid": "an7.8:0.3",
+          "pli": "8. Saṃyojanasutta",
+          "en": "8. Fetters"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.8:1.1",
+          "pli": "“Sattimāni, bhikkhave, saṃyojanāni.",
+          "en": "“Mendicants, there are these seven fetters."
+        },
+        {
+          "scid": "an7.8:1.2",
+          "pli": "Katamāni satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.8:1.3",
+          "pli": "Anunayasaṃyojanaṃ, paṭighasaṃyojanaṃ, diṭṭhisaṃyojanaṃ, vicikicchāsaṃyojanaṃ, mānasaṃyojanaṃ, bhavarāgasaṃyojanaṃ, avijjāsaṃyojanaṃ.",
+          "en": "The fetters of compliance, repulsion, views, doubt, conceit, desire to be reborn, and ignorance."
+        },
+        {
+          "scid": "an7.8:1.4",
+          "pli": "Imāni kho, bhikkhave, satta saṃyojanānī”ti.",
+          "en": "These are the seven fetters.”"
+        },
+        {
+          "scid": "an7.8:1.5",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.8",
+    "volpages": "AN iv 7",
+    "uid": "an7.8",
+    "blurb": "The fetters of compliance, repulsion, views, doubt, conceit, desire to be reborn, and ignorance.",
+    "difficulty": null,
+    "original_title": "Saṃyojana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fetters",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.8_sujato",
+        "segmented": true,
+        "title": "Fetters"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

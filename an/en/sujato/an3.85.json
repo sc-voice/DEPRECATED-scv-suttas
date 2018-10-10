@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "an3.85",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.85",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Trainee",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Training (1st)",
+      "uid": "an3.86"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Vajjian",
+      "uid": "an3.84"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.85:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.85:0.2",
+          "pli": "9. Samaṇavagga",
+          "en": "9. Ascetics"
+        },
+        {
+          "scid": "an3.85:0.3",
+          "pli": "85. Sekkhasutta",
+          "en": "85. A Trainee"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.85:1.1",
+          "pli": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "an3.85:2.1",
+          "pli": "“‘Sekho, sekho’ti, bhante, vuccati.",
+          "en": "“Sir, they speak of this person called ‘a trainee’."
+        },
+        {
+          "scid": "an3.85:2.2",
+          "pli": "Kittāvatā nu kho, bhante, sekho hotī”ti?",
+          "en": "How is a trainee defined?”"
+        },
+        {
+          "scid": "an3.85:2.3",
+          "pli": "“Sikkhatīti kho, bhikkhu, tasmā sekhoti vuccati.",
+          "en": "“They train, mendicant, that’s why they’re called ‘a trainee’."
+        },
+        {
+          "scid": "an3.85:2.4",
+          "pli": "Kiñca sikkhati?",
+          "en": "What is their training?"
+        },
+        {
+          "scid": "an3.85:2.5",
+          "pli": "Adhisīlampi sikkhati, adhicittampi sikkhati, adhipaññampi sikkhati.",
+          "en": "They train in the higher ethics, the higher mind, and the higher wisdom."
+        },
+        {
+          "scid": "an3.85:2.6",
+          "pli": "Sikkhatīti kho, bhikkhu, tasmā sekhoti vuccatīti.",
+          "en": "They train, that’s why they’re called ‘a trainee’”."
+        },
+        {
+          "scid": "an3.85:3.1",
+          "pli": "Sekhassa sikkhamānassa,",
+          "en": "“As a trainee trains,"
+        },
+        {
+          "scid": "an3.85:3.2",
+          "pli": "ujumaggānusārino;",
+          "en": "following the straight road,"
+        },
+        {
+          "scid": "an3.85:3.3",
+          "pli": "Khayasmiṃ paṭhamaṃ ñāṇaṃ,",
+          "en": "first they know about ending;"
+        },
+        {
+          "scid": "an3.85:3.4",
+          "pli": "tato aññā anantarā.",
+          "en": "enlightenment follows in the same lifetime."
+        },
+        {
+          "scid": "an3.85:4.1",
+          "pli": "Tato aññāvimuttassa,",
+          "en": "After that, to that poised one, freed by enlightenment"
+        },
+        {
+          "scid": "an3.85:4.2",
+          "pli": "ñāṇaṃ ve hoti tādino;",
+          "en": "with the end of the fetters of rebirth,"
+        },
+        {
+          "scid": "an3.85:4.3",
+          "pli": "Akuppā me vimuttīti,",
+          "en": "the knowledge comes:"
+        },
+        {
+          "scid": "an3.85:4.4",
+          "pli": "bhavasaṃyojanakkhaye”ti.",
+          "en": "‘My freedom is unshakable.’”"
+        },
+        {
+          "scid": "an3.85:4.5",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then a mendicant went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.85/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.85//AN 3.84",
+    "volpages": "AN i 231",
+    "uid": "an3.85",
+    "blurb": "What exactly is a “trainee”?",
+    "difficulty": null,
+    "original_title": "Sekkha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Trainee",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.85_sujato",
+        "segmented": true,
+        "title": "A Trainee"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 5
+  }
+}

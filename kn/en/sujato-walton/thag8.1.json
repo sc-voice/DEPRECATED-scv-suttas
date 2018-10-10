@@ -1,0 +1,141 @@
+{
+  "sutta_uid": "thag8.1",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag8.1",
+    "lang": "en",
+    "is_root": false,
+    "title": "Mahākaccāyana",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Sirimitta",
+      "uid": "thag8.2"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Sarabhaṅga",
+      "uid": "thag7.5"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag8.1:0.1",
+          "en": "Theragāthā 8.1"
+        },
+        {
+          "scid": "thag8.1:0.2",
+          "en": "Mahākaccāyana",
+          "pli": "Mahākaccāyanattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag8.1:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag8.1:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag8.1:1.0.3",
+          "en": "Chapter of the Eights"
+        },
+        {
+          "scid": "thag8.1:1.0.4",
+          "en": "8.1. Mahākaccāyana"
+        },
+        {
+          "scid": "thag8.1:1.1.5",
+          "en": "Don’t get involved in lots of work, Avoid people, and don’t try to get more requisites. If you’re eager and greedy for flavours, You’ll miss the goal that brings such happiness."
+        },
+        {
+          "scid": "thag8.1:1.2.6",
+          "en": "They know that this really is a bog, This homage and veneration among respectable families. Honor is a subtle dart, hard to extract, And hard for a bad man to give up."
+        },
+        {
+          "scid": "thag8.1:1.3.7",
+          "en": "Your deeds aren’t bad Because of what others do. You yourself should not do bad, For people have deeds as their kin."
+        },
+        {
+          "scid": "thag8.1:1.4.8",
+          "en": "You’re not a criminal because of what someone else says, And you’re not a sage because of what someone else says; But as you know yourself, So the gods will know you."
+        },
+        {
+          "scid": "thag8.1:1.5.9",
+          "en": "Others don’t understand, That here we come to an end. Those who do understand this Settle their quarrels."
+        },
+        {
+          "scid": "thag8.1:1.6.10",
+          "en": "A wise person lives on, Even after their wealth is lost; But without gaining wisdom, Even a wealthy person doesn’t really live."
+        },
+        {
+          "scid": "thag8.1:1.7.11",
+          "en": "All is heard with the ear, All is seen with the eye; The wise would not think that all that is seen and heard Is worthy of rejection."
+        },
+        {
+          "scid": "thag8.1:1.8.12",
+          "en": "Though you have eyes, be as if blind; Though you have ears, be as if deaf, Though you have wisdom, be as if stupid, Though you have strength, be as if feeble. Then, when the goal has been realised, You may lie on your death-bed."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag8.1/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 8.1",
+    "volpages": "Thag 52",
+    "uid": "thag8.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mahākaccāyanattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mahākaccāyana",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag8.1_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Mahākaccāyana"
+      }
+    ],
+    "parallel_count": 12,
+    "biblio": null,
+    "num": 1
+  }
+}

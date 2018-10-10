@@ -1,0 +1,615 @@
+{
+  "sutta_uid": "mn23",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn23",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Ant-Hill",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Prepared Chariots",
+      "uid": "mn24"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Simile of the Snake",
+      "uid": "mn22"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn23:0.1",
+          "pli": "Majjhima Nikāya 23",
+          "en": "Middle Discourses 23"
+        },
+        {
+          "scid": "mn23:0.2",
+          "pli": "Vammikasutta",
+          "en": "The Ant-Hill"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 23…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn23:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn23:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn23:1.3",
+          "pli": "Tena kho pana samayena āyasmā kumārakassapo andhavane viharati.",
+          "en": "Now at that time Venerable Kassapa the Prince was staying in the Dark Forest."
+        },
+        {
+          "scid": "mn23:1.4",
+          "pli": "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ andhavanaṃ obhāsetvā yenāyasmā kumārakassapo tenupasaṅkami; upasaṅkamitvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā āyasmantaṃ kumārakassapaṃ etadavoca:",
+          "en": "Then, late at night, a glorious deity, lighting up the entire Dark Forest, went up to Kassapa, stood to one side, and said:"
+        },
+        {
+          "scid": "mn23:2.1",
+          "pli": "“Bhikkhu bhikkhu, ayaṃ vammiko rattiṃ dhūmāyati, divā pajjalati.",
+          "en": "“Monk, monk! This ant-hill fumes by night and flames by day."
+        },
+        {
+          "scid": "mn23:2.2",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.3",
+          "pli": "‘abhikkhaṇa, sumedha, satthaṃ ādāyā’ti.",
+          "en": "‘Take up the sword and dig, O sage!’"
+        },
+        {
+          "scid": "mn23:2.4",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa laṅgiṃ ",
+          "en": "Taking up the sword and digging, the sage saw a bar: "
+        },
+        {
+          "scid": "mn23:2.5",
+          "pli": "‘laṅgī, bhadante’ti.",
+          "en": "‘A bar, sir!’"
+        },
+        {
+          "scid": "mn23:2.6",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.7",
+          "pli": "‘ukkhipa laṅgiṃ;",
+          "en": "‘Throw out the bar!"
+        },
+        {
+          "scid": "mn23:2.8",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyā’ti.",
+          "en": "Take up the sword and dig, O sage!’"
+        },
+        {
+          "scid": "mn23:2.9",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa uddhumāyikaṃ.",
+          "en": "Taking up the sword and digging, the sage saw a bullfrog:"
+        },
+        {
+          "scid": "mn23:2.10",
+          "pli": "‘Uddhumāyikā, bhadante’ti.",
+          "en": "‘A bullfrog, sir!’"
+        },
+        {
+          "scid": "mn23:2.11",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.12",
+          "pli": "‘ukkhipa uddhumāyikaṃ;",
+          "en": "‘Throw out the bullfrog!"
+        },
+        {
+          "scid": "mn23:2.13",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyā’ti.",
+          "en": "Take up the sword and dig, O sage!’"
+        },
+        {
+          "scid": "mn23:2.14",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa dvidhāpathaṃ.",
+          "en": "Taking up the sword and digging, the sage saw a forked path:"
+        },
+        {
+          "scid": "mn23:2.15",
+          "pli": "‘Dvidhāpatho, bhadante’ti.",
+          "en": "‘A forked path, sir!’"
+        },
+        {
+          "scid": "mn23:2.16",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.17",
+          "pli": "‘ukkhipa dvidhāpathaṃ;",
+          "en": "‘Throw out the forked path!"
+        },
+        {
+          "scid": "mn23:2.18",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyā’ti.",
+          "en": "Take up the sword and dig, O sage!’"
+        },
+        {
+          "scid": "mn23:2.19",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa caṅgavāraṃ.",
+          "en": "Taking up the sword and digging, the sage saw a box:"
+        },
+        {
+          "scid": "mn23:2.20",
+          "pli": "‘Caṅgavāro, bhadante’ti.",
+          "en": "‘A box, sir!’"
+        },
+        {
+          "scid": "mn23:2.21",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.22",
+          "pli": "‘ukkhipa caṅgavāraṃ;",
+          "en": "‘Throw out the box!"
+        },
+        {
+          "scid": "mn23:2.23",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyā’ti.",
+          "en": "Take up the sword and dig, O sage!’"
+        },
+        {
+          "scid": "mn23:2.24",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa kummaṃ.",
+          "en": "Taking up the sword and digging, the sage saw a tortoise:"
+        },
+        {
+          "scid": "mn23:2.25",
+          "pli": "‘Kummo, bhadante’ti.",
+          "en": "‘A tortoise, sir!’"
+        },
+        {
+          "scid": "mn23:2.26",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.27",
+          "pli": "‘ukkhipa kummaṃ;",
+          "en": "‘Throw out the tortoise!"
+        },
+        {
+          "scid": "mn23:2.28",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyā’ti.",
+          "en": "Take up the sword and dig, O sage!’"
+        },
+        {
+          "scid": "mn23:2.29",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa asisūnaṃ.",
+          "en": "Taking up the sword and digging, the sage saw an axe and block:"
+        },
+        {
+          "scid": "mn23:2.30",
+          "pli": "‘Asisūnā, bhadante’ti.",
+          "en": "‘An axe and block, sir!’"
+        },
+        {
+          "scid": "mn23:2.31",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.32",
+          "pli": "‘ukkhipa asisūnaṃ;",
+          "en": "‘Throw out the axe and block!"
+        },
+        {
+          "scid": "mn23:2.33",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyā’ti.",
+          "en": "Take up the sword and dig, O sage!’"
+        },
+        {
+          "scid": "mn23:2.34",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa maṃsapesiṃ.",
+          "en": "Taking up the sword and digging, the sage saw a piece of flesh:"
+        },
+        {
+          "scid": "mn23:2.35",
+          "pli": "‘Maṃsapesi, bhadante’ti.",
+          "en": "‘A piece of flesh, sir!’"
+        },
+        {
+          "scid": "mn23:2.36",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.37",
+          "pli": "‘ukkhipa maṃsapesiṃ;",
+          "en": "‘Throw out the piece of flesh!"
+        },
+        {
+          "scid": "mn23:2.38",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyā’ti.",
+          "en": "Take up the sword and dig, O sage!’"
+        },
+        {
+          "scid": "mn23:2.39",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa nāgaṃ.",
+          "en": "Taking up the sword and digging, the sage saw a dragon:"
+        },
+        {
+          "scid": "mn23:2.40",
+          "pli": "‘Nāgo, bhadante’ti.",
+          "en": "‘A dragon, sir!’"
+        },
+        {
+          "scid": "mn23:2.41",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": "The brahmin said:"
+        },
+        {
+          "scid": "mn23:2.42",
+          "pli": "‘tiṭṭhatu nāgo, mā nāgaṃ ghaṭṭesi; namo karohi nāgassā’ti.",
+          "en": "‘Leave the dragon! Do not disturb the dragon! Worship the dragon!’"
+        },
+        {
+          "scid": "mn23:2.43",
+          "pli": "Ime kho tvaṃ, bhikkhu, pañhe bhagavantaṃ upasaṅkamitvā puccheyyāsi, yathā ca te bhagavā byākaroti tathā naṃ dhāreyyāsi.",
+          "en": "Mendicant, go to the Buddha and ask him about this riddle. You should remember it in line with his answer."
+        },
+        {
+          "scid": "mn23:2.44",
+          "pli": "Nāhaṃ taṃ, bhikkhu, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya, yo imesaṃ pañhānaṃ veyyākaraṇena cittaṃ ārādheyya aññatra tathāgatena vā, tathāgatasāvakena vā, ito vā pana sutvā”ti—",
+          "en": "I don’t see anyone in this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—who could provide a satisfying answer to this riddle except for the Realized One or his disciple or someone who has heard it from them.”"
+        },
+        {
+          "scid": "mn23:2.45",
+          "pli": "idamavoca sā devatā.",
+          "en": "That is what that deity said"
+        },
+        {
+          "scid": "mn23:2.46",
+          "pli": "Idaṃ vatvā tatthevantaradhāyi.",
+          "en": "before vanishing right there."
+        },
+        {
+          "scid": "mn23:3.1",
+          "pli": "Atha kho āyasmā kumārakassapo tassā rattiyā accayena yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā kumārakassapo bhagavantaṃ etadavoca:",
+          "en": "Then, when the night had passed, Kassapa went to the Buddha, bowed, sat down to one side, and told him what had happened. Then he asked:"
+        },
+        {
+          "scid": "mn23:3.2",
+          "pli": "“imaṃ, bhante, rattiṃ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ andhavanaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho, bhante, sā devatā maṃ etadavoca:",
+          "en": ""
+        },
+        {
+          "scid": "mn23:3.3",
+          "pli": "‘bhikkhu bhikkhu, ayaṃ vammiko rattiṃ dhūmāyati, divā pajjalati.",
+          "en": ""
+        },
+        {
+          "scid": "mn23:3.4",
+          "pli": "Brāhmaṇo evamāha:",
+          "en": ""
+        },
+        {
+          "scid": "mn23:3.5",
+          "pli": "“abhikkhaṇa, sumedha, satthaṃ ādāyā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn23:3.6",
+          "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn23:3.7",
+          "pli": "ito vā pana sutvā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn23:3.8",
+          "pli": "Idamavoca, bhante, sā devatā.",
+          "en": ""
+        },
+        {
+          "scid": "mn23:3.9",
+          "pli": "Idaṃ vatvā tatthevantaradhāyi.",
+          "en": ""
+        },
+        {
+          "scid": "mn23:3.10",
+          "pli": "Ko nu kho, bhante, vammiko, kā rattiṃ dhūmāyanā, kā divā pajjalanā, ko brāhmaṇo, ko sumedho, kiṃ satthaṃ, kiṃ abhikkhaṇaṃ, kā laṅgī, kā uddhumāyikā, ko dvidhāpatho, kiṃ caṅgavāraṃ, ko kummo, kā asisūnā, kā maṃsapesi, ko nāgo”ti?",
+          "en": "“Sir, what is the ant-hill? What is the fuming by night and flaming by day? Who is the brahmin, and who the sage? What are the sword, the digging, the bar, the bullfrog, the forked path, the box, the tortoise, the axe and block, and the piece of flesh? And what is the dragon?”"
+        },
+        {
+          "scid": "mn23:4.1",
+          "pli": "“‘Vammiko’ti kho, bhikkhu, imassetaṃ cātumahābhūtikassa kāyassa adhivacanaṃ, mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādanaparimaddanabhedanaviddhaṃsanadhammassa. (1)",
+          "en": "“Mendicant, ‘ant-hill’ is a term for this body made up of the four primary elements, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction."
+        },
+        {
+          "scid": "mn23:4.2",
+          "pli": "Yaṃ kho, bhikkhu, divā kammante ārabbha rattiṃ anuvitakketi anuvicāreti—",
+          "en": "Thinking and considering all night about what you did during the day—"
+        },
+        {
+          "scid": "mn23:4.3",
+          "pli": "ayaṃ rattiṃ dhūmāyanā.",
+          "en": "this is the fuming at night."
+        },
+        {
+          "scid": "mn23:4.4",
+          "pli": "Yaṃ kho, bhikkhu, rattiṃ anuvitakketvā anuvicāretvā divā kammante payojeti kāyena vācāya ‘manasā’—",
+          "en": "The work you apply yourself to during the day by body, speech, and mind after thinking about it all night—"
+        },
+        {
+          "scid": "mn23:4.5",
+          "pli": "ayaṃ divā pajjalanā. (2–3.)",
+          "en": "this is the flaming by day."
+        },
+        {
+          "scid": "mn23:4.6",
+          "pli": "‘Brāhmaṇo’ti kho, bhikkhu, tathāgatassetaṃ adhivacanaṃ arahato sammāsambuddhassa.",
+          "en": "‘Brahmin’ is a term for the Realized One, the perfected one, the fully awakened Buddha."
+        },
+        {
+          "scid": "mn23:4.7",
+          "pli": "‘Sumedho’ti kho, bhikkhu, sekkhassetaṃ bhikkhuno adhivacanaṃ. (4–5.)",
+          "en": "‘Sage’ is a term for the trainee mendicant."
+        },
+        {
+          "scid": "mn23:4.8",
+          "pli": "‘Satthan’ti kho, bhikkhu, ariyāyetaṃ paññāya adhivacanaṃ.",
+          "en": "‘Sword’ is a term for noble wisdom."
+        },
+        {
+          "scid": "mn23:4.9",
+          "pli": "‘Abhikkhaṇan’ti kho, bhikkhu, vīriyārambhassetaṃ adhivacanaṃ. (6–7.)",
+          "en": "‘Digging’ is a term for being energetic."
+        },
+        {
+          "scid": "mn23:4.10",
+          "pli": "‘Laṅgī’ti kho, bhikkhu, avijjāyetaṃ adhivacanaṃ.",
+          "en": "‘Bar’ is a term for ignorance."
+        },
+        {
+          "scid": "mn23:4.11",
+          "pli": "Ukkhipa laṅgiṃ, pajaha avijjaṃ;",
+          "en": "‘Throw out the bar’ means ‘give up ignorance,"
+        },
+        {
+          "scid": "mn23:4.12",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyāti ayametassa attho. (8)",
+          "en": "take up the sword, sage, and dig.’"
+        },
+        {
+          "scid": "mn23:4.13",
+          "pli": "‘Uddhumāyikā’ti kho, bhikkhu, kodhūpāyāsassetaṃ adhivacanaṃ.",
+          "en": "‘Bullfrog’ is a term for anger and distress."
+        },
+        {
+          "scid": "mn23:4.14",
+          "pli": "Ukkhipa uddhumāyikaṃ, pajaha kodhūpāyāsaṃ;",
+          "en": "‘Throw out the bullfrog’ means ‘give up anger and distress’ …"
+        },
+        {
+          "scid": "mn23:4.15",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyāti ayametassa attho. (9)",
+          "en": ""
+        },
+        {
+          "scid": "mn23:4.16",
+          "pli": "‘Dvidhāpatho’ti kho, bhikkhu, vicikicchāyetaṃ adhivacanaṃ.",
+          "en": "‘A forked path’ is a term for doubt."
+        },
+        {
+          "scid": "mn23:4.17",
+          "pli": "Ukkhipa dvidhāpathaṃ, pajaha vicikicchaṃ;",
+          "en": "‘Throw out the forked path’ means ‘give up doubt’ …"
+        },
+        {
+          "scid": "mn23:4.18",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyāti ayametassa attho. (10)",
+          "en": ""
+        },
+        {
+          "scid": "mn23:4.19",
+          "pli": "‘Caṅgavāran’ti kho, bhikkhu, pañcannetaṃ nīvaraṇānaṃ adhivacanaṃ, seyyathidaṃ—",
+          "en": "‘Box’ is a term for the five hindrances, that is:"
+        },
+        {
+          "scid": "mn23:4.20",
+          "pli": "kāmacchandanīvaraṇassa, byāpādanīvaraṇassa, thinamiddhanīvaraṇassa, uddhaccakukkuccanīvaraṇassa, vicikicchānīvaraṇassa.",
+          "en": "the hindrances of sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt."
+        },
+        {
+          "scid": "mn23:4.21",
+          "pli": "Ukkhipa caṅgavāraṃ, pajaha pañca nīvaraṇe;",
+          "en": "‘Throw out the box’ means ‘give up the five hindrances’ …"
+        },
+        {
+          "scid": "mn23:4.22",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyāti ayametassa attho. (11)",
+          "en": ""
+        },
+        {
+          "scid": "mn23:4.23",
+          "pli": "‘Kummo’ti kho, bhikkhu, pañcannetaṃ upādānakkhandhānaṃ adhivacanaṃ, seyyathidaṃ—",
+          "en": "‘Tortoise’ is a term for the five grasping aggregates, that is:"
+        },
+        {
+          "scid": "mn23:4.24",
+          "pli": "rūpupādānakkhandhassa, vedanupādānakkhandhassa, saññupādānakkhandhassa, saṅkhārupādānakkhandhassa, viññāṇupādānakkhandhassa.",
+          "en": "form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "mn23:4.25",
+          "pli": "Ukkhipa kummaṃ, pajaha pañcupādānakkhandhe;",
+          "en": "‘Throw out the tortoise’ means ‘give up the five grasping aggregates’ …"
+        },
+        {
+          "scid": "mn23:4.26",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyāti ayametassa attho. (12)",
+          "en": ""
+        },
+        {
+          "scid": "mn23:4.27",
+          "pli": "‘Asisūnā’ti kho, bhikkhu, pañcannetaṃ kāmaguṇānaṃ adhivacanaṃ—",
+          "en": "‘Axe and block’ is a term for the five kinds of sensual stimulation."
+        },
+        {
+          "scid": "mn23:4.28",
+          "pli": "cakkhuviññeyyānaṃ rūpānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ, ",
+          "en": "Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. "
+        },
+        {
+          "scid": "mn23:4.29",
+          "pli": "sotaviññeyyānaṃ saddānaṃ … pe …",
+          "en": "Sounds known by the ear …"
+        },
+        {
+          "scid": "mn23:4.30",
+          "pli": "ghānaviññeyyānaṃ gandhānaṃ … pe …",
+          "en": "Smells known by the nose …"
+        },
+        {
+          "scid": "mn23:4.31",
+          "pli": "jivhāviññeyyānaṃ rasānaṃ … pe …",
+          "en": "Tastes known by the tongue …"
+        },
+        {
+          "scid": "mn23:4.32",
+          "pli": "kāyaviññeyyānaṃ phoṭṭhabbānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ.",
+          "en": "Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing."
+        },
+        {
+          "scid": "mn23:4.33",
+          "pli": "Ukkhipa asisūnaṃ, pajaha pañca kāmaguṇe;",
+          "en": "‘Throw out the axe and block’ means ‘give up the five kinds of sensual stimulation’ …"
+        },
+        {
+          "scid": "mn23:4.34",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyāti ayametassa attho. (13)",
+          "en": ""
+        },
+        {
+          "scid": "mn23:4.35",
+          "pli": "‘Maṃsapesī’ti kho, bhikkhu, nandīrāgassetaṃ adhivacanaṃ.",
+          "en": "‘Piece of flesh’ is a term for desire with relishing."
+        },
+        {
+          "scid": "mn23:4.36",
+          "pli": "Ukkhipa maṃsapesiṃ, pajaha nandīrāgaṃ;",
+          "en": "‘Throw out the piece of flesh’ means ‘give up desire with relishing’ …"
+        },
+        {
+          "scid": "mn23:4.37",
+          "pli": "abhikkhaṇa, sumedha, satthaṃ ādāyāti ayametassa attho. (14)",
+          "en": ""
+        },
+        {
+          "scid": "mn23:4.38",
+          "pli": "‘Nāgo’ti kho, bhikkhu, khīṇāsavassetaṃ bhikkhuno adhivacanaṃ.",
+          "en": "‘Dragon’ is a term for a mendicant who has ended the defilements."
+        },
+        {
+          "scid": "mn23:4.39",
+          "pli": "Tiṭṭhatu nāgo, mā nāgaṃ ghaṭṭesi; namo karohi nāgassāti ayametassa attho”ti. (15)",
+          "en": "This is the meaning of: ‘Leave the dragon! Do not disturb the dragon! Worship the dragon.’”"
+        },
+        {
+          "scid": "mn23:4.40",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn23:4.41",
+          "pli": "Attamano āyasmā kumārakassapo bhagavato bhāsitaṃ abhinandīti.",
+          "en": "Satisfied, Venerable Kassapa the Prince was happy with what the Buddha said."
+        },
+        {
+          "scid": "mn23:4.42",
+          "pli": "Vammikasuttaṃ niṭṭhitaṃ tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn23/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 23",
+    "volpages": "MN i 142",
+    "uid": "mn23",
+    "blurb": "In a curious discourse laden with evocative imagery, a deity presents a riddle to a mendicant, who seeks an answer from the Buddha.",
+    "difficulty": 2,
+    "original_title": "Vammika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Ant-Hill",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn23_sujato",
+        "segmented": true,
+        "title": "The Ant-Hill"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn23_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discourse on the Anthill"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 3
+  }
+}

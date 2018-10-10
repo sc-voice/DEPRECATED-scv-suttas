@@ -1,0 +1,720 @@
+{
+  "sutta_uid": "mn106",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn106",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Conducive to the Imperturbable",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Moggallāna the Accountant",
+      "uid": "mn107"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sunakkhatta",
+      "uid": "mn105"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn106:0.1",
+          "pli": "Majjhima Nikāya 106",
+          "en": "Middle Discourses 106"
+        },
+        {
+          "scid": "mn106:0.2",
+          "pli": "Āneñjasappāyasutta",
+          "en": "Conducive to the Imperturbable"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 106…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn106:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn106:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā kurūsu viharati kammāsadhammaṃ nāma kurūnaṃ nigamo.",
+          "en": "At one time the Buddha was staying in the land of the Kurus, near the Kuru town named Kammāsadamma."
+        },
+        {
+          "scid": "mn106:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "mn106:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "mn106:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "mn106:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "mn106:2.1",
+          "pli": "“Aniccā, bhikkhave, kāmā tucchā musā mosadhammā.",
+          "en": "“Mendicants, sensual pleasures are impermanent, baseless, false, and deceptive,"
+        },
+        {
+          "scid": "mn106:2.2",
+          "pli": "Māyākatametaṃ, bhikkhave, bālalāpanaṃ.",
+          "en": "made by illusion, cooed over by fools."
+        },
+        {
+          "scid": "mn106:2.3",
+          "pli": "Ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;",
+          "en": "Sensual pleasures in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:2.4",
+          "pli": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā—",
+          "en": "sensual perceptions in this life and in lives to come;"
+        },
+        {
+          "scid": "mn106:2.5",
+          "pli": "ubhayametaṃ māradheyyaṃ, mārassesa visayo, mārassesa nivāpo, mārassesa gocaro.",
+          "en": "both of these are Māra’s domain, Māra’s territory, and Māra’s hunting ground."
+        },
+        {
+          "scid": "mn106:2.6",
+          "pli": "Etthete pāpakā akusalā mānasā abhijjhāpi byāpādāpi sārambhāpi saṃvattanti.",
+          "en": "They conduce to bad, unskillful qualities such as desire, ill will, and aggression."
+        },
+        {
+          "scid": "mn106:2.7",
+          "pli": "Teva ariyasāvakassa idhamanusikkhato antarāyāya sambhavanti.",
+          "en": "And they create an obstacle for a noble disciple training here."
+        },
+        {
+          "scid": "mn106:3.1",
+          "pli": "Tatra, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "A noble disciple reflects on this:"
+        },
+        {
+          "scid": "mn106:3.2",
+          "pli": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;",
+          "en": "‘Sensual pleasures in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:3.3",
+          "pli": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā—",
+          "en": "sensual perceptions in this life and in lives to come;"
+        },
+        {
+          "scid": "mn106:3.4",
+          "pli": "ubhayametaṃ māradheyyaṃ, mārassesa visayo, mārassesa nivāpo, mārassesa gocaro.",
+          "en": "both of these are Māra’s domain, Māra’s territory, and Māra’s hunting ground."
+        },
+        {
+          "scid": "mn106:3.5",
+          "pli": "Etthete pāpakā akusalā mānasā abhijjhāpi byāpādāpi sārambhāpi saṃvattanti, ",
+          "en": "They conduce to bad, unskillful qualities such as desire, ill will, and aggression. "
+        },
+        {
+          "scid": "mn106:3.6",
+          "pli": "teva ariyasāvakassa idhamanusikkhato antarāyāya sambhavanti.",
+          "en": "And they create an obstacle for a noble disciple training here."
+        },
+        {
+          "scid": "mn106:3.7",
+          "pli": "Yannūnāhaṃ vipulena mahaggatena cetasā vihareyyaṃ abhibhuyya lokaṃ adhiṭṭhāya manasā.",
+          "en": "Why don’t I meditate with an abundant, expansive heart, having mastered the world and resolved the mind?"
+        },
+        {
+          "scid": "mn106:3.8",
+          "pli": "Vipulena hi me mahaggatena cetasā viharato abhibhuyya lokaṃ adhiṭṭhāya manasā ye pāpakā akusalā mānasā abhijjhāpi byāpādāpi sārambhāpi te na bhavissanti.",
+          "en": "Then I will have no more bad, unskillful qualities such as desire, ill will, and aggression."
+        },
+        {
+          "scid": "mn106:3.9",
+          "pli": "Tesaṃ pahānā aparittañca me cittaṃ bhavissati appamāṇaṃ subhāvitan’ti.",
+          "en": "And by giving them up my mind, no longer limited, will become limitless and well developed.’"
+        },
+        {
+          "scid": "mn106:3.10",
+          "pli": "Tassa evaṃpaṭipannassa tabbahulavihārino āyatane cittaṃ pasīdati.",
+          "en": "Practicing in this way and meditating on it often their mind becomes confident in this dimension."
+        },
+        {
+          "scid": "mn106:3.11",
+          "pli": "Sampasāde sati etarahi vā āneñjaṃ samāpajjati paññāya vā adhimuccati kāyassa bhedā paraṃ maraṇā.",
+          "en": "Being confident, they either attain the imperturbable now, or are freed by wisdom."
+        },
+        {
+          "scid": "mn106:3.12",
+          "pli": "Ṭhānametaṃ vijjati yaṃ taṃsaṃvattanikaṃ viññāṇaṃ assa āneñjūpagaṃ.",
+          "en": "When their body breaks up, after death, it’s possible that the consciousness headed that way will be reborn in the imperturbable."
+        },
+        {
+          "scid": "mn106:3.13",
+          "pli": "Ayaṃ, bhikkhave, paṭhamā āneñjasappāyā paṭipadā akkhāyati.",
+          "en": "This is said to be the first way of practice suitable for attaining the imperturbable."
+        },
+        {
+          "scid": "mn106:4.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn106:4.2",
+          "pli": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;",
+          "en": "‘Sensual pleasures in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:4.3",
+          "pli": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;",
+          "en": "sensual perceptions in this life and in lives to come;"
+        },
+        {
+          "scid": "mn106:4.4",
+          "pli": "yaṃ kiñci rūpaṃ sabbaṃ rūpaṃ cattāri ca mahābhūtāni, catunnañca mahābhūtānaṃ upādāyarūpan’ti.",
+          "en": "whatever is form, all form is the four primary elements, or form derived from the four primary elements.’"
+        },
+        {
+          "scid": "mn106:4.5",
+          "pli": "Tassa evaṃpaṭipannassa tabbahulavihārino āyatane cittaṃ pasīdati.",
+          "en": "Practicing in this way and meditating on it often their mind becomes confident in this dimension."
+        },
+        {
+          "scid": "mn106:4.6",
+          "pli": "Sampasāde sati etarahi vā āneñjaṃ samāpajjati paññāya vā adhimuccati kāyassa bhedā paraṃ maraṇā.",
+          "en": "Being confident, they either attain the imperturbable now, or are freed by wisdom."
+        },
+        {
+          "scid": "mn106:4.7",
+          "pli": "Ṭhānametaṃ vijjati yaṃ taṃsaṃvattanikaṃ viññāṇaṃ assa āneñjūpagaṃ.",
+          "en": "When their body breaks up, after death, it’s possible that the consciousness headed that way will be reborn in the imperturbable."
+        },
+        {
+          "scid": "mn106:4.8",
+          "pli": "Ayaṃ, bhikkhave, dutiyā āneñjasappāyā paṭipadā akkhāyati.",
+          "en": "This is said to be the second way of practice suitable for attaining the imperturbable."
+        },
+        {
+          "scid": "mn106:5.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn106:5.2",
+          "pli": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;",
+          "en": "‘Sensual pleasures in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:5.3",
+          "pli": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;",
+          "en": "sensual perceptions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:5.4",
+          "pli": "ye ca diṭṭhadhammikā rūpā, ye ca samparāyikā rūpā;",
+          "en": "visions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:5.5",
+          "pli": "yā ca diṭṭhadhammikā rūpasaññā, yā ca samparāyikā rūpasaññā—",
+          "en": "perceptions of visions in this life and in lives to come;"
+        },
+        {
+          "scid": "mn106:5.6",
+          "pli": "ubhayametaṃ aniccaṃ.",
+          "en": "all of these are impermanent."
+        },
+        {
+          "scid": "mn106:5.7",
+          "pli": "Yadaniccaṃ taṃ nālaṃ abhinandituṃ, nālaṃ abhivadituṃ, nālaṃ ajjhositun’ti.",
+          "en": "And what’s impermanent is not worth approving, welcoming, or clinging to.’"
+        },
+        {
+          "scid": "mn106:5.8",
+          "pli": "Tassa evaṃpaṭipannassa tabbahulavihārino āyatane cittaṃ pasīdati.",
+          "en": "Practicing in this way and meditating on it often their mind becomes confident in this dimension."
+        },
+        {
+          "scid": "mn106:5.9",
+          "pli": "Sampasāde sati etarahi vā āneñjaṃ samāpajjati paññāya vā adhimuccati kāyassa bhedā paraṃ maraṇā.",
+          "en": "Being confident, they either attain the imperturbable now, or are freed by wisdom."
+        },
+        {
+          "scid": "mn106:5.10",
+          "pli": "Ṭhānametaṃ vijjati yaṃ taṃsaṃvattanikaṃ viññāṇaṃ assa āneñjūpagaṃ.",
+          "en": "When their body breaks up, after death, it’s possible that the consciousness headed that way will be reborn in the imperturbable."
+        },
+        {
+          "scid": "mn106:5.11",
+          "pli": "Ayaṃ, bhikkhave, tatiyā āneñjasappāyā paṭipadā akkhāyati.",
+          "en": "This is said to be the third way of practice suitable for attaining the imperturbable."
+        },
+        {
+          "scid": "mn106:6.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn106:6.2",
+          "pli": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;",
+          "en": "‘Sensual pleasures in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:6.3",
+          "pli": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;",
+          "en": "sensual perceptions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:6.4",
+          "pli": "ye ca diṭṭhadhammikā rūpā, ye ca samparāyikā rūpā;",
+          "en": "visions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:6.5",
+          "pli": "yā ca diṭṭhadhammikā rūpasaññā, yā ca samparāyikā rūpasaññā;",
+          "en": "perceptions of visions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:6.6",
+          "pli": "yā ca āneñjasaññā—",
+          "en": "and perceptions of the imperturbable;"
+        },
+        {
+          "scid": "mn106:6.7",
+          "pli": "sabbā saññā.",
+          "en": "all are perceptions."
+        },
+        {
+          "scid": "mn106:6.8",
+          "pli": "Yatthetā aparisesā nirujjhanti etaṃ santaṃ etaṃ paṇītaṃ—",
+          "en": "Where they cease without anything left over, that is peaceful, that is sublime,"
+        },
+        {
+          "scid": "mn106:6.9",
+          "pli": "yadidaṃ ākiñcaññāyatanan’ti.",
+          "en": "namely the dimension of nothingness.’"
+        },
+        {
+          "scid": "mn106:6.10",
+          "pli": "Tassa evaṃpaṭipannassa tabbahulavihārino āyatane cittaṃ pasīdati.",
+          "en": "Practicing in this way and meditating on it often their mind becomes confident in this dimension."
+        },
+        {
+          "scid": "mn106:6.11",
+          "pli": "Sampasāde sati etarahi vā ākiñcaññāyatanaṃ samāpajjati paññāya vā adhimuccati kāyassa bhedā paraṃ maraṇā.",
+          "en": "Being confident, they either attain the dimension of nothingness now, or are freed by wisdom."
+        },
+        {
+          "scid": "mn106:6.12",
+          "pli": "Ṭhānametaṃ vijjati yaṃ taṃsaṃvattanikaṃ viññāṇaṃ assa ākiñcaññāyatanūpagaṃ.",
+          "en": "When their body breaks up, after death, it’s possible that the consciousness headed that way will be reborn in the dimension of nothingness."
+        },
+        {
+          "scid": "mn106:6.13",
+          "pli": "Ayaṃ, bhikkhave, paṭhamā ākiñcaññāyatanasappāyā paṭipadā akkhāyati.",
+          "en": "This is said to be the first way of practice suitable for attaining the dimension of nothingness."
+        },
+        {
+          "scid": "mn106:7.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple has gone to a wilderness, or to the root of a tree, or to an empty hut, and reflects like this:"
+        },
+        {
+          "scid": "mn106:7.2",
+          "pli": "‘suññamidaṃ attena vā attaniyena vā’ti.",
+          "en": "‘This is empty of a self or what belongs to a self.’"
+        },
+        {
+          "scid": "mn106:7.3",
+          "pli": "Tassa evaṃpaṭipannassa tabbahulavihārino āyatane cittaṃ pasīdati.",
+          "en": "Practicing in this way and meditating on it often their mind becomes confident in this dimension."
+        },
+        {
+          "scid": "mn106:7.4",
+          "pli": "Sampasāde sati etarahi vā ākiñcaññāyatanaṃ samāpajjati paññāya vā adhimuccati kāyassa bhedā paraṃ maraṇā.",
+          "en": "Being confident, they either attain the dimension of nothingness now, or are freed by wisdom."
+        },
+        {
+          "scid": "mn106:7.5",
+          "pli": "Ṭhānametaṃ vijjati yaṃ taṃsaṃvattanikaṃ viññāṇaṃ assa ākiñcaññāyatanūpagaṃ.",
+          "en": "When their body breaks up, after death, it’s possible that the consciousness headed that way will be reborn in the dimension of nothingness."
+        },
+        {
+          "scid": "mn106:7.6",
+          "pli": "Ayaṃ, bhikkhave, dutiyā ākiñcaññāyatanasappāyā paṭipadā akkhāyati.",
+          "en": "This is said to be the second way of practice suitable for attaining the dimension of nothingness."
+        },
+        {
+          "scid": "mn106:8.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn106:8.2",
+          "pli": "‘nāhaṃ kvacani kassaci kiñcanatasmiṃ, na ca mama kvacani kismiñci kiñcanaṃ natthī’ti.",
+          "en": "‘I don’t belong to anyone anywhere! And nothing belongs to me anywhere!’"
+        },
+        {
+          "scid": "mn106:8.3",
+          "pli": "Tassa evaṃpaṭipannassa tabbahulavihārino āyatane cittaṃ pasīdati.",
+          "en": "Practicing in this way and meditating on it often their mind becomes confident in this dimension."
+        },
+        {
+          "scid": "mn106:8.4",
+          "pli": "Sampasāde sati etarahi vā ākiñcaññāyatanaṃ samāpajjati paññāya vā adhimuccati kāyassa bhedā paraṃ maraṇā.",
+          "en": "Being confident, they either attain the dimension of nothingness now, or are freed by wisdom."
+        },
+        {
+          "scid": "mn106:8.5",
+          "pli": "Ṭhānametaṃ vijjati yaṃ taṃsaṃvattanikaṃ viññāṇaṃ assa ākiñcaññāyatanūpagaṃ.",
+          "en": "When their body breaks up, after death, it’s possible that the consciousness headed that way will be reborn in the dimension of nothingness."
+        },
+        {
+          "scid": "mn106:8.6",
+          "pli": "Ayaṃ, bhikkhave, tatiyā ākiñcaññāyatanasappāyā paṭipadā akkhāyati.",
+          "en": "This is said to be the third way of practice suitable for attaining the dimension of nothingness."
+        },
+        {
+          "scid": "mn106:9.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn106:9.2",
+          "pli": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;",
+          "en": "‘Sensual pleasures in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:9.3",
+          "pli": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;",
+          "en": "sensual perceptions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:9.4",
+          "pli": "ye ca diṭṭhadhammikā rūpā, ye ca samparāyikā rūpā;",
+          "en": "visions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:9.5",
+          "pli": "yā ca diṭṭhadhammikā rūpasaññā, yā ca samparāyikā rūpasaññā;",
+          "en": "perceptions of visions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:9.6",
+          "pli": "yā ca āneñjasaññā, yā ca ākiñcaññāyatanasaññā—",
+          "en": "perceptions of the imperturbable, and perceptions of the dimension of nothingness;"
+        },
+        {
+          "scid": "mn106:9.7",
+          "pli": "sabbā saññā.",
+          "en": "all are perceptions."
+        },
+        {
+          "scid": "mn106:9.8",
+          "pli": "Yatthetā aparisesā nirujjhanti etaṃ santaṃ etaṃ paṇītaṃ—",
+          "en": "Where they cease without anything left over, that is peaceful, that is sublime,"
+        },
+        {
+          "scid": "mn106:9.9",
+          "pli": "yadidaṃ nevasaññānāsaññāyatanan’ti.",
+          "en": "namely the dimension of neither perception nor non-perception.’"
+        },
+        {
+          "scid": "mn106:9.10",
+          "pli": "Tassa evaṃpaṭipannassa tabbahulavihārino āyatane cittaṃ pasīdati.",
+          "en": "Practicing in this way and meditating on it often their mind becomes confident in this dimension."
+        },
+        {
+          "scid": "mn106:9.11",
+          "pli": "Sampasāde sati etarahi vā nevasaññānāsaññāyatanaṃ samāpajjati paññāya vā adhimuccati kāyassa bhedā paraṃ maraṇā.",
+          "en": "Being confident, they either attain the dimension of neither perception nor non-perception now, or are freed by wisdom."
+        },
+        {
+          "scid": "mn106:9.12",
+          "pli": "Ṭhānametaṃ vijjati yaṃ taṃsaṃvattanikaṃ viññāṇaṃ assa nevasaññānāsaññāyatanūpagaṃ.",
+          "en": "When their body breaks up, after death, it’s possible that the consciousness headed that way will be reborn in the dimension of neither perception nor non-perception."
+        },
+        {
+          "scid": "mn106:9.13",
+          "pli": "Ayaṃ, bhikkhave, nevasaññānāsaññāyatanasappāyā paṭipadā akkhāyatī”ti.",
+          "en": "This is said to be the way of practice suitable for attaining the dimension of neither perception nor non-perception.”"
+        },
+        {
+          "scid": "mn106:10.1",
+          "pli": "Evaṃ vutte, āyasmā ānando bhagavantaṃ etadavoca:",
+          "en": "When he said this, Venerable Ānanda said to the Buddha:"
+        },
+        {
+          "scid": "mn106:10.2",
+          "pli": "“idha, bhante, bhikkhu evaṃ paṭipanno hoti:",
+          "en": "\"Sir, take a mendicant who practices like this:"
+        },
+        {
+          "scid": "mn106:10.3",
+          "pli": "‘no cassa, no ca me siyā; na bhavissati, na me bhavissati; yadatthi yaṃ, bhūtaṃ—taṃ pajahāmī’ti.",
+          "en": "‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’"
+        },
+        {
+          "scid": "mn106:10.4",
+          "pli": "Evaṃ upekkhaṃ paṭilabhati.",
+          "en": "In this way they gain equanimity."
+        },
+        {
+          "scid": "mn106:10.5",
+          "pli": "Parinibbāyeyya nu kho so, bhante, bhikkhu na vā parinibbāyeyyā”ti?",
+          "en": "Would that mendicant become extinguished or not?”"
+        },
+        {
+          "scid": "mn106:10.6",
+          "pli": "“Apetthekacco, ānanda, bhikkhu parinibbāyeyya, apetthekacco bhikkhu na parinibbāyeyyā”ti.",
+          "en": "“One such mendicant might become extinguished, Ānanda, while another might not.”"
+        },
+        {
+          "scid": "mn106:10.7",
+          "pli": "“Ko nu kho, bhante, hetu ko paccayo yenapetthekacco bhikkhu parinibbāyeyya, apetthekacco bhikkhu na parinibbāyeyyā”ti?",
+          "en": "“What is the cause, sir, what is the reason for this?”"
+        },
+        {
+          "scid": "mn106:10.8",
+          "pli": "“Idhānanda, bhikkhu evaṃ paṭipanno hoti:",
+          "en": "“Ānanda, take a mendicant who practices like this:"
+        },
+        {
+          "scid": "mn106:10.9",
+          "pli": "‘no cassa, no ca me siyā; na bhavissati, na me bhavissati; yadatthi, yaṃ bhūtaṃ—taṃ pajahāmī’ti.",
+          "en": "‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’"
+        },
+        {
+          "scid": "mn106:10.10",
+          "pli": "Evaṃ upekkhaṃ paṭilabhati.",
+          "en": "In this way they gain equanimity."
+        },
+        {
+          "scid": "mn106:10.11",
+          "pli": "So taṃ upekkhaṃ abhinandati, abhivadati, ajjhosāya tiṭṭhati.",
+          "en": "They approve, welcome, and keep clinging to that equanimity."
+        },
+        {
+          "scid": "mn106:10.12",
+          "pli": "Tassa taṃ upekkhaṃ abhinandato abhivadato ajjhosāya tiṭṭhato tannissitaṃ hoti viññāṇaṃ tadupādānaṃ.",
+          "en": "Their consciousness relies on that and grasps it."
+        },
+        {
+          "scid": "mn106:10.13",
+          "pli": "Saupādāno, ānanda, bhikkhu na parinibbāyatī”ti.",
+          "en": "A mendicant with grasping does not become extinguished.”"
+        },
+        {
+          "scid": "mn106:11.1",
+          "pli": "“Kahaṃ pana so, bhante, bhikkhu upādiyamāno upādiyatī”ti?",
+          "en": "“But sir, what is that mendicant grasping?”"
+        },
+        {
+          "scid": "mn106:11.2",
+          "pli": "“Nevasaññānāsaññāyatanaṃ, ānandā”ti.",
+          "en": "“The dimension of neither perception nor non-percpetion.”"
+        },
+        {
+          "scid": "mn106:11.3",
+          "pli": "“Upādānaseṭṭhaṃ kira so, bhante, bhikkhu upādiyamāno upādiyatī”ti?",
+          "en": "“Sir, it seems that mendicant is grasping the best thing to grasp!”"
+        },
+        {
+          "scid": "mn106:11.4",
+          "pli": "“Upādānaseṭṭhañhi so, ānanda, bhikkhu upādiyamāno upādiyati.",
+          "en": "“Indeed, Ānanda."
+        },
+        {
+          "scid": "mn106:11.5",
+          "pli": "Upādānaseṭṭhañhetaṃ, ānanda, yadidaṃ—",
+          "en": "For the best thing to grasp is"
+        },
+        {
+          "scid": "mn106:11.6",
+          "pli": "nevasaññānāsaññāyatanaṃ.",
+          "en": "the dimension of neither perception nor non-perception."
+        },
+        {
+          "scid": "mn106:12.1",
+          "pli": "Idhānanda, bhikkhu evaṃ paṭipanno hoti:",
+          "en": "Take a mendicant who practices like this:"
+        },
+        {
+          "scid": "mn106:12.2",
+          "pli": "‘no cassa, no ca me siyā; na bhavissati, na me bhavissati; yadatthi, yaṃ bhūtaṃ—taṃ pajahāmī’ti.",
+          "en": "‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’"
+        },
+        {
+          "scid": "mn106:12.3",
+          "pli": "Evaṃ upekkhaṃ paṭilabhati.",
+          "en": "In this way they gain equanimity."
+        },
+        {
+          "scid": "mn106:12.4",
+          "pli": "So taṃ upekkhaṃ nābhinandati, nābhivadati, na ajjhosāya tiṭṭhati.",
+          "en": "They don’t approve, welcome, or keep clinging to that equanimity."
+        },
+        {
+          "scid": "mn106:12.5",
+          "pli": "Tassa taṃ upekkhaṃ anabhinandato anabhivadato anajjhosāya tiṭṭhato na tannissitaṃ hoti viññāṇaṃ na tadupādānaṃ.",
+          "en": "So their consciousness doesn’t rely on that and grasp it."
+        },
+        {
+          "scid": "mn106:12.6",
+          "pli": "Anupādāno, ānanda, bhikkhu parinibbāyatī”ti.",
+          "en": "A mendicant free of grasping becomes extinguished.”"
+        },
+        {
+          "scid": "mn106:13.1",
+          "pli": "“Acchariyaṃ, bhante, abbhutaṃ, bhante.",
+          "en": "“It’s incredible, sir, it’s amazing!"
+        },
+        {
+          "scid": "mn106:13.2",
+          "pli": "Nissāya nissāya kira no, bhante, bhagavatā oghassa nittharaṇā akkhātā.",
+          "en": "The Buddha has explained to us how to cross over the flood by relying on one support or the other."
+        },
+        {
+          "scid": "mn106:13.3",
+          "pli": "Katamo pana, bhante, ariyo vimokkho”ti?",
+          "en": "But sir, what is noble liberation?”"
+        },
+        {
+          "scid": "mn106:13.4",
+          "pli": "“Idhānanda, bhikkhu ariyasāvako iti paṭisañcikkhati:",
+          "en": "“Ananda, it’s when a mendicant reflects like this:"
+        },
+        {
+          "scid": "mn106:13.5",
+          "pli": "‘ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā;",
+          "en": "‘Sensual pleasures in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:13.6",
+          "pli": "yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasaññā;",
+          "en": "sensual perceptions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:13.7",
+          "pli": "ye ca diṭṭhadhammikā rūpā, ye ca samparāyikā rūpā;",
+          "en": "visions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:13.8",
+          "pli": "yā ca diṭṭhadhammikā rūpasaññā, yā ca samparāyikā rūpasaññā;",
+          "en": "perceptions of visions in this life and in lives to come,"
+        },
+        {
+          "scid": "mn106:13.9",
+          "pli": "yā ca āneñjasaññā, yā ca ākiñcaññāyatanasaññā, yā ca nevasaññānāsaññāyatanasaññā—",
+          "en": "perceptions of the imperturbable, perceptions of the dimension of nothingness, perceptions of the dimension of neither perception or non-perception;"
+        },
+        {
+          "scid": "mn106:13.10",
+          "pli": "esa sakkāyo yāvatā sakkāyo.",
+          "en": "that is identity as far as identity extends."
+        },
+        {
+          "scid": "mn106:13.11",
+          "pli": "Etaṃ amataṃ yadidaṃ anupādā cittassa vimokkho.",
+          "en": "This is the deathless, namely the liberation of the mind through not grasping."
+        },
+        {
+          "scid": "mn106:14.1",
+          "pli": "Iti, kho, ānanda, desitā mayā āneñjasappāyā paṭipadā, desitā ākiñcaññāyatanasappāyā paṭipadā, desitā nevasaññānāsaññāyatanasappāyā paṭipadā, desitā nissāya nissāya oghassa nittharaṇā, desito ariyo vimokkho.",
+          "en": "So, Ānanda, I have taught the ways of practice suitable for attaining the imperturbable, the dimension of nothingness, and the dimension of neither perception nor non-perception. I have taught how to cross the flood by relying on one support or the other, and I have taught noble liberation."
+        },
+        {
+          "scid": "mn106:15.1",
+          "pli": "Yaṃ kho, ānanda, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā.",
+          "en": "Out of compassion, I’ve done what a teacher should do for the benefit of their disciples."
+        },
+        {
+          "scid": "mn106:15.2",
+          "pli": "Etāni, ānanda, rukkhamūlāni, etāni suññāgārāni. Jhāyathānanda, mā pamādattha, mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanī’”ti.",
+          "en": "Here are these roots of trees, and here are these empty huts. Practice absorption, Ānanda! Don’t be negligent! Don’t regret it later! This is my instruction to you.”"
+        },
+        {
+          "scid": "mn106:15.3",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn106:15.4",
+          "pli": "Attamano āyasmā ānando bhagavato bhāsitaṃ abhinandīti.",
+          "en": "Satisfied, Venerable Ānanda was happy with what the Buddha said."
+        },
+        {
+          "scid": "mn106:15.5",
+          "pli": "Āneñjasappāyasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn106/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 106",
+    "volpages": "MN ii 261",
+    "uid": "mn106",
+    "blurb": "Beginning with profound meditation absorption, the Buddha goes on to deeper and deeper levels, showing how insight on this basis leads to the detaching of consciousness from any form of rebirth.",
+    "difficulty": 3,
+    "original_title": "Āneñjasappāya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Conducive to the Imperturbable",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn106_sujato",
+        "segmented": true,
+        "title": "Conducive to the Imperturbable"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 6
+  }
+}

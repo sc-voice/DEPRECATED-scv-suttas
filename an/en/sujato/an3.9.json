@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an3.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Broken",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Stains",
+      "uid": "an3.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hurtful",
+      "uid": "an3.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.9:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.9:0.2",
+          "pli": "1. Bālavagga",
+          "en": "1. Fools"
+        },
+        {
+          "scid": "an3.9:0.3",
+          "pli": "9. Khatasutta",
+          "en": "9. Broken"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.9:1.1",
+          "pli": "“Tīhi, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+          "en": "“When a foolish, incompetent, bad person has three qualities they keep themselves broken and damaged. They deserve to be blamed and criticized by sensible people, and they make much bad karma."
+        },
+        {
+          "scid": "an3.9:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.9:1.3",
+          "pli": "Kāyaduccaritena, vacīduccaritena, manoduccaritena.",
+          "en": "Bad conduct by way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.9:1.4",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+          "en": "When a foolish, incompetent bad person has these three qualities they keep themselves broken and damaged. They deserve to be blamed and criticized by sensible people, and they make much bad karma."
+        },
+        {
+          "scid": "an3.9:2.1",
+          "pli": "Tīhi, bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati.",
+          "en": "When an astute, competent good person has three qualities they keep themselves healthy and whole. They don’t deserve to be blamed and criticized by sensible people, and they make much merit."
+        },
+        {
+          "scid": "an3.9:2.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.9:2.3",
+          "pli": "Kāyasucaritena, vacīsucaritena, manosucaritena.",
+          "en": "Good conduct by way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.9:2.4",
+          "pli": "Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavatī”ti.",
+          "en": "When an astute, competent good person has these three qualities they keep themselves healthy and whole. They don’t deserve to be blamed and criticized by sensible people, and they make much merit.”"
+        },
+        {
+          "scid": "an3.9:2.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“When a foolish…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.9",
+    "volpages": "AN i 105",
+    "uid": "an3.9",
+    "blurb": "Marks of a fool and an astute person: keeping your mind healthy.",
+    "difficulty": null,
+    "original_title": "Khata Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Broken",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.9_sujato",
+        "segmented": true,
+        "title": "Broken"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.9_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Maimed"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

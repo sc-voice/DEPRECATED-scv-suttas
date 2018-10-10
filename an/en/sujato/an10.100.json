@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "an10.100",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.100",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Cannot",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perceptions for Ascetics",
+      "uid": "an10.101"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Upāli",
+      "uid": "an10.99"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.100:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.100:0.2",
+          "pli": "10. Upālivagga",
+          "en": "10. With Upāli"
+        },
+        {
+          "scid": "an10.100:0.3",
+          "pli": "100. Abhabbasutta",
+          "en": "100. Cannot"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.100:1.1",
+          "pli": "“Dasayime, bhikkhave, dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+          "en": "“Mendicants, without giving up ten things you can’t realize perfection."
+        },
+        {
+          "scid": "an10.100:1.2",
+          "pli": "Katame dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.100:1.3",
+          "pli": "Rāgaṃ, dosaṃ, mohaṃ, kodhaṃ, upanāhaṃ, makkhaṃ, paḷāsaṃ, issaṃ, macchariyaṃ, mānaṃ—",
+          "en": "Greed, hate, delusion, anger, hostility, offensiveness, contempt, jealousy, stinginess, and conceit."
+        },
+        {
+          "scid": "an10.100:1.4",
+          "pli": "ime kho, bhikkhave, dasa dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+          "en": "Without giving up these ten things you can’t realize perfection."
+        },
+        {
+          "scid": "an10.100:2.1",
+          "pli": "Dasayime, bhikkhave, dhamme pahāya bhabbo arahattaṃ sacchikātuṃ.",
+          "en": "After giving up ten things you can realize perfection."
+        },
+        {
+          "scid": "an10.100:2.2",
+          "pli": "Katame dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.100:2.3",
+          "pli": "Rāgaṃ, dosaṃ, mohaṃ, kodhaṃ, upanāhaṃ, makkhaṃ, paḷāsaṃ, issaṃ, macchariyaṃ, mānaṃ—",
+          "en": "Greed, hate, delusion, anger, hostility, offensiveness, contempt, jealousy, stinginess, and conceit."
+        },
+        {
+          "scid": "an10.100:2.4",
+          "pli": "ime kho, bhikkhave, dasa dhamme pahāya bhabbo arahattaṃ sacchikātun”ti.",
+          "en": "After giving up these ten things you can realize perfection.”"
+        },
+        {
+          "scid": "an10.100:2.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.100:2.6",
+          "pli": "Upālivaggo pañcamo.",
+          "en": ""
+        },
+        {
+          "scid": "an10.100:3.1",
+          "pli": "Kāmabhogī bhayaṃ diṭṭhi,",
+          "en": ""
+        },
+        {
+          "scid": "an10.100:3.2",
+          "pli": "vajjiyamāhituttiyā;",
+          "en": ""
+        },
+        {
+          "scid": "an10.100:3.3",
+          "pli": "Kokanudo āhuneyyo,",
+          "en": ""
+        },
+        {
+          "scid": "an10.100:3.4",
+          "pli": "thero upāli abhabboti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.100:3.5",
+          "pli": "Dutiyo paṇṇāsako samatto.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.100/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.100",
+    "volpages": "AN v 209",
+    "uid": "an10.100",
+    "blurb": "Ten things must be given up before attaining perfection.",
+    "difficulty": null,
+    "original_title": "Abhabba Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Cannot",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.100_sujato",
+        "segmented": true,
+        "title": "Cannot"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

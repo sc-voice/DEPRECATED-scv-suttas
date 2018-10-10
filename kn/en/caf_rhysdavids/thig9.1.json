@@ -1,0 +1,141 @@
+{
+  "sutta_uid": "thig9.1",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig9.1",
+    "lang": "en",
+    "is_root": false,
+    "title": "Vaḍḍha’s Mother",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Kisā-gotamī",
+      "uid": "thig10.1"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Sīsupacālā",
+      "uid": "thig8.1"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig9.1:0.1",
+          "en": "Therīgāthā 9.1"
+        },
+        {
+          "scid": "thig9.1:0.2",
+          "en": "Vaḍḍha’s Mother",
+          "pli": "Vaḍḍhamātutherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig9.1:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig9.1:1.0.2",
+          "en": "Canto 9"
+        },
+        {
+          "scid": "thig9.1:1.0.3",
+          "en": "1. Vaḍḍha’s Mother"
+        },
+        {
+          "scid": "thig9.1:1.0.4",
+          "en": "“O nevermore, my Vaḍḍha, do thou stray Into the jungle of this world’s desires. Child of my heart! come thou not back and forth To share, reborn, in all the ills of life."
+        },
+        {
+          "scid": "thig9.1:1.0.5",
+          "en": "True happiness, O Vaḍḍha mine, is theirs Who, wise and freed from longing and from doubt, Cool and serene, have tamed the craving will, And dwell immune from all the deadly drugs."
+        },
+        {
+          "scid": "thig9.1:1.0.6",
+          "en": "The Way that Sages such as these have trod— Leading to that pure vision how they may Make a sure end of Ill—do thou, dear lad, Study and cause to grow to thine own weal."
+        },
+        {
+          "scid": "thig9.1:1.0.7",
+          "en": "Vaḍḍha. Now in good hope and faith thou speakest thus, O little mother! well I trow, for thee. Dear mother mine, no jungle bars the way."
+        },
+        {
+          "scid": "thig9.1:1.0.8",
+          "en": "Therī. Ah, no! my Vaḍḍha, whatsoe’er I do, Or say, or think, in things or great or small, Not e’en the smallest growth of jungly vice Yet standeth in the onward way for me."
+        },
+        {
+          "scid": "thig9.1:1.0.9",
+          "en": "For all the deadly poison-plants are killed In me who meditate with strenuous zeal. The Threefold Wisdom have I gotten now, And all the Buddha’s word have I fulfilled."
+        },
+        {
+          "scid": "thig9.1:1.0.10",
+          "en": "Vaḍḍha. O splendid was the spur my mother used, And no less merciful the chastisement She gave to me, even the rune she spoke, Fraught with its burden of sublimest good."
+        },
+        {
+          "scid": "thig9.1:1.0.11",
+          "en": "I heard her words, I marked her counsel wise, And thrilled with righteous awe as she called up The vision of salvation to be won."
+        },
+        {
+          "scid": "thig9.1:1.0.12",
+          "en": "And night and day I strove unweariedly Until her admonitions bore their fruit, And I could touch Nibbana’s utter peace.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig9.1/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 9.1",
+    "volpages": "Thig 142",
+    "uid": "thig9.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vaḍḍhamātutherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vaḍḍha’s Mother",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig9.1_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Vaḍḍha’s Mother"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

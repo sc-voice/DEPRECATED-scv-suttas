@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an9.49",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.49",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Final Extinguishment",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Extinguishment in a Certain Respect",
+      "uid": "an9.50"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Extinguishment",
+      "uid": "an9.48"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.49:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.49:0.2",
+          "pli": "5. Sāmaññavagga",
+          "en": "5. Similarity"
+        },
+        {
+          "scid": "an9.49:0.3",
+          "pli": "49. Parinibbānasutta",
+          "en": "49. Final Extinguishment"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.49:1.1",
+          "pli": "“‘Parinibbānaṃ, parinibbānan’ti … pe ….",
+          "en": "“Reverend, they speak of ‘final extinguishment’. …”"
+        },
+        {
+          "scid": "an9.49:1.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Reverend…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.49/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.49",
+    "volpages": "AN iv 454",
+    "uid": "an9.49",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Parinibbāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Final Extinguishment",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.49_sujato",
+        "segmented": true,
+        "title": "Final Extinguishment"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

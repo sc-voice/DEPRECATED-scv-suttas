@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn56.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Immersion",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Retreat",
+      "uid": "sn56.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Penetrating Wisdom",
+      "uid": "sn55.74"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.1:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.1:0.2",
+          "pli": "1. Samādhivagga",
+          "en": "1. Immersion"
+        },
+        {
+          "scid": "sn56.1:0.3",
+          "pli": "1. Samādhisutta",
+          "en": "1. Immersion"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.1:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn56.1:1.2",
+          "pli": "… pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn56.1:1.3",
+          "pli": "“Samādhiṃ, bhikkhave, bhāvetha.",
+          "en": "“Mendicants, develop immersion."
+        },
+        {
+          "scid": "sn56.1:1.4",
+          "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṃ pajānāti.",
+          "en": "A mendicant who has immersion truly understands."
+        },
+        {
+          "scid": "sn56.1:1.5",
+          "pli": "Kiñca yathābhūtaṃ pajānāti?",
+          "en": "What do they truly understand?"
+        },
+        {
+          "scid": "sn56.1:1.6",
+          "pli": "‘Idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.",
+          "en": "They truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’."
+        },
+        {
+          "scid": "sn56.1:1.7",
+          "pli": "Samādhiṃ, bhikkhave, bhāvetha.",
+          "en": "Develop immersion."
+        },
+        {
+          "scid": "sn56.1:1.8",
+          "pli": "Samāhito, bhikkhave, bhikkhu yathābhūtaṃ pajānāti.",
+          "en": "A mendicant who has immersion truly understands."
+        },
+        {
+          "scid": "sn56.1:2.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo, ‘ayaṃ dukkhasamudayo’ti yogo karaṇīyo, ‘ayaṃ dukkhanirodho’ti yogo karaṇīyo, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation to understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’.”"
+        },
+        {
+          "scid": "sn56.1:2.2",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.1",
+    "volpages": "SN v 414",
+    "uid": "sn56.1",
+    "blurb": "Mendicants should develop immersion so as to understand the four noble truths: suffering, its origin, its cessation, and the path.",
+    "difficulty": null,
+    "original_title": "Samādhi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Immersion",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.1_sujato",
+        "segmented": true,
+        "title": "Immersion"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.1_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Concentration"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 1
+  }
+}

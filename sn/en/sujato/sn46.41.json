@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn46.41",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.41",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Discriminations",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Wheel Turning Monarch",
+      "uid": "sn46.42"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hindrances",
+      "uid": "sn46.40"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.41:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.41:0.2",
+          "pli": "5. Cakkavattivagga",
+          "en": "5. A Wheel Turning Monarch"
+        },
+        {
+          "scid": "sn46.41:0.3",
+          "pli": "41. Vidhāsutta",
+          "en": "41. Discriminations"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.41:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn46.41:1.2",
+          "pli": "“Ye hi keci, bhikkhave, atītamaddhānaṃ samaṇā vā brāhmaṇā vā tisso vidhā pajahiṃsu, sabbe te sattannaṃ bojjhaṅgānaṃ bhāvitattā bahulīkatattā.",
+          "en": "“Mendicants, all the ascetics and brahmins in the past who have given up the three discriminations have done so by developing and cultivating the seven awakening factors."
+        },
+        {
+          "scid": "sn46.41:1.3",
+          "pli": "Ye hi keci, bhikkhave, anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā tisso vidhā pajahissanti, sabbe te sattannaṃ bojjhaṅgānaṃ bhāvitattā bahulīkatattā.",
+          "en": "All the ascetics and brahmins in the future who will give up the three discriminations will do so by developing and cultivating the seven awakening factors."
+        },
+        {
+          "scid": "sn46.41:1.4",
+          "pli": "Ye hi keci, bhikkhave, etarahi samaṇā vā brāhmaṇā vā tisso vidhā pajahanti, sabbe te sattannaṃ bojjhaṅgānaṃ bhāvitattā bahulīkatattā.",
+          "en": "All the ascetics and brahmins in the present who are giving up the three discriminations do so by developing and cultivating the seven awakening factors."
+        },
+        {
+          "scid": "sn46.41:1.5",
+          "pli": "Katamesaṃ sattannaṃ bojjhaṅgānaṃ?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "sn46.41:1.6",
+          "pli": "Satisambojjhaṅgassa … pe … upekkhāsambojjhaṅgassa.",
+          "en": "The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity."
+        },
+        {
+          "scid": "sn46.41:1.7",
+          "pli": "Ye hi keci, bhikkhave, atītamaddhānaṃ samaṇā vā brāhmaṇā vā tisso vidhā pajahiṃsu … pe …",
+          "en": "All the ascetics and brahmins in the past …"
+        },
+        {
+          "scid": "sn46.41:1.8",
+          "pli": "pajahissanti … pe …",
+          "en": "future …"
+        },
+        {
+          "scid": "sn46.41:1.9",
+          "pli": "pajahanti, sabbe te imesaṃyeva sattannaṃ bojjhaṅgānaṃ bhāvitattā bahulīkatattā”ti.",
+          "en": "and present who give up the three discriminations do so by developing and cultivating the seven awakening factors.”"
+        },
+        {
+          "scid": "sn46.41:1.10",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.41/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.41",
+    "volpages": "SN v 98",
+    "uid": "sn46.41",
+    "blurb": "Anyone who abandons the three kinds of discrimination does so due to the awakening factors.",
+    "difficulty": null,
+    "original_title": "Vidhā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Discriminations",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.41_sujato",
+        "segmented": true,
+        "title": "Discriminations"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn46.41_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discriminations"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

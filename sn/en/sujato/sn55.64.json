@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn55.64",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.64",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Abundant Wisdom",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Deep Wisdom",
+      "uid": "sn55.65"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Widespread Wisdom",
+      "uid": "sn55.63"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.64:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.64:0.2",
+          "pli": "7. Mahāpaññavagga",
+          "en": "7. Great Wisdom"
+        },
+        {
+          "scid": "sn55.64:0.3",
+          "pli": "64. Vipulapaññāsutta",
+          "en": "64. Abundant Wisdom"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.64:1.1",
+          "pli": "“… Vipulapaññatāya saṃvattantī”ti.",
+          "en": "“Mendicants, when four things are developed and cultivated they lead to abundant wisdom …”"
+        },
+        {
+          "scid": "sn55.64:1.2",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.64/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.64",
+    "volpages": "SN v 412",
+    "uid": "sn55.64",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vipulapaññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Abundant Wisdom",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.64_sujato",
+        "segmented": true,
+        "title": "Abundant Wisdom"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 3
+  }
+}

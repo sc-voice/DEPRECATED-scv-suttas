@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn55.55",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.55",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Fruit of Stream-Entry",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Fruit of Once-Return",
+      "uid": "sn55.56"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sick",
+      "uid": "sn55.54"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.55:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.55:0.2",
+          "pli": "6. Sappaññavagga",
+          "en": "6. A Wise Person"
+        },
+        {
+          "scid": "sn55.55:0.3",
+          "pli": "55. Sotāpattiphalasutta",
+          "en": "55. The Fruit of Stream-Entry"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.55:1.1",
+          "pli": "“Cattārome, bhikkhave, dhammā bhāvitā bahulīkatā sotāpattiphalasacchikiriyāya saṃvattanti.",
+          "en": "“Mendicants, when four things are developed and cultivated they lead to the realization of the fruit of stream-entry."
+        },
+        {
+          "scid": "sn55.55:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn55.55:1.3",
+          "pli": "Sappurisasaṃsevo, saddhammassavanaṃ, yonisomanasikāro, dhammānudhammappaṭipatti—",
+          "en": "Associating with good people, listening to the true teaching, proper attention, and practicing in line with the teaching."
+        },
+        {
+          "scid": "sn55.55:1.4",
+          "pli": "ime kho, bhikkhave, cattāro dhammā bhāvitā bahulīkatā sotāpattiphalasacchikiriyāya saṃvattantī”ti.",
+          "en": "When these four things are developed and cultivated they lead to the realization of the fruit of stream-entry.”"
+        },
+        {
+          "scid": "sn55.55:1.5",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.55/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.55",
+    "volpages": "SN v 410",
+    "uid": "sn55.55",
+    "blurb": "Association with good people, hearing the teaching, proper attention, and right practice lead to the fruit of stream-entry.",
+    "difficulty": null,
+    "original_title": "Sotāpattiphala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Fruit of Stream-Entry",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.55_sujato",
+        "segmented": true,
+        "title": "The Fruit of Stream-Entry"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 5
+  }
+}

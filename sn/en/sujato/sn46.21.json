@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn46.21",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.21",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "To Awakening",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Teaching on the Awakening Factors",
+      "uid": "sn46.22"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Disillusionment",
+      "uid": "sn46.20"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.21:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.21:0.2",
+          "pli": "3. Udāyivagga",
+          "en": "3. With Udāyī"
+        },
+        {
+          "scid": "sn46.21:0.3",
+          "pli": "21. Bodhāyasutta",
+          "en": "21. To Awakening"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.21:1.1",
+          "pli": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami … pe … ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Then a mendicant went up to the Buddha … and said to him:"
+        },
+        {
+          "scid": "sn46.21:2.1",
+          "pli": "“‘Bojjhaṅgā, bojjhaṅgā’ti, bhante, vuccanti.",
+          "en": "“Sir, they speak of the ‘awakening factors’."
+        },
+        {
+          "scid": "sn46.21:2.2",
+          "pli": "Kittāvatā nu kho, bhante, ‘bojjhaṅgā’ti vuccantī”ti?",
+          "en": "How are the awakening factors defined?”"
+        },
+        {
+          "scid": "sn46.21:2.3",
+          "pli": "“‘Bodhāya saṃvattantī’ti kho, bhikkhu, tasmā bojjhaṅgāti vuccanti.",
+          "en": "“Mendicant, they’re called awakening factors because they lead to awakening."
+        },
+        {
+          "scid": "sn46.21:2.4",
+          "pli": "Idha, bhikkhu, satisambojjhaṅgaṃ bhāveti vivekanissitaṃ … pe … upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.",
+          "en": "A mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go."
+        },
+        {
+          "scid": "sn46.21:2.5",
+          "pli": "‘Bodhāya saṃvattantī’ti kho, bhikkhu, tasmā ‘bojjhaṅgā’ti vuccantī”ti.",
+          "en": "They’re called awakening factors because they lead to awakening.”"
+        },
+        {
+          "scid": "sn46.21:2.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then a mendicant went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.21/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.21",
+    "volpages": "SN v 83",
+    "uid": "sn46.21",
+    "blurb": "They’re called awakening factors because they lead to awakening.",
+    "difficulty": null,
+    "original_title": "Bodhāya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "To Awakening",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.21_sujato",
+        "segmented": true,
+        "title": "To Awakening"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn46.21_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "To Enlightenment"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

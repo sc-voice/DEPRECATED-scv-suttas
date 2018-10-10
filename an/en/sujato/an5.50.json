@@ -1,0 +1,640 @@
+{
+  "sutta_uid": "an5.50",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.50",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Nārada",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Obstacles",
+      "uid": "an5.51"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The King of Kosala",
+      "uid": "an5.49"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.50:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.50:0.2",
+          "pli": "5. Muṇḍarājavagga",
+          "en": "5. With King Muṇḍa"
+        },
+        {
+          "scid": "an5.50:0.3",
+          "pli": "50. Nāradasutta",
+          "en": "50. With Nārada"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.50:1.1",
+          "pli": "Ekaṃ samayaṃ āyasmā nārado pāṭaliputte viharati kukkuṭārāme.",
+          "en": "At one time Venerable Nārada was staying at Pāṭaliputta, in the Chicken Monastery."
+        },
+        {
+          "scid": "an5.50:1.2",
+          "pli": "Tena kho pana samayena muṇḍassa rañño bhaddā devī kālaṅkatā hoti piyā manāpā.",
+          "en": "Now at that time King Muṇḍa’s dear and beloved Queen Bhaddā had just passed away."
+        },
+        {
+          "scid": "an5.50:1.3",
+          "pli": "So bhaddāya deviyā kālaṅkatāya piyāya manāpāya neva nhāyati na vilimpati na bhattaṃ bhuñjati na kammantaṃ payojeti—",
+          "en": "And since that time, the king did not bathe, anoint himself, eat his meals, or apply himself to his work."
+        },
+        {
+          "scid": "an5.50:1.4",
+          "pli": "rattindivaṃ bhaddāya deviyā sarīre ajjhomucchito.",
+          "en": "Day and night he brooded over Queen Bhaddā’s corpse."
+        },
+        {
+          "scid": "an5.50:1.5",
+          "pli": "Atha kho muṇḍo rājā piyakaṃ kosārakkhaṃ āmantesi:",
+          "en": "Then King Muṇḍa addressed his treasurer, Piyaka:"
+        },
+        {
+          "scid": "an5.50:1.6",
+          "pli": "“tena hi, samma piyaka, bhaddāya deviyā sarīraṃ āyasāya teladoṇiyā pakkhipitvā aññissā āyasāya doṇiyā paṭikujjatha, yathā mayaṃ bhaddāya deviyā sarīraṃ cirataraṃ passeyyāmā”ti.",
+          "en": "“So, my good Piyaka, please place Queen Bhaddā’s corpse in an iron case filled with oil. Then close it up with another case, so that we can view Queen Bhaddā’s body even longer.”"
+        },
+        {
+          "scid": "an5.50:1.7",
+          "pli": "“Evaṃ, devā”ti kho piyako kosārakkho muṇḍassa rañño paṭissutvā bhaddāya deviyā sarīraṃ āyasāya teladoṇiyā pakkhipitvā aññissā āyasāya doṇiyā paṭikujji.",
+          "en": "“Yes, Your Majesty,” replied Piyaka the treasurer, and he did as the king instructed."
+        },
+        {
+          "scid": "an5.50:2.1",
+          "pli": "Atha kho piyakassa kosārakkhassa etadahosi:",
+          "en": "Then it occurred to Piyaka:"
+        },
+        {
+          "scid": "an5.50:2.2",
+          "pli": "“imassa kho muṇḍassa rañño bhaddā devī kālaṅkatā piyā manāpā.",
+          "en": "“King Muṇḍa’s dear and beloved Queen Bhaddā has passed away."
+        },
+        {
+          "scid": "an5.50:2.3",
+          "pli": "So bhaddāya deviyā kālaṅkatāya piyāya manāpāya neva nhāyati na vilimpati na bhattaṃ bhuñjati na kammantaṃ payojeti—",
+          "en": "Since then the king does not bathe, anoint himself, eat his meals, or apply himself to his work."
+        },
+        {
+          "scid": "an5.50:2.4",
+          "pli": "rattindivaṃ bhaddāya deviyā sarīre ajjhomucchito.",
+          "en": "Day and night he broods over Queen Bhaddā’s corpse."
+        },
+        {
+          "scid": "an5.50:2.5",
+          "pli": "Kaṃ nu kho muṇḍo rājā samaṇaṃ vā brāhmaṇaṃ vā payirupāseyya, yassa dhammaṃ sutvā sokasallaṃ pajaheyyā”ti.",
+          "en": "Now, what ascetic or brahmin might the king pay homage to, whose teaching could help the king give up sorrow’s arrow?”"
+        },
+        {
+          "scid": "an5.50:3.1",
+          "pli": "Atha kho piyakassa kosārakkhassa etadahosi:",
+          "en": "Then it occurred to Piyaka:"
+        },
+        {
+          "scid": "an5.50:3.2",
+          "pli": "“ayaṃ kho āyasmā nārado pāṭaliputte viharati kukkuṭārāme.",
+          "en": "“This Venerable Nārada is staying in the Chicken Monastery at Pāṭaliputta."
+        },
+        {
+          "scid": "an5.50:3.3",
+          "pli": "Taṃ kho panāyasmantaṃ nāradaṃ evaṃ kalyāṇo kittisaddo abbhuggato:",
+          "en": "He has this good reputation:"
+        },
+        {
+          "scid": "an5.50:3.4",
+          "pli": "‘paṇḍito viyatto medhāvī bahussuto cittakathī kalyāṇapaṭibhāno vuddho ceva arahā ca’.",
+          "en": "‘He is astute, competent, intelligent, learned, a brilliant speaker, eloquent, mature, a perfected one.’"
+        },
+        {
+          "scid": "an5.50:3.5",
+          "pli": "Yannūna muṇḍo rājā āyasmantaṃ nāradaṃ payirupāseyya, appeva nāma muṇḍo rājā āyasmato nāradassa dhammaṃ sutvā sokasallaṃ pajaheyyā”ti.",
+          "en": "What if King Muṇḍa was to pay homage to Venerable Nārada? Hopefully when he hears Nārada’s teaching, the king could give up sorrow’s arrow.”"
+        },
+        {
+          "scid": "an5.50:4.1",
+          "pli": "Atha kho piyako kosārakkho yena muṇḍo rājā tenupasaṅkami; upasaṅkamitvā muṇḍaṃ rājānaṃ etadavoca:",
+          "en": "Then Piyaka went to the king and said to him:"
+        },
+        {
+          "scid": "an5.50:4.2",
+          "pli": "“ayaṃ kho, deva, āyasmā nārado pāṭaliputte viharati kukkuṭārāme.",
+          "en": "“Sire, this Venerable Nārada is staying in the Chicken Monastery at Pāṭaliputta."
+        },
+        {
+          "scid": "an5.50:4.3",
+          "pli": "Taṃ kho panāyasmantaṃ nāradaṃ evaṃ kalyāṇo kittisaddo abbhuggato:",
+          "en": "He has this good reputation:"
+        },
+        {
+          "scid": "an5.50:4.4",
+          "pli": "‘paṇḍito viyatto medhāvī bahussuto cittakathī kalyāṇapaṭibhāno vuddho ceva arahā ca’.",
+          "en": "‘He is astute, competent, intelligent, learned, a brilliant speaker, eloquent, mature, a perfected one.’"
+        },
+        {
+          "scid": "an5.50:4.5",
+          "pli": "Yadi pana devo āyasmantaṃ nāradaṃ payirupāseyya, appeva nāma devo āyasmato nāradassa dhammaṃ sutvā sokasallaṃ pajaheyyā”ti.",
+          "en": "What if Your Majesty was to pay homage to Venerable Nārada? Hopefully when you hear Nārada’s teaching, you could give up sorrow’s arrow.”"
+        },
+        {
+          "scid": "an5.50:4.6",
+          "pli": "“Tena hi, samma piyaka, āyasmantaṃ nāradaṃ paṭivedehi.",
+          "en": "“Well then, my good Piyaka, let Nārada know."
+        },
+        {
+          "scid": "an5.50:4.7",
+          "pli": "Kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ pubbe appaṭisaṃvidito upasaṅkamitabbaṃ maññeyyā”ti.",
+          "en": "For how could one such as I presume to visit an ascetic or brahmin in my realm without first letting them know?”"
+        },
+        {
+          "scid": "an5.50:4.8",
+          "pli": "“Evaṃ, devā”ti kho piyako kosārakkho muṇḍassa rañño paṭissutvā yenāyasmā nārado tenupasaṅkami; upasaṅkamitvā āyasmantaṃ nāradaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho piyako kosārakkho āyasmantaṃ nāradaṃ etadavoca:",
+          "en": "“Yes, Your Majesty,” replied Piyaka the treasurer. He went to Nārada, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "an5.50:5.1",
+          "pli": "“Imassa, bhante, muṇḍassa rañño bhaddā devī kālaṅkatā piyā manāpā.",
+          "en": "“Sir, King Muṇḍa’s dear and beloved Queen Bhaddā has passed away."
+        },
+        {
+          "scid": "an5.50:5.2",
+          "pli": "So bhaddāya deviyā kālaṅkatāya piyāya manāpāya neva nhāyati na vilimpati na bhattaṃ bhuñjati na kammantaṃ payojeti—",
+          "en": "And since she passed away, the king has not bathed, anointed himself, eaten his meals, or got his business done."
+        },
+        {
+          "scid": "an5.50:5.3",
+          "pli": "rattindivaṃ bhaddāya deviyā sarīre ajjhomucchito.",
+          "en": "Day and night he broods over Queen Bhaddā’s corpse."
+        },
+        {
+          "scid": "an5.50:5.4",
+          "pli": "Sādhu, bhante, āyasmā nārado muṇḍassa rañño tathā dhammaṃ desetu yathā muṇḍo rājā āyasmato nāradassa dhammaṃ sutvā sokasallaṃ pajaheyyā”ti.",
+          "en": "Sir, please teach the king so that, when he hears your teaching, he can give up sorrow’s arrow.”"
+        },
+        {
+          "scid": "an5.50:5.5",
+          "pli": "“Yassadāni, piyaka, muṇḍo rājā kālaṃ maññatī”ti.",
+          "en": "“Please, Piyaka, let the king come when he likes.”"
+        },
+        {
+          "scid": "an5.50:6.1",
+          "pli": "Atha kho piyako kosārakkho uṭṭhāyāsanā āyasmantaṃ nāradaṃ abhivādetvā padakkhiṇaṃ katvā yena muṇḍo rājā tenupasaṅkami; upasaṅkamitvā muṇḍaṃ rājānaṃ etadavoca:",
+          "en": "Then Piyaka got up from his seat, bowed, and respectfully circled Venerable Nārada, keeping him on his right, before going to the king and saying:"
+        },
+        {
+          "scid": "an5.50:6.2",
+          "pli": "“katāvakāso kho, deva, āyasmatā nāradena.",
+          "en": "“Sire, the request for an audience with Venerable Nārada has been granted."
+        },
+        {
+          "scid": "an5.50:6.3",
+          "pli": "Yassadāni devo kālaṃ maññatī”ti.",
+          "en": "Please, Your Majesty, go at your convenience.”"
+        },
+        {
+          "scid": "an5.50:6.4",
+          "pli": "“Tena hi, samma piyaka, bhadrāni bhadrāni yānāni yojāpehī”ti.",
+          "en": "“Well then, my good Piyaka, harness the finest chariots.”"
+        },
+        {
+          "scid": "an5.50:6.5",
+          "pli": "“Evaṃ, devā”ti kho piyako kosārakkho muṇḍassa rañño paṭissutvā bhadrāni bhadrāni yānāni yojāpetvā muṇḍaṃ rājānaṃ etadavoca:",
+          "en": "“Yes, Your Majesty,” replied Piyaka the treasurer. He did so, then told the king:"
+        },
+        {
+          "scid": "an5.50:6.6",
+          "pli": "“yuttāni kho te, deva, bhadrāni bhadrāni yānāni.",
+          "en": "“Sire, the finest chariots are harnessed."
+        },
+        {
+          "scid": "an5.50:6.7",
+          "pli": "Yassadāni devo kālaṃ maññatī”ti.",
+          "en": "Please, Your Majesty, go at your convenience.”"
+        },
+        {
+          "scid": "an5.50:7.1",
+          "pli": "Atha kho muṇḍo rājā bhadraṃ yānaṃ abhiruhitvā bhadrehi bhadrehi yānehi yena kukkuṭārāmo tena pāyāsi mahaccā rājānubhāvena āyasmantaṃ nāradaṃ dassanāya.",
+          "en": "Then King Muṇḍa mounted a fine carriage and, along with other fine carriages, set out in full royal pomp to see Venerable Nārada at the Chicken Monastery."
+        },
+        {
+          "scid": "an5.50:7.2",
+          "pli": "Yāvatikā yānassa bhūmi yānena gantvā, yānā paccorohitvā pattikova ārāmaṃ pāvisi.",
+          "en": "He went by carriage as far as the terrain allowed, then descended and entered the monastery on foot."
+        },
+        {
+          "scid": "an5.50:7.3",
+          "pli": "Atha kho muṇḍo rājā yena āyasmā nārado tenupasaṅkami; upasaṅkamitvā āyasmantaṃ nāradaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho muṇḍaṃ rājānaṃ āyasmā nārado etadavoca:",
+          "en": "Then the king went up to Nārada, bowed, and sat down to one side. Then Nārada said to him:"
+        },
+        {
+          "scid": "an5.50:8.1",
+          "pli": "“Pañcimāni, mahārāja, alabbhanīyāni ṭhānāni samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ.",
+          "en": "“Great king, there are five things that cannot be had by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world."
+        },
+        {
+          "scid": "an5.50:8.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.50:8.3",
+          "pli": "‘Jarādhammaṃ mā jīrī’ti alabbhanīyaṃ ṭhānaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ.",
+          "en": "That someone liable to old age should not grow old. …"
+        },
+        {
+          "scid": "an5.50:8.4",
+          "pli": "‘Byādhidhammaṃ mā byādhīyī’ti … pe … ‘maraṇadhammaṃ mā mīyī’ti … ‘khayadhammaṃ mā khīyī’ti … ‘nassanadhammaṃ mā nassī’ti alabbhanīyaṃ ṭhānaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ.",
+          "en": "That someone liable to sickness should not get sick. … That someone liable to death should not die. … That someone liable to ending should not end. … That someone liable to perishing should not perish. …"
+        },
+        {
+          "scid": "an5.50:9.1",
+          "pli": "Assutavato, mahārāja, puthujjanassa jarādhammaṃ jīrati.",
+          "en": "An uneducated ordinary person has someone liable to old age who grows old."
+        },
+        {
+          "scid": "an5.50:9.2",
+          "pli": "So jarādhamme jiṇṇe na iti paṭisañcikkhati:",
+          "en": "But they don’t reflect on the nature of old age:"
+        },
+        {
+          "scid": "an5.50:9.3",
+          "pli": "‘na kho mayhevekassa jarādhammaṃ jīrati, atha kho yāvatā sattānaṃ āgati gati cuti upapatti sabbesaṃ sattānaṃ jarādhammaṃ jīrati.",
+          "en": "‘It’s not just me who has someone liable to old age who grows old. For all sentient beings have someone liable to old age who grows old, as long as sentient beings come and go, die and are reborn."
+        },
+        {
+          "scid": "an5.50:9.4",
+          "pli": "Ahañceva kho pana jarādhamme jiṇṇe soceyyaṃ kilameyyaṃ parideveyyaṃ, urattāḷiṃ kandeyyaṃ, sammohaṃ āpajjeyyaṃ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṃ okkameyya, kammantāpi nappavatteyyuṃ, amittāpi attamanā assu, mittāpi dummanā assū’ti.",
+          "en": "If I were to sorrow and pine and lament, beating my breast and falling into confusion, just because someone liable to old age grows old, I’d lose my appetite and my body would become ugly. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’"
+        },
+        {
+          "scid": "an5.50:9.5",
+          "pli": "So jarādhamme jiṇṇe socati kilamati paridevati, urattāḷiṃ kandati, sammohaṃ āpajjati.",
+          "en": "And so, when someone liable to old age grows old, they sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "an5.50:9.6",
+          "pli": "Ayaṃ vuccati, mahārāja:",
+          "en": "This is called"
+        },
+        {
+          "scid": "an5.50:9.7",
+          "pli": "‘assutavā puthujjano viddho savisena sokasallena attānaṃyeva paritāpeti’.",
+          "en": "an uneducated ordinary person struck by sorrow’s poisoned arrow, who only mortifies themselves."
+        },
+        {
+          "scid": "an5.50:10.1",
+          "pli": "Puna caparaṃ, mahārāja, assutavato puthujjanassa byādhidhammaṃ byādhīyati … pe … maraṇadhammaṃ mīyati … khayadhammaṃ khīyati … nassanadhammaṃ nassati.",
+          "en": "Furthermore, an uneducated ordinary person has someone liable to sickness … death … ending … perishing."
+        },
+        {
+          "scid": "an5.50:10.2",
+          "pli": "So nassanadhamme naṭṭhe na iti paṭisañcikkhati:",
+          "en": "But they don’t reflect on the nature of perishing:"
+        },
+        {
+          "scid": "an5.50:10.3",
+          "pli": "‘na kho mayhevekassa nassanadhammaṃ nassati, atha kho yāvatā sattānaṃ āgati gati cuti upapatti sabbesaṃ sattānaṃ nassanadhammaṃ nassati.",
+          "en": "‘It’s not just me who has someone liable to perishing who perishes. For all sentient beings have someone liable to perishing who perishes, as long as sentient beings come and go, die and are reborn."
+        },
+        {
+          "scid": "an5.50:10.4",
+          "pli": "Ahañceva kho pana nassanadhamme naṭṭhe soceyyaṃ kilameyyaṃ parideveyyaṃ, urattāḷiṃ kandeyyaṃ, sammohaṃ āpajjeyyaṃ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṃ okkameyya, kammantāpi nappavatteyyuṃ, amittāpi attamanā assu, mittāpi dummanā assū’ti.",
+          "en": "If I were to sorrow and pine and lament, beating my breast and falling into confusion, just because someone liable to perishing perishes, I’d lose my appetite and my body would become ugly. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’"
+        },
+        {
+          "scid": "an5.50:10.5",
+          "pli": "So nassanadhamme naṭṭhe socati kilamati paridevati, urattāḷiṃ kandati, sammohaṃ āpajjati.",
+          "en": "And so, when someone liable to perishing perishes, they sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "an5.50:10.6",
+          "pli": "Ayaṃ vuccati, mahārāja:",
+          "en": "This is called"
+        },
+        {
+          "scid": "an5.50:10.7",
+          "pli": "‘assutavā puthujjano viddho savisena sokasallena attānaṃyeva paritāpeti’.",
+          "en": "an uneducated ordinary person struck by sorrow’s poisoned arrow, who only mortifies themselves."
+        },
+        {
+          "scid": "an5.50:11.1",
+          "pli": "Sutavato ca kho, mahārāja, ariyasāvakassa jarādhammaṃ jīrati.",
+          "en": "An educated noble disciple has someone liable to old age who grows old."
+        },
+        {
+          "scid": "an5.50:11.2",
+          "pli": "So jarādhamme jiṇṇe iti paṭisañcikkhati:",
+          "en": "So they reflect on the nature of old age:"
+        },
+        {
+          "scid": "an5.50:11.3",
+          "pli": "‘na kho mayhevekassa jarādhammaṃ jīrati, atha kho yāvatā sattānaṃ āgati gati cuti upapatti sabbesaṃ sattānaṃ jarādhammaṃ jīrati.",
+          "en": "‘It’s not just me who has someone liable to old age who grows old. For all sentient beings have someone liable to old age who grows old, as long as sentient beings come and go, die and are reborn."
+        },
+        {
+          "scid": "an5.50:11.4",
+          "pli": "Ahañceva kho pana jarādhamme jiṇṇe soceyyaṃ kilameyyaṃ parideveyyaṃ, urattāḷiṃ kandeyyaṃ, sammohaṃ āpajjeyyaṃ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṃ okkameyya, kammantāpi nappavatteyyuṃ, amittāpi attamanā assu, mittāpi dummanā assū’ti.",
+          "en": "If I were to sorrow and pine and lament, beating my breast and falling into confusion, just because someone liable to old age grows old, I’d lose my appetite and my body would become ugly. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’"
+        },
+        {
+          "scid": "an5.50:11.5",
+          "pli": "So jarādhamme jiṇṇe na socati na kilamati na paridevati, na urattāḷiṃ kandati, na sammohaṃ āpajjati.",
+          "en": "And so, when someone liable to old age grows old, they don’t sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "an5.50:11.6",
+          "pli": "Ayaṃ vuccati, mahārāja:",
+          "en": "This is called"
+        },
+        {
+          "scid": "an5.50:11.7",
+          "pli": "‘sutavā ariyasāvako abbuhi savisaṃ sokasallaṃ, yena viddho assutavā puthujjano attānaṃyeva paritāpeti.",
+          "en": "an educated noble disciple who has drawn out sorrow’s poisoned arrow, struck by which uneducated ordinary people only mortify themselves."
+        },
+        {
+          "scid": "an5.50:11.8",
+          "pli": "Asoko visallo ariyasāvako attānaṃyeva parinibbāpeti’.",
+          "en": "Sorrowless, free of thorns, that noble disciple only extinguishes themselves."
+        },
+        {
+          "scid": "an5.50:12.1",
+          "pli": "Puna caparaṃ, mahārāja, sutavato ariyasāvakassa byādhidhammaṃ byādhīyati … pe … maraṇadhammaṃ mīyati … khayadhammaṃ khīyati … nassanadhammaṃ nassati.",
+          "en": "Furthermore, an educated noble disciple has someone liable to sickness… death … ending … perishing."
+        },
+        {
+          "scid": "an5.50:12.2",
+          "pli": "So nassanadhamme naṭṭhe iti paṭisañcikkhati:",
+          "en": "So they reflect on the nature of perishing:"
+        },
+        {
+          "scid": "an5.50:12.3",
+          "pli": "‘na kho mayhevekassa nassanadhammaṃ nassati, atha kho yāvatā sattānaṃ āgati gati cuti upapatti sabbesaṃ sattānaṃ nassanadhammaṃ nassati.",
+          "en": "‘It’s not just me who has someone liable to perishing who perishes. For all sentient beings have someone liable to perishing who perishes, as long as sentient beings come and go, die and are reborn."
+        },
+        {
+          "scid": "an5.50:12.4",
+          "pli": "Ahañceva kho pana nassanadhamme naṭṭhe soceyyaṃ kilameyyaṃ parideveyyaṃ, urattāḷiṃ kandeyyaṃ, sammohaṃ āpajjeyyaṃ, bhattampi me nacchādeyya, kāyepi dubbaṇṇiyaṃ okkameyya, kammantāpi nappavatteyyuṃ, amittāpi attamanā assu, mittāpi dummanā assū’ti.",
+          "en": "If I were to sorrow and pine and lament, beating my breast and falling into confusion, just because someone liable to perishing perishes, I’d lose my appetite and my body would become ugly. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’"
+        },
+        {
+          "scid": "an5.50:12.5",
+          "pli": "So nassanadhamme naṭṭhe na socati na kilamati na paridevati, na urattāḷiṃ kandati, na sammohaṃ āpajjati.",
+          "en": "And so, when someone liable to perishing perishes, they don’t sorrow and pine and lament, beating their breast and falling into confusion."
+        },
+        {
+          "scid": "an5.50:12.6",
+          "pli": "Ayaṃ vuccati, mahārāja:",
+          "en": "This is called"
+        },
+        {
+          "scid": "an5.50:12.7",
+          "pli": "‘sutavā ariyasāvako abbuhi savisaṃ sokasallaṃ, yena viddho assutavā puthujjano attānaṃyeva paritāpeti.",
+          "en": "an educated noble disciple who has drawn out sorrow’s poisoned arrow, struck by which uneducated ordinary people only mortify themselves."
+        },
+        {
+          "scid": "an5.50:12.8",
+          "pli": "Asoko visallo ariyasāvako attānaṃyeva parinibbāpeti’.",
+          "en": "Sorrowless, free of thorns, that noble disciple only extinguishes themselves."
+        },
+        {
+          "scid": "an5.50:13.1",
+          "pli": "Imāni kho, mahārāja, pañca alabbhanīyāni ṭhānāni samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti.",
+          "en": "These are the five things that cannot be had by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world."
+        },
+        {
+          "scid": "an5.50:14.1",
+          "pli": "Na socanāya paridevanāya,",
+          "en": "Sorrowing and lamenting"
+        },
+        {
+          "scid": "an5.50:14.2",
+          "pli": "Atthodha labbhā api appakopi;",
+          "en": "doesn’t do even a little bit of good."
+        },
+        {
+          "scid": "an5.50:14.3",
+          "pli": "Socantamenaṃ dukhitaṃ viditvā,",
+          "en": "When they know that you’re sad,"
+        },
+        {
+          "scid": "an5.50:14.4",
+          "pli": "Paccatthikā attamanā bhavanti.",
+          "en": "your enemies are encouraged."
+        },
+        {
+          "scid": "an5.50:15.1",
+          "pli": "Yato ca kho paṇḍito āpadāsu,",
+          "en": "When an astute person doesn’t waver in the face of adversity,"
+        },
+        {
+          "scid": "an5.50:15.2",
+          "pli": "Na vedhatī atthavinicchayaññū;",
+          "en": "as they’re able to distinguish what’s beneficial,"
+        },
+        {
+          "scid": "an5.50:15.3",
+          "pli": "Paccatthikāssa dukhitā bhavanti,",
+          "en": "their enemies suffer,"
+        },
+        {
+          "scid": "an5.50:15.4",
+          "pli": "Disvā mukhaṃ avikāraṃ purāṇaṃ.",
+          "en": "seeing that their normal expression doesn’t change."
+        },
+        {
+          "scid": "an5.50:16.1",
+          "pli": "Jappena mantena subhāsitena,",
+          "en": "Chants, recitations, fine sayings,"
+        },
+        {
+          "scid": "an5.50:16.2",
+          "pli": "Anuppadānena paveṇiyā vā;",
+          "en": "charity or traditions:"
+        },
+        {
+          "scid": "an5.50:16.3",
+          "pli": "Yathā yathā yattha labhetha atthaṃ,",
+          "en": "if by means of any such things you benefit,"
+        },
+        {
+          "scid": "an5.50:16.4",
+          "pli": "Tathā tathā tattha parakkameyya.",
+          "en": "then by all means keep doing them."
+        },
+        {
+          "scid": "an5.50:17.1",
+          "pli": "Sace pajāneyya alabbhaneyyo,",
+          "en": "But if you understand that ‘this good thing"
+        },
+        {
+          "scid": "an5.50:17.2",
+          "pli": "Mayāva aññena vā esa attho;",
+          "en": "can’t be had by me or by anyone else’,"
+        },
+        {
+          "scid": "an5.50:17.3",
+          "pli": "Asocamāno adhivāsayeyya,",
+          "en": "you should accept it without sorrowing, thinking:"
+        },
+        {
+          "scid": "an5.50:17.4",
+          "pli": "Kammaṃ daḷhaṃ kinti karomi dānī”ti.",
+          "en": "‘The karma is strong. What can I do now?’”"
+        },
+        {
+          "scid": "an5.50:18.1",
+          "pli": "Evaṃ vutte, muṇḍo rājā āyasmantaṃ nāradaṃ etadavoca:",
+          "en": "When he said this, King Muṇḍa said to Venerable Nārada:"
+        },
+        {
+          "scid": "an5.50:18.2",
+          "pli": "“ko nāmo ayaṃ, bhante, dhammapariyāyo”ti?",
+          "en": "“Sir, what is the name of this exposition of the teaching?”"
+        },
+        {
+          "scid": "an5.50:18.3",
+          "pli": "“Sokasallaharaṇo nāma ayaṃ, mahārāja, dhammapariyāyo”ti.",
+          "en": "“Great king, this exposition of the teaching is called ‘Pulling Out Sorrow’s Arrow’.”"
+        },
+        {
+          "scid": "an5.50:18.4",
+          "pli": "“Taggha, bhante, sokasallaharaṇo.",
+          "en": "“Indeed, sir, this is the pulling out of sorrow’s arrow!"
+        },
+        {
+          "scid": "an5.50:18.5",
+          "pli": "Imañhi me, bhante, dhammapariyāyaṃ sutvā sokasallaṃ pahīnan”ti.",
+          "en": "Hearing this exposition of the teaching, I’ve given up sorrow’s arrow.”"
+        },
+        {
+          "scid": "an5.50:19.1",
+          "pli": "Atha kho muṇḍo rājā piyakaṃ kosārakkhaṃ āmantesi:",
+          "en": "Then King Muṇḍa addressed his treasurer, Piyaka:"
+        },
+        {
+          "scid": "an5.50:19.2",
+          "pli": "“tena hi, samma piyaka, bhaddāya deviyā sarīraṃ jhāpetha; thūpañcassā karotha.",
+          "en": "“Well then, my good Piyaka, cremate Queen Bhaddā’s corpse and build a monument."
+        },
+        {
+          "scid": "an5.50:19.3",
+          "pli": "Ajjatagge dāni mayaṃ nhāyissāma ceva vilimpissāma bhattañca bhuñjissāma kammante ca payojessāmā”ti.",
+          "en": "From this day forth, I will bathe, anoint myself, eat my meals, and apply myself to my work.”"
+        },
+        {
+          "scid": "an5.50:19.4",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an5.50:19.5",
+          "pli": "Muṇḍarājavaggo pañcamo.",
+          "en": ""
+        },
+        {
+          "scid": "an5.50:20.1",
+          "pli": "Ādiyo sappuriso iṭṭhā,",
+          "en": ""
+        },
+        {
+          "scid": "an5.50:20.2",
+          "pli": "manāpadāyībhisandaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "an5.50:20.3",
+          "pli": "Sampadā ca dhanaṃ ṭhānaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "an5.50:20.4",
+          "pli": "kosalo nāradena cāti.",
+          "en": ""
+        },
+        {
+          "scid": "an5.50:20.5",
+          "pli": "Paṭhamo paṇṇāsako samatto.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time Venerable Nārada was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.50/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.50",
+    "volpages": "AN iii 57",
+    "uid": "an5.50",
+    "blurb": "Depressed by the death of Queen Bhaddā, King Muṇḍa of Rājagaha neglects his duties, and broods by the side of his beloved’s corpse. Venerable Nārada eases his grief.",
+    "difficulty": null,
+    "original_title": "Nārada Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Nārada",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.50_sujato",
+        "segmented": true,
+        "title": "With Nārada"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an5.50_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Nārada"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 10
+  }
+}

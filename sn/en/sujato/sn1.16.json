@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.16",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.16",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Sleepiness and Sloth",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hard to Do",
+      "uid": "sn1.17"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Whispering",
+      "uid": "sn1.15"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.16:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.16:0.2",
+          "pli": "2. Nandanavagga",
+          "en": "2. The Garden of Delight"
+        },
+        {
+          "scid": "sn1.16:0.3",
+          "pli": "16. Niddātandīsutta",
+          "en": "16. Sleepiness and Sloth"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.16:1.1",
+          "pli": "“Niddā tandī vijambhitā,",
+          "en": "“Sleepiness, sloth, and yawning,"
+        },
+        {
+          "scid": "sn1.16:1.2",
+          "pli": "Aratī bhattasammado;",
+          "en": "discontent, and sleepiness after eating:"
+        },
+        {
+          "scid": "sn1.16:1.3",
+          "pli": "Etena nappakāsati,",
+          "en": "because of this the noble path"
+        },
+        {
+          "scid": "sn1.16:1.4",
+          "pli": "Ariyamaggo idha pāṇinan”ti.",
+          "en": "isn’t clear for living creatures here.”"
+        },
+        {
+          "scid": "sn1.16:2.1",
+          "pli": "“Niddaṃ tandiṃ vijambhitaṃ,",
+          "en": "“Sleepiness, sloth, and yawning,"
+        },
+        {
+          "scid": "sn1.16:2.2",
+          "pli": "Aratiṃ bhattasammadaṃ;",
+          "en": "discontent, and sleepiness after eating:"
+        },
+        {
+          "scid": "sn1.16:2.3",
+          "pli": "Vīriyena naṃ paṇāmetvā,",
+          "en": "when this is energetically fended off,"
+        },
+        {
+          "scid": "sn1.16:2.4",
+          "pli": "Ariyamaggo visujjhatī”ti.",
+          "en": "the noble path is cleared.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Sleepiness…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.16/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.16//SN 16",
+    "volpages": "SN i 7//SN i 14",
+    "uid": "sn1.16",
+    "blurb": "Laziness is an obstruction to the path.",
+    "difficulty": null,
+    "original_title": "Niddātandī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sleepiness and Sloth",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.16_sujato",
+        "segmented": true,
+        "title": "Sleepiness and Sloth"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.16_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Drowsiness and Lethargy"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 6
+  }
+}

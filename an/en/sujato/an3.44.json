@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an3.44",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.44",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "When Conversation Flows",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wise",
+      "uid": "an3.45"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Good Reasons",
+      "uid": "an3.43"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.44:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.44:0.2",
+          "pli": "5. Cūḷavagga",
+          "en": "5. The Lesser Chapter"
+        },
+        {
+          "scid": "an3.44:0.3",
+          "pli": "44. Kathāpavattisutta",
+          "en": "44. When Conversation Flows"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.44:1.1",
+          "pli": "“Tīhi, bhikkhave, ṭhānehi kathā pavattinī hoti.",
+          "en": "“In three situations, mendicants, conversation flows."
+        },
+        {
+          "scid": "an3.44:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.44:1.3",
+          "pli": "Yo dhammaṃ deseti so atthappaṭisaṃvedī ca hoti dhammappaṭisaṃvedī ca.",
+          "en": "When the teacher understands the meaning and the teaching."
+        },
+        {
+          "scid": "an3.44:1.4",
+          "pli": "Yo dhammaṃ suṇāti so atthappaṭisaṃvedī ca hoti dhammappaṭisaṃvedī ca.",
+          "en": "When the audience understands the meaning and the teaching."
+        },
+        {
+          "scid": "an3.44:1.5",
+          "pli": "Yo ceva dhammaṃ deseti yo ca dhammaṃ suṇāti ubho atthappaṭisaṃvedino ca honti dhammappaṭisaṃvedino ca.",
+          "en": "When both the teacher and the audience understand the meaning and the teaching."
+        },
+        {
+          "scid": "an3.44:1.6",
+          "pli": "Imehi kho, bhikkhave, tīhi ṭhānehi kathā pavattinī hotī”ti.",
+          "en": "These are the three situations in which conversation flows.”"
+        },
+        {
+          "scid": "an3.44:1.7",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“In three situations…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.44/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.44",
+    "volpages": "AN i 151",
+    "uid": "an3.44",
+    "blurb": "Teachers and audience should have understanding.",
+    "difficulty": null,
+    "original_title": "Kathāpavatti Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "When Conversation Flows",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.44_sujato",
+        "segmented": true,
+        "title": "When Conversation Flows"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.44_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Smooth Flow"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

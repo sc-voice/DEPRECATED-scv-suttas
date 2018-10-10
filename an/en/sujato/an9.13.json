@@ -1,0 +1,325 @@
+{
+  "sutta_uid": "an9.13",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.13",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Koṭṭhita",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Samiddhi",
+      "uid": "an9.14"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Something Left Over",
+      "uid": "an9.12"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.13:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.13:0.2",
+          "pli": "2. Sīhanādavagga",
+          "en": "2. The Lion’s Roar"
+        },
+        {
+          "scid": "an9.13:0.3",
+          "pli": "13. Koṭṭhikasutta",
+          "en": "13. With Koṭṭhita"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.13:1.1",
+          "pli": "Atha kho āyasmā mahākoṭṭhiko yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodi.",
+          "en": "Then Venerable Mahākoṭṭhita went up to Venerable Sāriputta, and exchanged greetings with him."
+        },
+        {
+          "scid": "an9.13:1.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā mahākoṭṭhiko āyasmantaṃ sāriputtaṃ etadavoca:",
+          "en": "When the greetings and polite conversation were over, he sat down to one side and said to Sāriputta:"
+        },
+        {
+          "scid": "an9.13:1.3",
+          "pli": "“kiṃ nu kho, āvuso sāriputta, ‘yaṃ kammaṃ diṭṭhadhammavedanīyaṃ, taṃ me kammaṃ samparāyavedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Reverend Sāriputta, is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced in this life be experienced by me in lives to come’?”"
+        },
+        {
+          "scid": "an9.13:1.4",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not, reverend.”"
+        },
+        {
+          "scid": "an9.13:2.1",
+          "pli": "“Kiṃ panāvuso sāriputta, ‘yaṃ kammaṃ samparāyavedanīyaṃ taṃ me kammaṃ diṭṭhadhammavedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Then is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced in lives to come be experienced by me in this life’?”"
+        },
+        {
+          "scid": "an9.13:2.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:3.1",
+          "pli": "“Kiṃ nu kho, āvuso sāriputta, ‘yaṃ kammaṃ sukhavedanīyaṃ, taṃ me kammaṃ dukkhavedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced as pleasant be experienced by me as painful’?”"
+        },
+        {
+          "scid": "an9.13:3.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:4.1",
+          "pli": "“Kiṃ panāvuso, sāriputta, ‘yaṃ kammaṃ dukkhavedanīyaṃ, taṃ me kammaṃ sukhavedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Then is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced as painful be experienced by me as pleasant’?”"
+        },
+        {
+          "scid": "an9.13:4.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:5.1",
+          "pli": "“Kiṃ nu kho, āvuso sāriputta, ‘yaṃ kammaṃ paripakkavedanīyaṃ, taṃ me kammaṃ aparipakkavedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced when ripe be experienced by me when unripe’?”"
+        },
+        {
+          "scid": "an9.13:5.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:6.1",
+          "pli": "“Kiṃ panāvuso sāriputta, ‘yaṃ kammaṃ aparipakkavedanīyaṃ, taṃ me kammaṃ paripakkavedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Then is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced when unripe be experienced by me when ripe’?”"
+        },
+        {
+          "scid": "an9.13:6.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:7.1",
+          "pli": "“Kiṃ nu kho, āvuso sāriputta, ‘yaṃ kammaṃ bahuvedanīyaṃ, taṃ me kammaṃ appavedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced a lot be experienced by me a little’?”"
+        },
+        {
+          "scid": "an9.13:7.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:8.1",
+          "pli": "“Kiṃ panāvuso sāriputta, ‘yaṃ kammaṃ appavedanīyaṃ, taṃ me kammaṃ bahuvedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Then is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced a little be experienced by me a lot’?”"
+        },
+        {
+          "scid": "an9.13:8.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:9.1",
+          "pli": "“Kiṃ nu kho, āvuso sāriputta, ‘yaṃ kammaṃ vedanīyaṃ, taṃ me kammaṃ avedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Is the spiritual life lived under the Buddha for this purpose: ‘May deeds to be experienced by me be not experienced’?”"
+        },
+        {
+          "scid": "an9.13:9.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:10.1",
+          "pli": "“Kiṃ panāvuso sāriputta, ‘yaṃ kammaṃ avedanīyaṃ, taṃ me kammaṃ vedanīyaṃ hotū’ti, etassa atthāya bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "“Then is the spiritual life lived under the Buddha for this purpose: ‘May deeds not to be experienced be experienced’?”"
+        },
+        {
+          "scid": "an9.13:10.2",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“Certainly not.”"
+        },
+        {
+          "scid": "an9.13:11.1",
+          "pli": "“‘Kiṃ nu kho, āvuso sāriputta, yaṃ kammaṃ diṭṭhadhammavedanīyaṃ taṃ me kammaṃ samparāyavedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "“Reverend Sāriputta, when you were asked whether the spiritual life was lived under the Buddha so that deeds to be experienced in this life are experienced in lives to come, you said, ‘Certainly not’."
+        },
+        {
+          "scid": "an9.13:12.1",
+          "pli": "‘Kiṃ panāvuso sāriputta, yaṃ kammaṃ samparāyavedanīyaṃ taṃ me kammaṃ diṭṭhadhammavedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "When you were asked whether the spiritual life was lived under the Buddha so that deeds to be experienced in lives to come are experienced in this life …"
+        },
+        {
+          "scid": "an9.13:13.1",
+          "pli": "‘Kiṃ nu kho, āvuso sāriputta, yaṃ kammaṃ sukhavedanīyaṃ taṃ me kammaṃ dukkhavedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "deeds to be experienced as pleasant are experienced as painful …"
+        },
+        {
+          "scid": "an9.13:14.1",
+          "pli": "‘Kiṃ panāvuso sāriputta, yaṃ kammaṃ dukkhavedanīyaṃ taṃ me kammaṃ sukhavedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "deeds to be experienced as painful are experienced as pleasant …"
+        },
+        {
+          "scid": "an9.13:15.1",
+          "pli": "‘Kiṃ nu kho, āvuso sāriputta, yaṃ kammaṃ paripakkavedanīyaṃ taṃ me kammaṃ aparipakkavedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "deeds to be experienced when ripe are experienced when unripe …"
+        },
+        {
+          "scid": "an9.13:16.1",
+          "pli": "‘Kiṃ panāvuso sāriputta, yaṃ kammaṃ aparipakkavedanīyaṃ taṃ me kammaṃ paripakkavedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "deeds to be experienced when unripe are experienced when ripe …"
+        },
+        {
+          "scid": "an9.13:17.1",
+          "pli": "‘Kiṃ nu kho, āvuso sāriputta, yaṃ kammaṃ bahuvedanīyaṃ taṃ me kammaṃ appavedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "deeds to be experienced a lot are experienced a little …"
+        },
+        {
+          "scid": "an9.13:18.1",
+          "pli": "‘Kiṃ panāvuso sāriputta, yaṃ kammaṃ appavedanīyaṃ taṃ me kammaṃ bahuvedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "deeds to be experienced a little are experienced a lot …"
+        },
+        {
+          "scid": "an9.13:19.1",
+          "pli": "‘Kiṃ nu kho, āvuso sāriputta, yaṃ kammaṃ vedanīyaṃ taṃ me kammaṃ avedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "deeds to be experienced are not experienced …"
+        },
+        {
+          "scid": "an9.13:20.1",
+          "pli": "‘Kiṃ panāvuso sāriputta, yaṃ kammaṃ avedanīyaṃ taṃ me kammaṃ vedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
+          "en": "When you were asked whether the spiritual life was lived under the Buddha so that deeds not to be experienced in lives are experienced, you said, ‘Certainly not.’"
+        },
+        {
+          "scid": "an9.13:20.2",
+          "pli": "Atha kimatthaṃ carahāvuso, bhagavati brahmacariyaṃ vussatī”ti?",
+          "en": "Then what exactly is the purpose of living the spiritual life under the Buddha?”"
+        },
+        {
+          "scid": "an9.13:21.1",
+          "pli": "“Yaṃ khvassa, āvuso, aññātaṃ adiṭṭhaṃ appattaṃ asacchikataṃ anabhisametaṃ, tassa ñāṇāya dassanāya pattiyā sacchikiriyāya abhisamayāya bhagavati brahmacariyaṃ vussatīti.",
+          "en": "“Reverend, the spiritual life is lived under the Buddha to know, see, attain, realize, and comprehend that which is unknown, unseen, unattained, unrealized, and uncomprehended.”"
+        },
+        {
+          "scid": "an9.13:21.2",
+          "pli": "Kiṃ panassāvuso, aññātaṃ adiṭṭhaṃ appattaṃ asacchikataṃ anabhisametaṃ, yassa ñāṇāya dassanāya pattiyā sacchikiriyāya abhisamayāya bhagavati brahmacariyaṃ vussatīti?",
+          "en": "“But what is the unknown, unseen, unattained, unrealized, and uncomprehended?”"
+        },
+        {
+          "scid": "an9.13:21.3",
+          "pli": "‘Idaṃ dukkhan’ti khvassa, āvuso, aññātaṃ adiṭṭhaṃ appattaṃ asacchikataṃ anabhisametaṃ.",
+          "en": "“‘This is suffering.’ …"
+        },
+        {
+          "scid": "an9.13:21.4",
+          "pli": "Tassa ñāṇāya dassanāya pattiyā sacchikiriyāya abhisamayāya bhagavati brahmacariyaṃ vussati.",
+          "en": ""
+        },
+        {
+          "scid": "an9.13:21.5",
+          "pli": "‘Ayaṃ dukkhasamudayo’ti khvassa, āvuso … pe … ‘ayaṃ dukkhanirodho’ti khvassa, āvuso … pe …",
+          "en": "‘This is the origin of suffering.’ … ‘This is the cessation of suffering.’ …"
+        },
+        {
+          "scid": "an9.13:21.6",
+          "pli": "‘ayaṃ dukkhanirodhagāminī paṭipadā’ti khvassa, āvuso, aññātaṃ adiṭṭhaṃ appattaṃ asacchikataṃ anabhisametaṃ.",
+          "en": "‘This is the practice that leads to the cessation of suffering.’ …"
+        },
+        {
+          "scid": "an9.13:21.7",
+          "pli": "Tassa ñāṇāya dassanāya pattiyā sacchikiriyāya abhisamayāya bhagavati brahmacariyaṃ vussati.",
+          "en": ""
+        },
+        {
+          "scid": "an9.13:21.8",
+          "pli": "Idaṃ khvassa, āvuso, aññātaṃ adiṭṭhaṃ appattaṃ asacchikataṃ anabhisametaṃ.",
+          "en": "This is the unknown, unseen, unattained, unrealized, and uncomprehended."
+        },
+        {
+          "scid": "an9.13:21.9",
+          "pli": "Tassa ñāṇāya dassanāya pattiyā sacchikiriyāya abhisamayāya bhagavati brahmacariyaṃ vussatī”ti.",
+          "en": "The spiritual life is lived under the Buddha to know, see, attain, realize, and comprehend this.”"
+        },
+        {
+          "scid": "an9.13:21.10",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then Venerable Mahākoṭṭhita went up to Venerable…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.13/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.13",
+    "volpages": "AN iv 382",
+    "uid": "an9.13",
+    "blurb": "Venerables Mahākoṭṭhita and Sāriputta discuss whether the spiritual path is for the purpose of changing the results of deeds.",
+    "difficulty": null,
+    "original_title": "Koṭṭhika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Koṭṭhita",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.13_sujato",
+        "segmented": true,
+        "title": "With Koṭṭhita"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an9.13_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "With Kotthita"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 3
+  }
+}

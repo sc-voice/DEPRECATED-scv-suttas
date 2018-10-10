@@ -1,0 +1,335 @@
+{
+  "sutta_uid": "an7.71",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.71",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Committed to Development",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Simile of the Bonfire",
+      "uid": "an7.72"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Honor",
+      "uid": "an7.70"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.71:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.71:0.2",
+          "pli": "7. Mahāvagga",
+          "en": "7. The Great Chapter"
+        },
+        {
+          "scid": "an7.71:0.3",
+          "pli": "71. Bhāvanāsutta",
+          "en": "71. Committed to Development"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.71:1.1",
+          "pli": "“Bhāvanaṃ ananuyuttassa, bhikkhave, bhikkhuno viharato kiñcāpi evaṃ icchā uppajjeyya:",
+          "en": "“Mendicants, when a mendicant is not committed to development, they might wish:"
+        },
+        {
+          "scid": "an7.71:1.2",
+          "pli": "‘aho vata me anupādāya āsavehi cittaṃ vimucceyyā’ti, ",
+          "en": "‘If only my mind were freed from the defilements by not grasping!’ "
+        },
+        {
+          "scid": "an7.71:1.3",
+          "pli": "atha khvassa neva anupādāya āsavehi cittaṃ vimuccati.",
+          "en": "Even so, their mind is not freed from defilements by not grasping."
+        },
+        {
+          "scid": "an7.71:1.4",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.71:1.5",
+          "pli": "‘Abhāvitattā’tissa vacanīyaṃ.",
+          "en": "It’s because they’re undeveloped."
+        },
+        {
+          "scid": "an7.71:1.6",
+          "pli": "Kissa abhāvitattā?",
+          "en": "Undeveloped in what?"
+        },
+        {
+          "scid": "an7.71:1.7",
+          "pli": "Catunnaṃ satipaṭṭhānānaṃ, catunnaṃ sammappadhānānaṃ, catunnaṃ iddhipādānaṃ, pañcannaṃ indriyānaṃ, pañcannaṃ balānaṃ, sattannaṃ bojjhaṅgānaṃ, ariyassa aṭṭhaṅgikassa maggassa.",
+          "en": "The four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path."
+        },
+        {
+          "scid": "an7.71:2.1",
+          "pli": "Seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā.",
+          "en": "Suppose there was a chicken with eight or ten or twelve eggs."
+        },
+        {
+          "scid": "an7.71:2.2",
+          "pli": "Tānassu kukkuṭiyā na sammā adhisayitāni, na sammā pariseditāni, na sammā paribhāvitāni.",
+          "en": "But she had not properly sat on them to keep them warm and incubated."
+        },
+        {
+          "scid": "an7.71:2.3",
+          "pli": "Kiñcāpi tassā kukkuṭiyā evaṃ icchā uppajjeyya:",
+          "en": "Even if that chicken might wish:"
+        },
+        {
+          "scid": "an7.71:2.4",
+          "pli": "‘aho vata me kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṃ padāletvā sotthinā abhinibbhijjeyyun’ti, ",
+          "en": "‘If only my chicks could break out of the eggshell with their claws and beak and hatch safely!’ "
+        },
+        {
+          "scid": "an7.71:2.5",
+          "pli": "atha kho abhabbāva te kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṃ padāletvā sotthinā abhinibbhijjituṃ.",
+          "en": "Still they can’t break out and hatch safely."
+        },
+        {
+          "scid": "an7.71:2.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.71:2.7",
+          "pli": "Tathā hi, bhikkhave, kukkuṭiyā aṇḍāni na sammā adhisayitāni, na sammā pariseditāni, na sammā paribhāvitāni.",
+          "en": "Because she has not properly sat on them to keep them warm and incubated."
+        },
+        {
+          "scid": "an7.71:2.8",
+          "pli": "Evamevaṃ kho, bhikkhave, bhāvanaṃ ananuyuttassa bhikkhuno viharato kiñcāpi evaṃ icchā uppajjeyya:",
+          "en": "In the same way, when a mendicant is not committed to development, they might wish:"
+        },
+        {
+          "scid": "an7.71:2.9",
+          "pli": "‘aho vata me anupādāya āsavehi cittaṃ vimucceyyā’ti, ",
+          "en": "‘If only my mind was freed from the defilements by not grasping!’ "
+        },
+        {
+          "scid": "an7.71:2.10",
+          "pli": "atha khvassa neva anupādāya āsavehi cittaṃ vimuccati.",
+          "en": "Even so, their mind is not freed from defilements by not grasping."
+        },
+        {
+          "scid": "an7.71:2.11",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.71:2.12",
+          "pli": "‘Abhāvitattā’tissa vacanīyaṃ.",
+          "en": "It’s because they’re undeveloped."
+        },
+        {
+          "scid": "an7.71:2.13",
+          "pli": "Kissa abhāvitattā?",
+          "en": "Undeveloped in what?"
+        },
+        {
+          "scid": "an7.71:2.14",
+          "pli": "Catunnaṃ satipaṭṭhānānaṃ, catunnaṃ sammappadhānānaṃ, catunnaṃ iddhipādānaṃ, pañcannaṃ indriyānaṃ, pañcannaṃ balānaṃ, sattannaṃ bojjhaṅgānaṃ, ariyassa aṭṭhaṅgikassa maggassa.",
+          "en": "The four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path."
+        },
+        {
+          "scid": "an7.71:3.1",
+          "pli": "Bhāvanaṃ anuyuttassa, bhikkhave, bhikkhuno viharato kiñcāpi na evaṃ icchā uppajjeyya:",
+          "en": "When a mendicant is committed to development, they might not wish:"
+        },
+        {
+          "scid": "an7.71:3.2",
+          "pli": "‘aho vata me anupādāya āsavehi cittaṃ vimucceyyā’ti, ",
+          "en": "‘If only my mind was freed from the defilements by not grasping!’ "
+        },
+        {
+          "scid": "an7.71:3.3",
+          "pli": "atha khvassa anupādāya āsavehi cittaṃ vimuccati.",
+          "en": "Even so, their mind is freed from defilements by not grasping."
+        },
+        {
+          "scid": "an7.71:3.4",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.71:3.5",
+          "pli": "‘Bhāvitattā’tissa vacanīyaṃ.",
+          "en": "It’s because they’re developed."
+        },
+        {
+          "scid": "an7.71:3.6",
+          "pli": "Kissa bhāvitattā?",
+          "en": "Developed in what?"
+        },
+        {
+          "scid": "an7.71:3.7",
+          "pli": "Catunnaṃ satipaṭṭhānānaṃ, catunnaṃ sammappadhānānaṃ, catunnaṃ iddhipādānaṃ, pañcannaṃ indriyānaṃ, pañcannaṃ balānaṃ, sattannaṃ bojjhaṅgānaṃ, ariyassa aṭṭhaṅgikassa maggassa.",
+          "en": "The four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path."
+        },
+        {
+          "scid": "an7.71:4.1",
+          "pli": "Seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā.",
+          "en": "Suppose there was a chicken with eight or ten or twelve eggs."
+        },
+        {
+          "scid": "an7.71:4.2",
+          "pli": "Tānassu kukkuṭiyā sammā adhisayitāni, sammā pariseditāni, sammā paribhāvitāni.",
+          "en": "And she properly sat on them to keep them warm and incubated."
+        },
+        {
+          "scid": "an7.71:4.3",
+          "pli": "Kiñcāpi tassā kukkuṭiyā na evaṃ icchā uppajjeyya:",
+          "en": "Even if that chicken doesn’t wish:"
+        },
+        {
+          "scid": "an7.71:4.4",
+          "pli": "‘aho vata me kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṃ padāletvā sotthinā abhinibbhijjeyyun’ti, ",
+          "en": "‘If only my chicks could break out of the eggshell with their claws and beak and hatch safely!’ "
+        },
+        {
+          "scid": "an7.71:4.5",
+          "pli": "atha kho bhabbāva te kukkuṭapotakā pādanakhasikhāya vā mukhatuṇḍakena vā aṇḍakosaṃ padāletvā sotthinā abhinibbhijjituṃ.",
+          "en": "But still they can break out and hatch safely."
+        },
+        {
+          "scid": "an7.71:4.6",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.71:4.7",
+          "pli": "Tathā hi, bhikkhave, kukkuṭiyā aṇḍāni sammā adhisayitāni, sammā pariseditāni, sammā paribhāvitāni.",
+          "en": "Because she properly sat on them to keep them warm and incubated."
+        },
+        {
+          "scid": "an7.71:4.8",
+          "pli": "Evamevaṃ kho, bhikkhave, bhāvanaṃ anuyuttassa bhikkhuno viharato kiñcāpi na evaṃ icchā uppajjeyya:",
+          "en": "In the same way, when a mendicant is committed to development, they might not wish:"
+        },
+        {
+          "scid": "an7.71:4.9",
+          "pli": "‘aho vata me anupādāya āsavehi cittaṃ vimucceyyā’ti, ",
+          "en": "‘If only my mind was freed from the defilements by not grasping!’ "
+        },
+        {
+          "scid": "an7.71:4.10",
+          "pli": "atha khvassa anupādāya āsavehi cittaṃ vimuccati.",
+          "en": "Even so, their mind is freed from defilements by not grasping."
+        },
+        {
+          "scid": "an7.71:4.11",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an7.71:4.12",
+          "pli": "‘Bhāvitattā’tissa vacanīyaṃ.",
+          "en": "It’s because they’re developed."
+        },
+        {
+          "scid": "an7.71:4.13",
+          "pli": "Kissa bhāvitattā?",
+          "en": "Developed in what?"
+        },
+        {
+          "scid": "an7.71:4.14",
+          "pli": "Catunnaṃ satipaṭṭhānānaṃ … pe … ariyassa aṭṭhaṅgikassa maggassa.",
+          "en": "The four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path."
+        },
+        {
+          "scid": "an7.71:5.1",
+          "pli": "Seyyathāpi, bhikkhave, phalagaṇḍassa vā phalagaṇḍantevāsikassa vā dissanteva vāsijaṭe aṅgulipadāni dissati aṅguṭṭhapadaṃ. No ca khvassa evaṃ ñāṇaṃ hoti: ‘ettakaṃ me ajja vāsijaṭassa khīṇaṃ, ettakaṃ hiyyo, ettakaṃ pare’ti, atha khvassa khīṇe ‘khīṇan’teva ñāṇaṃ hoti.",
+          "en": "Suppose a carpenter or their apprentice sees the marks of his fingers and thumb on the handle of his adze. They don’t know how much of the handle was worn away today, how much yesterday, and how much previously. They just know what has been worn away."
+        },
+        {
+          "scid": "an7.71:5.2",
+          "pli": "Evamevaṃ kho, bhikkhave, bhāvanaṃ anuyuttassa bhikkhuno viharato kiñcāpi na evaṃ ñāṇaṃ hoti: ‘ettakaṃ me ajja āsavānaṃ khīṇaṃ, ettakaṃ hiyyo, ettakaṃ pare’ti, atha khvassa khīṇe ‘khīṇan’teva ñāṇaṃ hoti.",
+          "en": "In the same way, when a mendicant is committed to development, they don’t know how much of the defilements were worn away today, how much yesterday, and how much previously. They just know what has been worn away."
+        },
+        {
+          "scid": "an7.71:6.1",
+          "pli": "Seyyathāpi, bhikkhave, sāmuddikāya nāvāya vettabandhanabaddhāya cha māsāni udake pariyādāya hemantikena thale ukkhittāya vātātapaparetāni bandhanāni, tāni pāvussakena meghena abhippavuṭṭhāni appakasireneva parihāyanti, pūtikāni bhavanti.",
+          "en": "Suppose there was a sea-faring ship bound together with ropes. For six months they deteriorated in the water. Then in the cold season it was hauled up on dry land, where the ropes were weathered by wind and sun. When the clouds saturated it with rain, the ropes would readily collapse and rot away."
+        },
+        {
+          "scid": "an7.71:6.2",
+          "pli": "Evamevaṃ kho, bhikkhave, bhāvanaṃ anuyuttassa bhikkhuno viharato appakasireneva saṃyojanāni paṭippassambhanti, pūtikāni bhavantī”ti.",
+          "en": "In the same way, when a mendicant is committed to development their fetters readily collapse and rot away.”"
+        },
+        {
+          "scid": "an7.71:6.3",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.71/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.71//AN 7.67",
+    "volpages": "AN iv 125",
+    "uid": "an7.71",
+    "blurb": "Liberation doesn’t happen because you wish for it, but because you develop the path.",
+    "difficulty": null,
+    "original_title": "Bhāvanā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Committed to Development",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.71_sujato",
+        "segmented": true,
+        "title": "Committed to Development"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 7
+  }
+}

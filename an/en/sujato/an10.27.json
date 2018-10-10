@@ -1,0 +1,655 @@
+{
+  "sutta_uid": "an10.27",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.27",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Great Questions (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Great Questions (2nd)",
+      "uid": "an10.28"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kāḷī",
+      "uid": "an10.26"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.27:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.27:0.2",
+          "pli": "3. Mahāvagga",
+          "en": "3. The Great Chapter"
+        },
+        {
+          "scid": "an10.27:0.3",
+          "pli": "27. Paṭhamamahāpañhāsutta",
+          "en": "27. The Great Questions (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.27:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "an10.27:1.2",
+          "pli": "Atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pavisiṃsu.",
+          "en": "Then several mendicants robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms."
+        },
+        {
+          "scid": "an10.27:1.3",
+          "pli": "Atha kho tesaṃ bhikkhūnaṃ etadahosi:",
+          "en": "Then those mendicants thought:"
+        },
+        {
+          "scid": "an10.27:1.4",
+          "pli": "“atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ;",
+          "en": "“It’s too early to wander for alms in Sāvatthī."
+        },
+        {
+          "scid": "an10.27:1.5",
+          "pli": "yannūna mayaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyyāmā”ti.",
+          "en": "Why don’t we go to the monastery of the wanderers who follow other paths?”"
+        },
+        {
+          "scid": "an10.27:2.1",
+          "pli": "Atha kho te bhikkhū yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkamiṃsu; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṃ sammodiṃsu.",
+          "en": "Then they went to the monastery of the wanderers who follow other paths, and exchanged greetings with the wanderers there."
+        },
+        {
+          "scid": "an10.27:2.2",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinne kho te bhikkhū te aññatitthiyā paribbājakā etadavocuṃ:",
+          "en": "When the greetings and polite conversation were over, they sat down to one side. The wanderers said to them:"
+        },
+        {
+          "scid": "an10.27:3.1",
+          "pli": "“Samaṇo, āvuso, gotamo sāvakānaṃ evaṃ dhammaṃ deseti:",
+          "en": "“Reverends, the ascetic Gotama teaches his disciples like this:"
+        },
+        {
+          "scid": "an10.27:3.2",
+          "pli": "‘etha tumhe, bhikkhave, sabbaṃ dhammaṃ abhijānātha, sabbaṃ dhammaṃ abhiññāya viharathā’ti;",
+          "en": "‘Please, mendicants, have insight into all things. Live having had insight into all things.’"
+        },
+        {
+          "scid": "an10.27:3.3",
+          "pli": "mayampi kho, āvuso, sāvakānaṃ evaṃ dhammaṃ desema:",
+          "en": "We too teach our disciples:"
+        },
+        {
+          "scid": "an10.27:3.4",
+          "pli": "‘etha tumhe, āvuso, sabbaṃ dhammaṃ abhijānātha, sabbaṃ dhammaṃ abhiññāya viharathā’ti.",
+          "en": "‘Please, reverends, have insight into all things. Live having had insight into all things.’"
+        },
+        {
+          "scid": "an10.27:3.5",
+          "pli": "Idha no, āvuso, ko viseso ko adhippayāso kiṃ nānākaraṇaṃ samaṇassa vā gotamassa amhākaṃ vā, yadidaṃ dhammadesanāya vā dhammadesanaṃ anusāsaniyā vā anusāsanin”ti?",
+          "en": "What, then, is the difference between the ascetic Gotama’s teaching and instruction and ours?”"
+        },
+        {
+          "scid": "an10.27:4.1",
+          "pli": "Atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandiṃsu nappaṭikkosiṃsu.",
+          "en": "Those mendicants neither approved nor dismissed that statement of the wanderers who follow other paths."
+        },
+        {
+          "scid": "an10.27:4.2",
+          "pli": "Anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu:",
+          "en": "They got up from their seat, thinking:"
+        },
+        {
+          "scid": "an10.27:4.3",
+          "pli": "“bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā”ti.",
+          "en": "“We will learn the meaning of this statement from the Buddha himself.”"
+        },
+        {
+          "scid": "an10.27:5.1",
+          "pli": "Atha kho te bhikkhū sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
+          "en": "Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what had happened."
+        },
+        {
+          "scid": "an10.27:6.1",
+          "pli": "“Idha mayaṃ, bhante, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pavisimhā.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:6.2",
+          "pli": "Tesaṃ no, bhante, amhākaṃ etadahosi:",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:6.3",
+          "pli": "‘atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ;",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:6.4",
+          "pli": "yannūna mayaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyyāmā’ti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:6.5",
+          "pli": "Atha kho mayaṃ, bhante, yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkamimhā; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṃ sammodimhā.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:6.6",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdimhā. Ekamantaṃ nisinne kho, bhante, aññatitthiyā paribbājakā amhe etadavocuṃ:",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:7.1",
+          "pli": "‘Samaṇo, āvuso, gotamo sāvakānaṃ evaṃ dhammaṃ deseti—",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:7.2",
+          "pli": "etha tumhe, bhikkhave, sabbaṃ dhammaṃ abhijānātha, sabbaṃ dhammaṃ abhiññāya viharathāti;",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:7.3",
+          "pli": "mayampi kho, āvuso, sāvakānaṃ evaṃ dhammaṃ desema—",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:7.4",
+          "pli": "etha tumhe, āvuso, sabbaṃ dhammaṃ abhijānātha, sabbaṃ dhammaṃ abhiññāya viharathāti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:7.5",
+          "pli": "Idha no, āvuso, ko viseso ko adhippayāso kiṃ nānākaraṇaṃ samaṇassa vā gotamassa amhākaṃ vā, yadidaṃ dhammadesanāya vā dhammadesanaṃ anusāsaniyā vā anusāsanin’ti?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:8.1",
+          "pli": "Atha kho mayaṃ, bhante, tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandimhā nappaṭikkosimhā.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:8.2",
+          "pli": "Anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamimhā:",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:8.3",
+          "pli": "‘bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:9.1",
+          "pli": "“Evaṃvādino, bhikkhave, aññatitthiyā paribbājakā evamassu vacanīyā:",
+          "en": "“Mendicants, when wanderers who follow other paths say this, you should say to them:"
+        },
+        {
+          "scid": "an10.27:9.2",
+          "pli": "‘eko, āvuso, pañho eko uddeso ekaṃ veyyākaraṇaṃ, dve pañhā dve uddesā dve veyyākaraṇāni, tayo pañhā tayo uddesā tīṇi veyyākaraṇāni, cattāro pañhā cattāro uddesā cattāri veyyākaraṇāni, pañca pañhā pañcuddesā pañca veyyākaraṇāni, cha pañhā cha uddesā cha veyyākaraṇāni, satta pañhā sattuddesā satta veyyākaraṇāni, aṭṭha pañhā aṭṭhuddesā aṭṭha veyyākaraṇāni, nava pañhā navuddesā nava veyyākaraṇāni, dasa pañhā dasuddesā dasa veyyākaraṇānī’ti.",
+          "en": "‘One thing: question, passage for recitation, and answer. Two … three … four … five … six … seven … eight … nine … ten things: question, passage for recitation, and answer.’"
+        },
+        {
+          "scid": "an10.27:9.3",
+          "pli": "Evaṃ puṭṭhā, bhikkhave, aññatitthiyā paribbājakā na ceva sampāyissanti, uttari ca vighātaṃ āpajjissanti.",
+          "en": "Questioned like this, the wanderers who follow other paths would be stumped, and, in addition, would get frustrated."
+        },
+        {
+          "scid": "an10.27:9.4",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "an10.27:9.5",
+          "pli": "Yathā taṃ, bhikkhave, avisayasmiṃ.",
+          "en": "Because they’re out of their element."
+        },
+        {
+          "scid": "an10.27:9.6",
+          "pli": "Nāhaṃ taṃ, bhikkhave, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yo imesaṃ pañhānaṃ veyyākaraṇena cittaṃ ārādheyya, aññatra tathāgatena vā tathāgatasāvakena vā ito vā pana sutvā.",
+          "en": "I don’t see anyone in this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—who could provide a satisfying answer to these questions except for the Realized One or his disciple or someone who has heard it from them."
+        },
+        {
+          "scid": "an10.27:10.1",
+          "pli": "‘Eko pañho eko uddeso ekaṃ veyyākaraṇan’ti, ",
+          "en": "‘One thing: question, passage for recitation, and answer.’ "
+        },
+        {
+          "scid": "an10.27:10.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an10.27:10.3",
+          "pli": "Ekadhamme, bhikkhave, bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": "Becoming completely disillusioned with one thing—completely dispassionate and freed from it, seeing its limits and fully comprehending its meaning—a mendicant makes an end of suffering in this very life."
+        },
+        {
+          "scid": "an10.27:10.4",
+          "pli": "Katamasmiṃ ekadhamme?",
+          "en": "What one thing?"
+        },
+        {
+          "scid": "an10.27:10.5",
+          "pli": "‘Sabbe sattā āhāraṭṭhitikā’—",
+          "en": "‘All sentient beings are sustained by food.’"
+        },
+        {
+          "scid": "an10.27:10.6",
+          "pli": "imasmiṃ kho, bhikkhave, ekadhamme bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": "Becoming completely disillusioned, dispassionate, and freed with this one thing, seeing its limits and fully comprehending its meaning, a mendicant makes an end of suffering in this very life."
+        },
+        {
+          "scid": "an10.27:10.7",
+          "pli": "‘Eko pañho eko uddeso ekaṃ veyyākaraṇan’ti, ",
+          "en": "‘One thing: question, passage for recitation, and answer.’ "
+        },
+        {
+          "scid": "an10.27:10.8",
+          "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (1)",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "an10.27:11.1",
+          "pli": "‘Dve pañhā dve uddesā dve veyyākaraṇānī’ti, iti kho panetaṃ vuttaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:11.2",
+          "pli": "Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:11.3",
+          "pli": "Dvīsu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:11.4",
+          "pli": "Katamesu dvīsu?",
+          "en": "What two?"
+        },
+        {
+          "scid": "an10.27:11.5",
+          "pli": "Nāme ca rūpe ca—",
+          "en": "Name and form. …"
+        },
+        {
+          "scid": "an10.27:11.6",
+          "pli": "imesu kho, bhikkhave, dvīsu dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:11.7",
+          "pli": "‘Dve pañhā dve uddesā dve veyyākaraṇānī’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (2)",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:12.1",
+          "pli": "‘Tayo pañhā tayo uddesā tīṇi veyyākaraṇānī’ti, iti kho panetaṃ vuttaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:12.2",
+          "pli": "Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:12.3",
+          "pli": "Tīsu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:12.4",
+          "pli": "Katamesu tīsu?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an10.27:12.5",
+          "pli": "Tīsu vedanāsu—",
+          "en": "Three feelings. …"
+        },
+        {
+          "scid": "an10.27:12.6",
+          "pli": "imesu kho, bhikkhave, tīsu dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:12.7",
+          "pli": "‘Tayo pañhā tayo uddesā tīṇi veyyākaraṇānī’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (3)",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:13.1",
+          "pli": "‘Cattāro pañhā cattāro uddesā cattāri veyyākaraṇānī’ti, iti kho panetaṃ vuttaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:13.2",
+          "pli": "Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:13.3",
+          "pli": "Catūsu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:13.4",
+          "pli": "Katamesu catūsu?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an10.27:13.5",
+          "pli": "Catūsu āhāresu—",
+          "en": "The four foods. …"
+        },
+        {
+          "scid": "an10.27:13.6",
+          "pli": "imesu kho, bhikkhave, catūsu dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:13.7",
+          "pli": "‘Cattāro pañhā cattāro uddesā cattāri veyyākaraṇānī’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (4)",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:14.1",
+          "pli": "‘Pañca pañhā pañcuddesā pañca veyyākaraṇānī’ti, iti kho panetaṃ vuttaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:14.2",
+          "pli": "Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:14.3",
+          "pli": "Pañcasu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:14.4",
+          "pli": "Katamesu pañcasu?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an10.27:14.5",
+          "pli": "Pañcasu upādānakkhandhesu—",
+          "en": "The five grasping aggregates. …"
+        },
+        {
+          "scid": "an10.27:14.6",
+          "pli": "imesu kho, bhikkhave, pañcasu dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:14.7",
+          "pli": "‘Pañca pañhā pañcuddesā pañca veyyākaraṇānī’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (5)",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:15.1",
+          "pli": "‘Cha pañhā cha uddesā cha veyyākaraṇānī’ti, iti kho panetaṃ vuttaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:15.2",
+          "pli": "Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:15.3",
+          "pli": "Chasu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:15.4",
+          "pli": "Katamesu chasu?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an10.27:15.5",
+          "pli": "Chasu ajjhattikesu āyatanesu—",
+          "en": "The six interior sense fields. …"
+        },
+        {
+          "scid": "an10.27:15.6",
+          "pli": "imesu kho, bhikkhave, chasu dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:15.7",
+          "pli": "‘Cha pañhā cha uddesā cha veyyākaraṇānī’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (6)",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:16.1",
+          "pli": "‘Satta pañhā sattuddesā satta veyyākaraṇānī’ti, iti kho panetaṃ vuttaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:16.2",
+          "pli": "Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:16.3",
+          "pli": "Sattasu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:16.4",
+          "pli": "Katamesu sattasu?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an10.27:16.5",
+          "pli": "Sattasu viññāṇaṭṭhitīsu—",
+          "en": "The seven planes of consciousness. …"
+        },
+        {
+          "scid": "an10.27:16.6",
+          "pli": "imesu kho, bhikkhave, sattasu dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:16.7",
+          "pli": "‘Satta pañhā sattuddesā satta veyyākaraṇānī’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (7)",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:17.1",
+          "pli": "‘Aṭṭha pañhā aṭṭhuddesā aṭṭha veyyākaraṇānī’ti, iti kho panetaṃ vuttaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:17.2",
+          "pli": "Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:17.3",
+          "pli": "Aṭṭhasu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:17.4",
+          "pli": "Katamesu aṭṭhasu?",
+          "en": "What eight?"
+        },
+        {
+          "scid": "an10.27:17.5",
+          "pli": "Aṭṭhasu lokadhammesu—",
+          "en": "The eight worldly conditions. …"
+        },
+        {
+          "scid": "an10.27:17.6",
+          "pli": "imesu kho, bhikkhave, aṭṭhasu dhammesu bhikkhu sammā nibbindamāno … pe … dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:17.7",
+          "pli": "‘Aṭṭha pañhā aṭṭhuddesā aṭṭha veyyākaraṇānī’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (8)",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:18.1",
+          "pli": "‘Nava pañhā navuddesā nava veyyākaraṇānī’ti, iti kho panetaṃ vuttaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:18.2",
+          "pli": "Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:18.3",
+          "pli": "Navasu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:18.4",
+          "pli": "Katamesu navasu?",
+          "en": "What nine?"
+        },
+        {
+          "scid": "an10.27:18.5",
+          "pli": "Navasu sattāvāsesu—",
+          "en": "The nine abodes of sentient beings. …"
+        },
+        {
+          "scid": "an10.27:18.6",
+          "pli": "imesu kho, bhikkhave, navasu dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:18.7",
+          "pli": "‘Nava pañhā navuddesā nava veyyākaraṇānī’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (9)",
+          "en": ""
+        },
+        {
+          "scid": "an10.27:19.1",
+          "pli": "‘Dasa pañhā dasuddesā dasa veyyākaraṇānī’ti, ",
+          "en": "‘Ten things: question, passage for recitation, and answer.’ "
+        },
+        {
+          "scid": "an10.27:19.2",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an10.27:19.3",
+          "pli": "Dasasu, bhikkhave, dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": "Becoming completely disillusioned with ten things—completely dispassionate and freed from them, seeing their limits and fully comprehending their meaning—a mendicant makes an end of suffering in this very life."
+        },
+        {
+          "scid": "an10.27:19.4",
+          "pli": "Katamesu dasasu?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.27:19.5",
+          "pli": "Dasasu akusalesu kammapathesu—",
+          "en": "The ten ways of performing unskillful deeds."
+        },
+        {
+          "scid": "an10.27:19.6",
+          "pli": "imesu kho, bhikkhave, dasasu dhammesu bhikkhu sammā nibbindamāno sammā virajjamāno sammā vimuccamāno sammā pariyantadassāvī sammadatthaṃ abhisamecca diṭṭheva dhamme dukkhassantakaro hoti.",
+          "en": "Becoming completely disillusioned with these ten things—completely dispassionate and freed from them, seeing their limits and fully comprehending their meaning—a mendicant makes an end of suffering in this very life."
+        },
+        {
+          "scid": "an10.27:19.7",
+          "pli": "‘Dasa pañhā dasuddesā dasa veyyākaraṇānī’ti, ",
+          "en": "‘Ten things: question, passage for recitation, and answer.’ "
+        },
+        {
+          "scid": "an10.27:19.8",
+          "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttan”ti. (10)",
+          "en": "That’s what I said, and this is why I said it.”"
+        },
+        {
+          "scid": "an10.27:19.9",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.27/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.27",
+    "volpages": "AN v 48",
+    "uid": "an10.27",
+    "blurb": "Some wanderers claim to teach the direct knowledge of all things, just like the Buddha. However the Buddha disputes this by presenting ten “Great Questions” that they cannot answer.",
+    "difficulty": null,
+    "original_title": "Paṭhamamahāpañhā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Great Questions (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.27_sujato",
+        "segmented": true,
+        "title": "The Great Questions (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an10.27_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Great Questions (1)"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 7
+  }
+}

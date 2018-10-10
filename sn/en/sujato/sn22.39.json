@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn22.39",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.39",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "In Line With the Teachings",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "In Line with the Teachings (2nd)",
+      "uid": "sn22.40"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ānanda (2nd)",
+      "uid": "sn22.38"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.39:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.39:0.2",
+          "pli": "4. Natumhākavagga",
+          "en": "4. It’s Not Yours"
+        },
+        {
+          "scid": "sn22.39:0.3",
+          "pli": "39. Anudhammasutta",
+          "en": "39. In Line With the Teachings"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.39:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.39:1.2",
+          "pli": "“Dhammānudhammappaṭipannassa, bhikkhave, bhikkhuno ayamanudhammo hoti ",
+          "en": "“Mendicants, when a mendicant is practicing in line with the teachings, this is what’s in line with the teachings. "
+        },
+        {
+          "scid": "sn22.39:1.3",
+          "pli": "yaṃ rūpe nibbidābahulo vihareyya, vedanāya nibbidābahulo vihareyya, saññāya nibbidābahulo vihareyya, saṅkhāresu nibbidābahulo vihareyya, viññāṇe nibbidābahulo vihareyya.",
+          "en": "They should live full of disillusionment for form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "sn22.39:1.4",
+          "pli": "Yo rūpe nibbidābahulo viharanto, vedanāya … saññāya … saṅkhāresu nibbidābahulo viharanto, viññāṇe nibbidābahulo viharanto rūpaṃ parijānāti, vedanaṃ … saññaṃ … saṅkhāre … viññāṇaṃ parijānāti, ",
+          "en": "Living in this way, they completely understand form, feeling, perception, choices, and consciousness. "
+        },
+        {
+          "scid": "sn22.39:1.5",
+          "pli": "so rūpaṃ parijānaṃ, vedanaṃ … saññaṃ … saṅkhāre … viññāṇaṃ parijānaṃ parimuccati rūpamhā, parimuccati vedanāya, parimuccati saññāya, parimuccati saṅkhārehi, parimuccati viññāṇamhā, ",
+          "en": "Completely understanding form, feeling, perception, choices, and consciousness, they’re freed from these things. "
+        },
+        {
+          "scid": "sn22.39:1.6",
+          "pli": "parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimuccati dukkhasmāti vadāmī”ti.",
+          "en": "They’re freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They’re freed from suffering, I say.”"
+        },
+        {
+          "scid": "sn22.39:1.7",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.39/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.39",
+    "volpages": "SN iii 40",
+    "uid": "sn22.39",
+    "blurb": "To practice in line with the teachings a mendicant should meditate on disillusionment with the aggregates. ",
+    "difficulty": null,
+    "original_title": "Anudhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "In Line With the Teachings",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.39_sujato",
+        "segmented": true,
+        "title": "In Line With the Teachings"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.39_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "In Accordance with the Dhamma (1)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

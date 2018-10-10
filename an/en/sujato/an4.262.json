@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an4.262",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.262",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Wilderness",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Deeds",
+      "uid": "an4.263"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Powers",
+      "uid": "an4.261"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.262:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.262:0.2",
+          "pli": "26. Abhiññāvagga",
+          "en": "26. Insight"
+        },
+        {
+          "scid": "an4.262:0.3",
+          "pli": "262. Araññasutta",
+          "en": "262. Wilderness"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.262:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi samannāgato bhikkhu nālaṃ araññavanapatthāni pantāni senāsanāni paṭisevituṃ.",
+          "en": "“Mendicants, when a mendicant has four qualities they’re not ready to frequent remote wilderness and jungle lodgings."
+        },
+        {
+          "scid": "an4.262:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.262:1.3",
+          "pli": "Kāmavitakkena, byāpādavitakkena, vihiṃsāvitakkena, duppañño hoti jaḷo elamūgo—",
+          "en": "They have sensual, malicious, and cruel thoughts; or they’re witless, dull, and stupid."
+        },
+        {
+          "scid": "an4.262:1.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu nālaṃ araññavanapatthāni pantāni senāsanāni paṭisevituṃ.",
+          "en": "When a mendicant has these four qualities they’re not ready to frequent remote wilderness and jungle lodgings."
+        },
+        {
+          "scid": "an4.262:2.1",
+          "pli": "Catūhi, bhikkhave, dhammehi samannāgato bhikkhu alaṃ araññavanapatthāni pantāni senāsanāni paṭisevituṃ.",
+          "en": "When a mendicant has four qualities they’re ready to frequent remote wilderness and jungle lodgings."
+        },
+        {
+          "scid": "an4.262:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.262:2.3",
+          "pli": "Nekkhammavitakkena, abyāpādavitakkena, avihiṃsāvitakkena, paññavā hoti ajaḷo anelamūgo—",
+          "en": "They have thoughts of renunciation, love, and kindness; and they’re wise, bright, and intelligent."
+        },
+        {
+          "scid": "an4.262:2.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu alaṃ araññavanapatthāni pantāni senāsanāni paṭisevitun”ti.",
+          "en": "When a mendicant has these four qualities they’re ready to frequent remote wilderness and jungle lodgings.”"
+        },
+        {
+          "scid": "an4.262:2.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.262/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.262//AN 4.259",
+    "volpages": "AN ii 252",
+    "uid": "an4.262",
+    "blurb": "Things that make you unfit for living secluded in the wilderness.",
+    "difficulty": null,
+    "original_title": "Arañña Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Wilderness",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.262_sujato",
+        "segmented": true,
+        "title": "Wilderness"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an4.262_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "A Wilderness Dweller"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

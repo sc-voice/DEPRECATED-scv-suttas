@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn56.103",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.103",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Dying as Humans and Reborn as Animals",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dying as Humans and Reborn as Ghosts",
+      "uid": "sn56.104"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dying as Humans and Reborn in Hell",
+      "uid": "sn56.102"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.103:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.103:0.2",
+          "pli": "11. Pañcagatipeyyālavagga",
+          "en": "11. Abbreviated Texts on Five Destinations"
+        },
+        {
+          "scid": "sn56.103:0.3",
+          "pli": "103. Manussacutitiracchānasutta",
+          "en": "103. Dying as Humans and Reborn as Animals"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.103:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye manussā cutā manussesu paccājāyanti; atha kho eteva bahutarā sattā ye manussā cutā tiracchānayoniyā paccājāyanti … pe ….",
+          "en": "“… the sentient beings who die as humans and are reborn as humans are few, while those who die as humans and are reborn in the animal realm are many …”"
+        },
+        {
+          "scid": "sn56.103:1.2",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who die as…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.103/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.103",
+    "volpages": "SN v 474",
+    "uid": "sn56.103",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Manussacutitiracchāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dying as Humans and Reborn as Animals",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.103_sujato",
+        "segmented": true,
+        "title": "Dying as Humans and Reborn as Animals"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 2
+  }
+}

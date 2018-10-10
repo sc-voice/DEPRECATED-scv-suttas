@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn19.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn19.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Spear Hairs",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Arrow Hairs",
+      "uid": "sn19.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sword Hairs",
+      "uid": "sn19.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn19.6:0.1",
+          "pli": "Saṃyutta Nikāya 19",
+          "en": "Linked Discourses 19"
+        },
+        {
+          "scid": "sn19.6:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The First Chapter"
+        },
+        {
+          "scid": "sn19.6:0.3",
+          "pli": "6. Sattisutta",
+          "en": "6. Spear Hairs"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 19…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn19.6:1.1",
+          "pli": "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ sattilomaṃ purisaṃ vehāsaṃ gacchantaṃ.",
+          "en": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a man whose body hairs were spears flying through the air."
+        },
+        {
+          "scid": "sn19.6:1.2",
+          "pli": "Tassa tā sattiyo uppatitvā uppatitvā tasseva kāye nipatanti.",
+          "en": "And those spears kept rising up and falling on his body"
+        },
+        {
+          "scid": "sn19.6:1.3",
+          "pli": "So sudaṃ aṭṭassaraṃ karoti … pe …",
+          "en": "as he screamed in pain. …” …"
+        },
+        {
+          "scid": "sn19.6:1.4",
+          "pli": "eso, bhikkhave, satto imasmiṃyeva rājagahe māgaviko ahosi … pe ….",
+          "en": "“That being used to be a deer hunter right here in Rājagaha. …”"
+        },
+        {
+          "scid": "sn19.6:1.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Just now…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn19.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 19.6",
+    "volpages": "SN ii 257",
+    "uid": "sn19.6",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Satti Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Spear Hairs",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn19.6_sujato",
+        "segmented": true,
+        "title": "Spear Hairs"
+      }
+    ],
+    "parallel_count": 24,
+    "biblio": null,
+    "num": 6
+  }
+}

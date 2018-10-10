@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an5.254",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.254",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Five Kinds of Stinginess",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving Up Stinginess",
+      "uid": "an5.255"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Who Should Have a Novice as Attendant",
+      "uid": "an5.253"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.254:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.254:0.2",
+          "pli": "26. Upasampadāvagga",
+          "en": "26. Ordination"
+        },
+        {
+          "scid": "an5.254:0.3",
+          "pli": "254. Pañcamacchariyasutta",
+          "en": "254. Five Kinds of Stinginess"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.254:1.1",
+          "pli": "“Pañcimāni, bhikkhave, macchariyāni.",
+          "en": "“Mendicants, there are these five kinds of stinginess."
+        },
+        {
+          "scid": "an5.254:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.254:1.3",
+          "pli": "Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ—",
+          "en": "Stinginess with dwellings, families, material possessions, praise, and the teachings."
+        },
+        {
+          "scid": "an5.254:1.4",
+          "pli": "imāni kho, bhikkhave, pañca macchariyāni.",
+          "en": "These are the five kinds of stinginess."
+        },
+        {
+          "scid": "an5.254:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ macchariyānaṃ etaṃ paṭikuṭṭhaṃ, yadidaṃ dhammamacchariyan”ti.",
+          "en": "The most contemptible of these five kinds of stinginess is stinginess with the teachings.”"
+        },
+        {
+          "scid": "an5.254:1.6",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.254/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.254",
+    "volpages": "AN iii 272",
+    "uid": "an5.254",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Pañcamacchariya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Five Kinds of Stinginess",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.254_sujato",
+        "segmented": true,
+        "title": "Five Kinds of Stinginess"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an5.254_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Stinginess"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

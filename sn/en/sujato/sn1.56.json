@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.56",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.56",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Gives Birth (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gives Birth (3rd)",
+      "uid": "sn1.57"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gives Birth (1st)",
+      "uid": "sn1.55"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.56:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.56:0.2",
+          "pli": "6. Jarāvagga",
+          "en": "6. Old Age"
+        },
+        {
+          "scid": "sn1.56:0.3",
+          "pli": "56. Dutiyajanasutta",
+          "en": "56. Gives Birth (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.56:1.1",
+          "pli": "“Kiṃsu janeti purisaṃ,",
+          "en": "“What gives birth to a person?"
+        },
+        {
+          "scid": "sn1.56:1.2",
+          "pli": "kiṃsu tassa vidhāvati;",
+          "en": "What do they have that runs about?"
+        },
+        {
+          "scid": "sn1.56:1.3",
+          "pli": "Kiṃsu saṃsāramāpādi,",
+          "en": "What enters transmigration?"
+        },
+        {
+          "scid": "sn1.56:1.4",
+          "pli": "kismā na parimuccatī”ti.",
+          "en": "From what aren’t they free?”"
+        },
+        {
+          "scid": "sn1.56:2.1",
+          "pli": "“Taṇhā janeti purisaṃ,",
+          "en": "“Craving gives birth to a person."
+        },
+        {
+          "scid": "sn1.56:2.2",
+          "pli": "cittamassa vidhāvati;",
+          "en": "Their mind is what runs about."
+        },
+        {
+          "scid": "sn1.56:2.3",
+          "pli": "Satto saṃsāramāpādi,",
+          "en": "A sentient being enters transmigration."
+        },
+        {
+          "scid": "sn1.56:2.4",
+          "pli": "dukkhā na parimuccatī”ti.",
+          "en": "They’re not free from suffering.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What gives birth to a person…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.56/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.56//SN 56",
+    "volpages": "SN i 37//SN i 82",
+    "uid": "sn1.56",
+    "blurb": "A person is created by craving and is not freed from suffering",
+    "difficulty": null,
+    "original_title": "Dutiyajana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Gives Birth (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.56_sujato",
+        "segmented": true,
+        "title": "Gives Birth (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.56_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Produces (2)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 6
+  }
+}

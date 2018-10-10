@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn51.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn51.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Awakened",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Knowledge",
+      "uid": "sn51.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Mendicant",
+      "uid": "sn51.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn51.8:0.1",
+          "pli": "Saṃyutta Nikāya 51",
+          "en": "Linked Discourses 51"
+        },
+        {
+          "scid": "sn51.8:0.2",
+          "pli": "1. Cāpālavagga",
+          "en": "1. At the Cāpāla Shrine"
+        },
+        {
+          "scid": "sn51.8:0.3",
+          "pli": "8. Buddhasutta",
+          "en": "8. Awakened"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 51…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn51.8:1.1",
+          "pli": "“Cattārome, bhikkhave, iddhipādā.",
+          "en": "“Mendicants, there are these four bases of psychic power."
+        },
+        {
+          "scid": "sn51.8:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn51.8:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ",
+          "en": "It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm … "
+        },
+        {
+          "scid": "sn51.8:1.4",
+          "pli": "vīriyasamādhi … pe …",
+          "en": "energy …"
+        },
+        {
+          "scid": "sn51.8:1.5",
+          "pli": "cittasamādhi … pe …",
+          "en": "higher mind …"
+        },
+        {
+          "scid": "sn51.8:1.6",
+          "pli": "vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.",
+          "en": "inquiry, and active effort."
+        },
+        {
+          "scid": "sn51.8:1.7",
+          "pli": "Ime kho, bhikkhave, cattāro iddhipādā.",
+          "en": "These are the four bases of psychic power."
+        },
+        {
+          "scid": "sn51.8:1.8",
+          "pli": "Imesaṃ kho, bhikkhave, catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā tathāgato ‘arahaṃ sammāsambuddho’ti vuccatī”ti.",
+          "en": "It is because he has developed and cultivated these four bases of psychic power that the Realized One is called ‘the perfected one, the fully awakened Buddha’.”"
+        },
+        {
+          "scid": "sn51.8:1.9",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn51.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 51.8",
+    "volpages": "SN v 257",
+    "uid": "sn51.8",
+    "blurb": "It is because of developing the four bases of psychic power that the Realized One is called a Buddha.",
+    "difficulty": null,
+    "original_title": "Buddha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Awakened",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn51.8_sujato",
+        "segmented": true,
+        "title": "Awakened"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

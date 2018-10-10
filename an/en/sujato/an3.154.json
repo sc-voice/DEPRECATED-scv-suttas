@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an3.154",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.154",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Homage",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Morning",
+      "uid": "an3.155"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Broken (4th)",
+      "uid": "an3.153"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.154:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.154:0.2",
+          "pli": "15. Maṅgalavagga",
+          "en": "15. Good Fortune"
+        },
+        {
+          "scid": "an3.154:0.3",
+          "pli": "154. Vandanāsutta",
+          "en": "154. Homage"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.154:1.1",
+          "pli": "“Tisso imā, bhikkhave, vandanā.",
+          "en": "“Mendicants, there are three kinds of homage."
+        },
+        {
+          "scid": "an3.154:1.2",
+          "pli": "Katamā tisso?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.154:1.3",
+          "pli": "Kāyena, vācāya, manasā—",
+          "en": "By way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.154:1.4",
+          "pli": "imā kho, bhikkhave, tisso vandanā”ti.",
+          "en": "These are the three kinds of homage.”"
+        },
+        {
+          "scid": "an3.154:1.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.154/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.154//AN 3.149",
+    "volpages": "AN i 294",
+    "uid": "an3.154",
+    "blurb": "Kinds of homage: body, speech, and mind.",
+    "difficulty": null,
+    "original_title": "Vandanā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Homage",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.154_sujato",
+        "segmented": true,
+        "title": "Homage"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

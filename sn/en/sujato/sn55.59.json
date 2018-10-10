@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn55.59",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.59",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Getting of Wisdom",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Growth of Wisdom",
+      "uid": "sn55.60"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Fruit of Perfection",
+      "uid": "sn55.58"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.59:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.59:0.2",
+          "pli": "6. Sappaññavagga",
+          "en": "6. A Wise Person"
+        },
+        {
+          "scid": "sn55.59:0.3",
+          "pli": "59. Paññāpaṭilābhasutta",
+          "en": "59. The Getting of Wisdom"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.59:1.1",
+          "pli": "“… Paññāpaṭilābhāya saṃvattantī”ti.",
+          "en": "“Mendicants, when four things are developed and cultivated they lead to the getting of wisdom. …”"
+        },
+        {
+          "scid": "sn55.59:1.2",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.59/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.59",
+    "volpages": "SN v 411",
+    "uid": "sn55.59",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paññāpaṭilābha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Getting of Wisdom",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.59_sujato",
+        "segmented": true,
+        "title": "The Getting of Wisdom"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn55.32",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.32",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Overflowing Merit (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Overflowing Merit (3rd)",
+      "uid": "sn55.33"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Overflowing Merit (1st)",
+      "uid": "sn55.31"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.32:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.32:0.2",
+          "pli": "4. Puññābhisandavagga",
+          "en": "4. Overflowing Merit"
+        },
+        {
+          "scid": "sn55.32:0.3",
+          "pli": "32. Dutiyapuññābhisandasutta",
+          "en": "32. Overflowing Merit (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.32:1.1",
+          "pli": "“Cattārome, bhikkhave, puññābhisandā kusalābhisandā sukhassāhārā.",
+          "en": "“Mendicants, there are these four kinds of overflowing merit, overflowing goodness that nurture happiness."
+        },
+        {
+          "scid": "sn55.32:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn55.32:1.3",
+          "pli": "Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti—",
+          "en": "Firstly, a noble disciple has experiential confidence in the Buddha …"
+        },
+        {
+          "scid": "sn55.32:1.4",
+          "pli": "itipi so bhagavā … pe … satthā devamanussānaṃ buddho bhagavāti.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.32:1.5",
+          "pli": "Ayaṃ paṭhamo puññābhisando kusalābhisando sukhassāhāro.",
+          "en": ""
+        },
+        {
+          "scid": "sn55.32:2.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako dhamme … pe …",
+          "en": "the teaching …"
+        },
+        {
+          "scid": "sn55.32:2.2",
+          "pli": "saṅghe … pe ….",
+          "en": "the Saṅgha …"
+        },
+        {
+          "scid": "sn55.32:3.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako vigatamalamaccherena cetasā agāraṃ ajjhāvasati muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato.",
+          "en": "Furthermore, a noble disciple lives at home rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share."
+        },
+        {
+          "scid": "sn55.32:3.2",
+          "pli": "Ayaṃ catuttho puññābhisando kusalābhisando sukhassāhāro.",
+          "en": "This is the fourth kind of overflowing merit, overflowing goodness that nurtures happiness."
+        },
+        {
+          "scid": "sn55.32:3.3",
+          "pli": "Ime kho, bhikkhave, cattāro puññābhisandā kusalābhisandā sukhassāhārā”ti.",
+          "en": "These are the four kinds of overflowing merit, overflowing goodness that nurture happiness.”"
+        },
+        {
+          "scid": "sn55.32:3.4",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.32/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.32",
+    "volpages": "SN v 391",
+    "uid": "sn55.32",
+    "blurb": "The four factors of stream-entry—with generosity as the fourth—are streams of merit.",
+    "difficulty": null,
+    "original_title": "Dutiyapuññābhisanda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Overflowing Merit (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.32_sujato",
+        "segmented": true,
+        "title": "Overflowing Merit (2nd)"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 2
+  }
+}

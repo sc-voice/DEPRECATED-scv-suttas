@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an5.252",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.252",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Who Should Give Dependence",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Who Should Have a Novice as Attendant",
+      "uid": "an5.253"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Who Should Give Ordination",
+      "uid": "an5.251"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.252:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.252:0.2",
+          "pli": "26. Upasampadāvagga",
+          "en": "26. Ordination"
+        },
+        {
+          "scid": "an5.252:0.3",
+          "pli": "252. Nissayasutta",
+          "en": "252. Who Should Give Dependence"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.252:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgatena bhikkhunā nissayo dātabbo.",
+          "en": "“Mendicants, dependence should be given by a mendicant with five qualities."
+        },
+        {
+          "scid": "an5.252:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.252:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti … pe … asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti.",
+          "en": "It’s a mendicant who has the entire spectrum of an adept’s ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom."
+        },
+        {
+          "scid": "an5.252:1.4",
+          "pli": "Imehi … pe … nissayo dātabbo”ti.",
+          "en": "Dependence should be given by a mendicant with these five qualities.”"
+        },
+        {
+          "scid": "an5.252:1.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.252/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.252",
+    "volpages": "AN iii 271",
+    "uid": "an5.252",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nissaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Who Should Give Dependence",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.252_sujato",
+        "segmented": true,
+        "title": "Who Should Give Dependence"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

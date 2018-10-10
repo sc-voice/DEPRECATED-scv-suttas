@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn34.35-40",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn34.35-40",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Six on Gladdening and Support, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five on Support and Subjects, Etc.",
+      "uid": "sn34.41-45"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Seven on Emergence and Gladdening, Etc.",
+      "uid": "sn34.28-34"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn34.35-40:0.1",
+          "pli": "Saṃyutta Nikāya 34",
+          "en": "Linked Discourses 34"
+        },
+        {
+          "scid": "sn34.35-40:0.2",
+          "pli": "1. Jhānavagga",
+          "en": "1. Absorption"
+        },
+        {
+          "scid": "sn34.35-40:0.3",
+          "pli": "35–​40. Kallitamūlakaārammaṇasuttādichakka",
+          "en": "35–40. Six on Gladdening and Support, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 34…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn34.35-40:1.1",
+          "pli": "Sāvatthinidānaṃ …",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn34.35-40:1.2",
+          "pli": "“samādhismiṃ kallitakusalo hoti, na samādhismiṃ ārammaṇakusalo …",
+          "en": "“One meditator is skilled in gladdening the mind for immersion but not in the supports for immersion. …”"
+        },
+        {
+          "scid": "sn34.35-40:1.3",
+          "pli": "samādhismiṃ ārammaṇakusalo hoti, na samādhismiṃ kallitakusalo …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.35-40:1.4",
+          "pli": "neva samādhismiṃ kallitakusalo hoti, na ca samādhismiṃ ārammaṇakusalo …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.35-40:1.5",
+          "pli": "samādhismiṃ kallitakusalo ca hoti, samādhismiṃ ārammaṇakusalo ca.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.35-40:1.6",
+          "pli": "Tatra, bhikkhave, yvāyaṃ jhāyī … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.35-40:1.7",
+          "pli": "uttamo ca pavaro cā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.35-40:1.8",
+          "pli": "Pañcatiṃsatimaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.35-40:1.9",
+          "pli": "(Purimamūlakāni viya yāva cattālīsamā kallitamūlakasappāyakārīsuttā cha suttāni pūretabbāni. Kallitamūlakaṃ.)",
+          "en": "(These six discourses should be expanded in line with the previous set.)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn34.35-40/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn34.35-40",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kallitamūlakaārammaṇasuttādichakka",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Six on Gladdening and Support, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn34.35-40_sujato",
+        "segmented": true,
+        "title": "Six on Gladdening and Support, Etc."
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 22
+  }
+}

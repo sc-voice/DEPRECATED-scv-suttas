@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn34.41-45",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn34.41-45",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Five on Support and Subjects, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Four on Subjects and Projection, Etc.",
+      "uid": "sn34.46-49"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Six on Gladdening and Support, Etc.",
+      "uid": "sn34.35-40"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn34.41-45:0.1",
+          "pli": "Saṃyutta Nikāya 34",
+          "en": "Linked Discourses 34"
+        },
+        {
+          "scid": "sn34.41-45:0.2",
+          "pli": "1. Jhānavagga",
+          "en": "1. Absorption"
+        },
+        {
+          "scid": "sn34.41-45:0.3",
+          "pli": "41–​45. Ārammaṇamūlakagocarasuttādipañcaka",
+          "en": "41–45. Five on Support and Subjects, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 34…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn34.41-45:1.1",
+          "pli": "Sāvatthinidānaṃ …",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn34.41-45:1.2",
+          "pli": "“samādhismiṃ ārammaṇakusalo hoti, na samādhismiṃ gocarakusalo …",
+          "en": "“One meditator is skilled in the supports for immersion but not in the mindfulness meditation subjects for immersion. …”"
+        },
+        {
+          "scid": "sn34.41-45:1.3",
+          "pli": "samādhismiṃ gocarakusalo hoti, na samādhismiṃ ārammaṇakusalo …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.41-45:1.4",
+          "pli": "neva samādhismiṃ ārammaṇakusalo hoti, na ca samādhismiṃ gocarakusalo …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.41-45:1.5",
+          "pli": "samādhismiṃ ārammaṇakusalo ca hoti, samādhismiṃ gocarakusalo ca.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.41-45:1.6",
+          "pli": "Tatra, bhikkhave, yvāyaṃ jhāyī … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.41-45:1.7",
+          "pli": "uttamo ca pavaro cā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.41-45:1.8",
+          "pli": "Ekacattālīsamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.41-45:1.9",
+          "pli": "(Purimamūlakāni viya yāva pañcacattālīsamā ārammaṇamūlakasappāyakārīsuttā pañca suttāni pūretabbāni.)",
+          "en": "(These five discourses should be expanded in line with the previous set.)"
+        },
+        {
+          "scid": "sn34.41-45:1.10",
+          "pli": "(Ārammaṇamūlakaṃ.)",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn34.41-45/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn34.41-45",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ārammaṇamūlakagocarasuttādipañcaka",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Five on Support and Subjects, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn34.41-45_sujato",
+        "segmented": true,
+        "title": "Five on Support and Subjects, Etc."
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 23
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "sutta_uid": "sn2.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Dāmali",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kāmada",
+      "uid": "sn2.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Māghadha",
+      "uid": "sn2.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.5:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.5:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The Sun"
+        },
+        {
+          "scid": "sn2.5:0.3",
+          "pli": "5. Dāmalisutta",
+          "en": "5. With Dāmali"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.5:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn2.5:1.2",
+          "pli": "Atha kho dāmali devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.",
+          "en": "Then, late at night, the glorious god Dāmali, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side,"
+        },
+        {
+          "scid": "sn2.5:1.3",
+          "pli": "Ekamantaṃ ṭhito kho dāmali devaputto bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "and recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn2.5:2.1",
+          "pli": "“Karaṇīyametaṃ brāhmaṇena,",
+          "en": "“This is what should be done by a brahmin:"
+        },
+        {
+          "scid": "sn2.5:2.2",
+          "pli": "Padhānaṃ akilāsunā;",
+          "en": "unrelenting striving."
+        },
+        {
+          "scid": "sn2.5:2.3",
+          "pli": "Kāmānaṃ vippahānena,",
+          "en": "Then, with the giving up of sensual pleasures,"
+        },
+        {
+          "scid": "sn2.5:2.4",
+          "pli": "Na tenāsīsate bhavan”ti.",
+          "en": "they won’t hope to be reborn.”"
+        },
+        {
+          "scid": "sn2.5:3.1",
+          "pli": "“Natthi kiccaṃ brāhmaṇassa, (dāmalīti bhagavā)",
+          "en": "“The brahmin has nothing left to do,” said the Buddha to Dāmali,"
+        },
+        {
+          "scid": "sn2.5:3.2",
+          "pli": "Katakicco hi brāhmaṇo;",
+          "en": "“for they’ve completed the task."
+        },
+        {
+          "scid": "sn2.5:3.3",
+          "pli": "Yāva na gādhaṃ labhati nadīsu,",
+          "en": "So long as a person fails to gain a footing in the river,"
+        },
+        {
+          "scid": "sn2.5:3.4",
+          "pli": "Āyūhati sabbagattebhi jantu;",
+          "en": "they strive with every limb."
+        },
+        {
+          "scid": "sn2.5:3.5",
+          "pli": "Gādhañca laddhāna thale ṭhito yo,",
+          "en": "But someone who has gained a footing and stands on dry land"
+        },
+        {
+          "scid": "sn2.5:3.6",
+          "pli": "Nāyūhatī pāragato hi sova.",
+          "en": "need not strive, for they have reached the far shore."
+        },
+        {
+          "scid": "sn2.5:4.1",
+          "pli": "Esūpamā dāmali brāhmaṇassa,",
+          "en": "Dāmali, this is a simile for the brahmin,"
+        },
+        {
+          "scid": "sn2.5:4.2",
+          "pli": "Khīṇāsavassa nipakassa jhāyino;",
+          "en": "with defilements ended, self-disciplined, and practicing absorption."
+        },
+        {
+          "scid": "sn2.5:4.3",
+          "pli": "Pappuyya jātimaraṇassa antaṃ,",
+          "en": "Since they’ve reached the end of rebirth and death,"
+        },
+        {
+          "scid": "sn2.5:4.4",
+          "pli": "Nāyūhatī pāragato hi so”ti.",
+          "en": "they need not strive, for they have reached the far shore.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.5//SN 86",
+    "volpages": "SN i 47//SN i 107",
+    "uid": "sn2.5",
+    "blurb": "Dāmali the god suggests that a true brahmin must strive to abandon desire. The Buddha disagrees, saying that a true holy one has already completed their work.",
+    "difficulty": null,
+    "original_title": "Dāmali Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Dāmali",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.5_sujato",
+        "segmented": true,
+        "title": "With Dāmali"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

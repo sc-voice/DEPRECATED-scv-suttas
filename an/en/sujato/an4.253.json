@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an4.253",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.253",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Expressions (4th)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Insight",
+      "uid": "an4.254"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Expressions (3rd)",
+      "uid": "an4.252"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.253:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.253:0.2",
+          "pli": "25. Āpattibhayavagga",
+          "en": "25. Perils of Offenses"
+        },
+        {
+          "scid": "an4.253:0.3",
+          "pli": "253. Catutthavohārasutta",
+          "en": "253. Expressions (4th)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.253:1.1",
+          "pli": "“Cattārome, bhikkhave, ariyavohārā.",
+          "en": "“Mendicants, there are these four noble expressions."
+        },
+        {
+          "scid": "an4.253:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.253:1.3",
+          "pli": "Diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā—",
+          "en": "Saying you’ve seen, heard, thought, or cognized something, and you have."
+        },
+        {
+          "scid": "an4.253:1.4",
+          "pli": "ime kho, bhikkhave, cattāro ariyavohārā”ti.",
+          "en": "These are the four noble expressions.”"
+        },
+        {
+          "scid": "an4.253:1.5",
+          "pli": "Ekādasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.253:1.6",
+          "pli": "Āpattibhayavaggo pañcamo.",
+          "en": ""
+        },
+        {
+          "scid": "an4.253:2.1",
+          "pli": "Bhedaāpatti sikkhā ca,",
+          "en": ""
+        },
+        {
+          "scid": "an4.253:2.2",
+          "pli": "seyyā thūpārahena ca;",
+          "en": ""
+        },
+        {
+          "scid": "an4.253:2.3",
+          "pli": "Paññāvuddhi bahukārā,",
+          "en": ""
+        },
+        {
+          "scid": "an4.253:2.4",
+          "pli": "vohārā caturo ṭhitāti.",
+          "en": ""
+        },
+        {
+          "scid": "an4.253:2.5",
+          "pli": "Pañcamo paṇṇāsako samatto.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.253/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.253//AN 4.250",
+    "volpages": "AN ii 246",
+    "uid": "an4.253",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Catutthavohāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Expressions (4th)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.253_sujato",
+        "segmented": true,
+        "title": "Expressions (4th)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 11
+  }
+}

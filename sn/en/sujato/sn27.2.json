@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn27.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn27.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Sights",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Consciousness",
+      "uid": "sn27.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Eye",
+      "uid": "sn27.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn27.2:0.1",
+          "pli": "Saṃyutta Nikāya 27",
+          "en": "Linked Discourses 27"
+        },
+        {
+          "scid": "sn27.2:0.2",
+          "pli": "1. Kilesavagga",
+          "en": "1. Corruptions"
+        },
+        {
+          "scid": "sn27.2:0.3",
+          "pli": "2. Rūpasutta",
+          "en": "2. Sights"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 27…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn27.2:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn27.2:1.2",
+          "pli": "“Yo, bhikkhave, rūpesu chandarāgo, cittasseso upakkileso.",
+          "en": "“Mendicants, desire and greed for sights,"
+        },
+        {
+          "scid": "sn27.2:1.3",
+          "pli": "Yo saddesu …",
+          "en": "sounds,"
+        },
+        {
+          "scid": "sn27.2:1.4",
+          "pli": "yo gandhesu …",
+          "en": "smells,"
+        },
+        {
+          "scid": "sn27.2:1.5",
+          "pli": "yo rasesu …",
+          "en": "tastes,"
+        },
+        {
+          "scid": "sn27.2:1.6",
+          "pli": "yo phoṭṭhabbesu …",
+          "en": "touches,"
+        },
+        {
+          "scid": "sn27.2:1.7",
+          "pli": "yo dhammesu chandarāgo, cittasseso upakkileso.",
+          "en": "or thoughts is a corruption of the mind."
+        },
+        {
+          "scid": "sn27.2:1.8",
+          "pli": "Yato kho, bhikkhave, bhikkhuno imesu chasu ṭhānesu cetaso upakkileso pahīno hoti, nekkhammaninnañcassa cittaṃ hoti.",
+          "en": "When a mendicant has given up mental corruption in these six cases, their mind inclines to renunciation."
+        },
+        {
+          "scid": "sn27.2:1.9",
+          "pli": "Nekkhammaparibhāvitaṃ cittaṃ kammaniyaṃ khāyati, abhiññā sacchikaraṇīyesu dhammesū”ti.",
+          "en": "A mind imbued with renunciation is declared to be capable of directly knowing anything that can be realized.”"
+        },
+        {
+          "scid": "sn27.2:1.10",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn27.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 27.2",
+    "volpages": "SN iii 232",
+    "uid": "sn27.2",
+    "blurb": "Desire for six exterior sense fields is a corruption of the mind, and letting go such desire one is able to realize the various kinds of direct knowledge.",
+    "difficulty": null,
+    "original_title": "Rūpa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sights",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn27.2_sujato",
+        "segmented": true,
+        "title": "Sights"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

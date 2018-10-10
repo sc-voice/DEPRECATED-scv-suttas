@@ -1,0 +1,117 @@
+{
+  "sutta_uid": "thig3.1",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig3.1",
+    "lang": "en",
+    "is_root": false,
+    "title": "Another Sāmā",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Uttamā",
+      "uid": "thig3.2"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Sāmā",
+      "uid": "thig2.10"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.1:0.1",
+          "en": "Therīgāthā 3.1"
+        },
+        {
+          "scid": "thig3.1:0.2",
+          "en": "Another Sāmā",
+          "pli": "Aparāsāmātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig3.1:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig3.1:1.0.2",
+          "en": "Canto 3"
+        },
+        {
+          "scid": "thig3.1:1.0.3",
+          "en": "1. Another Sāmā"
+        },
+        {
+          "scid": "thig3.1:1.0.4",
+          "en": "“Full five-and-twenty years since I came forth! But in my troubled heart in no way yet Could I discern the calm of victory."
+        },
+        {
+          "scid": "thig3.1:1.0.5",
+          "en": "The peace of mind, the governance of thoughts Long sought, I found not; and with anguish thrilled I dwelt in memory on the Conqueror’s word."
+        },
+        {
+          "scid": "thig3.1:1.0.6",
+          "en": "To free my path from all that breedeth Ill I strove with passionate ardour, and I won! Craving is dead, and the Lord’s will is done. To-day is now the seventh day since first Was withered up within that ancient Thirst.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.1/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 3.1",
+    "volpages": "Thig 127",
+    "uid": "thig3.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Aparāsāmātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Another Sāmā",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.1_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Another Sāmā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

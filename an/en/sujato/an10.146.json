@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an10.146",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.146",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Dark Path",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The True Teaching",
+      "uid": "an10.147"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Noble Path",
+      "uid": "an10.145"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.146:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.146:0.2",
+          "pli": "15. Ariyavagga",
+          "en": "15. The Noble Path"
+        },
+        {
+          "scid": "an10.146:0.3",
+          "pli": "146. Kaṇhamaggasutta",
+          "en": "146. The Dark Path"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.146:1.1",
+          "pli": "“Kaṇhamaggañca vo, bhikkhave, dhammaṃ desessāmi sukkamaggañca.",
+          "en": "“I will teach you the dark path and the bright path. …"
+        },
+        {
+          "scid": "an10.146:1.2",
+          "pli": "Taṃ suṇātha … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an10.146:1.3",
+          "pli": "katamo ca, bhikkhave, kaṇhamaggo?",
+          "en": "And what is the dark path?"
+        },
+        {
+          "scid": "an10.146:1.4",
+          "pli": "Micchādiṭṭhi … pe … micchāvimutti—",
+          "en": "Wrong view, wrong thought, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong immersion, wrong knowledge, and wrong freedom."
+        },
+        {
+          "scid": "an10.146:1.5",
+          "pli": "ayaṃ vuccati, bhikkhave, kaṇhamaggo.",
+          "en": "This is called the dark path."
+        },
+        {
+          "scid": "an10.146:1.6",
+          "pli": "Katamo ca, bhikkhave, sukkamaggo?",
+          "en": "And what is the bright path?"
+        },
+        {
+          "scid": "an10.146:1.7",
+          "pli": "Sammādiṭṭhi … pe … sammāvimutti—",
+          "en": "Right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right immersion, right knowledge, and right freedom."
+        },
+        {
+          "scid": "an10.146:1.8",
+          "pli": "ayaṃ vuccati, bhikkhave, sukkamaggo”ti.",
+          "en": "This is called the bright path.”"
+        },
+        {
+          "scid": "an10.146:1.9",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“I will teach you the dark path…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.146/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.146",
+    "volpages": "AN v 244",
+    "uid": "an10.146",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kaṇhamagga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Dark Path",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.146_sujato",
+        "segmented": true,
+        "title": "The Dark Path"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

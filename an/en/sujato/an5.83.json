@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.83",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.83",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Deceiver",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Faithless",
+      "uid": "an5.84"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Free of Greed",
+      "uid": "an5.82"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.83:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.83:0.2",
+          "pli": "9. Theravagga",
+          "en": "9. Senior Mendicants"
+        },
+        {
+          "scid": "an5.83:0.3",
+          "pli": "83. Kuhakasutta",
+          "en": "83. Deceiver"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.83:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "“Mendicants, a senior mendicant with five qualities is unlikable and unlovable to their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an5.83:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.83:1.3",
+          "pli": "Kuhako ca hoti, lapako ca, nemittiko ca, nippesiko ca, lābhena ca lābhaṃ nijigīsitā—",
+          "en": "They use deception, flattery, hinting, and belittling, and they use material possessions to pursue other material possessions."
+        },
+        {
+          "scid": "an5.83:1.4",
+          "pli": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "A senior mendicant with these five qualities is unlikable and unlovable to their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an5.83:2.1",
+          "pli": "Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.",
+          "en": "A senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired."
+        },
+        {
+          "scid": "an5.83:2.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.83:2.3",
+          "pli": "Na ca kuhako hoti, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṃ nijigīsitā—",
+          "en": "They don’t use deception, flattery, hinting, or belittling, and they don’t use material possessions to pursue other material possessions."
+        },
+        {
+          "scid": "an5.83:2.4",
+          "pli": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti.",
+          "en": "A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”"
+        },
+        {
+          "scid": "an5.83:2.5",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.83/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.83",
+    "volpages": "AN iii 111",
+    "uid": "an5.83",
+    "blurb": "Senior mendicants who are manipulative and opportunistic are disliked.",
+    "difficulty": null,
+    "original_title": "Kuhaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Deceiver",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.83_sujato",
+        "segmented": true,
+        "title": "Deceiver"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

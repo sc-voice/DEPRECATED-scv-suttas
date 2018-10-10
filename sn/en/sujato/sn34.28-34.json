@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn34.28-34",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn34.28-34",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Seven on Emergence and Gladdening, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Six on Gladdening and Support, Etc.",
+      "uid": "sn34.35-40"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Eight on Remaining and Emergence, Etc.",
+      "uid": "sn34.20-27"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn34.28-34:0.1",
+          "pli": "Saṃyutta Nikāya 34",
+          "en": "Linked Discourses 34"
+        },
+        {
+          "scid": "sn34.28-34:0.2",
+          "pli": "1. Jhānavagga",
+          "en": "1. Absorption"
+        },
+        {
+          "scid": "sn34.28-34:0.3",
+          "pli": "28–​34. Vuṭṭhānamūlakakallitasuttādisattaka",
+          "en": "28–34. Seven on Emergence and Gladdening, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 34…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn34.28-34:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn34.28-34:1.2",
+          "pli": "“Cattārome, bhikkhave, jhāyī.",
+          "en": "“Mendicants, there are these four meditators."
+        },
+        {
+          "scid": "sn34.28-34:1.3",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn34.28-34:1.4",
+          "pli": "Idha, bhikkhave, ekacco jhāyī samādhismiṃ vuṭṭhānakusalo hoti, na samādhismiṃ kallitakusalo …",
+          "en": "One meditator is skilled in emerging from immersion but not in gladdening the mind for immersion. …”"
+        },
+        {
+          "scid": "sn34.28-34:1.5",
+          "pli": "samādhismiṃ kallitakusalo hoti, na samādhismiṃ vuṭṭhānakusalo …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.28-34:1.6",
+          "pli": "neva samādhismiṃ vuṭṭhānakusalo hoti, na ca samādhismiṃ kallitakusalo …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.28-34:1.7",
+          "pli": "samādhismiṃ vuṭṭhānakusalo ca hoti samādhismiṃ kallitakusalo ca.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.28-34:1.8",
+          "pli": "Tatra, bhikkhave, yvāyaṃ jhāyī … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.28-34:1.9",
+          "pli": "uttamo ca pavaro cā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.28-34:1.10",
+          "pli": "Aṭṭhavīsatimaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.28-34:1.11",
+          "pli": "(Purimamūlakāni viya yāva catuttiṃsatimā vuṭṭhānamūlakasappāyakārīsuttā satta suttāni pūretabbāni. Vuṭṭhānamūlakaṃ.)",
+          "en": "(These seven discourses should be expanded in line with the previous set.)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn34.28-34/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn34.28-34",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vuṭṭhānamūlakakallitasuttādisattaka",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Seven on Emergence and Gladdening, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn34.28-34_sujato",
+        "segmented": true,
+        "title": "Seven on Emergence and Gladdening, Etc."
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 21
+  }
+}

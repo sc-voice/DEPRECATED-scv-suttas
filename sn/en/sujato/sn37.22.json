@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn37.22",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.22",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Energetic",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mindful",
+      "uid": "sn37.23"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Educated",
+      "uid": "sn37.21"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.22:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.22:0.2",
+          "pli": "2. Dutiyapeyyālavagga",
+          "en": "2. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.22:0.3",
+          "pli": "22. Āraddhavīriyasutta",
+          "en": "22. Energetic"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.22:1.1",
+          "pli": "“Āraddhavīriyo ca hoti, paññavā ca hoti … pe ….",
+          "en": "“… They’re faithful, conscientious, prudent, energetic, and wise. …”"
+        },
+        {
+          "scid": "sn37.22:1.2",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… They’re faithful…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.22/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.22",
+    "volpages": "SN iv 244",
+    "uid": "sn37.22",
+    "blurb": "A woman with five good qualities has a good rebirth.",
+    "difficulty": null,
+    "original_title": "Āraddhavīriya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Energetic",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.22_sujato",
+        "segmented": true,
+        "title": "Energetic"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

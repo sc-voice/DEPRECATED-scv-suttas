@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an5.264",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.264",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Another Discourse on the First Absorption",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Another Discourse on the Second Absorption, Etc.",
+      "uid": "an5.265-271"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Second Absorption, Etc.",
+      "uid": "an5.257-263"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.264:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.264:0.2",
+          "pli": "26. Upasampadāvagga",
+          "en": "26. Ordination"
+        },
+        {
+          "scid": "an5.264:0.3",
+          "pli": "264. Aparapaṭhamajhānasutta",
+          "en": "264. Another Discourse on the First Absorption"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.264:1.1",
+          "pli": "“Pañcime, bhikkhave, dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ.",
+          "en": "“Mendicants, without giving up these five qualities you can’t enter and remain in the first absorption."
+        },
+        {
+          "scid": "an5.264:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.264:1.3",
+          "pli": "Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, akataññutaṃ akataveditaṃ.",
+          "en": "Stinginess with dwellings, families, material possessions, praise, and lack of gratitude and thankfulness."
+        },
+        {
+          "scid": "an5.264:1.4",
+          "pli": "Ime kho, bhikkhave, pañca dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ.",
+          "en": "Without giving up these five qualities you can’t enter and remain in the first absorption."
+        },
+        {
+          "scid": "an5.264:2.1",
+          "pli": "Pañcime, bhikkhave, dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ.",
+          "en": "But after giving up these five qualities you can enter and remain in the first absorption."
+        },
+        {
+          "scid": "an5.264:2.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.264:2.3",
+          "pli": "Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, akataññutaṃ akataveditaṃ.",
+          "en": "Stinginess with dwellings, families, material possessions, praise, and lack of gratitude and thankfulness."
+        },
+        {
+          "scid": "an5.264:2.4",
+          "pli": "Ime kho, bhikkhave, pañca dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharitun”ti.",
+          "en": "After giving up these five qualities you can enter and remain in the first absorption.”"
+        },
+        {
+          "scid": "an5.264:2.5",
+          "pli": "Cuddasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.264/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.264",
+    "volpages": "AN iii 273",
+    "uid": "an5.264",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Aparapaṭhamajhāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Another Discourse on the First Absorption",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.264_sujato",
+        "segmented": true,
+        "title": "Another Discourse on the First Absorption"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an5.264_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Stinginess"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

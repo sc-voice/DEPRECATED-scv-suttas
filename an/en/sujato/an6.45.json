@@ -1,0 +1,595 @@
+{
+  "sutta_uid": "an6.45",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.45",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Debt",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "By Mahācunda",
+      "uid": "an6.46"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Migasālā",
+      "uid": "an6.44"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.45:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.45:0.2",
+          "pli": "5. Dhammikavagga",
+          "en": "5. About Dhammika"
+        },
+        {
+          "scid": "an6.45:0.3",
+          "pli": "45. Iṇasutta",
+          "en": "45. Debt"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.45:1.1",
+          "pli": "“Dāliddiyaṃ, bhikkhave, dukkhaṃ lokasmiṃ kāmabhogino”ti?",
+          "en": "“Mendicants, isn’t poverty suffering in the world for a person who enjoys sensual pleasures?”"
+        },
+        {
+          "scid": "an6.45:1.2",
+          "pli": "“Evaṃ, bhante”. (1)",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "an6.45:2.1",
+          "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko iṇaṃ ādiyati, iṇādānampi, bhikkhave, dukkhaṃ lokasmiṃ kāmabhogino”ti?",
+          "en": "“When a poor, penniless person falls into debt, isn’t being in debt also suffering in the world for a person who enjoys sensual pleasures?”"
+        },
+        {
+          "scid": "an6.45:2.2",
+          "pli": "“Evaṃ, bhante”. (2)",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "an6.45:3.1",
+          "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko iṇaṃ ādiyitvā vaḍḍhiṃ paṭissuṇāti, vaḍḍhipi, bhikkhave, dukkhā lokasmiṃ kāmabhogino”ti?",
+          "en": "“When a poor person who has fallen into debt agrees to pay interest, isn’t the interest also suffering in the world for a person who enjoys sensual pleasures?”"
+        },
+        {
+          "scid": "an6.45:3.2",
+          "pli": "“Evaṃ, bhante”. (3)",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "an6.45:4.1",
+          "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko vaḍḍhiṃ paṭissuṇitvā kālābhataṃ vaḍḍhiṃ na deti, codentipi naṃ;",
+          "en": "“When a poor person who has fallen into debt and agreed to pay interest fails to pay it when it falls due, they get a warning."
+        },
+        {
+          "scid": "an6.45:4.2",
+          "pli": "codanāpi, bhikkhave, dukkhā lokasmiṃ kāmabhogino”ti?",
+          "en": "Isn’t being warned suffering in the world for a person who enjoys sensual pleasures?”"
+        },
+        {
+          "scid": "an6.45:4.3",
+          "pli": "“Evaṃ, bhante”. (4)",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "an6.45:5.1",
+          "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko codiyamāno na deti, anucarantipi naṃ;",
+          "en": "“When a poor person fails to pay after getting a warning, they’re prosecuted."
+        },
+        {
+          "scid": "an6.45:5.2",
+          "pli": "anucariyāpi, bhikkhave, dukkhā lokasmiṃ kāmabhogino”ti?",
+          "en": "Isn’t being prosecuted suffering in the world for a person who enjoys sensual pleasures?”"
+        },
+        {
+          "scid": "an6.45:5.3",
+          "pli": "“Evaṃ, bhante”. (5)",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "an6.45:6.1",
+          "pli": "“Yampi, bhikkhave, daliddo assako anāḷhiko anucariyamāno na deti, bandhantipi naṃ;",
+          "en": "“When a poor person fails to pay after being prosecuted, they’re imprisoned."
+        },
+        {
+          "scid": "an6.45:6.2",
+          "pli": "bandhanampi, bhikkhave, dukkhaṃ lokasmiṃ kāmabhogino”ti?",
+          "en": "Isn’t being imprisoned suffering in the world for a person who enjoys sensual pleasures?”"
+        },
+        {
+          "scid": "an6.45:6.3",
+          "pli": "“Evaṃ, bhante”. (6)",
+          "en": "“Yes, sir.”"
+        },
+        {
+          "scid": "an6.45:7.1",
+          "pli": "“Iti kho, bhikkhave, dāliddiyampi dukkhaṃ lokasmiṃ kāmabhogino, iṇādānampi dukkhaṃ lokasmiṃ kāmabhogino, vaḍḍhipi dukkhā lokasmiṃ kāmabhogino, codanāpi dukkhā lokasmiṃ kāmabhogino, anucariyāpi dukkhā lokasmiṃ kāmabhogino, bandhanampi dukkhaṃ lokasmiṃ kāmabhogino;",
+          "en": "“So mendicants, poverty, debt, interest, warnings, prosecution, and imprisonment are suffering in the world for those who enjoy sensual pleasures."
+        },
+        {
+          "scid": "an6.45:7.2",
+          "pli": "evamevaṃ kho, bhikkhave, yassa kassaci saddhā natthi kusalesu dhammesu, hirī natthi kusalesu dhammesu, ottappaṃ natthi kusalesu dhammesu, vīriyaṃ natthi kusalesu dhammesu, paññā natthi kusalesu dhammesu—",
+          "en": "In the same way, whoever has no faith, conscience, prudence, energy, and wisdom when it comes to skillful qualities"
+        },
+        {
+          "scid": "an6.45:7.3",
+          "pli": "ayaṃ vuccati, bhikkhave, ariyassa vinaye daliddo assako anāḷhiko.",
+          "en": "is called poor and penniless in the training of the noble one."
+        },
+        {
+          "scid": "an6.45:8.1",
+          "pli": "Sa kho so, bhikkhave, daliddo assako anāḷhiko saddhāya asati kusalesu dhammesu, hiriyā asati kusalesu dhammesu, ottappe asati kusalesu dhammesu, vīriye asati kusalesu dhammesu, paññāya asati kusalesu dhammesu, kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati.",
+          "en": "Since they have no faith, conscience, prudence, energy, or wisdom when it comes to skillful qualities, they do bad things by way of body, speech, and mind."
+        },
+        {
+          "scid": "an6.45:8.2",
+          "pli": "Idamassa iṇādānasmiṃ vadāmi.",
+          "en": "This is how they’re in debt, I say."
+        },
+        {
+          "scid": "an6.45:9.1",
+          "pli": "So tassa kāyaduccaritassa paṭicchādanahetu pāpikaṃ icchaṃ paṇidahati.",
+          "en": "In order to conceal the bad things they do by way of body, speech, and mind they harbour corrupt wishes."
+        },
+        {
+          "scid": "an6.45:9.2",
+          "pli": "‘Mā maṃ jaññū’ti icchati, ‘mā maṃ jaññū’ti saṅkappati, ‘mā maṃ jaññū’ti vācaṃ bhāsati, ‘mā maṃ jaññū’ti kāyena parakkamati. So tassa vacīduccaritassa paṭicchādanahetu … pe … so tassa manoduccaritassa paṭicchādanahetu … pe … ‘mā maṃ jaññū’ti kāyena parakkamati.",
+          "en": "They wish, plan, speak, and act with the thought: ‘Don’t let anyone find out about me.’"
+        },
+        {
+          "scid": "an6.45:9.3",
+          "pli": "Idamassa vaḍḍhiyā vadāmi.",
+          "en": "This is how they pay interest, I say."
+        },
+        {
+          "scid": "an6.45:10.1",
+          "pli": "Tamenaṃ pesalā sabrahmacārī evamāhaṃsu:",
+          "en": "Good-hearted spiritual companions say this about them:"
+        },
+        {
+          "scid": "an6.45:10.2",
+          "pli": "‘ayañca so āyasmā evaṅkārī evaṃsamācāro’ti.",
+          "en": "‘This venerable acts like this, and behaves like that.’"
+        },
+        {
+          "scid": "an6.45:10.3",
+          "pli": "Idamassa codanāya vadāmi.",
+          "en": "This is how they’re warned, I say."
+        },
+        {
+          "scid": "an6.45:11.1",
+          "pli": "Tamenaṃ araññagataṃ vā rukkhamūlagataṃ vā suññāgāragataṃ vā vippaṭisārasahagatā pāpakā akusalavitakkā samudācaranti.",
+          "en": "When they go to a wilderness, the root of a tree, or an empty hut, they’re beset by remorseful, unskillful thoughts."
+        },
+        {
+          "scid": "an6.45:11.2",
+          "pli": "Idamassa anucariyāya vadāmi.",
+          "en": "This is how they’re prosecuted, I say."
+        },
+        {
+          "scid": "an6.45:12.1",
+          "pli": "Sa kho so, bhikkhave, daliddo assako anāḷhiko kāyena duccaritaṃ caritvā vācāya duccaritaṃ caritvā manasā duccaritaṃ caritvā kāyassa bhedā paraṃ maraṇā nirayabandhane vā bajjhati tiracchānayonibandhane vā.",
+          "en": "That poor, penniless person has done bad things by way of body, speech, and mind. When their body breaks up, after death, they’re trapped in the prison of hell or the animal realm."
+        },
+        {
+          "scid": "an6.45:12.2",
+          "pli": "Nāhaṃ, bhikkhave, aññaṃ ekabandhanampi samanupassāmi evaṃdāruṇaṃ evaṃkaṭukaṃ evaṃantarāyakaraṃ anuttarassa yogakkhemassa adhigamāya, yathayidaṃ, bhikkhave, nirayabandhanaṃ vā tiracchānayonibandhanaṃ vāti.",
+          "en": "I don’t see a single prison that’s as brutal, as vicious, and such an obstacle to reaching the supreme sanctuary as the prison of hell or the animal realm."
+        },
+        {
+          "scid": "an6.45:13.1",
+          "pli": "Dāliddiyaṃ dukkhaṃ loke,",
+          "en": "Poverty is said to be suffering in the world,"
+        },
+        {
+          "scid": "an6.45:13.2",
+          "pli": "iṇādānañca vuccati;",
+          "en": "and so is being in debt."
+        },
+        {
+          "scid": "an6.45:13.3",
+          "pli": "Daliddo iṇamādāya,",
+          "en": "A poor person who has fallen in debt"
+        },
+        {
+          "scid": "an6.45:13.4",
+          "pli": "bhuñjamāno vihaññati.",
+          "en": "worries even when spending the loan."
+        },
+        {
+          "scid": "an6.45:14.1",
+          "pli": "Tato anucaranti naṃ,",
+          "en": "And then they’re prosecuted,"
+        },
+        {
+          "scid": "an6.45:14.2",
+          "pli": "bandhanampi nigacchati;",
+          "en": "or even thrown in jail."
+        },
+        {
+          "scid": "an6.45:14.3",
+          "pli": "Etañhi bandhanaṃ dukkhaṃ,",
+          "en": "Such imprisonment is true suffering"
+        },
+        {
+          "scid": "an6.45:14.4",
+          "pli": "kāmalābhābhijappinaṃ.",
+          "en": "for someone who prays for pleasure and possessions."
+        },
+        {
+          "scid": "an6.45:15.1",
+          "pli": "Tatheva ariyavinaye,",
+          "en": "In the same way, in the noble one’s training"
+        },
+        {
+          "scid": "an6.45:15.2",
+          "pli": "saddhā yassa na vijjati;",
+          "en": "whoever has no faith,"
+        },
+        {
+          "scid": "an6.45:15.3",
+          "pli": "Ahirīko anottappī,",
+          "en": "no conscience or prudence,"
+        },
+        {
+          "scid": "an6.45:15.4",
+          "pli": "pāpakammavinibbayo.",
+          "en": "contemplates bad deeds."
+        },
+        {
+          "scid": "an6.45:16.1",
+          "pli": "Kāyaduccaritaṃ katvā,",
+          "en": "After doing bad things"
+        },
+        {
+          "scid": "an6.45:16.2",
+          "pli": "vacīduccaritāni ca;",
+          "en": "by way of body,"
+        },
+        {
+          "scid": "an6.45:16.3",
+          "pli": "Manoduccaritaṃ katvā,",
+          "en": "speech, and mind,"
+        },
+        {
+          "scid": "an6.45:16.4",
+          "pli": "‘mā maṃ jaññū’ti icchati.",
+          "en": "they wish ‘May no-one find me out!’"
+        },
+        {
+          "scid": "an6.45:17.1",
+          "pli": "So saṃsappati kāyena,",
+          "en": "Their behavior is creepy"
+        },
+        {
+          "scid": "an6.45:17.2",
+          "pli": "vācāya uda cetasā;",
+          "en": "by body, speech, and mind."
+        },
+        {
+          "scid": "an6.45:17.3",
+          "pli": "Pāpakammaṃ pavaḍḍhento,",
+          "en": "They pile up bad deeds"
+        },
+        {
+          "scid": "an6.45:17.4",
+          "pli": "tattha tattha punappunaṃ.",
+          "en": "every which way, again and again."
+        },
+        {
+          "scid": "an6.45:18.1",
+          "pli": "So pāpakammo dummedho,",
+          "en": "That stupid evildoer,"
+        },
+        {
+          "scid": "an6.45:18.2",
+          "pli": "jānaṃ dukkaṭamattano;",
+          "en": "knowing their own misdeeds,"
+        },
+        {
+          "scid": "an6.45:18.3",
+          "pli": "Daliddo iṇamādāya,",
+          "en": "is a poor person who has fallen in debt,"
+        },
+        {
+          "scid": "an6.45:18.4",
+          "pli": "bhuñjamāno vihaññati.",
+          "en": "and worries even when spending the loan."
+        },
+        {
+          "scid": "an6.45:19.1",
+          "pli": "Tato anucaranti naṃ,",
+          "en": "And when in village or wilderness"
+        },
+        {
+          "scid": "an6.45:19.2",
+          "pli": "saṅkappā mānasā dukhā;",
+          "en": "they’re prosecuted"
+        },
+        {
+          "scid": "an6.45:19.3",
+          "pli": "Gāme vā yadi vāraññe,",
+          "en": "by painful mental plans,"
+        },
+        {
+          "scid": "an6.45:19.4",
+          "pli": "yassa vippaṭisārajā.",
+          "en": "which are born of remorse."
+        },
+        {
+          "scid": "an6.45:20.1",
+          "pli": "So pāpakammo dummedho,",
+          "en": "That stupid evildoer,"
+        },
+        {
+          "scid": "an6.45:20.2",
+          "pli": "jānaṃ dukkaṭamattano;",
+          "en": "knowing their own misdeeds,"
+        },
+        {
+          "scid": "an6.45:20.3",
+          "pli": "Yonimaññataraṃ gantvā,",
+          "en": "goes to one of the animal realms,"
+        },
+        {
+          "scid": "an6.45:20.4",
+          "pli": "niraye vāpi bajjhati.",
+          "en": "or is trapped in hell."
+        },
+        {
+          "scid": "an6.45:21.1",
+          "pli": "Etañhi bandhanaṃ dukkhaṃ,",
+          "en": "Such imprisonment is true suffering,"
+        },
+        {
+          "scid": "an6.45:21.2",
+          "pli": "yamhā dhīro pamuccati;",
+          "en": "from which a wise person is released."
+        },
+        {
+          "scid": "an6.45:21.3",
+          "pli": "Dhammaladdhehi bhogehi,",
+          "en": "With confident heart, they give"
+        },
+        {
+          "scid": "an6.45:21.4",
+          "pli": "dadaṃ cittaṃ pasādayaṃ.",
+          "en": "with wealth that is properly earned."
+        },
+        {
+          "scid": "an6.45:22.1",
+          "pli": "Ubhayattha kaṭaggāho,",
+          "en": "That faithful householder"
+        },
+        {
+          "scid": "an6.45:22.2",
+          "pli": "saddhassa gharamesino;",
+          "en": "wins both ways:"
+        },
+        {
+          "scid": "an6.45:22.3",
+          "pli": "Diṭṭhadhammahitatthāya,",
+          "en": "welfare and benefit in this life,"
+        },
+        {
+          "scid": "an6.45:22.4",
+          "pli": "samparāyasukhāya ca;",
+          "en": "and happiness in the next."
+        },
+        {
+          "scid": "an6.45:22.5",
+          "pli": "Evametaṃ gahaṭṭhānaṃ,",
+          "en": "This is how, for a householder,"
+        },
+        {
+          "scid": "an6.45:22.6",
+          "pli": "cāgo puññaṃ pavaḍḍhati.",
+          "en": "merit grows by generosity."
+        },
+        {
+          "scid": "an6.45:23.1",
+          "pli": "Tatheva ariyavinaye,",
+          "en": "In the same way, in the noble one’s training,"
+        },
+        {
+          "scid": "an6.45:23.2",
+          "pli": "saddhā yassa patiṭṭhitā;",
+          "en": "whoever is grounded in faith,"
+        },
+        {
+          "scid": "an6.45:23.3",
+          "pli": "Hirīmano ca ottappī,",
+          "en": "with conscience and prudence,"
+        },
+        {
+          "scid": "an6.45:23.4",
+          "pli": "paññavā sīlasaṃvuto.",
+          "en": "wise, and restrained in ethical conduct,"
+        },
+        {
+          "scid": "an6.45:24.1",
+          "pli": "Eso kho ariyavinaye,",
+          "en": "is said to live happily"
+        },
+        {
+          "scid": "an6.45:24.2",
+          "pli": "‘sukhajīvī’ti vuccati;",
+          "en": "in the noble one’s training."
+        },
+        {
+          "scid": "an6.45:24.3",
+          "pli": "Nirāmisaṃ sukhaṃ laddhā,",
+          "en": "After gaining spiritual bliss,"
+        },
+        {
+          "scid": "an6.45:24.4",
+          "pli": "upekkhaṃ adhitiṭṭhati.",
+          "en": "they concentrate on equanimity."
+        },
+        {
+          "scid": "an6.45:25.1",
+          "pli": "Pañca nīvaraṇe hitvā,",
+          "en": "They give up the five hindrances,"
+        },
+        {
+          "scid": "an6.45:25.2",
+          "pli": "niccaṃ āraddhavīriyo;",
+          "en": "constantly energetic,"
+        },
+        {
+          "scid": "an6.45:25.3",
+          "pli": "Jhānāni upasampajja,",
+          "en": "and enter the absorptions,"
+        },
+        {
+          "scid": "an6.45:25.4",
+          "pli": "ekodi nipako sato.",
+          "en": "unified, self-disciplined, and mindful."
+        },
+        {
+          "scid": "an6.45:26.1",
+          "pli": "Evaṃ ñatvā yathābhūtaṃ,",
+          "en": "Truly knowing in this way"
+        },
+        {
+          "scid": "an6.45:26.2",
+          "pli": "sabbasaṃyojanakkhaye;",
+          "en": "the end of all fetters,"
+        },
+        {
+          "scid": "an6.45:26.3",
+          "pli": "Sabbaso anupādāya,",
+          "en": "by not grasping in any way,"
+        },
+        {
+          "scid": "an6.45:26.4",
+          "pli": "sammā cittaṃ vimuccati.",
+          "en": "their mind is rightly freed."
+        },
+        {
+          "scid": "an6.45:27.1",
+          "pli": "Tassa sammā vimuttassa,",
+          "en": "To that poised one, rightly freed"
+        },
+        {
+          "scid": "an6.45:27.2",
+          "pli": "ñāṇañce hoti tādino;",
+          "en": "with the end of the fetters of rebirth,"
+        },
+        {
+          "scid": "an6.45:27.3",
+          "pli": "‘Akuppā me vimuttī’ti,",
+          "en": "the knowledge comes:"
+        },
+        {
+          "scid": "an6.45:27.4",
+          "pli": "bhavasaṃyojanakkhaye.",
+          "en": "‘My freedom is unshakable.’"
+        },
+        {
+          "scid": "an6.45:28.1",
+          "pli": "Etaṃ kho paramaṃ ñāṇaṃ,",
+          "en": "This is the ultimate knowledge."
+        },
+        {
+          "scid": "an6.45:28.2",
+          "pli": "etaṃ sukhamanuttaraṃ;",
+          "en": "This is the supreme happiness."
+        },
+        {
+          "scid": "an6.45:28.3",
+          "pli": "Asokaṃ virajaṃ khemaṃ,",
+          "en": "Sorrowless, stainless, secure:"
+        },
+        {
+          "scid": "an6.45:28.4",
+          "pli": "etaṃ ānaṇyamuttaman”ti.",
+          "en": "this is the highest freedom from debt.”"
+        },
+        {
+          "scid": "an6.45:28.5",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.45/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.45",
+    "volpages": "AN iii 351",
+    "uid": "an6.45",
+    "blurb": "Poor people suffer when they get in debt. Spiritual practitioners who are devoid of good qualities suffer in a similar way.",
+    "difficulty": null,
+    "original_title": "Iṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Debt",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.45_sujato",
+        "segmented": true,
+        "title": "Debt"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an6.45_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Debt"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 3
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn24.40",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn24.40",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Self Neither Has Form Nor Is Formless",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Self Is Perfectly Happy",
+      "uid": "sn24.41"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Self Has Form and Is Formless",
+      "uid": "sn24.39"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn24.40:0.1",
+          "pli": "Saṃyutta Nikāya 24",
+          "en": "Linked Discourses 24"
+        },
+        {
+          "scid": "sn24.40:0.2",
+          "pli": "2. Dutiyagamanavagga",
+          "en": "2. The Second Round"
+        },
+        {
+          "scid": "sn24.40:0.3",
+          "pli": "40. Nevarūpīnārūpīattāsutta",
+          "en": "40. The Self Neither Has Form Nor Is Formless"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 24…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn24.40:1.1",
+          "pli": "“Neva rūpī nārūpī attā hoti arogo paraṃ maraṇā”ti … pe ….",
+          "en": "“‘The self neither has form nor is formless, and is sound after death’?” …"
+        },
+        {
+          "scid": "sn24.40:1.2",
+          "pli": "Bāvīsatimaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“‘The self neither has form nor is…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn24.40/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 24.40",
+    "volpages": "SN iii 219",
+    "uid": "sn24.40",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nevarūpīnārūpīattā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Self Neither Has Form Nor Is Formless",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn24.40_sujato",
+        "segmented": true,
+        "title": "The Self Neither Has Form Nor Is Formless"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 7
+  }
+}

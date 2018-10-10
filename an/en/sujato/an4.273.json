@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.273",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.273",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Wrong View",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mindfulness Meditation",
+      "uid": "an4.274"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ill Will",
+      "uid": "an4.272"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.273:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.273:0.2",
+          "pli": "27. Kammapathavagga",
+          "en": "27. Ways of Performing Deeds"
+        },
+        {
+          "scid": "an4.273:0.3",
+          "pli": "273. Micchādiṭṭhisutta",
+          "en": "273. Wrong View"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.273:1.1",
+          "pli": "… pe … Attanā ca micchādiṭṭhiko hoti, parañca micchādiṭṭhiyā samādapeti, micchādiṭṭhiyā ca samanuñño hoti, micchādiṭṭhiyā ca vaṇṇaṃ bhāsati—imehi … pe ….",
+          "en": "… They themselves have wrong view …"
+        },
+        {
+          "scid": "an4.273:2.1",
+          "pli": "Attanā ca sammādiṭṭhiko hoti, parañca sammādiṭṭhiyā samādapeti, sammādiṭṭhiyā ca samanuñño hoti, sammādiṭṭhiyā ca vaṇṇaṃ bhāsati—",
+          "en": "They themselves have right view; they encourage others to have right view; they approve of right view; and they praise right view."
+        },
+        {
+          "scid": "an4.273:2.2",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ saggeti.",
+          "en": "Someone with these four qualities is raised up to heaven.”"
+        },
+        {
+          "scid": "an4.273:2.3",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.273:2.4",
+          "pli": "Kammapathavaggo sattamo.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "… They themselves have wrong view ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.273/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.273//AN 4.270",
+    "volpages": "AN ii 255",
+    "uid": "an4.273",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Micchādiṭṭhi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Wrong View",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.273_sujato",
+        "segmented": true,
+        "title": "Wrong View"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

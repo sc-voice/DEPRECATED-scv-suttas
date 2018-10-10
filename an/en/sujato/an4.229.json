@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an4.229",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.229",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Imprudence",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Witless",
+      "uid": "an4.230"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kinds of Expression (2nd)",
+      "uid": "an4.228"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.229:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.229:0.2",
+          "pli": "23. Duccaritavagga",
+          "en": "23. Bad Conduct"
+        },
+        {
+          "scid": "an4.229:0.3",
+          "pli": "229. Ahirikasutta",
+          "en": "229. Imprudence"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.229:1.1",
+          "pli": "… pe … Assaddho hoti, dussīlo hoti, ahiriko hoti, anottappī hoti … pe … saddho hoti, sīlavā hoti, hirimā hoti, ottappī hoti … pe ….",
+          "en": "“A foolish person … makes much bad karma. … They’re faithless, unethical, shameless, and imprudent. … An astute person … makes much merit. … They’re faithful, ethical, conscientious, and prudent. …”"
+        },
+        {
+          "scid": "an4.229:1.2",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“A foolish person … makes much bad…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.229/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.229//AN 4.228",
+    "volpages": "AN ii 229",
+    "uid": "an4.229",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ahirika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Imprudence",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.229_sujato",
+        "segmented": true,
+        "title": "Imprudence"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

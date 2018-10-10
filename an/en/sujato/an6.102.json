@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an6.102",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.102",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Transience",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With a Drawn Sword",
+      "uid": "an6.103"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Extinguished",
+      "uid": "an6.101"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.102:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.102:0.2",
+          "pli": "10. Ānisaṃsavagga",
+          "en": "10. Benefit"
+        },
+        {
+          "scid": "an6.102:0.3",
+          "pli": "102. Anavatthitasutta",
+          "en": "102. Transience"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.102:1.1",
+          "pli": "“Cha, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetuṃ.",
+          "en": "“Mendicants, seeing six benefits is quite enough to establish the perception of impermanence in all conditions without qualification."
+        },
+        {
+          "scid": "an6.102:1.2",
+          "pli": "Katame cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "an6.102:1.3",
+          "pli": "‘Sabbasaṅkhārā ca me anavatthitā khāyissanti, sabbaloke ca me mano nābhiramissati, sabbalokā ca me mano vuṭṭhahissati, nibbānapoṇañca me mānasaṃ bhavissati, saṃyojanā ca me pahānaṃ gacchissanti, paramena ca sāmaññena samannāgato bhavissāmī’ti.",
+          "en": "‘All conditions will appear to me as transient.’ ‘My mind will not delight anywhere in the world.’ ‘My mind will rise above the whole world.’ ‘My mind will incline to extinguishment.’ ‘My fetters will be given up.’ ‘I will achieve the ultimate goal of the ascetic life.’"
+        },
+        {
+          "scid": "an6.102:1.4",
+          "pli": "Ime kho, bhikkhave, cha ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetun”ti.",
+          "en": "Seeing these six benefits is quite enough to establish the perception of impermanence in all conditions without qualification.”"
+        },
+        {
+          "scid": "an6.102:1.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.102/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.102",
+    "volpages": "AN iii 443",
+    "uid": "an6.102",
+    "blurb": "Reasons for meditating on impermanence.",
+    "difficulty": null,
+    "original_title": "Anavatthita Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Transience",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.102_sujato",
+        "segmented": true,
+        "title": "Transience"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an6.102_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Without Exception (1)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

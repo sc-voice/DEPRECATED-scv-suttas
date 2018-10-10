@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an8.90",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an8.90",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Proper Behavior in a Case of Aggravated Misconduct",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an8.91-117"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Reconciliation",
+      "uid": "an8.89"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an8.90:0.1",
+          "pli": "Aṅguttara Nikāya 8",
+          "en": "Numbered Discourses 8"
+        },
+        {
+          "scid": "an8.90:0.2",
+          "pli": "9. Sativagga",
+          "en": "9. Mindfulness"
+        },
+        {
+          "scid": "an8.90:0.3",
+          "pli": "90. Sammāvattanasutta",
+          "en": "90. Proper Behavior in a Case of Aggravated Misconduct"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an8.90:1.1",
+          "pli": "“Tassapāpiyasikakammakatena, bhikkhave, bhikkhunā aṭṭhasu dhammesu sammā vattitabbaṃ—",
+          "en": "“Mendicants, a mendicant who has been convicted of aggravated misconduct must behave themselves properly in eight respects."
+        },
+        {
+          "scid": "an8.90:1.2",
+          "pli": "na upasampādetabbo, na nissayo dātabbo, na sāmaṇero upaṭṭhāpetabbo, na bhikkhunovādakasammuti sāditabbā, sammatenapi bhikkhuniyo na ovaditabbā, na kāci saṃghasammuti sāditabbā, na kismiñci paccekaṭṭhāne ṭhapetabbo, na ca tena mūlena vuṭṭhāpetabbo.",
+          "en": "They must not perform an ordination, give dependence, or be attended by a novice. They must not consent to being appointed as adviser for nuns, and if they are appointed they should not give such advice. They must not consent to any Saṅgha appointment. They must not be put in an isolated place. They must not give rehabilitation in any offense similar to that which they transgressed."
+        },
+        {
+          "scid": "an8.90:1.3",
+          "pli": "Tassapāpiyasikakammakatena, bhikkhave, bhikkhunā imesu aṭṭhasu dhammesu sammā vattitabban”ti.",
+          "en": "A mendicant who has been convicted of aggravated misconduct must behave themselves properly in these eight respects.”"
+        },
+        {
+          "scid": "an8.90:1.4",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an8.90:1.5",
+          "pli": "Sativaggo catuttho.",
+          "en": ""
+        },
+        {
+          "scid": "an8.90:2.1",
+          "pli": "Satipuṇṇiyamūlena,",
+          "en": ""
+        },
+        {
+          "scid": "an8.90:2.2",
+          "pli": "Corasamaṇena pañcamaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "an8.90:2.3",
+          "pli": "Yaso pattappasādena,",
+          "en": ""
+        },
+        {
+          "scid": "an8.90:2.4",
+          "pli": "Paṭisāraṇīyañca vattananti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an8.90/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 8.90",
+    "volpages": "AN iv 347",
+    "uid": "an8.90",
+    "blurb": "Eight things a mendicant charged with aggravated misconduct must observe.",
+    "difficulty": null,
+    "original_title": "Sammāvattana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Proper Behavior in a Case of Aggravated Misconduct",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an8.90_sujato",
+        "segmented": true,
+        "title": "Proper Behavior in a Case of Aggravated Misconduct"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

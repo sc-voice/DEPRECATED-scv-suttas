@@ -1,0 +1,137 @@
+{
+  "sutta_uid": "thig8.1",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig8.1",
+    "lang": "en",
+    "is_root": false,
+    "title": "Sīsupacālā",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Vaḍḍha’s Mother",
+      "uid": "thig9.1"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Upacālā",
+      "uid": "thig7.3"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig8.1:0.1",
+          "en": "Therīgāthā 8.1"
+        },
+        {
+          "scid": "thig8.1:0.2",
+          "en": "Sīsupacālā",
+          "pli": "Sīsūpacālātherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig8.1:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig8.1:1.0.2",
+          "en": "Canto 8"
+        },
+        {
+          "scid": "thig8.1:1.0.3",
+          "en": "1. Sīsupacālā"
+        },
+        {
+          "scid": "thig8.1:1.0.4",
+          "en": "“Lo! here a Sister, in the Precepts sure, Well-guarded in the sixfold way of sense, Who hath attainèd to that Holy Path, That ever-welling elixir of life."
+        },
+        {
+          "scid": "thig8.1:1.0.5",
+          "en": "Māra. Now think upon the Three-and-Thirty Gods, And on the gods who rule in realm of Shades, On those who reign in heaven of Bliss, and on Those higher deities who live where life Yet flows by way of sense and of desire: Think and thither aspire with longing heart, Where in past ages thou hast lived before."
+        },
+        {
+          "scid": "thig8.1:1.0.6",
+          "en": "Therī. Ay, think upon the Three-and-Thirty gods, And on the gods who rule in realm of Shades; On those who reign in heaven of Bliss, and on Those higher deities who live where life Yet flows by way of sense and of desire."
+        },
+        {
+          "scid": "thig8.1:1.0.7",
+          "en": "Consider how time after time they go From birth to death, and death to birth again, Becoming this and then becoming that, Ever beset by the recurring doom Of hapless individuality, Whence comes no merciful enfranchisement."
+        },
+        {
+          "scid": "thig8.1:1.0.8",
+          "en": "On fire is all the world, is all in flames! Ablaze is all the world, the heav’ns do quake!"
+        },
+        {
+          "scid": "thig8.1:1.0.9",
+          "en": "But that which quaketh not, that ever sure, That priceless thing, unheeded by the world, Even the Norm—that hath the Buddha taught To me, therein my mind delighted dwells."
+        },
+        {
+          "scid": "thig8.1:1.0.10",
+          "en": "And I who heard his blessed word abide Fain only and alway to do his will. The Threefold Wisdom have I gotten now, And done the bidding of the Buddha blest."
+        },
+        {
+          "scid": "thig8.1:1.0.11",
+          "en": "On every hand the love of sense is slain And the thick gloom of ignorance is rent In twain. Know this, O Evil One, avaunt! Here, O Destroyer, shalt thou not prevail!”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig8.1/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 8.1",
+    "volpages": "Thig 142",
+    "uid": "thig8.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sīsūpacālātherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sīsupacālā",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig8.1_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Sīsupacālā"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

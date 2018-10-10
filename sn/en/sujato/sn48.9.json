@@ -1,0 +1,205 @@
+{
+  "sutta_uid": "sn48.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Analysis (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Analysis (2nd)",
+      "uid": "sn48.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Should Be Seen",
+      "uid": "sn48.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.9:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.9:0.2",
+          "pli": "1. Suddhikavagga",
+          "en": "1. Plain Version"
+        },
+        {
+          "scid": "sn48.9:0.3",
+          "pli": "9. Paṭhamavibhaṅgasutta",
+          "en": "9. Analysis (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.9:1.1",
+          "pli": "“Pañcimāni, bhikkhave, indriyāni.",
+          "en": "“Mendicants, there are these five faculties."
+        },
+        {
+          "scid": "sn48.9:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn48.9:1.3",
+          "pli": "Saddhindriyaṃ … pe … paññindriyaṃ.",
+          "en": "The faculties of faith, energy, mindfulness, immersion, and wisdom."
+        },
+        {
+          "scid": "sn48.9:1.4",
+          "pli": "Katamañca, bhikkhave, saddhindriyaṃ?",
+          "en": "And what is the faculty of faith?"
+        },
+        {
+          "scid": "sn48.9:1.5",
+          "pli": "Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ:",
+          "en": "It’s when a noble disciple has faith in the Realized One’s awakening:"
+        },
+        {
+          "scid": "sn48.9:1.6",
+          "pli": "‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti—",
+          "en": "‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’"
+        },
+        {
+          "scid": "sn48.9:1.7",
+          "pli": "idaṃ vuccati, bhikkhave, saddhindriyaṃ.",
+          "en": "This is called the faculty of faith."
+        },
+        {
+          "scid": "sn48.9:2.1",
+          "pli": "Katamañca, bhikkhave, vīriyindriyaṃ?",
+          "en": "And what is the faculty of energy?"
+        },
+        {
+          "scid": "sn48.9:2.2",
+          "pli": "Idha, bhikkhave, ariyasāvako āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu—",
+          "en": "It’s when a mendicant lives with energy roused up for giving up unskillful qualities and gaining skillful qualities. They’re strong, firmly applied, not slacking off when it comes to developing skillful qualities."
+        },
+        {
+          "scid": "sn48.9:2.3",
+          "pli": "idaṃ vuccati, bhikkhave, vīriyindriyaṃ.",
+          "en": "This is called the faculty of energy."
+        },
+        {
+          "scid": "sn48.9:3.1",
+          "pli": "Katamañca, bhikkhave, satindriyaṃ?",
+          "en": "And what is the faculty of mindfulness?"
+        },
+        {
+          "scid": "sn48.9:3.2",
+          "pli": "Idha, bhikkhave, ariyasāvako satimā hoti paramena satinepakkena samannāgato cirakatampi cirabhāsitampi saritā anussaritā—",
+          "en": "It’s when a noble disciple is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago."
+        },
+        {
+          "scid": "sn48.9:3.3",
+          "pli": "idaṃ vuccati, bhikkhave, satindriyaṃ.",
+          "en": "This is called the faculty of mindfulness."
+        },
+        {
+          "scid": "sn48.9:4.1",
+          "pli": "Katamañca, bhikkhave, samādhindriyaṃ?",
+          "en": "And what is the faculty of immersion?"
+        },
+        {
+          "scid": "sn48.9:4.2",
+          "pli": "Idha, bhikkhave, ariyasāvako vossaggārammaṇaṃ karitvā labhati samādhiṃ, labhati cittassa ekaggataṃ—",
+          "en": "It’s when a noble disciple, relying on letting go, gains immersion, gains unification of mind."
+        },
+        {
+          "scid": "sn48.9:4.3",
+          "pli": "idaṃ vuccati, bhikkhave, samādhindriyaṃ.",
+          "en": "This is called the faculty of immersion."
+        },
+        {
+          "scid": "sn48.9:5.1",
+          "pli": "Katamañca, bhikkhave, paññindriyaṃ?",
+          "en": "And what is the faculty of wisdom?"
+        },
+        {
+          "scid": "sn48.9:5.2",
+          "pli": "Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya, sammā dukkhakkhayagāminiyā—",
+          "en": "It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering."
+        },
+        {
+          "scid": "sn48.9:5.3",
+          "pli": "idaṃ vuccati, bhikkhave, paññindriyaṃ.",
+          "en": "This is called the faculty of wisdom."
+        },
+        {
+          "scid": "sn48.9:5.4",
+          "pli": "Imāni kho, bhikkhave, pañcindriyānī”ti.",
+          "en": "These are the five faculties.”"
+        },
+        {
+          "scid": "sn48.9:5.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 48.9",
+    "volpages": "SN v 196",
+    "uid": "sn48.9",
+    "blurb": "The Buddha gives a short explanation of each of the five faculties. ",
+    "difficulty": null,
+    "original_title": "Paṭhamavibhaṅga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Analysis (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.9_sujato",
+        "segmented": true,
+        "title": "Analysis (1st)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

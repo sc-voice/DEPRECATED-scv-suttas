@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.152",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.152",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Power of Faith",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Power of Wisdom",
+      "uid": "an4.153"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Faculties",
+      "uid": "an4.151"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.152:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.152:0.2",
+          "pli": "16. Indriyavagga",
+          "en": "16. Faculties"
+        },
+        {
+          "scid": "an4.152:0.3",
+          "pli": "152. Saddhābalasutta",
+          "en": "152. The Power of Faith"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.152:1.1",
+          "pli": "“Cattārimāni, bhikkhave, balāni.",
+          "en": "“Mendicants, there are these four powers."
+        },
+        {
+          "scid": "an4.152:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.152:1.3",
+          "pli": "Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ—",
+          "en": "The powers of faith, energy, mindfulness, and immersion."
+        },
+        {
+          "scid": "an4.152:1.4",
+          "pli": "imāni kho, bhikkhave, cattāri balānī”ti.",
+          "en": "These are the four powers.”"
+        },
+        {
+          "scid": "an4.152:1.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.152/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.152",
+    "volpages": "AN ii 141",
+    "uid": "an4.152",
+    "blurb": "The powers of faith, energy, mindfulness, and convergence.",
+    "difficulty": null,
+    "original_title": "Saddhābala Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Power of Faith",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.152_sujato",
+        "segmented": true,
+        "title": "The Power of Faith"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 2
+  }
+}

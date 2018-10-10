@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn35.180-182",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.180-182",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Desire, etc. for the Suffering Exterior",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Desire, etc. for the Not-Self Exterior",
+      "uid": "sn35.183-185"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Desire, etc. for the Impermanent Exterior",
+      "uid": "sn35.177-179"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.180-182:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.180-182:0.2",
+          "pli": "17. Saṭṭhipeyyālavagga",
+          "en": "17. Sixty Abbreviated Texts"
+        },
+        {
+          "scid": "sn35.180-182:0.3",
+          "pli": "180–​182. Bāhiradukkhachandādisutta",
+          "en": "180–182. Desire, etc. for the Suffering Exterior"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.180-182:1.1",
+          "pli": "“Yaṃ, bhikkhave, dukkhaṃ, tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo.",
+          "en": "“Mendicants, you should give up desire … greed … desire and greed for what is suffering."
+        },
+        {
+          "scid": "sn35.180-182:1.2",
+          "pli": "Kiñca, bhikkhave, dukkhaṃ?",
+          "en": "And what is suffering?"
+        },
+        {
+          "scid": "sn35.180-182:1.3",
+          "pli": "Rūpā, bhikkhave, dukkhā; tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo.",
+          "en": "Sights, sounds, smells, tastes, touches, and thoughts are suffering …”"
+        },
+        {
+          "scid": "sn35.180-182:1.4",
+          "pli": "Saddā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.180-182:1.5",
+          "pli": "gandhā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.180-182:1.6",
+          "pli": "rasā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.180-182:1.7",
+          "pli": "phoṭṭhabbā …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.180-182:1.8",
+          "pli": "dhammā dukkhā; tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.180-182:1.9",
+          "pli": "Yaṃ, bhikkhave, dukkhaṃ, tatra vo chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo”ti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.180-182/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn35.180-182",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bāhiradukkhachandādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Desire, etc. for the Suffering Exterior",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.180-182_sujato",
+        "segmented": true,
+        "title": "Desire, etc. for the Suffering Exterior"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

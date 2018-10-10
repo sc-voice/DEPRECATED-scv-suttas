@@ -1,0 +1,195 @@
+{
+  "sutta_uid": "an3.77",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.77",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Existence (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Precepts and Observances",
+      "uid": "an3.78"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Existence (1st)",
+      "uid": "an3.76"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.77:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.77:0.2",
+          "pli": "8. Ānandavagga",
+          "en": "8. Ānanda"
+        },
+        {
+          "scid": "an3.77:0.3",
+          "pli": "77. Dutiyabhavasutta",
+          "en": "77. Existence (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.77:1.1",
+          "pli": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami … pe … āyasmā ānando bhagavantaṃ etadavoca:",
+          "en": "Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "an3.77:1.2",
+          "pli": "“bhavo, bhavoti, bhante, vuccati.",
+          "en": "“Sir, they speak of this thing called ‘continued existence’."
+        },
+        {
+          "scid": "an3.77:1.3",
+          "pli": "Kittāvatā nu kho, bhante, bhavo hotī”ti?",
+          "en": "How is continued existence defined?”"
+        },
+        {
+          "scid": "an3.77:2.1",
+          "pli": "“Kāmadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?",
+          "en": "“If, Ānanda, there were no deeds to result in the sensual realm, would existence in the sensual realm still come about?”"
+        },
+        {
+          "scid": "an3.77:2.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "an3.77:2.3",
+          "pli": "“Iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho.",
+          "en": "“So, Ānanda, deeds are the field, consciousness is the seed, and craving is the moisture."
+        },
+        {
+          "scid": "an3.77:2.4",
+          "pli": "Avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ hīnāya dhātuyā cetanā patiṭṭhitā patthanā patiṭṭhitā evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
+          "en": "The intention and aim of sentient beings—hindered by ignorance and fettered by craving—is established in a lower realm. That’s how there is rebirth into a new state of existence in the future."
+        },
+        {
+          "scid": "an3.77:3.1",
+          "pli": "Rūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho rūpabhavo paññāyethā”ti?",
+          "en": "If there were no deeds to result in the realm of luminous form, would existence in the realm of luminous form still be evident?”"
+        },
+        {
+          "scid": "an3.77:3.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "an3.77:3.3",
+          "pli": "“Iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho.",
+          "en": "“So, Ānanda, deeds are the field, consciousness is the seed, and craving is the moisture."
+        },
+        {
+          "scid": "an3.77:3.4",
+          "pli": "Avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ majjhimāya dhātuyā cetanā patiṭṭhitā patthanā patiṭṭhitā evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
+          "en": "The intention and aim of sentient beings—hindered by ignorance and fettered by craving—is established in a middle realm. That’s how there is rebirth into a new state of existence in the future."
+        },
+        {
+          "scid": "an3.77:4.1",
+          "pli": "Arūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho arūpabhavo paññāyethā”ti?",
+          "en": "If there were no deeds to result in the formless realm, would existence in the formless realm still be evident?”"
+        },
+        {
+          "scid": "an3.77:4.2",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "an3.77:4.3",
+          "pli": "“Iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho.",
+          "en": "“So, deeds are the field, consciousness is the seed, and craving is the moisture."
+        },
+        {
+          "scid": "an3.77:4.4",
+          "pli": "Avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ paṇītāya dhātuyā cetanā patiṭṭhitā patthanā patiṭṭhitā evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
+          "en": "The intention and aim of sentient beings—hindered by ignorance and fettered by craving—is established in a higher realm. That’s how there is rebirth into a new state of existence in the future."
+        },
+        {
+          "scid": "an3.77:4.5",
+          "pli": "Evaṃ kho, ānanda, bhavo hotī”ti.",
+          "en": "That’s how continued existence is defined.”"
+        },
+        {
+          "scid": "an3.77:4.6",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then Venerable Ānanda went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.77/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.77",
+    "volpages": "AN i 224",
+    "uid": "an3.77",
+    "blurb": "How consciousness, karma, and craving create and sustain future lives, with an emphasis on intention.",
+    "difficulty": null,
+    "original_title": "Dutiyabhava Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Existence (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.77_sujato",
+        "segmented": true,
+        "title": "Existence (2nd)"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an3.77_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Becoming (2)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

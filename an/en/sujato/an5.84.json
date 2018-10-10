@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.84",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.84",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Faithless",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cannot Endure",
+      "uid": "an5.85"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Deceiver",
+      "uid": "an5.83"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.84:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.84:0.2",
+          "pli": "9. Theravagga",
+          "en": "9. Senior Mendicants"
+        },
+        {
+          "scid": "an5.84:0.3",
+          "pli": "84. Assaddhasutta",
+          "en": "84. Faithless"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.84:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ appiyo ca hoti, amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "“Mendicants, a senior mendicant with five qualities is unlikable and unlovable to their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an5.84:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.84:1.3",
+          "pli": "Assaddho hoti, ahiriko hoti, anottappī hoti, kusīto hoti, duppañño hoti—",
+          "en": "They’re faithless, shameless, imprudent, lazy, and witless."
+        },
+        {
+          "scid": "an5.84:1.4",
+          "pli": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+          "en": "A senior mendicant with these five qualities is unlikable and unlovable to their spiritual companions, not respected or admired."
+        },
+        {
+          "scid": "an5.84:2.1",
+          "pli": "Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.",
+          "en": "A senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired."
+        },
+        {
+          "scid": "an5.84:2.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.84:2.3",
+          "pli": "Saddho hoti, hirīmā hoti, ottappī hoti, āraddhavīriyo hoti, paññavā hoti—",
+          "en": "They’re faithful, conscientious, prudent, energetic, and wise."
+        },
+        {
+          "scid": "an5.84:2.4",
+          "pli": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti.",
+          "en": "A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”"
+        },
+        {
+          "scid": "an5.84:2.5",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.84/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.84",
+    "volpages": "AN iii 112",
+    "uid": "an5.84",
+    "blurb": "Qualities making a senior mendicant liked or disliked.",
+    "difficulty": null,
+    "original_title": "Assaddha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Faithless",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.84_sujato",
+        "segmented": true,
+        "title": "Faithless"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn17.34",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn17.34",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Bright Quality",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Shortly After He Left",
+      "uid": "sn17.35"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Skillful Quality",
+      "uid": "sn17.33"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn17.34:0.1",
+          "pli": "Saṃyutta Nikāya 17",
+          "en": "Linked Discourses 17"
+        },
+        {
+          "scid": "sn17.34:0.2",
+          "pli": "4. Catutthavagga",
+          "en": "4. The Fourth Chapter"
+        },
+        {
+          "scid": "sn17.34:0.3",
+          "pli": "34. Sukkadhammasutta",
+          "en": "34. Bright Quality"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 17…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn17.34:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn17.34:1.2",
+          "pli": "“Dāruṇo, bhikkhave, lābhasakkārasiloko.",
+          "en": "“Possessions, honor, and popularity are brutal …"
+        },
+        {
+          "scid": "sn17.34:1.3",
+          "pli": "Lābhasakkārasilokena abhibhūtassa pariyādiṇṇacittassa, bhikkhave, devadattassa sukko dhammo samucchedamagamā.",
+          "en": "Devadatta cut off his bright quality because his mind was overcome and overwhelmed by possessions, honor, and popularity."
+        },
+        {
+          "scid": "sn17.34:1.4",
+          "pli": "Evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko … pe …",
+          "en": "So brutal are possessions, honor, and popularity. …”"
+        },
+        {
+          "scid": "sn17.34:1.5",
+          "pli": "sikkhitabban”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn17.34:1.6",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn17.34/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 17.34",
+    "volpages": "SN ii 240",
+    "uid": "sn17.34",
+    "blurb": "Devadatta’s bright nature was cut off due to material possessions, honor, and praise.",
+    "difficulty": null,
+    "original_title": "Sukkadhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bright Quality",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn17.34_sujato",
+        "segmented": true,
+        "title": "Bright Quality"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

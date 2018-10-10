@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn56.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Ascetics and Brahmins (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics and Brahmins (2nd)",
+      "uid": "sn56.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Respectable (2nd)",
+      "uid": "sn56.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.5:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.5:0.2",
+          "pli": "1. Samādhivagga",
+          "en": "1. Immersion"
+        },
+        {
+          "scid": "sn56.5:0.3",
+          "pli": "5. Paṭhamasamaṇabrāhmaṇasutta",
+          "en": "5. Ascetics and Brahmins (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.5:1.1",
+          "pli": "“Ye hi keci, bhikkhave, atītamaddhānaṃ samaṇā vā brāhmaṇā vā yathābhūtaṃ abhisambojjhiṃsu, sabbe te cattāri ariyasaccāni yathābhūtaṃ abhisambojjhiṃsu.",
+          "en": "“Mendicants, whatever ascetics and brahmins truly wake up—in the past,"
+        },
+        {
+          "scid": "sn56.5:1.2",
+          "pli": "Ye hi keci, bhikkhave, anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā yathābhūtaṃ abhisambojjhissanti, sabbe te cattāri ariyasaccāni yathābhūtaṃ abhisambojjhissanti.",
+          "en": "future,"
+        },
+        {
+          "scid": "sn56.5:1.3",
+          "pli": "Ye hi keci, bhikkhave, etarahi samaṇā vā brāhmaṇā vā yathābhūtaṃ abhisambojjhanti, sabbe te cattāri ariyasaccāni yathābhūtaṃ abhisambojjhanti.",
+          "en": "or present—all of them truly wake up to the four noble truths."
+        },
+        {
+          "scid": "sn56.5:2.1",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn56.5:2.2",
+          "pli": "Dukkhaṃ ariyasaccaṃ … pe … dukkhanirodhagāminī paṭipadā ariyasaccaṃ.",
+          "en": "The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. …"
+        },
+        {
+          "scid": "sn56.5:2.3",
+          "pli": "Ye hi keci, bhikkhave, atītamaddhānaṃ samaṇā vā brāhmaṇā vā yathābhūtaṃ abhisambojjhiṃsu … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn56.5:2.4",
+          "pli": "abhisambojjhissanti … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn56.5:2.5",
+          "pli": "abhisambojjhanti, sabbe te imāni cattāri ariyasaccāni yathābhūtaṃ abhisambojjhanti.",
+          "en": ""
+        },
+        {
+          "scid": "sn56.5:3.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.5:3.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.5",
+    "volpages": "SN v 416",
+    "uid": "sn56.5",
+    "blurb": "True ascetics understand the four noble truths.",
+    "difficulty": null,
+    "original_title": "Paṭhamasamaṇabrāhmaṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ascetics and Brahmins (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.5_sujato",
+        "segmented": true,
+        "title": "Ascetics and Brahmins (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn56.5_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Ascetics and Brahmins (1)"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

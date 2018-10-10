@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn30.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn30.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Plain Version",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "They Carry Off",
+      "uid": "sn30.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Thirty Discourses On How Giving Helps to Become Womb-Born, Etc.",
+      "uid": "sn29.21-50"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn30.1:0.1",
+          "pli": "Saṃyutta Nikāya 30",
+          "en": "Linked Discourses 30"
+        },
+        {
+          "scid": "sn30.1:0.2",
+          "pli": "1. Supaṇṇavagga",
+          "en": "1. Phoenixes"
+        },
+        {
+          "scid": "sn30.1:0.3",
+          "pli": "1. Suddhikasutta",
+          "en": "1. Plain Version"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 30…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn30.1:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn30.1:1.2",
+          "pli": "“Catasso imā, bhikkhave, supaṇṇayoniyo.",
+          "en": "“Mendicants, phoenixes reproduce in these four ways."
+        },
+        {
+          "scid": "sn30.1:1.3",
+          "pli": "Katamā catasso?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn30.1:1.4",
+          "pli": "Aṇḍajā supaṇṇā, jalābujā supaṇṇā, saṃsedajā supaṇṇā, opapātikā supaṇṇā—",
+          "en": "Phoenixes are born from eggs, from a womb, from moisture, or spontaneously."
+        },
+        {
+          "scid": "sn30.1:1.5",
+          "pli": "imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.",
+          "en": "These are the four ways that phoenixes reproduce.”"
+        },
+        {
+          "scid": "sn30.1:1.6",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn30.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 30.1",
+    "volpages": "SN iii 246",
+    "uid": "sn30.1",
+    "blurb": "Phoenixes may be born from eggs, the womb, moisture, or spontaneously.",
+    "difficulty": null,
+    "original_title": "Suddhika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Plain Version",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn30.1_sujato",
+        "segmented": true,
+        "title": "Plain Version"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 1
+  }
+}

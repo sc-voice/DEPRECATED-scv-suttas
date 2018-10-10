@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an4.240",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.240",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Pleasing",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ascetics",
+      "uid": "an4.241"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Blameworthy",
+      "uid": "an4.239"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.240:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.240:0.2",
+          "pli": "24. Kammavagga",
+          "en": "24. Deeds"
+        },
+        {
+          "scid": "an4.240:0.3",
+          "pli": "240. Abyābajjhasutta",
+          "en": "240. Pleasing"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.240:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "“Mendicants, someone with four qualities is cast down to hell."
+        },
+        {
+          "scid": "an4.240:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.240:1.3",
+          "pli": "Sabyābajjhena kāyakammena, sabyābajjhena vacīkammena, sabyābajjhena manokammena, sabyābajjhāya diṭṭhiyā—",
+          "en": "Hurtful deeds by way of body, speech, and mind, and hurtful view."
+        },
+        {
+          "scid": "an4.240:1.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "Someone with these four qualities is cast down to hell."
+        },
+        {
+          "scid": "an4.240:2.1",
+          "pli": "Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge.",
+          "en": "Someone with four qualities is raised up to heaven."
+        },
+        {
+          "scid": "an4.240:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.240:2.3",
+          "pli": "Abyābajjhena kāyakammena, abyābajjhena vacīkammena, abyābajjhena manokammena, abyābajjhāya diṭṭhiyā—",
+          "en": "Pleasing deeds by way of body, speech, and mind, and pleasing view."
+        },
+        {
+          "scid": "an4.240:2.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge”ti.",
+          "en": "Someone with these four qualities is raised up to heaven.”"
+        },
+        {
+          "scid": "an4.240:2.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.240/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.240//AN 4.238",
+    "volpages": "AN ii 237",
+    "uid": "an4.240",
+    "blurb": "Hurtful or pleasing deeds and view determine rebirth.",
+    "difficulty": null,
+    "original_title": "Abyābajjha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Pleasing",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.240_sujato",
+        "segmented": true,
+        "title": "Pleasing"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

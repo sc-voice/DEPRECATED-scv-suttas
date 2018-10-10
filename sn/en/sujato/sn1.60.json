@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "sn1.60",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.60",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Poet",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Name",
+      "uid": "sn1.61"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Partner",
+      "uid": "sn1.59"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.60:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.60:0.2",
+          "pli": "6. Jarāvagga",
+          "en": "6. Old Age"
+        },
+        {
+          "scid": "sn1.60:0.3",
+          "pli": "60. Kavisutta",
+          "en": "60. A Poet"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.60:1.1",
+          "pli": "“Kiṃsu nidānaṃ gāthānaṃ,",
+          "en": "“What’s the basis of verses?"
+        },
+        {
+          "scid": "sn1.60:1.2",
+          "pli": "kiṃsu tāsaṃ viyañjanaṃ;",
+          "en": "What’s their detailed expression?"
+        },
+        {
+          "scid": "sn1.60:1.3",
+          "pli": "Kiṃsu sannissitā gāthā,",
+          "en": "What do verses depend upon?"
+        },
+        {
+          "scid": "sn1.60:1.4",
+          "pli": "kiṃsu gāthānamāsayo”ti.",
+          "en": "What underlies verses?”"
+        },
+        {
+          "scid": "sn1.60:2.1",
+          "pli": "“Chando nidānaṃ gāthānaṃ,",
+          "en": "“Metre is the basis of verses."
+        },
+        {
+          "scid": "sn1.60:2.2",
+          "pli": "akkharā tāsaṃ viyañjanaṃ;",
+          "en": "Syllables are their detailed expression."
+        },
+        {
+          "scid": "sn1.60:2.3",
+          "pli": "Nāmasannissitā gāthā,",
+          "en": "Verses depend on names."
+        },
+        {
+          "scid": "sn1.60:2.4",
+          "pli": "kavi gāthānamāsayo”ti.",
+          "en": "A poet underlies verses.”"
+        },
+        {
+          "scid": "sn1.60:2.5",
+          "pli": "Jarāvaggo chaṭṭho.",
+          "en": ""
+        },
+        {
+          "scid": "sn1.60:3.1",
+          "pli": "Jarā ajarasā mittaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn1.60:3.2",
+          "pli": "vatthu tīṇi janāni ca;",
+          "en": ""
+        },
+        {
+          "scid": "sn1.60:3.3",
+          "pli": "Uppatho ca dutiyo ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn1.60:3.4",
+          "pli": "kavinā pūrito vaggoti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What’s the basis of verses…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.60/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.60//SN 60",
+    "volpages": "SN i 38//SN i 85",
+    "uid": "sn1.60",
+    "blurb": "A pair of verses on the nature of poetry, and lacking a Dhamma counterpart.",
+    "difficulty": null,
+    "original_title": "Kavi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Poet",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.60_sujato",
+        "segmented": true,
+        "title": "A Poet"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.60_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Poetry"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 10
+  }
+}

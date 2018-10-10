@@ -1,0 +1,675 @@
+{
+  "sutta_uid": "sn12.66",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn12.66",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Self-examination",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bundles of Reeds",
+      "uid": "sn12.67"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The City",
+      "uid": "sn12.65"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn12.66:0.1",
+          "pli": "Saṃyutta Nikāya 12",
+          "en": "Linked Discourses 12"
+        },
+        {
+          "scid": "sn12.66:0.2",
+          "pli": "7. Mahāvagga",
+          "en": "7. The Great Chapter"
+        },
+        {
+          "scid": "sn12.66:0.3",
+          "pli": "66. Sammasasutta",
+          "en": "66. Self-examination"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 12…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn12.66:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn12.66:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā kurūsu viharati kammāsadhammaṃ nāma kurūnaṃ nigamo.",
+          "en": "At one time the Buddha was staying in the land of the Kurus, near the Kuru town named Kammāsadamma."
+        },
+        {
+          "scid": "sn12.66:1.3",
+          "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+          "en": "There the Buddha addressed the mendicants:"
+        },
+        {
+          "scid": "sn12.66:1.4",
+          "pli": "“bhikkhavo”ti.",
+          "en": "“Mendicants!”"
+        },
+        {
+          "scid": "sn12.66:1.5",
+          "pli": "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Venerable sir,” they replied."
+        },
+        {
+          "scid": "sn12.66:1.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "sn12.66:1.7",
+          "pli": "“sammasatha no tumhe, bhikkhave, antaraṃ sammasan”ti.",
+          "en": "“Mendicants, do you perform inner self-examination?”"
+        },
+        {
+          "scid": "sn12.66:1.8",
+          "pli": "Evaṃ vutte, aññataro bhikkhu bhagavantaṃ etadavoca:",
+          "en": "When he said this, one of the mendicants said to the Buddha:"
+        },
+        {
+          "scid": "sn12.66:1.9",
+          "pli": "“ahaṃ kho, bhante, sammasāmi antaraṃ sammasan”ti.",
+          "en": "“Sir, I perform inner self-examination.”"
+        },
+        {
+          "scid": "sn12.66:1.10",
+          "pli": "“Yathā kathaṃ pana tvaṃ, bhikkhu, sammasasi antaraṃ sammasan”ti?",
+          "en": "“But mendicant, how do you perform inner self-examination?”"
+        },
+        {
+          "scid": "sn12.66:1.11",
+          "pli": "Atha kho so bhikkhu byākāsi.",
+          "en": "Then that mendicant answered,"
+        },
+        {
+          "scid": "sn12.66:1.12",
+          "pli": "Yathā so bhikkhu byākāsi na so bhikkhu bhagavato cittaṃ ārādhesi.",
+          "en": "but the Buddha was not happy with the answer."
+        },
+        {
+          "scid": "sn12.66:2.1",
+          "pli": "Evaṃ vutte, āyasmā ānando bhagavantaṃ etadavoca:",
+          "en": "When this was said, Venerable Ānanda said to the Buddha:"
+        },
+        {
+          "scid": "sn12.66:2.2",
+          "pli": "“etassa, bhagavā, kālo; etassa, sugata, kālo;",
+          "en": "“Now is the time, Blessed One! Now is the time, Holy One!"
+        },
+        {
+          "scid": "sn12.66:2.3",
+          "pli": "yaṃ bhagavā antaraṃ sammasaṃ bhāseyya. Bhagavato sutvā bhikkhū dhāressantī”ti.",
+          "en": "Let the Buddha speak of the inner self-examination. The mendicants will listen and remember it.”"
+        },
+        {
+          "scid": "sn12.66:2.4",
+          "pli": "“Tenahānanda, suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+          "en": "“Well then, Ānanda, listen and pay close attention, I will speak.”"
+        },
+        {
+          "scid": "sn12.66:2.5",
+          "pli": "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.",
+          "en": "“Yes, sir,” they replied."
+        },
+        {
+          "scid": "sn12.66:2.6",
+          "pli": "Bhagavā etadavoca:",
+          "en": "The Buddha said this:"
+        },
+        {
+          "scid": "sn12.66:3.1",
+          "pli": "“Idha, bhikkhave, bhikkhu sammasamāno sammasati antaraṃ sammasaṃ:",
+          "en": "“Take a mendicant who performs inner self-examination:"
+        },
+        {
+          "scid": "sn12.66:3.2",
+          "pli": "‘yaṃ kho idaṃ anekavidhaṃ nānappakārakaṃ dukkhaṃ loke uppajjati jarāmaraṇaṃ.",
+          "en": "‘The suffering that arises in the world starting with old age and death takes many and diverse forms."
+        },
+        {
+          "scid": "sn12.66:3.3",
+          "pli": "Idaṃ kho dukkhaṃ kiṃnidānaṃ kiṃsamudayaṃ kiṃjātikaṃ kiṃpabhavaṃ, kismiṃ sati jarāmaraṇaṃ hoti, kismiṃ asati jarāmaraṇaṃ na hotī’ti?",
+          "en": "But what is the source of this suffering? When what exists do old age and death come to be? And when what does not exist do old age and death not come to be?’"
+        },
+        {
+          "scid": "sn12.66:3.4",
+          "pli": "So sammasamāno evaṃ jānāti:",
+          "en": "While examining they know:"
+        },
+        {
+          "scid": "sn12.66:3.5",
+          "pli": "‘yaṃ kho idaṃ anekavidhaṃ nānappakārakaṃ dukkhaṃ loke uppajjati jarāmaraṇaṃ.",
+          "en": "‘The suffering that arises in the world starting with old age and death takes many and diverse forms."
+        },
+        {
+          "scid": "sn12.66:3.6",
+          "pli": "Idaṃ kho dukkhaṃ upadhinidānaṃ upadhisamudayaṃ upadhijātikaṃ upadhipabhavaṃ, upadhismiṃ sati jarāmaraṇaṃ hoti, upadhismiṃ asati jarāmaraṇaṃ na hotī’ti.",
+          "en": "The source of this suffering is attachment. When attachments exist old age and death come to be. And when attachments do not exist old age and death don’t come to be.’"
+        },
+        {
+          "scid": "sn12.66:3.7",
+          "pli": "So jarāmaraṇañca pajānāti jarāmaraṇasamudayañca pajānāti jarāmaraṇanirodhañca pajānāti yā ca jarāmaraṇanirodhasāruppagāminī paṭipadā tañca pajānāti.",
+          "en": "They understand old age and death, their origin, their cessation, and the appropriate practice for their cessation."
+        },
+        {
+          "scid": "sn12.66:3.8",
+          "pli": "Tathāpaṭipanno ca hoti anudhammacārī.",
+          "en": "And they practice in line with that path."
+        },
+        {
+          "scid": "sn12.66:3.9",
+          "pli": "Ayaṃ vuccati, bhikkhave, bhikkhu sabbaso sammā dukkhakkhayāya paṭipanno jarāmaraṇanirodhāya.",
+          "en": "This is called a mendicant who is practicing for the complete ending of suffering, for the cessation of old age and death."
+        },
+        {
+          "scid": "sn12.66:4.1",
+          "pli": "Athāparaṃ sammasamāno sammasati antaraṃ sammasaṃ:",
+          "en": "They perform further inner self-examination:"
+        },
+        {
+          "scid": "sn12.66:4.2",
+          "pli": "‘upadhi panāyaṃ kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo, kismiṃ sati upadhi hoti, kismiṃ asati upadhi na hotī’ti?",
+          "en": "‘But what is the source of this attachment? When what exists does attachment come to be? And when what does not exist does attachment not come to be?’"
+        },
+        {
+          "scid": "sn12.66:4.3",
+          "pli": "So sammasamāno evaṃ jānāti:",
+          "en": "While examining they know:"
+        },
+        {
+          "scid": "sn12.66:4.4",
+          "pli": "‘upadhi taṇhānidāno taṇhāsamudayo taṇhājātiko taṇhāpabhavo, taṇhāya sati upadhi hoti, taṇhāya asati upadhi na hotī’ti.",
+          "en": "‘The source of this attachment is craving. When craving exists attachments come to be. And when craving doesn’t exist attachments don’t come to be.’"
+        },
+        {
+          "scid": "sn12.66:4.5",
+          "pli": "So upadhiñca pajānāti upadhisamudayañca pajānāti upadhinirodhañca pajānāti yā ca upadhinirodhasāruppagāminī paṭipadā tañca pajānāti.",
+          "en": "They understand attachments, their origin, their cessation, and the appropriate practice for their cessation."
+        },
+        {
+          "scid": "sn12.66:4.6",
+          "pli": "Tathāpaṭipanno ca hoti anudhammacārī.",
+          "en": "And they practice in line with that path."
+        },
+        {
+          "scid": "sn12.66:4.7",
+          "pli": "Ayaṃ vuccati, bhikkhave, bhikkhu sabbaso sammā dukkhakkhayāya paṭipanno upadhinirodhāya.",
+          "en": "This is called a mendicant who is practicing for the complete ending of suffering, for the cessation of attachments."
+        },
+        {
+          "scid": "sn12.66:5.1",
+          "pli": "Athāparaṃ sammasamāno sammasati antaraṃ sammasaṃ:",
+          "en": "They perform further inner self-examination:"
+        },
+        {
+          "scid": "sn12.66:5.2",
+          "pli": "‘taṇhā panāyaṃ kattha uppajjamānā uppajjati, kattha nivisamānā nivisatī’ti?",
+          "en": "‘But where does that craving arise and where does it settle?’"
+        },
+        {
+          "scid": "sn12.66:5.3",
+          "pli": "So sammasamāno evaṃ jānāti—",
+          "en": "While examining they know:"
+        },
+        {
+          "scid": "sn12.66:5.4",
+          "pli": "yaṃ kho loke piyarūpaṃ sātarūpaṃ etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+          "en": "‘That craving arises and settles on whatever in the world seems nice and pleasant."
+        },
+        {
+          "scid": "sn12.66:5.5",
+          "pli": "Kiñca loke piyarūpaṃ sātarūpaṃ?",
+          "en": "And what in the world seems nice and pleasant?"
+        },
+        {
+          "scid": "sn12.66:5.6",
+          "pli": "Cakkhuṃ loke piyarūpaṃ, sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+          "en": "The eye in the world seems nice and pleasant, and it is there that craving arises and settles."
+        },
+        {
+          "scid": "sn12.66:5.7",
+          "pli": "Sotaṃ loke piyarūpaṃ sātarūpaṃ … pe …",
+          "en": "The ear …"
+        },
+        {
+          "scid": "sn12.66:5.8",
+          "pli": "ghānaṃ loke piyarūpaṃ sātarūpaṃ …",
+          "en": "nose …"
+        },
+        {
+          "scid": "sn12.66:5.9",
+          "pli": "jivhā loke piyarūpaṃ sātarūpaṃ …",
+          "en": "tongue …"
+        },
+        {
+          "scid": "sn12.66:5.10",
+          "pli": "kāyo loke piyarūpaṃ sātarūpaṃ …",
+          "en": "body …"
+        },
+        {
+          "scid": "sn12.66:5.11",
+          "pli": "mano loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati ettha nivisamānā nivisati.",
+          "en": "mind in the world seems nice and pleasant, and it is there that craving arises and settles.’"
+        },
+        {
+          "scid": "sn12.66:6.1",
+          "pli": "Ye hi keci, bhikkhave, atītamaddhānaṃ samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ niccato addakkhuṃ sukhato addakkhuṃ attato addakkhuṃ ārogyato addakkhuṃ khemato addakkhuṃ.",
+          "en": "There were ascetics and brahmins of the past who saw the things that seem nice and pleasant in the world as permanent, as pleasurable, as self, as healthy, and as safe."
+        },
+        {
+          "scid": "sn12.66:6.2",
+          "pli": "Te taṇhaṃ vaḍḍhesuṃ.",
+          "en": "Their craving grew."
+        },
+        {
+          "scid": "sn12.66:6.3",
+          "pli": "Ye taṇhaṃ vaḍḍhesuṃ te upadhiṃ vaḍḍhesuṃ.",
+          "en": "As their craving grew, their attachments grew."
+        },
+        {
+          "scid": "sn12.66:6.4",
+          "pli": "Ye upadhiṃ vaḍḍhesuṃ te dukkhaṃ vaḍḍhesuṃ.",
+          "en": "As their attachments grew, their suffering grew."
+        },
+        {
+          "scid": "sn12.66:6.5",
+          "pli": "Ye dukkhaṃ vaḍḍhesuṃ te na parimucciṃsu jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, na parimucciṃsu dukkhasmāti vadāmi.",
+          "en": "And as their suffering grew, they were not freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They were not freed from suffering, I say."
+        },
+        {
+          "scid": "sn12.66:7.1",
+          "pli": "Yepi hi keci, bhikkhave, anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ niccato dakkhissanti sukhato dakkhissanti attato dakkhissanti ārogyato dakkhissanti khemato dakkhissanti.",
+          "en": "There will be ascetics and brahmins in the future who will see the things that seem nice and pleasant in the world as permanent, as pleasurable, as self, as healthy, and as safe."
+        },
+        {
+          "scid": "sn12.66:7.2",
+          "pli": "Te taṇhaṃ vaḍḍhissanti.",
+          "en": "Their craving will grow."
+        },
+        {
+          "scid": "sn12.66:7.3",
+          "pli": "Ye taṇhaṃ vaḍḍhissanti te upadhiṃ vaḍḍhissanti.",
+          "en": "As their craving grows, their attachments will grow."
+        },
+        {
+          "scid": "sn12.66:7.4",
+          "pli": "Ye upadhiṃ vaḍḍhissanti te dukkhaṃ vaḍḍhissanti.",
+          "en": "As their attachments grow, their suffering will grow."
+        },
+        {
+          "scid": "sn12.66:7.5",
+          "pli": "Ye dukkhaṃ vaḍḍhissanti te na parimuccissanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, na parimuccissanti dukkhasmāti vadāmi.",
+          "en": "And as their suffering grows, they will not be freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They will not be freed from suffering, I say."
+        },
+        {
+          "scid": "sn12.66:8.1",
+          "pli": "Yepi hi keci, bhikkhave, etarahi samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ niccato passanti sukhato passanti attato passanti ārogyato passanti khemato passanti.",
+          "en": "There are ascetics and brahmins in the present who see the things that seem nice and pleasant in the world as permanent, as pleasurable, as self, as healthy, and as safe."
+        },
+        {
+          "scid": "sn12.66:8.2",
+          "pli": "Te taṇhaṃ vaḍḍhenti.",
+          "en": "Their craving grows."
+        },
+        {
+          "scid": "sn12.66:8.3",
+          "pli": "Ye taṇhaṃ vaḍḍhenti te upadhiṃ vaḍḍhenti.",
+          "en": "As their craving grows, their attachments grow."
+        },
+        {
+          "scid": "sn12.66:8.4",
+          "pli": "Ye upadhiṃ vaḍḍhenti te dukkhaṃ vaḍḍhenti.",
+          "en": "As their attachments grow, their suffering grows."
+        },
+        {
+          "scid": "sn12.66:8.5",
+          "pli": "Ye dukkhaṃ vaḍḍhenti te na parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, na parimuccanti dukkhasmāti vadāmi.",
+          "en": "And as their suffering grows, they are not freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They are not freed from suffering, I say."
+        },
+        {
+          "scid": "sn12.66:9.1",
+          "pli": "Seyyathāpi, bhikkhave, āpānīyakaṃso vaṇṇasampanno gandhasampanno rasasampanno.",
+          "en": "Suppose there was a bronze cup of beverage that had a nice color, aroma, and flavor."
+        },
+        {
+          "scid": "sn12.66:9.2",
+          "pli": "So ca kho visena saṃsaṭṭho.",
+          "en": "But it was mixed with poison."
+        },
+        {
+          "scid": "sn12.66:9.3",
+          "pli": "Atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito.",
+          "en": "Then along comes a man struggling in the oppressive heat, weary, thirsty, and parched."
+        },
+        {
+          "scid": "sn12.66:9.4",
+          "pli": "Tamenaṃ evaṃ vadeyyuṃ:",
+          "en": "They’d say to him:"
+        },
+        {
+          "scid": "sn12.66:9.5",
+          "pli": "‘ayaṃ te, ambho purisa, āpānīyakaṃso vaṇṇasampanno gandhasampanno rasasampanno;",
+          "en": "‘Here, mister, this bronze cup of beverage has a nice color, aroma, and flavor."
+        },
+        {
+          "scid": "sn12.66:9.6",
+          "pli": "so ca kho visena saṃsaṭṭho.",
+          "en": "But it’s mixed with poison."
+        },
+        {
+          "scid": "sn12.66:9.7",
+          "pli": "Sace ākaṅkhasi piva.",
+          "en": "Drink it if you like."
+        },
+        {
+          "scid": "sn12.66:9.8",
+          "pli": "Pivato hi kho taṃ chādessati vaṇṇenapi gandhenapi rasenapi, pivitvā ca pana tatonidānaṃ maraṇaṃ vā nigacchasi maraṇamattaṃ vā dukkhan’ti.",
+          "en": "If you drink it, the color, aroma, and flavor will be appetizing, but it will result in death or deadly pain.’"
+        },
+        {
+          "scid": "sn12.66:9.9",
+          "pli": "So taṃ āpānīyakaṃsaṃ sahasā appaṭisaṅkhā piveyya, nappaṭinissajjeyya.",
+          "en": "He wouldn’t reject that beverage. Hastily, without thinking, he’d drink it,"
+        },
+        {
+          "scid": "sn12.66:9.10",
+          "pli": "So tatonidānaṃ maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ.",
+          "en": "resulting in death or deadly pain."
+        },
+        {
+          "scid": "sn12.66:9.11",
+          "pli": "Evameva kho, bhikkhave, ye hi keci atītamaddhānaṃ samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ … pe …",
+          "en": "In the same way, there are ascetics and brahmins of the past …"
+        },
+        {
+          "scid": "sn12.66:9.12",
+          "pli": "anāgatamaddhānaṃ … pe …",
+          "en": "future …"
+        },
+        {
+          "scid": "sn12.66:9.13",
+          "pli": "etarahi samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ niccato passanti sukhato passanti attato passanti ārogyato passanti khemato passanti, te taṇhaṃ vaḍḍhenti.",
+          "en": "There are ascetics and brahmins in the present who see the things that seem nice and pleasant in the world as permanent, as pleasurable, as self, as healthy, and as safe."
+        },
+        {
+          "scid": "sn12.66:9.14",
+          "pli": "Ye taṇhaṃ vaḍḍhenti te upadhiṃ vaḍḍhenti.",
+          "en": "As their craving grows, their attachments grow."
+        },
+        {
+          "scid": "sn12.66:9.15",
+          "pli": "Ye upadhiṃ vaḍḍhenti te dukkhaṃ vaḍḍhenti.",
+          "en": "As their attachments grow, their suffering grows."
+        },
+        {
+          "scid": "sn12.66:9.16",
+          "pli": "Ye dukkhaṃ vaḍḍhenti te na parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, na parimuccanti dukkhasmāti vadāmi.",
+          "en": "And as their suffering grows, they are not freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They are not freed from suffering, I say."
+        },
+        {
+          "scid": "sn12.66:10.1",
+          "pli": "Ye ca kho keci, bhikkhave, atītamaddhānaṃ samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato addakkhuṃ dukkhato addakkhuṃ anattato addakkhuṃ rogato addakkhuṃ bhayato addakkhuṃ, ",
+          "en": "There were ascetics and brahmins of the past who saw the things that seem nice and pleasant in the world as impermanent, as suffering, as not-self, as diseased, and as dangerous. "
+        },
+        {
+          "scid": "sn12.66:10.2",
+          "pli": "te taṇhaṃ pajahiṃsu.",
+          "en": "They gave up craving."
+        },
+        {
+          "scid": "sn12.66:10.3",
+          "pli": "Ye taṇhaṃ pajahiṃsu te upadhiṃ pajahiṃsu.",
+          "en": "Giving up craving, they gave up attachments."
+        },
+        {
+          "scid": "sn12.66:10.4",
+          "pli": "Ye upadhiṃ pajahiṃsu te dukkhaṃ pajahiṃsu.",
+          "en": "Giving up attachments, they gave up suffering."
+        },
+        {
+          "scid": "sn12.66:10.5",
+          "pli": "Ye dukkhaṃ pajahiṃsu te parimucciṃsu jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimucciṃsu dukkhasmāti vadāmi.",
+          "en": "Giving up suffering, they were freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They were freed from suffering, I say."
+        },
+        {
+          "scid": "sn12.66:11.1",
+          "pli": "Yepi hi keci, bhikkhave, anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato dakkhissanti dukkhato dakkhissanti anattato dakkhissanti rogato dakkhissanti bhayato dakkhissanti, ",
+          "en": "There will be ascetics and brahmins in the future who will see the things that seem nice and pleasant in the world as impermanent, as suffering, as not-self, as diseased, and as dangerous. "
+        },
+        {
+          "scid": "sn12.66:11.2",
+          "pli": "te taṇhaṃ pajahissanti.",
+          "en": "They will give up craving."
+        },
+        {
+          "scid": "sn12.66:11.3",
+          "pli": "Ye taṇhaṃ pajahissanti … pe …",
+          "en": "Giving up craving …"
+        },
+        {
+          "scid": "sn12.66:11.4",
+          "pli": "parimuccissanti dukkhasmāti vadāmi.",
+          "en": "they will be freed from suffering, I say."
+        },
+        {
+          "scid": "sn12.66:12.1",
+          "pli": "Yepi hi keci, bhikkhave, etarahi samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato passanti dukkhato passanti anattato passanti rogato passanti bhayato passanti, ",
+          "en": "There are ascetics and brahmins in the present who see the things that seem nice and pleasant in the world as impermanent, as suffering, as not-self, as diseased, and as dangerous. "
+        },
+        {
+          "scid": "sn12.66:12.2",
+          "pli": "te taṇhaṃ pajahanti.",
+          "en": "They give up craving."
+        },
+        {
+          "scid": "sn12.66:12.3",
+          "pli": "Ye taṇhaṃ pajahanti te upadhiṃ pajahanti.",
+          "en": "Giving up craving, they give up attachments."
+        },
+        {
+          "scid": "sn12.66:12.4",
+          "pli": "Ye upadhiṃ pajahanti te dukkhaṃ pajahanti.",
+          "en": "Giving up attachments, they give up suffering."
+        },
+        {
+          "scid": "sn12.66:12.5",
+          "pli": "Ye dukkhaṃ pajahanti te parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimuccanti dukkhasmāti vadāmi.",
+          "en": "Giving up suffering, they are freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They are freed from suffering, I say."
+        },
+        {
+          "scid": "sn12.66:13.1",
+          "pli": "Seyyathāpi, bhikkhave, āpānīyakaṃso vaṇṇasampanno gandhasampanno rasasampanno.",
+          "en": "Suppose there was a bronze cup of beverage that had a nice color, aroma, and flavor."
+        },
+        {
+          "scid": "sn12.66:13.2",
+          "pli": "So ca kho visena saṃsaṭṭho.",
+          "en": "But it was mixed with poison."
+        },
+        {
+          "scid": "sn12.66:13.3",
+          "pli": "Atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito.",
+          "en": "Then along comes a man struggling in the oppressive heat, weary, thirsty, and parched."
+        },
+        {
+          "scid": "sn12.66:13.4",
+          "pli": "Tamenaṃ evaṃ vadeyyuṃ:",
+          "en": "They’d say to him:"
+        },
+        {
+          "scid": "sn12.66:13.5",
+          "pli": "‘ayaṃ te, ambho purisa, āpānīyakaṃso vaṇṇasampanno gandhasampanno rasasampanno so ca kho visena saṃsaṭṭho.",
+          "en": "‘Here, mister, this bronze cup of beverage has a nice color, aroma, and flavor."
+        },
+        {
+          "scid": "sn12.66:13.6",
+          "pli": "Sace ākaṅkhasi piva.",
+          "en": "Drink it if you like."
+        },
+        {
+          "scid": "sn12.66:13.7",
+          "pli": "Pivato hi kho taṃ chādessati vaṇṇenapi gandhenapi rasenapi; pivitvā ca pana tatonidānaṃ maraṇaṃ vā nigacchasi maraṇamattaṃ vā dukkhan’ti.",
+          "en": "If you drink it, its nice color, aroma, and flavor will refresh you. But drinking it will result in death or deadly pain.’"
+        },
+        {
+          "scid": "sn12.66:13.8",
+          "pli": "Atha kho, bhikkhave, tassa purisassa evamassa:",
+          "en": "Then that man might think:"
+        },
+        {
+          "scid": "sn12.66:13.9",
+          "pli": "‘sakkā kho me ayaṃ surāpipāsitā pānīyena vā vinetuṃ dadhimaṇḍakena vā vinetuṃ bhaṭṭhaloṇikāya vā vinetuṃ loṇasovīrakena vā vinetuṃ, na tvevāhaṃ taṃ piveyyaṃ, yaṃ mama assa dīgharattaṃ hitāya sukhāyā’ti.",
+          "en": "‘I could quench my thirst with water, whey, or broth. But I shouldn’t drink that beverage, for it would be for my lasting harm and suffering.’"
+        },
+        {
+          "scid": "sn12.66:13.10",
+          "pli": "So taṃ āpānīyakaṃsaṃ paṭisaṅkhā na piveyya, paṭinissajjeyya.",
+          "en": "He’d reject that beverage. After reflection, he wouldn’t drink it,"
+        },
+        {
+          "scid": "sn12.66:13.11",
+          "pli": "So tatonidānaṃ na maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ.",
+          "en": "and it wouldn’t result in death or deadly pain."
+        },
+        {
+          "scid": "sn12.66:13.12",
+          "pli": "Evameva kho, bhikkhave, ye hi keci atītamaddhānaṃ samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato addakkhuṃ dukkhato addakkhuṃ anattato addakkhuṃ rogato addakkhuṃ bhayato addakkhuṃ, ",
+          "en": "In the same way, there were ascetics and brahmins of the past who saw the things that seem nice and pleasant in the world as impermanent, as suffering, as not-self, as diseased, and as dangerous. "
+        },
+        {
+          "scid": "sn12.66:13.13",
+          "pli": "te taṇhaṃ pajahiṃsu.",
+          "en": "They gave up craving."
+        },
+        {
+          "scid": "sn12.66:13.14",
+          "pli": "Ye taṇhaṃ pajahiṃsu te upadhiṃ pajahiṃsu.",
+          "en": "Giving up craving, they gave up attachments."
+        },
+        {
+          "scid": "sn12.66:13.15",
+          "pli": "Ye upadhiṃ pajahiṃsu te dukkhaṃ pajahiṃsu.",
+          "en": "Giving up attachments, they gave up suffering."
+        },
+        {
+          "scid": "sn12.66:13.16",
+          "pli": "Ye dukkhaṃ pajahiṃsu te parimucciṃsu jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimucciṃsu dukkhasmāti vadāmi.",
+          "en": "Giving up suffering, they were freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They were freed from suffering, I say."
+        },
+        {
+          "scid": "sn12.66:14.1",
+          "pli": "Yepi hi keci, bhikkhave, anāgatamaddhānaṃ … pe …",
+          "en": "There will be ascetics and brahmins in the future …"
+        },
+        {
+          "scid": "sn12.66:14.2",
+          "pli": "etarahi samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato passanti dukkhato passanti anattato passanti rogato passanti bhayato passanti, ",
+          "en": "There are ascetics and brahmins in the present who see the things that seem nice and pleasant in the world as impermanent, as suffering, as not-self, as diseased, and as dangerous. "
+        },
+        {
+          "scid": "sn12.66:14.3",
+          "pli": "te taṇhaṃ pajahanti.",
+          "en": "They give up craving."
+        },
+        {
+          "scid": "sn12.66:14.4",
+          "pli": "Ye taṇhaṃ pajahanti te upadhiṃ pajahanti.",
+          "en": "Giving up craving, they give up attachments."
+        },
+        {
+          "scid": "sn12.66:14.5",
+          "pli": "Ye upadhiṃ pajahanti te dukkhaṃ pajahanti.",
+          "en": "Giving up attachments, they give up suffering."
+        },
+        {
+          "scid": "sn12.66:14.6",
+          "pli": "Ye dukkhaṃ pajahanti te parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimuccanti dukkhasmāti vadāmī”ti.",
+          "en": "Giving up suffering, they are freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They are freed from suffering, I say.”"
+        },
+        {
+          "scid": "sn12.66:14.7",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn12.66/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 12.66",
+    "volpages": "SN ii 107",
+    "uid": "sn12.66",
+    "blurb": "The right way to investigate inside oneself is to see how suffering is created craving and attachment, stimulated by pleasant experiences.",
+    "difficulty": null,
+    "original_title": "Sammasa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Self-examination",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn12.66_sujato",
+        "segmented": true,
+        "title": "Self-examination"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn12.66_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Exploration"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 6
+  }
+}

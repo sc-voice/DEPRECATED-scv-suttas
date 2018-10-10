@@ -1,0 +1,645 @@
+{
+  "sutta_uid": "mn48",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn48",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Mendicants of Kosambi",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "On the Invitation of Brahmā",
+      "uid": "mn49"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Inquirer",
+      "uid": "mn47"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn48:0.1",
+          "pli": "Majjhima Nikāya 48",
+          "en": "Middle Discourses 48"
+        },
+        {
+          "scid": "mn48:0.2",
+          "pli": "Kosambiyasutta",
+          "en": "The Mendicants of Kosambi"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn48:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn48:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme.",
+          "en": "At one time the Buddha was staying near Kosambi, in Ghosita’s Monastery."
+        },
+        {
+          "scid": "mn48:2.1",
+          "pli": "Tena kho pana samayena kosambiyaṃ bhikkhū bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti.",
+          "en": "Now at that time the mendicants of Kosambi were arguing, quarreling, and fighting, continually wounding each other with barbed words."
+        },
+        {
+          "scid": "mn48:2.2",
+          "pli": "Te na ceva aññamaññaṃ saññāpenti na ca saññattiṃ upenti, na ca aññamaññaṃ nijjhāpenti, na ca nijjhattiṃ upenti.",
+          "en": "They couldn’t persuade each other or be persuaded, nor could they convince each other or be convinced."
+        },
+        {
+          "scid": "mn48:3.1",
+          "pli": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and told him what was happening."
+        },
+        {
+          "scid": "mn48:3.2",
+          "pli": "“idha, bhante, kosambiyaṃ bhikkhū bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti, te na ceva aññamaññaṃ saññāpenti, na ca saññattiṃ upenti, na ca aññamaññaṃ nijjhāpenti, na ca nijjhattiṃ upentī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn48:4.1",
+          "pli": "Atha kho bhagavā aññataraṃ bhikkhuṃ āmantesi:",
+          "en": "So the Buddha said to a certain monk:"
+        },
+        {
+          "scid": "mn48:4.2",
+          "pli": "“ehi tvaṃ, bhikkhu, mama vacanena te bhikkhū āmantehi:",
+          "en": "“Please, monk, in my name tell those mendicants that"
+        },
+        {
+          "scid": "mn48:4.3",
+          "pli": "‘satthā vo āyasmante āmantetī’”ti.",
+          "en": "the teacher summons them."
+        },
+        {
+          "scid": "mn48:4.4",
+          "pli": "“Evaṃ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū etadavoca:",
+          "en": "“Yes, sir,” that monk replied. He went to those monks and said:"
+        },
+        {
+          "scid": "mn48:4.5",
+          "pli": "“satthā āyasmante āmantetī”ti.",
+          "en": "“Venerables, the teacher summons you.”"
+        },
+        {
+          "scid": "mn48:4.6",
+          "pli": "“Evamāvuso”ti kho te bhikkhū tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinne kho te bhikkhū bhagavā etadavoca:",
+          "en": "“Yes, reverend,” those monks replied. They went to the Buddha, bowed, and sat down to one side. The Buddha said to them:"
+        },
+        {
+          "scid": "mn48:4.7",
+          "pli": "“saccaṃ kira tumhe, bhikkhave, bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharatha, ",
+          "en": "“Is it really true, mendicants, that you have been arguing, quarreling, and fighting, continually wounding each other with barbed words? "
+        },
+        {
+          "scid": "mn48:4.8",
+          "pli": "te na ceva aññamaññaṃ saññāpetha, na ca saññattiṃ upetha, na ca aññamaññaṃ nijjhāpetha, na ca nijjhattiṃ upethā”ti?",
+          "en": "And that you can’t persuade each other or be persuaded, nor can you convince each other or be convinced?”"
+        },
+        {
+          "scid": "mn48:4.9",
+          "pli": "“Evaṃ, bhante”.",
+          "en": "“Yes, sir,” they said."
+        },
+        {
+          "scid": "mn48:5.1",
+          "pli": "“Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "“What do you think, mendicants? "
+        },
+        {
+          "scid": "mn48:5.2",
+          "pli": "yasmiṃ tumhe samaye bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharatha, api nu tumhākaṃ tasmiṃ samaye mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca, mettaṃ vacīkammaṃ … pe … mettaṃ manokammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho cā”ti?",
+          "en": "When you’re arguing, quarreling, and fighting, continually wounding each other with barbed words, are you treating your spiritual companions with kindness by way of body, speech, and mind, both in public and in private?”"
+        },
+        {
+          "scid": "mn48:5.3",
+          "pli": "“No hetaṃ, bhante”.",
+          "en": "“No, sir.”"
+        },
+        {
+          "scid": "mn48:5.4",
+          "pli": "“Iti kira, bhikkhave, yasmiṃ tumhe samaye bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharatha, neva tumhākaṃ tasmiṃ samaye mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca, na mettaṃ vacīkammaṃ … pe … na mettaṃ manokammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+          "en": "“So it seems that when you’re arguing you are not treating each other with kindness."
+        },
+        {
+          "scid": "mn48:5.5",
+          "pli": "Atha kiñcarahi tumhe, moghapurisā, kiṃ jānantā kiṃ passantā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharatha, te na ceva aññamaññaṃ saññāpetha, na ca saññattiṃ upetha, na ca aññamaññaṃ nijjhāpetha, na ca nijjhattiṃ upetha?",
+          "en": "So what exactly do you know and see, you foolish men, that you behave in such a way?"
+        },
+        {
+          "scid": "mn48:5.6",
+          "pli": "Tañhi tumhākaṃ, moghapurisā, bhavissati dīgharattaṃ ahitāya dukkhāyā”ti.",
+          "en": "This will be for your lasting harm and suffering.”"
+        },
+        {
+          "scid": "mn48:6.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "mn48:6.2",
+          "pli": "“chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.",
+          "en": "“Mendicants, these six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "mn48:6.3",
+          "pli": "Katame cha?",
+          "en": "What six?"
+        },
+        {
+          "scid": "mn48:6.4",
+          "pli": "Idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+          "en": "Firstly, a mendicant consistently treats their spiritual companions with bodily kindness, both in public and in private."
+        },
+        {
+          "scid": "mn48:6.5",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (1)",
+          "en": "This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "mn48:6.6",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhuno mettaṃ vacīkammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+          "en": "Furthermore, a mendicant consistently treats their spiritual companions with verbal kindness …"
+        },
+        {
+          "scid": "mn48:6.7",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (2)",
+          "en": ""
+        },
+        {
+          "scid": "mn48:6.8",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhuno mettaṃ manokammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+          "en": "Furthermore, a mendicant consistently treats their spiritual companions with mental kindness …"
+        },
+        {
+          "scid": "mn48:6.9",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (3)",
+          "en": ""
+        },
+        {
+          "scid": "mn48:6.10",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi, tathārūpehi lābhehi appaṭivibhattabhogī hoti sīlavantehi sabrahmacārīhi sādhāraṇabhogī.",
+          "en": "Furthermore, a mendicant shares without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions …"
+        },
+        {
+          "scid": "mn48:6.11",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (4)",
+          "en": ""
+        },
+        {
+          "scid": "mn48:6.12",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpesu sīlesu sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca.",
+          "en": "Furthermore, a mendicant lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are uncorrupted, unflawed, unblemished, untainted, liberating, praised by sensible people, not mistaken, and leading to immersion. …"
+        },
+        {
+          "scid": "mn48:6.13",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (5)",
+          "en": ""
+        },
+        {
+          "scid": "mn48:6.14",
+          "pli": "Puna caparaṃ, bhikkhave, bhikkhu yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca.",
+          "en": "Furthermore, a mendicant lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and leads one who practices it to the complete ending of suffering."
+        },
+        {
+          "scid": "mn48:6.15",
+          "pli": "Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. (6)",
+          "en": "This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "mn48:6.16",
+          "pli": "Ime kho, bhikkhave, cha sāraṇīyā dhammā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.",
+          "en": "These six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling."
+        },
+        {
+          "scid": "mn48:7.1",
+          "pli": "Imesaṃ kho, bhikkhave, channaṃ sāraṇīyānaṃ dhammānaṃ etaṃ aggaṃ etaṃ saṅgāhikaṃ etaṃ saṅghāṭanikaṃ—yadidaṃ yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya.",
+          "en": "Of these six warm-hearted qualities, the chief is the view that is noble and emancipating, and leads one who practices it to the complete ending of suffering. It holds and binds everything together."
+        },
+        {
+          "scid": "mn48:7.2",
+          "pli": "Seyyathāpi, bhikkhave, kūṭāgārassa etaṃ aggaṃ etaṃ saṅgāhikaṃ etaṃ saṅghāṭanikaṃ yadidaṃ kūṭaṃ;",
+          "en": "It’s like a bungalow. The roof-peak is the chief point, which holds and binds everything together."
+        },
+        {
+          "scid": "mn48:7.3",
+          "pli": "evameva kho, bhikkhave, imesaṃ channaṃ sāraṇīyānaṃ dhammānaṃ etaṃ aggaṃ etaṃ saṅgāhikaṃ etaṃ saṅghāṭanikaṃ yadidaṃ yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya.",
+          "en": "In the same way, of these six warm-hearted qualities, the chief is the view that is noble and emancipating, and leads one who practices it to the complete ending of suffering. It holds and binds everything together."
+        },
+        {
+          "scid": "mn48:8.1",
+          "pli": "Kathañca, bhikkhave, yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya?",
+          "en": "And how does the view that is noble and emancipating lead one who practices it to the complete ending of suffering?"
+        },
+        {
+          "scid": "mn48:8.2",
+          "pli": "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati:",
+          "en": "It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut, and reflects like this:"
+        },
+        {
+          "scid": "mn48:8.3",
+          "pli": "‘atthi nu kho me taṃ pariyuṭṭhānaṃ ajjhattaṃ appahīnaṃ, yenāhaṃ pariyuṭṭhānena pariyuṭṭhitacitto yathābhūtaṃ nappajāneyyaṃ na passeyyan’ti?",
+          "en": "‘Is there anything that I’m overcome with internally and haven’t given up, because of which I might not accurately know and see?’"
+        },
+        {
+          "scid": "mn48:8.4",
+          "pli": "Sace, bhikkhave, bhikkhu kāmarāgapariyuṭṭhito hoti, pariyuṭṭhitacittova hoti.",
+          "en": "If a mendicant is overcome with sensual desire, it’s their mind that’s overcome."
+        },
+        {
+          "scid": "mn48:8.5",
+          "pli": "Sace, bhikkhave, bhikkhu byāpādapariyuṭṭhito hoti, pariyuṭṭhitacittova hoti.",
+          "en": "If a mendicant is overcome with ill will,"
+        },
+        {
+          "scid": "mn48:8.6",
+          "pli": "Sace, bhikkhave, bhikkhu thinamiddhapariyuṭṭhito hoti, pariyuṭṭhitacittova hoti.",
+          "en": "dullness and drowsiness,"
+        },
+        {
+          "scid": "mn48:8.7",
+          "pli": "Sace, bhikkhave, bhikkhu uddhaccakukkuccapariyuṭṭhito hoti, pariyuṭṭhitacittova hoti.",
+          "en": "restlessness and remorse,"
+        },
+        {
+          "scid": "mn48:8.8",
+          "pli": "Sace, bhikkhave, bhikkhu vicikicchāpariyuṭṭhito hoti, pariyuṭṭhitacittova hoti.",
+          "en": "doubt,"
+        },
+        {
+          "scid": "mn48:8.9",
+          "pli": "Sace, bhikkhave, bhikkhu idhalokacintāya pasuto hoti, pariyuṭṭhitacittova hoti.",
+          "en": "pursuing speculation about this world,"
+        },
+        {
+          "scid": "mn48:8.10",
+          "pli": "Sace, bhikkhave, bhikkhu paralokacintāya pasuto hoti, pariyuṭṭhitacittova hoti.",
+          "en": "pursuing speculation about the next world,"
+        },
+        {
+          "scid": "mn48:8.11",
+          "pli": "Sace, bhikkhave, bhikkhu bhaṇḍanajāto kalahajāto vivādāpanno aññamaññaṃ mukhasattīhi vitudanto viharati, pariyuṭṭhitacittova hoti.",
+          "en": "or arguing, quarreling, and fighting, continually wounding others with barbed words, it’s their mind that’s overcome."
+        },
+        {
+          "scid": "mn48:8.12",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn48:8.13",
+          "pli": "‘natthi kho me taṃ pariyuṭṭhānaṃ ajjhattaṃ appahīnaṃ, yenāhaṃ pariyuṭṭhānena pariyuṭṭhitacitto yathābhūtaṃ nappajāneyyaṃ na passeyyaṃ.",
+          "en": "‘There is nothing that I’m overcome with internally and haven’t given up, because of which I might not accurately know and see."
+        },
+        {
+          "scid": "mn48:8.14",
+          "pli": "Suppaṇihitaṃ me mānasaṃ saccānaṃ bodhāyā’ti.",
+          "en": "My mind is properly disposed for awakening to the truths.’"
+        },
+        {
+          "scid": "mn48:8.15",
+          "pli": "Idamassa paṭhamaṃ ñāṇaṃ adhigataṃ hoti ariyaṃ lokuttaraṃ asādhāraṇaṃ puthujjanehi. (1)",
+          "en": "This is the first knowledge they have achieved that is noble and transcendent, and is not shared with ordinary people."
+        },
+        {
+          "scid": "mn48:9.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn48:9.2",
+          "pli": "‘imaṃ nu kho ahaṃ diṭṭhiṃ āsevanto bhāvento bahulīkaronto labhāmi paccattaṃ samathaṃ, labhāmi paccattaṃ nibbutin’ti?",
+          "en": "‘When I develop, cultivate, and make much of this view, do I personally gain serenity and quenching?’"
+        },
+        {
+          "scid": "mn48:9.3",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn48:9.4",
+          "pli": "‘imaṃ kho ahaṃ diṭṭhiṃ āsevanto bhāvento bahulīkaronto labhāmi paccattaṃ samathaṃ, labhāmi paccattaṃ nibbutin’ti.",
+          "en": "‘When I develop, cultivate, and make much of this view, I personally gain serenity and quenching.’"
+        },
+        {
+          "scid": "mn48:9.5",
+          "pli": "Idamassa dutiyaṃ ñāṇaṃ adhigataṃ hoti ariyaṃ lokuttaraṃ asādhāraṇaṃ puthujjanehi. (2)",
+          "en": "This is their second knowledge …"
+        },
+        {
+          "scid": "mn48:10.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn48:10.2",
+          "pli": "‘yathārūpāyāhaṃ diṭṭhiyā samannāgato, atthi nu kho ito bahiddhā añño samaṇo vā brāhmaṇo vā tathārūpāya diṭṭhiyā samannāgato’ti?",
+          "en": "‘Are there any ascetics or brahmins outside of the Buddhist community who have the same kind of view that I have?’"
+        },
+        {
+          "scid": "mn48:10.3",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn48:10.4",
+          "pli": "‘yathārūpāyāhaṃ diṭṭhiyā samannāgato, natthi ito bahiddhā añño samaṇo vā brāhmaṇo vā tathārūpāya diṭṭhiyā samannāgato’ti.",
+          "en": "‘There are no ascetics or brahmins outside of the Buddhist community who have the same kind of view that I have.’"
+        },
+        {
+          "scid": "mn48:10.5",
+          "pli": "Idamassa tatiyaṃ ñāṇaṃ adhigataṃ hoti ariyaṃ lokuttaraṃ asādhāraṇaṃ puthujjanehi. (3)",
+          "en": "This is their third knowledge …"
+        },
+        {
+          "scid": "mn48:11.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn48:11.2",
+          "pli": "‘yathārūpāya dhammatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya dhammatāya samannāgato’ti.",
+          "en": "‘Do I have the same nature as a person accomplished in view?’"
+        },
+        {
+          "scid": "mn48:11.3",
+          "pli": "Kathaṃrūpāya ca, bhikkhave, dhammatāya diṭṭhisampanno puggalo samannāgato?",
+          "en": "And what, mendicants, is the nature of a person accomplished in view?"
+        },
+        {
+          "scid": "mn48:11.4",
+          "pli": "Dhammatā esā, bhikkhave, diṭṭhisampannassa puggalassa:",
+          "en": "This is the nature of a person accomplished in view."
+        },
+        {
+          "scid": "mn48:11.5",
+          "pli": "‘kiñcāpi tathārūpiṃ āpattiṃ āpajjati, yathārūpāya āpattiyā vuṭṭhānaṃ paññāyati, atha kho naṃ khippameva satthari vā viññūsu vā sabrahmacārīsu deseti vivarati uttānīkaroti;",
+          "en": "Though they may fall into a kind of offence for which rehabilitation has been laid down, they quickly disclose, clarify, and reveal it to the Teacher or a sensible spiritual companion."
+        },
+        {
+          "scid": "mn48:11.6",
+          "pli": "desetvā vivaritvā uttānīkatvā āyatiṃ saṃvaraṃ āpajjati’.",
+          "en": "And having revealed it they restrain themselves in the future."
+        },
+        {
+          "scid": "mn48:11.7",
+          "pli": "Seyyathāpi, bhikkhave, daharo kumāro mando uttānaseyyako hatthena vā pādena vā aṅgāraṃ akkamitvā khippameva paṭisaṃharati;",
+          "en": "Suppose there was a little baby boy. If he puts his hand or foot on a burning coal, he quickly pulls it back."
+        },
+        {
+          "scid": "mn48:11.8",
+          "pli": "evameva kho, bhikkhave, dhammatā esā diṭṭhisampannassa puggalassa:",
+          "en": "In the same way, this is the nature of a person accomplished in view."
+        },
+        {
+          "scid": "mn48:11.9",
+          "pli": "‘kiñcāpi tathārūpiṃ āpattiṃ āpajjati yathārūpāya āpattiyā vuṭṭhānaṃ paññāyati, atha kho naṃ khippameva satthari vā viññūsu vā sabrahmacārīsu deseti vivarati uttānīkaroti;",
+          "en": "Though they may still fall into a kind of offence for which rehabilitation has been laid down, they quickly reveal it to the Teacher or a sensible spiritual companion."
+        },
+        {
+          "scid": "mn48:11.10",
+          "pli": "desetvā vivaritvā uttānīkatvā āyatiṃ saṃvaraṃ āpajjati’.",
+          "en": "And having revealed it they restrain themselves in the future."
+        },
+        {
+          "scid": "mn48:11.11",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn48:11.12",
+          "pli": "‘yathārūpāya dhammatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya dhammatāya samannāgato’ti.",
+          "en": "‘I have the same nature as a person accomplished in view.’"
+        },
+        {
+          "scid": "mn48:11.13",
+          "pli": "Idamassa catutthaṃ ñāṇaṃ adhigataṃ hoti ariyaṃ lokuttaraṃ asādhāraṇaṃ puthujjanehi. (4)",
+          "en": "This is their fourth knowledge …"
+        },
+        {
+          "scid": "mn48:12.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn48:12.2",
+          "pli": "‘yathārūpāya dhammatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya dhammatāya samannāgato’ti.",
+          "en": "‘Do I have the same nature as a person accomplished in view?’"
+        },
+        {
+          "scid": "mn48:12.3",
+          "pli": "Kathaṃrūpāya ca, bhikkhave, dhammatāya diṭṭhisampanno puggalo samannāgato?",
+          "en": "And what, mendicants, is the nature of a person accomplished in view?"
+        },
+        {
+          "scid": "mn48:12.4",
+          "pli": "Dhammatā esā, bhikkhave, diṭṭhisampannassa puggalassa:",
+          "en": "This is the nature of a person accomplished in view."
+        },
+        {
+          "scid": "mn48:12.5",
+          "pli": "‘kiñcāpi yāni tāni sabrahmacārīnaṃ uccāvacāni kiṅkaraṇīyāni tattha ussukkaṃ āpanno hoti, atha khvāssa tibbāpekkhā hoti adhisīlasikkhāya adhicittasikkhāya adhipaññāsikkhāya’.",
+          "en": "Though they might manage a diverse spectrum of duties for their spiritual companions, they still feel a keen interest in the training in higher ethics, higher mind, and higher wisdom."
+        },
+        {
+          "scid": "mn48:12.6",
+          "pli": "Seyyathāpi, bhikkhave, gāvī taruṇavacchā thambañca ālumpati vacchakañca apacinati;",
+          "en": "Suppose there was a cow with a baby calf. She keeps the calf close as she grazes."
+        },
+        {
+          "scid": "mn48:12.7",
+          "pli": "evameva kho, bhikkhave, dhammatā esā diṭṭhisampannassa puggalassa:",
+          "en": "In the same way, this is the nature of a person accomplished in view."
+        },
+        {
+          "scid": "mn48:12.8",
+          "pli": "‘kiñcāpi yāni tāni sabrahmacārīnaṃ uccāvacāni kiṅkaraṇīyāni tattha ussukkaṃ āpanno hoti, atha khvāssa tibbāpekkhā hoti adhisīlasikkhāya adhicittasikkhāya adhipaññāsikkhāya’.",
+          "en": "Though they might manage a diverse spectrum of duties for their spiritual companions, they still feel a keen interest in the training in higher ethics, higher mind, and higher wisdom."
+        },
+        {
+          "scid": "mn48:12.9",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn48:12.10",
+          "pli": "‘yathārūpāya dhammatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya dhammatāya samannāgato’ti.",
+          "en": "‘I have the same nature as a person accomplished in view.’"
+        },
+        {
+          "scid": "mn48:12.11",
+          "pli": "Idamassa pañcamaṃ ñāṇaṃ adhigataṃ hoti ariyaṃ lokuttaraṃ asādhāraṇaṃ puthujjanehi. (5)",
+          "en": "This is their fifth knowledge …"
+        },
+        {
+          "scid": "mn48:13.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn48:13.2",
+          "pli": "‘yathārūpāya balatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya balatāya samannāgato’ti.",
+          "en": "‘Do I have the same strength as a person accomplished in view?’"
+        },
+        {
+          "scid": "mn48:13.3",
+          "pli": "Kathaṃrūpāya ca, bhikkhave, balatāya diṭṭhisampanno puggalo samannāgato?",
+          "en": "And what, mendicants, is the strength of a person accomplished in view?"
+        },
+        {
+          "scid": "mn48:13.4",
+          "pli": "Balatā esā, bhikkhave, diṭṭhisampannassa puggalassa yaṃ tathāgatappavedite dhammavinaye desiyamāne aṭṭhiṃ katvā manasikatvā sabbacetasā samannāharitvā ohitasoto dhammaṃ suṇāti.",
+          "en": "The strength of a person accomplished in view is that, when the teaching and training proclaimed by the Realized One are being taught, they pay attention, focus, concentrate wholeheartedly, and listen well."
+        },
+        {
+          "scid": "mn48:13.5",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn48:13.6",
+          "pli": "‘yathārūpāya balatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya balatāya samannāgato’ti.",
+          "en": "‘I have the same strength as a person accomplished in view.’"
+        },
+        {
+          "scid": "mn48:13.7",
+          "pli": "Idamassa chaṭṭhaṃ ñāṇaṃ adhigataṃ hoti ariyaṃ lokuttaraṃ asādhāraṇaṃ puthujjanehi. (6)",
+          "en": "This is their sixth knowledge …"
+        },
+        {
+          "scid": "mn48:14.1",
+          "pli": "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:",
+          "en": "Furthermore, a noble disciple reflects:"
+        },
+        {
+          "scid": "mn48:14.2",
+          "pli": "‘yathārūpāya balatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya balatāya samannāgato’ti.",
+          "en": "‘Do I have the same strength as a person accomplished in view?’"
+        },
+        {
+          "scid": "mn48:14.3",
+          "pli": "Kathaṃrūpāya ca, bhikkhave, balatāya diṭṭhisampanno puggalo samannāgato?",
+          "en": "And what, mendicants, is the strength of a person accomplished in view?"
+        },
+        {
+          "scid": "mn48:14.4",
+          "pli": "Balatā esā, bhikkhave, diṭṭhisampannassa puggalassa yaṃ tathāgatappavedite dhammavinaye desiyamāne labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ.",
+          "en": "The strength of a person accomplished in view is that, when the teaching and training proclaimed by the Realized One are being taught, they find joy in the meaning and the teaching, and find joy connected with the teaching."
+        },
+        {
+          "scid": "mn48:14.5",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn48:14.6",
+          "pli": "‘yathārūpāya balatāya diṭṭhisampanno puggalo samannāgato, ahampi tathārūpāya balatāya samannāgato’ti.",
+          "en": "‘I have the same strength as a person accomplished in view.’"
+        },
+        {
+          "scid": "mn48:14.7",
+          "pli": "Idamassa sattamaṃ ñāṇaṃ adhigataṃ hoti ariyaṃ lokuttaraṃ asādhāraṇaṃ puthujjanehi. (7)",
+          "en": "This is the seventh knowledge they have achieved that is noble and transcendent, and is not shared with ordinary people."
+        },
+        {
+          "scid": "mn48:15.1",
+          "pli": "Evaṃ sattaṅgasamannāgatassa kho, bhikkhave, ariyasāvakassa dhammatā susamanniṭṭhā hoti sotāpattiphalasacchikiriyāya.",
+          "en": "When a noble disciple has these seven factors, they have properly investigated their own nature with respect to the realization of the fruit of stream-entry."
+        },
+        {
+          "scid": "mn48:15.2",
+          "pli": "Evaṃ sattaṅgasamannāgato kho, bhikkhave, ariyasāvako sotāpattiphalasamannāgato hotī”ti.",
+          "en": "A noble disciple with these seven factors has the fruit of stream-entry.”"
+        },
+        {
+          "scid": "mn48:15.3",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn48:15.4",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn48:15.5",
+          "pli": "Kosambiyasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn48/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 48",
+    "volpages": "MN i 320",
+    "uid": "mn48",
+    "blurb": "Despite the Buddha’s presence, the monks of Kosambi fell into a deep and bitter dispute. The Buddha taught the reluctant monks to develop love and harmony, reminding them of the state of peace that they sought.",
+    "difficulty": 2,
+    "original_title": "Kosambiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Mendicants of Kosambi",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn48_sujato",
+        "segmented": true,
+        "title": "The Mendicants of Kosambi"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn48_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discourse at Kosambī"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

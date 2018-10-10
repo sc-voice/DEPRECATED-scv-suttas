@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn14.21",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn14.21",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Beginning With the Uneducated",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Beginning With the Lazy",
+      "uid": "sn14.22"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Beginning With Imprudence",
+      "uid": "sn14.20"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn14.21:0.1",
+          "pli": "Saṃyutta Nikāya 14",
+          "en": "Linked Discourses 14"
+        },
+        {
+          "scid": "sn14.21:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn14.21:0.3",
+          "pli": "21. Appassutamūlakasutta",
+          "en": "21. Beginning With the Uneducated"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 14…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn14.21:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn14.21:1.2",
+          "pli": "“Dhātusova, bhikkhave, sattā saṃsandanti samenti.",
+          "en": "“Mendicants, sentient beings come together and converge because of an element:"
+        },
+        {
+          "scid": "sn14.21:1.3",
+          "pli": "Appassutā appassutehi saddhiṃ saṃsandanti samenti;",
+          "en": "the uneducated with the uneducated …"
+        },
+        {
+          "scid": "sn14.21:1.4",
+          "pli": "kusītā kusītehi saddhiṃ saṃsandanti samenti;",
+          "en": "lazy …"
+        },
+        {
+          "scid": "sn14.21:1.5",
+          "pli": "duppaññā duppaññehi saddhiṃ saṃsandanti samenti;",
+          "en": "witless …"
+        },
+        {
+          "scid": "sn14.21:1.6",
+          "pli": "bahussutā bahussutehi saddhiṃ saṃsandanti samenti;",
+          "en": "learned ..."
+        },
+        {
+          "scid": "sn14.21:1.7",
+          "pli": "āraddhavīriyā āraddhavīriyehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti … pe ….",
+          "en": ""
+        },
+        {
+          "scid": "sn14.21:2.1",
+          "pli": "Appassutā appassutehi saddhiṃ saṃsandanti samenti;",
+          "en": "uneducated …"
+        },
+        {
+          "scid": "sn14.21:2.2",
+          "pli": "muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti;",
+          "en": "unmindful …"
+        },
+        {
+          "scid": "sn14.21:2.3",
+          "pli": "duppaññā duppaññehi saddhiṃ saṃsandanti samenti;",
+          "en": "witless …"
+        },
+        {
+          "scid": "sn14.21:2.4",
+          "pli": "bahussutā bahussutehi saddhiṃ saṃsandanti samenti;",
+          "en": "learned ..."
+        },
+        {
+          "scid": "sn14.21:2.5",
+          "pli": "upaṭṭhitassatino upaṭṭhitassatīhi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentī”ti … pe …. (2)",
+          "en": "mindful ... wise ...”"
+        },
+        {
+          "scid": "sn14.21:2.6",
+          "pli": "Ekādasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn14.21/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 14.21",
+    "volpages": "SN ii 164",
+    "uid": "sn14.21",
+    "blurb": "Those of bad qualities associate together, while those of good qualities associate together.",
+    "difficulty": null,
+    "original_title": "Appassutamūlaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Beginning With the Uneducated",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn14.21_sujato",
+        "segmented": true,
+        "title": "Beginning With the Uneducated"
+      }
+    ],
+    "parallel_count": 15,
+    "biblio": null,
+    "num": 11
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "an4.220",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.220",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Unethical",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Verbal Conduct",
+      "uid": "an4.221"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Imprudence",
+      "uid": "an4.219"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.220:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.220:0.2",
+          "pli": "22. Parisāvagga",
+          "en": "22. Assembly"
+        },
+        {
+          "scid": "an4.220:0.3",
+          "pli": "220. Dussīlasutta",
+          "en": "220. Unethical"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.220:1.1",
+          "pli": "“Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "“Mendicants, someone with four qualities is cast down to hell."
+        },
+        {
+          "scid": "an4.220:1.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.220:1.3",
+          "pli": "Assaddho hoti, dussīlo hoti, kusīto hoti, duppañño hoti—",
+          "en": "They’re faithless, unethical, lazy, and witless."
+        },
+        {
+          "scid": "an4.220:1.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "Someone with these four qualities is cast down to hell."
+        },
+        {
+          "scid": "an4.220:2.1",
+          "pli": "Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge.",
+          "en": "Someone with four qualities is raised up to heaven."
+        },
+        {
+          "scid": "an4.220:2.2",
+          "pli": "Katamehi catūhi?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.220:2.3",
+          "pli": "Saddho hoti, sīlavā hoti, āraddhavīriyo hoti, paññavā hoti—",
+          "en": "They’re faithful, ethical, energetic, and wise."
+        },
+        {
+          "scid": "an4.220:2.4",
+          "pli": "imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge”ti.",
+          "en": "Someone with these four qualities is raised up to heaven.”"
+        },
+        {
+          "scid": "an4.220:2.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.220:2.6",
+          "pli": "Parisasobhaṇavaggo dutiyo.",
+          "en": ""
+        },
+        {
+          "scid": "an4.220:3.1",
+          "pli": "Parisā diṭṭhi akataññutā,",
+          "en": ""
+        },
+        {
+          "scid": "an4.220:3.2",
+          "pli": "Pāṇātipātāpi dve maggā;",
+          "en": ""
+        },
+        {
+          "scid": "an4.220:3.3",
+          "pli": "Dve vohārapathā vuttā,",
+          "en": ""
+        },
+        {
+          "scid": "an4.220:3.4",
+          "pli": "Ahirikaṃ duppaññena cāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.220/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.220",
+    "volpages": "AN ii 227",
+    "uid": "an4.220",
+    "blurb": "Faith and other qualities determine rebirth.",
+    "difficulty": null,
+    "original_title": "Dussīla Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Unethical",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.220_sujato",
+        "segmented": true,
+        "title": "Unethical"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

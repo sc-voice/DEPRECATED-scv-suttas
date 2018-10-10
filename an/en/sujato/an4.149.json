@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.149",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.149",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Good Conduct",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Essentials",
+      "uid": "an4.150"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Conduct",
+      "uid": "an4.148"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.149:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.149:0.2",
+          "pli": "15. Ābhāvagga",
+          "en": "15. Brightness"
+        },
+        {
+          "scid": "an4.149:0.3",
+          "pli": "149. Sucaritasutta",
+          "en": "149. Good Conduct"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.149:1.1",
+          "pli": "“Cattārimāni, bhikkhave, vacīsucaritāni.",
+          "en": "“Mendicants, there are these four kinds of good conduct by way of speech."
+        },
+        {
+          "scid": "an4.149:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.149:1.3",
+          "pli": "Saccavācā, apisuṇā vācā, saṇhā vācā, mantabhāsā—",
+          "en": "Speech that’s true, harmonious, gentle, and thoughtful."
+        },
+        {
+          "scid": "an4.149:1.4",
+          "pli": "imāni kho, bhikkhave, cattāri vacīsucaritānī”ti.",
+          "en": "These are the four kinds of good conduct by way of speech.”"
+        },
+        {
+          "scid": "an4.149:1.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.149/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.149",
+    "volpages": "AN ii 141",
+    "uid": "an4.149",
+    "blurb": "Speech that’s true, harmonious, gentle, and meaningful.",
+    "difficulty": null,
+    "original_title": "Sucarita Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Good Conduct",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.149_sujato",
+        "segmented": true,
+        "title": "Good Conduct"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn52.13",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn52.13",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Clairaudience",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Comprehending the Mind",
+      "uid": "sn52.14"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Psychic Powers",
+      "uid": "sn52.12"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn52.13:0.1",
+          "pli": "Saṃyutta Nikāya 52",
+          "en": "Linked Discourses 52"
+        },
+        {
+          "scid": "sn52.13:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. A Thousand"
+        },
+        {
+          "scid": "sn52.13:0.3",
+          "pli": "13. Dibbasotasutta",
+          "en": "13. Clairaudience"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 52…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn52.13:1.1",
+          "pli": "“Imesañca panāhaṃ, āvuso, catunnaṃ satipaṭṭhānānaṃ bhāvitattā bahulīkatattā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāmi dibbe ca mānuse ca ye dūre santike cā”ti.",
+          "en": "“… And it’s because of developing and cultivating these four kinds of mindfulness meditation that, with clairaudience that is purified and superhuman, I hear both kinds of sounds, human and divine, whether near or far.”"
+        },
+        {
+          "scid": "sn52.13:1.2",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… And it’s because of developing and…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn52.13/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 52.13",
+    "volpages": "SN v 304",
+    "uid": "sn52.13",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dibbasota Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Clairaudience",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn52.13_sujato",
+        "segmented": true,
+        "title": "Clairaudience"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

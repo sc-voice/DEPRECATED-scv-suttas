@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn45.168",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.168",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Troubles",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Feelings",
+      "uid": "sn45.169"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Stains",
+      "uid": "sn45.167"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.168:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.168:0.2",
+          "pli": "13. Esanāvagga",
+          "en": "13. Searches"
+        },
+        {
+          "scid": "sn45.168:0.3",
+          "pli": "168. Nīghasutta",
+          "en": "168. Troubles"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.168:1.1",
+          "pli": "“Tayome, bhikkhave, nīghā.",
+          "en": "“Mendicants, there are these three troubles."
+        },
+        {
+          "scid": "sn45.168:1.2",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "sn45.168:1.3",
+          "pli": "Rāgo nīgho, doso nīgho, moho nīgho—",
+          "en": "Greed, hate, and delusion."
+        },
+        {
+          "scid": "sn45.168:1.4",
+          "pli": "ime kho, bhikkhave, tayo nīghā.",
+          "en": "These are the three troubles."
+        },
+        {
+          "scid": "sn45.168:1.5",
+          "pli": "Imesaṃ kho, bhikkhave, tiṇṇannaṃ nīghānaṃ abhiññāya pariññāya parikkhayāya pahānāya … pe … ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
+          "en": "The noble eightfold path should be developed for the direct knowledge, complete understanding, finishing, and giving up of these three troubles.”"
+        },
+        {
+          "scid": "sn45.168:1.6",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.168/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 45.168",
+    "volpages": "SN v 57",
+    "uid": "sn45.168",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nīgha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Troubles",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.168_sujato",
+        "segmented": true,
+        "title": "Troubles"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.168_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Troubles"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

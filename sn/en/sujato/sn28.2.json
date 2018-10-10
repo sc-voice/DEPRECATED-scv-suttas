@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn28.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn28.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Without Placing the Mind",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rapture",
+      "uid": "sn28.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Born of Seclusion",
+      "uid": "sn28.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn28.2:0.1",
+          "pli": "Saṃyutta Nikāya 28",
+          "en": "Linked Discourses 28"
+        },
+        {
+          "scid": "sn28.2:0.2",
+          "pli": "1. Sāriputtavagga",
+          "en": "1. With Sāriputta"
+        },
+        {
+          "scid": "sn28.2:0.3",
+          "pli": "2. Avitakkasutta",
+          "en": "2. Without Placing the Mind"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 28…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn28.2:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn28.2:1.2",
+          "pli": "Addasā kho āyasmā ānando … pe … āyasmantaṃ sāriputtaṃ etadavoca:",
+          "en": "Venerable Ānanda saw Venerable Sāriputta and said to him:"
+        },
+        {
+          "scid": "sn28.2:1.3",
+          "pli": "“vippasannāni kho te, āvuso sāriputta, indriyāni; parisuddho mukhavaṇṇo pariyodāto.",
+          "en": "“Reverend Sāriputta, your faculties are so very clear, and your complexion is pure and bright."
+        },
+        {
+          "scid": "sn28.2:1.4",
+          "pli": "Katamenāyasmā sāriputto ajja vihārena vihāsī”ti?",
+          "en": "What meditation were you practicing today?”"
+        },
+        {
+          "scid": "sn28.2:2.1",
+          "pli": "“Idhāhaṃ, āvuso, vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharāmi.",
+          "en": "“Reverend, as the placing of the mind and keeping it connected were stilled, I entered and remained in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected."
+        },
+        {
+          "scid": "sn28.2:2.2",
+          "pli": "Tassa mayhaṃ, āvuso, na evaṃ hoti:",
+          "en": "But it didn’t occur to me:"
+        },
+        {
+          "scid": "sn28.2:2.3",
+          "pli": "‘ahaṃ dutiyaṃ jhānaṃ samāpajjāmī’ti vā ‘ahaṃ dutiyaṃ jhānaṃ samāpanno’ti vā ‘ahaṃ dutiyā jhānā vuṭṭhito’ti vā”ti.",
+          "en": "‘I am entering the second absorption’ or ‘I have entered the second absorption’ or ‘I am emerging from the second absorption’.”"
+        },
+        {
+          "scid": "sn28.2:2.4",
+          "pli": "Tathā hi panāyasmato sāriputtassa dīgharattaṃ ahaṅkāramamaṅkāramānānusayā susamūhatā.",
+          "en": "“That must be because Venerable Sāriputta has long ago totally uprooted ego, possessiveness, and the underlying tendency to conceit."
+        },
+        {
+          "scid": "sn28.2:2.5",
+          "pli": "Tasmā āyasmato sāriputtassa na evaṃ hoti:",
+          "en": "That’s why it didn’t occur to you:"
+        },
+        {
+          "scid": "sn28.2:2.6",
+          "pli": "“‘ahaṃ dutiyaṃ jhānaṃ samāpajjāmī’ti vā ‘ahaṃ dutiyaṃ jhānaṃ samāpanno’ti vā ‘ahaṃ dutiyā jhānā vuṭṭhito’ti vā”ti.",
+          "en": "‘I am entering the second absorption’ or ‘I have entered the second absorption’ or ‘I am emerging from the second absorption’.”"
+        },
+        {
+          "scid": "sn28.2:2.7",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn28.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 28.2",
+    "volpages": "SN iii 235",
+    "uid": "sn28.2",
+    "blurb": "Sāriputta goes to Mirkwood for meditation, and afterwards Ānanda asks why his face is so radiant. Sāriputta replies that he was practicing second absorption without any thought of self.",
+    "difficulty": null,
+    "original_title": "Avitakka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Without Placing the Mind",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn28.2_sujato",
+        "segmented": true,
+        "title": "Without Placing the Mind"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

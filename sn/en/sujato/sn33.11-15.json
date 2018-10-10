@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn33.11-15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn33.11-15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Five Discourses on Not Comprehending Form, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Discourses on Not Understanding Form, Etc.",
+      "uid": "sn33.16-20"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Discourses on Not Seeing Form, Etc.",
+      "uid": "sn33.6-10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn33.11-15:0.1",
+          "pli": "Saṃyutta Nikāya 33",
+          "en": "Linked Discourses 33"
+        },
+        {
+          "scid": "sn33.11-15:0.2",
+          "pli": "1. Vacchagottavagga",
+          "en": "1. With Vacchagotta"
+        },
+        {
+          "scid": "sn33.11-15:0.3",
+          "pli": "11–​15. Rūpaanabhisamayādisuttapañcaka",
+          "en": "11–15. Five Discourses on Not Comprehending Form, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 33…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn33.11-15:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn33.11-15:1.2",
+          "pli": "“Rūpe kho, vaccha, anabhisamayā … pe … rūpanirodhagāminiyā paṭipadāya anabhisamayā … pe ….",
+          "en": "“Vaccha, it is because of not comprehending form …"
+        },
+        {
+          "scid": "sn33.11-15:2.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn33.11-15:2.2",
+          "pli": "“Vedanāya kho, vaccha, anabhisamayā … pe ….",
+          "en": "feeling …"
+        },
+        {
+          "scid": "sn33.11-15:3.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn33.11-15:3.2",
+          "pli": "“Saññāya kho, vaccha, anabhisamayā … pe ….",
+          "en": "perception …"
+        },
+        {
+          "scid": "sn33.11-15:4.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn33.11-15:4.2",
+          "pli": "“Saṅkhāresu kho, vaccha, anabhisamayā … pe ….",
+          "en": "choices …"
+        },
+        {
+          "scid": "sn33.11-15:5.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn33.11-15:5.2",
+          "pli": "“Viññāṇe kho, vaccha, anabhisamayā … pe ….",
+          "en": "consciousness …”"
+        },
+        {
+          "scid": "sn33.11-15:5.3",
+          "pli": "Pannarasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn33.11-15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn33.11-15",
+    "blurb": "The wanderer Vacchagotta asks the Buddha why the various speculative views come to be. The Buddha replies that it is because of not breaking through to the five aggregates.",
+    "difficulty": null,
+    "original_title": "Rūpaanabhisamayādisuttapañcaka",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Five Discourses on Not Comprehending Form, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn33.11-15_sujato",
+        "segmented": true,
+        "title": "Five Discourses on Not Comprehending Form, Etc."
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

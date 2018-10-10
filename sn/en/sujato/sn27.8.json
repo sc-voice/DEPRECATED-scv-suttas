@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn27.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn27.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Craving",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Elements",
+      "uid": "sn27.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Intention",
+      "uid": "sn27.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn27.8:0.1",
+          "pli": "Saṃyutta Nikāya 27",
+          "en": "Linked Discourses 27"
+        },
+        {
+          "scid": "sn27.8:0.2",
+          "pli": "1. Kilesavagga",
+          "en": "1. Corruptions"
+        },
+        {
+          "scid": "sn27.8:0.3",
+          "pli": "8. Taṇhāsutta",
+          "en": "8. Craving"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 27…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn27.8:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn27.8:1.2",
+          "pli": "“Yo, bhikkhave, rūpataṇhāya chandarāgo, cittasseso upakkileso.",
+          "en": "“Mendicants, desire and greed for craving for sights,"
+        },
+        {
+          "scid": "sn27.8:1.3",
+          "pli": "Yo saddataṇhāya …",
+          "en": "craving for sounds,"
+        },
+        {
+          "scid": "sn27.8:1.4",
+          "pli": "yo gandhataṇhāya …",
+          "en": "craving for smells,"
+        },
+        {
+          "scid": "sn27.8:1.5",
+          "pli": "yo rasataṇhāya …",
+          "en": "craving for tastes,"
+        },
+        {
+          "scid": "sn27.8:1.6",
+          "pli": "yo phoṭṭhabbataṇhāya …",
+          "en": "craving for touches,"
+        },
+        {
+          "scid": "sn27.8:1.7",
+          "pli": "yo dhammataṇhāya chandarāgo, cittasseso upakkileso.",
+          "en": "or craving for thoughts is a corruption of the mind. …”"
+        },
+        {
+          "scid": "sn27.8:1.8",
+          "pli": "Yato kho, bhikkhave, bhikkhuno … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn27.8:1.9",
+          "pli": "abhiññā sacchikaraṇīyesu dhammesū”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn27.8:1.10",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn27.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 27.8",
+    "volpages": "SN iii 234",
+    "uid": "sn27.8",
+    "blurb": "Desire for six kinds of craving is a corruption of the mind, and letting go such desire one is able to realize the various kinds of direct knowledge.",
+    "difficulty": null,
+    "original_title": "Taṇhā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Craving",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn27.8_sujato",
+        "segmented": true,
+        "title": "Craving"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "an8.31",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an8.31",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Giving (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving (2nd)",
+      "uid": "an8.32"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Anuruddha and the Great Thoughts",
+      "uid": "an8.30"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an8.31:0.1",
+          "pli": "Aṅguttara Nikāya 8",
+          "en": "Numbered Discourses 8"
+        },
+        {
+          "scid": "an8.31:0.2",
+          "pli": "4. Dānavagga",
+          "en": "4. Giving"
+        },
+        {
+          "scid": "an8.31:0.3",
+          "pli": "31. Paṭhamadānasutta",
+          "en": "31. Giving (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an8.31:1.1",
+          "pli": "“Aṭṭhimāni, bhikkhave, dānāni.",
+          "en": "“Mendicants, there are these eight gifts."
+        },
+        {
+          "scid": "an8.31:1.2",
+          "pli": "Katamāni aṭṭha?",
+          "en": "What eight?"
+        },
+        {
+          "scid": "an8.31:1.3",
+          "pli": "Āsajja dānaṃ deti, ",
+          "en": "A person might give a gift after insulting the recipient. "
+        },
+        {
+          "scid": "an8.31:1.4",
+          "pli": "bhayā dānaṃ deti, ",
+          "en": "Or they give out of fear. "
+        },
+        {
+          "scid": "an8.31:1.5",
+          "pli": "‘adāsi me’ti dānaṃ deti, ",
+          "en": "Or they give thinking, ‘They gave to me.’ "
+        },
+        {
+          "scid": "an8.31:1.6",
+          "pli": "‘dassati me’ti dānaṃ deti, ",
+          "en": "Or they give thinking, ‘They’ll give to me.’ "
+        },
+        {
+          "scid": "an8.31:1.7",
+          "pli": "‘sāhu dānan’ti dānaṃ deti, ",
+          "en": "Or they give thinking, ‘It’s good to give.’ "
+        },
+        {
+          "scid": "an8.31:1.8",
+          "pli": "‘ahaṃ pacāmi, ime na pacanti; nārahāmi pacanto apacantānaṃ dānaṃ adātun’ti dānaṃ deti,",
+          "en": "Or they give thinking, ‘I cook, they don’t. It wouldn’t be right for me to not give to them.’"
+        },
+        {
+          "scid": "an8.31:1.9",
+          "pli": "‘imaṃ me dānaṃ dadato kalyāṇo kittisaddo abbhuggacchatī’ti dānaṃ deti, ",
+          "en": "Or they give thinking, ‘By giving this gift I’ll get a good reputation.’ "
+        },
+        {
+          "scid": "an8.31:1.10",
+          "pli": "cittālaṅkāracittaparikkhāratthaṃ dānaṃ deti.",
+          "en": "Or they give thinking, ‘This is an adornment and requisite for the mind.’"
+        },
+        {
+          "scid": "an8.31:1.11",
+          "pli": "Imāni kho, bhikkhave, aṭṭha dānānī”ti.",
+          "en": "These are the eight gifts.”"
+        },
+        {
+          "scid": "an8.31:1.12",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an8.31/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 8.31",
+    "volpages": "AN iv 236",
+    "uid": "an8.31",
+    "blurb": "Eight ways of giving a gift.",
+    "difficulty": null,
+    "original_title": "Paṭhamadāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Giving (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an8.31_sujato",
+        "segmented": true,
+        "title": "Giving (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an8.31_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Giving (1)"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

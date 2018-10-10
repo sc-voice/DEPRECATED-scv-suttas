@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn46.71",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.71",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Impermanence",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Suffering in Impermanence",
+      "uid": "sn46.72"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dissatisfaction",
+      "uid": "sn46.70"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.71:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.71:0.2",
+          "pli": "8. Nirodhavagga",
+          "en": "8. Cessation"
+        },
+        {
+          "scid": "sn46.71:0.3",
+          "pli": "71. Aniccasutta",
+          "en": "71. Impermanence"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.71:1.1",
+          "pli": "“Aniccasaññā, bhikkhave … pe …",
+          "en": "“Mendicants, when the perception of impermanence is developed and cultivated it’s very fruitful and beneficial. …”"
+        },
+        {
+          "scid": "sn46.71:1.2",
+          "pli": "pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.71/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.71",
+    "volpages": "SN v 132",
+    "uid": "sn46.71",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Anicca Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Impermanence",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.71_sujato",
+        "segmented": true,
+        "title": "Impermanence"
+      },
+      {
+        "author": "Frank Lee Woodward",
+        "author_short": "Woodward",
+        "author_uid": "woodward",
+        "id": "en_sn46.71_woodward",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Impermanent"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

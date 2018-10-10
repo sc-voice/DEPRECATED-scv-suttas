@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.58",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.58",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Deviation",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Partner",
+      "uid": "sn1.59"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gives Birth (3rd)",
+      "uid": "sn1.57"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.58:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.58:0.2",
+          "pli": "6. Jarāvagga",
+          "en": "6. Old Age"
+        },
+        {
+          "scid": "sn1.58:0.3",
+          "pli": "58. Uppathasutta",
+          "en": "58. Deviation"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.58:1.1",
+          "pli": "“Kiṃsu uppatho akkhāto,",
+          "en": "“What’s declared to be a deviation?"
+        },
+        {
+          "scid": "sn1.58:1.2",
+          "pli": "kiṃsu rattindivakkhayo;",
+          "en": "What is ending day and night?"
+        },
+        {
+          "scid": "sn1.58:1.3",
+          "pli": "Kiṃ malaṃ brahmacariyassa,",
+          "en": "What’s the stain of celibacy?"
+        },
+        {
+          "scid": "sn1.58:1.4",
+          "pli": "kiṃ sinānamanodakan”ti.",
+          "en": "What’s the waterless bath?”"
+        },
+        {
+          "scid": "sn1.58:2.1",
+          "pli": "“Rāgo uppatho akkhāto,",
+          "en": "“Lust is declared to be a deviation."
+        },
+        {
+          "scid": "sn1.58:2.2",
+          "pli": "Vayo rattindivakkhayo;",
+          "en": "Youth is ending day and night."
+        },
+        {
+          "scid": "sn1.58:2.3",
+          "pli": "Itthī malaṃ brahmacariyassa,",
+          "en": "Women are the stain of celibacy,"
+        },
+        {
+          "scid": "sn1.58:2.4",
+          "pli": "Etthāyaṃ sajjate pajā;",
+          "en": "to which this generation clings."
+        },
+        {
+          "scid": "sn1.58:2.5",
+          "pli": "Tapo ca brahmacariyañca,",
+          "en": "Austerity and celibacy"
+        },
+        {
+          "scid": "sn1.58:2.6",
+          "pli": "Taṃ sinānamanodakan”ti.",
+          "en": "are the waterless bath.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What’s declared to be a deviation…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.58/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.58//SN 58",
+    "volpages": "SN i 38//SN i 83",
+    "uid": "sn1.58",
+    "blurb": "What is the wrong path?",
+    "difficulty": null,
+    "original_title": "Uppatha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Deviation",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.58_sujato",
+        "segmented": true,
+        "title": "Deviation"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.58_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Deviant Path"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 8
+  }
+}

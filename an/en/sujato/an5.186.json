@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an5.186",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.186",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Those Who Never Lie Down",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Those Who Sleep Wherever a Mat is Laid",
+      "uid": "an5.187"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Open Air Dwellers",
+      "uid": "an5.185"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.186:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.186:0.2",
+          "pli": "19. Araññavagga",
+          "en": "19. Wilderness Dwellers"
+        },
+        {
+          "scid": "an5.186:0.3",
+          "pli": "186. Nesajjikasutta",
+          "en": "186. Those Who Never Lie Down"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.186:1.1",
+          "pli": "“Pañcime, bhikkhave, nesajjikā … pe ….",
+          "en": "“There are these five kinds of people who never lie down. …”"
+        },
+        {
+          "scid": "an5.186:1.2",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“There are these five kinds of people…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.186/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.186",
+    "volpages": "AN iii 220",
+    "uid": "an5.186",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nesajjika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Those Who Never Lie Down",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.186_sujato",
+        "segmented": true,
+        "title": "Those Who Never Lie Down"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

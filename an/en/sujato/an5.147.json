@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.147",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.147",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Gifts of a Bad Person",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gifts of a Good Person",
+      "uid": "an5.148"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Friend",
+      "uid": "an5.146"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.147:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.147:0.2",
+          "pli": "15. Tikaṇḍakīvagga",
+          "en": "15. At Tikaṇḍakī"
+        },
+        {
+          "scid": "an5.147:0.3",
+          "pli": "147. Asappurisadānasutta",
+          "en": "147. Gifts of a Bad Person"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.147:1.1",
+          "pli": "“Pañcimāni, bhikkhave, asappurisadānāni.",
+          "en": "“Mendicants, there are these five gifts of a bad person."
+        },
+        {
+          "scid": "an5.147:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.147:1.3",
+          "pli": "Asakkaccaṃ deti, acittīkatvā deti, asahatthā deti, apaviddhaṃ deti, anāgamanadiṭṭhiko deti.",
+          "en": "They give carelessly. They give thoughtlessly. They don’t give with their own hand. They give the dregs. They give without consideration for consequences."
+        },
+        {
+          "scid": "an5.147:1.4",
+          "pli": "Imāni kho, bhikkhave, pañca asappurisadānāni.",
+          "en": "These are the five gifts of a bad person."
+        },
+        {
+          "scid": "an5.147:2.1",
+          "pli": "Pañcimāni, bhikkhave, sappurisadānāni.",
+          "en": "There are these five gifts of a good person."
+        },
+        {
+          "scid": "an5.147:2.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.147:2.3",
+          "pli": "Sakkaccaṃ deti, cittīkatvā deti, sahatthā deti, anapaviddhaṃ deti, āgamanadiṭṭhiko deti.",
+          "en": "They give carefully. They give thoughtfully. They give with their own hand. They don’t give the dregs. They give with consideration for consequences."
+        },
+        {
+          "scid": "an5.147:2.4",
+          "pli": "Imāni kho, bhikkhave, pañca sappurisadānānī”ti.",
+          "en": "These are the five gifts of a good person.”"
+        },
+        {
+          "scid": "an5.147:2.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.147/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.147",
+    "volpages": "AN iii 171",
+    "uid": "an5.147",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Asappurisadāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Gifts of a Bad Person",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.147_sujato",
+        "segmented": true,
+        "title": "Gifts of a Bad Person"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

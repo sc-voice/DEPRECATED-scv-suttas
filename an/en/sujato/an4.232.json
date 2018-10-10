@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an4.232",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.232",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Deeds In Brief",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Deeds in Detail",
+      "uid": "an4.233"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Poets",
+      "uid": "an4.231"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.232:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.232:0.2",
+          "pli": "24. Kammavagga",
+          "en": "24. Deeds"
+        },
+        {
+          "scid": "an4.232:0.3",
+          "pli": "232. Saṅkhittasutta",
+          "en": "232. Deeds In Brief"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.232:1.1",
+          "pli": "“Cattārimāni, bhikkhave, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni.",
+          "en": "“Mendicants, I declare these four kinds of deeds, having realized them with my own insight."
+        },
+        {
+          "scid": "an4.232:1.2",
+          "pli": "Katamāni cattāri?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.232:1.3",
+          "pli": "Atthi, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ;",
+          "en": "There are dark deeds with dark results."
+        },
+        {
+          "scid": "an4.232:1.4",
+          "pli": "atthi, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ;",
+          "en": "There are bright deeds with bright results."
+        },
+        {
+          "scid": "an4.232:1.5",
+          "pli": "atthi, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ;",
+          "en": "There are dark and bright deeds with dark and bright results."
+        },
+        {
+          "scid": "an4.232:1.6",
+          "pli": "atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati.",
+          "en": "There are neither dark nor bright deeds with neither dark nor bright results, which lead to the ending of deeds."
+        },
+        {
+          "scid": "an4.232:1.7",
+          "pli": "Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī”ti.",
+          "en": "These are the four kinds of deeds that I declare, having realized them with my own insight.”"
+        },
+        {
+          "scid": "an4.232:1.8",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.232/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.232//AN 4.231",
+    "volpages": "AN ii 230",
+    "uid": "an4.232",
+    "blurb": "Karma that’s dark, bright, both, and neither.",
+    "difficulty": null,
+    "original_title": "Saṃkhitta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Deeds In Brief",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.232_sujato",
+        "segmented": true,
+        "title": "Deeds In Brief"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 1
+  }
+}

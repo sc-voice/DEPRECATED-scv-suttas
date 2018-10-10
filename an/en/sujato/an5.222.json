@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.222",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.222",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Long Wandering (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Overstaying",
+      "uid": "an5.223"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Long Wandering (1st)",
+      "uid": "an5.221"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.222:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.222:0.2",
+          "pli": "23. Dīghacārikavagga",
+          "en": "23. Long Wandering"
+        },
+        {
+          "scid": "an5.222:0.3",
+          "pli": "222. Dutiyadīghacārikasutta",
+          "en": "222. Long Wandering (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.222:1.1",
+          "pli": "“Pañcime, bhikkhave, ādīnavā dīghacārikaṃ anavatthacārikaṃ anuyuttassa viharato.",
+          "en": "“Mendicants, there are these five drawbacks for someone who likes long and aimless wandering."
+        },
+        {
+          "scid": "an5.222:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.222:1.3",
+          "pli": "Anadhigataṃ nādhigacchati, adhigatā parihāyati, adhigatenekaccena avisārado hoti, gāḷhaṃ rogātaṅkaṃ phusati, na ca mittavā hoti.",
+          "en": "You don’t achieve the unachieved. What you have achieved falls away. You lose confidence in some things you’ve achieved. You contract a severe illness. You don’t have any friends."
+        },
+        {
+          "scid": "an5.222:1.4",
+          "pli": "Ime kho, bhikkhave, pañca ādīnavā dīghacārikaṃ anavatthacārikaṃ anuyuttassa viharato.",
+          "en": "These are the five drawbacks for someone who likes long and aimless wandering."
+        },
+        {
+          "scid": "an5.222:2.1",
+          "pli": "Pañcime, bhikkhave, ānisaṃsā samavatthacāre.",
+          "en": "There are these five benefits of a reasonable amount of wandering."
+        },
+        {
+          "scid": "an5.222:2.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.222:2.3",
+          "pli": "Anadhigataṃ adhigacchati, adhigatā na parihāyati, adhigatenekaccena visārado hoti, na gāḷhaṃ rogātaṅkaṃ phusati, mittavā ca hoti.",
+          "en": "You achieve the unachieved. What you have achieved doesn’t fall away. You’re confident in some things you’ve achieved. You don’t contract severe illness. You have friends."
+        },
+        {
+          "scid": "an5.222:2.4",
+          "pli": "Ime kho, bhikkhave, pañca ānisaṃsā samavatthacāre”ti.",
+          "en": "These are the five benefits of a reasonable amount of wandering.”"
+        },
+        {
+          "scid": "an5.222:2.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.222/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.222",
+    "volpages": "AN iii 257",
+    "uid": "an5.222",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dutiyadīghacārika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Long Wandering (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.222_sujato",
+        "segmented": true,
+        "title": "Long Wandering (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

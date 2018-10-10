@@ -1,0 +1,260 @@
+{
+  "sutta_uid": "sn36.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn36.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Ānanda (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ānanda (2nd)",
+      "uid": "sn36.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Guest House",
+      "uid": "sn36.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn36.15:0.1",
+          "pli": "Saṃyutta Nikāya 36",
+          "en": "Linked Discourses 36"
+        },
+        {
+          "scid": "sn36.15:0.2",
+          "pli": "2. Rahogatavagga",
+          "en": "2. In Private"
+        },
+        {
+          "scid": "sn36.15:0.3",
+          "pli": "15. Paṭhamaānandasutta",
+          "en": "15. With Ānanda (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 36…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn36.15:1.1",
+          "pli": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṃ nisīdi, ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
+          "en": "Then Venerable Ānanda went up to the Buddha … sat down to one side, and said to him:"
+        },
+        {
+          "scid": "sn36.15:1.2",
+          "pli": "“katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā?",
+          "en": "“Sir, what is feeling? What’s the origin of feeling? What’s the cessation of feeling? What’s the practice that leads to the cessation of feeling?"
+        },
+        {
+          "scid": "sn36.15:1.3",
+          "pli": "Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇan”ti?",
+          "en": "And what is feeling’s gratification, drawback, and escape?”"
+        },
+        {
+          "scid": "sn36.15:1.4",
+          "pli": "“Tisso imā, ānanda, vedanā—",
+          "en": "“Ānanda, there are these three feelings:"
+        },
+        {
+          "scid": "sn36.15:1.5",
+          "pli": "sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—",
+          "en": "pleasant, painful, and neutral."
+        },
+        {
+          "scid": "sn36.15:1.6",
+          "pli": "imā vuccanti, ānanda, vedanā.",
+          "en": "These are called feeling."
+        },
+        {
+          "scid": "sn36.15:1.7",
+          "pli": "Phassasamudayā vedanāsamudayo;",
+          "en": "Feeling originates from contact."
+        },
+        {
+          "scid": "sn36.15:1.8",
+          "pli": "phassanirodhā vedanānirodho.",
+          "en": "When contact ceases, feeling ceases."
+        },
+        {
+          "scid": "sn36.15:1.9",
+          "pli": "Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṃ—",
+          "en": "The practice that leads to the cessation of feelings is simply this noble eightfold path, that is:"
+        },
+        {
+          "scid": "sn36.15:1.10",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": "right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion."
+        },
+        {
+          "scid": "sn36.15:1.11",
+          "pli": "Yaṃ vedanaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ vedanāya assādo.",
+          "en": "The pleasure and happiness that arise from feeling: this is its gratification."
+        },
+        {
+          "scid": "sn36.15:1.12",
+          "pli": "Yaṃ vedanā aniccā dukkhā vipariṇāmadhammā, ayaṃ vedanāya ādīnavo.",
+          "en": "That feeling is impermanent, suffering, and perishable: this is its drawback."
+        },
+        {
+          "scid": "sn36.15:1.13",
+          "pli": "Yo vedanāya chandarāgavinayo chandarāgappahānaṃ, idaṃ vedanāya nissaraṇaṃ.",
+          "en": "Removing and giving up desire and greed for feeling: this is its escape."
+        },
+        {
+          "scid": "sn36.15:1.14",
+          "pli": "Atha kho panānanda, mayā anupubbasaṅkhārānaṃ nirodho akkhāto.",
+          "en": "But I have also explained the progressive cessation of conditions."
+        },
+        {
+          "scid": "sn36.15:1.15",
+          "pli": "Paṭhamaṃ jhānaṃ samāpannassa vācā niruddhā hoti … pe …",
+          "en": "For someone who has attained the first absorption, speech has ceased. …"
+        },
+        {
+          "scid": "sn36.15:1.16",
+          "pli": "saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca niruddhā honti.",
+          "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased."
+        },
+        {
+          "scid": "sn36.15:1.17",
+          "pli": "Khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti.",
+          "en": "For a mendicant who has ended the defilements, greed, hate, and delusion have ceased."
+        },
+        {
+          "scid": "sn36.15:1.18",
+          "pli": "Atha kho panānanda, mayā anupubbasaṅkhārānaṃ vūpasamo akkhāto.",
+          "en": "And I have also explained the progressive stilling of conditions."
+        },
+        {
+          "scid": "sn36.15:1.19",
+          "pli": "Paṭhamaṃ jhānaṃ samāpannassa vācā vūpasantā hoti … pe …",
+          "en": "For someone who has attained the first absorption, speech has stilled. …"
+        },
+        {
+          "scid": "sn36.15:1.20",
+          "pli": "saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca vūpasantā honti.",
+          "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have stilled."
+        },
+        {
+          "scid": "sn36.15:1.21",
+          "pli": "Khīṇāsavassa bhikkhuno rāgo vūpasanto hoti, doso vūpasanto hoti, moho vūpasanto hoti.",
+          "en": "For a mendicant who has ended the defilements, greed, hate, and delusion have stilled."
+        },
+        {
+          "scid": "sn36.15:1.22",
+          "pli": "Atha kho panānanda, mayā anupubbasaṅkhārānaṃ paṭippassaddhi akkhātā.",
+          "en": "And I have also explained the progressive tranquilizing of conditions."
+        },
+        {
+          "scid": "sn36.15:1.23",
+          "pli": "Paṭhamaṃ jhānaṃ samāpannassa vācā paṭippassaddhā hoti … pe …",
+          "en": "For someone who has attained the first absorption, speech has been tranquilized. …"
+        },
+        {
+          "scid": "sn36.15:1.24",
+          "pli": "ākāsānañcāyatanaṃ samāpannassa rūpasaññā paṭippassaddhā hoti.",
+          "en": "For someone who has attained the dimension of infinite space, the perception of form has been tranquilized."
+        },
+        {
+          "scid": "sn36.15:1.25",
+          "pli": "Viññāṇañcāyatanaṃ samāpannassa ākāsānañcāyatanasaññā paṭippassaddhā hoti.",
+          "en": "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has been tranquilized."
+        },
+        {
+          "scid": "sn36.15:1.26",
+          "pli": "Ākiñcaññāyatanaṃ samāpannassa viññāṇañcāyatanasaññā paṭippassaddhā hoti.",
+          "en": "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has been tranquilized."
+        },
+        {
+          "scid": "sn36.15:1.27",
+          "pli": "Nevasaññānāsaññāyatanaṃ samāpannassa ākiñcaññāyatanasaññā paṭippassaddhā hoti.",
+          "en": "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has been tranquilized."
+        },
+        {
+          "scid": "sn36.15:1.28",
+          "pli": "Saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca paṭippassaddhā honti.",
+          "en": "For someone who has attained the cessation of perception and feeling, perception and feeling have been tranquilized."
+        },
+        {
+          "scid": "sn36.15:1.29",
+          "pli": "Khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī”ti.",
+          "en": "For a mendicant who has ended the defilements, greed, hate, and delusion have been tranquilized.”"
+        },
+        {
+          "scid": "sn36.15:1.30",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then Venerable Ānanda went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn36.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 36.15",
+    "volpages": "SN iv 219",
+    "uid": "sn36.15",
+    "blurb": "The Buddha explains the feelings to Ānanda in terms of arising, ending, gratification, drawback, and escape.",
+    "difficulty": null,
+    "original_title": "Paṭhamaānanda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Ānanda (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn36.15_sujato",
+        "segmented": true,
+        "title": "With Ānanda (1st)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn36.15_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Ānanda (1)"
+      }
+    ],
+    "parallel_count": 9,
+    "biblio": null,
+    "num": 5
+  }
+}

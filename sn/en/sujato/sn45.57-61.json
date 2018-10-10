@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn45.57-61",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn45.57-61",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Five Discourses on Accomplishment in Ethics, Etc. (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Accomplishment in Proper Attention (2nd)",
+      "uid": "sn45.62"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Good Friends (2nd)",
+      "uid": "sn45.56"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn45.57-61:0.1",
+          "pli": "Saṃyutta Nikāya 45",
+          "en": "Linked Discourses 45"
+        },
+        {
+          "scid": "sn45.57-61:0.2",
+          "pli": "6. Sūriyapeyyālavagga",
+          "en": "6. Abbreviated Texts on the Sun"
+        },
+        {
+          "scid": "sn45.57-61:0.3",
+          "pli": "57–​61. Dutiyasīlasampadādisuttapañcaka",
+          "en": "57–61. Five Discourses on Accomplishment in Ethics, Etc. (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 45…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn45.57-61:1.1",
+          "pli": "“Sūriyassa, bhikkhave, udayato etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ—aruṇuggaṃ;",
+          "en": "“Mendicants, the dawn is the forerunner and precursor of the sunrise."
+        },
+        {
+          "scid": "sn45.57-61:1.2",
+          "pli": "evameva kho, bhikkhave, bhikkhuno ariyassa aṭṭhaṅgikassa maggassa uppādāya etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ—sīlasampadā … pe …",
+          "en": "In the same way accomplishment in ethics is the forerunner and precursor of the noble eightfold path for a mendicant. …”"
+        },
+        {
+          "scid": "sn45.57-61:1.3",
+          "pli": "yadidaṃ—chandasampadā … pe …",
+          "en": "“… accomplishment in enthusiasm …”"
+        },
+        {
+          "scid": "sn45.57-61:1.4",
+          "pli": "yadidaṃ—attasampadā … pe …",
+          "en": "“… accomplishment in self-development …”"
+        },
+        {
+          "scid": "sn45.57-61:1.5",
+          "pli": "yadidaṃ—diṭṭhisampadā … pe …",
+          "en": "“… accomplishment in view …”"
+        },
+        {
+          "scid": "sn45.57-61:1.6",
+          "pli": "yadidaṃ—appamādasampadā … pe ….",
+          "en": "“… accomplishment in diligence …”"
+        },
+        {
+          "scid": "sn45.57-61:1.7",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn45.57-61/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn45.57-61",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dutiyasīlasampadādisuttapañcaka",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Five Discourses on Accomplishment in Ethics, Etc. (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn45.57-61_sujato",
+        "segmented": true,
+        "title": "Five Discourses on Accomplishment in Ethics, Etc. (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn45.57-61_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Accomplishment in Virtue, Etc."
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "sn40.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn40.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Candana, etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Fetter",
+      "uid": "sn41.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sakka",
+      "uid": "sn40.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn40.11:0.1",
+          "pli": "Saṃyutta Nikāya 40",
+          "en": "Linked Discourses 40"
+        },
+        {
+          "scid": "sn40.11:0.2",
+          "pli": "1. Moggallānavagga",
+          "en": "1. By Moggallāna"
+        },
+        {
+          "scid": "sn40.11:0.3",
+          "pli": "11. Candanasutta",
+          "en": "11. With Candana, etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 40…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn40.11:1.1",
+          "pli": "Atha kho candano devaputto … pe ….",
+          "en": "Then the god Candana …"
+        },
+        {
+          "scid": "sn40.11:2.1",
+          "pli": "Atha kho suyāmo devaputto … pe ….",
+          "en": "the god Suyāma …"
+        },
+        {
+          "scid": "sn40.11:3.1",
+          "pli": "Atha kho santusito devaputto … pe ….",
+          "en": "the god Santusita …"
+        },
+        {
+          "scid": "sn40.11:4.1",
+          "pli": "Atha kho sunimmito devaputto … pe ….",
+          "en": "the god Sunimmita …"
+        },
+        {
+          "scid": "sn40.11:5.1",
+          "pli": "Atha kho vasavatti devaputto … pe ….",
+          "en": "the god Vasavatti …"
+        },
+        {
+          "scid": "sn40.11:6.1",
+          "pli": "(Yathā sakkasuttaṃ tathā ime pañca peyyālā vitthāretabbā.)",
+          "en": "(These abbreviated texts should be expanded as in the Discourse With Sakka.)"
+        },
+        {
+          "scid": "sn40.11:6.2",
+          "pli": "Ekādasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn40.11:6.3",
+          "pli": "Moggallānavaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn40.11:7.1",
+          "pli": "Savitakkāvitakkañca,",
+          "en": ""
+        },
+        {
+          "scid": "sn40.11:7.2",
+          "pli": "sukhena ca upekkhako;",
+          "en": ""
+        },
+        {
+          "scid": "sn40.11:7.3",
+          "pli": "Ākāsañceva viññāṇaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn40.11:7.4",
+          "pli": "ākiñcaṃ nevasaññinā;",
+          "en": ""
+        },
+        {
+          "scid": "sn40.11:7.5",
+          "pli": "Animitto ca sakko ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn40.11:7.6",
+          "pli": "candanekādasena cāti.",
+          "en": ""
+        },
+        {
+          "scid": "sn40.11:7.7",
+          "pli": "Moggallānasaṃyuttaṃ samattaṃ.",
+          "en": "The Linked Discourses on Moggallāna are complete."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then the god Candana ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn40.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 40.11",
+    "volpages": "SN iv 280",
+    "uid": "sn40.11",
+    "blurb": "The dialogue in SN 40.10 is repeated with a series of other deities.",
+    "difficulty": null,
+    "original_title": "Candana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Candana, etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn40.11_sujato",
+        "segmented": true,
+        "title": "With Candana, etc."
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 11
+  }
+}

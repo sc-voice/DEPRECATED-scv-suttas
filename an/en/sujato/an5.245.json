@@ -1,0 +1,185 @@
+{
+  "sutta_uid": "an5.245",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.245",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Bad Conduct (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Bodily Conduct (2nd)",
+      "uid": "an5.246"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Mental Conduct (1st)",
+      "uid": "an5.244"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.245:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.245:0.2",
+          "pli": "25. Duccaritavagga",
+          "en": "25. Bad Conduct"
+        },
+        {
+          "scid": "an5.245:0.3",
+          "pli": "245. Dutiyaduccaritasutta",
+          "en": "245. Bad Conduct (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.245:1.1",
+          "pli": "“Pañcime, bhikkhave, ādīnavā duccarite.",
+          "en": "“Mendicants, there are these five drawbacks of bad conduct."
+        },
+        {
+          "scid": "an5.245:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.245:1.3",
+          "pli": "Attāpi attānaṃ upavadati;",
+          "en": "You blame yourself."
+        },
+        {
+          "scid": "an5.245:1.4",
+          "pli": "anuvicca viññū garahanti;",
+          "en": "After examination, sensible people criticize you."
+        },
+        {
+          "scid": "an5.245:1.5",
+          "pli": "pāpako kittisaddo abbhuggacchati;",
+          "en": "You get a bad reputation."
+        },
+        {
+          "scid": "an5.245:1.6",
+          "pli": "saddhammā vuṭṭhāti;",
+          "en": "You drift away from true teachings."
+        },
+        {
+          "scid": "an5.245:1.7",
+          "pli": "asaddhamme patiṭṭhāti.",
+          "en": "You settle on untrue teachings."
+        },
+        {
+          "scid": "an5.245:1.8",
+          "pli": "Ime kho, bhikkhave, pañca ādīnavā duccarite.",
+          "en": "These are the five drawbacks of bad conduct."
+        },
+        {
+          "scid": "an5.245:2.1",
+          "pli": "Pañcime, bhikkhave, ānisaṃsā sucarite.",
+          "en": "There are these five benefits of good conduct."
+        },
+        {
+          "scid": "an5.245:2.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.245:2.3",
+          "pli": "Attāpi attānaṃ na upavadati;",
+          "en": "You don’t blame yourself."
+        },
+        {
+          "scid": "an5.245:2.4",
+          "pli": "anuvicca viññū pasaṃsanti;",
+          "en": "After examination, sensible people praise you."
+        },
+        {
+          "scid": "an5.245:2.5",
+          "pli": "kalyāṇo kittisaddo abbhuggacchati;",
+          "en": "You get a good reputation."
+        },
+        {
+          "scid": "an5.245:2.6",
+          "pli": "asaddhammā vuṭṭhāti;",
+          "en": "You drift away from untrue teachings."
+        },
+        {
+          "scid": "an5.245:2.7",
+          "pli": "saddhamme patiṭṭhāti.",
+          "en": "You settle on true teachings."
+        },
+        {
+          "scid": "an5.245:2.8",
+          "pli": "Ime kho, bhikkhave, pañca ānisaṃsā sucarite”ti.",
+          "en": "These are the five benefits of good conduct.”"
+        },
+        {
+          "scid": "an5.245:2.9",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.245/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.245",
+    "volpages": "AN iii 268",
+    "uid": "an5.245",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dutiyaduccarita Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bad Conduct (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.245_sujato",
+        "segmented": true,
+        "title": "Bad Conduct (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

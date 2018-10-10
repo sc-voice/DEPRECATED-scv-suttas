@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.75",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.75",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Afraid",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Getting Old",
+      "uid": "sn1.76"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rain",
+      "uid": "sn1.74"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.75:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.75:0.2",
+          "pli": "8. Chetvāvagga",
+          "en": "8. Incinerated"
+        },
+        {
+          "scid": "sn1.75:0.3",
+          "pli": "75. Bhītāsutta",
+          "en": "75. Afraid"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.75:1.1",
+          "pli": "“Kiṃsūdha bhītā janatā anekā,",
+          "en": "“Why are so many people here afraid,"
+        },
+        {
+          "scid": "sn1.75:1.2",
+          "pli": "Maggo canekāyatanappavutto;",
+          "en": "when the path has been taught with so many dimensions?"
+        },
+        {
+          "scid": "sn1.75:1.3",
+          "pli": "Pucchāmi taṃ gotama bhūripañña,",
+          "en": "I ask you, Gotama, whose wisdom is vast:"
+        },
+        {
+          "scid": "sn1.75:1.4",
+          "pli": "Kismiṃ ṭhito paralokaṃ na bhāye”ti.",
+          "en": "Standing on what need one not fear the next world?”"
+        },
+        {
+          "scid": "sn1.75:2.1",
+          "pli": "“Vācaṃ manañca paṇidhāya sammā,",
+          "en": "“When speech and mind are directed right,"
+        },
+        {
+          "scid": "sn1.75:2.2",
+          "pli": "Kāyena pāpāni akubbamāno;",
+          "en": "and you don’t do anything bad with the body"
+        },
+        {
+          "scid": "sn1.75:2.3",
+          "pli": "Bahvannapānaṃ gharamāvasanto,",
+          "en": "while dwelling at home with plenty of food and drink."
+        },
+        {
+          "scid": "sn1.75:2.4",
+          "pli": "Saddho mudū saṃvibhāgī vadaññū;",
+          "en": "Faithful, gentle, charitable, and kind:"
+        },
+        {
+          "scid": "sn1.75:2.5",
+          "pli": "Etesu dhammesu ṭhito catūsu,",
+          "en": "standing on these four principles,"
+        },
+        {
+          "scid": "sn1.75:2.6",
+          "pli": "Dhamme ṭhito paralokaṃ na bhāye”ti.",
+          "en": "standing on the teaching one need not fear the next world.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Why are so many people here afraid…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.75/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.75//SN 75",
+    "volpages": "SN i 42//SN i 95",
+    "uid": "sn1.75",
+    "blurb": "Why is it that, though the path has been taught, people still fear?",
+    "difficulty": null,
+    "original_title": "Bhītā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Afraid",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.75_sujato",
+        "segmented": true,
+        "title": "Afraid"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.75_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Afraid"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

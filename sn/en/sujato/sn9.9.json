@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn9.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn9.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Vajjian",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Recitation",
+      "uid": "sn9.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Mistress of the House",
+      "uid": "sn9.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn9.9:0.1",
+          "pli": "Saṃyutta Nikāya 9",
+          "en": "Linked Discourses 9"
+        },
+        {
+          "scid": "sn9.9:0.2",
+          "pli": "1. Vanavagga",
+          "en": "1. In the Woods"
+        },
+        {
+          "scid": "sn9.9:0.3",
+          "pli": "9. Vajjiputtasutta",
+          "en": "9. A Vajjian"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn9.9:1.1",
+          "pli": "Ekaṃ samayaṃ aññataro vajjiputtako bhikkhu vesāliyaṃ viharati aññatarasmiṃ vanasaṇḍe.",
+          "en": "At one time a certain Vajjian mendicant was staying near Vesālī in a certain forest grove."
+        },
+        {
+          "scid": "sn9.9:1.2",
+          "pli": "Tena kho pana samayena vesāliyaṃ vajjiputtako sabbaratticāro hoti.",
+          "en": "Now at that time the Vajjians were holding an all-night event in Vesālī."
+        },
+        {
+          "scid": "sn9.9:1.3",
+          "pli": "Atha kho so bhikkhu vesāliyā tūriyatāḷitavāditanigghosasaddaṃ sutvā paridevamāno tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi:",
+          "en": "Then that mendicant, groaning at the noise of musical instruments being beaten and played, on that occasion recited this verse:"
+        },
+        {
+          "scid": "sn9.9:2.1",
+          "pli": "“Ekakā mayaṃ araññe viharāma,",
+          "en": "“We dwell alone in the wilderness,"
+        },
+        {
+          "scid": "sn9.9:2.2",
+          "pli": "Apaviddhaṃva vanasmiṃ dārukaṃ;",
+          "en": "like a cast-off log in the forest."
+        },
+        {
+          "scid": "sn9.9:2.3",
+          "pli": "Etādisikāya rattiyā,",
+          "en": "On a night like this,"
+        },
+        {
+          "scid": "sn9.9:2.4",
+          "pli": "Ko su nāmamhehi pāpiyo”ti.",
+          "en": "who’s worse off than me?”"
+        },
+        {
+          "scid": "sn9.9:3.1",
+          "pli": "Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi:",
+          "en": "The deity haunting that forest had compassion for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse:"
+        },
+        {
+          "scid": "sn9.9:4.1",
+          "pli": "“Ekakova tvaṃ araññe viharasi,",
+          "en": "“You dwell alone in the wilderness,"
+        },
+        {
+          "scid": "sn9.9:4.2",
+          "pli": "Apaviddhaṃva vanasmiṃ dārukaṃ;",
+          "en": "like a cast-off log in the forest."
+        },
+        {
+          "scid": "sn9.9:4.3",
+          "pli": "Tassa te bahukā pihayanti,",
+          "en": "Lots of people are jealous of you,"
+        },
+        {
+          "scid": "sn9.9:4.4",
+          "pli": "Nerayikā viya saggagāminan”ti.",
+          "en": "like beings in hell of those going to heaven.”"
+        },
+        {
+          "scid": "sn9.9:5.1",
+          "pli": "Atha kho so bhikkhu tāya devatāya saṃvejito saṃvegamāpādīti.",
+          "en": "Stirred up by that deity, that mendicant came to their senses."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time a certain Vajjian mendicant…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn9.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 9.9//SN 229",
+    "volpages": "SN i 201//SN i 434",
+    "uid": "sn9.9",
+    "blurb": "Hearing the sounds of a city festival, a mendicant feels lonely in the forest. A deity comes to give them solace and support.",
+    "difficulty": null,
+    "original_title": "Vajjiputta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Vajjian",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn9.9_sujato",
+        "segmented": true,
+        "title": "A Vajjian"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 9
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "sn43.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn43.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Path",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Unconditioned",
+      "uid": "sn43.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Awakening Factors",
+      "uid": "sn43.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn43.11:0.1",
+          "pli": "Saṃyutta Nikāya 43",
+          "en": "Linked Discourses 43"
+        },
+        {
+          "scid": "sn43.11:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The First Chapter"
+        },
+        {
+          "scid": "sn43.11:0.3",
+          "pli": "11. Maggaṅgasutta",
+          "en": "11. The Path"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 43…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn43.11:1.1",
+          "pli": "“Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": "“And what is the path that leads to the unconditioned?"
+        },
+        {
+          "scid": "sn43.11:1.2",
+          "pli": "Ariyo aṭṭhaṅgiko maggo.",
+          "en": "The noble eightfold path."
+        },
+        {
+          "scid": "sn43.11:1.3",
+          "pli": "Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo.",
+          "en": "This is called the path that leads to the unconditioned."
+        },
+        {
+          "scid": "sn43.11:1.4",
+          "pli": "Iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ, desito asaṅkhatagāmimaggo.",
+          "en": "So, mendicants, I’ve taught you the unconditioned and the path that leads to the unconditioned."
+        },
+        {
+          "scid": "sn43.11:1.5",
+          "pli": "Yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya kataṃ vo taṃ mayā.",
+          "en": "Out of compassion, I’ve done what a teacher should do for the benefit of their disciples."
+        },
+        {
+          "scid": "sn43.11:1.6",
+          "pli": "Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanī”ti.",
+          "en": "Here are these roots of trees, and here are these empty huts. Practice absorption, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.”"
+        },
+        {
+          "scid": "sn43.11:1.7",
+          "pli": "Ekādasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn43.11:1.8",
+          "pli": "Asaṅkhatasaṃyuttassa paṭhamo vaggo.",
+          "en": ""
+        },
+        {
+          "scid": "sn43.11:2.1",
+          "pli": "Kāyo samatho savitakko,",
+          "en": ""
+        },
+        {
+          "scid": "sn43.11:2.2",
+          "pli": "suññato satipaṭṭhānā;",
+          "en": ""
+        },
+        {
+          "scid": "sn43.11:2.3",
+          "pli": "Sammappadhānā iddhipādā,",
+          "en": ""
+        },
+        {
+          "scid": "sn43.11:2.4",
+          "pli": "indriyabalabojjhaṅgā;",
+          "en": ""
+        },
+        {
+          "scid": "sn43.11:2.5",
+          "pli": "Maggena ekādasamaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn43.11:2.6",
+          "pli": "tassuddānaṃ pavuccati.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“And what is the path that leads…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn43.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 43.11",
+    "volpages": "SN iv 361",
+    "uid": "sn43.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Maggaṅga Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Path",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn43.11_sujato",
+        "segmented": true,
+        "title": "The Path"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn43.11_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Eightfold Path"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 11
+  }
+}

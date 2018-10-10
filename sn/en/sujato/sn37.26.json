@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn37.26",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.26",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Under Her Thumb",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mastered",
+      "uid": "sn37.27"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Assured",
+      "uid": "sn37.25"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.26:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.26:0.2",
+          "pli": "3. Balavagga",
+          "en": "3. Powers"
+        },
+        {
+          "scid": "sn37.26:0.3",
+          "pli": "26. Pasayhasutta",
+          "en": "26. Under Her Thumb"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.26:1.1",
+          "pli": "“Pañcimāni, bhikkhave, mātugāmassa balāni.",
+          "en": "“Mendicants, there are these five powers of a female."
+        },
+        {
+          "scid": "sn37.26:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn37.26:1.3",
+          "pli": "Rūpabalaṃ, bhogabalaṃ, ñātibalaṃ, puttabalaṃ, sīlabalaṃ—",
+          "en": "Attractiveness, wealth, relatives, children, and ethical behavior."
+        },
+        {
+          "scid": "sn37.26:1.4",
+          "pli": "imāni kho, bhikkhave, pañca mātugāmassa balāni.",
+          "en": "These are the five powers of a female."
+        },
+        {
+          "scid": "sn37.26:1.5",
+          "pli": "Imehi kho, bhikkhave, pañcahi balehi samannāgato mātugāmo sāmikaṃ pasayha agāraṃ ajjhāvasatī”ti.",
+          "en": "A female living at home with these five powers has her husband under her thumb.”"
+        },
+        {
+          "scid": "sn37.26:1.6",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.26/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.26",
+    "volpages": "SN iv 246",
+    "uid": "sn37.26",
+    "blurb": "A woman with five powers lives at home having won over her husband.",
+    "difficulty": null,
+    "original_title": "Pasayha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Under Her Thumb",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.26_sujato",
+        "segmented": true,
+        "title": "Under Her Thumb"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

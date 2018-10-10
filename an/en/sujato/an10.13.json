@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "an10.13",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an10.13",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Fetters",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Emotional Barrenness",
+      "uid": "an10.14"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Factors",
+      "uid": "an10.12"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.13:0.1",
+          "pli": "Aṅguttara Nikāya 10",
+          "en": "Numbered Discourses 10"
+        },
+        {
+          "scid": "an10.13:0.2",
+          "pli": "2. Nāthavagga",
+          "en": "2. A Protector"
+        },
+        {
+          "scid": "an10.13:0.3",
+          "pli": "13. Saṃyojanasutta",
+          "en": "13. Fetters"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.13:1.1",
+          "pli": "“Dasayimāni, bhikkhave, saṃyojanāni.",
+          "en": "“Mendicants, there are ten fetters."
+        },
+        {
+          "scid": "an10.13:1.2",
+          "pli": "Katamāni dasa?",
+          "en": "What ten?"
+        },
+        {
+          "scid": "an10.13:1.3",
+          "pli": "Pañcorambhāgiyāni saṃyojanāni, pañcuddhambhāgiyāni saṃyojanāni.",
+          "en": "The five lower fetters and the five higher fetters."
+        },
+        {
+          "scid": "an10.13:1.4",
+          "pli": "Katamāni pañcorambhāgiyāni saṃyojanāni?",
+          "en": "What are the five lower fetters?"
+        },
+        {
+          "scid": "an10.13:1.5",
+          "pli": "Sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo—",
+          "en": "Identity view, doubt, misapprehension of precepts and observances, sensual desire, and ill will."
+        },
+        {
+          "scid": "an10.13:1.6",
+          "pli": "imāni pañcorambhāgiyāni saṃyojanāni.",
+          "en": "These are the five lower fetters."
+        },
+        {
+          "scid": "an10.13:2.1",
+          "pli": "Katamāni pañcuddhambhāgiyāni saṃyojanāni?",
+          "en": "What are the five higher fetters?"
+        },
+        {
+          "scid": "an10.13:2.2",
+          "pli": "Rūparāgo, arūparāgo, māno, uddhaccaṃ, avijjā—",
+          "en": "Desire for rebirth in the realm of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance."
+        },
+        {
+          "scid": "an10.13:2.3",
+          "pli": "imāni pañcuddhambhāgiyāni saṃyojanāni.",
+          "en": "These are the five higher fetters."
+        },
+        {
+          "scid": "an10.13:2.4",
+          "pli": "Imāni kho, bhikkhave, dasa saṃyojanānī”ti.",
+          "en": "These are the ten fetters.”"
+        },
+        {
+          "scid": "an10.13:2.5",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.13/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 10.13",
+    "volpages": "AN v 17",
+    "uid": "an10.13",
+    "blurb": "Five lower and five higher fetters.",
+    "difficulty": null,
+    "original_title": "Saṃyojana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Fetters",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an10.13_sujato",
+        "segmented": true,
+        "title": "Fetters"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an10.13_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Fetters"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

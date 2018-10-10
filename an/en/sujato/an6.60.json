@@ -1,0 +1,575 @@
+{
+  "sutta_uid": "an6.60",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an6.60",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Hatthisāriputta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "In the Middle",
+      "uid": "an6.61"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Dārukammika",
+      "uid": "an6.59"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an6.60:0.1",
+          "pli": "Aṅguttara Nikāya 6",
+          "en": "Numbered Discourses 6"
+        },
+        {
+          "scid": "an6.60:0.2",
+          "pli": "6. Mahāvagga",
+          "en": "6. The Great Chapter"
+        },
+        {
+          "scid": "an6.60:0.3",
+          "pli": "60. Hatthisāriputtasutta",
+          "en": "60. With Hatthisāriputta"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an6.60:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "an6.60:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye.",
+          "en": "At one time the Buddha was staying near Benares, in the deer park at Isipatana."
+        },
+        {
+          "scid": "an6.60:1.3",
+          "pli": "Tena kho pana samayena sambahulā therā bhikkhū pacchābhattaṃ piṇḍapātapaṭikkantā maṇḍalamāḷe sannisinnā sannipatitā abhidhammakathaṃ kathenti.",
+          "en": "Now at that time several senior mendicants, after the meal, on their return from alms-round, sat together in the pavilion talking about the teachings."
+        },
+        {
+          "scid": "an6.60:1.4",
+          "pli": "Tatra sudaṃ āyasmā citto hatthisāriputto therānaṃ bhikkhūnaṃ abhidhammakathaṃ kathentānaṃ antarantarā kathaṃ opāteti.",
+          "en": "Venerable Citta Hatthisāriputta interrupted them while they were talking."
+        },
+        {
+          "scid": "an6.60:1.5",
+          "pli": "Atha kho āyasmā mahākoṭṭhiko āyasmantaṃ cittaṃ hatthisāriputtaṃ etadavoca:",
+          "en": "Then Venerable Mahākoṭṭhita said to Venerable Citta Hatthisāriputta:"
+        },
+        {
+          "scid": "an6.60:1.6",
+          "pli": "“māyasmā citto hatthisāriputto therānaṃ bhikkhūnaṃ abhidhammakathaṃ kathentānaṃ antarantarā kathaṃ opātesi, yāva kathāpariyosānaṃ āyasmā citto āgametū”ti.",
+          "en": "“Venerable, please don’t interrupt the senior mendicants while they’re talking about the teachings. Wait until the end of the discussion.”"
+        },
+        {
+          "scid": "an6.60:1.7",
+          "pli": "Evaṃ vutte, āyasmato cittassa hatthisāriputtassa sahāyakā bhikkhū āyasmantaṃ mahākoṭṭhikaṃ etadavocuṃ:",
+          "en": "When he said this, Citta Hatthisāriputta’s companions said to Mahākoṭṭhita:"
+        },
+        {
+          "scid": "an6.60:1.8",
+          "pli": "“māyasmā mahākoṭṭhiko āyasmantaṃ cittaṃ hatthisāriputtaṃ apasādesi, paṇḍito āyasmā citto hatthisāriputto.",
+          "en": "“Venerable, please don’t rebuke Citta Hatthisāriputta. He is astute,"
+        },
+        {
+          "scid": "an6.60:1.9",
+          "pli": "Pahoti cāyasmā citto hatthisāriputto therānaṃ bhikkhūnaṃ abhidhammakathaṃ kathetun”ti.",
+          "en": "and quite capable of talking about the teachings with the senior mendicants.”"
+        },
+        {
+          "scid": "an6.60:2.1",
+          "pli": "“Dujjānaṃ kho etaṃ, āvuso, parassa cetopariyāyaṃ ajānantehi.",
+          "en": "“It’s not easy to know this, reverends, for those who don’t comprehend another’s mind."
+        },
+        {
+          "scid": "an6.60:2.2",
+          "pli": "Idhāvuso, ekacco puggalo tāvadeva soratasorato hoti, nivātanivāto hoti, upasantupasanto hoti, yāva satthāraṃ upanissāya viharati aññataraṃ vā garuṭṭhāniyaṃ sabrahmacāriṃ.",
+          "en": "Take a person who is the sweetest of the sweet, the most unruffled of the unruffled, the calmest of the calm, so long as they live relying on the Teacher or a spiritual companion in a teacher’s role."
+        },
+        {
+          "scid": "an6.60:2.3",
+          "pli": "Yato ca kho so vapakassateva satthārā, vapakassati garuṭṭhāniyehi sabrahmacārīhi, so saṃsaṭṭho viharati bhikkhūhi bhikkhunīhi upāsakehi upāsikāhi raññā rājamahāmattehi titthiyehi titthiyasāvakehi.",
+          "en": "But when they’re separated from the Teacher or a spiritual companion in a teacher’s role, they mix closely with monks, nuns, laymen, and laywomen; with rulers and their ministers, and with teachers of other paths and their followers."
+        },
+        {
+          "scid": "an6.60:2.4",
+          "pli": "Tassa saṃsaṭṭhassa vissatthassa pākatassa bhassamanuyuttassa viharato rāgo cittaṃ anuddhaṃseti.",
+          "en": "As they mix closely, they become intimate and loose, spending time chatting, and so lust infects their mind."
+        },
+        {
+          "scid": "an6.60:2.5",
+          "pli": "So rāgānuddhaṃsitena cittena sikkhaṃ paccakkhāya hīnāyāvattati.",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:3.1",
+          "pli": "Seyyathāpi, āvuso, goṇo kiṭṭhādo dāmena vā baddho vaje vā oruddho.",
+          "en": "Suppose an ox fond of crops was tied up or shut in a pen."
+        },
+        {
+          "scid": "an6.60:3.2",
+          "pli": "Yo nu kho, āvuso, evaṃ vadeyya: ‘na dānāyaṃ goṇo kiṭṭhādo punadeva kiṭṭhaṃ otarissatī’ti, sammā nu kho so, āvuso, vadamāno vadeyyā”ti?",
+          "en": "Would it be right to say that that ox will never again invade the crops?”"
+        },
+        {
+          "scid": "an6.60:3.3",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“No it would not, reverend."
+        },
+        {
+          "scid": "an6.60:3.4",
+          "pli": "“Ṭhānañhetaṃ, āvuso, vijjati, yaṃ so goṇo kiṭṭhādo dāmaṃ vā chetvā vajaṃ vā bhinditvā, atha punadeva kiṭṭhaṃ otareyyāti.",
+          "en": "For it’s quite possible that that ox will snap the ropes or break out of the pen, and then invade the crops.”"
+        },
+        {
+          "scid": "an6.60:3.5",
+          "pli": "Evamevaṃ kho, āvuso, idhekacco puggalo tāvadeva soratasorato hoti, nivātanivāto hoti, upasantupasanto hoti yāva satthāraṃ upanissāya viharati aññataraṃ vā garuṭṭhāniyaṃ sabrahmacāriṃ.",
+          "en": "“In the same way, take a person who is the sweetest of the sweet …"
+        },
+        {
+          "scid": "an6.60:3.6",
+          "pli": "Yato ca kho so vapakassateva satthārā, vapakassati garuṭṭhāniyehi sabrahmacārīhi, so saṃsaṭṭho viharati bhikkhūhi bhikkhunīhi upāsakehi upāsikāhi raññā rājamahāmattehi titthiyehi titthiyasāvakehi.",
+          "en": ""
+        },
+        {
+          "scid": "an6.60:3.7",
+          "pli": "Tassa saṃsaṭṭhassa vissatthassa pākatassa bhassamanuyuttassa viharato rāgo cittaṃ anuddhaṃseti.",
+          "en": "As they mix closely, they become intimate and loose, spending time chatting, and so lust infects their mind."
+        },
+        {
+          "scid": "an6.60:3.8",
+          "pli": "So rāgānuddhaṃsitena cittena sikkhaṃ paccakkhāya hīnāyāvattati. (1)",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:4.1",
+          "pli": "Idha panāvuso, ekacco puggalo vivicceva kāmehi … pe … paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "Take the case of a person who, quite secluded from sensual pleasures … enters and remains in the first absorption."
+        },
+        {
+          "scid": "an6.60:4.2",
+          "pli": "So ‘lābhimhi paṭhamassa jhānassā’ti saṃsaṭṭho viharati bhikkhūhi … pe …",
+          "en": "Thinking, ‘I get the first absorption!’ they mix closely with monks …"
+        },
+        {
+          "scid": "an6.60:4.3",
+          "pli": "sikkhaṃ paccakkhāya hīnāyāvattati.",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:4.4",
+          "pli": "Seyyathāpi, āvuso, cātumahāpathe thullaphusitako devo vassanto rajaṃ antaradhāpeyya, cikkhallaṃ pātukareyya.",
+          "en": "Suppose it was raining heavily at the crossroads so that the dust vanished and mud appeared."
+        },
+        {
+          "scid": "an6.60:4.5",
+          "pli": "Yo nu kho, āvuso, evaṃ vadeyya: ‘na dāni amusmiṃ cātumahāpathe punadeva rajo pātubhavissatī’ti, sammā nu kho so, āvuso, vadamāno vadeyyā”ti?",
+          "en": "Would it be right to say that now dust will never appear at this crossroad again?”"
+        },
+        {
+          "scid": "an6.60:4.6",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“No it would not, reverend."
+        },
+        {
+          "scid": "an6.60:4.7",
+          "pli": "“Ṭhānañhetaṃ, āvuso, vijjati, yaṃ amusmiṃ cātumahāpathe manussā vā atikkameyyuṃ, gopasū vā atikkameyyuṃ, vātātapo vā snehagataṃ pariyādiyeyya, atha punadeva rajo pātubhaveyyāti.",
+          "en": "For it is quite possible that people or cattle and so on will cross over the crossroad, or that the wind and sun will evaporate the moisture so that the dust appears again.”"
+        },
+        {
+          "scid": "an6.60:4.8",
+          "pli": "Evamevaṃ kho, āvuso, idhekacco puggalo vivicceva kāmehi … pe … paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "“In the same way, take the case of a person who, quite secluded from sensual pleasures … enters and remains in the first absorption."
+        },
+        {
+          "scid": "an6.60:4.9",
+          "pli": "So ‘lābhimhi paṭhamassa jhānassā’ti saṃsaṭṭho viharati bhikkhūhi … pe …",
+          "en": "Thinking, ‘I get the first absorption!’ they mix closely with monks …"
+        },
+        {
+          "scid": "an6.60:4.10",
+          "pli": "sikkhaṃ paccakkhāya hīnāyāvattati. (2)",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:5.1",
+          "pli": "Idha panāvuso, ekacco puggalo vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "Take another case of a mendicant who, as the placing of the mind and keeping it connected are stilled … enters and remains in the second absorption."
+        },
+        {
+          "scid": "an6.60:5.2",
+          "pli": "So ‘lābhimhi dutiyassa jhānassā’ti saṃsaṭṭho viharati bhikkhūhi … pe …",
+          "en": "Thinking, ‘I get the second absorption!’ they mix closely with monks …"
+        },
+        {
+          "scid": "an6.60:5.3",
+          "pli": "sikkhaṃ paccakkhāya hīnāyāvattati.",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:5.4",
+          "pli": "Seyyathāpi, āvuso, gāmassa vā nigamassa vā avidūre mahantaṃ taḷākaṃ.",
+          "en": "Suppose there was a large pond not far from a town or village."
+        },
+        {
+          "scid": "an6.60:5.5",
+          "pli": "Tattha thullaphusitako devo vuṭṭho sippisambukampi sakkharakaṭhalampi antaradhāpeyya.",
+          "en": "After it rained heavily there the clams and mussels, and pebbles and gravel would vanish."
+        },
+        {
+          "scid": "an6.60:5.6",
+          "pli": "Yo nu kho, āvuso, evaṃ vadeyya: ‘na dāni amusmiṃ taḷāke punadeva sippisambukā vā sakkharakaṭhalā vā pātubhavissantī’ti, sammā nu kho so, āvuso, vadamāno vadeyyā”ti?",
+          "en": "Would it be right to say that now the clams and mussels, and pebbles and gravel will never appear here again?”"
+        },
+        {
+          "scid": "an6.60:5.7",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“No it would not, reverend."
+        },
+        {
+          "scid": "an6.60:5.8",
+          "pli": "“Ṭhānañhetaṃ, āvuso, vijjati, yaṃ amusmiṃ taḷāke manussā vā piveyyuṃ, gopasū vā piveyyuṃ, vātātapo vā snehagataṃ pariyādiyeyya, atha punadeva sippisambukāpi sakkharakaṭhalāpi pātubhaveyyunti.",
+          "en": "For it’s quite possible that people or cattle and so on will drink from the pond, or that the wind and sun will evaporate it so that the clams and mussels, and pebbles and gravel appear again.”"
+        },
+        {
+          "scid": "an6.60:5.9",
+          "pli": "Evamevaṃ kho, āvuso, idhekacco puggalo vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "“In the same way, take another case of a mendicant who, as the placing of the mind and keeping it connected are stilled … enters and remains in the second absorption."
+        },
+        {
+          "scid": "an6.60:5.10",
+          "pli": "So ‘lābhimhi dutiyassa jhānassā’ti saṃsaṭṭho viharati bhikkhūhi … pe …",
+          "en": "Thinking, ‘I get the second absorption!’ they mix closely with monks …"
+        },
+        {
+          "scid": "an6.60:5.11",
+          "pli": "sikkhaṃ paccakkhāya hīnāyāvattati. (3)",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:6.1",
+          "pli": "Idha panāvuso, ekacco puggalo pītiyā ca virāgā … pe … tatiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "Take the case of another person who, with the fading away of rapture … enters and remains in the third absorption."
+        },
+        {
+          "scid": "an6.60:6.2",
+          "pli": "So ‘lābhimhi tatiyassa jhānassā’ti saṃsaṭṭho viharati bhikkhūhi … pe …",
+          "en": "Thinking, ‘I get the third absorption!’ they mix closely with monks …"
+        },
+        {
+          "scid": "an6.60:6.3",
+          "pli": "sikkhaṃ paccakkhāya hīnāyāvattati.",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:6.4",
+          "pli": "Seyyathāpi, āvuso, purisaṃ paṇītabhojanaṃ bhuttāviṃ ābhidosikaṃ bhojanaṃ nacchādeyya.",
+          "en": "Suppose a person had finished a delicious meal. They’d have no appetite for leftovers."
+        },
+        {
+          "scid": "an6.60:6.5",
+          "pli": "Yo nu kho, āvuso, evaṃ vadeyya: ‘na dāni amuṃ purisaṃ punadeva bhojanaṃ chādessatī’ti, sammā nu kho so, āvuso, vadamāno vadeyyā”ti?",
+          "en": "Would it be right to say that now food will never appeal to this person again?”"
+        },
+        {
+          "scid": "an6.60:6.6",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“No it would not, reverend."
+        },
+        {
+          "scid": "an6.60:6.7",
+          "pli": "“Ṭhānañhetaṃ, āvuso, vijjati, amuṃ purisaṃ paṇītabhojanaṃ bhuttāviṃ yāvassa sā ojā kāye ṭhassati tāva na aññaṃ bhojanaṃ chādessati.",
+          "en": "For it’s quite possible that other food won’t appeal to that person as long as the nourishment is still present."
+        },
+        {
+          "scid": "an6.60:6.8",
+          "pli": "Yato ca khvassa sā ojā antaradhāyissati, atha punadeva taṃ bhojanaṃ chādeyyāti.",
+          "en": "But when the nourishment vanishes food will appeal again.”"
+        },
+        {
+          "scid": "an6.60:6.9",
+          "pli": "Evamevaṃ kho, āvuso, idhekacco puggalo pītiyā ca virāgā … pe … tatiyaṃ jhānaṃ upasampajja viharati.",
+          "en": "“In the same way, take the case of a person who, with the fading away of rapture … enters and remains in the third absorption."
+        },
+        {
+          "scid": "an6.60:6.10",
+          "pli": "So ‘lābhimhi tatiyassa jhānassā’ti saṃsaṭṭho viharati bhikkhūhi … pe …",
+          "en": "Thinking, ‘I get the third absorption!’ they mix closely with monks …"
+        },
+        {
+          "scid": "an6.60:6.11",
+          "pli": "sikkhaṃ paccakkhāya hīnāyāvattati. (4)",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:7.1",
+          "pli": "Idha, panāvuso, ekacco puggalo sukhassa ca pahānā dukkhassa ca pahānā … pe … catutthaṃ jhānaṃ upasampajja viharati.",
+          "en": "Take the case of another person who, giving up pleasure and pain … enters and remains in the fourth absorption."
+        },
+        {
+          "scid": "an6.60:7.2",
+          "pli": "So ‘lābhimhi catutthassa jhānassā’ti saṃsaṭṭho viharati bhikkhūhi … pe …",
+          "en": "Thinking, ‘I get the fourth absorption!’ they mix closely with monks …"
+        },
+        {
+          "scid": "an6.60:7.3",
+          "pli": "sikkhaṃ paccakkhāya hīnāyāvattati.",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:7.4",
+          "pli": "Seyyathāpi, āvuso, pabbatasaṅkhepe udakarahado nivāto vigataūmiko.",
+          "en": "Suppose that in a mountain glen there was a lake, unruffled and free of waves."
+        },
+        {
+          "scid": "an6.60:7.5",
+          "pli": "Yo nu kho, āvuso, evaṃ vadeyya: ‘na dāni amusmiṃ udakarahade punadeva ūmi pātubhavissatī’ti, sammā nu kho so, āvuso, vadamāno vadeyyā”ti?",
+          "en": "Would it be right to say that now waves will never appear in this lake again?”"
+        },
+        {
+          "scid": "an6.60:7.6",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“No it would not, reverend."
+        },
+        {
+          "scid": "an6.60:7.7",
+          "pli": "“Ṭhānañhetaṃ, āvuso, vijjati, yā puratthimāya disāya āgaccheyya bhusā vātavuṭṭhi. Sā tasmiṃ udakarahade ūmiṃ janeyya. Yā pacchimāya disāya āgaccheyya … pe … yā uttarāya disāya āgaccheyya … yā dakkhiṇāya disāya āgaccheyya bhusā vātavuṭṭhi. Sā tasmiṃ udakarahade ūmiṃ janeyyāti.",
+          "en": "For it is quite possible that a violent storm could blow up out of the east, west, north, or south, and stir up waves in that lake.”"
+        },
+        {
+          "scid": "an6.60:7.8",
+          "pli": "Evamevaṃ kho, āvuso, idhekacco puggalo sukhassa ca pahānā dukkhassa ca pahānā … pe … catutthaṃ jhānaṃ upasampajja viharati.",
+          "en": "“In the same way, take the case of a person who, giving up pleasure and pain … enters and remains in the fourth absorption."
+        },
+        {
+          "scid": "an6.60:7.9",
+          "pli": "So ‘lābhimhi catutthassa jhānassā’ti saṃsaṭṭho viharati bhikkhūhi … pe …",
+          "en": "Thinking, ‘I get the fourth absorption!’ they mix closely with monks …"
+        },
+        {
+          "scid": "an6.60:7.10",
+          "pli": "sikkhaṃ paccakkhāya hīnāyāvattati. (5)",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:8.1",
+          "pli": "Idha, panāvuso, ekacco puggalo sabbanimittānaṃ amanasikārā animittaṃ cetosamādhiṃ upasampajja viharati.",
+          "en": "Take the case of another person who, not focusing on any signs, enters and remains in the signless immersion of the heart."
+        },
+        {
+          "scid": "an6.60:8.2",
+          "pli": "So ‘lābhimhi animittassa cetosamādhissā’ti saṃsaṭṭho viharati bhikkhūhi bhikkhunīhi upāsakehi upāsikāhi raññā rājamahāmattehi titthiyehi titthiyasāvakehi.",
+          "en": "Thinking, ‘I get the signless immersion of the heart!’ they mix closely with monks, nuns, laymen, and laywomen; with rulers and their ministers, and with teachers of other paths and their followers."
+        },
+        {
+          "scid": "an6.60:8.3",
+          "pli": "Tassa saṃsaṭṭhassa vissatthassa pākatassa bhassamanuyuttassa viharato rāgo cittaṃ anuddhaṃseti.",
+          "en": "As they mix closely, they become intimate and loose, spending time chatting, and so lust infects their mind."
+        },
+        {
+          "scid": "an6.60:8.4",
+          "pli": "So rāgānuddhaṃsitena cittena sikkhaṃ paccakkhāya hīnāyāvattati.",
+          "en": "They reject the training and return to a lesser life."
+        },
+        {
+          "scid": "an6.60:8.5",
+          "pli": "Seyyathāpi, āvuso, rājā vā rājamahāmatto vā caturaṅginiyā senāya addhānamaggappaṭipanno aññatarasmiṃ vanasaṇḍe ekarattiṃ vāsaṃ upagaccheyya.",
+          "en": "Suppose a ruler or their minister, while walking along the road with an army of four divisions, was to arrive at a forest grove where they set up camp for the night."
+        },
+        {
+          "scid": "an6.60:8.6",
+          "pli": "Tatra hatthisaddena assasaddena rathasaddena pattisaddena bheripaṇavasaṅkhatiṇavaninnādasaddena cīrikasaddo antaradhāyeyya.",
+          "en": "There, because of the noise of the elephants, horses, chariots, soldiers, and the drums, kettledrums, horns, and cymbals, the chirping of crickets would vanish."
+        },
+        {
+          "scid": "an6.60:8.7",
+          "pli": "Yo nu kho, āvuso, evaṃ vadeyya: ‘na dāni amusmiṃ vanasaṇḍe punadeva cīrikasaddo pātubhavissatī’ti, sammā nu kho so, āvuso, vadamāno vadeyyā”ti?",
+          "en": "Would it be right to say that now the chirping of crickets will never be heard in this woodland grove again?”"
+        },
+        {
+          "scid": "an6.60:8.8",
+          "pli": "“No hidaṃ, āvuso”.",
+          "en": "“No it would not, reverend."
+        },
+        {
+          "scid": "an6.60:8.9",
+          "pli": "“Ṭhānañhetaṃ, āvuso, vijjati, yaṃ so rājā vā rājamahāmatto vā tamhā vanasaṇḍā pakkameyya, atha punadeva cīrikasaddo pātubhaveyyāti.",
+          "en": "For it is quite possible that the ruler or their minister will depart from that woodland grove so that the chirping of crickets will be heard there again.”"
+        },
+        {
+          "scid": "an6.60:8.10",
+          "pli": "Evamevaṃ kho, āvuso, idhekacco puggalo sabbanimittānaṃ amanasikārā animittaṃ cetosamādhiṃ upasampajja viharati.",
+          "en": "“In the same way, take the case of a person who, not focusing on any signs, enters and remains in the signless immersion of the heart …"
+        },
+        {
+          "scid": "an6.60:8.11",
+          "pli": "So ‘lābhimhi animittassa cetosamādhissā’ti saṃsaṭṭho viharati bhikkhūhi bhikkhunīhi upāsakehi upāsikāhi raññā rājamahāmattehi titthiyehi titthiyasāvakehi.",
+          "en": ""
+        },
+        {
+          "scid": "an6.60:8.12",
+          "pli": "Tassa saṃsaṭṭhassa vissatthassa pākatassa bhassamanuyuttassa viharato rāgo cittaṃ anuddhaṃseti.",
+          "en": ""
+        },
+        {
+          "scid": "an6.60:8.13",
+          "pli": "So rāgānuddhaṃsitena cittena sikkhaṃ paccakkhāya hīnāyāvattatī”ti. (6)",
+          "en": "They reject the training and return to a lesser life.”"
+        },
+        {
+          "scid": "an6.60:9.1",
+          "pli": "Atha kho āyasmā citto hatthisāriputto aparena samayena sikkhaṃ paccakkhāya hīnāyāvattati.",
+          "en": "Then after some time Venerable Citta Hatthisāriputta rejected the training and returned to a lesser life."
+        },
+        {
+          "scid": "an6.60:9.2",
+          "pli": "Atha kho cittassa hatthisāriputtassa sahāyakā bhikkhū yenāyasmā mahākoṭṭhiko tenupasaṅkamiṃsu; upasaṅkamitvā āyasmantaṃ mahākoṭṭhikaṃ etadavocuṃ:",
+          "en": "Then the mendicants who were his companions went up to Venerable Mahākoṭṭhita and said:"
+        },
+        {
+          "scid": "an6.60:9.3",
+          "pli": "“kiṃ nu kho āyasmatā mahākoṭṭhikena citto hatthisāriputto cetasā ceto paricca vidito:",
+          "en": "“Did Venerable Mahākoṭṭhita comprehend Citta Hatthisāriputta’s mind and know that"
+        },
+        {
+          "scid": "an6.60:9.4",
+          "pli": "‘imāsañca imāsañca vihārasamāpattīnaṃ citto hatthisāriputto lābhī, atha ca pana sikkhaṃ paccakkhāya hīnāyāvattissatī’ti;",
+          "en": "he had gained such and such meditative attainments, yet he would still reject the training and return to a lesser life?"
+        },
+        {
+          "scid": "an6.60:9.5",
+          "pli": "udāhu devatā etamatthaṃ ārocesuṃ:",
+          "en": "Or did deities tell you about it?”"
+        },
+        {
+          "scid": "an6.60:9.6",
+          "pli": "‘citto, bhante, hatthisāriputto imāsañca imāsañca vihārasamāpattīnaṃ lābhī, atha ca pana sikkhaṃ paccakkhāya hīnāyāvattissatī’”ti?",
+          "en": ""
+        },
+        {
+          "scid": "an6.60:9.7",
+          "pli": "“Cetasā ceto paricca vidito me, āvuso:",
+          "en": "“Reverends, I comprehended his mind and knew this."
+        },
+        {
+          "scid": "an6.60:9.8",
+          "pli": "‘citto hatthisāriputto imāsañca imāsañca vihārasamāpattīnaṃ lābhī, atha ca pana sikkhaṃ paccakkhāya hīnāyāvattissatī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "an6.60:9.9",
+          "pli": "Devatāpi me etamatthaṃ ārocesuṃ:",
+          "en": "And deities also told me.”"
+        },
+        {
+          "scid": "an6.60:9.10",
+          "pli": "‘citto, bhante, hatthisāriputto imāsañca imāsañca vihārasamāpattīnaṃ lābhī, atha ca pana sikkhaṃ paccakkhāya hīnāyāvattissatī’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "an6.60:10.1",
+          "pli": "Atha kho cittassa hatthisāriputtassa sahāyakā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
+          "en": "Then the mendicants who were Citta Hatthisāriputta’s companions went up to the Buddha, bowed, sat down to one side, and said to him:"
+        },
+        {
+          "scid": "an6.60:10.2",
+          "pli": "“citto, bhante, hatthisāriputto imāsañca imāsañca vihārasamāpattīnaṃ lābhī, atha ca pana sikkhaṃ paccakkhāya hīnāyāvattatī”ti.",
+          "en": "“Sir, Citta Hatthisāriputta, who had gained such and such meditative attainments, has still rejected the training and returned to a lesser life.”"
+        },
+        {
+          "scid": "an6.60:10.3",
+          "pli": "“Na, bhikkhave, citto ciraṃ sarissati nekkhammassā”ti.",
+          "en": "“Mendicants, soon Citta will remember renunciation.”"
+        },
+        {
+          "scid": "an6.60:11.1",
+          "pli": "Atha kho citto hatthisāriputto nacirasseva kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbaji.",
+          "en": "And not long after Citta Hatthisāriputta shaved off his hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness."
+        },
+        {
+          "scid": "an6.60:11.2",
+          "pli": "Atha kho āyasmā citto hatthisāriputto eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi.",
+          "en": "Then Citta Hatthisāriputta, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme culmination of the spiritual path in this very life. He lived having achieved with his own insight the goal for which people from good families rightly go forth from the lay life to homelessness. "
+        },
+        {
+          "scid": "an6.60:11.3",
+          "pli": "“Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti abbhaññāsi.",
+          "en": "He understood: “Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.”"
+        },
+        {
+          "scid": "an6.60:11.4",
+          "pli": "Aññataro ca panāyasmā citto hatthisāriputto arahataṃ ahosīti.",
+          "en": "And Venerable Citta Hatthisāriputta became one of the perfected."
+        },
+        {
+          "scid": "an6.60:11.5",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an6.60/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 6.60",
+    "volpages": "AN iii 392",
+    "uid": "an6.60",
+    "blurb": "The junior monk Citta Hatthisāriputta rudely interrupts his seniors, and is admonished by Mahākoṭṭhita. His friends speak in his defense, but Mahākoṭṭhita warns them with a long explanation of how hard it is to know another’s mind. Ultimately, Citta disrobes.",
+    "difficulty": null,
+    "original_title": "Hatthisāriputta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Hatthisāriputta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an6.60_sujato",
+        "segmented": true,
+        "title": "With Hatthisāriputta"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 6
+  }
+}

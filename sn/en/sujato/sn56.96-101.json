@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn56.96-101",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.96-101",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Mutilation, etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dying as Humans and Reborn in Hell",
+      "uid": "sn56.102"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bribery",
+      "uid": "sn56.95"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.96-101:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.96-101:0.2",
+          "pli": "10. Catutthaāmakadhaññapeyyālavagga",
+          "en": "10. Abbreviated Texts on Raw Grain"
+        },
+        {
+          "scid": "sn56.96-101:0.3",
+          "pli": "96–​101. Chedanādisutta",
+          "en": "96–101. Mutilation, etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.96-101:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye chedanavadhabandhanaviparāmosaālopasahasākārā paṭiviratā; atha kho eteva bahutarā sattā ye chedanavadhabandhanaviparāmosaālopasahasākārā appaṭiviratā.",
+          "en": "“… the sentient beings who refrain from mutilation, murder, abduction, banditry, plunder, and violence are few, while those who don’t refrain are many."
+        },
+        {
+          "scid": "sn56.96-101:1.2",
+          "pli": "Taṃ kissa hetu?",
+          "en": "Why is that?"
+        },
+        {
+          "scid": "sn56.96-101:1.3",
+          "pli": "Adiṭṭhattā bhikkhave, catunnaṃ ariyasaccānaṃ.",
+          "en": "It’s because they haven’t seen the four noble truths."
+        },
+        {
+          "scid": "sn56.96-101:1.4",
+          "pli": "Katamesaṃ catunnaṃ?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn56.96-101:1.5",
+          "pli": "Dukkhassa ariyasaccassa … pe … dukkhanirodhagāminiyā paṭipadāya ariyasaccassa.",
+          "en": "The noble truths of suffering, its origin, its cessation, and the path."
+        },
+        {
+          "scid": "sn56.96-101:2.1",
+          "pli": "Tasmātiha, bhikkhave, ‘idaṃ dukkhan’ti yogo karaṇīyo … pe … ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.96-101:2.2",
+          "pli": "Ekādasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn56.96-101:2.3",
+          "pli": "Catutthaāmakadhaññapeyyālavaggo dasamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn56.96-101:3.1",
+          "pli": "Khettaṃ kāyaṃ dūteyyañca,",
+          "en": ""
+        },
+        {
+          "scid": "sn56.96-101:3.2",
+          "pli": "tulākūṭaṃ ukkoṭanaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "sn56.96-101:3.3",
+          "pli": "Chedanaṃ vadhabandhanaṃ,",
+          "en": ""
+        },
+        {
+          "scid": "sn56.96-101:3.4",
+          "pli": "viparālopaṃ sāhasanti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who refrain from…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.96-101/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn56.96-101",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Chedanādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mutilation, etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.96-101_sujato",
+        "segmented": true,
+        "title": "Mutilation, etc."
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 6
+  }
+}

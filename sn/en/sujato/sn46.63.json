@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn46.63",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.63",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Compassion",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rejoicing",
+      "uid": "sn46.64"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Love",
+      "uid": "sn46.62"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.63:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.63:0.2",
+          "pli": "7. Ānāpānavagga",
+          "en": "7. Breathing"
+        },
+        {
+          "scid": "sn46.63:0.3",
+          "pli": "63. Karuṇāsutta",
+          "en": "63. Compassion"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.63:1.1",
+          "pli": "“Karuṇā, bhikkhave, bhāvitā … pe …",
+          "en": "“Mendicants, when compassion is developed and cultivated it’s very fruitful and beneficial. …”"
+        },
+        {
+          "scid": "sn46.63:1.2",
+          "pli": "sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.63/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.63",
+    "volpages": "SN v 131",
+    "uid": "sn46.63",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Karuṇā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Compassion",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.63_sujato",
+        "segmented": true,
+        "title": "Compassion"
+      },
+      {
+        "author": "Frank Lee Woodward",
+        "author_short": "Woodward",
+        "author_uid": "woodward",
+        "id": "en_sn46.63_woodward",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Compassion"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

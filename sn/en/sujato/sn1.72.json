@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.72",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.72",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Chariot",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wealth",
+      "uid": "sn1.73"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Incinerated",
+      "uid": "sn1.71"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.72:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.72:0.2",
+          "pli": "8. Chetvāvagga",
+          "en": "8. Incinerated"
+        },
+        {
+          "scid": "sn1.72:0.3",
+          "pli": "72. Rathasutta",
+          "en": "72. A Chariot"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.72:1.1",
+          "pli": "“Kiṃsu rathassa paññāṇaṃ,",
+          "en": "“What’s the mark of a chariot?"
+        },
+        {
+          "scid": "sn1.72:1.2",
+          "pli": "kiṃsu paññāṇamaggino;",
+          "en": "What’s the mark of fire?"
+        },
+        {
+          "scid": "sn1.72:1.3",
+          "pli": "Kiṃsu raṭṭhassa paññāṇaṃ,",
+          "en": "What’s the mark of a nation?"
+        },
+        {
+          "scid": "sn1.72:1.4",
+          "pli": "kiṃsu paññāṇamitthiyā”ti.",
+          "en": "What’s the mark of a woman?”"
+        },
+        {
+          "scid": "sn1.72:2.1",
+          "pli": "“Dhajo rathassa paññāṇaṃ,",
+          "en": "“A banner is the mark of a chariot."
+        },
+        {
+          "scid": "sn1.72:2.2",
+          "pli": "dhūmo paññāṇamaggino;",
+          "en": "Smoke is the mark of fire."
+        },
+        {
+          "scid": "sn1.72:2.3",
+          "pli": "Rājā raṭṭhassa paññāṇaṃ,",
+          "en": "A ruler is a nation’s mark."
+        },
+        {
+          "scid": "sn1.72:2.4",
+          "pli": "bhattā paññāṇamitthiyā”ti.",
+          "en": "A husband’s the mark of a woman.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What’s the mark of a chariot…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.72/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.72//SN 72",
+    "volpages": "SN i 41//SN i 93",
+    "uid": "sn1.72",
+    "blurb": "What is the sign or token of a chariot, a fire, a nation, and a woman?",
+    "difficulty": null,
+    "original_title": "Ratha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Chariot",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.72_sujato",
+        "segmented": true,
+        "title": "A Chariot"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.72_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Chariot"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 2
+  }
+}

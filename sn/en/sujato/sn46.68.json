@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn46.68",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.68",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Death",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Repulsiveness of Food",
+      "uid": "sn46.69"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ugliness",
+      "uid": "sn46.67"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.68:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.68:0.2",
+          "pli": "8. Nirodhavagga",
+          "en": "8. Cessation"
+        },
+        {
+          "scid": "sn46.68:0.3",
+          "pli": "68. Maraṇasutta",
+          "en": "68. Death"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.68:1.1",
+          "pli": "“Maraṇasaññā, bhikkhave … pe …",
+          "en": "“Mendicants, when the perception of death is developed and cultivated it’s very fruitful and beneficial. …”"
+        },
+        {
+          "scid": "sn46.68:1.2",
+          "pli": "dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.68/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.68",
+    "volpages": "SN v 132",
+    "uid": "sn46.68",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Maraṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Death",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.68_sujato",
+        "segmented": true,
+        "title": "Death"
+      },
+      {
+        "author": "Frank Lee Woodward",
+        "author_short": "Woodward",
+        "author_uid": "woodward",
+        "id": "en_sn46.68_woodward",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Death"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an5.29",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.29",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Walking Meditation",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Nāgita",
+      "uid": "an5.30"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Five Factors",
+      "uid": "an5.28"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.29:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.29:0.2",
+          "pli": "3. Pañcaṅgikavagga",
+          "en": "3. With Five Factors"
+        },
+        {
+          "scid": "an5.29:0.3",
+          "pli": "29. Caṅkamasutta",
+          "en": "29. Walking Meditation"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.29:1.1",
+          "pli": "“Pañcime, bhikkhave, caṅkame ānisaṃsā.",
+          "en": "“Mendicants, there are five benefits of walking meditation."
+        },
+        {
+          "scid": "an5.29:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.29:1.3",
+          "pli": "Addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato samādhi ciraṭṭhitiko hoti.",
+          "en": "You get fit for traveling, fit for striving in meditation, and healthy. What’s eaten, drunk, chewed, and tasted is properly digested. And immersion gained while walking lasts long."
+        },
+        {
+          "scid": "an5.29:1.4",
+          "pli": "Ime kho, bhikkhave, pañca caṅkame ānisaṃsā”ti.",
+          "en": "These are the five benefits of walking meditation.”"
+        },
+        {
+          "scid": "an5.29:1.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.29/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.29",
+    "volpages": "AN iii 29",
+    "uid": "an5.29",
+    "blurb": "The benefits of walking meditation.",
+    "difficulty": null,
+    "original_title": "Caṅkama Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Walking Meditation",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.29_sujato",
+        "segmented": true,
+        "title": "Walking Meditation"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an5.29_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Walking Meditation"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 9
+  }
+}

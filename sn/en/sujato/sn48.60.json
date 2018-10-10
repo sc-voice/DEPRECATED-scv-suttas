@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn48.60",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.60",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Arising (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fetters",
+      "uid": "sn48.61"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Arising (1st)",
+      "uid": "sn48.59"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.60:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.60:0.2",
+          "pli": "6. Sūkarakhatavagga",
+          "en": "6. The Boar’s Cave"
+        },
+        {
+          "scid": "sn48.60:0.3",
+          "pli": "60. Dutiyauppādasutta",
+          "en": "60. Arising (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.60:1.1",
+          "pli": "“Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra sugatavinayā.",
+          "en": "“Mendicants, these five faculties don’t arise to be developed and cultivated apart from the Holy One’s training."
+        },
+        {
+          "scid": "sn48.60:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn48.60:1.3",
+          "pli": "Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ—",
+          "en": "The faculties of faith, energy, mindfulness, immersion, and wisdom."
+        },
+        {
+          "scid": "sn48.60:1.4",
+          "pli": "imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra sugatavinayā”ti.",
+          "en": "These five faculties don’t arise to be developed and cultivated apart from the Holy One’s training.”"
+        },
+        {
+          "scid": "sn48.60:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "sn48.60:1.6",
+          "pli": "Sūkarakhatavaggo chaṭṭho.",
+          "en": ""
+        },
+        {
+          "scid": "sn48.60:2.1",
+          "pli": "Sālaṃ mallikaṃ sekho ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn48.60:2.2",
+          "pli": "padaṃ sāraṃ patiṭṭhitaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "sn48.60:2.3",
+          "pli": "Brahmasūkarakhatāyo,",
+          "en": ""
+        },
+        {
+          "scid": "sn48.60:2.4",
+          "pli": "uppādā apare duveti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.60/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 48.60",
+    "volpages": "SN v 235",
+    "uid": "sn48.60",
+    "blurb": "The five faculties only arise in the training of a Holy One.",
+    "difficulty": null,
+    "original_title": "Dutiyauppāda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Arising (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.60_sujato",
+        "segmented": true,
+        "title": "Arising (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

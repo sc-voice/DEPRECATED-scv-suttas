@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn34.53-54",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn34.53-54",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Two on Carefulness and Persistence",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Persistence and What’s Conducive",
+      "uid": "sn34.55"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Three on Projection and Carefulness",
+      "uid": "sn34.50-52"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn34.53-54:0.1",
+          "pli": "Saṃyutta Nikāya 34",
+          "en": "Linked Discourses 34"
+        },
+        {
+          "scid": "sn34.53-54:0.2",
+          "pli": "1. Jhānavagga",
+          "en": "1. Absorption"
+        },
+        {
+          "scid": "sn34.53-54:0.3",
+          "pli": "53–​54. Sakkaccamūlakasātaccakārīsuttadukādi",
+          "en": "53–54. Two on Carefulness and Persistence"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 34…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn34.53-54:1.1",
+          "pli": "Sāvatthinidānaṃ …",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn34.53-54:1.2",
+          "pli": "“samādhismiṃ sakkaccakārī hoti, na samādhismiṃ sātaccakārī …",
+          "en": "“One meditator is skilled in practicing carefully for immersion but not in practicing persistently for it. …”"
+        },
+        {
+          "scid": "sn34.53-54:1.3",
+          "pli": "samādhismiṃ sātaccakārī hoti, na samādhismiṃ sakkaccakārī …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.53-54:1.4",
+          "pli": "neva samādhismiṃ sakkaccakārī hoti, na ca samādhismiṃ sātaccakārī …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.53-54:1.5",
+          "pli": "samādhismiṃ sakkaccakārī ca hoti, samādhismiṃ sātaccakārī ca.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.53-54:1.6",
+          "pli": "Tatra, bhikkhave, yvāyaṃ … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn34.53-54:1.7",
+          "pli": "uttamo ca pavaro cā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn34.53-54:2.1",
+          "pli": "Tepaññāsamaṃ. “Samādhismiṃ sakkaccakārī hoti, na samādhismiṃ sappāyakārī … pe ….",
+          "en": "(These two discourses should be expanded in line with the previous set.)"
+        },
+        {
+          "scid": "sn34.53-54:2.2",
+          "pli": "Catupaññāsamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn34.53-54/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn34.53-54",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sakkaccamūlakasātaccakārīsuttadukādi",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Two on Carefulness and Persistence",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn34.53-54_sujato",
+        "segmented": true,
+        "title": "Two on Carefulness and Persistence"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 26
+  }
+}

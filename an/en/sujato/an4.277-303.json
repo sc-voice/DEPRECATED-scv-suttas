@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "an4.277-303",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.277-303",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Complete Understanding, Etc.",
+    "next": {
+      "author_uid": "bodhi",
+      "lang": "en",
+      "name": "",
+      "uid": "an4.304-783"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bases of Psychic Power",
+      "uid": "an4.276"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.277-303:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.277-303:0.2",
+          "pli": "28. Rāgapeyyāla",
+          "en": "28. Abbreviated Texts Beginning with Greed"
+        },
+        {
+          "scid": "an4.277-303:0.3",
+          "pli": "277–​303. Pariññādisutta",
+          "en": "277–303. Complete Understanding, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.277-303:1.1",
+          "pli": "“Rāgassa, bhikkhave, pariññāya … pe … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya cattāro dhammā bhāvetabbā … pe ….",
+          "en": "“For the complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go of greed, four things should be developed.”"
+        },
+        {
+          "scid": "an4.277-303:1.2",
+          "pli": "Tiṃsatimaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“For the complete understanding … finishing ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.277-303/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "an4.277-303",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Pariññādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Complete Understanding, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.277-303_sujato",
+        "segmented": true,
+        "title": "Complete Understanding, Etc."
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.277-303_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

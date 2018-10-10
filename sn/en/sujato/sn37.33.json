@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn37.33",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.33",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Living With Self-Assurance",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Growth",
+      "uid": "sn37.34"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Things",
+      "uid": "sn37.32"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.33:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.33:0.2",
+          "pli": "3. Balavagga",
+          "en": "3. Powers"
+        },
+        {
+          "scid": "sn37.33:0.3",
+          "pli": "33. Pañcasīlavisāradasutta",
+          "en": "33. Living With Self-Assurance"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.33:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato mātugāmo visārado agāraṃ ajjhāvasati.",
+          "en": "“Mendicants, a female living at home with five qualities is self-assured."
+        },
+        {
+          "scid": "sn37.33:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn37.33:1.3",
+          "pli": "Pāṇātipātā paṭivirato ca hoti, adinnādānā paṭivirato ca hoti, kāmesumicchācārā paṭivirato ca hoti, musāvādā paṭivirato ca hoti, surāmerayamajjappamādaṭṭhānā paṭivirato ca hoti—",
+          "en": "She doesn’t kill living creatures, steal, commit sexual misconduct, lie, or consume alcoholic drinks that cause negligence."
+        },
+        {
+          "scid": "sn37.33:1.4",
+          "pli": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato mātugāmo visārado agāraṃ ajjhāvasatī”ti.",
+          "en": "A female living at home with these five qualities is self-assured.”"
+        },
+        {
+          "scid": "sn37.33:1.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.33/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.33",
+    "volpages": "SN iv 250",
+    "uid": "sn37.33",
+    "blurb": "A woman with five qualities lives confidently at home.",
+    "difficulty": null,
+    "original_title": "Pañcasīlavisārada Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Living With Self-Assurance",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.33_sujato",
+        "segmented": true,
+        "title": "Living With Self-Assurance"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

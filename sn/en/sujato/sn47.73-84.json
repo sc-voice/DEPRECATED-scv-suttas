@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn47.73-84",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.73-84",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Hard Work, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Searches, Etc.",
+      "uid": "sn47.85-94"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Realized One",
+      "uid": "sn47.63-72"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.73-84:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.73-84:0.2",
+          "pli": "8. Balakaraṇīyavagga",
+          "en": "8. Hard Work"
+        },
+        {
+          "scid": "sn47.73-84:0.3",
+          "pli": "73–​84. Balādisutta",
+          "en": "73–​84. Hard Work, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.73-84:1.1",
+          "pli": "“Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyantī”ti vitthāretabbaṃ.",
+          "en": "“Mendicants, all the hard work that gets done depends on the earth and is grounded on the earth. …”"
+        },
+        {
+          "scid": "sn47.73-84:1.2",
+          "pli": "Balakaraṇīyavaggo aṭṭhamo.",
+          "en": "(To be expanded as in SN 45.149–160.)"
+        },
+        {
+          "scid": "sn47.73-84:2.1",
+          "pli": "Balaṃ bījañca nāgo ca,",
+          "en": "Hard work, seeds, and dragons,"
+        },
+        {
+          "scid": "sn47.73-84:2.2",
+          "pli": "rukkho kumbhena sūkiyā;",
+          "en": "a tree, a pot, and a spike,"
+        },
+        {
+          "scid": "sn47.73-84:2.3",
+          "pli": "Ākāsena ca dve meghā,",
+          "en": "the sky, and two on clouds,"
+        },
+        {
+          "scid": "sn47.73-84:2.4",
+          "pli": "nāvā āgantukā nadīti.",
+          "en": "a ship, a guest house, and a river."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.73-84/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn47.73-84",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Balakaraṇīya Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Hard Work, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.73-84_sujato",
+        "segmented": true,
+        "title": "Hard Work, Etc."
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.73-84_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Strenuous, Etc."
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

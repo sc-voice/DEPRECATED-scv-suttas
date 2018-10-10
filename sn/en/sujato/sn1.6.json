@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn1.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Awake",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Not Comprehending",
+      "uid": "sn1.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cut How Many?",
+      "uid": "sn1.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.6:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.6:0.2",
+          "pli": "1. Naḷavagga",
+          "en": "1. A Reed"
+        },
+        {
+          "scid": "sn1.6:0.3",
+          "pli": "6. Jāgarasutta",
+          "en": "6. Awake"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.6:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn1.6:1.2",
+          "pli": "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, that deity recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn1.6:2.1",
+          "pli": "“Kati jāgarataṃ suttā,",
+          "en": "“How many sleep while others wake?"
+        },
+        {
+          "scid": "sn1.6:2.2",
+          "pli": "kati suttesu jāgarā;",
+          "en": "How many wake among the sleeping?"
+        },
+        {
+          "scid": "sn1.6:2.3",
+          "pli": "Katibhi rajamādeti,",
+          "en": "By how many do you gather dust?"
+        },
+        {
+          "scid": "sn1.6:2.4",
+          "pli": "katibhi parisujjhatī”ti.",
+          "en": "By how many are you cleansed?”"
+        },
+        {
+          "scid": "sn1.6:3.1",
+          "pli": "“Pañca jāgarataṃ suttā,",
+          "en": "“Five sleep while others wake."
+        },
+        {
+          "scid": "sn1.6:3.2",
+          "pli": "pañca suttesu jāgarā;",
+          "en": "Five wake among the sleeping."
+        },
+        {
+          "scid": "sn1.6:3.3",
+          "pli": "Pañcabhi rajamādeti,",
+          "en": "By five you gather dust."
+        },
+        {
+          "scid": "sn1.6:3.4",
+          "pli": "pañcabhi parisujjhatī”ti.",
+          "en": "By five you’re cleansed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.6//SN 6",
+    "volpages": "SN i 3//SN i 6",
+    "uid": "sn1.6",
+    "blurb": "How many are awake while others are asleep?",
+    "difficulty": null,
+    "original_title": "Jāgara Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Awake",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.6_sujato",
+        "segmented": true,
+        "title": "Awake"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.6_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Awake"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 6
+  }
+}

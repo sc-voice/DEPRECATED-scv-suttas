@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "an3.81",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.81",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Ascetics",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Donkey",
+      "uid": "an3.82"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Lesser",
+      "uid": "an3.80"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.81:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.81:0.2",
+          "pli": "9. Samaṇavagga",
+          "en": "9. Ascetics"
+        },
+        {
+          "scid": "an3.81:0.3",
+          "pli": "81. Samaṇasutta",
+          "en": "81. Ascetics"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.81:1.1",
+          "pli": "“Tīṇimāni, bhikkhave, samaṇassa samaṇiyāni samaṇakaraṇīyāni.",
+          "en": "“Mendicants, there are three duties of an ascetic."
+        },
+        {
+          "scid": "an3.81:1.2",
+          "pli": "Katamāni tīṇi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.81:1.3",
+          "pli": "Adhisīlasikkhāsamādānaṃ, adhicittasikkhāsamādānaṃ, adhipaññāsikkhāsamādānaṃ—",
+          "en": "Undertaking the training in the higher ethics, the higher mind, and the higher wisdom."
+        },
+        {
+          "scid": "an3.81:1.4",
+          "pli": "imāni kho, bhikkhave, tīṇi samaṇassa samaṇiyāni samaṇakaraṇīyāni.",
+          "en": "These are the three duties of an ascetic."
+        },
+        {
+          "scid": "an3.81:2.1",
+          "pli": "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:",
+          "en": "So you should train like this:"
+        },
+        {
+          "scid": "an3.81:2.2",
+          "pli": "‘tibbo no chando bhavissati adhisīlasikkhāsamādāne, tibbo no chando bhavissati adhicittasikkhāsamādāne, tibbo no chando bhavissati adhipaññāsikkhāsamādāne’ti.",
+          "en": "‘We will have keen enthusiasm for undertaking the training in the higher ethics, the higher mind, and the higher wisdom.’"
+        },
+        {
+          "scid": "an3.81:2.3",
+          "pli": "Evañhi vo, bhikkhave, sikkhitabban”ti.",
+          "en": "That’s how you should train.”"
+        },
+        {
+          "scid": "an3.81:2.4",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.81/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.81//AN 3.81a",
+    "volpages": "AN i 229",
+    "uid": "an3.81",
+    "blurb": "The duties of an ascetic.",
+    "difficulty": null,
+    "original_title": "Samaṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ascetics",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.81_sujato",
+        "segmented": true,
+        "title": "Ascetics"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "sutta_uid": "an10.240-266",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "an10.240-266",
+    "lang": "en",
+    "is_root": false,
+    "title": "",
+    "author": "Bhikkhu Bodhi",
+    "author_short": "Bodhi",
+    "author_uid": "bodhi",
+    "next": {
+      "author_uid": "bodhi",
+      "lang": "en",
+      "name": "",
+      "uid": "an10.267-746"
+    },
+    "previous": {
+      "author_uid": "bodhi",
+      "lang": "en",
+      "name": "",
+      "uid": "an10.239"
+    }
+  },
+  "metaarea": "\n<p>© Bhikkhu Bodhi, <cite class=\"book\">The Numerical Discourses of the Buddha</cite> (Wisdom Publications, 2012)</p>\n<p><p>This excerpt from <cite class=\"book\">The Numerical Discourses of the Buddha</cite> by <a href=\"http://www.wisdompubs.org/author/bhikkhu-bodhi\"><span class=\"author\">Bhikkhu Bodhi</span></a> is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US\" rel=\"license\">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.</p><p>\nBased on the work <a href=\"http://www.wisdompubs.org/book/numerical-discourses-buddha\"><cite class=\"book\">The Numerical Discourses of the Buddha</cite></a> at Wisdom Publications.</p><p>\nPermissions beyond the scope of this license may be available at <a href=\"http://www.wisdompubs.org/terms-use\">Wisdom Publications</a>.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Blake Walsh</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an10.240-266:0.1",
+          "en": "Aṅguttara Nikāya 10.240-266"
+        },
+        {
+          "scid": "an10.240-266:0.2",
+          "en": "",
+          "pli": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Aṅguttara Nikāya 10…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an10.240-266:1.0.1",
+          "en": "Aṅguttara Nikāya"
+        },
+        {
+          "scid": "an10.240-266:1.0.2",
+          "en": "The Book of the Tens"
+        },
+        {
+          "scid": "an10.240-266:1.0.3",
+          "en": "240–266."
+        },
+        {
+          "scid": "an10.240-266:1.1.4",
+          "en": "“Bhikkhus, for full understanding of lust … for the utter destruction … for the abandoning … for the destruction … for the vanishing … for the fading away … for the cessation … for the giving up … for the relinquishment of lust … these ten things are to be developed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Aṅguttara Nikāya…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an10.240-266/en/bodhi",
+  "author_uid": "bodhi",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "an10.240-266",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an10.240-266_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

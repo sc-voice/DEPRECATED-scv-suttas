@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an8.32",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an8.32",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Giving (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Reasons to Give",
+      "uid": "an8.33"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Giving (1st)",
+      "uid": "an8.31"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an8.32:0.1",
+          "pli": "Aṅguttara Nikāya 8",
+          "en": "Numbered Discourses 8"
+        },
+        {
+          "scid": "an8.32:0.2",
+          "pli": "4. Dānavagga",
+          "en": "4. Giving"
+        },
+        {
+          "scid": "an8.32:0.3",
+          "pli": "32. Dutiyadānasutta",
+          "en": "32. Giving (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 8…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an8.32:1.1",
+          "pli": "“Saddhā hiriyaṃ kusalañca dānaṃ,",
+          "en": "“Faith, conscience, and skillful giving"
+        },
+        {
+          "scid": "an8.32:1.2",
+          "pli": "Dhammā ete sappurisānuyātā;",
+          "en": "are qualities good people follow."
+        },
+        {
+          "scid": "an8.32:1.3",
+          "pli": "Etañhi maggaṃ diviyaṃ vadanti,",
+          "en": "For this, they say, is the path of the gods,"
+        },
+        {
+          "scid": "an8.32:1.4",
+          "pli": "Etena hi gacchati devalokan”ti.",
+          "en": "which leads to the heavenly realm.”"
+        },
+        {
+          "scid": "an8.32:1.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Faith…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an8.32/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 8.32",
+    "volpages": "AN iv 236",
+    "uid": "an8.32",
+    "blurb": "This verse on qualities of a good person appears to be a fragment of text, perhaps originally part of the previous sutta.",
+    "difficulty": null,
+    "original_title": "Dutiyadāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Giving (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an8.32_sujato",
+        "segmented": true,
+        "title": "Giving (2nd)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an8.32_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Giving (2)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

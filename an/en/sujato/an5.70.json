@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "an5.70",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.70",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Ending of Defilements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Freedom of Heart is the Fruit (1st)",
+      "uid": "an5.71"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Disillusionment",
+      "uid": "an5.69"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.70:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.70:0.2",
+          "pli": "7. Saññāvagga",
+          "en": "7. Perceptions"
+        },
+        {
+          "scid": "an5.70:0.3",
+          "pli": "70. Āsavakkhayasutta",
+          "en": "70. The Ending of Defilements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.70:1.1",
+          "pli": "“Pañcime, bhikkhave, dhammā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattanti.",
+          "en": "“Mendicants, these five things, when developed and cultivated, lead to the ending of defilements."
+        },
+        {
+          "scid": "an5.70:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.70:1.3",
+          "pli": "Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti.",
+          "en": "A mendicant meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death."
+        },
+        {
+          "scid": "an5.70:1.4",
+          "pli": "Ime kho, bhikkhave, pañca dhammā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattantī”ti.",
+          "en": "These five things, when developed and cultivated, lead to the ending of defilements.”"
+        },
+        {
+          "scid": "an5.70:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an5.70:1.6",
+          "pli": "Saññāvaggo dutiyo.",
+          "en": ""
+        },
+        {
+          "scid": "an5.70:2.1",
+          "pli": "Dve ca saññā dve vaḍḍhī ca,",
+          "en": ""
+        },
+        {
+          "scid": "an5.70:2.2",
+          "pli": "sākacchena ca sājīvaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "an5.70:2.3",
+          "pli": "Iddhipādā ca dve vuttā,",
+          "en": ""
+        },
+        {
+          "scid": "an5.70:2.4",
+          "pli": "nibbidā cāsavakkhayāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.70/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.70",
+    "volpages": "AN iii 83",
+    "uid": "an5.70",
+    "blurb": "Five meditations that lead to the end of defilements.",
+    "difficulty": null,
+    "original_title": "Āsavakkhaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Ending of Defilements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.70_sujato",
+        "segmented": true,
+        "title": "The Ending of Defilements"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

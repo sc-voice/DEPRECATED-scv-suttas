@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an7.87",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.87",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Brahmin",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Scholar",
+      "uid": "an7.88"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "An Ascetic",
+      "uid": "an7.86"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.87:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.87:0.2",
+          "pli": "9. Samaṇavagga",
+          "en": "9. An Ascetic"
+        },
+        {
+          "scid": "an7.87:0.3",
+          "pli": "87. Brāhmaṇasutta",
+          "en": "87. Brahmin"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.87:1.1",
+          "pli": "“… Bāhitattā brāhmaṇo hoti … pe ….",
+          "en": "“Mendicants, it’s because of barring out seven things that you become a brahmin …”"
+        },
+        {
+          "scid": "an7.87:1.2",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.87/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.87",
+    "volpages": "AN iv 144",
+    "uid": "an7.87",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Brāhmaṇa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Brahmin",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.87_sujato",
+        "segmented": true,
+        "title": "Brahmin"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

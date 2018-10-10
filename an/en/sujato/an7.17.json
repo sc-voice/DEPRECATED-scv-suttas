@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "an7.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Observing Suffering",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Observing Not-self",
+      "uid": "an7.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Observing Impermanence",
+      "uid": "an7.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.17:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.17:0.2",
+          "pli": "2. Anusayavagga",
+          "en": "2. Tendencies"
+        },
+        {
+          "scid": "an7.17:0.3",
+          "pli": "17. Dukkhānupassīsutta",
+          "en": "17. Observing Suffering"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.17:1.1",
+          "pli": "Sattime, bhikkhave, puggalā āhuneyyā … pe … anuttaraṃ puññakkhettaṃ lokassa.",
+          "en": "“Mendicants, there are seven people worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, and worthy of greeting with joined palms. They are a supreme field of merit for the world."
+        },
+        {
+          "scid": "an7.17:1.2",
+          "pli": "Katame satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.17:1.3",
+          "pli": "Idha, bhikkhave, ekacco puggalo sabbasaṅkhāresu dukkhānupassī viharati … pe ….",
+          "en": "First, take a person who meditates observing suffering in all conditions. They perceive suffering and experience suffering. Constantly, continually, and without stopping, they apply the mind and fathom with wisdom. …”"
+        },
+        {
+          "scid": "an7.17:1.4",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.17//AN 7.17a",
+    "volpages": "AN iv 14",
+    "uid": "an7.17",
+    "blurb": "Seven persons who are worthy of gifts and veneration.",
+    "difficulty": null,
+    "original_title": "Dukkhānupassī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Observing Suffering",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.17_sujato",
+        "segmented": true,
+        "title": "Observing Suffering"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

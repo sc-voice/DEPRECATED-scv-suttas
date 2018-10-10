@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an9.46",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.46",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "In This Very Life",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Extinguishment Is Realizable In This Very Life",
+      "uid": "an9.47"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Freed Both Ways",
+      "uid": "an9.45"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.46:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.46:0.2",
+          "pli": "5. Sāmaññavagga",
+          "en": "5. Similarity"
+        },
+        {
+          "scid": "an9.46:0.3",
+          "pli": "46. Sandiṭṭhikadhammasutta",
+          "en": "46. In This Very Life"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.46:1.1",
+          "pli": "“‘Sandiṭṭhiko dhammo, sandiṭṭhiko dhammo’ti, āvuso, vuccati.",
+          "en": "“Reverend, they speak of ‘a teaching realizable in this very life’."
+        },
+        {
+          "scid": "an9.46:1.2",
+          "pli": "Kittāvatā nu kho, āvuso, sandiṭṭhiko dhammo vutto bhagavatā”ti?",
+          "en": "In what way did the Buddha speak of a teaching realizable in this very life?”"
+        },
+        {
+          "scid": "an9.46:2.1",
+          "pli": "“Idhāvuso, bhikkhu vivicceva kāmehi … pe … paṭhamaṃ jhānaṃ upasampajja viharati.",
+          "en": "“First, take a mendicant who, quite secluded from sensual pleasures … enters and remains in the first absorption."
+        },
+        {
+          "scid": "an9.46:2.2",
+          "pli": "Ettāvatāpi kho, āvuso, sandiṭṭhiko dhammo vutto bhagavatā pariyāyena … pe ….",
+          "en": "To this extent the Buddha spoke of the teaching realizable in this very life in a qualified sense. …"
+        },
+        {
+          "scid": "an9.46:3.1",
+          "pli": "Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti.",
+          "en": "Furthermore, take a mendicant who, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end."
+        },
+        {
+          "scid": "an9.46:3.2",
+          "pli": "Ettāvatāpi kho, āvuso, sandiṭṭhiko dhammo vutto bhagavatā nippariyāyenā”ti.",
+          "en": "To this extent the Buddha spoke of the teaching realizable in this very life in an unqualified sense.”"
+        },
+        {
+          "scid": "an9.46:3.3",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Reverend…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.46/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.46",
+    "volpages": "AN iv 453",
+    "uid": "an9.46",
+    "blurb": "The teaching apparent in the present life is experienced provisionally in deep meditation, and completely when the defilements end.",
+    "difficulty": null,
+    "original_title": "Sandiṭṭhikadhamma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "In This Very Life",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.46_sujato",
+        "segmented": true,
+        "title": "In This Very Life"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

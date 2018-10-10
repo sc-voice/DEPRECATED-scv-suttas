@@ -1,0 +1,115 @@
+{
+  "sutta_uid": "an4.272",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.272",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Ill Will",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wrong View",
+      "uid": "an4.273"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Covetousness",
+      "uid": "an4.271"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.272:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.272:0.2",
+          "pli": "27. Kammapathavagga",
+          "en": "27. Ways of Performing Deeds"
+        },
+        {
+          "scid": "an4.272:0.3",
+          "pli": "272. Byāpannacittasutta",
+          "en": "272. Ill Will"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.272:1.1",
+          "pli": "… pe … Attanā ca byāpannacitto hoti, parañca byāpāde samādapeti, byāpāde ca samanuñño hoti, byāpādassa ca vaṇṇaṃ bhāsati—imehi … pe ….",
+          "en": "… They themselves have ill will …"
+        },
+        {
+          "scid": "an4.272:2.1",
+          "pli": "Attanā ca abyāpannacitto hoti, parañca abyāpāde samādapeti, abyāpāde ca samanuñño hoti, abyāpādassa ca vaṇṇaṃ bhāsati—imehi … pe ….",
+          "en": "… They themselves have good will …"
+        },
+        {
+          "scid": "an4.272:2.2",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "… They themselves have ill will ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.272/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.272//AN 4.269",
+    "volpages": "AN ii 255",
+    "uid": "an4.272",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Byāpannacitta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ill Will",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.272_sujato",
+        "segmented": true,
+        "title": "Ill Will"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "sutta_uid": "thag3.3",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag3.3",
+    "lang": "en",
+    "is_root": false,
+    "title": "Bākula",
+    "author": "Bhikkhu Sujato, Jessica Walton",
+    "author_short": "Sujato …",
+    "author_uid": "sujato-walton",
+    "next": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Dhaniya",
+      "uid": "thag3.4"
+    },
+    "previous": {
+      "author_uid": "sujato-walton",
+      "lang": "en",
+      "name": "Paccaya",
+      "uid": "thag3.2"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Theragāthā was made by <span class=\"author\">Bhikkhu Sujato</span> with <span class=\"author\">Jessica Walton</span>. It is based on the Mahāsaṅgīti edition of the Pali text.</p>\n<p>The translation relies heavily on the translation and notes by <span class=\"author\">K.R. Norman</span> for the Pali Text Society, published as <cite class=\"book\">Elders’s Verses I</cite>, first published 1965. For a few verses we have also consulted translations by Bhikkhu Thanissaro and Bhikkhu Bodhi. In all cases, however, the final translation was made directly from the Pali text.</p>\n<p>This translation is published in September 2014. It is released by means of <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication</a>. The translators waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You are encouraged to do anything you like with this text. You can copy, modify, translate, distribute, print, and perform the work, even for commercial purposes, all without asking permission.</p>\n<p>If you notice any mistakes, we would appreciate if you could let us know. We would also like to know if you do anything interesting with the text, so we can support your activities. However, you are under no obligations to do so.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Bhikkhu Sujato</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.3:0.1",
+          "en": "Theragāthā 3.3"
+        },
+        {
+          "scid": "thag3.3:0.2",
+          "en": "Bākula",
+          "pli": "Bākulattheragāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thag3.3:1.0.1",
+          "en": "Theragāthā"
+        },
+        {
+          "scid": "thag3.3:1.0.2",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.3:1.0.3",
+          "en": "Chapter of the Threes"
+        },
+        {
+          "scid": "thag3.3:1.0.4",
+          "en": "3.3. Bākula"
+        },
+        {
+          "scid": "thag3.3:1.1.5",
+          "en": "Whoever wishes to do afterwards What they should have done before They’ve lost the causes for happiness, And afterwards they’re tormented with remorse."
+        },
+        {
+          "scid": "thag3.3:1.2.6",
+          "en": "You should only say what you would do; You shouldn’t say what you wouldn’t do. The wise will recognize One who talks without doing."
+        },
+        {
+          "scid": "thag3.3:1.3.7",
+          "en": "Oh! nibbāna is so very blissful, As taught by the fully awakened Buddha: Sorrowless, stainless, secure; Where suffering all ceases."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Theragāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.3/en/sujato-walton",
+  "author_uid": "sujato-walton",
+  "suttaplex": {
+    "acronym": "Thag 3.3",
+    "volpages": "Thag 29",
+    "uid": "thag3.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bākulattheragāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bākula",
+    "translations": [
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.3_sujato-walton",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Bākula"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 3
+  }
+}

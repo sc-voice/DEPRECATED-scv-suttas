@@ -1,0 +1,935 @@
+{
+  "sutta_uid": "mn28",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn28",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Longer Simile of the Elephant’s Footprint",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Shorter Simile of the Heartwood",
+      "uid": "mn29"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Shorter Elephant’s Footprint Simile",
+      "uid": "mn27"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn28:0.1",
+          "pli": "Majjhima Nikāya 28",
+          "en": "Middle Discourses 28"
+        },
+        {
+          "scid": "mn28:0.2",
+          "pli": "Mahāhatthipadopamasutta",
+          "en": "The Longer Simile of the Elephant’s Footprint"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 28…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn28:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn28:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn28:1.3",
+          "pli": "Tatra kho āyasmā sāriputto bhikkhū āmantesi:",
+          "en": "There Sāriputta addressed the mendicants:"
+        },
+        {
+          "scid": "mn28:1.4",
+          "pli": "“āvuso bhikkhave”ti.",
+          "en": "“Reverends, mendicants!”"
+        },
+        {
+          "scid": "mn28:1.5",
+          "pli": "“Āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ.",
+          "en": "“Reverend,” they replied."
+        },
+        {
+          "scid": "mn28:1.6",
+          "pli": "Āyasmā sāriputto etadavoca:",
+          "en": "Sāriputta said this:"
+        },
+        {
+          "scid": "mn28:2.1",
+          "pli": "“Seyyathāpi, āvuso, yāni kānici jaṅgalānaṃ pāṇānaṃ padajātāni sabbāni tāni hatthipade samodhānaṃ gacchanti, hatthipadaṃ tesaṃ aggamakkhāyati yadidaṃ mahantattena;",
+          "en": "“The footprints of all creatures that walk can fit inside an elephant’s footprint, so an elephant’s footprint is said to be the biggest of them all."
+        },
+        {
+          "scid": "mn28:2.2",
+          "pli": "evameva kho, āvuso, ye keci kusalā dhammā sabbete catūsu ariyasaccesu saṅgahaṃ gacchanti.",
+          "en": "In the same way, all skillful qualities can be included in the four noble truths."
+        },
+        {
+          "scid": "mn28:2.3",
+          "pli": "Katamesu catūsu?",
+          "en": "What four?"
+        },
+        {
+          "scid": "mn28:2.4",
+          "pli": "Dukkhe ariyasacce, dukkhasamudaye ariyasacce, dukkhanirodhe ariyasacce, dukkhanirodhagāminiyā paṭipadāya ariyasacce.",
+          "en": "The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering."
+        },
+        {
+          "scid": "mn28:3.1",
+          "pli": "Katamañcāvuso, dukkhaṃ ariyasaccaṃ?",
+          "en": "And what is the noble truth of suffering?"
+        },
+        {
+          "scid": "mn28:3.2",
+          "pli": "Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṃ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, yampicchaṃ na labhati tampi dukkhaṃ; saṅkhittena, pañcupādānakkhandhā dukkhā.",
+          "en": "Rebirth is suffering; old age is suffering; death is suffering; sorrow, lamentation, pain, sadness, and distress are suffering; not getting what you wish for is suffering. In brief, the five grasping aggregates are suffering."
+        },
+        {
+          "scid": "mn28:3.3",
+          "pli": "Katame cāvuso, pañcupādānakkhandhā?",
+          "en": "And what are the five grasping aggregates?"
+        },
+        {
+          "scid": "mn28:3.4",
+          "pli": "Seyyathidaṃ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho.",
+          "en": "They are as follows: the grasping aggregates of form, feeling, perception, choices, and consciousness."
+        },
+        {
+          "scid": "mn28:4.1",
+          "pli": "Katamo cāvuso, rūpupādānakkhandho?",
+          "en": "And what is the grasping aggregate of form?"
+        },
+        {
+          "scid": "mn28:4.2",
+          "pli": "Cattāri ca mahābhūtāni, catunnañca mahābhūtānaṃ upādāya rūpaṃ.",
+          "en": "The four primary elements, and form derived from the four primary elements."
+        },
+        {
+          "scid": "mn28:5.1",
+          "pli": "Katamā cāvuso, cattāro mahābhūtā?",
+          "en": "And what are the four primary elements?"
+        },
+        {
+          "scid": "mn28:5.2",
+          "pli": "Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu.",
+          "en": "The elements of earth, water, fire, and air."
+        },
+        {
+          "scid": "mn28:6.1",
+          "pli": "Katamā cāvuso, pathavīdhātu?",
+          "en": "And what is the earth element?"
+        },
+        {
+          "scid": "mn28:6.2",
+          "pli": "Pathavīdhātu siyā ajjhattikā, siyā bāhirā.",
+          "en": "The earth element may be interior or exterior."
+        },
+        {
+          "scid": "mn28:6.3",
+          "pli": "Katamā cāvuso, ajjhattikā pathavīdhātu?",
+          "en": "And what is the interior earth element?"
+        },
+        {
+          "scid": "mn28:6.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ kakkhaḷaṃ kharigataṃ upādinnaṃ, seyyathidaṃ—",
+          "en": "Anything hard, solid, and organic that’s internal, pertaining to an individual. This includes:"
+        },
+        {
+          "scid": "mn28:6.5",
+          "pli": "kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ kakkhaḷaṃ kharigataṃ upādinnaṃ.",
+          "en": "head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentry, undigested food, feces, or anything else hard, solid, and organic that’s internal, pertaining to an individual."
+        },
+        {
+          "scid": "mn28:6.6",
+          "pli": "Ayaṃ vuccatāvuso, ajjhattikā pathavīdhātu.",
+          "en": "This is called the interior earth element."
+        },
+        {
+          "scid": "mn28:6.7",
+          "pli": "Yā ceva kho pana ajjhattikā pathavīdhātu, yā ca bāhirā pathavīdhātu, pathavīdhāturevesā.",
+          "en": "The interior earth element and the exterior earth element are just the earth element."
+        },
+        {
+          "scid": "mn28:6.8",
+          "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti—evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn28:6.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā pathavīdhātuyā nibbindati, pathavīdhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you become disillusioned with the earth element, detaching the mind from the earth element."
+        },
+        {
+          "scid": "mn28:7.1",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ bāhirā āpodhātu pakuppati.",
+          "en": "There comes a time when the exterior water element flares up."
+        },
+        {
+          "scid": "mn28:7.2",
+          "pli": "Antarahitā tasmiṃ samaye bāhirā pathavīdhātu hoti.",
+          "en": "At that time the exterior earth element vanishes."
+        },
+        {
+          "scid": "mn28:7.3",
+          "pli": "Tassā hi nāma, āvuso, bāhirāya pathavīdhātuyā tāva mahallikāya aniccatā paññāyissati, khayadhammatā paññāyissati, vayadhammatā paññāyissati, vipariṇāmadhammatā paññāyissati.",
+          "en": "So for all its great age, the earth element will be revealed as impermanent, liable to end, vanish, and perish."
+        },
+        {
+          "scid": "mn28:7.4",
+          "pli": "Kiṃ panimassa mattaṭṭhakassa kāyassa taṇhupādinnassa ‘ahanti vā mamanti vā asmī’ti vā? Atha khvāssa notevettha hoti.",
+          "en": "What then of this short-lived body produced by craving? Rather than take it to be ‘I’ or ‘mine’ or ‘I am’, they still just consider it to be none of these things."
+        },
+        {
+          "scid": "mn28:8.1",
+          "pli": "Tañce, āvuso, bhikkhuṃ pare akkosanti paribhāsanti rosenti vihesenti, so evaṃ pajānāti:",
+          "en": "If others abuse, attack, harass, and trouble that mendicant, they understand:"
+        },
+        {
+          "scid": "mn28:8.2",
+          "pli": "‘uppannā kho me ayaṃ sotasamphassajā dukkhavedanā.",
+          "en": "‘This painful feeling born of ear contact has arisen in me."
+        },
+        {
+          "scid": "mn28:8.3",
+          "pli": "Sā ca kho paṭicca, no apaṭicca.",
+          "en": "That’s dependent, not independent."
+        },
+        {
+          "scid": "mn28:8.4",
+          "pli": "Kiṃ paṭicca?",
+          "en": "Dependent on what?"
+        },
+        {
+          "scid": "mn28:8.5",
+          "pli": "Phassaṃ paṭicca’.",
+          "en": "Dependent on contact.’"
+        },
+        {
+          "scid": "mn28:8.6",
+          "pli": "So phasso aniccoti passati, vedanā aniccāti passati, saññā aniccāti passati, saṅkhārā aniccāti passati, viññāṇaṃ aniccanti passati.",
+          "en": "They see that contact, feeling, perception, choices, and consciousness are impermanent."
+        },
+        {
+          "scid": "mn28:8.7",
+          "pli": "Tassa dhātārammaṇameva cittaṃ pakkhandati pasīdati santiṭṭhati adhimuccati.",
+          "en": "Based on that element alone, their mind becomes eager, confident, steady, and decided."
+        },
+        {
+          "scid": "mn28:9.1",
+          "pli": "Tañce, āvuso, bhikkhuṃ pare aniṭṭhehi akantehi amanāpehi samudācaranti—",
+          "en": "Others might treat that mendicant with disliking, loathing, and detestation,"
+        },
+        {
+          "scid": "mn28:9.2",
+          "pli": "pāṇisamphassenapi leḍḍusamphassenapi daṇḍasamphassenapi satthasamphassenapi.",
+          "en": "striking them with fists, stones, sticks, and swords."
+        },
+        {
+          "scid": "mn28:9.3",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn28:9.4",
+          "pli": "‘tathābhūto kho ayaṃ kāyo yathābhūtasmiṃ kāye pāṇisamphassāpi kamanti, leḍḍusamphassāpi kamanti, daṇḍasamphassāpi kamanti, satthasamphassāpi kamanti.",
+          "en": "‘This body is such that fists, stones, sticks, and swords strike it."
+        },
+        {
+          "scid": "mn28:9.5",
+          "pli": "Vuttaṃ kho panetaṃ bhagavatā kakacūpamovāde:",
+          "en": "But the Buddha has said in the Simile of the Saw:"
+        },
+        {
+          "scid": "mn28:9.6",
+          "pli": "“ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṃ, tatrāpi yo mano padūseyya na me so tena sāsanakaro”ti.",
+          "en": "“Even if low-down bandits were to sever you limb from limb, anyone who had a malevolent thought on that account would not be following my instructions.”"
+        },
+        {
+          "scid": "mn28:9.7",
+          "pli": "Āraddhaṃ kho pana me vīriyaṃ bhavissati asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ.",
+          "en": "My energy shall be roused up and vigorous, my mindfulness established and lucid, my body tranquil and undisturbed, and my mind immersed in samādhi."
+        },
+        {
+          "scid": "mn28:9.8",
+          "pli": "Kāmaṃ dāni imasmiṃ kāye pāṇisamphassāpi kamantu, leḍḍusamphassāpi kamantu, daṇḍasamphassāpi kamantu, satthasamphassāpi kamantu, karīyati hidaṃ buddhānaṃ sāsanan’ti.",
+          "en": "Gladly now, let fists, stones, sticks, and swords strike this body! For this is how the Buddha’s instructions are followed.’"
+        },
+        {
+          "scid": "mn28:10.1",
+          "pli": "Tassa ce, āvuso, bhikkhuno evaṃ buddhaṃ anussarato evaṃ dhammaṃ anussarato evaṃ saṅghaṃ anussarato upekkhā kusalanissitā na saṇṭhāti.",
+          "en": "While recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful may not become stabilized in them."
+        },
+        {
+          "scid": "mn28:10.2",
+          "pli": "So tena saṃvijjati saṃvegaṃ āpajjati:",
+          "en": "In that case they stir up a sense of urgency:"
+        },
+        {
+          "scid": "mn28:10.3",
+          "pli": "‘alābhā vata me, na vata me lābhā; dulladdhaṃ vata me, na vata me suladdhaṃ, ",
+          "en": "‘It’s my loss, my misfortune, "
+        },
+        {
+          "scid": "mn28:10.4",
+          "pli": "yassa me evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato, upekkhā kusalanissitā na saṇṭhātī’ti.",
+          "en": "that while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does not become stabilized in me.’"
+        },
+        {
+          "scid": "mn28:10.5",
+          "pli": "Seyyathāpi, āvuso, suṇisā sasuraṃ disvā saṃvijjati saṃvegaṃ āpajjati;",
+          "en": "They’re like a daughter-in-law who stirs up a sense of urgency when they see their father-in-law."
+        },
+        {
+          "scid": "mn28:10.6",
+          "pli": "evameva kho, āvuso, tassa ce bhikkhuno evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato, upekkhā kusalanissitā na saṇṭhāti, so tena saṃvijjati saṃvegaṃ āpajjati:",
+          "en": ""
+        },
+        {
+          "scid": "mn28:10.7",
+          "pli": "‘alābhā vata me, na vata me lābhā; dulladdhaṃ vata me, na vata me suladdhaṃ, yassa me evaṃ buddhaṃ anussarato evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato, upekkhā kusalanissitā na saṇṭhātī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn28:10.8",
+          "pli": "Tassa ce, āvuso, bhikkhuno evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti.",
+          "en": "But if, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, they’re happy with that."
+        },
+        {
+          "scid": "mn28:10.9",
+          "pli": "Ettāvatāpi kho, āvuso, bhikkhuno bahukataṃ hoti.",
+          "en": "At this point, much has been done by that mendicant."
+        },
+        {
+          "scid": "mn28:11.1",
+          "pli": "Katamā cāvuso, āpodhātu?",
+          "en": "And what is the water element?"
+        },
+        {
+          "scid": "mn28:11.2",
+          "pli": "Āpodhātu siyā ajjhattikā, siyā bāhirā.",
+          "en": "The water element may be interior or exterior."
+        },
+        {
+          "scid": "mn28:11.3",
+          "pli": "Katamā cāvuso, ajjhattikā āpodhātu?",
+          "en": "And what is the interior water element?"
+        },
+        {
+          "scid": "mn28:11.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ āpo āpogataṃ upādinnaṃ, seyyathidaṃ—",
+          "en": "Anything that’s water, watery, and organic that’s internal, pertaining to an individual. This includes:"
+        },
+        {
+          "scid": "mn28:11.5",
+          "pli": "pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttaṃ, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ āpo āpogataṃ upādinnaṃ—",
+          "en": "bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine, or anything else that’s water, watery, and organic that’s internal, pertaining to an individual."
+        },
+        {
+          "scid": "mn28:11.6",
+          "pli": "ayaṃ vuccatāvuso, ajjhattikā āpodhātu.",
+          "en": "This is called the interior water element."
+        },
+        {
+          "scid": "mn28:11.7",
+          "pli": "Yā ceva kho pana ajjhattikā āpodhātu yā ca bāhirā āpodhātu, āpodhāturevesā.",
+          "en": "The interior water element and the exterior water element are just the water element."
+        },
+        {
+          "scid": "mn28:11.8",
+          "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn28:11.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā āpodhātuyā nibbindati, āpodhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you become disillusioned with the water element, detaching the mind from the water element."
+        },
+        {
+          "scid": "mn28:12.1",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ bāhirā āpodhātu pakuppati.",
+          "en": "There comes a time when the exterior water element flares up."
+        },
+        {
+          "scid": "mn28:12.2",
+          "pli": "Sā gāmampi vahati, nigamampi vahati, nagarampi vahati, janapadampi vahati, janapadapadesampi vahati.",
+          "en": "It sweeps away villages, towns, cities, countries, and regions."
+        },
+        {
+          "scid": "mn28:12.3",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ mahāsamudde yojanasatikānipi udakāni ogacchanti, dviyojanasatikānipi udakāni ogacchanti, tiyojanasatikānipi udakāni ogacchanti, catuyojanasatikānipi udakāni ogacchanti, pañcayojanasatikānipi udakāni ogacchanti, chayojanasatikānipi udakāni ogacchanti, sattayojanasatikānipi udakāni ogacchanti.",
+          "en": "There comes a time when the water in the ocean sinks down a hundred leagues, or two, three, four, five, six, up to seven hundred leagues."
+        },
+        {
+          "scid": "mn28:12.4",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ mahāsamudde sattatālampi udakaṃ saṇṭhāti, chattālampi udakaṃ saṇṭhāti, pañcatālampi udakaṃ saṇṭhāti, catuttālampi udakaṃ saṇṭhāti, titālampi udakaṃ saṇṭhāti, dvitālampi udakaṃ saṇṭhāti, tālamattampi udakaṃ saṇṭhāti.",
+          "en": "There comes a time when the water in the ocean stands just seven palm trees deep, or six, five, four, three, two, or even just one palm tree deep."
+        },
+        {
+          "scid": "mn28:12.5",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ mahāsamudde sattaporisampi udakaṃ saṇṭhāti, chapporisampi udakaṃ saṇṭhāti, pañcaporisampi udakaṃ saṇṭhāti, catupporisampi udakaṃ saṇṭhāti, tiporisampi udakaṃ saṇṭhāti, dviporisampi udakaṃ saṇṭhāti, porisamattampi udakaṃ saṇṭhāti.",
+          "en": "There comes a time when the water in the ocean stands just seven fathoms deep, or six, five, four, three, two, or even just one fathom deep."
+        },
+        {
+          "scid": "mn28:12.6",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ mahāsamudde aḍḍhaporisampi udakaṃ saṇṭhāti, kaṭimattampi udakaṃ saṇṭhāti, jāṇukamattampi udakaṃ saṇṭhāti, gopphakamattampi udakaṃ saṇṭhāti.",
+          "en": "There comes a time when the water in the ocean stands just half a fathom deep, or waist deep, or knee deep, or even just ankle deep."
+        },
+        {
+          "scid": "mn28:12.7",
+          "pli": "Hoti kho so, āvuso, samayo, yaṃ mahāsamudde aṅgulipabbatemanamattampi udakaṃ na hoti.",
+          "en": "There comes a time when there isn’t enough water in the ocean even to wet the tip of your finger."
+        },
+        {
+          "scid": "mn28:12.8",
+          "pli": "Tassā hi nāma, āvuso, bāhirāya āpodhātuyā tāva mahallikāya aniccatā paññāyissati, khayadhammatā paññāyissati, vayadhammatā paññāyissati, vipariṇāmadhammatā paññāyissati.",
+          "en": "So for all its great age, the water element will be revealed as impermanent, liable to end, vanish, and perish."
+        },
+        {
+          "scid": "mn28:13-15.1",
+          "pli": "Kiṃ panimassa mattaṭṭhakassa kāyassa taṇhupādinnassa ‘ahanti vā mamanti vā asmī’ti vā? Atha khvāssa notevettha hoti … pe …",
+          "en": "What then of this short-lived body produced by craving? Rather than take it to be ‘I’ or ‘mine’ or ‘I am’, they still just consider it to be none of these things. …"
+        },
+        {
+          "scid": "mn28:13-15.2",
+          "pli": "tassa ce, āvuso, bhikkhuno evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṃghaṃ anussarato upekkhā kusalanissitā saṇṭhāti. So tena attamano hoti.",
+          "en": "If, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, they’re happy with that."
+        },
+        {
+          "scid": "mn28:13-15.3",
+          "pli": "Ettāvatāpi kho, āvuso, bhikkhuno bahukataṃ hoti.",
+          "en": "At this point, much has been done by that mendicant."
+        },
+        {
+          "scid": "mn28:16.1",
+          "pli": "Katamā cāvuso, tejodhātu?",
+          "en": "And what is the fire element?"
+        },
+        {
+          "scid": "mn28:16.2",
+          "pli": "Tejodhātu siyā ajjhattikā, siyā bāhirā.",
+          "en": "The fire element may be interior or exterior."
+        },
+        {
+          "scid": "mn28:16.3",
+          "pli": "Katamā cāvuso, ajjhattikā tejodhātu?",
+          "en": "And what is the interior fire element?"
+        },
+        {
+          "scid": "mn28:16.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ tejo tejogataṃ upādinnaṃ, seyyathidaṃ—",
+          "en": "Anything that’s fire, fiery, and organic that’s internal, pertaining to an individual. This includes:"
+        },
+        {
+          "scid": "mn28:16.5",
+          "pli": "yena ca santappati, yena ca jīrīyati, yena ca pariḍayhati, yena ca asitapītakhāyitasāyitaṃ sammā pariṇāmaṃ gacchati, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ tejo tejogataṃ upādinnaṃ—",
+          "en": "that which warms, that which ages, that which heats you up when feverish, that which properly digests food and drink, or anything else that’s fire, fiery, and organic that’s internal, pertaining to an individual."
+        },
+        {
+          "scid": "mn28:16.6",
+          "pli": "ayaṃ vuccatāvuso, ajjhattikā tejodhātu.",
+          "en": "This is called the interior fire element."
+        },
+        {
+          "scid": "mn28:16.7",
+          "pli": "Yā ceva kho pana ajjhattikā tejodhātu yā ca bāhirā tejodhātu, tejodhāturevesā.",
+          "en": "The interior fire element and the exterior fire element are just the fire element."
+        },
+        {
+          "scid": "mn28:16.8",
+          "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn28:16.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā tejodhātuyā nibbindati, tejodhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you become disillusioned with the fire element, detaching the mind from the fire element."
+        },
+        {
+          "scid": "mn28:17.1",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ bāhirā tejodhātu pakuppati.",
+          "en": "There comes a time when the exterior fire element flares up."
+        },
+        {
+          "scid": "mn28:17.2",
+          "pli": "Sā gāmampi dahati, nigamampi dahati, nagarampi dahati, janapadampi dahati, janapadapadesampi dahati.",
+          "en": "It burns up villages, towns, cities, countries, and regions until"
+        },
+        {
+          "scid": "mn28:17.3",
+          "pli": "Sā haritantaṃ vā panthantaṃ vā selantaṃ vā udakantaṃ vā ramaṇīyaṃ vā bhūmibhāgaṃ āgamma anāhārā nibbāyati.",
+          "en": "it reaches a green field, a roadside, a cliff’s edge, a body of water, or cleared parkland, where it’s extinguished for lack of fuel."
+        },
+        {
+          "scid": "mn28:17.4",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ kukkuṭapattenapi nhārudaddulenapi aggiṃ gavesanti.",
+          "en": "There comes a time when they go looking for a fire, taking just chicken feathers and strips of sinew as kindling."
+        },
+        {
+          "scid": "mn28:17.5",
+          "pli": "Tassā hi nāma, āvuso, bāhirāya tejodhātuyā tāva mahallikāya aniccatā paññāyissati, khayadhammatā paññāyissati, vayadhammatā paññāyissati, vipariṇāmadhammatā paññāyissati.",
+          "en": "So for all its great age, the fire element will be revealed as impermanent, liable to end, vanish, and perish."
+        },
+        {
+          "scid": "mn28:17.6",
+          "pli": "Kiṃ panimassa mattaṭṭhakassa kāyassa taṇhupādinnassa ‘ahanti vā mamanti vā asmī’ti vā?",
+          "en": "What then of this short-lived body produced by craving? Rather than take it to be ‘I’ or ‘mine’ or ‘I am’, they still just consider it to be none of these things. …"
+        },
+        {
+          "scid": "mn28:18-20.1",
+          "pli": "Atha khvāssa notevettha hoti … pe … tassa ce, āvuso, bhikkhuno evaṃ buddhaṃ anussarato evaṃ dhammaṃ anussarato evaṃ saṅghaṃ anussarato upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti.",
+          "en": "If, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, they’re happy with that."
+        },
+        {
+          "scid": "mn28:18-20.2",
+          "pli": "Ettāvatāpi kho, āvuso, bhikkhuno bahukataṃ hoti.",
+          "en": "At this point, much has been done by that mendicant."
+        },
+        {
+          "scid": "mn28:21.1",
+          "pli": "Katamā cāvuso, vāyodhātu?",
+          "en": "And what is the air element?"
+        },
+        {
+          "scid": "mn28:21.2",
+          "pli": "Vāyodhātu siyā ajjhattikā, siyā bāhirā.",
+          "en": "The air element may be interior or exterior."
+        },
+        {
+          "scid": "mn28:21.3",
+          "pli": "Katamā cāvuso, ajjhattikā vāyodhātu?",
+          "en": "And what is the interior air element?"
+        },
+        {
+          "scid": "mn28:21.4",
+          "pli": "Yaṃ ajjhattaṃ paccattaṃ vāyo vāyogataṃ upādinnaṃ, seyyathidaṃ—",
+          "en": "Anything that’s wind, windy, and organic that’s internal, pertaining to an individual. This includes:"
+        },
+        {
+          "scid": "mn28:21.5",
+          "pli": "uddhaṅgamā vātā, adhogamā vātā, kucchisayā vātā, koṭṭhāsayā vātā, aṅgamaṅgānusārino vātā, assāso passāso iti, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ vāyo vāyogataṃ upādinnaṃ—",
+          "en": "winds that go up or down, winds in the belly or the bowels, winds that flow through the limbs, in-breaths and out-breaths, or anything else that’s wind, windy, and organic that’s internal, pertaining to an individual."
+        },
+        {
+          "scid": "mn28:21.6",
+          "pli": "ayaṃ vuccatāvuso, ajjhattikā vāyodhātu.",
+          "en": "This is called the interior air element."
+        },
+        {
+          "scid": "mn28:21.7",
+          "pli": "Yā ceva kho pana ajjhattikā vāyodhātu, yā ca bāhirā vāyodhātu, vāyodhāturevesā.",
+          "en": "The interior air element and the exterior air element are just the air element."
+        },
+        {
+          "scid": "mn28:21.8",
+          "pli": "‘Taṃ netaṃ mama nesohamasmi na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+        },
+        {
+          "scid": "mn28:21.9",
+          "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā vāyodhātuyā nibbindati vāyodhātuyā cittaṃ virājeti.",
+          "en": "When you really see with proper understanding, you reject the air element, detaching the mind from the air element."
+        },
+        {
+          "scid": "mn28:22.1",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ bāhirā vāyodhātu pakuppati.",
+          "en": "There comes a time when the exterior air element flares up."
+        },
+        {
+          "scid": "mn28:22.2",
+          "pli": "Sā gāmampi vahati, nigamampi vahati, nagarampi vahati, janapadampi vahati, janapadapadesampi vahati.",
+          "en": "It sweeps away villages, towns, cities, countries, and regions."
+        },
+        {
+          "scid": "mn28:22.3",
+          "pli": "Hoti kho so, āvuso, samayo yaṃ gimhānaṃ pacchime māse tālavaṇṭenapi vidhūpanenapi vātaṃ pariyesanti, ossavanepi tiṇāni na icchanti.",
+          "en": "There comes a time, in the last month of summer, when they look for wind by using a palm-leaf or fan, and even the grasses in the drip-fringe of a thatch roof don’t stir."
+        },
+        {
+          "scid": "mn28:22.4",
+          "pli": "Tassā hi nāma, āvuso, bāhirāya vāyodhātuyā tāva mahallikāya aniccatā paññāyissati, khayadhammatā paññāyissati, vayadhammatā paññāyissati, vipariṇāmadhammatā paññāyissati.",
+          "en": "So for all its great age, the air element will be revealed as impermanent, liable to end, vanish, and perish."
+        },
+        {
+          "scid": "mn28:22.5",
+          "pli": "Kiṃ panimassa mattaṭṭhakassa kāyassa taṇhupādinnassa ‘ahanti vā mamanti vā asmī’ti vā? Atha khvāssa notevettha hoti.",
+          "en": "What then of this short-lived body produced by craving? Rather than take it to be ‘I’ or ‘mine’ or ‘I am’, they still just consider it to be none of these things. …"
+        },
+        {
+          "scid": "mn28:23.1",
+          "pli": "Tañce, āvuso, bhikkhuṃ pare akkosanti paribhāsanti rosenti vihesenti.",
+          "en": "If others abuse, attack, harass, and trouble that mendicant, they understand:"
+        },
+        {
+          "scid": "mn28:23.2",
+          "pli": "So evaṃ pajānāti, uppannā kho me ayaṃ sotasamphassajā dukkhā vedanā.",
+          "en": "‘This painful feeling born of ear contact has arisen in me."
+        },
+        {
+          "scid": "mn28:23.3",
+          "pli": "Sā ca kho paṭicca, no apaṭicca.",
+          "en": "That’s dependent, not independent."
+        },
+        {
+          "scid": "mn28:23.4",
+          "pli": "Kiṃ paṭicca?",
+          "en": "Dependent on what?"
+        },
+        {
+          "scid": "mn28:23.5",
+          "pli": "Phassaṃ paṭicca.",
+          "en": "Dependent on contact."
+        },
+        {
+          "scid": "mn28:23.6",
+          "pli": "Sopi phasso aniccoti passati, vedanā aniccāti passati, saññā aniccāti passati, saṅkhārā aniccāti passati, viññāṇaṃ aniccanti passati.",
+          "en": "They see that contact, feeling, perception, choices, and consciousness are impermanent."
+        },
+        {
+          "scid": "mn28:23.7",
+          "pli": "Tassa dhātārammaṇameva cittaṃ pakkhandati pasīdati santiṭṭhati adhimuccati.",
+          "en": "Based on that element alone, their mind becomes eager, confident, steady, and decided."
+        },
+        {
+          "scid": "mn28:24.1",
+          "pli": "Tañce, āvuso, bhikkhuṃ pare aniṭṭhehi akantehi amanāpehi samudācaranti, pāṇisamphassenapi leḍḍusamphassenapi daṇḍasamphassenapi satthasamphassenapi.",
+          "en": "Others might treat that mendicant with disliking, loathing, and detestation, striking them with fists, stones, sticks, and swords."
+        },
+        {
+          "scid": "mn28:24.2",
+          "pli": "So evaṃ pajānāti ‘tathābhūto kho ayaṃ kāyo yathābhūtasmiṃ kāye pāṇisamphassāpi kamanti, leḍḍusamphassāpi kamanti, daṇḍasamphassāpi kamanti, satthasamphassāpi kamanti.",
+          "en": "They understand: ‘This body is such that fists, stones, sticks, and swords strike it."
+        },
+        {
+          "scid": "mn28:24.3",
+          "pli": "Vuttaṃ kho panetaṃ bhagavatā kakacūpamovāde “ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṃ. Tatrāpi yo mano padūseyya, na me so tena sāsanakaro”ti.",
+          "en": "But the Buddha has said in the Simile of the Saw: “Even if low-down bandits were to sever you limb from limb, anyone who had a thought of hate on that account would not be following my instructions.”"
+        },
+        {
+          "scid": "mn28:24.4",
+          "pli": "Āraddhaṃ kho pana me vīriyaṃ bhavissati asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ.",
+          "en": "My energy shall be roused up and vigorous, my mindfulness established and lucid, my body tranquil and undisturbed, and my mind immersed in samādhi."
+        },
+        {
+          "scid": "mn28:24.5",
+          "pli": "Kāmaṃ dāni imasmiṃ kāye pāṇisamphassāpi kamantu, leḍḍusamphassāpi kamantu, daṇḍasamphassāpi kamantu, satthasamphassāpi kamantu. Karīyati hidaṃ buddhānaṃ sāsanan’ti.",
+          "en": "Gladly now, let fists, stones, sticks, and swords strike this body! For this is how the Buddha’s instructions are followed.’"
+        },
+        {
+          "scid": "mn28:25.1",
+          "pli": "Tassa ce, āvuso, bhikkhuno evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato upekkhā kusalanissitā na saṇṭhāti.",
+          "en": "While recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful may not become stabilized in them."
+        },
+        {
+          "scid": "mn28:25.2",
+          "pli": "So tena saṃvijjati saṃvegaṃ āpajjati:",
+          "en": "In that case they stir up a sense of urgency:"
+        },
+        {
+          "scid": "mn28:25.3",
+          "pli": "‘alābhā vata me, na vata me lābhā; dulladdhaṃ vata me, na vata me suladdhaṃ. ",
+          "en": "‘It’s my loss, my misfortune, "
+        },
+        {
+          "scid": "mn28:25.4",
+          "pli": "Yassa me evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato upekkhā kusalanissitā na saṇṭhātī’ti.",
+          "en": "that while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does not become stabilized in me.’"
+        },
+        {
+          "scid": "mn28:25.5",
+          "pli": "Seyyathāpi, āvuso, suṇisā sasuraṃ disvā saṃvijjati saṃvegaṃ āpajjati;",
+          "en": "They’re like a daughter-in-law who stirs up a sense of urgency when they see their father-in-law."
+        },
+        {
+          "scid": "mn28:25.6",
+          "pli": "evameva kho, āvuso, tassa ce bhikkhuno evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato, upekkhā kusalanissitā na saṇṭhāti.",
+          "en": ""
+        },
+        {
+          "scid": "mn28:25.7",
+          "pli": "So tena saṃvijjati saṃvegaṃ āpajjati:",
+          "en": ""
+        },
+        {
+          "scid": "mn28:25.8",
+          "pli": "‘alābhā vata me, na vata me lābhā; dulladdhaṃ vata me, na vata me suladdhaṃ. ",
+          "en": ""
+        },
+        {
+          "scid": "mn28:25.9",
+          "pli": "Yassa me evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato, upekkhā kusalanissitā na saṇṭhātī’ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn28:25.10",
+          "pli": "Tassa ce, āvuso, bhikkhuno evaṃ buddhaṃ anussarato, evaṃ dhammaṃ anussarato, evaṃ saṅghaṃ anussarato, upekkhā kusalanissitā saṇṭhāti, so tena attamano hoti.",
+          "en": "But if, while recollecting the Buddha, the teaching, and the Saṅgha in this way, equanimity based on the skillful does become stabilized in them, they’re happy with that."
+        },
+        {
+          "scid": "mn28:25.11",
+          "pli": "Ettāvatāpi kho, āvuso, bhikkhuno bahukataṃ hoti.",
+          "en": "At this point, much has been done by that mendicant."
+        },
+        {
+          "scid": "mn28:26.1",
+          "pli": "Seyyathāpi, āvuso, kaṭṭhañca paṭicca valliñca paṭicca tiṇañca paṭicca mattikañca paṭicca ākāso parivārito agārantveva saṅkhaṃ gacchati;",
+          "en": "When a space is enclosed by sticks, creepers, grass, and mud it becomes known as a ‘building’."
+        },
+        {
+          "scid": "mn28:26.2",
+          "pli": "evameva kho, āvuso, aṭṭhiñca paṭicca nhāruñca paṭicca maṃsañca paṭicca cammañca paṭicca ākāso parivārito rūpantveva saṅkhaṃ gacchati.",
+          "en": "In the same way, when a space is enclosed by bones, sinews, flesh, and skin it becomes known as a ‘form’."
+        },
+        {
+          "scid": "mn28:26.3",
+          "pli": "Ajjhattikañceva, āvuso, cakkhuṃ aparibhinnaṃ hoti, bāhirā ca rūpā na āpāthaṃ āgacchanti, no ca tajjo samannāhāro hoti, neva tāva tajjassa viññāṇabhāgassa pātubhāvo hoti.",
+          "en": "Reverends, though the eye is intact internally, so long as exterior sights don’t come into range and there’s no corresponding attention, there’s no manifestation of the corresponding type of consciousness."
+        },
+        {
+          "scid": "mn28:27.1",
+          "pli": "Ajjhattikañceva, āvuso, cakkhuṃ aparibhinnaṃ hoti bāhirā ca rūpā āpāthaṃ āgacchanti, no ca tajjo samannāhāro hoti, neva tāva tajjassa viññāṇabhāgassa pātubhāvo hoti.",
+          "en": "Though the eye is intact internally and exterior sights come into range, so long as there’s no corresponding attention, there’s no manifestation of the corresponding type of consciousness."
+        },
+        {
+          "scid": "mn28:27.2",
+          "pli": "Yato ca kho, āvuso, ajjhattikañceva cakkhuṃ aparibhinnaṃ hoti, bāhirā ca rūpā āpāthaṃ āgacchanti, tajjo ca samannāhāro hoti. Evaṃ tajjassa viññāṇabhāgassa pātubhāvo hoti.",
+          "en": "But when the eye is intact internally and exterior sights come into range and there is corresponding attention, there is the manifestation of the corresponding type of consciousness."
+        },
+        {
+          "scid": "mn28:27.3",
+          "pli": "Yaṃ tathābhūtassa rūpaṃ taṃ rūpupādānakkhandhe saṅgahaṃ gacchati, yā tathābhūtassa vedanā sā vedanupādānakkhandhe saṅgahaṃ gacchati, yā tathābhūtassa saññā sā saññupādānakkhandhe saṅgahaṃ gacchati, ye tathābhūtassa saṅkhārā te saṅkhārupādānakkhandhe saṅgahaṃ gacchanti, yaṃ tathābhūtassa viññāṇaṃ taṃ viññāṇupādānakkhandhe saṅgahaṃ gacchati.",
+          "en": "The form produced in this way is included in the grasping aggregate of form. The feeling, perception, choices, and consciousness produced in this way are each included in the corresponding grasping aggregate."
+        },
+        {
+          "scid": "mn28:27.4",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn28:27.5",
+          "pli": "‘evañhi kira imesaṃ pañcannaṃ upādānakkhandhānaṃ saṅgaho sannipāto samavāyo hoti.",
+          "en": "‘So this is how there comes to be inclusion, gathering together, and joining together into these five grasping aggregates."
+        },
+        {
+          "scid": "mn28:27.6",
+          "pli": "Vuttaṃ kho panetaṃ bhagavatā:",
+          "en": "But the Buddha has said:"
+        },
+        {
+          "scid": "mn28:27.7",
+          "pli": "“yo paṭiccasamuppādaṃ passati so dhammaṃ passati;",
+          "en": "“One who sees dependent origination sees the teaching."
+        },
+        {
+          "scid": "mn28:27.8",
+          "pli": "yo dhammaṃ passati so paṭiccasamuppādaṃ passatī”ti.",
+          "en": "One who sees the teaching sees dependent origination.”"
+        },
+        {
+          "scid": "mn28:27.9",
+          "pli": "Paṭiccasamuppannā kho panime yadidaṃ pañcupādānakkhandhā.",
+          "en": "And these five grasping aggregates are indeed dependently originated."
+        },
+        {
+          "scid": "mn28:27.10",
+          "pli": "Yo imesu pañcasu upādānakkhandhesu chando ālayo anunayo ajjhosānaṃ so dukkhasamudayo.",
+          "en": "The desire, clinging, attraction, and attachment for these five grasping aggregates is the origin of suffering."
+        },
+        {
+          "scid": "mn28:27.11",
+          "pli": "Yo imesu pañcasu upādānakkhandhesu chandarāgavinayo chandarāgappahānaṃ, so dukkhanirodho’ti.",
+          "en": "Giving up and getting rid of desire and greed for these five grasping aggregates is the cessation of suffering.’"
+        },
+        {
+          "scid": "mn28:27.12",
+          "pli": "Ettāvatāpi kho, āvuso, bhikkhuno bahukataṃ hoti.",
+          "en": "At this point, much has been done by that mendicant."
+        },
+        {
+          "scid": "mn28:29-30.1",
+          "pli": "Ajjhattikañceva, āvuso, sotaṃ aparibhinnaṃ hoti … pe …",
+          "en": "Though the ear …"
+        },
+        {
+          "scid": "mn28:31-32.1",
+          "pli": "ghānaṃ aparibhinnaṃ hoti …",
+          "en": "nose …"
+        },
+        {
+          "scid": "mn28:33-34.1",
+          "pli": "jivhā aparibhinnā hoti …",
+          "en": "tongue …"
+        },
+        {
+          "scid": "mn28:35-36.1",
+          "pli": "kāyo aparibhinno hoti …",
+          "en": "body …"
+        },
+        {
+          "scid": "mn28:37.1",
+          "pli": "mano aparibhinno hoti, bāhirā ca dhammā na āpāthaṃ āgacchanti no ca tajjo samannāhāro hoti, neva tāva tajjassa viññāṇabhāgassa pātubhāvo hoti.",
+          "en": "mind is intact internally, so long as exterior thoughts don’t come into range and there’s no corresponding attention, there’s no manifestation of the corresponding type of consciousness."
+        },
+        {
+          "scid": "mn28:38.1",
+          "pli": "Ajjhattiko ceva, āvuso, mano aparibhinno hoti, bāhirā ca dhammā āpāthaṃ āgacchanti, no ca tajjo samannāhāro hoti, neva tāva tajjassa viññāṇabhāgassa pātubhāvo hoti.",
+          "en": "Though the mind is intact internally and exterior thoughts come into range, so long as there’s no corresponding attention, there’s no manifestation of the corresponding type of consciousness."
+        },
+        {
+          "scid": "mn28:38.2",
+          "pli": "Yato ca kho, āvuso, ajjhattiko ceva mano aparibhinno hoti, bāhirā ca dhammā āpāthaṃ āgacchanti, tajjo ca samannāhāro hoti, evaṃ tajjassa viññāṇabhāgassa pātubhāvo hoti.",
+          "en": "But when the mind is intact internally and exterior thoughts come into range and there is corresponding attention, there is the manifestation of the corresponding type of consciousness."
+        },
+        {
+          "scid": "mn28:38.3",
+          "pli": "Yaṃ tathābhūtassa rūpaṃ taṃ rūpupādānakkhandhe saṅgahaṃ gacchati, yā tathābhūtassa vedanā sā vedanupādānakkhandhe saṅgahaṃ gacchati, yā tathābhūtassa saññā sā saññupādānakkhandhe saṅgahaṃ gacchati, ye tathābhūtassa saṅkhārā te saṅkhārupādānakkhandhe saṅgahaṃ gacchanti, yaṃ tathābhūtassa viññāṇaṃ taṃ viññāṇupādānakkhandhe saṅgahaṃ gacchati.",
+          "en": "The form produced in this way is included in the grasping aggregate of form. The feeling, perception, choices, and consciousness produced in this way are each included in the corresponding grasping aggregate."
+        },
+        {
+          "scid": "mn28:38.4",
+          "pli": "So evaṃ pajānāti:",
+          "en": "They understand:"
+        },
+        {
+          "scid": "mn28:38.5",
+          "pli": "‘evañhi kira imesaṃ pañcannaṃ upādānakkhandhānaṃ saṅgaho sannipāto samavāyo hoti.",
+          "en": "‘So this is how there comes to be inclusion, gathering together, and joining together into these five grasping aggregates."
+        },
+        {
+          "scid": "mn28:38.6",
+          "pli": "Vuttaṃ kho panetaṃ bhagavatā:",
+          "en": "But the Buddha has also said:"
+        },
+        {
+          "scid": "mn28:38.7",
+          "pli": "“yo paṭiccasamuppādaṃ passati so dhammaṃ passati;",
+          "en": "“One who sees dependent origination sees the teaching."
+        },
+        {
+          "scid": "mn28:38.8",
+          "pli": "yo dhammaṃ passati so paṭiccasamuppādaṃ passatī”ti.",
+          "en": "One who sees the teaching sees dependent origination.”"
+        },
+        {
+          "scid": "mn28:38.9",
+          "pli": "Paṭiccasamuppannā kho panime yadidaṃ pañcupādānakkhandhā.",
+          "en": "And these five grasping aggregates are indeed dependently originated."
+        },
+        {
+          "scid": "mn28:38.10",
+          "pli": "Yo imesu pañcasu upādānakkhandhesu chando ālayo anunayo ajjhosānaṃ so dukkhasamudayo.",
+          "en": "The desire, clinging, attraction, and attachment for these five grasping aggregates is the origin of suffering."
+        },
+        {
+          "scid": "mn28:38.11",
+          "pli": "Yo imesu pañcasu upādānakkhandhesu chandarāgavinayo chandarāgappahānaṃ so dukkhanirodho’ti.",
+          "en": "Giving up and getting rid of desire and greed for these five grasping aggregates is the cessation of suffering.’"
+        },
+        {
+          "scid": "mn28:38.12",
+          "pli": "Ettāvatāpi kho, āvuso, bhikkhuno bahukataṃ hotī”ti.",
+          "en": "At this point, much has been done by that mendicant.”"
+        },
+        {
+          "scid": "mn28:38.13",
+          "pli": "Idamavoca āyasmā sāriputto.",
+          "en": "That’s what Venerable Sāriputta said."
+        },
+        {
+          "scid": "mn28:38.14",
+          "pli": "Attamanā te bhikkhū āyasmato sāriputtassa bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what Sāriputta said."
+        },
+        {
+          "scid": "mn28:38.15",
+          "pli": "Mahāhatthipadopamasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn28/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 28",
+    "volpages": "MN i 184",
+    "uid": "mn28",
+    "blurb": "Sāriputta gives an elaborate demonstration of how, just as any footprint can fit inside an elephant’s, all the Buddha’s teaching can fit inside the four noble truths. This offers an overall template for organizing the Buddha’s teachings.",
+    "difficulty": 3,
+    "original_title": "Mahāhatthipadopama Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Longer Simile of the Elephant’s Footprint",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn28_sujato",
+        "segmented": true,
+        "title": "The Longer Simile of the Elephant’s Footprint"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn28_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Greater Discourse on the Simile of the Elephant's Footprint"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn28_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Greater Discourse on the Simile of the Elephant’s Footprint"
+      }
+    ],
+    "parallel_count": 6,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn37.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Free of Anger",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Free of Hostility",
+      "uid": "sn37.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Five Threats",
+      "uid": "sn37.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.15:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.15:0.2",
+          "pli": "2. Dutiyapeyyālavagga",
+          "en": "2. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.15:0.3",
+          "pli": "15. Akkodhanasutta",
+          "en": "15. Free of Anger"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.15:1.1",
+          "pli": "Atha kho āyasmā anuruddho yena bhagavā tenupasaṅkami; upasaṅkamitvā … pe … ekamantaṃ nisinno kho āyasmā anuruddho bhagavantaṃ etadavoca:",
+          "en": "Then Venerable Anuruddha went up to the Buddha … and said to him:"
+        },
+        {
+          "scid": "sn37.15:1.2",
+          "pli": "“idhāhaṃ, bhante, mātugāmaṃ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantaṃ.",
+          "en": "“Sometimes, sir, with my clairvoyance that’s purified and superhuman, I see that a female—when her body breaks up, after death—is reborn in a good place, a heavenly realm."
+        },
+        {
+          "scid": "sn37.15:1.3",
+          "pli": "Katīhi nu kho, bhante, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī”ti?",
+          "en": "How many qualities do females have so that they’re reborn in a good place, a heavenly realm?”"
+        },
+        {
+          "scid": "sn37.15:2.1",
+          "pli": "“Pañcahi kho, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+          "en": "“Anuruddha, when they have five qualities females—when their body breaks up, after death—are reborn in a good place, a heavenly realm."
+        },
+        {
+          "scid": "sn37.15:2.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn37.15:2.3",
+          "pli": "Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, akkodhano ca hoti, paññavā ca hoti—",
+          "en": "They’re faithful, conscientious, prudent, free of anger, and wise."
+        },
+        {
+          "scid": "sn37.15:2.4",
+          "pli": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī”ti.",
+          "en": "When they have these five qualities females—when their body breaks up, after death—are reborn in a good place, a heavenly realm.”"
+        },
+        {
+          "scid": "sn37.15:2.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Then Venerable Anuruddha went up to the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.15",
+    "volpages": "SN iv 243",
+    "uid": "sn37.15",
+    "blurb": "A woman with five good qualities has a good rebirth.",
+    "difficulty": null,
+    "original_title": "Akkodhana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Free of Anger",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.15_sujato",
+        "segmented": true,
+        "title": "Free of Anger"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

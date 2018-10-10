@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn18.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn18.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Sights, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Consciousness",
+      "uid": "sn18.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Eye, Etc.",
+      "uid": "sn18.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn18.2:0.1",
+          "pli": "Saṃyutta Nikāya 18",
+          "en": "Linked Discourses 18"
+        },
+        {
+          "scid": "sn18.2:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The First Chapter"
+        },
+        {
+          "scid": "sn18.2:0.3",
+          "pli": "2. Rūpasutta",
+          "en": "2. Sights, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 18…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn18.2:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn18.2:1.2",
+          "pli": "“Taṃ kiṃ maññasi, rāhula, ",
+          "en": "“What do you think, Rāhula? "
+        },
+        {
+          "scid": "sn18.2:1.3",
+          "pli": "rūpā niccā vā aniccā vā”ti?",
+          "en": "Are sights permanent or impermanent?”"
+        },
+        {
+          "scid": "sn18.2:1.4",
+          "pli": "“Aniccā, bhante” … pe …",
+          "en": "“Impermanent, sir.” …"
+        },
+        {
+          "scid": "sn18.2:1.5",
+          "pli": "saddā …",
+          "en": "“… sounds …"
+        },
+        {
+          "scid": "sn18.2:1.6",
+          "pli": "gandhā …",
+          "en": "smells …"
+        },
+        {
+          "scid": "sn18.2:1.7",
+          "pli": "rasā …",
+          "en": "tastes …"
+        },
+        {
+          "scid": "sn18.2:1.8",
+          "pli": "phoṭṭhabbā …",
+          "en": "touches …"
+        },
+        {
+          "scid": "sn18.2:1.9",
+          "pli": "dhammā niccā vā aniccā vā”ti?",
+          "en": "Are thoughts permanent or impermanent?”"
+        },
+        {
+          "scid": "sn18.2:1.10",
+          "pli": "“Aniccā, bhante” …",
+          "en": "“Impermanent, sir.” …"
+        },
+        {
+          "scid": "sn18.2:1.11",
+          "pli": "“evaṃ passaṃ, rāhula, sutavā ariyasāvako rūpesupi nibbindati … saddesupi nibbindati … gandhesupi nibbindati … rasesupi nibbindati … phoṭṭhabbesupi nibbindati … dhammesupi nibbindati;",
+          "en": "“Seeing this, a learned noble disciple becomes disillusioned with sights, sounds, smells, tastes, touches, and thoughts."
+        },
+        {
+          "scid": "sn18.2:1.12",
+          "pli": "nibbindaṃ virajjati … pe …",
+          "en": "Being disillusioned they become dispassionate. …”"
+        },
+        {
+          "scid": "sn18.2:1.13",
+          "pli": "pajānātī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn18.2:1.14",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn18.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 18.2",
+    "volpages": "SN ii 245",
+    "uid": "sn18.2",
+    "blurb": "The Buddha answers Rāhula’s request by teaching on the external sense objects in light of the three characteristics.",
+    "difficulty": null,
+    "original_title": "Rūpa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sights, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn18.2_sujato",
+        "segmented": true,
+        "title": "Sights, Etc."
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 2
+  }
+}

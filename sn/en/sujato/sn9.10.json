@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "sn9.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn9.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Recitation",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unskillful Thoughts",
+      "uid": "sn9.11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Vajjian",
+      "uid": "sn9.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn9.10:0.1",
+          "pli": "Saṃyutta Nikāya 9",
+          "en": "Linked Discourses 9"
+        },
+        {
+          "scid": "sn9.10:0.2",
+          "pli": "1. Vanavagga",
+          "en": "1. In the Woods"
+        },
+        {
+          "scid": "sn9.10:0.3",
+          "pli": "10. Sajjhāyasutta",
+          "en": "10. Recitation"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn9.10:1.1",
+          "pli": "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe.",
+          "en": "At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove."
+        },
+        {
+          "scid": "sn9.10:1.2",
+          "pli": "Tena kho pana samayena so bhikkhu yaṃ sudaṃ pubbe ativelaṃ sajjhāyabahulo viharati so aparena samayena appossukko tuṇhībhūto saṅkasāyati.",
+          "en": "Now at that time that mendicant had previously been spending too much time in recitation. But some time later they adhered to passivity and silence."
+        },
+        {
+          "scid": "sn9.10:1.3",
+          "pli": "Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno dhammaṃ asuṇantī yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi:",
+          "en": "Not hearing the teaching, the deity haunting that forest approached that mendicant, and addressed them in verse:"
+        },
+        {
+          "scid": "sn9.10:2.1",
+          "pli": "“Kasmā tuvaṃ dhammapadāni bhikkhu,",
+          "en": "“Mendicant, why don’t you recite passages of the teaching,"
+        },
+        {
+          "scid": "sn9.10:2.2",
+          "pli": "Nādhīyasi bhikkhuhi saṃvasanto;",
+          "en": "living together with other mendicants?"
+        },
+        {
+          "scid": "sn9.10:2.3",
+          "pli": "Sutvāna dhammaṃ labhatippasādaṃ,",
+          "en": "When you hear the teaching confidence grows;"
+        },
+        {
+          "scid": "sn9.10:2.4",
+          "pli": "Diṭṭheva dhamme labhatippasaṃsan”ti.",
+          "en": "and the reciter is praised in the present life.”"
+        },
+        {
+          "scid": "sn9.10:3.1",
+          "pli": "“Ahu pure dhammapadesu chando,",
+          "en": "“I used to be enthusiastic about passages of the teaching,"
+        },
+        {
+          "scid": "sn9.10:3.2",
+          "pli": "Yāva virāgena samāgamimha;",
+          "en": "so long as I’d not realized dispassion."
+        },
+        {
+          "scid": "sn9.10:3.3",
+          "pli": "Yato virāgena samāgamimha,",
+          "en": "But then I realized dispassion, which the good call"
+        },
+        {
+          "scid": "sn9.10:3.4",
+          "pli": "Yaṃ kiñci diṭṭhaṃva sutaṃ mutaṃ vā;",
+          "en": "the laying to rest by completely understanding"
+        },
+        {
+          "scid": "sn9.10:3.5",
+          "pli": "Aññāya nikkhepanamāhu santo”ti.",
+          "en": "whatever is seen, heard, and thought.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time one of the mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn9.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 9.10//SN 230",
+    "volpages": "SN i 202//SN i 435",
+    "uid": "sn9.10",
+    "blurb": "When a mendicant gives up their habit of reciting the texts, a deity questions them. But it seems they have now found peace.",
+    "difficulty": null,
+    "original_title": "Sajjhāya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Recitation",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn9.10_sujato",
+        "segmented": true,
+        "title": "Recitation"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 10
+  }
+}

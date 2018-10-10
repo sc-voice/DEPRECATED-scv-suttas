@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "an3.153",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.153",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Broken (4th)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Homage",
+      "uid": "an3.154"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Broken (3rd)",
+      "uid": "an3.152"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.153:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": ""
+        },
+        {
+          "scid": "an3.153:0.2",
+          "pli": "15. Maṅgalavagga",
+          "en": "15. Good Fortune"
+        },
+        {
+          "scid": "an3.153:0.3",
+          "pli": "153. Catutthakhatasutta",
+          "en": "153. Broken (4th)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.153:1.1",
+          "pli": "“Tīhi, bhikkhave … pe …",
+          "en": "“When a foolish, incompetent, bad person has three qualities they keep themselves broken and damaged. …"
+        },
+        {
+          "scid": "an3.153:1.2",
+          "pli": "asucinā kāyakammena, asucinā vacīkammena, asucinā manokammena … pe ….",
+          "en": "Filthy deeds by way of body, speech, and mind. …"
+        },
+        {
+          "scid": "an3.153:2.1",
+          "pli": "Tīhi, bhikkhave … pe …",
+          "en": "When an astute, competent, good person has three qualities they keep themselves healthy and whole. …"
+        },
+        {
+          "scid": "an3.153:2.2",
+          "pli": "sucinā kāyakammena, sucinā vacīkammena, sucinā manokammena—",
+          "en": "Pure deeds by way of body, speech, and mind. …”"
+        },
+        {
+          "scid": "an3.153:2.3",
+          "pli": "imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "an3.153:2.4",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“When a foolish…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.153/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.153//AN 3.148",
+    "volpages": "AN i 294",
+    "uid": "an3.153",
+    "blurb": "Pure deeds keep you whole.",
+    "difficulty": null,
+    "original_title": "Catutthakhata Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Broken (4th)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.153_sujato",
+        "segmented": true,
+        "title": "Broken (4th)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

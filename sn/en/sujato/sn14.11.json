@@ -1,0 +1,195 @@
+{
+  "sutta_uid": "sn14.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn14.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Seven Elements",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With a Cause",
+      "uid": "sn14.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "No Diversity of Gains",
+      "uid": "sn14.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn14.11:0.1",
+          "pli": "Saṃyutta Nikāya 14",
+          "en": "Linked Discourses 14"
+        },
+        {
+          "scid": "sn14.11:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. The Second Chapter"
+        },
+        {
+          "scid": "sn14.11:0.3",
+          "pli": "11. Sattadhātusutta",
+          "en": "11. Seven Elements"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 14…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn14.11:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn14.11:1.2",
+          "pli": "“Sattimā, bhikkhave, dhātuyo.",
+          "en": "“Mendicants, there are these seven elements."
+        },
+        {
+          "scid": "sn14.11:1.3",
+          "pli": "Katamā satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "sn14.11:1.4",
+          "pli": "Ābhādhātu, subhadhātu, ākāsānañcāyatanadhātu, viññāṇañcāyatanadhātu, ākiñcaññāyatanadhātu, nevasaññānāsaññāyatanadhātu, saññāvedayitanirodhadhātu—",
+          "en": "The element of light, the element of beauty, the element of the dimension of infinite space, the element of the dimension of infinite consciousness, the element of the dimension of nothingness, the element of the dimension of neither perception nor non-perception, and the element of the cessation of perception and feeling."
+        },
+        {
+          "scid": "sn14.11:1.5",
+          "pli": "imā kho, bhikkhave, satta dhātuyo”ti.",
+          "en": "These are the seven elements.”"
+        },
+        {
+          "scid": "sn14.11:2.1",
+          "pli": "Evaṃ vutte, aññataro bhikkhu bhagavantaṃ etadavoca:",
+          "en": "When he said this, one of the mendicants asked the Buddha:"
+        },
+        {
+          "scid": "sn14.11:2.2",
+          "pli": "“yā cāyaṃ, bhante, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu yā ca nevasaññānāsaññāyatanadhātu yā ca saññāvedayitanirodhadhātu—imā nu kho, bhante, dhātuyo kiṃ paṭicca paññāyantī”ti?",
+          "en": "“Sir, due to what does each of these elements appear?”"
+        },
+        {
+          "scid": "sn14.11:3.1",
+          "pli": "“Yāyaṃ, bhikkhu, ābhādhātu—ayaṃ dhātu andhakāraṃ paṭicca paññāyati.",
+          "en": "“Mendicant, the element of light appears due to the element of darkness."
+        },
+        {
+          "scid": "sn14.11:3.2",
+          "pli": "Yāyaṃ, bhikkhu, subhadhātu—ayaṃ dhātu asubhaṃ paṭicca paññāyati.",
+          "en": "The element of beauty appears due to the element of ugliness."
+        },
+        {
+          "scid": "sn14.11:3.3",
+          "pli": "Yāyaṃ, bhikkhu, ākāsānañcāyatanadhātu—ayaṃ dhātu rūpaṃ paṭicca paññāyati.",
+          "en": "The element of the dimension of infinite space appears due to the element of form."
+        },
+        {
+          "scid": "sn14.11:3.4",
+          "pli": "Yāyaṃ, bhikkhu, viññāṇañcāyatanadhātu—ayaṃ dhātu ākāsānañcāyatanaṃ paṭicca paññāyati.",
+          "en": "The element of the dimension of infinite consciousness appears due to the element of the dimension of infinite space."
+        },
+        {
+          "scid": "sn14.11:3.5",
+          "pli": "Yāyaṃ, bhikkhu, ākiñcaññāyatanadhātu—ayaṃ dhātu viññāṇañcāyatanaṃ paṭicca paññāyati.",
+          "en": "The element of the dimension of nothingness appears due to the element of the dimension of infinite consciousness."
+        },
+        {
+          "scid": "sn14.11:3.6",
+          "pli": "Yāyaṃ, bhikkhu, nevasaññānāsaññāyatanadhātu—ayaṃ dhātu ākiñcaññāyatanaṃ paṭicca paññāyati.",
+          "en": "The element of the dimension of neither perception nor non-perception appears due to the element of the dimension of nothingness."
+        },
+        {
+          "scid": "sn14.11:3.7",
+          "pli": "Yāyaṃ, bhikkhu, saññāvedayitanirodhadhātu—ayaṃ dhātu nirodhaṃ paṭicca paññāyatī”ti.",
+          "en": "The element of the cessation of perception and feeling appears due to the element of cessation.”"
+        },
+        {
+          "scid": "sn14.11:4.1",
+          "pli": "“Yā cāyaṃ, bhante, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu yā ca nevasaññānāsaññāyatanadhātu yā ca saññāvedayitanirodhadhātu—imā nu kho, bhante, dhātuyo kathaṃ samāpatti pattabbā”ti?",
+          "en": "“Sir, how is each of these elements to be attained?”"
+        },
+        {
+          "scid": "sn14.11:5.1",
+          "pli": "“Yā cāyaṃ, bhikkhu, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu—imā dhātuyo saññāsamāpatti pattabbā.",
+          "en": "“The elements of light, beauty, the dimension of infinite space, the dimension of infinite consciousness, and the dimension of nothingness are attainments with perception."
+        },
+        {
+          "scid": "sn14.11:5.2",
+          "pli": "Yāyaṃ, bhikkhu, nevasaññānāsaññāyatanadhātu—ayaṃ dhātu saṅkhārāvasesasamāpatti pattabbā.",
+          "en": "The element of the dimension of neither perception nor non-perception is an attainment with only a residue of conditioned phenomena."
+        },
+        {
+          "scid": "sn14.11:5.3",
+          "pli": "Yāyaṃ, bhikkhu, saññāvedayitanirodhadhātu—ayaṃ dhātu nirodhasamāpatti pattabbā”ti.",
+          "en": "The element of the cessation of perception and feeling is an attainment of cessation.”"
+        },
+        {
+          "scid": "sn14.11:5.4",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn14.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 14.11",
+    "volpages": "SN ii 149",
+    "uid": "sn14.11",
+    "blurb": "A rare group of seven elements: light, beauty, the four formless states, and the attainment of cessation. Each of these is known due to the negation of something: light vs. darkness, beauty vs. ugliness, and so on. ",
+    "difficulty": null,
+    "original_title": "Sattadhātu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Seven Elements",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn14.11_sujato",
+        "segmented": true,
+        "title": "Seven Elements"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

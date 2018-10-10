@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn22.74",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.74",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Origin",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Origin (2nd)",
+      "uid": "sn22.75"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gratification",
+      "uid": "sn22.73"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.74:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.74:0.2",
+          "pli": "8. Khajjanīyavagga",
+          "en": "8. Itchy"
+        },
+        {
+          "scid": "sn22.74:0.3",
+          "pli": "74. Samudayasutta",
+          "en": "74. Origin"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.74:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn22.74:1.2",
+          "pli": "“Assutavā, bhikkhave, puthujjano rūpassa samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti.",
+          "en": "“Mendicants, an uneducated ordinary person doesn’t truly understand the origin, the ending, the gratification, the drawback, and the escape when it comes to form,"
+        },
+        {
+          "scid": "sn22.74:1.3",
+          "pli": "Vedanāya …",
+          "en": "feeling,"
+        },
+        {
+          "scid": "sn22.74:1.4",
+          "pli": "saññāya …",
+          "en": "perception,"
+        },
+        {
+          "scid": "sn22.74:1.5",
+          "pli": "saṅkhārānaṃ …",
+          "en": "choices,"
+        },
+        {
+          "scid": "sn22.74:1.6",
+          "pli": "viññāṇassa samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti.",
+          "en": "and consciousness."
+        },
+        {
+          "scid": "sn22.74:1.7",
+          "pli": "Sutavā ca kho, bhikkhave, ariyasāvako rūpassa samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti.",
+          "en": "An educated noble disciple does truly understand the origin, the ending, the gratification, the drawback, and the escape when it comes to form,"
+        },
+        {
+          "scid": "sn22.74:1.8",
+          "pli": "Vedanāya …",
+          "en": "feeling,"
+        },
+        {
+          "scid": "sn22.74:1.9",
+          "pli": "saññāya …",
+          "en": "perception,"
+        },
+        {
+          "scid": "sn22.74:1.10",
+          "pli": "saṅkhārānaṃ …",
+          "en": "choices,"
+        },
+        {
+          "scid": "sn22.74:1.11",
+          "pli": "viññāṇassa samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānātī”ti.",
+          "en": "and consciousness.”"
+        },
+        {
+          "scid": "sn22.74:1.12",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.74/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.74",
+    "volpages": "SN iii 82",
+    "uid": "sn22.74",
+    "blurb": "Only a noble disciple truly understand the five aggregates’ origin, ending, gratification, drawback, and escape.",
+    "difficulty": null,
+    "original_title": "Samudaya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Origin",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.74_sujato",
+        "segmented": true,
+        "title": "Origin"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.74_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Origin (1)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

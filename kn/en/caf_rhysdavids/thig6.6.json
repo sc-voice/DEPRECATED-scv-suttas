@@ -1,0 +1,139 @@
+{
+  "sutta_uid": "thig6.6",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thig6.6",
+    "lang": "en",
+    "is_root": false,
+    "title": "Mahā-Pajāpatī the Gotamid",
+    "author": "C.A.F. Rhys Davids",
+    "author_short": "C.A.F. Rhys Davids",
+    "author_uid": "caf_rhysdavids",
+    "next": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Guttā",
+      "uid": "thig6.7"
+    },
+    "previous": {
+      "author_uid": "caf_rhysdavids",
+      "lang": "en",
+      "name": "Anopamā",
+      "uid": "thig6.5"
+    }
+  },
+  "metaarea": "\n<p>This translation of the Therīgāthā is by <span class=\"author\">Caroline A.F. Rhys Davids</span> and was published under the title Psalms of the Sisters, 1909.</p>\n<p>The text is in the public domain.</p>\n<p>Prepared for SuttaCentral by <span class=\"editor\">Ayya Kathrin Vimalañāṇī</span>.</p>",
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig6.6:0.1",
+          "en": "Therīgāthā 6.6"
+        },
+        {
+          "scid": "thig6.6:0.2",
+          "en": "Mahā-Pajāpatī the Gotamid",
+          "pli": "Mahāpajāpatigotamītherīgāthā"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā 6…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "thig6.6:1.0.1",
+          "en": "Therīgāthā"
+        },
+        {
+          "scid": "thig6.6:1.0.2",
+          "en": "Canto 6"
+        },
+        {
+          "scid": "thig6.6:1.0.3",
+          "en": "6. Mahā-Pajāpatī the Gotamid"
+        },
+        {
+          "scid": "thig6.6:1.0.4",
+          "en": "“Buddha the Wake, the Hero, hail! all hail! Supreme o’er every being that hath life, Who from all ill and sorrow hast released Me and so many, many stricken folk."
+        },
+        {
+          "scid": "thig6.6:1.0.5",
+          "en": "Now have I understood how Ill doth come. Craving, the Cause, in me is drièd up. Have I not trod, have I not touched the End Of Ill—the Ariyan, the Eightfold Path?"
+        },
+        {
+          "scid": "thig6.6:1.0.6",
+          "en": "Oh! but ’tis long I’ve wandered down all time. Living as mother, father, brother, son, And as grandparent in the ages past— Not knowing how and what things really are, And never finding what I needed sore."
+        },
+        {
+          "scid": "thig6.6:1.0.7",
+          "en": "But now mine eyes have seen th’ Exalted One; And now I know this living frame’s the last, And shattered is th’ unending round of births. No more Pajāpatī shall come to be!"
+        },
+        {
+          "scid": "thig6.6:1.0.8",
+          "en": "Behold the company who learn of him— In happy concord of fraternity, Of strenuous energy and resolute, From strength to strength advancing toward the Goal— The noblest homage this to Buddhas paid."
+        },
+        {
+          "scid": "thig6.6:1.0.9",
+          "en": "Oh! surely for the good of countless lives Did sister Māyā bring forth Gotama, Dispeller of the burden of our ill, Who lay o’erweighted with disease and death!”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Therīgāthā…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig6.6/en/caf_rhysdavids",
+  "author_uid": "caf_rhysdavids",
+  "suttaplex": {
+    "acronym": "Thig 6.6",
+    "volpages": "Thig 138",
+    "uid": "thig6.6",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mahāpajāpatigotamītherīgāthā",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mahā-Pajāpatī the Gotamid",
+    "translations": [
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig6.6_caf_rhysdavids",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Mahā-Pajāpatī the Gotamid"
+      },
+      {
+        "author": "Andrew Olendzki",
+        "author_short": "Olendzki",
+        "author_uid": "olendzki",
+        "id": "en_thig6.6_olendzki",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Maha Pajapati (Gotami) Theri: A Mother's Blessing"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 6
+  }
+}

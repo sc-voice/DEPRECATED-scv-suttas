@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn18.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn18.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Intention",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Craving",
+      "uid": "sn18.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perceptions",
+      "uid": "sn18.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn18.7:0.1",
+          "pli": "Saṃyutta Nikāya 18",
+          "en": "Linked Discourses 18"
+        },
+        {
+          "scid": "sn18.7:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The First Chapter"
+        },
+        {
+          "scid": "sn18.7:0.3",
+          "pli": "7. Sañcetanāsutta",
+          "en": "7. Intention"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 18…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn18.7:1.1",
+          "pli": "Sāvatthiyaṃ viharati.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn18.7:1.2",
+          "pli": "“Taṃ kiṃ maññasi, rāhula, ",
+          "en": "“What do you think, Rāhula? "
+        },
+        {
+          "scid": "sn18.7:1.3",
+          "pli": "rūpasañcetanā niccā vā aniccā vā”ti?",
+          "en": "Is intention regarding sights permanent or impermanent?”"
+        },
+        {
+          "scid": "sn18.7:1.4",
+          "pli": "“Aniccā, bhante” …",
+          "en": "“Impermanent, sir.” …"
+        },
+        {
+          "scid": "sn18.7:1.5",
+          "pli": "“saddasañcetanā … pe …",
+          "en": "“… intention regarding sounds …"
+        },
+        {
+          "scid": "sn18.7:1.6",
+          "pli": "gandhasañcetanā …",
+          "en": "intention regarding smells …"
+        },
+        {
+          "scid": "sn18.7:1.7",
+          "pli": "rasasañcetanā …",
+          "en": "intention regarding tastes …"
+        },
+        {
+          "scid": "sn18.7:1.8",
+          "pli": "phoṭṭhabbasañcetanā …",
+          "en": "intention regarding touches …"
+        },
+        {
+          "scid": "sn18.7:1.9",
+          "pli": "dhammasañcetanā niccā vā aniccā vā”ti?",
+          "en": "Is intention regarding thoughts permanent or impermanent?”"
+        },
+        {
+          "scid": "sn18.7:1.10",
+          "pli": "“Aniccā, bhante” …",
+          "en": "“Impermanent, sir.” …"
+        },
+        {
+          "scid": "sn18.7:1.11",
+          "pli": "“evaṃ passaṃ, rāhula, sutavā ariyasāvako rūpasañcetanāyapi nibbindati … pe … saddasañcetanāyapi nibbindati … gandhasañcetanāyapi nibbindati … rasasañcetanāyapi nibbindati … phoṭṭhabbasañcetanāyapi nibbindati … dhammasañcetanāyapi nibbindati … pe …",
+          "en": "“Seeing this, a learned noble disciple becomes disillusioned with intention regarding sights, sounds, smells, tastes, touches, and thoughts. …”"
+        },
+        {
+          "scid": "sn18.7:1.12",
+          "pli": "pajānātī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn18.7:1.13",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn18.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 18.7",
+    "volpages": "SN ii 247",
+    "uid": "sn18.7",
+    "blurb": "The Buddha answers Rāhula’s request by teaching on intentions in light of the three characteristics.",
+    "difficulty": null,
+    "original_title": "Sañcetanā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Intention",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn18.7_sujato",
+        "segmented": true,
+        "title": "Intention"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

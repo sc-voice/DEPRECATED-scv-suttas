@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn48.59",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.59",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Arising (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Arising (2nd)",
+      "uid": "sn48.60"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Boar’s Cave",
+      "uid": "sn48.58"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.59:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.59:0.2",
+          "pli": "6. Sūkarakhatavagga",
+          "en": "6. The Boar’s Cave"
+        },
+        {
+          "scid": "sn48.59:0.3",
+          "pli": "59. Paṭhamauppādasutta",
+          "en": "59. Arising (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.59:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn48.59:1.2",
+          "pli": "“Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa.",
+          "en": "“Mendicants, these five faculties don’t arise to be developed and cultivated except when a Realized One, a perfected one, a fully awakened Buddha has appeared."
+        },
+        {
+          "scid": "sn48.59:1.3",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn48.59:1.4",
+          "pli": "Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ—",
+          "en": "The faculties of faith, energy, mindfulness, immersion, and wisdom."
+        },
+        {
+          "scid": "sn48.59:1.5",
+          "pli": "imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassā”ti.",
+          "en": "These five faculties don’t arise to be developed and cultivated except when a Realized One, a perfected one, a fully awakened Buddha has appeared.”"
+        },
+        {
+          "scid": "sn48.59:1.6",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.59/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 48.59",
+    "volpages": "SN v 235",
+    "uid": "sn48.59",
+    "blurb": "The five faculties only arise in the dispensation of a Realized One.",
+    "difficulty": null,
+    "original_title": "Paṭhamauppāda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Arising (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.59_sujato",
+        "segmented": true,
+        "title": "Arising (1st)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

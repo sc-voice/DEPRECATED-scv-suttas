@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn43.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn43.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Placing the Mind and Keeping it Connected",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Emptiness Immersion",
+      "uid": "sn43.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Serenity and Discernment",
+      "uid": "sn43.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn43.3:0.1",
+          "pli": "Saṃyutta Nikāya 43",
+          "en": "Linked Discourses 43"
+        },
+        {
+          "scid": "sn43.3:0.2",
+          "pli": "1. Paṭhamavagga",
+          "en": "1. The First Chapter"
+        },
+        {
+          "scid": "sn43.3:0.3",
+          "pli": "3. Savitakkasavicārasutta",
+          "en": "3. Placing the Mind and Keeping it Connected"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 43…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn43.3:1.1",
+          "pli": "“Katamo ca, bhikkhave, asaṅkhatagāmimaggo?",
+          "en": "“And what is the path that leads to the unconditioned?"
+        },
+        {
+          "scid": "sn43.3:1.2",
+          "pli": "Savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi—ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo … pe ….",
+          "en": "Immersion with placing the mind and keeping it connected. Immersion without placing the mind, but just keeping it connected. Immersion without placing the mind or keeping it connected. …”"
+        },
+        {
+          "scid": "sn43.3:1.3",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“And what is the path that leads…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn43.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 43.3",
+    "volpages": "SN iv 360",
+    "uid": "sn43.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Savitakkasavicāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Placing the Mind and Keeping it Connected",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn43.3_sujato",
+        "segmented": true,
+        "title": "Placing the Mind and Keeping it Connected"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn43.3_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "With Thought and Examination"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

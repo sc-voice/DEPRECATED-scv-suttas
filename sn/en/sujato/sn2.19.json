@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn2.19",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.19",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Uttara",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Anāthapiṇḍika",
+      "uid": "sn2.20"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kakudha",
+      "uid": "sn2.18"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.19:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.19:0.2",
+          "pli": "2. Anāthapiṇḍikavagga",
+          "en": "2. With Anāthapiṇḍika"
+        },
+        {
+          "scid": "sn2.19:0.3",
+          "pli": "19. Uttarasutta",
+          "en": "19. With Uttara"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.19:1.1",
+          "pli": "Rājagahanidānaṃ.",
+          "en": "At Rājagaha."
+        },
+        {
+          "scid": "sn2.19:1.2",
+          "pli": "Ekamantaṃ ṭhito kho uttaro devaputto bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, the god Uttara recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn2.19:2.1",
+          "pli": "“Upanīyati jīvitamappamāyu,",
+          "en": "“This life, so very short, is led onward."
+        },
+        {
+          "scid": "sn2.19:2.2",
+          "pli": "Jarūpanītassa na santi tāṇā;",
+          "en": "There’s no shelter for someone who’s been led on by old age."
+        },
+        {
+          "scid": "sn2.19:2.3",
+          "pli": "Etaṃ bhayaṃ maraṇe pekkhamāno,",
+          "en": "Seeing this peril in death,"
+        },
+        {
+          "scid": "sn2.19:2.4",
+          "pli": "Puññāni kayirātha sukhāvahānī”ti.",
+          "en": "you should do good deeds that bring happiness.”"
+        },
+        {
+          "scid": "sn2.19:3.1",
+          "pli": "“Upanīyati jīvitamappamāyu,",
+          "en": "“This life, so very short, is led onward."
+        },
+        {
+          "scid": "sn2.19:3.2",
+          "pli": "Jarūpanītassa na santi tāṇā;",
+          "en": "There’s no shelter for someone who’s been led on by old age."
+        },
+        {
+          "scid": "sn2.19:3.3",
+          "pli": "Etaṃ bhayaṃ maraṇe pekkhamāno,",
+          "en": "Seeing this peril in death,"
+        },
+        {
+          "scid": "sn2.19:3.4",
+          "pli": "Lokāmisaṃ pajahe santipekkho”ti.",
+          "en": "one looking for peace would drop the world’s bait.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Rājagaha…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.19/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.19//SN 100",
+    "volpages": "SN i 54//SN i 125",
+    "uid": "sn2.19",
+    "blurb": "The god Uttara speaks of the transience of life, saying one should do good to be reborn in a happy future life. The Buddha replies that one should let go attachment.",
+    "difficulty": null,
+    "original_title": "Uttara Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Uttara",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.19_sujato",
+        "segmented": true,
+        "title": "With Uttara"
+      }
+    ],
+    "parallel_count": 9,
+    "biblio": null,
+    "num": 9
+  }
+}

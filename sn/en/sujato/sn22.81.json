@@ -1,0 +1,795 @@
+{
+  "sutta_uid": "sn22.81",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn22.81",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "At Pārileyya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Full Moon Night",
+      "uid": "sn22.82"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Beggars",
+      "uid": "sn22.80"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn22.81:0.1",
+          "pli": "Saṃyutta Nikāya 22",
+          "en": "Linked Discourses 22"
+        },
+        {
+          "scid": "sn22.81:0.2",
+          "pli": "8. Khajjanīyavagga",
+          "en": "8. Itchy"
+        },
+        {
+          "scid": "sn22.81:0.3",
+          "pli": "81. Pālileyyasutta",
+          "en": "81. At Pārileyya"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 22…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn22.81:1.1",
+          "pli": "Ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme.",
+          "en": "At one time the Buddha was staying near Kosambi, in Ghosita’s Monastery."
+        },
+        {
+          "scid": "sn22.81:1.2",
+          "pli": "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya kosambiṃ piṇḍāya pāvisi.",
+          "en": "Then the Buddha robed up in the morning and, taking his bowl and robe, entered Kosambi for alms."
+        },
+        {
+          "scid": "sn22.81:1.3",
+          "pli": "Kosambiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto sāmaṃ senāsanaṃ saṃsāmetvā pattacīvaramādāya anāmantetvā upaṭṭhāke anapaloketvā bhikkhusaṃghaṃ eko adutiyo cārikaṃ pakkāmi.",
+          "en": "After the meal, on his return from alms-round, he set his lodgings in order himself. Taking his bowl and robe, without informing his attendants or taking leave of the mendicant Saṅgha, he set out to go wandering alone, with no companion."
+        },
+        {
+          "scid": "sn22.81:2.1",
+          "pli": "Atha kho aññataro bhikkhu acirapakkantassa bhagavato yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "Then, not long after the Buddha had left, one of the mendicants went to Venerable Ānanda and told him what had happened."
+        },
+        {
+          "scid": "sn22.81:2.2",
+          "pli": "“esāvuso ānanda, bhagavā sāmaṃ senāsanaṃ saṃsāmetvā pattacīvaramādāya anāmantetvā upaṭṭhāke anapaloketvā bhikkhusaṅghaṃ eko adutiyo cārikaṃ pakkanto”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:2.3",
+          "pli": "“Yasmiṃ, āvuso, samaye bhagavā sāmaṃ senāsanaṃ saṃsāmetvā pattacīvaramādāya anāmantetvā upaṭṭhāke anapaloketvā bhikkhusaṅghaṃ eko adutiyo cārikaṃ pakkamati, ekova bhagavā tasmiṃ samaye viharitukāmo hoti;",
+          "en": "Ānanda said: “Reverend, when the Buddha leaves like this it means he wants to stay alone."
+        },
+        {
+          "scid": "sn22.81:2.4",
+          "pli": "na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotī”ti.",
+          "en": "At this time no-one should follow him.”"
+        },
+        {
+          "scid": "sn22.81:3.1",
+          "pli": "Atha kho bhagavā anupubbena cārikaṃ caramāno yena pālileyyakaṃ tadavasari.",
+          "en": "Then the Buddha, traveling stage by stage, arrived at Pārileyya,"
+        },
+        {
+          "scid": "sn22.81:3.2",
+          "pli": "Tatra sudaṃ bhagavā pālileyyake viharati bhaddasālamūle.",
+          "en": "where he stayed at the root of a sacred sal tree."
+        },
+        {
+          "scid": "sn22.81:3.3",
+          "pli": "Atha kho sambahulā bhikkhū yenāyasmā ānando tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodiṃsu.",
+          "en": "Then several mendicants went up to Venerable Ānanda and exchanged greetings with him."
+        },
+        {
+          "scid": "sn22.81:3.4",
+          "pli": "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū āyasmantaṃ ānandaṃ etadavocuṃ:",
+          "en": "When the greetings and polite conversation were over, they sat down to one side and said to him:"
+        },
+        {
+          "scid": "sn22.81:3.5",
+          "pli": "“cirassutā kho no, āvuso ānanda, bhagavato sammukhā dhammī kathā;",
+          "en": "“Reverend, it’s been a long time since we’ve heard a Dhamma talk from the Buddha."
+        },
+        {
+          "scid": "sn22.81:3.6",
+          "pli": "icchāma mayaṃ, āvuso ānanda, bhagavato sammukhā dhammiṃ kathaṃ sotun”ti.",
+          "en": "We wish to hear a Dhamma talk from the Buddha.”"
+        },
+        {
+          "scid": "sn22.81:4.1",
+          "pli": "Atha kho āyasmā ānando tehi bhikkhūhi saddhiṃ yena pālileyyakaṃ bhaddasālamūlaṃ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.",
+          "en": "Then Venerable Ānanda together with those mendicants went to Pārileyya to see the Buddha. They bowed and sat down to one side,"
+        },
+        {
+          "scid": "sn22.81:4.2",
+          "pli": "Ekamantaṃ nisinne kho te bhikkhū bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi.",
+          "en": "and the Buddha educated, encouraged, fired up, and inspired them with a Dhamma talk."
+        },
+        {
+          "scid": "sn22.81:4.3",
+          "pli": "Tena kho pana samayena aññatarassa bhikkhuno evaṃ cetaso parivitakko udapādi:",
+          "en": "Now at that time one of the monks had the thought:"
+        },
+        {
+          "scid": "sn22.81:4.4",
+          "pli": "“kathaṃ nu kho jānato kathaṃ passato anantarā āsavānaṃ khayo hotī”ti?",
+          "en": "“How do you know and see in order to end the defilements in the present life?”"
+        },
+        {
+          "scid": "sn22.81:4.5",
+          "pli": "Atha kho bhagavā tassa bhikkhuno cetasā cetoparivitakkamaññāya bhikkhū āmantesi:",
+          "en": "Then the Buddha, knowing what that monk was thinking, addressed the mendicants:"
+        },
+        {
+          "scid": "sn22.81:4.6",
+          "pli": "“vicayaso desito, bhikkhave, mayā dhammo;",
+          "en": "“Mendicants, I’ve taught the Dhamma analytically."
+        },
+        {
+          "scid": "sn22.81:4.7",
+          "pli": "vicayaso desitā cattāro satipaṭṭhānā;",
+          "en": "I’ve analytically taught the four kinds of mindfulness meditation,"
+        },
+        {
+          "scid": "sn22.81:4.8",
+          "pli": "vicayaso desitā cattāro sammappadhānā;",
+          "en": "the four right efforts,"
+        },
+        {
+          "scid": "sn22.81:4.9",
+          "pli": "vicayaso desitā cattāro iddhipādā;",
+          "en": "the four bases of psychic power,"
+        },
+        {
+          "scid": "sn22.81:4.10",
+          "pli": "vicayaso desitāni pañcindriyāni;",
+          "en": "the five faculties,"
+        },
+        {
+          "scid": "sn22.81:4.11",
+          "pli": "vicayaso desitāni pañca balāni;",
+          "en": "the five powers,"
+        },
+        {
+          "scid": "sn22.81:4.12",
+          "pli": "vicayaso desitā sattabojjhaṅgā;",
+          "en": "the seven awakening factors,"
+        },
+        {
+          "scid": "sn22.81:4.13",
+          "pli": "vicayaso desito ariyo aṭṭhaṅgiko maggo.",
+          "en": "and the noble eightfold path."
+        },
+        {
+          "scid": "sn22.81:4.14",
+          "pli": "Evaṃ vicayaso desito, bhikkhave, mayā dhammo.",
+          "en": "That’s how I’ve taught the Dhamma analytically."
+        },
+        {
+          "scid": "sn22.81:4.15",
+          "pli": "Evaṃ vicayaso desite kho, bhikkhave, mayā dhamme atha ca panidhekaccassa bhikkhuno evaṃ cetaso parivitakko udapādi:",
+          "en": "Though I’ve taught the Dhamma analytically, still a certain mendicant present here has this thought:"
+        },
+        {
+          "scid": "sn22.81:4.16",
+          "pli": "‘kathaṃ nu kho jānato kathaṃ passato anantarā āsavānaṃ khayo hotī’ti?",
+          "en": "‘How do you know and see in order to end the defilements in the present life?’"
+        },
+        {
+          "scid": "sn22.81:5.1",
+          "pli": "Kathañca, bhikkhave, jānato kathaṃ passato anantarā āsavānaṃ khayo hoti?",
+          "en": "And how, mendicants, do you know and see in order to end the defilements in the present life?"
+        },
+        {
+          "scid": "sn22.81:5.2",
+          "pli": "Idha bhikkhave, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto ",
+          "en": "Take an uneducated ordinary person who has not seen the noble ones, and is neither skilled nor trained in their teaching. They’ve not seen good persons, and are neither skilled nor trained in their teaching. "
+        },
+        {
+          "scid": "sn22.81:5.3",
+          "pli": "rūpaṃ attato samanupassati.",
+          "en": "They regard form as self."
+        },
+        {
+          "scid": "sn22.81:5.4",
+          "pli": "Yā kho pana sā, bhikkhave, samanupassanā saṅkhāro so.",
+          "en": "But that regarding is just a conditioned phenomenon."
+        },
+        {
+          "scid": "sn22.81:5.5",
+          "pli": "So pana saṅkhāro kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo?",
+          "en": "And what’s the source, origin, birthplace, and root of that conditioned phenomenon?"
+        },
+        {
+          "scid": "sn22.81:5.6",
+          "pli": "Avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā;",
+          "en": "When an uneducated ordinary person is struck by feelings born of contact with ignorance, craving arises."
+        },
+        {
+          "scid": "sn22.81:5.7",
+          "pli": "tatojo so saṅkhāro.",
+          "en": "That conditioned phenomenon is born from that."
+        },
+        {
+          "scid": "sn22.81:5.8",
+          "pli": "Iti kho, bhikkhave, sopi saṅkhāro anicco saṅkhato paṭiccasamuppanno.",
+          "en": "So that conditioned phenomenon is impermanent, conditioned, and dependently originated."
+        },
+        {
+          "scid": "sn22.81:5.9",
+          "pli": "Sāpi taṇhā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": "And that craving,"
+        },
+        {
+          "scid": "sn22.81:5.10",
+          "pli": "Sāpi vedanā, sopi phasso anicco saṅkhato paṭiccasamuppanno.",
+          "en": "that feeling, that contact,"
+        },
+        {
+          "scid": "sn22.81:5.11",
+          "pli": "Sāpi avijjā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": "and that ignorance are also impermanent, conditioned, and dependently originated."
+        },
+        {
+          "scid": "sn22.81:5.12",
+          "pli": "Evampi kho, bhikkhave, jānato evaṃ passato anantarā āsavānaṃ khayo hoti.",
+          "en": "That’s how you should know and see in order to end the defilements in the present life."
+        },
+        {
+          "scid": "sn22.81:6.1",
+          "pli": "Na heva kho rūpaṃ attato samanupassati;",
+          "en": "Perhaps they don’t regard form as self,"
+        },
+        {
+          "scid": "sn22.81:6.2",
+          "pli": "api ca kho rūpavantaṃ attānaṃ samanupassati.",
+          "en": "but they still regard self as possessing form."
+        },
+        {
+          "scid": "sn22.81:6.3",
+          "pli": "Yā kho pana sā, bhikkhave, samanupassanā saṅkhāro so.",
+          "en": "But that regarding is just a conditioned phenomenon. …"
+        },
+        {
+          "scid": "sn22.81:6.4",
+          "pli": "So pana saṅkhāro kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo?",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:6.5",
+          "pli": "Avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:6.6",
+          "pli": "tatojo so saṅkhāro.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:6.7",
+          "pli": "Iti kho, bhikkhave, sopi saṅkhāro anicco saṅkhato paṭiccasamuppanno.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:6.8",
+          "pli": "Sāpi taṇhā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:6.9",
+          "pli": "sāpi vedanā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:6.10",
+          "pli": "sopi phasso …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:6.11",
+          "pli": "sāpi avijjā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:6.12",
+          "pli": "Evampi kho, bhikkhave, jānato evaṃ passato anantarā āsavānaṃ khayo hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.1",
+          "pli": "Na heva kho rūpaṃ attato samanupassati, na rūpavantaṃ attānaṃ samanupassati;",
+          "en": "Perhaps they don’t regard form as self, or self as possessing form,"
+        },
+        {
+          "scid": "sn22.81:7.2",
+          "pli": "api ca kho attani rūpaṃ samanupassati.",
+          "en": "but they still regard form in self."
+        },
+        {
+          "scid": "sn22.81:7.3",
+          "pli": "Yā kho pana sā, bhikkhave, samanupassanā saṅkhāro so.",
+          "en": "But that regarding is just a conditioned phenomenon. …"
+        },
+        {
+          "scid": "sn22.81:7.4",
+          "pli": "So pana saṅkhāro kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo?",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.5",
+          "pli": "Avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.6",
+          "pli": "tatojo so saṅkhāro.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.7",
+          "pli": "Iti kho, bhikkhave, sopi saṅkhāro anicco saṅkhato paṭiccasamuppanno.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.8",
+          "pli": "Sāpi taṇhā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.9",
+          "pli": "sāpi vedanā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.10",
+          "pli": "sopi phasso …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.11",
+          "pli": "sāpi avijjā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:7.12",
+          "pli": "Evampi kho, bhikkhave, jānato evaṃ passato anantarā āsavānaṃ khayo hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.1",
+          "pli": "Na heva kho rūpaṃ attato samanupassati, na rūpavantaṃ attānaṃ samanupassati, na attani rūpaṃ samanupassati;",
+          "en": "Perhaps they don’t regard form as self, or self as possessing form, or form in self,"
+        },
+        {
+          "scid": "sn22.81:8.2",
+          "pli": "api ca kho rūpasmiṃ attānaṃ samanupassati.",
+          "en": "but they still regard self in form."
+        },
+        {
+          "scid": "sn22.81:8.3",
+          "pli": "Yā kho pana sā, bhikkhave, samanupassanā saṅkhāro so.",
+          "en": "But that regarding is just a conditioned phenomenon. …"
+        },
+        {
+          "scid": "sn22.81:8.4",
+          "pli": "So pana saṅkhāro kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo?",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.5",
+          "pli": "Avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.6",
+          "pli": "tatojo so saṅkhāro.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.7",
+          "pli": "Iti kho, bhikkhave, sopi saṅkhāro anicco saṅkhato paṭiccasamuppanno.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.8",
+          "pli": "Sāpi taṇhā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.9",
+          "pli": "sāpi vedanā …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.10",
+          "pli": "sopi phasso …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.11",
+          "pli": "sāpi avijjā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:8.12",
+          "pli": "Evampi kho, bhikkhave, jānato … pe … āsavānaṃ khayo hoti.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:9.1",
+          "pli": "Na heva kho rūpaṃ attato samanupassati, na rūpavantaṃ attānaṃ, na attani rūpaṃ, na rūpasmiṃ attānaṃ samanupassati;",
+          "en": "Perhaps they don’t regard form as self, or self as possessing form, or form in self, or self in form."
+        },
+        {
+          "scid": "sn22.81:9.2",
+          "pli": "api ca kho vedanaṃ attato samanupassati, api ca kho vedanāvantaṃ attānaṃ samanupassati, api ca kho attani vedanaṃ samanupassati, api ca kho vedanāya attānaṃ samanupassati;",
+          "en": "But they regard feeling as self …"
+        },
+        {
+          "scid": "sn22.81:9.3",
+          "pli": "api ca kho saññaṃ …",
+          "en": "perception as self …"
+        },
+        {
+          "scid": "sn22.81:9.4",
+          "pli": "api ca kho saṅkhāre attato samanupassati, api ca kho saṅkhāravantaṃ attānaṃ samanupassati, api ca kho attani saṅkhāre samanupassati, api ca kho saṅkhāresu attānaṃ samanupassati;",
+          "en": "choices as self …"
+        },
+        {
+          "scid": "sn22.81:9.5",
+          "pli": "api ca kho viññāṇaṃ attato samanupassati, api ca kho viññāṇavantaṃ attānaṃ, api ca kho attani viññāṇaṃ, api ca kho viññāṇasmiṃ attānaṃ samanupassati.",
+          "en": "consciousness as self …"
+        },
+        {
+          "scid": "sn22.81:9.6",
+          "pli": "Yā kho pana sā, bhikkhave, samanupassanā saṅkhāro so.",
+          "en": "But that regarding is just a conditioned phenomenon."
+        },
+        {
+          "scid": "sn22.81:9.7",
+          "pli": "So pana saṅkhāro kiṃnidāno … pe … kiṃpabhavo?",
+          "en": "And what’s the source of that conditioned phenomenon?"
+        },
+        {
+          "scid": "sn22.81:9.8",
+          "pli": "Avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā;",
+          "en": "When an uneducated ordinary person is struck by feelings born of contact with ignorance, craving arises."
+        },
+        {
+          "scid": "sn22.81:9.9",
+          "pli": "tatojo so saṅkhāro.",
+          "en": "That conditioned phenomenon is born from that."
+        },
+        {
+          "scid": "sn22.81:9.10",
+          "pli": "Iti kho, bhikkhave, sopi saṅkhāro anicco saṅkhato paṭiccasamuppanno.",
+          "en": "So that conditioned phenomenon is impermanent, conditioned, and dependently originated."
+        },
+        {
+          "scid": "sn22.81:9.11",
+          "pli": "Sāpi taṇhā …",
+          "en": "And that craving,"
+        },
+        {
+          "scid": "sn22.81:9.12",
+          "pli": "sāpi vedanā …",
+          "en": "that feeling,"
+        },
+        {
+          "scid": "sn22.81:9.13",
+          "pli": "sopi phasso …",
+          "en": "that contact,"
+        },
+        {
+          "scid": "sn22.81:9.14",
+          "pli": "sāpi avijjā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": "and that ignorance are also impermanent, conditioned, and dependently originated."
+        },
+        {
+          "scid": "sn22.81:9.15",
+          "pli": "Evaṃ kho, bhikkhave, jānato evaṃ passato anantarā āsavānaṃ khayo hoti.",
+          "en": "That’s how you should know and see in order to end the defilements in the present life."
+        },
+        {
+          "scid": "sn22.81:10.1",
+          "pli": "Na heva kho rūpaṃ attato samanupassati, ",
+          "en": "Perhaps they don’t regard form "
+        },
+        {
+          "scid": "sn22.81:10.2",
+          "pli": "na vedanaṃ attato samanupassati, ",
+          "en": "or feeling "
+        },
+        {
+          "scid": "sn22.81:10.3",
+          "pli": "na saññaṃ …",
+          "en": "or perception"
+        },
+        {
+          "scid": "sn22.81:10.4",
+          "pli": "na saṅkhāre …",
+          "en": "or choices"
+        },
+        {
+          "scid": "sn22.81:10.5",
+          "pli": "na viññāṇaṃ attato samanupassati;",
+          "en": "or consciousness as self."
+        },
+        {
+          "scid": "sn22.81:10.6",
+          "pli": "api ca kho evaṃdiṭṭhi hoti:",
+          "en": "Still, they have such a view:"
+        },
+        {
+          "scid": "sn22.81:10.7",
+          "pli": "‘so attā so loko, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo’ti.",
+          "en": "‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, and imperishable.’"
+        },
+        {
+          "scid": "sn22.81:10.8",
+          "pli": "Yā kho pana sā, bhikkhave, sassatadiṭṭhi saṅkhāro so.",
+          "en": "But that eternalist view is just a conditioned phenomenon."
+        },
+        {
+          "scid": "sn22.81:10.9",
+          "pli": "So pana saṅkhāro kiṃnidāno … pe …",
+          "en": "And what’s the source of that conditioned phenomenon? …"
+        },
+        {
+          "scid": "sn22.81:10.10",
+          "pli": "evampi kho, bhikkhave, jānato evaṃ passato anantarā āsavānaṃ khayo hoti.",
+          "en": "That’s how you should know and see in order to end the defilements in the present life."
+        },
+        {
+          "scid": "sn22.81:11.1",
+          "pli": "Na heva kho rūpaṃ attato samanupassati, ",
+          "en": "Perhaps they don’t regard form "
+        },
+        {
+          "scid": "sn22.81:11.2",
+          "pli": "na vedanaṃ …",
+          "en": "or feeling"
+        },
+        {
+          "scid": "sn22.81:11.3",
+          "pli": "na saññaṃ …",
+          "en": "or perception"
+        },
+        {
+          "scid": "sn22.81:11.4",
+          "pli": "na saṅkhāre …",
+          "en": "or choices"
+        },
+        {
+          "scid": "sn22.81:11.5",
+          "pli": "na viññāṇaṃ attato samanupassati;",
+          "en": "or consciousness as self."
+        },
+        {
+          "scid": "sn22.81:11.6",
+          "pli": "nāpi evaṃdiṭṭhi hoti:",
+          "en": "Nor do they have such a view:"
+        },
+        {
+          "scid": "sn22.81:11.7",
+          "pli": "‘so attā so loko, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo’ti.",
+          "en": "‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, and imperishable.’"
+        },
+        {
+          "scid": "sn22.81:11.8",
+          "pli": "Api ca kho evaṃdiṭṭhi hoti:",
+          "en": "Still, they have such a view:"
+        },
+        {
+          "scid": "sn22.81:11.9",
+          "pli": "‘no cassaṃ no ca me siyā nābhavissaṃ na me bhavissatī’ti.",
+          "en": "‘I might not be, and it might not be mine. I will not be, and it will not be mine.’"
+        },
+        {
+          "scid": "sn22.81:11.10",
+          "pli": "Yā kho pana sā, bhikkhave, ucchedadiṭṭhi saṅkhāro so.",
+          "en": "But that annihilationist view is just a conditioned phenomenon."
+        },
+        {
+          "scid": "sn22.81:11.11",
+          "pli": "So pana saṅkhāro kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo?",
+          "en": "And what’s the source of that conditioned phenomenon? …"
+        },
+        {
+          "scid": "sn22.81:11.12",
+          "pli": "Avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā;",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:11.13",
+          "pli": "tatojo so saṅkhāro.",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:11.14",
+          "pli": "Iti kho, bhikkhave, sopi saṅkhāro anicco … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn22.81:11.15",
+          "pli": "evampi kho, bhikkhave, jānato evaṃ passato anantarā āsavānaṃ khayo hoti.",
+          "en": "That’s how you should know and see in order to end the defilements in the present life."
+        },
+        {
+          "scid": "sn22.81:12.1",
+          "pli": "Na heva kho rūpaṃ attato samanupassati, na vedanaṃ …",
+          "en": "Perhaps they don’t regard form or feeling"
+        },
+        {
+          "scid": "sn22.81:12.2",
+          "pli": "na saññaṃ …",
+          "en": "or perception"
+        },
+        {
+          "scid": "sn22.81:12.3",
+          "pli": "na saṅkhāre …",
+          "en": "or choices"
+        },
+        {
+          "scid": "sn22.81:12.4",
+          "pli": "na viññāṇaṃ attato samanupassati … pe …",
+          "en": "or consciousness as self."
+        },
+        {
+          "scid": "sn22.81:12.5",
+          "pli": "na viññāṇasmiṃ attato samanupassati, nāpi evaṃdiṭṭhi hoti:",
+          "en": "Nor do they have such a view:"
+        },
+        {
+          "scid": "sn22.81:12.6",
+          "pli": "‘so attā so loko, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo’ti;",
+          "en": "‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, and imperishable.’"
+        },
+        {
+          "scid": "sn22.81:12.7",
+          "pli": "nāpi evaṃdiṭṭhi hoti:",
+          "en": "Nor do they have such a view:"
+        },
+        {
+          "scid": "sn22.81:12.8",
+          "pli": "‘no cassaṃ no ca me siyā nābhavissaṃ na me bhavissatī’ti;",
+          "en": "‘I might not be, and it might not be mine. I will not be, and it will not be mine.’"
+        },
+        {
+          "scid": "sn22.81:12.9",
+          "pli": "api ca kho kaṅkhī hoti vicikicchī aniṭṭhaṅgato saddhamme.",
+          "en": "Still, they have doubts and uncertainties. They’re undecided about the true teaching."
+        },
+        {
+          "scid": "sn22.81:12.10",
+          "pli": "Yā kho pana sā, bhikkhave, kaṅkhitā vicikicchitā aniṭṭhaṅgatatā saddhamme saṅkhāro so.",
+          "en": "That doubt and uncertainty, the indecision about the true teaching, is just a conditioned phenomenon."
+        },
+        {
+          "scid": "sn22.81:12.11",
+          "pli": "So pana saṅkhāro kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo?",
+          "en": "And what’s the source of that conditioned phenomenon?"
+        },
+        {
+          "scid": "sn22.81:12.12",
+          "pli": "Avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā;",
+          "en": "When an uneducated ordinary person is struck by feelings born of contact with ignorance, craving arises."
+        },
+        {
+          "scid": "sn22.81:12.13",
+          "pli": "tatojo so saṅkhāro.",
+          "en": "That conditioned phenomenon is born from that."
+        },
+        {
+          "scid": "sn22.81:12.14",
+          "pli": "Iti kho, bhikkhave, sopi saṅkhāro anicco saṅkhato paṭiccasamuppanno.",
+          "en": "So that conditioned phenomenon is impermanent, conditioned, and dependently originated."
+        },
+        {
+          "scid": "sn22.81:12.15",
+          "pli": "Sāpi taṇhā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": "And that craving,"
+        },
+        {
+          "scid": "sn22.81:12.16",
+          "pli": "Sāpi vedanā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": "that feeling,"
+        },
+        {
+          "scid": "sn22.81:12.17",
+          "pli": "Sopi phasso anicco saṅkhato paṭiccasamuppanno.",
+          "en": "that contact,"
+        },
+        {
+          "scid": "sn22.81:12.18",
+          "pli": "Sāpi avijjā aniccā saṅkhatā paṭiccasamuppannā.",
+          "en": "and that ignorance are also impermanent, conditioned, and dependently originated."
+        },
+        {
+          "scid": "sn22.81:12.19",
+          "pli": "Evaṃ kho, bhikkhave, jānato evaṃ passato anantarā āsavānaṃ khayo hotī”ti.",
+          "en": "That’s how you should know and see in order to end the defilements in the present life.”"
+        },
+        {
+          "scid": "sn22.81:12.20",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At one time the Buddha was staying…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn22.81/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 22.81",
+    "volpages": "SN iii 94",
+    "uid": "sn22.81",
+    "blurb": "Leaving behind the quarreling monks at Kosambi, the Buddha went to stay in the empty forest at Pārileyyaka. Ānanda brings some mendicants to receive a teaching, and one of them wonders how to see so as to end defilements in this very life. The Buddha teaches the 37 practices that lead to awakening, and then goes on to show that various ways of regarding the aggregates are conditioned phenomena.",
+    "difficulty": null,
+    "original_title": "Pālileyya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "At Pārileyya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn22.81_sujato",
+        "segmented": true,
+        "title": "At Pārileyya"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn22.81_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Parileyya"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

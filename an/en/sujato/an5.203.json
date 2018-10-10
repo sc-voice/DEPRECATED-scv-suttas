@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an5.203",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.203",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Thoroughbred",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Powers",
+      "uid": "an5.204"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Listening to the Teaching",
+      "uid": "an5.202"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.203:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.203:0.2",
+          "pli": "21. Kimilavagga",
+          "en": "21. With Kimbila"
+        },
+        {
+          "scid": "an5.203:0.3",
+          "pli": "203. Assājānīyasutta",
+          "en": "203. A Thoroughbred"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.203:1.1",
+          "pli": "“Pañcahi, bhikkhave, aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅgantveva saṅkhaṃ gacchati.",
+          "en": "“Mendicants, a fine royal thoroughbred with five factors is worthy of a king, fit to serve a king, and is considered a factor of kingship."
+        },
+        {
+          "scid": "an5.203:2.1",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.203:2.2",
+          "pli": "Ajjavena, javena, maddavena, khantiyā, soraccena—",
+          "en": "Integrity, speed, gentleness, patience, and sweetness."
+        },
+        {
+          "scid": "an5.203:2.3",
+          "pli": "imehi kho, bhikkhave, pañcahi aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅgantveva saṅkhaṃ gacchati.",
+          "en": "A fine royal thoroughbred with these five factors is worthy of a king. …"
+        },
+        {
+          "scid": "an5.203:2.4",
+          "pli": "Evamevaṃ kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa.",
+          "en": "In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is a supreme field of merit for the world."
+        },
+        {
+          "scid": "an5.203:3.1",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.203:3.2",
+          "pli": "Ajjavena, javena, maddavena, khantiyā, soraccena—",
+          "en": "Integrity, speed, gentleness, patience, and sweetness."
+        },
+        {
+          "scid": "an5.203:3.3",
+          "pli": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā”ti.",
+          "en": "A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is a supreme field of merit for the world.”"
+        },
+        {
+          "scid": "an5.203:3.4",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.203/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.203",
+    "volpages": "AN iii 248",
+    "uid": "an5.203",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Assājānīya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Thoroughbred",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.203_sujato",
+        "segmented": true,
+        "title": "A Thoroughbred"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 3
+  }
+}

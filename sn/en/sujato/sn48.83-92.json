@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn48.83-92",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.83-92",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Diligence",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hard Work",
+      "uid": "sn48.93-104"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Slanting East, Etc.",
+      "uid": "sn48.71-82"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.83-92:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.83-92:0.2",
+          "pli": "9. Appamādavagga",
+          "en": "9. Diligence"
+        },
+        {
+          "scid": "sn48.83-92:0.3",
+          "pli": "83. Appamādavagga",
+          "en": "83–92. Diligence"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.83-92:1.1",
+          "pli": "(Appamādavaggo vitthāretabbo.)",
+          "en": "(To be expanded as in the chapter on diligence at SN 45.139–148.)"
+        },
+        {
+          "scid": "sn48.83-92:2.1",
+          "pli": "Tathāgataṃ padaṃ kūṭaṃ,",
+          "en": "The Realized One, footprint, roof peak,"
+        },
+        {
+          "scid": "sn48.83-92:2.2",
+          "pli": "mūlaṃ sārena vassikaṃ;",
+          "en": "roots, heartwood, jasmine,"
+        },
+        {
+          "scid": "sn48.83-92:2.3",
+          "pli": "Rājā candimasūriyā,",
+          "en": "monarch, sun and moon,"
+        },
+        {
+          "scid": "sn48.83-92:2.4",
+          "pli": "vatthena dasamaṃ padanti.",
+          "en": "and cloth is the tenth."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "(To be expanded as in the chapter…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.83-92/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn48.83-92",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Appamāda Vagga",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Diligence",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.83-92_sujato",
+        "segmented": true,
+        "title": "Diligence"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

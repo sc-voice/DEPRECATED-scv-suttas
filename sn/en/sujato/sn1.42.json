@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "sn1.42",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.42",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Giving What?",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Food",
+      "uid": "sn1.43"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "On Fire",
+      "uid": "sn1.41"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.42:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.42:0.2",
+          "pli": "5. Ādittavagga",
+          "en": "5. On Fire"
+        },
+        {
+          "scid": "sn1.42:0.3",
+          "pli": "42. Kiṃdadasutta",
+          "en": "42. Giving What?"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.42:1.1",
+          "pli": "“Kiṃdado balado hoti,",
+          "en": "“Giving what do you give strength?"
+        },
+        {
+          "scid": "sn1.42:1.2",
+          "pli": "kiṃdado hoti vaṇṇado;",
+          "en": "Giving what do you give beauty?"
+        },
+        {
+          "scid": "sn1.42:1.3",
+          "pli": "Kiṃdado sukhado hoti,",
+          "en": "Giving what do you give happiness?"
+        },
+        {
+          "scid": "sn1.42:1.4",
+          "pli": "kiṃdado hoti cakkhudo;",
+          "en": "Giving what do you give vision?"
+        },
+        {
+          "scid": "sn1.42:1.5",
+          "pli": "Ko ca sabbadado hoti,",
+          "en": "And who is the giver of all?"
+        },
+        {
+          "scid": "sn1.42:1.6",
+          "pli": "taṃ me akkhāhi pucchito”ti.",
+          "en": "Please answer my question.”"
+        },
+        {
+          "scid": "sn1.42:2.1",
+          "pli": "“Annado balado hoti,",
+          "en": "“Giving food you give strength."
+        },
+        {
+          "scid": "sn1.42:2.2",
+          "pli": "vatthado hoti vaṇṇado;",
+          "en": "Giving clothes you give beauty."
+        },
+        {
+          "scid": "sn1.42:2.3",
+          "pli": "Yānado sukhado hoti,",
+          "en": "Giving a vehicle you give happiness."
+        },
+        {
+          "scid": "sn1.42:2.4",
+          "pli": "dīpado hoti cakkhudo.",
+          "en": "Giving a lamp you give vision."
+        },
+        {
+          "scid": "sn1.42:3.1",
+          "pli": "So ca sabbadado hoti,",
+          "en": "And the giver of all"
+        },
+        {
+          "scid": "sn1.42:3.2",
+          "pli": "yo dadāti upassayaṃ;",
+          "en": "is the one who gives a residence."
+        },
+        {
+          "scid": "sn1.42:3.3",
+          "pli": "Amataṃ dado ca so hoti,",
+          "en": "But a person who teaches the Dhamma"
+        },
+        {
+          "scid": "sn1.42:3.4",
+          "pli": "yo dhammamanusāsatī”ti.",
+          "en": "gives the gift of the Deathless.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Giving what do you give strength…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.42/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.42//SN 42",
+    "volpages": "SN i 32//SN i 66",
+    "uid": "sn1.42",
+    "blurb": "Different kinds of gifts have different purposes.",
+    "difficulty": null,
+    "original_title": "Kiṃdada Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Giving What?",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.42_sujato",
+        "segmented": true,
+        "title": "Giving What?"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.42_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Giving What?"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 2
+  }
+}

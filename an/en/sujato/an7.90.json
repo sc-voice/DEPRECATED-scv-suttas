@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "an7.90",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.90",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Knowledge Master",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Noble One",
+      "uid": "an7.91"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bathed",
+      "uid": "an7.89"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.90:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.90:0.2",
+          "pli": "9. Samaṇavagga",
+          "en": "9. An Ascetic"
+        },
+        {
+          "scid": "an7.90:0.3",
+          "pli": "90. Vedagūsutta",
+          "en": "90. A Knowledge Master"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.90:1.1",
+          "pli": "“… Viditattā vedagū hoti … pe ….",
+          "en": "“Mendicants, it’s because of knowing seven things that you become a knowledge master …”"
+        },
+        {
+          "scid": "an7.90:1.2",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.90/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.90",
+    "volpages": "AN iv 145",
+    "uid": "an7.90",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vedagū Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Knowledge Master",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.90_sujato",
+        "segmented": true,
+        "title": "A Knowledge Master"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

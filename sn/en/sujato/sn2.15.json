@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn2.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Candana",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Vāsudatta",
+      "uid": "sn2.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Nandana",
+      "uid": "sn2.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.15:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.15:0.2",
+          "pli": "2. Anāthapiṇḍikavagga",
+          "en": "2. With Anāthapiṇḍika"
+        },
+        {
+          "scid": "sn2.15:0.3",
+          "pli": "15. Candanasutta",
+          "en": "15. With Candana"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.15:1.1",
+          "pli": "Ekamantaṃ ṭhito kho candano devaputto bhagavantaṃ gāthāya ajjhabhāsi:",
+          "en": "Standing to one side, the god Candana addressed the Buddha in verse:"
+        },
+        {
+          "scid": "sn2.15:2.1",
+          "pli": "“Kathaṃsu tarati oghaṃ,",
+          "en": "“Who here crosses the flood,"
+        },
+        {
+          "scid": "sn2.15:2.2",
+          "pli": "rattindivamatandito;",
+          "en": "not slacking off by night or day."
+        },
+        {
+          "scid": "sn2.15:2.3",
+          "pli": "Appatiṭṭhe anālambe,",
+          "en": "Who, not standing and unsupported,"
+        },
+        {
+          "scid": "sn2.15:2.4",
+          "pli": "ko gambhīre na sīdatī”ti.",
+          "en": "does not sink in the deep?”"
+        },
+        {
+          "scid": "sn2.15:3.1",
+          "pli": "“Sabbadā sīlasampanno,",
+          "en": "“Someone who is always endowed with ethics,"
+        },
+        {
+          "scid": "sn2.15:3.2",
+          "pli": "Paññavā susamāhito;",
+          "en": "wise and serene,"
+        },
+        {
+          "scid": "sn2.15:3.3",
+          "pli": "Āraddhavīriyo pahitatto,",
+          "en": "energetic, and resolute"
+        },
+        {
+          "scid": "sn2.15:3.4",
+          "pli": "Oghaṃ tarati duttaraṃ.",
+          "en": "crosses the flood so hard to cross."
+        },
+        {
+          "scid": "sn2.15:4.1",
+          "pli": "Virato kāmasaññāya,",
+          "en": "Someone who desists from sensual perception,"
+        },
+        {
+          "scid": "sn2.15:4.2",
+          "pli": "rūpasaṃyojanātigo;",
+          "en": "has moved past the fetter of form,"
+        },
+        {
+          "scid": "sn2.15:4.3",
+          "pli": "Nandīrāgaparikkhīṇo,",
+          "en": "and has finished with relishing and greed"
+        },
+        {
+          "scid": "sn2.15:4.4",
+          "pli": "so gambhīre na sīdatī”ti.",
+          "en": "does not sink in the deep.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Standing to one side…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.15//SN 96",
+    "volpages": "SN i 53//SN i 121",
+    "uid": "sn2.15",
+    "blurb": "Candana asks who crosses the flood. The Buddha replies that it is one who is virtuous , wise, peaceful, and beyond attachment to rebirth.",
+    "difficulty": null,
+    "original_title": "Candana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Candana",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.15_sujato",
+        "segmented": true,
+        "title": "With Candana"
+      }
+    ],
+    "parallel_count": 6,
+    "biblio": null,
+    "num": 5
+  }
+}

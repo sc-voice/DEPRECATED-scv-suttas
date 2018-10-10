@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "an4.211",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.211",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Assembly",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "View",
+      "uid": "an4.212"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bad Character (4th)",
+      "uid": "an4.210"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.211:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.211:0.2",
+          "pli": "22. Parisāvagga",
+          "en": "22. Assembly"
+        },
+        {
+          "scid": "an4.211:0.3",
+          "pli": "211. Parisāsutta",
+          "en": "211. Assembly"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.211:1.1",
+          "pli": "“Cattārome, bhikkhave, parisadūsanā.",
+          "en": "“Mendicants, these four things corrupt an assembly."
+        },
+        {
+          "scid": "an4.211:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.211:1.3",
+          "pli": "Bhikkhu, bhikkhave, dussīlo pāpadhammo parisadūsano;",
+          "en": "A monk, nun, layman, or laywoman who is unethical, of bad character."
+        },
+        {
+          "scid": "an4.211:1.4",
+          "pli": "bhikkhunī, bhikkhave, dussīlā pāpadhammā parisadūsanā;",
+          "en": ""
+        },
+        {
+          "scid": "an4.211:1.5",
+          "pli": "upāsako, bhikkhave, dussīlo pāpadhammo parisadūsano;",
+          "en": ""
+        },
+        {
+          "scid": "an4.211:1.6",
+          "pli": "upāsikā, bhikkhave, dussīlā pāpadhammā parisadūsanā.",
+          "en": ""
+        },
+        {
+          "scid": "an4.211:1.7",
+          "pli": "Ime kho, bhikkhave, cattāro parisadūsanā.",
+          "en": "These are the four things that corrupt an assembly."
+        },
+        {
+          "scid": "an4.211:2.1",
+          "pli": "Cattārome, bhikkhave, parisasobhanā.",
+          "en": "Mendicants, these four things light up an assembly."
+        },
+        {
+          "scid": "an4.211:2.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.211:2.3",
+          "pli": "Bhikkhu, bhikkhave, sīlavā kalyāṇadhammo parisasobhano;",
+          "en": "A monk, nun, layman, or laywoman who is ethical, of good character."
+        },
+        {
+          "scid": "an4.211:2.4",
+          "pli": "bhikkhunī, bhikkhave, sīlavatī kalyāṇadhammā parisasobhanā;",
+          "en": ""
+        },
+        {
+          "scid": "an4.211:2.5",
+          "pli": "upāsako, bhikkhave, sīlavā kalyāṇadhammo parisasobhano;",
+          "en": ""
+        },
+        {
+          "scid": "an4.211:2.6",
+          "pli": "upāsikā, bhikkhave, sīlavatī kalyāṇadhammā parisasobhanā.",
+          "en": ""
+        },
+        {
+          "scid": "an4.211:2.7",
+          "pli": "Ime kho, bhikkhave, cattāro parisasobhanā”ti.",
+          "en": "These are the four things that light up an assembly.”"
+        },
+        {
+          "scid": "an4.211:2.8",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.211/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.211",
+    "volpages": "AN ii 225",
+    "uid": "an4.211",
+    "blurb": "Good people light up an assembly.",
+    "difficulty": null,
+    "original_title": "Parisā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Assembly",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.211_sujato",
+        "segmented": true,
+        "title": "Assembly"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

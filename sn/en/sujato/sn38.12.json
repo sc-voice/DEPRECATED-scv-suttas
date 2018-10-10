@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "sn38.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn38.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Question About Grasping",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Question About States of Existence",
+      "uid": "sn38.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Question About Floods",
+      "uid": "sn38.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn38.12:0.1",
+          "pli": "Saṃyutta Nikāya 38",
+          "en": "Linked Discourses 38"
+        },
+        {
+          "scid": "sn38.12:0.2",
+          "pli": "1. Jambukhādakavagga",
+          "en": "1. With Jambukhādaka"
+        },
+        {
+          "scid": "sn38.12:0.3",
+          "pli": "12. Upādānapañhāsutta",
+          "en": "12. A Question About Grasping"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 38…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn38.12:1.1",
+          "pli": "“‘Upādānaṃ, upādānan’ti, āvuso sāriputta, vuccati.",
+          "en": "“Reverend Sāriputta, they speak of this thing called ‘grasping’."
+        },
+        {
+          "scid": "sn38.12:1.2",
+          "pli": "Katamaṃ nu kho, āvuso, upādānan”ti?",
+          "en": "What is grasping?”"
+        },
+        {
+          "scid": "sn38.12:1.3",
+          "pli": "“Cattārimāni, āvuso, upādānāni.",
+          "en": "“Reverend, there are these four kinds of grasping."
+        },
+        {
+          "scid": "sn38.12:1.4",
+          "pli": "Kāmupādānaṃ, diṭṭhupādānaṃ sīlabbatupādānaṃ, attavādupādānaṃ—",
+          "en": "Grasping at sensual pleasures, views, precepts and observances, and theories of a self."
+        },
+        {
+          "scid": "sn38.12:1.5",
+          "pli": "imāni kho, āvuso, cattāri upādānānī”ti.",
+          "en": "These are the four kinds of grasping.”"
+        },
+        {
+          "scid": "sn38.12:1.6",
+          "pli": "“Atthi panāvuso, maggo atthi paṭipadā, etesaṃ upādānānaṃ pahānāyā”ti?",
+          "en": "“But, reverend, is there a path and a practice for completely understanding these four kinds of grasping?”"
+        },
+        {
+          "scid": "sn38.12:1.7",
+          "pli": "“Atthi kho, āvuso, maggo atthi paṭipadā, etesaṃ upādānānaṃ pahānāyā”ti.",
+          "en": "“There is.” …"
+        },
+        {
+          "scid": "sn38.12:1.8",
+          "pli": "“Katamo panāvuso, maggo katamā paṭipadā, etesaṃ upādānānaṃ pahānāyā”ti?",
+          "en": ""
+        },
+        {
+          "scid": "sn38.12:1.9",
+          "pli": "“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etesaṃ upādānānaṃ pahānāya, seyyathidaṃ—",
+          "en": ""
+        },
+        {
+          "scid": "sn38.12:1.10",
+          "pli": "sammādiṭṭhi … pe … sammāsamādhi.",
+          "en": ""
+        },
+        {
+          "scid": "sn38.12:1.11",
+          "pli": "Ayaṃ kho, āvuso, maggo ayaṃ paṭipadā, etesaṃ upādānānaṃ pahānāyā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn38.12:1.12",
+          "pli": "“Bhaddako, āvuso, maggo bhaddikā paṭipadā, etesaṃ upādānānaṃ pahānāya.",
+          "en": ""
+        },
+        {
+          "scid": "sn38.12:1.13",
+          "pli": "Alañca panāvuso sāriputta, appamādāyā”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn38.12:1.14",
+          "pli": "Dvādasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Reverend Sāriputta…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn38.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 38.12",
+    "volpages": "SN iv 258",
+    "uid": "sn38.12",
+    "blurb": "The wanderer Jambukhādaka asks Sāriputta what is grasping.",
+    "difficulty": null,
+    "original_title": "Upādānapañhā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Question About Grasping",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn38.12_sujato",
+        "segmented": true,
+        "title": "A Question About Grasping"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 12
+  }
+}

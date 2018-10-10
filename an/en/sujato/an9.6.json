@@ -1,0 +1,530 @@
+{
+  "sutta_uid": "an9.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an9.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Association",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Sutavā the Wanderer",
+      "uid": "an9.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Powers",
+      "uid": "an9.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an9.6:0.1",
+          "pli": "Aṅguttara Nikāya 9",
+          "en": "Numbered Discourses 9"
+        },
+        {
+          "scid": "an9.6:0.2",
+          "pli": "1. Sambodhivagga",
+          "en": "1. Awakening"
+        },
+        {
+          "scid": "an9.6:0.3",
+          "pli": "6. Sevanāsutta",
+          "en": "6. Association"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 9…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an9.6:1.1",
+          "pli": "Tatra kho āyasmā sāriputto bhikkhū āmantesi … pe … āyasmā sāriputto etadavoca:",
+          "en": "There Sāriputta addressed the mendicants:"
+        },
+        {
+          "scid": "an9.6:2.1",
+          "pli": "“Puggalopi, āvuso, duvidhena veditabbo—",
+          "en": "“Reverends, you should distinguish two kinds of people:"
+        },
+        {
+          "scid": "an9.6:2.2",
+          "pli": "sevitabbopi asevitabbopi.",
+          "en": "those you should associate with, and those you shouldn’t associate with."
+        },
+        {
+          "scid": "an9.6:2.3",
+          "pli": "Cīvarampi, āvuso, duvidhena veditabbaṃ—",
+          "en": "You should distinguish two kinds of robes:"
+        },
+        {
+          "scid": "an9.6:2.4",
+          "pli": "sevitabbampi asevitabbampi.",
+          "en": "those you should wear, and those you shouldn’t wear."
+        },
+        {
+          "scid": "an9.6:2.5",
+          "pli": "Piṇḍapātopi, āvuso, duvidhena veditabbo—",
+          "en": "You should distinguish two kinds of almsfood:"
+        },
+        {
+          "scid": "an9.6:2.6",
+          "pli": "sevitabbopi asevitabbopi.",
+          "en": "that which you should eat, and that which you shouldn’t eat."
+        },
+        {
+          "scid": "an9.6:2.7",
+          "pli": "Senāsanampi, āvuso, duvidhena veditabbaṃ—",
+          "en": "You should distinguish two kinds of lodgings:"
+        },
+        {
+          "scid": "an9.6:2.8",
+          "pli": "sevitabbampi asevitabbampi.",
+          "en": "those you should frequent, and those you shouldn’t frequent."
+        },
+        {
+          "scid": "an9.6:2.9",
+          "pli": "Gāmanigamopi, āvuso, duvidhena veditabbo—",
+          "en": "You should distinguish two kinds of market town:"
+        },
+        {
+          "scid": "an9.6:2.10",
+          "pli": "sevitabbopi asevitabbopi.",
+          "en": "those you should frequent, and those you shouldn’t frequent."
+        },
+        {
+          "scid": "an9.6:2.11",
+          "pli": "Janapadapadesopi, āvuso, duvidhena veditabbo—",
+          "en": "You should distinguish two kinds of country:"
+        },
+        {
+          "scid": "an9.6:2.12",
+          "pli": "sevitabbopi asevitabbopi.",
+          "en": "those you should frequent, and those you shouldn’t frequent."
+        },
+        {
+          "scid": "an9.6:3.1",
+          "pli": "‘Puggalopi, āvuso, duvidhena veditabbo—",
+          "en": "You should distinguish two kinds of people:"
+        },
+        {
+          "scid": "an9.6:3.2",
+          "pli": "sevitabbopi asevitabbopī’ti, ",
+          "en": "those you should associate with, and those you shouldn’t associate with.’ "
+        },
+        {
+          "scid": "an9.6:3.3",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an9.6:3.4",
+          "pli": "Tattha yaṃ jaññā puggalaṃ:",
+          "en": "Take a person of whom you know this."
+        },
+        {
+          "scid": "an9.6:3.5",
+          "pli": "‘imaṃ kho me puggalaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti;",
+          "en": "‘When I associate with this person, unskillful qualities grow, and skillful qualities decline."
+        },
+        {
+          "scid": "an9.6:3.6",
+          "pli": "ye ca kho me pabbajitena jīvitaparikkhārā samudānetabbā cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārā te ca kasirena samudāgacchanti;",
+          "en": "And the necessities of life that a renunciate requires—robes, alms-food, lodgings, and medicines and supplies for the sick—are hard to come by."
+        },
+        {
+          "scid": "an9.6:3.7",
+          "pli": "yassa camhi atthāya agārasmā anagāriyaṃ pabbajito so ca me sāmaññattho na bhāvanāpāripūriṃ gacchatī’ti, tenāvuso, puggalena so puggalo rattibhāgaṃ vā divasabhāgaṃ vā saṅkhāpi anāpucchā pakkamitabbaṃ nānubandhitabbo.",
+          "en": "And the goal of the ascetic life for which I went forth from the lay life to homelessness is not being developed to perfection.’ In this case you should leave that person at that very time of the day or night, without asking. You shouldn’t follow them."
+        },
+        {
+          "scid": "an9.6:4.1",
+          "pli": "Tattha yaṃ jaññā puggalaṃ:",
+          "en": "Take a person of whom you know this."
+        },
+        {
+          "scid": "an9.6:4.2",
+          "pli": "‘imaṃ kho me puggalaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti;",
+          "en": "‘When I associate with this person, unskillful qualities grow, and skillful qualities decline."
+        },
+        {
+          "scid": "an9.6:4.3",
+          "pli": "ye ca kho me pabbajitena jīvitaparikkhārā samudānetabbā cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārā te ca appakasirena samudāgacchanti;",
+          "en": "But the necessities of life that a renunciate requires—robes, alms-food, lodgings, and medicines and supplies for the sick—are easy to come by."
+        },
+        {
+          "scid": "an9.6:4.4",
+          "pli": "yassa camhi atthāya agārasmā anagāriyaṃ pabbajito so ca me sāmaññattho na bhāvanāpāripūriṃ gacchatī’ti, tenāvuso, puggalena so puggalo saṅkhāpi anāpucchā pakkamitabbaṃ nānubandhitabbo.",
+          "en": "However, the goal of the ascetic life for which I went forth from the lay life to homelessness is not being developed to perfection.’ In this case you should leave that person after reflecting, without asking. You shouldn’t follow them."
+        },
+        {
+          "scid": "an9.6:5.1",
+          "pli": "Tattha yaṃ jaññā puggalaṃ:",
+          "en": "Take a person of whom you know this."
+        },
+        {
+          "scid": "an9.6:5.2",
+          "pli": "‘imaṃ kho me puggalaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti;",
+          "en": "‘When I associate with this person, unskillful qualities decline, and skillful qualities grow."
+        },
+        {
+          "scid": "an9.6:5.3",
+          "pli": "ye ca kho me pabbajitena jīvitaparikkhārā samudānetabbā cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārā te ca kasirena samudāgacchanti;",
+          "en": "And the necessities of life that a renunciate requires—robes, alms-food, lodgings, and medicines and supplies for the sick—are hard to come by."
+        },
+        {
+          "scid": "an9.6:5.4",
+          "pli": "yassa camhi atthāya agārasmā anagāriyaṃ pabbajito so ca me sāmaññattho bhāvanāpāripūriṃ gacchatī’ti, tenāvuso, puggalena so puggalo saṅkhāpi anubandhitabbo na pakkamitabbaṃ.",
+          "en": "But the goal of the ascetic life for which I went forth from the lay life to homelessness is being developed to perfection.’ In this case you should follow that person after reflection. You shouldn’t leave them."
+        },
+        {
+          "scid": "an9.6:6.1",
+          "pli": "Tattha yaṃ jaññā puggalaṃ:",
+          "en": "Take a person of whom you know this."
+        },
+        {
+          "scid": "an9.6:6.2",
+          "pli": "‘imaṃ kho me puggalaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti;",
+          "en": "‘When I associate with this person, unskillful qualities decline, and skillful qualities grow."
+        },
+        {
+          "scid": "an9.6:6.3",
+          "pli": "ye ca kho me pabbajitena jīvitaparikkhārā samudānetabbā cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārā te ca appakasirena samudāgacchanti;",
+          "en": "And the necessities of life that a renunciate requires—robes, alms-food, lodgings, and medicines and supplies for the sick—are easy to come by."
+        },
+        {
+          "scid": "an9.6:6.4",
+          "pli": "yassa camhi atthāya agārasmā anagāriyaṃ pabbajito so ca me sāmaññattho bhāvanāpāripūriṃ gacchatī’ti, tenāvuso, puggalena so puggalo yāvajīvaṃ anubandhitabbo na pakkamitabbaṃ api panujjamānena.",
+          "en": "And the goal of the ascetic life for which I went forth from the lay life to homelessness is being developed to perfection.’ In this case you should follow that person. You shouldn’t leave them, even if they send you away."
+        },
+        {
+          "scid": "an9.6:6.5",
+          "pli": "‘Puggalopi, āvuso, duvidhena veditabbo—",
+          "en": "‘You should distinguish two kinds of people:"
+        },
+        {
+          "scid": "an9.6:6.6",
+          "pli": "sevitabbopi asevitabbopī’ti, ",
+          "en": "those you should associate with, and those you shouldn’t associate with.’ "
+        },
+        {
+          "scid": "an9.6:6.7",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "an9.6:7.1",
+          "pli": "‘Cīvarampi, āvuso, duvidhena veditabbaṃ—",
+          "en": "‘You should distinguish two kinds of robes:"
+        },
+        {
+          "scid": "an9.6:7.2",
+          "pli": "sevitabbampi asevitabbampī’ti, ",
+          "en": "those you should wear, and those you shouldn’t wear.’ "
+        },
+        {
+          "scid": "an9.6:7.3",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an9.6:7.4",
+          "pli": "Tattha yaṃ jaññā cīvaraṃ:",
+          "en": "Take a robe of which you know this."
+        },
+        {
+          "scid": "an9.6:7.5",
+          "pli": "‘idaṃ kho me cīvaraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyantī’ti, evarūpaṃ cīvaraṃ na sevitabbaṃ.",
+          "en": "‘When I wear this robe, unskillful qualities grow, and skillful qualities decline.’ You should not wear that kind of robe."
+        },
+        {
+          "scid": "an9.6:7.6",
+          "pli": "Tattha yaṃ jaññā cīvaraṃ:",
+          "en": "Take a robe of which you know this."
+        },
+        {
+          "scid": "an9.6:7.7",
+          "pli": "‘idaṃ kho me cīvaraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, evarūpaṃ cīvaraṃ sevitabbaṃ.",
+          "en": "‘When I wear this robe, unskillful qualities decline, and skillful qualities grow.’ You should wear that kind of robe."
+        },
+        {
+          "scid": "an9.6:7.8",
+          "pli": "‘Cīvarampi, āvuso, duvidhena veditabbaṃ—",
+          "en": "‘You should distinguish two kinds of robes:"
+        },
+        {
+          "scid": "an9.6:7.9",
+          "pli": "sevitabbampi asevitabbampī’ti, ",
+          "en": "those you should wear, and those you shouldn’t wear.’ "
+        },
+        {
+          "scid": "an9.6:7.10",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "an9.6:8.1",
+          "pli": "‘Piṇḍapātopi, āvuso, duvidhena veditabbo—",
+          "en": "‘You should distinguish two kinds of almsfood:"
+        },
+        {
+          "scid": "an9.6:8.2",
+          "pli": "sevitabbopi asevitabbopī’ti, ",
+          "en": "that which you should eat, and that which you shouldn’t eat.’ "
+        },
+        {
+          "scid": "an9.6:8.3",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an9.6:8.4",
+          "pli": "Tattha yaṃ jaññā piṇḍapātaṃ:",
+          "en": "Take almsfood of which you know this."
+        },
+        {
+          "scid": "an9.6:8.5",
+          "pli": "‘imaṃ kho me piṇḍapātaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyantī’ti, evarūpo piṇḍapāto na sevitabbo.",
+          "en": "‘When I eat this almsfood, unskillful qualities grow, and skillful qualities decline.’ You should not eat that kind of almsfood."
+        },
+        {
+          "scid": "an9.6:8.6",
+          "pli": "Tattha yaṃ jaññā piṇḍapātaṃ:",
+          "en": "Take almsfood of which you know this."
+        },
+        {
+          "scid": "an9.6:8.7",
+          "pli": "‘imaṃ kho me piṇḍapātaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, evarūpo piṇḍapāto sevitabbo.",
+          "en": "‘When I eat this almsfood, unskillful qualities decline, and skillful qualities grow.’ You should eat that kind of almsfood."
+        },
+        {
+          "scid": "an9.6:8.8",
+          "pli": "‘Piṇḍapātopi, āvuso, duvidhena veditabbo—",
+          "en": "‘You should distinguish two kinds of almsfood:"
+        },
+        {
+          "scid": "an9.6:8.9",
+          "pli": "sevitabbopi asevitabbopī’ti, ",
+          "en": "that which you should eat, and that which you shouldn’t eat.’ "
+        },
+        {
+          "scid": "an9.6:8.10",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "an9.6:9.1",
+          "pli": "‘Senāsanampi, āvuso, duvidhena veditabbaṃ—",
+          "en": "You should distinguish two kinds of lodgings:"
+        },
+        {
+          "scid": "an9.6:9.2",
+          "pli": "sevitabbampi asevitabbampī’ti, ",
+          "en": "those you should frequent, and those you shouldn’t frequent.’ "
+        },
+        {
+          "scid": "an9.6:9.3",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an9.6:9.4",
+          "pli": "Tattha yaṃ jaññā senāsanaṃ:",
+          "en": "Take a lodging of which you know this."
+        },
+        {
+          "scid": "an9.6:9.5",
+          "pli": "‘idaṃ kho me senāsanaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyantī’ti, evarūpaṃ senāsanaṃ na sevitabbaṃ.",
+          "en": "‘When I frequent this lodging, unskillful qualities grow, and skillful qualities decline.’ You should not frequent that kind of lodging."
+        },
+        {
+          "scid": "an9.6:9.6",
+          "pli": "Tattha yaṃ jaññā senāsanaṃ:",
+          "en": "Take a lodging of which you know this."
+        },
+        {
+          "scid": "an9.6:9.7",
+          "pli": "‘idaṃ kho me senāsanaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, evarūpaṃ senāsanaṃ sevitabbaṃ.",
+          "en": "‘When I frequent this lodging, unskillful qualities decline, and skillful qualities grow.’ You should frequent that kind of lodging."
+        },
+        {
+          "scid": "an9.6:9.8",
+          "pli": "‘Senāsanampi, āvuso, duvidhena veditabbaṃ—",
+          "en": "You should distinguish two kinds of lodgings:"
+        },
+        {
+          "scid": "an9.6:9.9",
+          "pli": "sevitabbampi asevitabbampī’ti, ",
+          "en": "those you should frequent, and those you shouldn’t frequent.’ "
+        },
+        {
+          "scid": "an9.6:9.10",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "an9.6:10.1",
+          "pli": "‘Gāmanigamopi, āvuso, duvidhena veditabbo—",
+          "en": "‘You should distinguish two kinds of market town:"
+        },
+        {
+          "scid": "an9.6:10.2",
+          "pli": "sevitabbopi asevitabbopī’ti, ",
+          "en": "those you should frequent, and those you shouldn’t frequent.’ "
+        },
+        {
+          "scid": "an9.6:10.3",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an9.6:10.4",
+          "pli": "Tattha yaṃ jaññā gāmanigamaṃ:",
+          "en": "Take a market town of which you know this."
+        },
+        {
+          "scid": "an9.6:10.5",
+          "pli": "‘imaṃ kho me gāmanigamaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyantī’ti, evarūpo gāmanigamo na sevitabbo.",
+          "en": "‘When I frequent this market town, unskillful qualities grow, and skillful qualities decline.’ You should not frequent that kind of village or town."
+        },
+        {
+          "scid": "an9.6:10.6",
+          "pli": "Tattha yaṃ jaññā gāmanigamaṃ:",
+          "en": "Take a market town of which you know this."
+        },
+        {
+          "scid": "an9.6:10.7",
+          "pli": "‘imaṃ kho me gāmanigamaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, evarūpo gāmanigamo sevitabbo.",
+          "en": "‘When I frequent this market town, unskillful qualities decline, and skillful qualities grow.’ You should frequent that kind of village or town."
+        },
+        {
+          "scid": "an9.6:10.8",
+          "pli": "‘Gāmanigamopi, āvuso, duvidhena veditabbo—",
+          "en": "‘You should distinguish two kinds of market town:"
+        },
+        {
+          "scid": "an9.6:10.9",
+          "pli": "sevitabbopi asevitabbopī’ti, ",
+          "en": "those you should frequent, and those you shouldn’t frequent.’ "
+        },
+        {
+          "scid": "an9.6:10.10",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+          "en": "That’s what I said, and this is why I said it."
+        },
+        {
+          "scid": "an9.6:11.1",
+          "pli": "‘Janapadapadesopi, āvuso, duvidhena veditabbo—",
+          "en": "‘You should distinguish two kinds of country:"
+        },
+        {
+          "scid": "an9.6:11.2",
+          "pli": "sevitabbopi asevitabbopī’ti, ",
+          "en": "those you should frequent, and those you shouldn’t frequent.’ "
+        },
+        {
+          "scid": "an9.6:11.3",
+          "pli": "iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ?",
+          "en": "That’s what I said, but why did I say it?"
+        },
+        {
+          "scid": "an9.6:11.4",
+          "pli": "Tattha yaṃ jaññā janapadapadesaṃ:",
+          "en": "Take a country of which you know this."
+        },
+        {
+          "scid": "an9.6:11.5",
+          "pli": "‘imaṃ kho me janapadapadesaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyantī’ti, evarūpo janapadapadeso na sevitabbo.",
+          "en": "‘When I frequent this country, unskillful qualities grow, and skillful qualities decline.’ You should not frequent that kind of country."
+        },
+        {
+          "scid": "an9.6:11.6",
+          "pli": "Tattha yaṃ jaññā janapadapadesaṃ:",
+          "en": "Take a country of which you know this."
+        },
+        {
+          "scid": "an9.6:11.7",
+          "pli": "‘imaṃ kho me janapadapadesaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhantī’ti, evarūpo janapadapadeso sevitabbo.",
+          "en": "‘When I frequent this country, unskillful qualities decline, and skillful qualities grow.’ You should frequent that kind of country."
+        },
+        {
+          "scid": "an9.6:11.8",
+          "pli": "‘Janapadapadesopi, āvuso, duvidhena veditabbo—",
+          "en": "‘You should distinguish two kinds of country:"
+        },
+        {
+          "scid": "an9.6:11.9",
+          "pli": "sevitabbopi asevitabbopī’ti, ",
+          "en": "those you should frequent, and those you shouldn’t frequent.’ "
+        },
+        {
+          "scid": "an9.6:11.10",
+          "pli": "iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttan”ti.",
+          "en": "That’s what I said, and this is why I said it.”"
+        },
+        {
+          "scid": "an9.6:11.11",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "There Sāriputta addressed the mendicants:…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an9.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 9.6",
+    "volpages": "AN iv 365",
+    "uid": "an9.6",
+    "blurb": "Four kinds of person who one should or should not associate with. A similar distinction is made regarding robes, almsfood, lodgings, towns, and countries.",
+    "difficulty": null,
+    "original_title": "Sevanā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Association",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an9.6_sujato",
+        "segmented": true,
+        "title": "Association"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 6
+  }
+}

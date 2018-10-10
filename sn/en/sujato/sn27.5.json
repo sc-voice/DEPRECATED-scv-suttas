@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn27.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn27.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Feeling",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perception",
+      "uid": "sn27.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Contact",
+      "uid": "sn27.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn27.5:0.1",
+          "pli": "Saṃyutta Nikāya 27",
+          "en": "Linked Discourses 27"
+        },
+        {
+          "scid": "sn27.5:0.2",
+          "pli": "1. Kilesavagga",
+          "en": "1. Corruptions"
+        },
+        {
+          "scid": "sn27.5:0.3",
+          "pli": "5. Samphassajasutta",
+          "en": "5. Feeling"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 27…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn27.5:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn27.5:1.2",
+          "pli": "“Yo, bhikkhave, cakkhusamphassajāya vedanāya chandarāgo, cittasseso upakkileso.",
+          "en": "“Mendicants, desire and greed for feeling born of eye contact,"
+        },
+        {
+          "scid": "sn27.5:1.3",
+          "pli": "Yo sotasamphassajāya vedanāya …",
+          "en": "feeling born of ear contact,"
+        },
+        {
+          "scid": "sn27.5:1.4",
+          "pli": "yo ghānasamphassajāya vedanāya …",
+          "en": "feeling born of nose contact,"
+        },
+        {
+          "scid": "sn27.5:1.5",
+          "pli": "yo jivhāsamphassajāya vedanāya …",
+          "en": "feeling born of tongue contact,"
+        },
+        {
+          "scid": "sn27.5:1.6",
+          "pli": "yo kāyasamphassajāya vedanāya …",
+          "en": "feeling born of body contact,"
+        },
+        {
+          "scid": "sn27.5:1.7",
+          "pli": "yo manosamphassajāya vedanāya chandarāgo, cittasseso upakkileso.",
+          "en": "or feeling born of eye contact is a defilement of the mind. …”"
+        },
+        {
+          "scid": "sn27.5:1.8",
+          "pli": "Yato kho, bhikkhave, bhikkhuno … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn27.5:1.9",
+          "pli": "abhiññā sacchikaraṇīyesu dhammesū”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn27.5:1.10",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn27.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 27.5",
+    "volpages": "SN iii 233",
+    "uid": "sn27.5",
+    "blurb": "Desire for six kinds of feeling is a corruption of the mind, and letting go such desire one is able to realize the various kinds of direct knowledge.",
+    "difficulty": null,
+    "original_title": "Samphassaja Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Feeling",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn27.5_sujato",
+        "segmented": true,
+        "title": "Feeling"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

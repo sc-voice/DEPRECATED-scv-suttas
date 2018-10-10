@@ -1,0 +1,205 @@
+{
+  "sutta_uid": "sn2.25",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.25",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Jantu",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Rohitassa",
+      "uid": "sn2.26"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Ghaṭikāra",
+      "uid": "sn2.24"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.25:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.25:0.2",
+          "pli": "3. Nānātitthiyavagga",
+          "en": "3. Various Sectarians"
+        },
+        {
+          "scid": "sn2.25:0.3",
+          "pli": "25. Jantusutta",
+          "en": "25. With Jantu"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.25:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "sn2.25:1.2",
+          "pli": "ekaṃ samayaṃ sambahulā bhikkhū, kosalesu viharanti himavantapasse araññakuṭikāya uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā.",
+          "en": "Now at that time several mendicants were staying in the Kosalan lands, in a wilderness hut on the slopes of the Himalayas. They were restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties."
+        },
+        {
+          "scid": "sn2.25:2.1",
+          "pli": "Atha kho jantu devaputto tadahuposathe pannarase yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū gāthāhi ajjhabhāsi:",
+          "en": "Then on the fifteenth day sabbath the god Jantu went up to those mendicants and addressed them in verse:"
+        },
+        {
+          "scid": "sn2.25:3.1",
+          "pli": "“Sukhajīvino pure āsuṃ,",
+          "en": "“The mendicants used to live happily,"
+        },
+        {
+          "scid": "sn2.25:3.2",
+          "pli": "bhikkhū gotamasāvakā;",
+          "en": "as disciples of Gotama."
+        },
+        {
+          "scid": "sn2.25:3.3",
+          "pli": "Anicchā piṇḍamesanā,",
+          "en": "Desireless they sought alms;"
+        },
+        {
+          "scid": "sn2.25:3.4",
+          "pli": "anicchā sayanāsanaṃ;",
+          "en": "desireless they used their lodgings."
+        },
+        {
+          "scid": "sn2.25:3.5",
+          "pli": "Loke aniccataṃ ñatvā,",
+          "en": "Knowing that the world was impermanent"
+        },
+        {
+          "scid": "sn2.25:3.6",
+          "pli": "dukkhassantaṃ akaṃsu te.",
+          "en": "they made an end of suffering."
+        },
+        {
+          "scid": "sn2.25:4.1",
+          "pli": "Dupposaṃ katvā attānaṃ,",
+          "en": "But now they’ve made themselves hard to look after,"
+        },
+        {
+          "scid": "sn2.25:4.2",
+          "pli": "gāme gāmaṇikā viya;",
+          "en": "like chiefs in a village."
+        },
+        {
+          "scid": "sn2.25:4.3",
+          "pli": "Bhutvā bhutvā nipajjanti,",
+          "en": "They eat and eat and then lie down,"
+        },
+        {
+          "scid": "sn2.25:4.4",
+          "pli": "parāgāresu mucchitā.",
+          "en": "unconscious in the homes of others."
+        },
+        {
+          "scid": "sn2.25:5.1",
+          "pli": "Saṃghassa añjaliṃ katvā,",
+          "en": "Having raised my joined palms to the Saṅgha,"
+        },
+        {
+          "scid": "sn2.25:5.2",
+          "pli": "idhekacce vadāmahaṃ;",
+          "en": "I speak here only about certain people."
+        },
+        {
+          "scid": "sn2.25:5.3",
+          "pli": "Apaviddhā anāthā te,",
+          "en": "They’re rejects, with no protector,"
+        },
+        {
+          "scid": "sn2.25:5.4",
+          "pli": "yathā petā tatheva te.",
+          "en": "just like those who have passed away."
+        },
+        {
+          "scid": "sn2.25:6.1",
+          "pli": "Ye kho pamattā viharanti,",
+          "en": "I’m speaking about"
+        },
+        {
+          "scid": "sn2.25:6.2",
+          "pli": "te me sandhāya bhāsitaṃ;",
+          "en": "those who live negligently."
+        },
+        {
+          "scid": "sn2.25:6.3",
+          "pli": "Ye appamattā viharanti,",
+          "en": "To those who live diligently"
+        },
+        {
+          "scid": "sn2.25:6.4",
+          "pli": "namo tesaṃ karomahan”ti.",
+          "en": "I pay homage.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.25/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.25//SN 106",
+    "volpages": "SN i 61//SN i 141",
+    "uid": "sn2.25",
+    "blurb": "Some monks in Kosala fell into negligence, and were admonished by the deity Jantu.",
+    "difficulty": null,
+    "original_title": "Jantu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Jantu",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.25_sujato",
+        "segmented": true,
+        "title": "With Jantu"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

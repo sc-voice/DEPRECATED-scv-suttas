@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "an3.147",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.147",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Blameworthy",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unethical",
+      "uid": "an3.148"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unskillful",
+      "uid": "an3.146"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.147:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": ""
+        },
+        {
+          "scid": "an3.147:0.2",
+          "pli": "15. Maṅgalavagga",
+          "en": "15. Good Fortune"
+        },
+        {
+          "scid": "an3.147:0.3",
+          "pli": "147. Sāvajjasutta",
+          "en": "147. Blameworthy"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.147:1.1",
+          "pli": "“Tīhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "“Someone with three qualities is cast down to hell."
+        },
+        {
+          "scid": "an3.147:1.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.147:1.3",
+          "pli": "Sāvajjena kāyakammena, sāvajjena vacīkammena, sāvajjena manokammena—",
+          "en": "Blameworthy deeds by way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.147:1.4",
+          "pli": "imehi kho, bhikkhave, tīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+          "en": "Someone with these three qualities is cast down to hell."
+        },
+        {
+          "scid": "an3.147:2.1",
+          "pli": "Tīhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge.",
+          "en": "Someone with three qualities is raised up to heaven."
+        },
+        {
+          "scid": "an3.147:2.2",
+          "pli": "Katamehi tīhi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.147:2.3",
+          "pli": "Anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena—",
+          "en": "Blameless deeds by way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.147:2.4",
+          "pli": "imehi kho … pe … evaṃ sagge”ti.",
+          "en": "Someone with these three qualities is raised up to heaven.”"
+        },
+        {
+          "scid": "an3.147:2.5",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Someone with three qualities is cast down…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.147/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.147//AN 3.142",
+    "volpages": "AN i 292",
+    "uid": "an3.147",
+    "blurb": "Blameless and blameworthy deeds determine rebirth.",
+    "difficulty": null,
+    "original_title": "Sāvajja Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Blameworthy",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.147_sujato",
+        "segmented": true,
+        "title": "Blameworthy"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

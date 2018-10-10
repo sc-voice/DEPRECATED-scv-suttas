@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn37.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Envy",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Stingy",
+      "uid": "sn37.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hostility",
+      "uid": "sn37.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.7:0.1",
+          "pli": "Saṃyutta Nikāya 37",
+          "en": "Linked Discourses 37"
+        },
+        {
+          "scid": "sn37.7:0.2",
+          "pli": "1. Paṭhamapeyyālavagga",
+          "en": "1. Abbreviated Texts"
+        },
+        {
+          "scid": "sn37.7:0.3",
+          "pli": "7. Issukīsutta",
+          "en": "7. Envy"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.7:1.1",
+          "pli": "“Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+          "en": ""
+        },
+        {
+          "scid": "sn37.7:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": ""
+        },
+        {
+          "scid": "sn37.7:1.3",
+          "pli": "Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, issukī ca hoti, duppañño ca hoti—",
+          "en": "“… They’re faithless, shameless, imprudent, envious, and witless. …”"
+        },
+        {
+          "scid": "sn37.7:1.4",
+          "pli": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "sn37.7:1.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.7",
+    "volpages": "SN iv 241",
+    "uid": "sn37.7",
+    "blurb": "A woman with five bad qualities has a bad rebirth.",
+    "difficulty": null,
+    "original_title": "Issukī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Envy",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn37.7_sujato",
+        "segmented": true,
+        "title": "Envy"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

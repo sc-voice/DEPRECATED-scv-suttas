@@ -1,0 +1,610 @@
+{
+  "sutta_uid": "sn46.51",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.51",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Nourishing",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Is There a Way?",
+      "uid": "sn46.52"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Exterior",
+      "uid": "sn46.50"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.51:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.51:0.2",
+          "pli": "6. Sākacchavagga",
+          "en": "6. Discussion"
+        },
+        {
+          "scid": "sn46.51:0.3",
+          "pli": "51. Āhārasutta",
+          "en": "51. Nourishing"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.51:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn46.51:1.2",
+          "pli": "“Pañcannañca, bhikkhave, nīvaraṇānaṃ sattannañca bojjhaṅgānaṃ āhārañca anāhārañca desessāmi;",
+          "en": "“Mendicants, I will teach you what fuels and what starves the five hindrances and the seven awakening factors."
+        },
+        {
+          "scid": "sn46.51:1.3",
+          "pli": "taṃ suṇātha.",
+          "en": "Listen …"
+        },
+        {
+          "scid": "sn46.51:1.4",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya?",
+          "en": "And what fuels the arising of sensual desire, or, when it has arisen, makes it increase and grow?"
+        },
+        {
+          "scid": "sn46.51:1.5",
+          "pli": "Atthi, bhikkhave, subhanimittaṃ.",
+          "en": "There is the aspect of beauty."
+        },
+        {
+          "scid": "sn46.51:1.6",
+          "pli": "Tattha ayonisomanasikārabahulīkāro—",
+          "en": "Frequent improper attention to that"
+        },
+        {
+          "scid": "sn46.51:1.7",
+          "pli": "ayamāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya.",
+          "en": "fuels the arising of sensual desire, or, when it has arisen, makes it increase and grow."
+        },
+        {
+          "scid": "sn46.51:2.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya?",
+          "en": "And what fuels the arising of ill will, or, when it has arisen, makes it increase and grow?"
+        },
+        {
+          "scid": "sn46.51:2.2",
+          "pli": "Atthi, bhikkhave, paṭighanimittaṃ.",
+          "en": "There is the aspect of repulsion."
+        },
+        {
+          "scid": "sn46.51:2.3",
+          "pli": "Tattha ayonisomanasikārabahulīkāro—",
+          "en": "Frequent improper attention to that"
+        },
+        {
+          "scid": "sn46.51:2.4",
+          "pli": "ayamāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya.",
+          "en": "fuels the arising of ill will, or, when it has arisen, makes it increase and grow."
+        },
+        {
+          "scid": "sn46.51:3.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya?",
+          "en": "And what fuels the arising of dullness and drowsiness, or, when it has arisen, makes it increase and grow?"
+        },
+        {
+          "scid": "sn46.51:3.2",
+          "pli": "Atthi, bhikkhave, arati tandi vijambhitā bhattasammado cetaso ca līnattaṃ.",
+          "en": "There is discontent, sloth, yawning, sleepiness after eating, and mental sluggishness."
+        },
+        {
+          "scid": "sn46.51:3.3",
+          "pli": "Tattha ayonisomanasikārabahulīkāro—",
+          "en": "Frequent improper attention to that"
+        },
+        {
+          "scid": "sn46.51:3.4",
+          "pli": "ayamāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya.",
+          "en": "fuels the arising of dullness and drowsiness, or, when it has arisen, makes it increase and grow."
+        },
+        {
+          "scid": "sn46.51:4.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya?",
+          "en": "And what fuels the arising of restlessness and remorse, or, when it has arisen, makes it increase and grow?"
+        },
+        {
+          "scid": "sn46.51:4.2",
+          "pli": "Atthi, bhikkhave, cetaso avūpasamo.",
+          "en": "There is the unsettled mind."
+        },
+        {
+          "scid": "sn46.51:4.3",
+          "pli": "Tattha ayonisomanasikārabahulīkāro—",
+          "en": "Frequent improper attention to that"
+        },
+        {
+          "scid": "sn46.51:4.4",
+          "pli": "ayamāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya.",
+          "en": "fuels the arising of restlessness and remorse, or, when it has arisen, makes it increase and grow."
+        },
+        {
+          "scid": "sn46.51:5.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya?",
+          "en": "And what fuels the arising of doubt, or, when it has arisen, makes it increase and grow?"
+        },
+        {
+          "scid": "sn46.51:5.2",
+          "pli": "Atthi, bhikkhave, vicikicchāṭṭhānīyā dhammā.",
+          "en": "There are things that are grounds for doubt."
+        },
+        {
+          "scid": "sn46.51:5.3",
+          "pli": "Tattha ayonisomanasikārabahulīkāro—",
+          "en": "Frequent improper attention to them"
+        },
+        {
+          "scid": "sn46.51:5.4",
+          "pli": "ayamāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya.",
+          "en": "fuels the arising of doubt, or, when it has arisen, makes it increase and grow."
+        },
+        {
+          "scid": "sn46.51:6.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what fuels the arising of the awakening factor of mindfulness, or, when it has arisen, develops it to perfection?"
+        },
+        {
+          "scid": "sn46.51:6.2",
+          "pli": "Atthi, bhikkhave, satisambojjhaṅgaṭṭhānīyā dhammā.",
+          "en": "There are things that are grounds for the awakening factor of mindfulness."
+        },
+        {
+          "scid": "sn46.51:6.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to them"
+        },
+        {
+          "scid": "sn46.51:6.4",
+          "pli": "ayamāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "fuels the arising of the awakening factor of mindfulness, or, when it has arisen, develops it to perfection."
+        },
+        {
+          "scid": "sn46.51:7.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what fuels the arising of the awakening factor of investigation of principles, or, when it has arisen, develops it to perfection?"
+        },
+        {
+          "scid": "sn46.51:7.2",
+          "pli": "Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā.",
+          "en": "There are qualities that are skillful and unskillful, blameworthy and blameless, inferior and superior, and those on the side of dark and bright."
+        },
+        {
+          "scid": "sn46.51:7.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to them"
+        },
+        {
+          "scid": "sn46.51:7.4",
+          "pli": "ayamāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "fuels the arising of the awakening factor of investigation of principles, or, when it has arisen, develops it to perfection."
+        },
+        {
+          "scid": "sn46.51:8.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what fuels the arising of the awakening factor of energy, or, when it has arisen, develops it to perfection?"
+        },
+        {
+          "scid": "sn46.51:8.2",
+          "pli": "Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu.",
+          "en": "There are the elements of initiative, persistence, and exertion."
+        },
+        {
+          "scid": "sn46.51:8.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to them"
+        },
+        {
+          "scid": "sn46.51:8.4",
+          "pli": "ayamāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "fuels the arising of the awakening factor of energy, or, when it has arisen, develops it to perfection."
+        },
+        {
+          "scid": "sn46.51:9.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what fuels the arising of the awakening factor of rapture, or, when it has arisen, develops it to perfection?"
+        },
+        {
+          "scid": "sn46.51:9.2",
+          "pli": "Atthi, bhikkhave, pītisambojjhaṅgaṭṭhānīyā dhammā.",
+          "en": "There are things that are grounds for the awakening factor of rapture."
+        },
+        {
+          "scid": "sn46.51:9.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to them"
+        },
+        {
+          "scid": "sn46.51:9.4",
+          "pli": "ayamāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "fuels the arising of the awakening factor of rapture, or, when it has arisen, develops it to perfection."
+        },
+        {
+          "scid": "sn46.51:10.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what fuels the arising of the awakening factor of tranquility, or, when it has arisen, develops it to perfection?"
+        },
+        {
+          "scid": "sn46.51:10.2",
+          "pli": "Atthi, bhikkhave, kāyappassaddhi cittappassaddhi.",
+          "en": "There is tranquility of the body and of the mind."
+        },
+        {
+          "scid": "sn46.51:10.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to that"
+        },
+        {
+          "scid": "sn46.51:10.4",
+          "pli": "ayamāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "fuels the arising of the awakening factor of tranquility, or, when it has arisen, develops it to perfection."
+        },
+        {
+          "scid": "sn46.51:11.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what fuels the arising of the awakening factor of immersion, or, when it has arisen, develops it to perfection?"
+        },
+        {
+          "scid": "sn46.51:11.2",
+          "pli": "Atthi, bhikkhave, samathanimittaṃ abyagganimittaṃ.",
+          "en": "There are aspects of things that are serene and free from distraction."
+        },
+        {
+          "scid": "sn46.51:11.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to them"
+        },
+        {
+          "scid": "sn46.51:11.4",
+          "pli": "ayamāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "fuels the arising of the awakening factor of immersion, or, when it has arisen, develops it to perfection."
+        },
+        {
+          "scid": "sn46.51:12.1",
+          "pli": "Ko ca, bhikkhave, āhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what fuels the arising of the awakening factor of equanimity, or, when it has arisen, develops it to perfection?"
+        },
+        {
+          "scid": "sn46.51:12.2",
+          "pli": "Atthi, bhikkhave, upekkhāsambojjhaṅgaṭṭhānīyā dhammā.",
+          "en": "There are things that are grounds for the awakening factor of equanimity."
+        },
+        {
+          "scid": "sn46.51:12.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to them"
+        },
+        {
+          "scid": "sn46.51:12.4",
+          "pli": "ayamāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "fuels the arising of the awakening factor of equanimity, or, when it has arisen, develops it to perfection."
+        },
+        {
+          "scid": "sn46.51:13.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya?",
+          "en": "And what starves the arising of sensual desire, or, when it has arisen, starves its increase and growth?"
+        },
+        {
+          "scid": "sn46.51:13.2",
+          "pli": "Atthi, bhikkhave, asubhanimittaṃ.",
+          "en": "There is the aspect of ugliness."
+        },
+        {
+          "scid": "sn46.51:13.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to that"
+        },
+        {
+          "scid": "sn46.51:13.4",
+          "pli": "ayamanāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya.",
+          "en": "starves the arising of sensual desire, or, when it has arisen, starves its increase and growth."
+        },
+        {
+          "scid": "sn46.51:14.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya?",
+          "en": "And what starves the arising of ill will, or, when it has arisen, starves its increase and growth?"
+        },
+        {
+          "scid": "sn46.51:14.2",
+          "pli": "Atthi, bhikkhave, mettācetovimutti.",
+          "en": "There is the heart’s release by love."
+        },
+        {
+          "scid": "sn46.51:14.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to that"
+        },
+        {
+          "scid": "sn46.51:14.4",
+          "pli": "ayamanāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya.",
+          "en": "starves the arising of ill will, or, when it has arisen, starves its increase and growth."
+        },
+        {
+          "scid": "sn46.51:15.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya?",
+          "en": "And what starves the arising of dullness and drowsiness, or, when it has arisen, starves its increase and growth?"
+        },
+        {
+          "scid": "sn46.51:15.2",
+          "pli": "Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu.",
+          "en": "There are the elements of initiative, persistence, and exertion."
+        },
+        {
+          "scid": "sn46.51:15.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to them"
+        },
+        {
+          "scid": "sn46.51:15.4",
+          "pli": "ayamanāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya.",
+          "en": "starves the arising of dullness and drowsiness, or, when it has arisen, starves its increase and growth."
+        },
+        {
+          "scid": "sn46.51:16.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya?",
+          "en": "And what starves the arising of restlessness and remorse, or, when it has arisen, starves its increase and growth?"
+        },
+        {
+          "scid": "sn46.51:16.2",
+          "pli": "Atthi, bhikkhave, cetaso vūpasamo.",
+          "en": "There is the settled mind."
+        },
+        {
+          "scid": "sn46.51:16.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to that"
+        },
+        {
+          "scid": "sn46.51:16.4",
+          "pli": "ayamanāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya.",
+          "en": "starves the arising of restlessness and remorse, or, when it has arisen, starves its increase and growth."
+        },
+        {
+          "scid": "sn46.51:17.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya?",
+          "en": "And what starves the arising of doubt, or, when it has arisen, starves its increase and growth?"
+        },
+        {
+          "scid": "sn46.51:17.2",
+          "pli": "Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā.",
+          "en": "There are qualities that are skillful and unskillful, blameworthy and blameless, inferior and superior, and those on the side of dark and bright."
+        },
+        {
+          "scid": "sn46.51:17.3",
+          "pli": "Tattha yonisomanasikārabahulīkāro—",
+          "en": "Frequent proper attention to them"
+        },
+        {
+          "scid": "sn46.51:17.4",
+          "pli": "ayamanāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya.",
+          "en": "starves the arising of doubt, or, when it has arisen, starves its increase and growth."
+        },
+        {
+          "scid": "sn46.51:18.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what starves the arising of the awakening factor of mindfulness, or, when it has arisen, starves its development to perfection?"
+        },
+        {
+          "scid": "sn46.51:18.2",
+          "pli": "Atthi, bhikkhave, satisambojjhaṅgaṭṭhānīyā dhammā.",
+          "en": "There are things that are grounds for the awakening factor of mindfulness."
+        },
+        {
+          "scid": "sn46.51:18.3",
+          "pli": "Tattha amanasikārabahulīkāro—",
+          "en": "Not frequently focusing on them"
+        },
+        {
+          "scid": "sn46.51:18.4",
+          "pli": "ayamanāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "starves the arising of the awakening factor of mindfulness, or, when it has arisen, starves its development to perfection."
+        },
+        {
+          "scid": "sn46.51:19.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what starves the arising of the awakening factor of investigation of principles, or, when it has arisen, starves its development to perfection?"
+        },
+        {
+          "scid": "sn46.51:19.2",
+          "pli": "Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā.",
+          "en": "There are qualities that are skillful and unskillful, blameworthy and blameless, inferior and superior, and those on the side of dark and bright."
+        },
+        {
+          "scid": "sn46.51:19.3",
+          "pli": "Tattha amanasikārabahulīkāro—",
+          "en": "Not frequently focusing on them"
+        },
+        {
+          "scid": "sn46.51:19.4",
+          "pli": "ayamanāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "starves the arising of the awakening factor of investigation of principles, or, when it has arisen, starves its development to perfection."
+        },
+        {
+          "scid": "sn46.51:20.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what starves the arising of the awakening factor of energy, or, when it has arisen, starves its development to perfection?"
+        },
+        {
+          "scid": "sn46.51:20.2",
+          "pli": "Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu.",
+          "en": "There are the elements of initiative, persistence, and exertion."
+        },
+        {
+          "scid": "sn46.51:20.3",
+          "pli": "Tattha amanasikārabahulīkāro—",
+          "en": "Not frequently focusing on them"
+        },
+        {
+          "scid": "sn46.51:20.4",
+          "pli": "ayamanāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "starves the arising of the awakening factor of energy, or, when it has arisen, starves its development to perfection."
+        },
+        {
+          "scid": "sn46.51:21.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what starves the arising of the awakening factor of rapture, or, when it has arisen, starves its development to perfection?"
+        },
+        {
+          "scid": "sn46.51:21.2",
+          "pli": "Atthi, bhikkhave, pītisambojjhaṅgaṭṭhānīyā dhammā.",
+          "en": "There are things that are grounds for the awakening factor of rapture."
+        },
+        {
+          "scid": "sn46.51:21.3",
+          "pli": "Tattha amanasikārabahulīkāro—",
+          "en": "Not frequently focusing on them"
+        },
+        {
+          "scid": "sn46.51:21.4",
+          "pli": "ayamanāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "starves the arising of the awakening factor of rapture, or, when it has arisen, starves its development to perfection."
+        },
+        {
+          "scid": "sn46.51:22.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what starves the arising of the awakening factor of tranquility, or, when it has arisen, starves its development to perfection?"
+        },
+        {
+          "scid": "sn46.51:22.2",
+          "pli": "Atthi, bhikkhave, kāyappassaddhi cittappassaddhi.",
+          "en": "There is tranquility of the body and of the mind."
+        },
+        {
+          "scid": "sn46.51:22.3",
+          "pli": "Tattha amanasikārabahulīkāro—",
+          "en": "Not frequently attending to that"
+        },
+        {
+          "scid": "sn46.51:22.4",
+          "pli": "ayamanāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "starves the arising of the awakening factor of tranquility, or, when it has arisen, starves its development to perfection."
+        },
+        {
+          "scid": "sn46.51:23.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what starves the arising of the awakening factor of immersion, or, when it has arisen, starves its development to perfection?"
+        },
+        {
+          "scid": "sn46.51:23.2",
+          "pli": "Atthi, bhikkhave, samathanimittaṃ abyagganimittaṃ.",
+          "en": "There are aspects of things that are serene and free from distraction."
+        },
+        {
+          "scid": "sn46.51:23.3",
+          "pli": "Tattha amanasikārabahulīkāro—",
+          "en": "Not frequently focusing on them"
+        },
+        {
+          "scid": "sn46.51:23.4",
+          "pli": "ayamanāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā.",
+          "en": "starves the arising of the awakening factor of immersion, or, when it has arisen, starves its development to perfection."
+        },
+        {
+          "scid": "sn46.51:24.1",
+          "pli": "Ko ca, bhikkhave, anāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā?",
+          "en": "And what starves the arising of the awakening factor of equanimity, or, when it has arisen, starves its development to perfection?"
+        },
+        {
+          "scid": "sn46.51:24.2",
+          "pli": "Atthi, bhikkhave, upekkhāsambojjhaṅgaṭṭhānīyā dhammā.",
+          "en": "There are things that are grounds for the awakening factor of equanimity."
+        },
+        {
+          "scid": "sn46.51:24.3",
+          "pli": "Tattha amanasikārabahulīkāro—",
+          "en": "Not frequently focusing on them"
+        },
+        {
+          "scid": "sn46.51:24.4",
+          "pli": "ayamanāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā”ti.",
+          "en": "starves the arising of the awakening factor of equanimity, or, when it has arisen, starves its development to perfection.”"
+        },
+        {
+          "scid": "sn46.51:24.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.51/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 46.51",
+    "volpages": "SN v 102",
+    "uid": "sn46.51",
+    "blurb": "The Buddha spells out in detail the factors that nourish the hindrances, and those that nourish the awakening factors.",
+    "difficulty": null,
+    "original_title": "Āhāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Nourishing",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.51_sujato",
+        "segmented": true,
+        "title": "Nourishing"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn46.51_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Nutriment"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

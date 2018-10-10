@@ -1,0 +1,185 @@
+{
+  "sutta_uid": "an4.91",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.91",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Demons",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Immersion (1st)",
+      "uid": "an4.92"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Aggregates",
+      "uid": "an4.90"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.91:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.91:0.2",
+          "pli": "10. Asuravagga",
+          "en": "10. Demons"
+        },
+        {
+          "scid": "an4.91:0.3",
+          "pli": "91. Asurasutta",
+          "en": "91. Demons"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.91:1.1",
+          "pli": "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“Mendicants, these four people are found in the world."
+        },
+        {
+          "scid": "an4.91:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.91:1.3",
+          "pli": "Asuro asuraparivāro, asuro devaparivāro, devo asuraparivāro, devo devaparivāro.",
+          "en": "<ol><li>A demon accompanied by demons, </li><li>a demon accompanied by gods, </li><li>a god accompanied by demons, and </li><li>a god accompanied by gods.</li></ol>"
+        },
+        {
+          "scid": "an4.91:2.1",
+          "pli": "Kathañca, bhikkhave, puggalo asuro hoti asuraparivāro?",
+          "en": "And how is a person a demon accompanied by demons?"
+        },
+        {
+          "scid": "an4.91:2.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo, parisāpissa hoti dussīlā pāpadhammā.",
+          "en": "It’s when a person is unethical, of bad character, and their following is the same."
+        },
+        {
+          "scid": "an4.91:2.3",
+          "pli": "Evaṃ kho, bhikkhave, puggalo asuro hoti asuraparivāro.",
+          "en": "That’s how a person is a demon accompanied by demons."
+        },
+        {
+          "scid": "an4.91:3.1",
+          "pli": "Kathañca, bhikkhave, puggalo asuro hoti devaparivāro?",
+          "en": "And how is a person a demon accompanied by gods?"
+        },
+        {
+          "scid": "an4.91:3.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo, parisā ca khvassa hoti sīlavatī kalyāṇadhammā.",
+          "en": "It’s when a person is unethical, of bad character, but their following is ethical, of good character."
+        },
+        {
+          "scid": "an4.91:3.3",
+          "pli": "Evaṃ kho, bhikkhave, puggalo asuro hoti devaparivāro.",
+          "en": "That’s how a person is a demon accompanied by gods."
+        },
+        {
+          "scid": "an4.91:4.1",
+          "pli": "Kathañca, bhikkhave, puggalo devo hoti asuraparivāro?",
+          "en": "And how is a person a god accompanied by demons?"
+        },
+        {
+          "scid": "an4.91:4.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo, parisā ca khvassa hoti dussīlā pāpadhammā.",
+          "en": "It’s when a person is ethical, of good character, but their following is unethical, of bad character."
+        },
+        {
+          "scid": "an4.91:4.3",
+          "pli": "Evaṃ kho, bhikkhave, puggalo devo hoti asuraparivāro.",
+          "en": "That’s how a person is a god accompanied by demons."
+        },
+        {
+          "scid": "an4.91:5.1",
+          "pli": "Kathañca, bhikkhave, puggalo devo hoti devaparivāro?",
+          "en": "And how is a person a god accompanied by gods?"
+        },
+        {
+          "scid": "an4.91:5.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo, parisāpissa hoti sīlavatī kalyāṇadhammā.",
+          "en": "It’s when a person is ethical, of good character, and their following is the same."
+        },
+        {
+          "scid": "an4.91:5.3",
+          "pli": "Evaṃ kho, bhikkhave, puggalo devo hoti, devaparivāro.",
+          "en": "That’s how a person is a god accompanied by gods."
+        },
+        {
+          "scid": "an4.91:5.4",
+          "pli": "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "These are the four people found in the world.”"
+        },
+        {
+          "scid": "an4.91:5.5",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.91/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.91",
+    "volpages": "AN ii 92",
+    "uid": "an4.91",
+    "blurb": "Demons and gods.",
+    "difficulty": null,
+    "original_title": "Asura Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Demons",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.91_sujato",
+        "segmented": true,
+        "title": "Demons"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

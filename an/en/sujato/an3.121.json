@@ -1,0 +1,210 @@
+{
+  "sutta_uid": "an3.121",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.121",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Purity (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sagacity",
+      "uid": "an3.122"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Purity (1st)",
+      "uid": "an3.120"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.121:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.121:0.2",
+          "pli": "12. Āpāyikavagga",
+          "en": "12. Bound for Loss"
+        },
+        {
+          "scid": "an3.121:0.3",
+          "pli": "121. Dutiyasoceyyasutta",
+          "en": "121. Purity (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.121:1.1",
+          "pli": "“Tīṇimāni, bhikkhave, soceyyāni.",
+          "en": "“Mendicants, there are these three kinds of purity."
+        },
+        {
+          "scid": "an3.121:1.2",
+          "pli": "Katamāni tīṇi?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.121:1.3",
+          "pli": "Kāyasoceyyaṃ, vacīsoceyyaṃ, manosoceyyaṃ.",
+          "en": "Purity of body, speech, and mind."
+        },
+        {
+          "scid": "an3.121:1.4",
+          "pli": "Katamañca, bhikkhave, kāyasoceyyaṃ?",
+          "en": "And what is purity of body?"
+        },
+        {
+          "scid": "an3.121:1.5",
+          "pli": "Idha, bhikkhave, bhikkhu pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, abrahmacariyā paṭivirato hoti.",
+          "en": "It’s when a mendicant doesn’t kill living creatures, steal, or have sex."
+        },
+        {
+          "scid": "an3.121:1.6",
+          "pli": "Idaṃ vuccati, bhikkhave, kāyasoceyyaṃ.",
+          "en": "This is called ‘purity of body’."
+        },
+        {
+          "scid": "an3.121:2.1",
+          "pli": "Katamañca, bhikkhave, vacīsoceyyaṃ?",
+          "en": "And what is purity of speech?"
+        },
+        {
+          "scid": "an3.121:2.2",
+          "pli": "Idha, bhikkhave, bhikkhu musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti.",
+          "en": "It’s when a mendicant doesn’t use speech that’s false, divisive, harsh, or nonsensical."
+        },
+        {
+          "scid": "an3.121:2.3",
+          "pli": "Idaṃ vuccati, bhikkhave, vacīsoceyyaṃ.",
+          "en": "This is called ‘purity of speech’."
+        },
+        {
+          "scid": "an3.121:3.1",
+          "pli": "Katamañca, bhikkhave, manosoceyyaṃ?",
+          "en": "And what is purity of mind?"
+        },
+        {
+          "scid": "an3.121:3.2",
+          "pli": "Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ: ‘atthi me ajjhattaṃ kāmacchando’ti pajānāti; asantaṃ vā ajjhattaṃ kāmacchandaṃ: ‘natthi me ajjhattaṃ kāmacchando’ti pajānāti; yathā ca anuppannassa kāmacchandassa uppādo hoti, tañca pajānāti; yathā ca uppannassa kāmacchandassa pahānaṃ hoti, tañca pajānāti; yathā ca pahīnassa kāmacchandassa āyatiṃ anuppādo hoti, tañca pajānāti;",
+          "en": "It’s when a mendicant who has sensual desire in them understands ‘I have sensual desire in me.’ When they don’t have sensual desire in them, they understand ‘I don’t have sensual desire in me.’ They understand how sensual desire arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future."
+        },
+        {
+          "scid": "an3.121:3.3",
+          "pli": "santaṃ vā ajjhattaṃ byāpādaṃ: ‘atthi me ajjhattaṃ byāpādo’ti pajānāti; asantaṃ vā ajjhattaṃ byāpādaṃ: ‘natthi me ajjhattaṃ byāpādo’ti pajānāti; yathā ca anuppannassa byāpādassa uppādo hoti, tañca pajānāti; yathā ca uppannassa byāpādassa pahānaṃ hoti, tañca pajānāti; yathā ca pahīnassa byāpādassa āyatiṃ anuppādo hoti, tañca pajānāti;",
+          "en": "When they have ill will in them they understand ‘I have ill will in me’; and when they don’t have ill will in them they understand ‘I don’t have ill will in me’. They understand how ill will arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future."
+        },
+        {
+          "scid": "an3.121:3.4",
+          "pli": "santaṃ vā ajjhattaṃ thinamiddhaṃ: ‘atthi me ajjhattaṃ thinamiddhan’ti pajānāti; asantaṃ vā ajjhattaṃ thinamiddhaṃ: ‘natthi me ajjhattaṃ thinamiddhan’ti pajānāti; yathā ca anuppannassa thinamiddhassa uppādo hoti, tañca pajānāti; yathā ca uppannassa thinamiddhassa pahānaṃ hoti, tañca pajānāti; yathā ca pahīnassa thinamiddhassa āyatiṃ anuppādo hoti, tañca pajānāti;",
+          "en": "When they have dullness and drowsiness in them they understand ‘I have dullness and drowsiness in me’; and when they don’t have dullness and drowsiness in them they understand ‘I don’t have dullness and drowsiness in me’. They understand how dullness and drowsiness arise; how, when they’ve already arisen, they’re given up; and how, once they’re given up, they don’t arise again in the future."
+        },
+        {
+          "scid": "an3.121:3.5",
+          "pli": "santaṃ vā ajjhattaṃ uddhaccakukkuccaṃ: ‘atthi me ajjhattaṃ uddhaccakukkuccan’ti pajānāti; asantaṃ vā ajjhattaṃ uddhaccakukkuccaṃ: ‘natthi me ajjhattaṃ uddhaccakukkuccan’ti pajānāti; yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti, tañca pajānāti; yathā ca uppannassa uddhaccakukkuccassa pahānaṃ hoti, tañca pajānāti; yathā ca pahīnassa uddhaccakukkuccassa āyatiṃ anuppādo hoti, tañca pajānāti;",
+          "en": "When they have restlessness and remorse in them they understand ‘I have restlessness and remorse in me’; and when they don’t have restlessness and remorse in them they understand ‘I don’t have restlessness and remorse in me’. They understand how restlessness and remorse arise; how, when they’ve already arisen, they’re given up; and how, once they’re given up, they don’t arise again in the future."
+        },
+        {
+          "scid": "an3.121:3.6",
+          "pli": "santaṃ vā ajjhattaṃ vicikicchaṃ: ‘atthi me ajjhattaṃ vicikicchā’ti pajānāti; asantaṃ vā ajjhattaṃ vicikicchaṃ: ‘natthi me ajjhattaṃ vicikicchā’ti pajānāti; yathā ca anuppannāya vicikicchāya uppādo hoti, tañca pajānāti; yathā ca uppannāya vicikicchāya pahānaṃ hoti, tañca pajānāti; yathā ca pahīnāya vicikicchāya āyatiṃ anuppādo hoti, tañca pajānāti.",
+          "en": "When they have doubt in them they understand ‘I have doubt in me’; and when they don’t have doubt in them they understand ‘I don’t have doubt in me’. They understand how doubt arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future."
+        },
+        {
+          "scid": "an3.121:3.7",
+          "pli": "Idaṃ vuccati, bhikkhave, manosoceyyaṃ.",
+          "en": "This is called ‘purity of mind’."
+        },
+        {
+          "scid": "an3.121:3.8",
+          "pli": "Imāni kho, bhikkhave, tīṇi soceyyānīti.",
+          "en": "These are the three kinds of purity.”"
+        },
+        {
+          "scid": "an3.121:4.1",
+          "pli": "Kāyasuciṃ vacīsuciṃ,",
+          "en": "“Purity of body, purity of speech,"
+        },
+        {
+          "scid": "an3.121:4.2",
+          "pli": "cetosuciṃ anāsavaṃ;",
+          "en": "and undefiled purity of heart."
+        },
+        {
+          "scid": "an3.121:4.3",
+          "pli": "Suciṃ soceyyasampannaṃ,",
+          "en": "A pure person, blessed with purity,"
+        },
+        {
+          "scid": "an3.121:4.4",
+          "pli": "āhu ninhātapāpakan”ti.",
+          "en": "has washed off all bad things, they say.”"
+        },
+        {
+          "scid": "an3.121:4.5",
+          "pli": "Navamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.121/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.121//AN 3.119",
+    "volpages": "AN i 272",
+    "uid": "an3.121",
+    "blurb": "Purity of body, speech, and mind, with understanding the five hindrances.",
+    "difficulty": null,
+    "original_title": "Dutiyasoceyya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Purity (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.121_sujato",
+        "segmented": true,
+        "title": "Purity (2nd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

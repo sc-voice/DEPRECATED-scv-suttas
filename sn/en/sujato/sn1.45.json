@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "sn1.45",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.45",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Lofty",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nymphs",
+      "uid": "sn1.46"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "One Root",
+      "uid": "sn1.44"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.45:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.45:0.2",
+          "pli": "5. Ādittavagga",
+          "en": "5. On Fire"
+        },
+        {
+          "scid": "sn1.45:0.3",
+          "pli": "45. Anomasutta",
+          "en": "45. Lofty"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.45:1.1",
+          "pli": "“Anomanāmaṃ nipuṇatthadassiṃ,",
+          "en": "“He of peerless name who sees the subtle goal;"
+        },
+        {
+          "scid": "sn1.45:1.2",
+          "pli": "Paññādadaṃ kāmālaye asattaṃ;",
+          "en": "giver of wisdom, unattached to the realm of sensuality:"
+        },
+        {
+          "scid": "sn1.45:1.3",
+          "pli": "Taṃ passatha sabbaviduṃ sumedhaṃ,",
+          "en": "see him, the all-knower, so very intelligent,"
+        },
+        {
+          "scid": "sn1.45:1.4",
+          "pli": "Ariye pathe kamamānaṃ mahesin”ti.",
+          "en": "the great seer walking down the noble road.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“He of peerless name who sees the…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.45/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.45//SN 45",
+    "volpages": "SN i 33//SN i 68",
+    "uid": "sn1.45",
+    "blurb": "A verse in praise of the Buddha.",
+    "difficulty": null,
+    "original_title": "Anoma Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Lofty",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.45_sujato",
+        "segmented": true,
+        "title": "Lofty"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.45_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Perfect"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

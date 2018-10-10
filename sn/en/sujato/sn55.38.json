@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn55.38",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn55.38",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Rain",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Kāḷigodhā",
+      "uid": "sn55.39"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Mahānāma",
+      "uid": "sn55.37"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn55.38:0.1",
+          "pli": "Saṃyutta Nikāya 55",
+          "en": "Linked Discourses 55"
+        },
+        {
+          "scid": "sn55.38:0.2",
+          "pli": "4. Puññābhisandavagga",
+          "en": "4. Overflowing Merit"
+        },
+        {
+          "scid": "sn55.38:0.3",
+          "pli": "38. Vassasutta",
+          "en": "38. Rain"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 55…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn55.38:1.1",
+          "pli": "“Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti, kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṃ paripūrenti;",
+          "en": "“Mendicants, suppose it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean."
+        },
+        {
+          "scid": "sn55.38:1.2",
+          "pli": "evameva kho, bhikkhave, ariyasāvakassa yo ca buddhe aveccappasādo, yo ca dhamme aveccappasādo, yo ca saṃghe aveccappasādo, yāni ca ariyakantāni sīlāni—",
+          "en": "In the same way, a noble disciple has experiential confidence in the Buddha, the teaching, and the Saṅgha, and the ethics loved by the noble ones."
+        },
+        {
+          "scid": "sn55.38:1.3",
+          "pli": "ime dhammā sandamānā pāraṃ gantvā āsavānaṃ khayāya saṃvattantī”ti.",
+          "en": "These things flow onwards; and, after crossing to the far shore, they lead to the ending of defilements.”"
+        },
+        {
+          "scid": "sn55.38:1.4",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn55.38/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 55.38",
+    "volpages": "SN v 396",
+    "uid": "sn55.38",
+    "blurb": "Like rain falling on the mountain top, the four factors of stream-entry flow on to the ending of defilements.",
+    "difficulty": null,
+    "original_title": "Vassa Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Rain",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn55.38_sujato",
+        "segmented": true,
+        "title": "Rain"
+      }
+    ],
+    "parallel_count": 7,
+    "biblio": null,
+    "num": 8
+  }
+}

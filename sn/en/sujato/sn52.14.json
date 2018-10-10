@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn52.14",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn52.14",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Comprehending the Mind",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Possible",
+      "uid": "sn52.15"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Clairaudience",
+      "uid": "sn52.13"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn52.14:0.1",
+          "pli": "Saṃyutta Nikāya 52",
+          "en": "Linked Discourses 52"
+        },
+        {
+          "scid": "sn52.14:0.2",
+          "pli": "2. Dutiyavagga",
+          "en": "2. A Thousand"
+        },
+        {
+          "scid": "sn52.14:0.3",
+          "pli": "14. Cetopariyasutta",
+          "en": "14. Comprehending the Mind"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 52…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn52.14:1.1",
+          "pli": "“Imesañca panāhaṃ, āvuso, catunnaṃ satipaṭṭhānānaṃ bhāvitattā bahulīkatattā parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāmi—sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāmi … pe … avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāmī”ti.",
+          "en": "“… And it’s because of developing and cultivating these four kinds of mindfulness meditation that I understand the minds of other beings and individuals, having comprehended them with my mind. I understand mind with greed as ‘mind with greed’ … I understand unfreed mind as ‘unfreed mind’.”"
+        },
+        {
+          "scid": "sn52.14:1.2",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… And it’s because of developing and…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn52.14/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 52.14",
+    "volpages": "SN v 304",
+    "uid": "sn52.14",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Cetopariya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Comprehending the Mind",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn52.14_sujato",
+        "segmented": true,
+        "title": "Comprehending the Mind"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

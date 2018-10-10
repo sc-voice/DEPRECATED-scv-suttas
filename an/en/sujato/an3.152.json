@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an3.152",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.152",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Broken (3rd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Broken (4th)",
+      "uid": "an3.153"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Broken (2nd)",
+      "uid": "an3.151"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.152:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.152:0.2",
+          "pli": "15. Maṅgalavagga",
+          "en": "15. Good Fortune"
+        },
+        {
+          "scid": "an3.152:0.3",
+          "pli": "152. Tatiyakhatasutta",
+          "en": "152. Broken (3rd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.152:1.1",
+          "pli": "“Tīhi, bhikkhave … pe …",
+          "en": "“When a foolish, incompetent, bad person has three qualities they keep themselves broken and damaged. …"
+        },
+        {
+          "scid": "an3.152:1.2",
+          "pli": "visamena kāyakammena, visamena vacīkammena, visamena manokammena … pe ….",
+          "en": "Unethical deeds by way of body, speech, and mind. …"
+        },
+        {
+          "scid": "an3.152:2.1",
+          "pli": "Tīhi, bhikkhave … pe …",
+          "en": "When an astute, competent, good person has three qualities they keep themselves healthy and whole. …"
+        },
+        {
+          "scid": "an3.152:2.2",
+          "pli": "samena kāyakammena, samena vacīkammena, samena manokammena … pe ….",
+          "en": "Ethical deeds by way of body, speech, and mind. …”"
+        },
+        {
+          "scid": "an3.152:2.3",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“When a foolish…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.152/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.152//AN 3.147",
+    "volpages": "AN i 293",
+    "uid": "an3.152",
+    "blurb": "Ethical deeds keep you whole.",
+    "difficulty": null,
+    "original_title": "Tatiyakhata Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Broken (3rd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.152_sujato",
+        "segmented": true,
+        "title": "Broken (3rd)"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

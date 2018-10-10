@@ -1,0 +1,110 @@
+{
+  "sutta_uid": "sn56.82",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.82",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "High Beds",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gold and Money",
+      "uid": "sn56.83"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dancing and Singing",
+      "uid": "sn56.81"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.82:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.82:0.2",
+          "pli": "9. Tatiyaāmakadhaññapeyyālavagga",
+          "en": "9. Abbreviated Texts on Raw Grain"
+        },
+        {
+          "scid": "sn56.82:0.3",
+          "pli": "82. Uccāsayanasutta",
+          "en": "82. High Beds"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.82:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye uccāsayanamahāsayanā paṭiviratā; atha kho eteva bahutarā sattā ye uccāsayanamahāsayanā appaṭiviratā … pe ….",
+          "en": "“… the sentient beings who refrain from high and luxurious beds are few, while those who don’t refrain are many. …”"
+        },
+        {
+          "scid": "sn56.82:1.2",
+          "pli": "Dutiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who refrain from…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.82/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.82",
+    "volpages": "SN v 471",
+    "uid": "sn56.82",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uccāsayana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "High Beds",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.82_sujato",
+        "segmented": true,
+        "title": "High Beds"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 2
+  }
+}

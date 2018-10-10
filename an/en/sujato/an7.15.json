@@ -1,0 +1,425 @@
+{
+  "sutta_uid": "an7.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Simile With Water",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Observing Impermanence",
+      "uid": "an7.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Persons",
+      "uid": "an7.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.15:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.15:0.2",
+          "pli": "2. Anusayavagga",
+          "en": "2. Tendencies"
+        },
+        {
+          "scid": "an7.15:0.3",
+          "pli": "15. Udakūpamāsutta",
+          "en": "15. A Simile With Water"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.15:1.1",
+          "pli": "“Sattime, bhikkhave, udakūpamā puggalā santo saṃvijjamānā lokasmiṃ.",
+          "en": "“Mendicants, these seven people found in the world are like those in water."
+        },
+        {
+          "scid": "an7.15:1.2",
+          "pli": "Katame satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.15:1.3",
+          "pli": "Idha, bhikkhave, ekacco puggalo sakiṃ nimuggo nimuggova hoti;",
+          "en": "One person sinks under once and stays under."
+        },
+        {
+          "scid": "an7.15:1.4",
+          "pli": "idha pana, bhikkhave, ekacco puggalo ummujjitvā nimujjati;",
+          "en": "One person rises up then sinks under."
+        },
+        {
+          "scid": "an7.15:1.5",
+          "pli": "idha pana, bhikkhave, ekacco puggalo ummujjitvā ṭhito hoti;",
+          "en": "One person rises up then stays put."
+        },
+        {
+          "scid": "an7.15:1.6",
+          "pli": "idha pana, bhikkhave, ekacco puggalo ummujjitvā vipassati viloketi;",
+          "en": "One person rises up then sees and discerns."
+        },
+        {
+          "scid": "an7.15:1.7",
+          "pli": "idha pana, bhikkhave, ekacco puggalo ummujjitvā patarati;",
+          "en": "One person rises up then crosses over."
+        },
+        {
+          "scid": "an7.15:1.8",
+          "pli": "idha pana, bhikkhave, ekacco puggalo ummujjitvā patigādhappatto hoti;",
+          "en": "One person rises up then finds a footing."
+        },
+        {
+          "scid": "an7.15:1.9",
+          "pli": "idha pana, bhikkhave, ekacco puggalo ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo.",
+          "en": "One person has risen up, crossed over, and gone beyond, and that brahmin stands on the shore."
+        },
+        {
+          "scid": "an7.15:2.1",
+          "pli": "Kathañca, bhikkhave, puggalo sakiṃ nimuggo nimuggova hoti?",
+          "en": "And what kind of person sinks under once and stays under?"
+        },
+        {
+          "scid": "an7.15:2.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo samannāgato hoti ekantakāḷakehi akusalehi dhammehi.",
+          "en": "It’s the kind of person who has exclusively dark, unskillful qualities."
+        },
+        {
+          "scid": "an7.15:2.3",
+          "pli": "Evaṃ kho, bhikkhave, puggalo sakiṃ nimuggo nimuggova hoti. (1)",
+          "en": "This kind of person sinks under once and stays under."
+        },
+        {
+          "scid": "an7.15:3.1",
+          "pli": "Kathañca, bhikkhave, puggalo ummujjitvā nimujjati?",
+          "en": "And what kind of person rises up then sinks under?"
+        },
+        {
+          "scid": "an7.15:3.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī … pe …",
+          "en": "It’s the kind of person who, rising up, thinks: ‘It’s good to have faith, conscience, prudence, energy, and wisdom regarding skillful qualities.’"
+        },
+        {
+          "scid": "an7.15:3.3",
+          "pli": "sādhu ottappaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:3.4",
+          "pli": "sādhu vīriyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:3.5",
+          "pli": "sādhu paññā kusalesu dhammesūti.",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:3.6",
+          "pli": "Tassa sā saddhā neva tiṭṭhati no vaḍḍhati hāyatiyeva, tassa sā hirī … pe …",
+          "en": "However their faith, conscience, prudence, energy, and wisdom don’t last or grow, but dwindle away."
+        },
+        {
+          "scid": "an7.15:3.7",
+          "pli": "tassa taṃ ottappaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:3.8",
+          "pli": "tassa taṃ vīriyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:3.9",
+          "pli": "tassa sā paññā neva tiṭṭhati no vaḍḍhati hāyatiyeva.",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:3.10",
+          "pli": "Evaṃ kho, bhikkhave, puggalo ummujjitvā nimujjati. (2)",
+          "en": "This kind of person rises up then sinks under."
+        },
+        {
+          "scid": "an7.15:4.1",
+          "pli": "Kathañca, bhikkhave, puggalo ummujjitvā ṭhito hoti?",
+          "en": "And what kind of person rises up then stays put?"
+        },
+        {
+          "scid": "an7.15:4.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī … pe …",
+          "en": "It’s the kind of person who, rising up, thinks: ‘It’s good to have faith, conscience, prudence, energy, and wisdom regarding skillful qualities.’"
+        },
+        {
+          "scid": "an7.15:4.3",
+          "pli": "sādhu ottappaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:4.4",
+          "pli": "sādhu vīriyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:4.5",
+          "pli": "sādhu paññā kusalesu dhammesūti.",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:4.6",
+          "pli": "Tassa sā saddhā neva hāyati no vaḍḍhati ṭhitā hoti.",
+          "en": "And their faith, conscience, prudence, energy, and wisdom lasts, neither dwindling nor growing."
+        },
+        {
+          "scid": "an7.15:4.7",
+          "pli": "Tassa sā hirī … pe …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:4.8",
+          "pli": "tassa taṃ ottappaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:4.9",
+          "pli": "tassa taṃ vīriyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:4.10",
+          "pli": "tassa sā paññā neva hāyati no vaḍḍhati ṭhitā hoti.",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:4.11",
+          "pli": "Evaṃ kho, bhikkhave, puggalo ummujjitvā ṭhito hoti. (3)",
+          "en": "This kind of person rises up then stays put."
+        },
+        {
+          "scid": "an7.15:5.1",
+          "pli": "Kathañca, bhikkhave, puggalo ummujjitvā vipassati viloketi?",
+          "en": "And what kind of person rises up then sees and discerns?"
+        },
+        {
+          "scid": "an7.15:5.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī … pe …",
+          "en": "It’s the kind of person who, rising up, thinks: ‘It’s good to have faith, conscience, prudence, energy, and wisdom regarding skillful qualities.’"
+        },
+        {
+          "scid": "an7.15:5.3",
+          "pli": "sādhu ottappaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:5.4",
+          "pli": "sādhu vīriyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:5.5",
+          "pli": "sādhu paññā kusalesu dhammesūti.",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:5.6",
+          "pli": "So tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo.",
+          "en": "With the ending of three fetters they’re a stream-enterer, not liable to be reborn in the underworld, bound for awakening."
+        },
+        {
+          "scid": "an7.15:5.7",
+          "pli": "Evaṃ kho, bhikkhave, puggalo ummujjitvā vipassati viloketi. (4)",
+          "en": "This kind of person rises out then sees and discerns."
+        },
+        {
+          "scid": "an7.15:6.1",
+          "pli": "Kathañca, bhikkhave, puggalo ummujjitvā patarati?",
+          "en": "And what kind of person rises up then crosses over?"
+        },
+        {
+          "scid": "an7.15:6.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī … pe …",
+          "en": "It’s the kind of person who, rising up, thinks: ‘It’s good to have faith, conscience, prudence, energy, and wisdom regarding skillful qualities.’"
+        },
+        {
+          "scid": "an7.15:6.3",
+          "pli": "sādhu ottappaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:6.4",
+          "pli": "sādhu vīriyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:6.5",
+          "pli": "sādhu paññā kusalesu dhammesūti.",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:6.6",
+          "pli": "So tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmī hoti, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karoti.",
+          "en": "With the ending of three fetters, and the weakening of greed, hate, and delusion, they’re a once-returner. They come back to this world once only, then make an end of suffering."
+        },
+        {
+          "scid": "an7.15:6.7",
+          "pli": "Evaṃ kho, bhikkhave, puggalo ummujjitvā patarati. (5)",
+          "en": "This kind of person rises up then crosses over."
+        },
+        {
+          "scid": "an7.15:7.1",
+          "pli": "Kathañca, bhikkhave, puggalo ummujjitvā patigādhappatto hoti?",
+          "en": "And what kind of person rises up then finds a footing?"
+        },
+        {
+          "scid": "an7.15:7.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī … pe …",
+          "en": "It’s the kind of person who, rising up, thinks: ‘It’s good to have faith, conscience, prudence, energy, and wisdom regarding skillful qualities.’"
+        },
+        {
+          "scid": "an7.15:7.3",
+          "pli": "sādhu ottappaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:7.4",
+          "pli": "sādhu vīriyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:7.5",
+          "pli": "sādhu paññā kusalesu dhammesūti.",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:7.6",
+          "pli": "So pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā lokā.",
+          "en": "With the ending of the five lower fetters they’re reborn spontaneously. They are extinguished there, and are not liable to return from that world."
+        },
+        {
+          "scid": "an7.15:7.7",
+          "pli": "Evaṃ kho, bhikkhave, puggalo ummujjitvā patigādhappatto hoti. (6)",
+          "en": "This kind of person rises up then finds a footing."
+        },
+        {
+          "scid": "an7.15:8.1",
+          "pli": "Kathañca, bhikkhave, puggalo ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo.",
+          "en": "And what kind of person has risen up, crossed over, and gone beyond, a brahmin who stands on the shore?"
+        },
+        {
+          "scid": "an7.15:8.2",
+          "pli": "Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī … pe …",
+          "en": "It’s the kind of person who, rising up, thinks: ‘It’s good to have faith, conscience, prudence, energy, and wisdom regarding skillful qualities.’"
+        },
+        {
+          "scid": "an7.15:8.3",
+          "pli": "sādhu ottappaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:8.4",
+          "pli": "sādhu vīriyaṃ …",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:8.5",
+          "pli": "sādhu paññā kusalesu dhammesūti.",
+          "en": ""
+        },
+        {
+          "scid": "an7.15:8.6",
+          "pli": "So āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.",
+          "en": "They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements."
+        },
+        {
+          "scid": "an7.15:8.7",
+          "pli": "Evaṃ kho, bhikkhave, puggalo ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo. (7)",
+          "en": "This kind of person has risen up, crossed over, and gone beyond, a brahmin who stands on the shore."
+        },
+        {
+          "scid": "an7.15:9.1",
+          "pli": "Ime kho, bhikkhave, satta udakūpamā puggalā santo saṃvijjamānā lokasmin”ti.",
+          "en": "These seven people found in the world are like those in water.”"
+        },
+        {
+          "scid": "an7.15:9.2",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.15",
+    "volpages": "AN iv 11",
+    "uid": "an7.15",
+    "blurb": "Seven people found in the world who are like those in water.",
+    "difficulty": null,
+    "original_title": "Udakūpamā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Simile With Water",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.15_sujato",
+        "segmented": true,
+        "title": "A Simile With Water"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_an7.15_thanissaro",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Water Simile"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 5
+  }
+}

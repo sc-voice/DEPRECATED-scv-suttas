@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.59",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.59",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "A Partner",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Poet",
+      "uid": "sn1.60"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Deviation",
+      "uid": "sn1.58"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.59:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.59:0.2",
+          "pli": "6. Jarāvagga",
+          "en": "6. Old Age"
+        },
+        {
+          "scid": "sn1.59:0.3",
+          "pli": "59. Dutiyasutta",
+          "en": "59. A Partner"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.59:1.1",
+          "pli": "“Kiṃsu dutiyā purisassa hoti,",
+          "en": "“What is a person’s partner?"
+        },
+        {
+          "scid": "sn1.59:1.2",
+          "pli": "Kiṃsu cenaṃ pasāsati;",
+          "en": "What instructs them?"
+        },
+        {
+          "scid": "sn1.59:1.3",
+          "pli": "Kissa cābhirato macco,",
+          "en": "Enjoying what is a mortal"
+        },
+        {
+          "scid": "sn1.59:1.4",
+          "pli": "Sabbadukkhā pamuccatī”ti.",
+          "en": "released from all suffering?”"
+        },
+        {
+          "scid": "sn1.59:2.1",
+          "pli": "“Saddhā dutiyā purisassa hoti,",
+          "en": "“Faith is a person’s partner."
+        },
+        {
+          "scid": "sn1.59:2.2",
+          "pli": "Paññā cenaṃ pasāsati;",
+          "en": "Wisdom instructs them."
+        },
+        {
+          "scid": "sn1.59:2.3",
+          "pli": "Nibbānābhirato macco,",
+          "en": "Enjoying extinguishment a mortal"
+        },
+        {
+          "scid": "sn1.59:2.4",
+          "pli": "Sabbadukkhā pamuccatī”ti.",
+          "en": "is released from all suffering.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What is a person’s partner…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.59/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.59//SN 59",
+    "volpages": "SN i 38//SN i 84",
+    "uid": "sn1.59",
+    "blurb": "A person’s true companion is their faith.",
+    "difficulty": null,
+    "original_title": "Dutiya Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "A Partner",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.59_sujato",
+        "segmented": true,
+        "title": "A Partner"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.59_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Partner"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 9
+  }
+}

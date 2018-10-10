@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an4.252",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an4.252",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Expressions (3rd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Expressions (4th)",
+      "uid": "an4.253"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Expressions (2nd)",
+      "uid": "an4.251"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.252:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.252:0.2",
+          "pli": "25. Āpattibhayavagga",
+          "en": "25. Perils of Offenses"
+        },
+        {
+          "scid": "an4.252:0.3",
+          "pli": "252. Tatiyavohārasutta",
+          "en": "252. Expressions (3rd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.252:1.1",
+          "pli": "“Cattārome, bhikkhave, anariyavohārā.",
+          "en": "“Mendicants, there are these four ignoble expressions."
+        },
+        {
+          "scid": "an4.252:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "an4.252:1.3",
+          "pli": "Diṭṭhe adiṭṭhavāditā, sute asutavāditā, mute amutavāditā, viññāte aviññātavāditā—",
+          "en": "Saying you haven’t seen, heard, thought, or cognized something, and you have."
+        },
+        {
+          "scid": "an4.252:1.4",
+          "pli": "ime kho, bhikkhave, cattāro anariyavohārā”ti.",
+          "en": "These are the four ignoble expressions.”"
+        },
+        {
+          "scid": "an4.252:1.5",
+          "pli": "Dasamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.252/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 4.252//AN 4.249",
+    "volpages": "AN ii 246",
+    "uid": "an4.252",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Tatiyavohāra Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Expressions (3rd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an4.252_sujato",
+        "segmented": true,
+        "title": "Expressions (3rd)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.54",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.54",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Grounds",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gives Birth (1st)",
+      "uid": "sn1.55"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Friend",
+      "uid": "sn1.53"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.54:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.54:0.2",
+          "pli": "6. Jarāvagga",
+          "en": "6. Old Age"
+        },
+        {
+          "scid": "sn1.54:0.3",
+          "pli": "54. Vatthusutta",
+          "en": "54. Grounds"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.54:1.1",
+          "pli": "“Kiṃsu vatthu manussānaṃ,",
+          "en": "“What is the ground of human beings?"
+        },
+        {
+          "scid": "sn1.54:1.2",
+          "pli": "kiṃsūdha paramo sakhā;",
+          "en": "What is the best companion here?"
+        },
+        {
+          "scid": "sn1.54:1.3",
+          "pli": "Kiṃsu bhūtā upajīvanti,",
+          "en": "By what do the creatures who live off the earth"
+        },
+        {
+          "scid": "sn1.54:1.4",
+          "pli": "ye pāṇā pathavissitā”ti.",
+          "en": "sustain their life?”"
+        },
+        {
+          "scid": "sn1.54:2.1",
+          "pli": "“Puttā vatthu manussānaṃ,",
+          "en": "“Children are the ground of human beings."
+        },
+        {
+          "scid": "sn1.54:2.2",
+          "pli": "bhariyā ca paramo sakhā;",
+          "en": "A wife is the best companion."
+        },
+        {
+          "scid": "sn1.54:2.3",
+          "pli": "Vuṭṭhiṃ bhūtā upajīvanti,",
+          "en": "The creatures who live off the earth"
+        },
+        {
+          "scid": "sn1.54:2.4",
+          "pli": "ye pāṇā pathavissitā”ti.",
+          "en": "sustain their life by rain.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What is the ground of human beings…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.54/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.54//SN 54",
+    "volpages": "SN i 37//SN i 81",
+    "uid": "sn1.54",
+    "blurb": "What is it that sustains various beings? Unusually, this verse lacks a “Dhamma” counterpart.",
+    "difficulty": null,
+    "original_title": "Vatthu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Grounds",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.54_sujato",
+        "segmented": true,
+        "title": "Grounds"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.54_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Support"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

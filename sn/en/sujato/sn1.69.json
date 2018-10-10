@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "sn1.69",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.69",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Desire",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The World",
+      "uid": "sn1.70"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fastened Shut",
+      "uid": "sn1.68"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.69:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.69:0.2",
+          "pli": "7. Addhavagga",
+          "en": "7. Oppressed"
+        },
+        {
+          "scid": "sn1.69:0.3",
+          "pli": "69. Icchāsutta",
+          "en": "69. Desire"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.69:1.1",
+          "pli": "“Kenassu bajjhatī loko,",
+          "en": "“What is it that binds the world?"
+        },
+        {
+          "scid": "sn1.69:1.2",
+          "pli": "kissa vinayāya muccati;",
+          "en": "By removing what is it freed?"
+        },
+        {
+          "scid": "sn1.69:1.3",
+          "pli": "Kissassu vippahānena,",
+          "en": "With the giving up of what"
+        },
+        {
+          "scid": "sn1.69:1.4",
+          "pli": "sabbaṃ chindati bandhanan”ti.",
+          "en": "are all bonds severed?”"
+        },
+        {
+          "scid": "sn1.69:2.1",
+          "pli": "“Icchāya bajjhatī loko,",
+          "en": "“Desire is what binds the world."
+        },
+        {
+          "scid": "sn1.69:2.2",
+          "pli": "icchāvinayāya muccati;",
+          "en": "By the removing of desire it’s freed."
+        },
+        {
+          "scid": "sn1.69:2.3",
+          "pli": "Icchāya vippahānena,",
+          "en": "With the giving up of craving,"
+        },
+        {
+          "scid": "sn1.69:2.4",
+          "pli": "sabbaṃ chindati bandhanan”ti.",
+          "en": "all bonds are severed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What is it that binds the world…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.69/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.69//SN 69",
+    "volpages": "SN i 40//SN i 91",
+    "uid": "sn1.69",
+    "blurb": "The world is bound by desire.",
+    "difficulty": null,
+    "original_title": "Icchā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Desire",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.69_sujato",
+        "segmented": true,
+        "title": "Desire"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.69_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Desire"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

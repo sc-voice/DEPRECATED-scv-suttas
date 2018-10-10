@@ -1,0 +1,133 @@
+{
+  "sutta_uid": "an11.310-357",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an11.310-357",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an11.358-405"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an11.262-309"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an11.310-357:1.1",
+          "pli": "Aṅguttara Nikāya 11",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:2.1",
+          "pli": "Paṭhamapaṇṇāsaka",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:3.1",
+          "pli": "Sāmaññavagga",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:4.1",
+          "pli": "AN 11.310–357",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:5.1",
+          "pli": "…",
+          "en": "…"
+        },
+        {
+          "scid": "an11.310-357:5.2",
+          "pli": "Rūpasañcetanāya…",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:5.3",
+          "pli": "saddasañcetanāya…",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:5.4",
+          "pli": "gandhasañcetanāya…",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:5.5",
+          "pli": "rasasañcetanāya…",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:5.6",
+          "pli": "phoṭṭhabbasañcetanāya…",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:5.7",
+          "pli": "dhammasañcetanāya…",
+          "en": ""
+        },
+        {
+          "scid": "an11.310-357:5.8",
+          "pli": ".",
+          "en": "."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an11.310-357/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "an11.310-357",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an11.310-357_sujato",
+        "segmented": true,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

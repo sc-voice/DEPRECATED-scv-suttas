@@ -1,0 +1,120 @@
+{
+  "sutta_uid": "sn46.121-129",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn46.121-129",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Floods",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Higher Fetters",
+      "uid": "sn46.130"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Searches, Etc.",
+      "uid": "sn46.111-120"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn46.121-129:0.1",
+          "pli": "Saṃyutta Nikāya 46",
+          "en": "Linked Discourses 46"
+        },
+        {
+          "scid": "sn46.121-129:0.2",
+          "pli": "13. Oghavagga",
+          "en": "13. Floods"
+        },
+        {
+          "scid": "sn46.121-129:0.3",
+          "pli": "121–​129. Oghādisutta",
+          "en": "121–​129. Floods"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 46…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn46.121-129:1.1",
+          "pli": "“Cattārome, bhikkhave, oghā.",
+          "en": "“Mendicants, there are these four floods."
+        },
+        {
+          "scid": "sn46.121-129:1.2",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn46.121-129:1.3",
+          "pli": "Kāmogho, bhavogho, diṭṭhogho, avijjogho”ti.",
+          "en": "The floods of sensuality, desire to be reborn, views, and ignorance.”"
+        },
+        {
+          "scid": "sn46.121-129:1.4",
+          "pli": "vitthāretabbaṃ.",
+          "en": "(To be expanded as in SN 45.171–179.)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn46.121-129/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": null,
+    "uid": "sn46.121-129",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Oghādi Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Floods",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn46.121-129_sujato",
+        "segmented": true,
+        "title": "Floods"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

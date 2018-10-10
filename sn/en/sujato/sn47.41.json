@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn47.41",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.41",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Deathless",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Origin",
+      "uid": "sn47.42"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Analysis",
+      "uid": "sn47.40"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.41:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.41:0.2",
+          "pli": "5. Amatavagga",
+          "en": "5. The Deathless"
+        },
+        {
+          "scid": "sn47.41:0.3",
+          "pli": "41. Amatasutta",
+          "en": "41. The Deathless"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.41:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn47.41:1.2",
+          "pli": "“Catūsu, bhikkhave, satipaṭṭhānesu suppatiṭṭhitacittā viharatha.",
+          "en": "“Mendicants, you should meditate with your mind firmly established in the four kinds of mindfulness meditation."
+        },
+        {
+          "scid": "sn47.41:1.3",
+          "pli": "Mā vo amataṃ panassa.",
+          "en": "Don’t let the deathless escape you."
+        },
+        {
+          "scid": "sn47.41:1.4",
+          "pli": "Katamesu catūsu?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn47.41:1.5",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.41:1.6",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn47.41:1.7",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn47.41:1.8",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.41:1.9",
+          "pli": "Imesu, bhikkhave, catūsu satipaṭṭhānesu suppatiṭṭhitacittā viharatha.",
+          "en": "You should meditate with your mind firmly established in the four kinds of mindfulness meditation."
+        },
+        {
+          "scid": "sn47.41:1.10",
+          "pli": "Mā vo amataṃ panassā”ti.",
+          "en": "Don’t let the deathless escape you.”"
+        },
+        {
+          "scid": "sn47.41:1.11",
+          "pli": "Paṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.41/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 47.41",
+    "volpages": "SN v 184",
+    "uid": "sn47.41",
+    "blurb": "Develop the four kinds of mindfulness meditation, don’t let the deathless be lost.",
+    "difficulty": null,
+    "original_title": "Amata Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Deathless",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.41_sujato",
+        "segmented": true,
+        "title": "The Deathless"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.41_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "The Deathless"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

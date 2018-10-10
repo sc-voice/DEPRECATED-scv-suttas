@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn56.57",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.57",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Ocean (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Ocean (2nd)",
+      "uid": "sn56.58"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Earth (2nd)",
+      "uid": "sn56.56"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.57:0.1",
+          "pli": "Saṃyutta Nikāya 56",
+          "en": "Linked Discourses 56"
+        },
+        {
+          "scid": "sn56.57:0.2",
+          "pli": "6. Abhisamayavagga",
+          "en": "6. Comprehension"
+        },
+        {
+          "scid": "sn56.57:0.3",
+          "pli": "57. Paṭhamamahāsamuddasutta",
+          "en": "57. The Ocean (1st)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.57:1.1",
+          "pli": "“Seyyathāpi, bhikkhave, puriso mahāsamuddato dve vā tīṇi vā udakaphusitāni uddharitāni.",
+          "en": "“Mendicants, suppose a man was to draw up two or three drops of water from the ocean."
+        },
+        {
+          "scid": "sn56.57:1.2",
+          "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
+          "en": "What do you think, mendicants? "
+        },
+        {
+          "scid": "sn56.57:1.3",
+          "pli": "katamaṃ nu kho bahutaraṃ—yāni dve vā tīṇi vā udakaphusitāni ubbhatāni, yaṃ vā mahāsamudde udakan”ti?",
+          "en": "Which is more: the two or three drops drawn out or the water in the ocean?”"
+        },
+        {
+          "scid": "sn56.57:1.4",
+          "pli": "“Etadeva, bhante, bahutaraṃ, yadidaṃ—mahāsamudde udakaṃ; appamattakāni dve vā tīṇi vā udakaphusitāni ubbhatāni.",
+          "en": "“Sir, the water in the ocean is certainly more. The two or three drops drawn out are tiny."
+        },
+        {
+          "scid": "sn56.57:1.5",
+          "pli": "Saṅkhampi na upenti, upanidhampi na upenti, kalabhāgampi na upenti mahāsamudde udakaṃ upanidhāya dve vā tīṇi vā udakaphusitāni ubbhatānī”ti.",
+          "en": "Compared to the water in the ocean, it can’t be reckoned or compared, it’s not even a fraction.”"
+        },
+        {
+          "scid": "sn56.57:1.6",
+          "pli": "“Evameva kho, bhikkhave, ariyasāvakassa … pe …",
+          "en": "“In the same way, for a noble disciple …"
+        },
+        {
+          "scid": "sn56.57:1.7",
+          "pli": "yogo karaṇīyo”ti.",
+          "en": "That’s why you should practice meditation …”"
+        },
+        {
+          "scid": "sn56.57:1.8",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.57/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.57",
+    "volpages": "SN v 463",
+    "uid": "sn56.57",
+    "blurb": "As a few drops of water compared to the ocean, so is the suffering remaining to one who has seen the four noble truths.",
+    "difficulty": null,
+    "original_title": "Paṭhamamahāsamudda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Ocean (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn56.57_sujato",
+        "segmented": true,
+        "title": "The Ocean (1st)"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 7
+  }
+}

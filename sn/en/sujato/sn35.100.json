@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn35.100",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.100",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Retreat",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "It’s Not Yours (1st)",
+      "uid": "sn35.101"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Immersion",
+      "uid": "sn35.99"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.100:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.100:0.2",
+          "pli": "10. Saḷavagga",
+          "en": "10. The Sixes"
+        },
+        {
+          "scid": "sn35.100:0.3",
+          "pli": "100. Paṭisallānasutta",
+          "en": "100. Retreat"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.100:1.1",
+          "pli": "“Paṭisallāne, bhikkhave, yogamāpajjatha.",
+          "en": "“Mendicants, meditate in retreat."
+        },
+        {
+          "scid": "sn35.100:1.2",
+          "pli": "Paṭisallīno, bhikkhave, bhikkhu yathābhūtaṃ pajānāti.",
+          "en": "A mendicant in retreat truly understands."
+        },
+        {
+          "scid": "sn35.100:1.3",
+          "pli": "Kiñca yathābhūtaṃ pajānāti?",
+          "en": "What do they truly understand?"
+        },
+        {
+          "scid": "sn35.100:1.4",
+          "pli": "‘Cakkhu aniccan’ti yathābhūtaṃ pajānāti;",
+          "en": "They truly understand that the eye is impermanent."
+        },
+        {
+          "scid": "sn35.100:1.5",
+          "pli": "‘rūpā aniccā’ti yathābhūtaṃ pajānāti;",
+          "en": "They truly understand that sights …"
+        },
+        {
+          "scid": "sn35.100:1.6",
+          "pli": "‘cakkhuviññāṇaṃ aniccan’ti yathābhūtaṃ pajānāti;",
+          "en": "eye consciousness …"
+        },
+        {
+          "scid": "sn35.100:1.7",
+          "pli": "‘cakkhusamphasso anicco’ti yathābhūtaṃ pajānāti … pe …",
+          "en": "eye contact …"
+        },
+        {
+          "scid": "sn35.100:1.8",
+          "pli": "‘yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccan’ti yathābhūtaṃ pajānāti.",
+          "en": "the pleasant, painful, or neutral feeling that arises conditioned by mind contact is impermanent."
+        },
+        {
+          "scid": "sn35.100:1.9",
+          "pli": "Paṭisallāne, bhikkhave, yogamāpajjatha.",
+          "en": "Mendicants, meditate in retreat."
+        },
+        {
+          "scid": "sn35.100:1.10",
+          "pli": "Paṭisallīno, bhikkhave, bhikkhu yathābhūtaṃ pajānātī”ti.",
+          "en": "A mendicant in retreat truly understands.”"
+        },
+        {
+          "scid": "sn35.100:1.11",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.100/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.100",
+    "volpages": "SN iv 80",
+    "uid": "sn35.100",
+    "blurb": "Develop seclusion so as to truly understand the process of sense experience.",
+    "difficulty": null,
+    "original_title": "Paṭisallāna Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Retreat",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.100_sujato",
+        "segmented": true,
+        "title": "Retreat"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.100_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Seclusion"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 7
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "sn47.44",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn47.44",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Mindful",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "A Heap of the Skillful",
+      "uid": "sn47.45"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Path",
+      "uid": "sn47.43"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn47.44:0.1",
+          "pli": "Saṃyutta Nikāya 47",
+          "en": "Linked Discourses 47"
+        },
+        {
+          "scid": "sn47.44:0.2",
+          "pli": "5. Amatavagga",
+          "en": "5. The Deathless"
+        },
+        {
+          "scid": "sn47.44:0.3",
+          "pli": "44. Satisutta",
+          "en": "44. Mindful"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 47…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn47.44:1.1",
+          "pli": "“Sato, bhikkhave, bhikkhu vihareyya.",
+          "en": "“Mendicants, a mendicant should live mindfully."
+        },
+        {
+          "scid": "sn47.44:1.2",
+          "pli": "Ayaṃ vo amhākaṃ anusāsanī.",
+          "en": "This is my instruction to you."
+        },
+        {
+          "scid": "sn47.44:1.3",
+          "pli": "Kathañca, bhikkhave, bhikkhu sato hoti?",
+          "en": "And how is a mendicant mindful?"
+        },
+        {
+          "scid": "sn47.44:1.4",
+          "pli": "Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.44:1.5",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn47.44:1.6",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn47.44:1.7",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn47.44:1.8",
+          "pli": "Evaṃ kho, bhikkhave, bhikkhu sato hoti.",
+          "en": "That’s how a mendicant is mindful."
+        },
+        {
+          "scid": "sn47.44:1.9",
+          "pli": "Sato, bhikkhave, bhikkhu vihareyya.",
+          "en": "A mendicant should live mindfully."
+        },
+        {
+          "scid": "sn47.44:1.10",
+          "pli": "Ayaṃ vo amhākaṃ anusāsanī”ti.",
+          "en": "This is my instruction to you.”"
+        },
+        {
+          "scid": "sn47.44:1.11",
+          "pli": "Catutthaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn47.44/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 47.44",
+    "volpages": "SN v 186",
+    "uid": "sn47.44",
+    "blurb": "Be mindful by developing the four kinds of mindfulness meditation.",
+    "difficulty": null,
+    "original_title": "Sati Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mindful",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn47.44_sujato",
+        "segmented": true,
+        "title": "Mindful"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn47.44_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Mindful"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "sutta_uid": "an5.86",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.86",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Attaining the Methods of Textual Analysis",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ethical",
+      "uid": "an5.87"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cannot Endure",
+      "uid": "an5.85"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.86:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.86:0.2",
+          "pli": "9. Theravagga",
+          "en": "9. Senior Mendicants"
+        },
+        {
+          "scid": "an5.86:0.3",
+          "pli": "86. Paṭisambhidāpattasutta",
+          "en": "86. Attaining the Methods of Textual Analysis"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.86:1.1",
+          "pli": "“Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.",
+          "en": "“A senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired."
+        },
+        {
+          "scid": "an5.86:1.2",
+          "pli": "Katamehi pañcahi?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.86:1.3",
+          "pli": "Atthapaṭisambhidāpatto hoti, dhammapaṭisambhidāpatto hoti, niruttipaṭisambhidāpatto hoti, paṭibhānapaṭisambhidāpatto hoti, ",
+          "en": "They have attained the textual analysis of meaning, text, terminology, and eloquence. "
+        },
+        {
+          "scid": "an5.86:1.4",
+          "pli": "yāni tāni sabrahmacārīnaṃ uccāvacāni kiṃkaraṇīyāni tattha dakkho hoti analaso tatrupāyāya vīmaṃsāya samannāgato alaṃ kātuṃ alaṃ saṃvidhātuṃ—",
+          "en": "And they are skilled and tireless in a diverse spectrum of duties for their spiritual companions, understanding how to go about things in order to complete and organize the work."
+        },
+        {
+          "scid": "an5.86:1.5",
+          "pli": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti.",
+          "en": "A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”"
+        },
+        {
+          "scid": "an5.86:1.6",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“A senior mendicant with five qualities is…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.86/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.86",
+    "volpages": "AN iii 113",
+    "uid": "an5.86",
+    "blurb": "A senior mendicant is like if they can analyze and explain the Dharma well, and if they are helpful in the monastery.",
+    "difficulty": null,
+    "original_title": "Paṭisambhidāpatta Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Attaining the Methods of Textual Analysis",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.86_sujato",
+        "segmented": true,
+        "title": "Attaining the Methods of Textual Analysis"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

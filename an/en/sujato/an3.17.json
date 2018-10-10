@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "an3.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Hurting Yourself",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Realm of the Gods",
+      "uid": "an3.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Guaranteed",
+      "uid": "an3.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.17:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.17:0.2",
+          "pli": "2. Rathakāravagga",
+          "en": "2. The Chariotmaker"
+        },
+        {
+          "scid": "an3.17:0.3",
+          "pli": "17. Attabyābādhasutta",
+          "en": "17. Hurting Yourself"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.17:1.1",
+          "pli": "“Tayome, bhikkhave, dhammā attabyābādhāyapi saṃvattanti, parabyābādhāyapi saṃvattanti, ubhayabyābādhāyapi saṃvattanti.",
+          "en": "“These three things, mendicants, lead to hurting yourself, hurting others, and hurting both."
+        },
+        {
+          "scid": "an3.17:1.2",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.17:1.3",
+          "pli": "Kāyaduccaritaṃ, vacīduccaritaṃ, manoduccaritaṃ.",
+          "en": "Bad conduct by way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.17:1.4",
+          "pli": "Ime kho, bhikkhave, tayo dhammā attabyābādhāyapi saṃvattanti, parabyābādhāyapi saṃvattanti, ubhayabyābādhāyapi saṃvattanti.",
+          "en": "These are three things that lead to hurting yourself, hurting others, and hurting both."
+        },
+        {
+          "scid": "an3.17:2.1",
+          "pli": "Tayome, bhikkhave, dhammā nevattabyābādhāyapi saṃvattanti, na parabyābādhāyapi saṃvattanti, na ubhayabyābādhāyapi saṃvattanti.",
+          "en": "These three things, mendicants, don’t lead to hurting yourself, hurting others, or hurting both."
+        },
+        {
+          "scid": "an3.17:2.2",
+          "pli": "Katame tayo?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.17:2.3",
+          "pli": "Kāyasucaritaṃ, vacīsucaritaṃ, manosucaritaṃ.",
+          "en": "Good conduct by way of body, speech, and mind."
+        },
+        {
+          "scid": "an3.17:2.4",
+          "pli": "Ime kho, bhikkhave, tayo dhammā nevattabyābādhāyapi saṃvattanti, na parabyābādhāyapi saṃvattanti, na ubhayabyābādhāyapi saṃvattantī”ti.",
+          "en": "These are three things that don’t lead to hurting yourself, hurting others, or hurting both.”"
+        },
+        {
+          "scid": "an3.17:2.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“These three things…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.17",
+    "volpages": "AN i 114",
+    "uid": "an3.17",
+    "blurb": "Hurting yourself and others.",
+    "difficulty": null,
+    "original_title": "Attabyābādha Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Hurting Yourself",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.17_sujato",
+        "segmented": true,
+        "title": "Hurting Yourself"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an3.17_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Oneself"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

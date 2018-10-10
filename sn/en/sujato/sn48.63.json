@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "sn48.63",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn48.63",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Complete Understanding",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ending of Defilements",
+      "uid": "sn48.64"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Tendencies",
+      "uid": "sn48.62"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn48.63:0.1",
+          "pli": "Saṃyutta Nikāya 48",
+          "en": "Linked Discourses 48"
+        },
+        {
+          "scid": "sn48.63:0.2",
+          "pli": "7. Bodhipakkhiyavagga",
+          "en": "7. Leading to Awakening"
+        },
+        {
+          "scid": "sn48.63:0.3",
+          "pli": "63. Pariññāsutta",
+          "en": "63. Complete Understanding"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 48…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn48.63:1.1",
+          "pli": "“Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni addhānapariññāya saṃvattanti.",
+          "en": "“Mendicants, when these five faculties are developed and cultivated they lead to the complete understanding of the course of time."
+        },
+        {
+          "scid": "sn48.63:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "sn48.63:1.3",
+          "pli": "Saddhindriyaṃ … pe … paññindriyaṃ—",
+          "en": "The faculties of faith, energy, mindfulness, immersion, and wisdom."
+        },
+        {
+          "scid": "sn48.63:1.4",
+          "pli": "imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni addhānapariññāya saṃvattantī”ti.",
+          "en": "When these five faculties are developed and cultivated they lead to the complete understanding of the course of time.”"
+        },
+        {
+          "scid": "sn48.63:1.5",
+          "pli": "Tatiyaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn48.63/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 48.63",
+    "volpages": "SN v 236",
+    "uid": "sn48.63",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Pariññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Complete Understanding",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn48.63_sujato",
+        "segmented": true,
+        "title": "Complete Understanding"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

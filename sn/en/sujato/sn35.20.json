@@ -1,0 +1,195 @@
+{
+  "sutta_uid": "sn35.20",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn35.20",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Taking Pleasure (Exterior)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Arising of Suffering (Interior)",
+      "uid": "sn35.21"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Taking Pleasure (Interior)",
+      "uid": "sn35.19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn35.20:0.1",
+          "pli": "Saṃyutta Nikāya 35",
+          "en": "Linked Discourses 35"
+        },
+        {
+          "scid": "sn35.20:0.2",
+          "pli": "2. Yamakavagga",
+          "en": "2. Pairs"
+        },
+        {
+          "scid": "sn35.20:0.3",
+          "pli": "20. Dutiyābhinandasutta",
+          "en": "20. Taking Pleasure (Exterior)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 35…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn35.20:1.1",
+          "pli": "“Yo, bhikkhave, rūpe abhinandati, dukkhaṃ so abhinandati.",
+          "en": "“Mendicants, if you take pleasure in sights, you take pleasure in suffering."
+        },
+        {
+          "scid": "sn35.20:1.2",
+          "pli": "Yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi.",
+          "en": "If you take pleasure in suffering, I say you’re not exempt from suffering. …”"
+        },
+        {
+          "scid": "sn35.20:1.3",
+          "pli": "Yo sadde … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:1.4",
+          "pli": "gandhe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:1.5",
+          "pli": "rase …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:1.6",
+          "pli": "phoṭṭhabbe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:1.7",
+          "pli": "dhamme abhinandati, dukkhaṃ so abhinandati.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:1.8",
+          "pli": "Yo dukkhaṃ abhinandati, aparimutto so dukkhasmā”ti vadāmi.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.1",
+          "pli": "“Yo ca kho, bhikkhave, rūpe nābhinandati, dukkhaṃ so nābhinandati.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.2",
+          "pli": "Yo dukkhaṃ nābhinandati, parimutto so dukkhasmā”ti vadāmi.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.3",
+          "pli": "Yo sadde … pe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.4",
+          "pli": "gandhe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.5",
+          "pli": "rase …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.6",
+          "pli": "phoṭṭhabbe …",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.7",
+          "pli": "dhamme nābhinandati, dukkhaṃ so nābhinandati.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.8",
+          "pli": "Yo dukkhaṃ nābhinandati, parimutto so dukkhasmā”ti vadāmi.",
+          "en": ""
+        },
+        {
+          "scid": "sn35.20:2.9",
+          "pli": "Aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn35.20/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 35.20",
+    "volpages": "SN iv 13",
+    "uid": "sn35.20",
+    "blurb": "If you enjoy the six exterior sense fields, you enjoy suffering.",
+    "difficulty": null,
+    "original_title": "Dutiyābhinanda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Taking Pleasure (Exterior)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn35.20_sujato",
+        "segmented": true,
+        "title": "Taking Pleasure (Exterior)"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn35.20_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Delight (2)"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 8
+  }
+}

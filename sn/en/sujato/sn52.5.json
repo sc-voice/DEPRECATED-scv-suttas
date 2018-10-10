@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "sn52.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn52.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "At Thorny Wood (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At Thorny Wood (3rd)",
+      "uid": "sn52.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "At Thorny Wood (1st)",
+      "uid": "sn52.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn52.5:0.1",
+          "pli": "Saṃyutta Nikāya 52",
+          "en": "Linked Discourses 52"
+        },
+        {
+          "scid": "sn52.5:0.2",
+          "pli": "1. Rahogatavagga",
+          "en": "1. In Private"
+        },
+        {
+          "scid": "sn52.5:0.3",
+          "pli": "5. Dutiyakaṇḍakīsutta",
+          "en": "5. At Thorny Wood (2nd)"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 52…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn52.5:1.1",
+          "pli": "Sāketanidānaṃ.",
+          "en": "At Sāketa."
+        },
+        {
+          "scid": "sn52.5:1.2",
+          "pli": "Ekamantaṃ nisinno kho āyasmā sāriputto āyasmantaṃ anuruddhaṃ etadavoca:",
+          "en": "Sāriputta said to Anuruddha:"
+        },
+        {
+          "scid": "sn52.5:1.3",
+          "pli": "“asekhenāvuso anuruddha, bhikkhunā katame dhammā upasampajja vihātabbā”ti?",
+          "en": "“Reverend Anuruddha, what things should a mendicant who is an adept enter and remain in?”"
+        },
+        {
+          "scid": "sn52.5:1.4",
+          "pli": "“Asekhenāvuso sāriputta, bhikkhunā cattāro satipaṭṭhānā upasampajja vihātabbā.",
+          "en": "“Reverend Sāriputta, a mendicant who is an adept should enter and remain in the four kinds of mindfulness meditation."
+        },
+        {
+          "scid": "sn52.5:1.5",
+          "pli": "Katame cattāro?",
+          "en": "What four?"
+        },
+        {
+          "scid": "sn52.5:1.6",
+          "pli": "Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ;",
+          "en": "It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn52.5:1.7",
+          "pli": "vedanāsu … pe …",
+          "en": "They meditate observing an aspect of feelings …"
+        },
+        {
+          "scid": "sn52.5:1.8",
+          "pli": "citte … pe …",
+          "en": "mind …"
+        },
+        {
+          "scid": "sn52.5:1.9",
+          "pli": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ—",
+          "en": "principles—keen, aware, and mindful, rid of desire and aversion for the world."
+        },
+        {
+          "scid": "sn52.5:1.10",
+          "pli": "asekhenāvuso sāriputta, bhikkhunā ime cattāro satipaṭṭhānā upasampajja vihātabbā”ti.",
+          "en": "A mendicant who is an adept should enter and remain in these four kinds of mindfulness meditation.”"
+        },
+        {
+          "scid": "sn52.5:1.11",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāketa…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn52.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 52.5",
+    "volpages": "SN v 299",
+    "uid": "sn52.5",
+    "blurb": "Sāriputta and Moggallāna ask Anuruddha what an adept mendicant should practice. He replies that it is the four kinds of mindfulness meditation.",
+    "difficulty": null,
+    "original_title": "Dutiyakaṇḍakī Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "At Thorny Wood (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn52.5_sujato",
+        "segmented": true,
+        "title": "At Thorny Wood (2nd)"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 5
+  }
+}

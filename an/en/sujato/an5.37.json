@@ -1,0 +1,200 @@
+{
+  "sutta_uid": "an5.37",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.37",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Food",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Faith",
+      "uid": "an5.38"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Timely Gifts",
+      "uid": "an5.36"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.37:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.37:0.2",
+          "pli": "4. Sumanavagga",
+          "en": "4. With Sumanā"
+        },
+        {
+          "scid": "an5.37:0.3",
+          "pli": "37. Bhojanasutta",
+          "en": "37. Food"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.37:1.1",
+          "pli": "“Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ pañca ṭhānāni deti.",
+          "en": "“Mendicants, when a giver gives food, they give the recipients five things."
+        },
+        {
+          "scid": "an5.37:1.2",
+          "pli": "Katamāni pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.37:1.3",
+          "pli": "Āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti, paṭibhānaṃ deti.",
+          "en": "Long life, beauty, happiness, strength, and inspiration."
+        },
+        {
+          "scid": "an5.37:1.4",
+          "pli": "Āyuṃ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā;",
+          "en": "Giving long life, they have long life as a god or human."
+        },
+        {
+          "scid": "an5.37:1.5",
+          "pli": "vaṇṇaṃ datvā vaṇṇassa bhāgī hoti dibbassa vā mānusassa vā;",
+          "en": "Giving beauty, they have beauty as a god or human."
+        },
+        {
+          "scid": "an5.37:1.6",
+          "pli": "sukhaṃ datvā sukhassa bhāgī hoti dibbassa vā mānusassa vā;",
+          "en": "Giving happiness, they have happiness as a god or human."
+        },
+        {
+          "scid": "an5.37:1.7",
+          "pli": "balaṃ datvā balassa bhāgī hoti dibbassa vā mānusassa vā;",
+          "en": "Giving strength, they have strength as a god or human."
+        },
+        {
+          "scid": "an5.37:1.8",
+          "pli": "paṭibhānaṃ datvā paṭibhānassa bhāgī hoti dibbassa vā mānusassa vā.",
+          "en": "Giving inspiration, they have inspiration as a god or human."
+        },
+        {
+          "scid": "an5.37:1.9",
+          "pli": "Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ imāni pañca ṭhānāni detīti.",
+          "en": "When a giver gives food, they give the recipients five things."
+        },
+        {
+          "scid": "an5.37:2.1",
+          "pli": "Āyudo balado dhīro,",
+          "en": "A wise person is a giver of life, strength,"
+        },
+        {
+          "scid": "an5.37:2.2",
+          "pli": "vaṇṇado paṭibhānado;",
+          "en": "beauty, and inspiration."
+        },
+        {
+          "scid": "an5.37:2.3",
+          "pli": "Sukhassa dātā medhāvī,",
+          "en": "An intelligent giver of happiness"
+        },
+        {
+          "scid": "an5.37:2.4",
+          "pli": "sukhaṃ so adhigacchati.",
+          "en": "gains happiness in return."
+        },
+        {
+          "scid": "an5.37:3.1",
+          "pli": "Āyuṃ datvā balaṃ vaṇṇaṃ,",
+          "en": "Giving life, strength, beauty,"
+        },
+        {
+          "scid": "an5.37:3.2",
+          "pli": "sukhañca paṭibhānakaṃ;",
+          "en": "happiness, and inspiration,"
+        },
+        {
+          "scid": "an5.37:3.3",
+          "pli": "Dīghāyu yasavā hoti,",
+          "en": "they’re long-lived and famous"
+        },
+        {
+          "scid": "an5.37:3.4",
+          "pli": "yattha yatthūpapajjatī”ti.",
+          "en": "wherever they’re reborn.”"
+        },
+        {
+          "scid": "an5.37:3.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.37/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.37",
+    "volpages": "AN iii 42",
+    "uid": "an5.37",
+    "blurb": "Give and you shall receive. The verses are a classic blessing, beginning with <i>Āyudo balado dhīro</i>.",
+    "difficulty": null,
+    "original_title": "Bhojana Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Food",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.37_sujato",
+        "segmented": true,
+        "title": "Food"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an5.37_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Food"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 7
+  }
+}

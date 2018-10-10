@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "an3.108",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an3.108",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Satisfaction",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unprotected",
+      "uid": "an3.109"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Wailing",
+      "uid": "an3.107"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an3.108:0.1",
+          "pli": "Aṅguttara Nikāya 3",
+          "en": "Numbered Discourses 3"
+        },
+        {
+          "scid": "an3.108:0.2",
+          "pli": "11. Sambodhavagga",
+          "en": "11. Awakening"
+        },
+        {
+          "scid": "an3.108:0.3",
+          "pli": "108. Atittisutta",
+          "en": "108. Satisfaction"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 3…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an3.108:1.1",
+          "pli": "“Tiṇṇaṃ, bhikkhave, paṭisevanāya natthi titti.",
+          "en": "“Mendicants, there are three indulgences that never satisfy."
+        },
+        {
+          "scid": "an3.108:1.2",
+          "pli": "Katamesaṃ tiṇṇaṃ?",
+          "en": "What three?"
+        },
+        {
+          "scid": "an3.108:1.3",
+          "pli": "Soppassa, bhikkhave, paṭisevanāya natthi titti.",
+          "en": "Sleep,"
+        },
+        {
+          "scid": "an3.108:1.4",
+          "pli": "Surāmerayapānassa, bhikkhave, paṭisevanāya natthi titti.",
+          "en": "alcoholic drinks,"
+        },
+        {
+          "scid": "an3.108:1.5",
+          "pli": "Methunadhammasamāpattiyā, bhikkhave, paṭisevanāya natthi titti.",
+          "en": "sexual intercourse."
+        },
+        {
+          "scid": "an3.108:1.6",
+          "pli": "Imesaṃ, bhikkhave, tiṇṇaṃ paṭisevanāya natthi tittī”ti.",
+          "en": "These are the three indulgences that never satisfy.”"
+        },
+        {
+          "scid": "an3.108:1.7",
+          "pli": "Chaṭṭhaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an3.108/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 3.108//AN 3.104",
+    "volpages": "AN i 261",
+    "uid": "an3.108",
+    "blurb": "Indulgences never satisfy.",
+    "difficulty": null,
+    "original_title": "Atitti Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Satisfaction",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an3.108_sujato",
+        "segmented": true,
+        "title": "Satisfaction"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 6
+  }
+}

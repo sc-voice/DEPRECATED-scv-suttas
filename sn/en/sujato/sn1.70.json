@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "sn1.70",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn1.70",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The World",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Incinerated",
+      "uid": "sn1.71"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Desire",
+      "uid": "sn1.69"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn1.70:0.1",
+          "pli": "Saṃyutta Nikāya 1",
+          "en": "Linked Discourses 1"
+        },
+        {
+          "scid": "sn1.70:0.2",
+          "pli": "7. Addhavagga",
+          "en": "7. Oppressed"
+        },
+        {
+          "scid": "sn1.70:0.3",
+          "pli": "70. Lokasutta",
+          "en": "70. The World"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 1…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn1.70:1.1",
+          "pli": "“Kismiṃ loko samuppanno,",
+          "en": "“What has the world arisen in?"
+        },
+        {
+          "scid": "sn1.70:1.2",
+          "pli": "kismiṃ kubbati santhavaṃ;",
+          "en": "What does it get close to?"
+        },
+        {
+          "scid": "sn1.70:1.3",
+          "pli": "Kissa loko upādāya,",
+          "en": "By grasping what"
+        },
+        {
+          "scid": "sn1.70:1.4",
+          "pli": "kismiṃ loko vihaññatī”ti.",
+          "en": "is the world troubled in what?”"
+        },
+        {
+          "scid": "sn1.70:2.1",
+          "pli": "“Chasu loko samuppanno,",
+          "en": "“The world’s arisen in six."
+        },
+        {
+          "scid": "sn1.70:2.2",
+          "pli": "chasu kubbati santhavaṃ;",
+          "en": "It gets close to six."
+        },
+        {
+          "scid": "sn1.70:2.3",
+          "pli": "Channameva upādāya,",
+          "en": "By grasping at these six,"
+        },
+        {
+          "scid": "sn1.70:2.4",
+          "pli": "chasu loko vihaññatī”ti.",
+          "en": "the world’s troubled in six.”"
+        },
+        {
+          "scid": "sn1.70:2.5",
+          "pli": "Addhavaggo sattamo.",
+          "en": ""
+        },
+        {
+          "scid": "sn1.70:3.1",
+          "pli": "Nāmaṃ cittañca taṇhā ca,",
+          "en": ""
+        },
+        {
+          "scid": "sn1.70:3.2",
+          "pli": "saṃyojanañca bandhanā;",
+          "en": ""
+        },
+        {
+          "scid": "sn1.70:3.3",
+          "pli": "Abbhāhatuḍḍito pihito,",
+          "en": ""
+        },
+        {
+          "scid": "sn1.70:3.4",
+          "pli": "icchā lokena te dasāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“What has the world arisen in…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn1.70/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 1.70//SN 70",
+    "volpages": "SN i 41//SN i 92",
+    "uid": "sn1.70",
+    "blurb": "A Dhamma riddle whose answer, enigmatically, is “six”.",
+    "difficulty": null,
+    "original_title": "Loka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The World",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn1.70_sujato",
+        "segmented": true,
+        "title": "The World"
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_sn1.70_bodhi",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "World"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 10
+  }
+}

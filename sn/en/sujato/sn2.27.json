@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "sn2.27",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn2.27",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "With Nanda",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Nandivisāla",
+      "uid": "sn2.28"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "With Rohitassa",
+      "uid": "sn2.26"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn2.27:0.1",
+          "pli": "Saṃyutta Nikāya 2",
+          "en": "Linked Discourses 2"
+        },
+        {
+          "scid": "sn2.27:0.2",
+          "pli": "3. Nānātitthiyavagga",
+          "en": "3. Various Sectarians"
+        },
+        {
+          "scid": "sn2.27:0.3",
+          "pli": "27. Nandasutta",
+          "en": "27. With Nanda"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 2…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn2.27:1.1",
+          "pli": "Ekamantaṃ ṭhito kho nando devaputto bhagavato santike imaṃ gāthaṃ abhāsi:",
+          "en": "Standing to one side, the god Nanda recited this verse in the Buddha’s presence:"
+        },
+        {
+          "scid": "sn2.27:2.1",
+          "pli": "“Accenti kālā tarayanti rattiyo,",
+          "en": "“Time flies, nights pass by,"
+        },
+        {
+          "scid": "sn2.27:2.2",
+          "pli": "Vayoguṇā anupubbaṃ jahanti;",
+          "en": "the stages of life leave us one by one."
+        },
+        {
+          "scid": "sn2.27:2.3",
+          "pli": "Etaṃ bhayaṃ maraṇe pekkhamāno,",
+          "en": "Seeing this peril in death,"
+        },
+        {
+          "scid": "sn2.27:2.4",
+          "pli": "Puññāni kayirātha sukhāvahānī”ti.",
+          "en": "you should do good deeds that bring happiness.”"
+        },
+        {
+          "scid": "sn2.27:3.1",
+          "pli": "“Accenti kālā tarayanti rattiyo,",
+          "en": "“Time flies, nights pass by,"
+        },
+        {
+          "scid": "sn2.27:3.2",
+          "pli": "Vayoguṇā anupubbaṃ jahanti;",
+          "en": "the stages of life leave us one by one."
+        },
+        {
+          "scid": "sn2.27:3.3",
+          "pli": "Etaṃ bhayaṃ maraṇe pekkhamāno,",
+          "en": "Seeing this peril in death,"
+        },
+        {
+          "scid": "sn2.27:3.4",
+          "pli": "Lokāmisaṃ pajahe santipekkho”ti.",
+          "en": "one looking for peace would drop the world’s bait.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Standing to one side…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn2.27/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 2.27//SN 108",
+    "volpages": "SN i 62//SN i 145",
+    "uid": "sn2.27",
+    "blurb": "Nanda speaks of the transience of life, saying one should do good to be reborn in a happy future life. The Buddha replies that one should let go attachment.",
+    "difficulty": null,
+    "original_title": "Nanda Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "With Nanda",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn2.27_sujato",
+        "segmented": true,
+        "title": "With Nanda"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 7
+  }
+}

@@ -1,0 +1,735 @@
+{
+  "sutta_uid": "mn88",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "mn88",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "The Imported Cloth",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Shrines to the Teaching",
+      "uid": "mn89"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Born From the Beloved",
+      "uid": "mn87"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "mn88:0.1",
+          "pli": "Majjhima Nikāya 88",
+          "en": "Middle Discourses 88"
+        },
+        {
+          "scid": "mn88:0.2",
+          "pli": "Bāhitikasutta",
+          "en": "The Imported Cloth"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Middle Discourses 88…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "mn88:1.1",
+          "pli": "Evaṃ me sutaṃ—​",
+          "en": "So I have heard."
+        },
+        {
+          "scid": "mn88:1.2",
+          "pli": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+          "en": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery."
+        },
+        {
+          "scid": "mn88:2.1",
+          "pli": "Atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiyaṃ piṇḍāya pāvisi.",
+          "en": "Then Venerable Ānanda robed up in the morning and, taking his bowl and robe, entered Sāvatthī for alms."
+        },
+        {
+          "scid": "mn88:2.2",
+          "pli": "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena pubbārāmo migāramātupāsādo tenupasaṅkami divāvihārāya.",
+          "en": "He wandered for alms in Sāvatthī. After the meal, on his return from alms-round, he went to the Eastern Monastery, the stilt longhouse of Migāra’s mother, for the day’s meditation."
+        },
+        {
+          "scid": "mn88:3.1",
+          "pli": "Tena kho pana samayena rājā pasenadi kosalo ekapuṇḍarīkaṃ nāgaṃ abhiruhitvā sāvatthiyā niyyāti divā divassa.",
+          "en": "Now at that time King Pasenadi of Kosala mounted the Single Lotus Elephant and drove out from Sāvatthī in the middle of the day."
+        },
+        {
+          "scid": "mn88:3.2",
+          "pli": "Addasā kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ dūratova āgacchantaṃ.",
+          "en": "He saw Ānanda coming off in the distance"
+        },
+        {
+          "scid": "mn88:3.3",
+          "pli": "Disvāna sirivaḍḍhaṃ mahāmattaṃ āmantesi:",
+          "en": "and said to the minister Sirivaḍḍha:"
+        },
+        {
+          "scid": "mn88:3.4",
+          "pli": "“āyasmā no eso, samma sirivaḍḍha, ānando”ti.",
+          "en": "“My dear Sirivaḍḍha, isn’t that Venerable Ānanda?”"
+        },
+        {
+          "scid": "mn88:3.5",
+          "pli": "“Evaṃ, mahārāja, āyasmā eso ānando”ti.",
+          "en": "“Indeed it is, great king.”"
+        },
+        {
+          "scid": "mn88:4.1",
+          "pli": "Atha kho rājā pasenadi kosalo aññataraṃ purisaṃ āmantesi:",
+          "en": "Then King Pasenadi addressed a man:"
+        },
+        {
+          "scid": "mn88:4.2",
+          "pli": "“ehi tvaṃ, ambho purisa, yenāyasmā ānando tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato ānandassa pāde sirasā vandāhi:",
+          "en": "“Please, mister, go to Venerable Ānanda, and in my name bow with your head to his feet. Say to him:"
+        },
+        {
+          "scid": "mn88:4.3",
+          "pli": "‘rājā, bhante, pasenadi kosalo āyasmato ānandassa pāde sirasā vandatī’ti;",
+          "en": "‘Sir, King Pasenadi of Kosala bows with his head at your feet.’"
+        },
+        {
+          "scid": "mn88:4.4",
+          "pli": "evañca vadehi:",
+          "en": "And then say:"
+        },
+        {
+          "scid": "mn88:4.5",
+          "pli": "‘sace kira, bhante, āyasmato ānandassa na kiñci accāyikaṃ karaṇīyaṃ, āgametu kira, bhante, āyasmā ānando muhuttaṃ anukampaṃ upādāyā’”ti. ",
+          "en": "‘Sir, if you have no urgent business, please wait a moment out of compassion.’”"
+        },
+        {
+          "scid": "mn88:5.1",
+          "pli": "“Evaṃ, devā”ti kho so puriso rañño pasenadissa kosalassa paṭissutvā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho so puriso āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "“Yes, Your Majesty,” that man replied. He did as the king asked."
+        },
+        {
+          "scid": "mn88:5.2",
+          "pli": "“rājā, bhante, pasenadi kosalo āyasmato ānandassa pāde sirasā vandati;",
+          "en": ""
+        },
+        {
+          "scid": "mn88:5.3",
+          "pli": "evañca vadeti:",
+          "en": ""
+        },
+        {
+          "scid": "mn88:5.4",
+          "pli": "‘sace kira, bhante, āyasmato ānandassa na kiñci accāyikaṃ karaṇīyaṃ, āgametu kira, bhante, āyasmā ānando muhuttaṃ anukampaṃ upādāyā’”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:6.1",
+          "pli": "Adhivāsesi kho āyasmā ānando tuṇhībhāvena.",
+          "en": "Ānanda consented in silence."
+        },
+        {
+          "scid": "mn88:6.2",
+          "pli": "Atha kho rājā pasenadi kosalo yāvatikā nāgassa bhūmi nāgena gantvā nāgā paccorohitvā pattikova yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "Then King Pasenadi rode on the elephant as far as the terrain allowed, then descended and approached Ānanda on foot. He bowed, stood to one side, and said to Ānanda:"
+        },
+        {
+          "scid": "mn88:6.3",
+          "pli": "“sace, bhante, āyasmato ānandassa na kiñci accāyikaṃ karaṇīyaṃ, sādhu, bhante, āyasmā ānando yena aciravatiyā nadiyā tīraṃ tenupasaṅkamatu anukampaṃ upādāyā”ti.",
+          "en": "“Sir, if you have no urgent business, it would be nice of you to go to the bank of the Aciravatī river out of compassion.”"
+        },
+        {
+          "scid": "mn88:7.1",
+          "pli": "Adhivāsesi kho āyasmā ānando tuṇhībhāvena.",
+          "en": "Ānanda consented in silence."
+        },
+        {
+          "scid": "mn88:7.2",
+          "pli": "Atha kho āyasmā ānando yena aciravatiyā nadiyā tīraṃ tenupasaṅkami; upasaṅkamitvā aññatarasmiṃ rukkhamūle paññatte āsane nisīdi.",
+          "en": "He went to the river bank and sat at the root of a certain tree on a seat spread out."
+        },
+        {
+          "scid": "mn88:7.3",
+          "pli": "Atha kho rājā pasenadi kosalo yāvatikā nāgassa bhūmi nāgena gantvā nāgā paccorohitvā pattikova yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "Then King Pasenadi rode on the elephant as far as the terrain allowed, then descended and approached Ānanda on foot. He bowed, stood to one side, and said to Ānanda:"
+        },
+        {
+          "scid": "mn88:7.4",
+          "pli": "“idha, bhante, āyasmā ānando hatthatthare nisīdatū”ti.",
+          "en": "“Here, Venerable Ānanda, sit on this elephant rug.”"
+        },
+        {
+          "scid": "mn88:7.5",
+          "pli": "“Alaṃ, mahārāja.",
+          "en": "“Enough, great king, you sit on it."
+        },
+        {
+          "scid": "mn88:7.6",
+          "pli": "Nisīda tvaṃ;",
+          "en": ""
+        },
+        {
+          "scid": "mn88:7.7",
+          "pli": "nisinno ahaṃ sake āsane”ti.",
+          "en": "I’m sitting on my own seat.”"
+        },
+        {
+          "scid": "mn88:8.1",
+          "pli": "Nisīdi kho rājā pasenadi kosalo paññatte āsane.",
+          "en": "So the king sat down on the seat spread out,"
+        },
+        {
+          "scid": "mn88:8.2",
+          "pli": "Nisajja kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "and said:"
+        },
+        {
+          "scid": "mn88:8.3",
+          "pli": "“kiṃ nu kho, bhante ānanda, so bhagavā tathārūpaṃ kāyasamācāraṃ samācareyya, yvāssa kāyasamācāro opārambho samaṇehi brāhmaṇehī”ti?",
+          "en": "“Sir, might the Buddha engage in the sort of behavior—by way of body, speech, or mind—that is faulted by ascetics and brahmins?”"
+        },
+        {
+          "scid": "mn88:8.4",
+          "pli": "“Na kho, mahārāja, so bhagavā tathārūpaṃ kāyasamācāraṃ samācareyya, yvāssa kāyasamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti.",
+          "en": "“No, great king, the Buddha would not engage in the sort of behavior that is faulted by sensible ascetics and brahmins.”"
+        },
+        {
+          "scid": "mn88:8.5",
+          "pli": "“Kiṃ pana, bhante ānanda, so bhagavā tathārūpaṃ vacīsamācāraṃ … pe …",
+          "en": ""
+        },
+        {
+          "scid": "mn88:8.6",
+          "pli": "manosamācāraṃ samācareyya, yvāssa manosamācāro opārambho samaṇehi brāhmaṇehī”ti?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:8.7",
+          "pli": "“Na kho, mahārāja, so bhagavā tathārūpaṃ manosamācāraṃ samācareyya, yvāssa manosamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:9.1",
+          "pli": "“Acchariyaṃ, bhante, abbhutaṃ, bhante.",
+          "en": "“It’s incredible, sir, it’s amazing!"
+        },
+        {
+          "scid": "mn88:9.2",
+          "pli": "Yañhi mayaṃ, bhante, nāsakkhimhā pañhena paripūretuṃ taṃ, bhante, āyasmatā ānandena pañhassa veyyākaraṇena paripūritaṃ.",
+          "en": "For I couldn’t fully express the question, but Ānanda’s answer completed it for me."
+        },
+        {
+          "scid": "mn88:9.3",
+          "pli": "Ye te, bhante, bālā abyattā ananuvicca apariyogāhetvā paresaṃ vaṇṇaṃ vā avaṇṇaṃ vā bhāsanti, na mayaṃ taṃ sārato paccāgacchāma;",
+          "en": "I don’t believe that praise or criticism of others spoken by incompetent fools, without examining or scrutinizing, is the most important thing."
+        },
+        {
+          "scid": "mn88:9.4",
+          "pli": "ye pana te, bhante, paṇḍitā viyattā medhāvino anuvicca pariyogāhetvā paresaṃ vaṇṇaṃ vā avaṇṇaṃ vā bhāsanti, mayaṃ taṃ sārato paccāgacchāma.",
+          "en": "Rather, I believe that praise or criticism of others spoken by competent and intelligent people after examining and scrutinizing is the most important thing."
+        },
+        {
+          "scid": "mn88:10.1",
+          "pli": "Katamo pana, bhante ānanda, kāyasamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti?",
+          "en": "But sir, what kind of bodily behavior is faulted by sensible ascetics and brahmins?”"
+        },
+        {
+          "scid": "mn88:10.2",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro akusalo”.",
+          "en": "“Unskillful behavior.”"
+        },
+        {
+          "scid": "mn88:10.3",
+          "pli": "“Katamo pana, bhante, kāyasamācāro akusalo”?",
+          "en": "“But what kind of bodily behavior is unskillful?”"
+        },
+        {
+          "scid": "mn88:10.4",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro sāvajjo”.",
+          "en": "“Blameworthy behavior.”"
+        },
+        {
+          "scid": "mn88:10.5",
+          "pli": "“Katamo pana, bhante, kāyasamācāro sāvajjo”?",
+          "en": "“But what kind of bodily behavior is blameworthy?”"
+        },
+        {
+          "scid": "mn88:10.6",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro sabyābajjho”.",
+          "en": "“Hurtful behavior.”"
+        },
+        {
+          "scid": "mn88:10.7",
+          "pli": "“Katamo pana, bhante, kāyasamācāro sabyābajjho”?",
+          "en": "“But what kind of bodily behavior is hurtful?”"
+        },
+        {
+          "scid": "mn88:10.8",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro dukkhavipāko”.",
+          "en": "“Behavior that results in suffering.”"
+        },
+        {
+          "scid": "mn88:10.9",
+          "pli": "“Katamo pana, bhante, kāyasamācāro dukkhavipāko”?",
+          "en": "“But what kind of bodily behavior results in suffering?”"
+        },
+        {
+          "scid": "mn88:10.10",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro attabyābādhāyapi saṃvattati, parabyābādhāyapi saṃvattati, ubhayabyābādhāyapi saṃvattati.",
+          "en": "“Bodily behavior that leads to hurting yourself, hurting others, and hurting both,"
+        },
+        {
+          "scid": "mn88:10.11",
+          "pli": "Tassa akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti;",
+          "en": "and which makes unskillful qualities grow while skillful qualities decline."
+        },
+        {
+          "scid": "mn88:10.12",
+          "pli": "evarūpo kho, mahārāja, kāyasamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti.",
+          "en": "That kind of bodily behavior is faulted by sensible ascetics and brahmins.”"
+        },
+        {
+          "scid": "mn88:11.1",
+          "pli": "“Katamo pana, bhante ānanda, vacīsamācāro … pe …",
+          "en": "“But what kind of verbal …"
+        },
+        {
+          "scid": "mn88:11.2",
+          "pli": "manosamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti?",
+          "en": "mental behavior is faulted by sensible ascetics and brahmins?” …"
+        },
+        {
+          "scid": "mn88:11.3",
+          "pli": "“Yo kho, mahārāja, manosamācāro akusalo”.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:11.4",
+          "pli": "“Katamo pana, bhante, manosamācāro akusalo”?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:11.5",
+          "pli": "“Yo kho, mahārāja, manosamācāro sāvajjo”.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:11.6",
+          "pli": "“Katamo pana, bhante, manosamācāro sāvajjo”?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:11.7",
+          "pli": "“Yo kho, mahārāja, manosamācāro sabyābajjho”.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:12.1",
+          "pli": "“Katamo pana, bhante, manosamācāro sabyābajjho”?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:12.2",
+          "pli": "“Yo kho, mahārāja, manosamācāro dukkhavipāko”.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:12.3",
+          "pli": "“Katamo pana, bhante, manosamācāro dukkhavipāko”?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:12.4",
+          "pli": "“Yo kho, mahārāja, manosamācāro attabyābādhāyapi saṃvattati, parabyābādhāyapi saṃvattati, ubhayabyābādhāyapi saṃvattati.",
+          "en": "“Mental behavior that leads to hurting yourself, hurting others, and hurting both,"
+        },
+        {
+          "scid": "mn88:12.5",
+          "pli": "Tassa akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti;",
+          "en": "and which makes unskillful qualities grow while skillful qualities decline."
+        },
+        {
+          "scid": "mn88:12.6",
+          "pli": "evarūpo kho, mahārāja, manosamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti.",
+          "en": "That kind of mental behavior is faulted by sensible ascetics and brahmins.”"
+        },
+        {
+          "scid": "mn88:13.1",
+          "pli": "“Kiṃ nu kho, bhante ānanda, so bhagavā sabbesaṃyeva akusalānaṃ dhammānaṃ pahānaṃ vaṇṇetī”ti?",
+          "en": "“Sir, does the Buddha praise giving up all these unskillful things?”"
+        },
+        {
+          "scid": "mn88:13.2",
+          "pli": "“Sabbākusaladhammapahīno kho, mahārāja, tathāgato kusaladhammasamannāgato”ti.",
+          "en": "“Great king, the Realized One has given up all unskillful things and possesses skillful things.”"
+        },
+        {
+          "scid": "mn88:14.1",
+          "pli": "“Katamo pana, bhante ānanda, kāyasamācāro anopārambho samaṇehi brāhmaṇehi viññūhī”ti?",
+          "en": "“But sir, what kind of bodily behavior is not faulted by sensible ascetics and brahmins?”"
+        },
+        {
+          "scid": "mn88:14.2",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro kusalo”.",
+          "en": "“Skillful behavior.”"
+        },
+        {
+          "scid": "mn88:14.3",
+          "pli": "“Katamo pana, bhante, kāyasamācāro kusalo”?",
+          "en": "“But what kind of bodily behavior is skillful?”"
+        },
+        {
+          "scid": "mn88:14.4",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro anavajjo”.",
+          "en": "“Blameless behavior.”"
+        },
+        {
+          "scid": "mn88:14.5",
+          "pli": "“Katamo pana, bhante, kāyasamācāro anavajjo”?",
+          "en": "“But what kind of bodily behavior is blameless?”"
+        },
+        {
+          "scid": "mn88:14.6",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro abyābajjho”.",
+          "en": "“Pleasing behavior.”"
+        },
+        {
+          "scid": "mn88:14.7",
+          "pli": "“Katamo pana, bhante, kāyasamācāro abyābajjho”?",
+          "en": "“But what kind of bodily behavior is pleasing?”"
+        },
+        {
+          "scid": "mn88:14.8",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro sukhavipāko”.",
+          "en": "“Behavior that results in happiness.”"
+        },
+        {
+          "scid": "mn88:14.9",
+          "pli": "“Katamo pana, bhante, kāyasamācāro sukhavipāko”?",
+          "en": "“But what kind of bodily behavior results in happiness?”"
+        },
+        {
+          "scid": "mn88:14.10",
+          "pli": "“Yo kho, mahārāja, kāyasamācāro nevattabyābādhāyapi saṃvattati, na parabyābādhāyapi saṃvattati, na ubhayabyābādhāyapi saṃvattati.",
+          "en": "“Bodily behavior that leads to pleasing yourself, pleasing others, and pleasing both,"
+        },
+        {
+          "scid": "mn88:14.11",
+          "pli": "Tassa akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+          "en": "and which makes unskillful qualities decline while skillful qualities grow."
+        },
+        {
+          "scid": "mn88:14.12",
+          "pli": "Evarūpo kho, mahārāja, kāyasamācāro anopārambho samaṇehi brāhmaṇehi viññūhī”ti.",
+          "en": "That kind of bodily behavior is not faulted by sensible ascetics and brahmins.”"
+        },
+        {
+          "scid": "mn88:15.1",
+          "pli": "“Katamo pana, bhante ānanda, vacīsamācāro … pe …",
+          "en": "“But what kind of verbal …"
+        },
+        {
+          "scid": "mn88:15.2",
+          "pli": "manosamācāro anopārambho samaṇehi brāhmaṇehi viññūhī”ti?",
+          "en": "mental behavior is not faulted by sensible ascetics and brahmins?” …"
+        },
+        {
+          "scid": "mn88:15.3",
+          "pli": "“Yo kho, mahārāja, manosamācāro kusalo”.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:15.4",
+          "pli": "“Katamo pana, bhante, manosamācāro kusalo”?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:15.5",
+          "pli": "“Yo kho, mahārāja, manosamācāro anavajjo”.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:16.1",
+          "pli": "“Katamo pana, bhante, manosamācāro anavajjo”?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:16.2",
+          "pli": "“Yo kho, mahārāja, manosamācāro abyābajjho”.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:16.3",
+          "pli": "“Katamo pana, bhante, manosamācāro abyābajjho”?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:16.4",
+          "pli": "“Yo kho, mahārāja, manosamācāro sukhavipāko”.",
+          "en": ""
+        },
+        {
+          "scid": "mn88:16.5",
+          "pli": "“Katamo pana, bhante, manosamācāro sukhavipāko”?",
+          "en": ""
+        },
+        {
+          "scid": "mn88:16.6",
+          "pli": "“Yo kho, mahārāja, manosamācāro nevattabyābādhāyapi saṃvattati, na parabyābādhāyapi saṃvattati, na ubhayabyābādhāyapi saṃvattati.",
+          "en": "“Mental behavior that leads to pleasing yourself, pleasing others, and pleasing both,"
+        },
+        {
+          "scid": "mn88:16.7",
+          "pli": "Tassa akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.",
+          "en": "and which makes unskillful qualities decline while skillful qualities grow."
+        },
+        {
+          "scid": "mn88:16.8",
+          "pli": "Evarūpo kho, mahārāja, manosamācāro anopārambho samaṇehi brāhmaṇehi viññūhī”ti.",
+          "en": "That kind of mental behavior is not faulted by sensible ascetics and brahmins.”"
+        },
+        {
+          "scid": "mn88:17.1",
+          "pli": "“Kiṃ pana, bhante ānanda, so bhagavā sabbesaṃyeva kusalānaṃ dhammānaṃ upasampadaṃ vaṇṇetī”ti?",
+          "en": "“Sir, does the Buddha praise gaining all these unskillful things?”"
+        },
+        {
+          "scid": "mn88:17.2",
+          "pli": "“Sabbākusaladhammapahīno kho, mahārāja, tathāgato kusaladhammasamannāgato”ti.",
+          "en": "“Great king, the Realized One has given up all unskillful things and possesses skillful things.”"
+        },
+        {
+          "scid": "mn88:18.1",
+          "pli": "“Acchariyaṃ, bhante, abbhutaṃ, bhante.",
+          "en": "“It’s incredible, sir, it’s amazing!"
+        },
+        {
+          "scid": "mn88:18.2",
+          "pli": "Yāva subhāsitañcidaṃ, bhante, āyasmatā ānandena.",
+          "en": "How well this was said by Venerable Ānanda!"
+        },
+        {
+          "scid": "mn88:18.3",
+          "pli": "Iminā ca mayaṃ, bhante, āyasmato ānandassa subhāsitena attamanābhiraddhā.",
+          "en": "I’m delighted and satisfied with what you’ve expressed so well."
+        },
+        {
+          "scid": "mn88:18.4",
+          "pli": "Evaṃ attamanābhiraddhā ca mayaṃ, bhante, āyasmato ānandassa subhāsitena.",
+          "en": "So much so that"
+        },
+        {
+          "scid": "mn88:18.5",
+          "pli": "Sace, bhante, āyasmato ānandassa hatthiratanaṃ kappeyya, hatthiratanampi mayaṃ āyasmato ānandassa dadeyyāma.",
+          "en": "if an elephant treasure was suitable for you, I would give you one."
+        },
+        {
+          "scid": "mn88:18.6",
+          "pli": "Sace, bhante, āyasmato ānandassa assaratanaṃ kappeyya, assaratanampi mayaṃ āyasmato ānandassa dadeyyāma.",
+          "en": "If a horse treasure was suitable for you, I would give you one."
+        },
+        {
+          "scid": "mn88:18.7",
+          "pli": "Sace, bhante, āyasmato ānandassa gāmavaraṃ kappeyya, gāmavarampi mayaṃ āyasmato ānandassa dadeyyāma.",
+          "en": "If a prize village was suitable for you, I would give you one."
+        },
+        {
+          "scid": "mn88:18.8",
+          "pli": "Api ca, bhante, mayampetaṃ jānāma:",
+          "en": "But, sir, I know that"
+        },
+        {
+          "scid": "mn88:18.9",
+          "pli": "‘netaṃ āyasmato ānandassa kappatī’ti.",
+          "en": "these things are not suitable for you."
+        },
+        {
+          "scid": "mn88:18.10",
+          "pli": "Ayaṃ me, bhante, bāhitikā raññā māgadhena ajātasattunā vedehiputtena vatthanāḷiyā pakkhipitvā pahitā soḷasasamā āyāmena, aṭṭhasamā vitthārena.",
+          "en": "This imported cloth was sent to me by King Ajātasattu Vedehiputta of Magadha packed in a parasol case. It’s exactly sixteen measures long and eight wide."
+        },
+        {
+          "scid": "mn88:18.11",
+          "pli": "Taṃ, bhante, āyasmā ānando paṭiggaṇhātu anukampaṃ upādāyā”ti.",
+          "en": "May Venerable Ānanda please accept it out of compassion.”"
+        },
+        {
+          "scid": "mn88:18.12",
+          "pli": "“Alaṃ, mahārāja, paripuṇṇaṃ me ticīvaran”ti.",
+          "en": "“Enough, great king. My three robes are complete.”"
+        },
+        {
+          "scid": "mn88:19.1",
+          "pli": "“Ayaṃ, bhante, aciravatī nadī diṭṭhā āyasmatā ceva ānandena amhehi ca.",
+          "en": "“Sir, we have both seen this river Aciravatī"
+        },
+        {
+          "scid": "mn88:19.2",
+          "pli": "Yadā uparipabbate mahāmegho abhippavuṭṭho hoti, athāyaṃ aciravatī nadī ubhato kūlāni saṃvissandantī gacchati;",
+          "en": "when it has rained heavily in the mountains, and the river overflows both its banks."
+        },
+        {
+          "scid": "mn88:19.3",
+          "pli": "evameva kho, bhante, āyasmā ānando imāya bāhitikāya attano ticīvaraṃ karissati.",
+          "en": "In the same way, Venerable Ānanda can make a set of three robes for himself from this imported cloak."
+        },
+        {
+          "scid": "mn88:19.4",
+          "pli": "Yaṃ panāyasmato ānandassa purāṇaṃ ticīvaraṃ taṃ sabrahmacārīhi saṃvibhajissati.",
+          "en": "And you can share your old robe with your fellow monks."
+        },
+        {
+          "scid": "mn88:19.5",
+          "pli": "Evāyaṃ amhākaṃ dakkhiṇā saṃvissandantī maññe gamissati.",
+          "en": "In this way my teacher’s offering will come to overflow, it seems to me."
+        },
+        {
+          "scid": "mn88:19.6",
+          "pli": "Paṭiggaṇhātu, bhante, āyasmā ānando bāhitikan”ti.",
+          "en": "Please accept the imported cloth.”"
+        },
+        {
+          "scid": "mn88:20.1",
+          "pli": "Paṭiggahesi kho āyasmā ānando bāhitikaṃ.",
+          "en": "So Ānanda accepted it."
+        },
+        {
+          "scid": "mn88:20.2",
+          "pli": "Atha kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca:",
+          "en": "Then King Pasenadi said to him:"
+        },
+        {
+          "scid": "mn88:20.3",
+          "pli": "“handa ca dāni mayaṃ, bhante ānanda, gacchāma;",
+          "en": "“Well, now, sir, I must go."
+        },
+        {
+          "scid": "mn88:20.4",
+          "pli": "bahukiccā mayaṃ bahukaraṇīyā”ti.",
+          "en": "I have many duties, and much to do.”"
+        },
+        {
+          "scid": "mn88:20.5",
+          "pli": "“Yassadāni tvaṃ, mahārāja, kālaṃ maññasī”ti.",
+          "en": "“Please, great king, go at your convenience.”"
+        },
+        {
+          "scid": "mn88:20.6",
+          "pli": "Atha kho rājā pasenadi kosalo āyasmato ānandassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṃ ānandaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.",
+          "en": "Then King Pasenadi approved and agreed with what Ānanda said. Then he got up from his seat, bowed, and respectfully circled him, keeping him on his right, before leaving."
+        },
+        {
+          "scid": "mn88:21.1",
+          "pli": "Atha kho āyasmā ānando acirapakkantassa rañño pasenadissa kosalassa yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.",
+          "en": "Soon after he left, Ānanda went to the Buddha, bowed, sat down to one side,"
+        },
+        {
+          "scid": "mn88:21.2",
+          "pli": "Ekamantaṃ nisinno kho āyasmā ānando yāvatako ahosi raññā pasenadinā kosalena saddhiṃ kathāsallāpo taṃ sabbaṃ bhagavato ārocesi.",
+          "en": "and told him what had happened."
+        },
+        {
+          "scid": "mn88:21.3",
+          "pli": "Tañca bāhitikaṃ bhagavato pādāsi.",
+          "en": "He presented the cloth to the Buddha."
+        },
+        {
+          "scid": "mn88:22.1",
+          "pli": "Atha kho bhagavā bhikkhū āmantesi:",
+          "en": "Then the Buddha said to the mendicants:"
+        },
+        {
+          "scid": "mn88:22.2",
+          "pli": "“lābhā, bhikkhave, rañño pasenadissa kosalassa, suladdhalābhā, bhikkhave, rañño pasenadissa kosalassa;",
+          "en": "“Mendicants, King Pasenadi is lucky, so very lucky,"
+        },
+        {
+          "scid": "mn88:22.3",
+          "pli": "yaṃ rājā pasenadi kosalo labhati ānandaṃ dassanāya, labhati payirupāsanāyā”ti.",
+          "en": "to get to see Ānanda and pay homage to him.”"
+        },
+        {
+          "scid": "mn88:22.4",
+          "pli": "Idamavoca bhagavā.",
+          "en": "That is what the Buddha said."
+        },
+        {
+          "scid": "mn88:22.5",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said."
+        },
+        {
+          "scid": "mn88:22.6",
+          "pli": "Bāhitikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "So I have heard…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "mn88/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "MN 88",
+    "volpages": "MN ii 112",
+    "uid": "mn88",
+    "blurb": "King Pasenadi takes a chance to visit Venerable Ananda, where he asks about skillful and unskillful behavior, and what is praised by the Buddha. He offers Ananda a valuable cloth in gratitude.",
+    "difficulty": 1,
+    "original_title": "Bāhitika Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Imported Cloth",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_mn88_sujato",
+        "segmented": true,
+        "title": "The Imported Cloth"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn88_horner",
+        "lang": "en",
+        "lang_name": "English",
+        "segmented": false,
+        "title": "Discourse on the Foreign Cloth"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "sn32.54",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn32.54",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Gods of the Warm Clouds",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gods of the Storm Clouds",
+      "uid": "sn32.55"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gods of the Cool Clouds",
+      "uid": "sn32.53"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn32.54:0.1",
+          "pli": "Saṃyutta Nikāya 32",
+          "en": "Linked Discourses 32"
+        },
+        {
+          "scid": "sn32.54:0.2",
+          "pli": "1. Valāhakavagga",
+          "en": "1. Gods of the Clouds"
+        },
+        {
+          "scid": "sn32.54:0.3",
+          "pli": "54. Uṇhavalāhakasutta",
+          "en": "54. Gods of the Warm Clouds"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 32…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn32.54:1.1",
+          "pli": "Sāvatthinidānaṃ.",
+          "en": "At Sāvatthī."
+        },
+        {
+          "scid": "sn32.54:1.2",
+          "pli": "Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+          "en": "Seated to one side, that mendicant said to the Buddha:"
+        },
+        {
+          "scid": "sn32.54:1.3",
+          "pli": "“ko nu kho, bhante, hetu, ko paccayo, yenekadā uṇhaṃ hotī”ti?",
+          "en": "“Sir, what is the cause, what is the reason why sometimes it becomes warm?”"
+        },
+        {
+          "scid": "sn32.54:1.4",
+          "pli": "“Santi, bhikkhu, uṇhavalāhakā nāma devā.",
+          "en": "“Mendicant, there are what are called gods of the warm clouds."
+        },
+        {
+          "scid": "sn32.54:1.5",
+          "pli": "Tesaṃ yadā evaṃ hoti:",
+          "en": "Sometimes they think:"
+        },
+        {
+          "scid": "sn32.54:1.6",
+          "pli": "‘yannūna mayaṃ sakāya ratiyā vaseyyāmā’ti, tesaṃ taṃ cetopaṇidhimanvāya uṇhaṃ hoti.",
+          "en": "‘Why don’t we revel in our own kind of enjoyment?’ Then, in accordance with their wish, it becomes warm."
+        },
+        {
+          "scid": "sn32.54:1.7",
+          "pli": "Ayaṃ kho, bhikkhu, hetu, ayaṃ paccayo, yenekadā uṇhaṃ hotī”ti.",
+          "en": "This is the cause, this is the reason why sometimes it becomes warm.”"
+        },
+        {
+          "scid": "sn32.54:1.8",
+          "pli": "Catupaññāsamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "At Sāvatthī…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn32.54/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 32.54",
+    "volpages": "SN iii 256",
+    "uid": "sn32.54",
+    "blurb": "When the warm cloud gods decide to revel in their own element, the weather becomes warm.",
+    "difficulty": null,
+    "original_title": "Uṇhavalāhaka Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Gods of the Warm Clouds",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_sn32.54_sujato",
+        "segmented": true,
+        "title": "Gods of the Warm Clouds"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

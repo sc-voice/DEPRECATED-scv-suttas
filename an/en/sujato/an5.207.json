@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an5.207",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an5.207",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Porridge",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Chew Sticks",
+      "uid": "an5.208"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Shackles",
+      "uid": "an5.206"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an5.207:0.1",
+          "pli": "Aṅguttara Nikāya 5",
+          "en": "Numbered Discourses 5"
+        },
+        {
+          "scid": "an5.207:0.2",
+          "pli": "21. Kimilavagga",
+          "en": "21. With Kimbila"
+        },
+        {
+          "scid": "an5.207:0.3",
+          "pli": "207. Yāgusutta",
+          "en": "207. Porridge"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 5…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an5.207:1.1",
+          "pli": "“Pañcime, bhikkhave, ānisaṃsā yāguyā.",
+          "en": "“Mendicants, there are these five benefits of porridge."
+        },
+        {
+          "scid": "an5.207:1.2",
+          "pli": "Katame pañca?",
+          "en": "What five?"
+        },
+        {
+          "scid": "an5.207:1.3",
+          "pli": "Khuddaṃ paṭihanati, pipāsaṃ paṭivineti, vātaṃ anulometi, vatthiṃ sodheti, āmāvasesaṃ pāceti.",
+          "en": "It wards off hunger, quenches thirst, settles the wind, cleans the bladder, and helps digestion."
+        },
+        {
+          "scid": "an5.207:1.4",
+          "pli": "Ime kho, bhikkhave, pañca ānisaṃsā yāguyā”ti.",
+          "en": "These are the five benefits of porridge.”"
+        },
+        {
+          "scid": "an5.207:1.5",
+          "pli": "Sattamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an5.207/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 5.207",
+    "volpages": "AN iii 250",
+    "uid": "an5.207",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Yāgu Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Porridge",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an5.207_sujato",
+        "segmented": true,
+        "title": "Porridge"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

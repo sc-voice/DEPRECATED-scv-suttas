@@ -1,0 +1,125 @@
+{
+  "sutta_uid": "an7.48",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an7.48",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+    },
+    "lang": "en",
+    "title": "Perceptions in Brief",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perceptions in Detail",
+      "uid": "an7.49"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Fires (2nd)",
+      "uid": "an7.47"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an7.48:0.1",
+          "pli": "Aṅguttara Nikāya 7",
+          "en": "Numbered Discourses 7"
+        },
+        {
+          "scid": "an7.48:0.2",
+          "pli": "5. Mahāyaññavagga",
+          "en": "5. A Great Sacrifice"
+        },
+        {
+          "scid": "an7.48:0.3",
+          "pli": "48. Paṭhamasaññāsutta",
+          "en": "48. Perceptions in Brief"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 7…",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an7.48:1.1",
+          "pli": "“Sattimā, bhikkhave, saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā.",
+          "en": "“Mendicants, these seven perceptions, when developed and cultivated, are very fruitful and beneficial. They culminate in the deathless and end with the deathless."
+        },
+        {
+          "scid": "an7.48:2.1",
+          "pli": "Katamā satta?",
+          "en": "What seven?"
+        },
+        {
+          "scid": "an7.48:2.2",
+          "pli": "Asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā, aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā.",
+          "en": "The perceptions of ugliness, death, repulsiveness of food, dissatisfaction with the whole world, impermanence, suffering in impermanence, and not-self in suffering."
+        },
+        {
+          "scid": "an7.48:2.3",
+          "pli": "Imā kho, bhikkhave, satta saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā”ti.",
+          "en": "These seven perceptions, when developed and cultivated, are very fruitful and beneficial. They culminate in the deathless and end with the deathless.”"
+        },
+        {
+          "scid": "an7.48:2.4",
+          "pli": "Pañcamaṃ.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Mendicants…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an7.48/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "AN 7.48//AN 7.45",
+    "volpages": "AN iv 46",
+    "uid": "an7.48",
+    "blurb": "Meditating on seven perceptions leads to the deathless, in brief.",
+    "difficulty": null,
+    "original_title": "Paṭhamasaññā Sutta",
+    "root_lang": "pli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Perceptions in Brief",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "id": "en_an7.48_sujato",
+        "segmented": true,
+        "title": "Perceptions in Brief"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 5
+  }
+}
