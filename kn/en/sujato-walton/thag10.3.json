@@ -1,5 +1,6 @@
 {
   "sutta_uid": "thag10.3",
+  "author_uid": "sujato-walton",
   "support": {
     "value": "Legacy",
     "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
@@ -45,7 +46,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā 10…",
+      "title": "Theragāthā 10.3",
       "expandable": false
     },
     {
@@ -113,12 +114,11 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā…",
+      "title": "Theragāthā",
       "expandable": false
     }
   ],
   "suttaCode": "thag10.3/en/sujato-walton",
-  "author_uid": "sujato-walton",
   "suttaplex": {
     "acronym": "Thag 10.3",
     "volpages": "Thag 58",
@@ -142,7 +142,7 @@
         "title": "Mahākappina"
       }
     ],
-    "parallel_count": 16,
+    "parallel_count": 23,
     "biblio": null,
     "num": 3
   }

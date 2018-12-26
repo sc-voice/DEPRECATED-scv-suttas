@@ -31,36 +31,6 @@
     {
       "segments": [
         {
-          "scid": "dn6:6.2",
-          "pli": "“Idha, mahāli, bhikkhuno puratthimāya disāya ekaṃsabhāvito samādhi hoti dibbānaṃ rūpānaṃ dassanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ, no ca kho dibbānaṃ saddānaṃ savanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ.",
-          "en": "“Mahāli, take a mendicant who has developed one-sided immersion to the eastern quarter so as to see heavenly sights but not to hear heavenly sounds."
-        },
-        {
-          "scid": "dn6:7.4",
-          "pli": "uddhamadho tiriyaṃ ekaṃsabhāvito samādhi hoti dibbānaṃ rūpānaṃ dassanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ, no ca kho dibbānaṃ saddānaṃ savanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ.",
-          "en": "above, below, across …"
-        },
-        {
-          "scid": "dn6:8.1",
-          "pli": "Idha, mahāli, bhikkhuno puratthimāya disāya ekaṃsabhāvito samādhi hoti dibbānaṃ saddānaṃ savanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ, no ca kho dibbānaṃ rūpānaṃ dassanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ.",
-          "en": "Take a mendicant who has developed one-sided immersion to the eastern quarter so as to hear heavenly sounds but not to see heavenly sights."
-        },
-        {
-          "scid": "dn6:9.4",
-          "pli": "uddhamadho tiriyaṃ ekaṃsabhāvito samādhi hoti dibbānaṃ saddānaṃ savanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ, no ca kho dibbānaṃ rūpānaṃ dassanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ.",
-          "en": "above, below, across …"
-        },
-        {
-          "scid": "dn6:10.1",
-          "pli": "Idha, mahāli, bhikkhuno puratthimāya disāya ubhayaṃsabhāvito samādhi hoti dibbānañca rūpānaṃ dassanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ dibbānañca saddānaṃ savanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ.",
-          "en": "Take a mendicant who has developed two-sided immersion to the eastern quarter so as to both hear heavenly sounds and see heavenly sights."
-        },
-        {
-          "scid": "dn6:11.4",
-          "pli": "uddhamadho tiriyaṃ ubhayaṃsabhāvito samādhi hoti dibbānañca rūpānaṃ dassanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ, dibbānañca saddānaṃ savanāya piyarūpānaṃ kāmūpasaṃhitānaṃ rajanīyānaṃ.",
-          "en": "above, below, across …"
-        },
-        {
           "scid": "dn6:0.1",
           "pli": "Dīgha Nikāya 6",
           "en": "Long Discourses 6"
@@ -74,7 +44,19 @@
           "scid": "dn6:0.3",
           "pli": "1. Brāhmaṇadūtavatthu",
           "en": "1. On the Brahmin Emissaries"
-        },
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Long Discourses 6",
+      "expandable": false
+    },
+    {
+      "segments": [
         {
           "scid": "dn6:1.1",
           "pli": "Evaṃ me sutaṃ—​",
@@ -817,7 +799,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mahāli…",
+      "title": "So I have heard.",
       "expandable": false
     }
   ],

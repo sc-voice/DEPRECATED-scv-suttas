@@ -1,5 +1,6 @@
 {
   "sutta_uid": "thag7.2",
+  "author_uid": "sujato-walton",
   "support": {
     "value": "Legacy",
     "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
@@ -45,7 +46,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā 7…",
+      "title": "Theragāthā 7.2",
       "expandable": false
     },
     {
@@ -101,12 +102,11 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā…",
+      "title": "Theragāthā",
       "expandable": false
     }
   ],
   "suttaCode": "thag7.2/en/sujato-walton",
-  "author_uid": "sujato-walton",
   "suttaplex": {
     "acronym": "Thag 7.2",
     "volpages": "Thag 49",
@@ -130,7 +130,7 @@
         "title": "Lakuṇḍakabhaddiya"
       }
     ],
-    "parallel_count": 0,
+    "parallel_count": 24,
     "biblio": null,
     "num": 2
   }

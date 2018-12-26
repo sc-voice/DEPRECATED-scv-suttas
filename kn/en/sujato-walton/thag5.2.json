@@ -1,5 +1,6 @@
 {
   "sutta_uid": "thag5.2",
+  "author_uid": "sujato-walton",
   "support": {
     "value": "Legacy",
     "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
@@ -45,7 +46,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā 5…",
+      "title": "Theragāthā 5.2",
       "expandable": false
     },
     {
@@ -93,12 +94,11 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā…",
+      "title": "Theragāthā",
       "expandable": false
     }
   ],
   "suttaCode": "thag5.2/en/sujato-walton",
-  "author_uid": "sujato-walton",
   "suttaplex": {
     "acronym": "Thag 5.2",
     "volpages": "Thag 37",
@@ -122,7 +122,7 @@
         "title": "Subhūta"
       }
     ],
-    "parallel_count": 20,
+    "parallel_count": 22,
     "biblio": null,
     "num": 2
   }

@@ -1,5 +1,6 @@
 {
   "sutta_uid": "thag13.1",
+  "author_uid": "sujato-walton",
   "support": {
     "value": "Legacy",
     "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
@@ -45,7 +46,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā 13…",
+      "title": "Theragāthā 13.1",
       "expandable": false
     },
     {
@@ -125,12 +126,11 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā…",
+      "title": "Theragāthā",
       "expandable": false
     }
   ],
   "suttaCode": "thag13.1/en/sujato-walton",
-  "author_uid": "sujato-walton",
   "suttaplex": {
     "acronym": "Thag 13.1",
     "volpages": "Thag 65",
@@ -154,7 +154,7 @@
         "title": "Soṇakoḷivisa"
       }
     ],
-    "parallel_count": 22,
+    "parallel_count": 23,
     "biblio": null,
     "num": 1
   }

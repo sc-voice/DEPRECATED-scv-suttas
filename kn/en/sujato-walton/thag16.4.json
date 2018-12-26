@@ -1,5 +1,6 @@
 {
   "sutta_uid": "thag16.4",
+  "author_uid": "sujato-walton",
   "support": {
     "value": "Legacy",
     "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
@@ -45,7 +46,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā 16…",
+      "title": "Theragāthā 16.4",
       "expandable": false
     },
     {
@@ -173,12 +174,11 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā…",
+      "title": "Theragāthā",
       "expandable": false
     }
   ],
   "suttaCode": "thag16.4/en/sujato-walton",
-  "author_uid": "sujato-walton",
   "suttaplex": {
     "acronym": "Thag 16.4",
     "volpages": "Thag 75",
@@ -202,7 +202,7 @@
         "title": "Raṭṭhapāla"
       }
     ],
-    "parallel_count": 14,
+    "parallel_count": 20,
     "biblio": null,
     "num": 4
   }

@@ -1,5 +1,6 @@
 {
   "sutta_uid": "thag17.1",
+  "author_uid": "sujato-walton",
   "support": {
     "value": "Legacy",
     "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
@@ -45,7 +46,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā 17…",
+      "title": "Theragāthā 17.1",
       "expandable": false
     },
     {
@@ -201,12 +202,11 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā…",
+      "title": "Theragāthā",
       "expandable": false
     }
   ],
   "suttaCode": "thag17.1/en/sujato-walton",
-  "author_uid": "sujato-walton",
   "suttaplex": {
     "acronym": "Thag 17.1",
     "volpages": "Thag 87",
@@ -230,7 +230,7 @@
         "title": "Phussa"
       }
     ],
-    "parallel_count": 20,
+    "parallel_count": 22,
     "biblio": null,
     "num": 1
   }

@@ -1,5 +1,6 @@
 {
   "sutta_uid": "thag17.3",
+  "author_uid": "sujato-walton",
   "support": {
     "value": "Legacy",
     "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
@@ -45,7 +46,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā 17…",
+      "title": "Theragāthā 17.3",
       "expandable": false
     },
     {
@@ -221,12 +222,11 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Theragāthā…",
+      "title": "Theragāthā",
       "expandable": false
     }
   ],
   "suttaCode": "thag17.3/en/sujato-walton",
-  "author_uid": "sujato-walton",
   "suttaplex": {
     "acronym": "Thag 17.3",
     "volpages": "Thag 91",
@@ -250,7 +250,7 @@
         "title": "Ānanda"
       }
     ],
-    "parallel_count": 25,
+    "parallel_count": 28,
     "biblio": null,
     "num": 3
   }
