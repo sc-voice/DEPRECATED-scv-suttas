@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Penetrative",
@@ -290,7 +290,7 @@
         {
           "scid": "an6.63:17.2",
           "pli": "Atthi, bhikkhave, sāmisā sukhā vedanā, atthi nirāmisā sukhā vedanā, atthi sāmisā dukkhā vedanā, atthi nirāmisā dukkhā vedanā, atthi sāmisā adukkhamasukhā vedanā, atthi nirāmisā adukkhamasukhā vedanā.",
-          "en": "There are carnal pleasant feelings, spiritual pleasant feelings, carnal painful feelings, spiritual painful feelings, carnal neutral feelings, and spiritual neutral feelings."
+          "en": "There are material pleasant feelings, spiritual pleasant feelings, material painful feelings, spiritual painful feelings, material neutral feelings, and spiritual neutral feelings."
         },
         {
           "scid": "an6.63:17.3",
@@ -655,7 +655,7 @@
         {
           "scid": "an6.63:39.3",
           "pli": "Jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṃ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, yampicchaṃ na labhati tampi dukkhaṃ, saṃkhittena pañcupādānakkhandhā dukkhā.",
-          "en": "Rebirth is suffering; old age is suffering; death is suffering; sorrow, lamentation, pain, sadness, and distress are suffering; association with the disliked is suffering; separation from the liked is suffering; not getting what you wish for is suffering. In brief, the five grasping aggregates are suffering."
+          "en": "Rebirth is suffering; old age is suffering; illness is suffering; death is suffering; sorrow, lamentation, pain, sadness, and distress are suffering; association with the disliked is suffering; separation from the liked is suffering; not getting what you wish for is suffering. In brief, the five grasping aggregates are suffering."
         },
         {
           "scid": "an6.63:40.1",
@@ -773,6 +773,7 @@
     "difficulty": null,
     "original_title": "Nibbedhika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Penetrative",
@@ -780,21 +781,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.63_sujato",
         "segmented": true,
-        "title": "Penetrative"
+        "title": "Penetrative",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an6.63_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1997",
         "segmented": false,
+        "volpage": null,
         "title": "A Penetrative Discourse"
       }
     ],

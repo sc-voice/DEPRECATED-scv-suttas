@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Outcaste",
@@ -85,7 +85,7 @@
         {
           "scid": "an5.175:1.6",
           "pli": "ito ca bahiddhā dakkhiṇeyyaṃ gavesati;",
-          "en": "They seek outside of the Buddhist community for teachers worthy of offerings."
+          "en": "They seek outside of the Buddhist community for those worthy of religious donations."
         },
         {
           "scid": "an5.175:1.7",
@@ -125,7 +125,7 @@
         {
           "scid": "an5.175:2.6",
           "pli": "na ito bahiddhā dakkhiṇeyyaṃ gavesati;",
-          "en": "They don’t seek outside of the Buddhist community for teachers worthy of offerings."
+          "en": "They don’t seek outside of the Buddhist community for those worthy of religious donations."
         },
         {
           "scid": "an5.175:2.7",
@@ -163,6 +163,7 @@
     "difficulty": null,
     "original_title": "Caṇḍāla Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Outcaste",
@@ -170,21 +171,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.175_sujato",
         "segmented": true,
-        "title": "Outcaste"
+        "title": "Outcaste",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an5.175_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "The Outcaste"
       }
     ],

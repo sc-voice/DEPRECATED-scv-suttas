@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "What Is Your View?",
@@ -210,7 +210,7 @@
         {
           "scid": "an10.93:6.2",
           "pli": "“sassato loko, idameva saccaṃ moghamaññanti—",
-          "en": "“The world is eternal. This is the only truth, other ideas are stupid."
+          "en": "“The world is eternal. This is the only truth, other ideas are silly."
         },
         {
           "scid": "an10.93:6.3",
@@ -225,7 +225,7 @@
         {
           "scid": "an10.93:7.2",
           "pli": "“asassato loko, idameva saccaṃ moghamaññanti—",
-          "en": "“The world is not eternal. This is the only truth, other ideas are stupid."
+          "en": "“The world is not eternal. This is the only truth, other ideas are silly."
         },
         {
           "scid": "an10.93:7.3",
@@ -275,7 +275,7 @@
         {
           "scid": "an10.93:8.9",
           "pli": "neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti—",
-          "en": "“A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are stupid."
+          "en": "“A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are silly."
         },
         {
           "scid": "an10.93:8.10",
@@ -295,7 +295,7 @@
         {
           "scid": "an10.93:9.3",
           "pli": "‘sassato loko, idameva saccaṃ moghamaññanti—",
-          "en": "‘The world is eternal. This is the only truth, other ideas are stupid."
+          "en": "‘The world is eternal. This is the only truth, other ideas are silly."
         },
         {
           "scid": "an10.93:9.4",
@@ -335,7 +335,7 @@
         {
           "scid": "an10.93:10.2",
           "pli": "‘asassato loko, idameva saccaṃ moghamaññanti—",
-          "en": "‘The world is not eternal. This is the only truth, other ideas are stupid."
+          "en": "‘The world is not eternal. This is the only truth, other ideas are silly."
         },
         {
           "scid": "an10.93:10.3",
@@ -410,7 +410,7 @@
         {
           "scid": "an10.93:11.9",
           "pli": "neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti—",
-          "en": "‘A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are stupid."
+          "en": "‘A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are silly."
         },
         {
           "scid": "an10.93:11.10",
@@ -578,6 +578,7 @@
     "difficulty": null,
     "original_title": "Kiṃdiṭṭhika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "What Is Your View?",
@@ -585,21 +586,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.93_sujato",
         "segmented": true,
-        "title": "What Is Your View?"
+        "title": "What Is Your View?",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an10.93_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Views"
       }
     ],

@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Existence (2nd)",
+    "title": "Continued Existence (2nd)",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Existence (1st)",
+      "name": "Continued Existence (1st)",
       "uid": "an3.76"
     }
   },
@@ -43,7 +43,7 @@
         {
           "scid": "an3.77:0.3",
           "pli": "77. Dutiyabhavasutta",
-          "en": "77. Existence (2nd)"
+          "en": "77. Continued Existence (2nd)"
         }
       ],
       "type": "Section",
@@ -75,7 +75,7 @@
         {
           "scid": "an3.77:2.1",
           "pli": "“Kāmadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?",
-          "en": "“If, Ānanda, there were no deeds to result in the sensual realm, would existence in the sensual realm still come about?”"
+          "en": "“If, Ānanda, there were no deeds to result in the sensual realm, would continued existence in the sensual realm still come about?”"
         },
         {
           "scid": "an3.77:2.2",
@@ -95,7 +95,7 @@
         {
           "scid": "an3.77:3.1",
           "pli": "Rūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho rūpabhavo paññāyethā”ti?",
-          "en": "If there were no deeds to result in the realm of luminous form, would existence in the realm of luminous form still be evident?”"
+          "en": "If there were no deeds to result in the realm of luminous form, would continued existence in the realm of luminous form still come about?”"
         },
         {
           "scid": "an3.77:3.2",
@@ -115,7 +115,7 @@
         {
           "scid": "an3.77:4.1",
           "pli": "Arūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho arūpabhavo paññāyethā”ti?",
-          "en": "If there were no deeds to result in the formless realm, would existence in the formless realm still be evident?”"
+          "en": "If there were no deeds to result in the formless realm, would continued existence in the formless realm still come about?”"
         },
         {
           "scid": "an3.77:4.2",
@@ -163,28 +163,35 @@
     "difficulty": null,
     "original_title": "Dutiyabhava Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Existence (2nd)",
+    "translated_title": "Continued Existence (2nd)",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.77_sujato",
         "segmented": true,
-        "title": "Existence (2nd)"
+        "title": "Continued Existence (2nd)",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an3.77_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Becoming (2)"
       }
     ],

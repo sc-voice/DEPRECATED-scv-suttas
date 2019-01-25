@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Three Trainings (2nd)",
@@ -80,7 +80,7 @@
         {
           "scid": "an3.90:2.2",
           "pli": "Idha, bhikkhave, bhikkhu sīlavā hoti … pe … samādāya sikkhati sikkhāpadesu.",
-          "en": "It’s when a mendicant is ethical, restrained in the code of conduct, and has appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+          "en": "It’s when a mendicant is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
         },
         {
           "scid": "an3.90:2.3",
@@ -120,12 +120,12 @@
         {
           "scid": "an3.90:4.4",
           "pli": "Imā kho, bhikkhave, tisso sikkhāti.",
-          "en": "These are the three trainings.”"
+          "en": "These are the three trainings."
         },
         {
           "scid": "an3.90:5.1",
           "pli": "Adhisīlaṃ adhicittaṃ,",
-          "en": "“The higher ethics, the higher mind,"
+          "en": "The higher ethics, the higher mind,"
         },
         {
           "scid": "an3.90:5.2",
@@ -190,7 +190,7 @@
         {
           "scid": "an3.90:8.2",
           "pli": "atho saṃsuddhacāriyaṃ;",
-          "en": "and their conduct is well purified."
+          "en": "and ‘one living a pure life’."
         },
         {
           "scid": "an3.90:8.3",
@@ -248,6 +248,7 @@
     "difficulty": null,
     "original_title": "Dutiyasikkhattaya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Three Trainings (2nd)",
@@ -255,21 +256,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.90_sujato",
         "segmented": true,
-        "title": "Three Trainings (2nd)"
+        "title": "Three Trainings (2nd)",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an3.90_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Trainings (2)"
       }
     ],

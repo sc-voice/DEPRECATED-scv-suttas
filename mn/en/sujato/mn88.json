@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Imported Cloth",
@@ -510,7 +510,7 @@
         {
           "scid": "mn88:17.1",
           "pli": "“Kiṃ pana, bhante ānanda, so bhagavā sabbesaṃyeva kusalānaṃ dhammānaṃ upasampadaṃ vaṇṇetī”ti?",
-          "en": "“Sir, does the Buddha praise gaining all these skillful things?”"
+          "en": "“Sir, does the Buddha praise embracing all these skillful things?”"
         },
         {
           "scid": "mn88:17.2",
@@ -600,7 +600,7 @@
         {
           "scid": "mn88:19.5",
           "pli": "Evāyaṃ amhākaṃ dakkhiṇā saṃvissandantī maññe gamissati.",
-          "en": "In this way my teacher’s offering will come to overflow, it seems to me."
+          "en": "In this way my religious donation will come to overflow, it seems to me."
         },
         {
           "scid": "mn88:19.6",
@@ -703,6 +703,7 @@
     "difficulty": 1,
     "original_title": "Bāhitika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Imported Cloth",
@@ -710,21 +711,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn88_sujato",
         "segmented": true,
-        "title": "The Imported Cloth"
+        "title": "The Imported Cloth",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn88_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2018",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on the Foreign Cloth"
       }
     ],

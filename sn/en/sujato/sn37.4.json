@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Three Qualities",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Angry",
+      "name": "Irritable",
       "uid": "sn37.5"
     },
     "previous": {
@@ -60,7 +60,7 @@
         {
           "scid": "sn37.4:1.1",
           "pli": "“Tīhi, bhikkhave, dhammehi samannāgato mātugāmo yebhuyyena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
-          "en": "“Mendicants, when females have three qualities females, when their body breaks up, after death, they are mostly reborn in a place of loss, a bad place, the underworld, hell."
+          "en": "“Mendicants, when females have three qualities, when their body breaks up, after death, they are mostly reborn in a place of loss, a bad place, the underworld, hell."
         },
         {
           "scid": "sn37.4:1.2",
@@ -70,7 +70,7 @@
         {
           "scid": "sn37.4:1.3",
           "pli": "Idha, bhikkhave, mātugāmo pubbaṇhasamayaṃ maccheramalapariyuṭṭhitena cetasā agāraṃ ajjhāvasati.",
-          "en": "A female lives at home with a heart full of the stain of stinginess in the morning, envy in the afternoon, and sexual desire in the evening."
+          "en": "A female lives at home with a heart full of the stain of stinginess in the morning, jealousy in the afternoon, and sexual desire in the evening."
         },
         {
           "scid": "sn37.4:1.4",
@@ -104,7 +104,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, when females have three qualities females, when their…",
+      "title": "“Mendicants, when females have three qualities, when their body…",
       "expandable": false
     }
   ],
@@ -118,6 +118,7 @@
     "difficulty": null,
     "original_title": "Tīhidhammehi Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Three Qualities",
@@ -125,12 +126,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn37.4_sujato",
         "segmented": true,
-        "title": "Three Qualities"
+        "title": "Three Qualities",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

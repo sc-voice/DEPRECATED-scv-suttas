@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "At the Cāpāla Shrine",
@@ -85,7 +85,7 @@
         {
           "scid": "sn51.10:1.6",
           "pli": "Yena cāpālaṃ cetiyaṃ tenupasaṅkamissāma divāvihārāyā”ti.",
-          "en": "Let’s go to the Cāpāla tree shrine for the day’s meditation.”"
+          "en": "Let’s go to the Cāpāla shrine for the day’s meditation.”"
         },
         {
           "scid": "sn51.10:1.7",
@@ -110,7 +110,7 @@
         {
           "scid": "sn51.10:3.1",
           "pli": "“Ramaṇīyā, ānanda, vesālī, ramaṇīyaṃ udenaṃ cetiyaṃ, ramaṇīyaṃ gotamakaṃ cetiyaṃ, ramaṇīyaṃ sattambaṃ cetiyaṃ, ramaṇīyaṃ bahuputtaṃ cetiyaṃ, ramaṇīyaṃ sārandadaṃ cetiyaṃ, ramaṇīyaṃ cāpālaṃ cetiyaṃ.",
-          "en": "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, Sārandada, and Cāpāla tree shrines are all lovely."
+          "en": "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, Sārandada, and Cāpāla shrines are all lovely."
         },
         {
           "scid": "sn51.10:3.2",
@@ -150,7 +150,7 @@
         {
           "scid": "sn51.10:5.3",
           "pli": "“ramaṇīyā, ānanda, vesālī, ramaṇīyaṃ udenaṃ cetiyaṃ, ramaṇīyaṃ gotamakaṃ cetiyaṃ, ramaṇīyaṃ sattambaṃ cetiyaṃ, ramaṇīyaṃ bahuputtaṃ cetiyaṃ, ramaṇīyaṃ sārandadaṃ cetiyaṃ, ramaṇīyaṃ cāpālaṃ cetiyaṃ.",
-          "en": "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, Sārandada, and Cāpāla tree shrines are all lovely."
+          "en": "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, Sārandada, and Cāpāla shrines are all lovely."
         },
         {
           "scid": "sn51.10:5.4",
@@ -325,12 +325,12 @@
         {
           "scid": "sn51.10:17.3",
           "pli": "Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:",
-          "en": "Then, knowing the meaning of this, on that occasion the Buddha spoke these words of inspiration:"
+          "en": "Then, knowing the meaning of this, on that occasion the Buddha was inspired to exclaim:"
         },
         {
           "scid": "sn51.10:18.1",
           "pli": "“Tulamatulañca sambhavaṃ,",
-          "en": "“Comparing the incomparable with an extension of life,"
+          "en": "“Weighing up the incomparable against an extension of life,"
         },
         {
           "scid": "sn51.10:18.2",
@@ -340,12 +340,12 @@
         {
           "scid": "sn51.10:18.3",
           "pli": "Ajjhattarato samāhito,",
-          "en": "Happy inside, in immersion,"
+          "en": "Happy inside, serene,"
         },
         {
           "scid": "sn51.10:18.4",
           "pli": "Abhindi kavacamivattasambhavan”ti.",
-          "en": "he broke his continued existence like a suit of armor.”"
+          "en": "he burst out of this self-made chain like a suit of armor.”"
         },
         {
           "scid": "sn51.10:18.5",
@@ -398,6 +398,7 @@
     "difficulty": null,
     "original_title": "Cetiya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "At the Cāpāla Shrine",
@@ -405,15 +406,18 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn51.10_sujato",
         "segmented": true,
-        "title": "At the Cāpāla Shrine"
+        "title": "At the Cāpāla Shrine",
+        "volpage": null
       }
     ],
-    "parallel_count": 16,
+    "parallel_count": 21,
     "biblio": null,
     "num": 10
   }

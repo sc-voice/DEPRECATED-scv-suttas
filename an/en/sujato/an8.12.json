@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Sīha",
@@ -700,7 +700,7 @@
         {
           "scid": "an8.12:29.4",
           "pli": "Atha kho sīho senāpati bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.",
-          "en": "Then, knowing that the Buddha had accepted, Sīha got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving."
+          "en": "Then, knowing that the Buddha had consented, Sīha got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving."
         },
         {
           "scid": "an8.12:30.1",
@@ -775,7 +775,7 @@
         {
           "scid": "an8.12:32.7",
           "pli": "Na ca panete āyasmanto jiridanti taṃ bhagavantaṃ asatā tucchā musā abhūtena abbhācikkhituṃ;",
-          "en": "They’ll never stop misrepresenting the Buddha with their false, baseless, lying, untruthful claims."
+          "en": "They’ll never stop misrepresenting the Buddha with their false, hollow, lying, untruthful claims."
         },
         {
           "scid": "an8.12:32.8",
@@ -823,6 +823,7 @@
     "difficulty": null,
     "original_title": "Sīha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Sīha",
@@ -830,21 +831,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an8.12_sujato",
         "segmented": true,
-        "title": "With Sīha"
+        "title": "With Sīha",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an8.12_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Sīha"
       }
     ],

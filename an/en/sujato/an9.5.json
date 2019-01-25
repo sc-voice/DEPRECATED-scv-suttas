@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Powers",
@@ -125,7 +125,7 @@
         {
           "scid": "an9.5:4.1",
           "pli": "Katamañca, bhikkhave, saṅgāhabalaṃ?",
-          "en": "And what is the power of inclusion?"
+          "en": "And what is the power of inclusiveness?"
         },
         {
           "scid": "an9.5:4.2",
@@ -135,7 +135,7 @@
         {
           "scid": "an9.5:4.3",
           "pli": "dānaṃ, peyyavajjaṃ, atthacariyā, samānattatā.",
-          "en": "Giving, kind speech, taking care, and equality."
+          "en": "Giving, kindly words, taking care, and equality."
         },
         {
           "scid": "an9.5:4.4",
@@ -145,7 +145,7 @@
         {
           "scid": "an9.5:4.5",
           "pli": "Etadaggaṃ, bhikkhave, peyyavajjānaṃ yadidaṃ atthikassa ohitasotassa punappunaṃ dhammaṃ deseti.",
-          "en": "The best sort of kind speech is to teach the Dhamma again and again to someone who is engaged and who lends an ear."
+          "en": "The best sort of kindly speech is to teach the Dhamma again and again to someone who is engaged and who lends an ear."
         },
         {
           "scid": "an9.5:4.6",
@@ -160,7 +160,7 @@
         {
           "scid": "an9.5:4.8",
           "pli": "Idaṃ vuccati, bhikkhave, saṅgāhabalaṃ.",
-          "en": "This is called the power of inclusion."
+          "en": "This is called the power of inclusiveness."
         },
         {
           "scid": "an9.5:4.9",
@@ -313,6 +313,7 @@
     "difficulty": null,
     "original_title": "Bala Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Powers",
@@ -320,12 +321,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.5_sujato",
         "segmented": true,
-        "title": "Powers"
+        "title": "Powers",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

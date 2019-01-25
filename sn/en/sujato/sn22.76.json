@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Perfected Ones",
@@ -80,7 +80,7 @@
         {
           "scid": "sn22.76:1.5",
           "pli": "yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
-          "en": "And what’s not-self should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+          "en": "And what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’"
         },
         {
           "scid": "sn22.76:1.6",
@@ -115,7 +115,7 @@
         {
           "scid": "sn22.76:1.12",
           "pli": "yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
-          "en": "And what’s not-self should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+          "en": "And what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’"
         },
         {
           "scid": "sn22.76:2.1",
@@ -170,7 +170,7 @@
         {
           "scid": "sn22.76:5.1",
           "pli": "Anejaṃ te anuppattā,",
-          "en": "They’ve attained stillness,"
+          "en": "They’ve attained imperturbability,"
         },
         {
           "scid": "sn22.76:5.2",
@@ -225,7 +225,7 @@
         {
           "scid": "sn22.76:7.4",
           "pli": "Pahīnabhayabheravā.",
-          "en": "with fear and terror given up."
+          "en": "with fear and dread given up."
         },
         {
           "scid": "sn22.76:8.1",
@@ -255,7 +255,7 @@
         {
           "scid": "sn22.76:9.2",
           "pli": "antimoyaṃ samussayo;",
-          "en": "‘This is my final body.’"
+          "en": "‘This bag of bones is my last.’"
         },
         {
           "scid": "sn22.76:9.3",
@@ -333,6 +333,7 @@
     "difficulty": null,
     "original_title": "Arahanta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Perfected Ones",
@@ -340,21 +341,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn22.76_sujato",
         "segmented": true,
-        "title": "The Perfected Ones"
+        "title": "The Perfected Ones",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn22.76_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Arahants (1)"
       }
     ],

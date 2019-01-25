@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Oxen",
@@ -100,7 +100,7 @@
         {
           "scid": "an4.108:2.2",
           "pli": "Idha, bhikkhave, ekacco puggalo sakaparisaṃ ubbejetā hoti, no paraparisaṃ.",
-          "en": "It’s when a person intimidates their own following, not others."
+          "en": "It’s when a person intimidates their own followers, not the followers of others."
         },
         {
           "scid": "an4.108:2.3",
@@ -110,7 +110,7 @@
         {
           "scid": "an4.108:2.4",
           "pli": "Seyyathāpi so, bhikkhave, balībaddo sagavacaṇḍo, no paragavacaṇḍo;",
-          "en": "That person is like a ox that’s hostile to its own herd, not others."
+          "en": "That person is like an ox that’s hostile to its own herd, not others."
         },
         {
           "scid": "an4.108:2.5",
@@ -125,7 +125,7 @@
         {
           "scid": "an4.108:3.2",
           "pli": "Idha, bhikkhave, ekacco puggalo paraparisaṃ ubbejetā hoti, no sakaparisaṃ.",
-          "en": "It’s when a person intimidates the followings of others, not their own. …"
+          "en": "It’s when a person intimidates the followers of others, not their own. …"
         },
         {
           "scid": "an4.108:3.3",
@@ -150,7 +150,7 @@
         {
           "scid": "an4.108:4.2",
           "pli": "Idha, bhikkhave, ekacco puggalo sakaparisaṃ ubbejetā hoti paraparisañca.",
-          "en": "It’s when a person intimidates their own following and the followings of others. …"
+          "en": "It’s when a person intimidates their own followers and the followers of others. …"
         },
         {
           "scid": "an4.108:4.3",
@@ -175,7 +175,7 @@
         {
           "scid": "an4.108:5.2",
           "pli": "Idha, bhikkhave, ekacco puggalo neva sakaparisaṃ ubbejetā hoti, no paraparisañca.",
-          "en": "It’s when a person doesn’t intimidate their own following or the followings of others."
+          "en": "It’s when a person doesn’t intimidate their own followers or the followers of others."
         },
         {
           "scid": "an4.108:5.3",
@@ -223,6 +223,7 @@
     "difficulty": null,
     "original_title": "Balībadda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Oxen",
@@ -230,12 +231,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.108_sujato",
         "segmented": true,
-        "title": "Oxen"
+        "title": "Oxen",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

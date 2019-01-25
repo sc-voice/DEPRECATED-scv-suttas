@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "An Impressive Discourse",
@@ -1275,7 +1275,7 @@
         {
           "scid": "dn29:38.1",
           "pli": "Puna caparaṃ, cunda, bhikkhu vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ jhānaṃ upasampajja viharati.",
-          "en": "Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption. It has the rapture and bliss born of immersion, with internal clarity and confidence, and unification of mind, without placing the mind and keeping it connected."
+          "en": "Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption. It has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected."
         },
         {
           "scid": "dn29:38.2",
@@ -1535,7 +1535,7 @@
         {
           "scid": "dn29:46.2",
           "pli": "Yañca kho, cunda, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, sabbaṃ tathāgatena abhisambuddhaṃ, ",
-          "en": "In this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—whatever is seen, heard, thought, cognized, searched, and explored by the mind, all that has been understood by the Realized One. "
+          "en": "In this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—whatever is seen, heard, thought, known, sought, and explored by the mind, all that has been understood by the Realized One. "
         },
         {
           "scid": "dn29:46.3",
@@ -1565,7 +1565,7 @@
         {
           "scid": "dn29:46.8",
           "pli": "Sadevake loke, cunda, samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya tathāgato abhibhū anabhibhūto aññadatthudaso vasavattī, tasmā ‘tathāgato’ti vuccati.",
-          "en": "In this world—with its gods, Māras and Brahmās, this generation with its ascetics and brahmins, gods and humans—the Realized One is the undefeated, the champion, the universal seer, the wielder of power."
+          "en": "In this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—the Realized One is the undefeated, the champion, the universal seer, the wielder of power."
         },
         {
           "scid": "dn29:46.9",
@@ -2160,7 +2160,7 @@
         {
           "scid": "dn29:57.19",
           "pli": "‘idameva saccaṃ moghamaññan’ti.",
-          "en": "This is the only truth, other ideas are stupid,’"
+          "en": "This is the only truth, other ideas are silly,’"
         },
         {
           "scid": "dn29:57.20",
@@ -2388,6 +2388,7 @@
     "difficulty": 2,
     "original_title": "Pāsādika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "An Impressive Discourse",
@@ -2395,21 +2396,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn29_sujato",
         "segmented": true,
-        "title": "An Impressive Discourse"
+        "title": "An Impressive Discourse",
+        "volpage": null
       },
       {
         "author": "T.W. & C.A.F. Rhys Davids",
         "author_short": "Rhys Davids",
         "author_uid": "tw-caf_rhysdavids",
         "id": "en_dn29_tw-caf_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1921",
         "segmented": false,
+        "volpage": null,
         "title": "The Delectable Discourse"
       }
     ],

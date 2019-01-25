@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Great Discourse on Causation",
@@ -95,7 +95,7 @@
         {
           "scid": "dn15:1.8",
           "pli": "Etassa, ānanda, dhammassa ananubodhā appaṭivedhā evamayaṃ pajā tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā apāyaṃ duggatiṃ vinipātaṃ saṃsāraṃ nātivattati.",
-          "en": "It is because of not understanding and not comprehending this teaching that this population has become tangled like string, knotted like a ball of thread, and matted like rushes and reeds, and it doesn’t escape the places of loss, the bad places, the underworld, transmigration."
+          "en": "It is because of not understanding and not penetrating this teaching that this population has become tangled like string, knotted like a ball of thread, and matted like rushes and reeds, and it doesn’t escape the places of loss, the bad places, the underworld, transmigration."
         },
         {
           "scid": "dn15:2.1",
@@ -1185,7 +1185,7 @@
         {
           "scid": "dn15:33.5",
           "pli": "Santānanda, sattā nānattakāyā ekattasaññino, seyyathāpi devā brahmakāyikā paṭhamābhinibbattā.",
-          "en": "There are sentient beings that are diverse in body and unified in perception, such as the gods reborn in Brahmā’s Group through the first absorption."
+          "en": "There are sentient beings that are diverse in body and unified in perception, such as the gods reborn in Brahmā’s Host through the first absorption."
         },
         {
           "scid": "dn15:33.6",
@@ -1448,6 +1448,7 @@
     "difficulty": 3,
     "original_title": "Mahānidāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Great Discourse on Causation",
@@ -1455,21 +1456,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn15_sujato",
         "segmented": true,
-        "title": "The Great Discourse on Causation"
+        "title": "The Great Discourse on Causation",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_dn15_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1984",
         "segmented": false,
+        "volpage": null,
         "title": "The Great Discourse on Causation"
       }
     ],

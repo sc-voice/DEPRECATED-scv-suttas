@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Self-examination",
@@ -180,7 +180,7 @@
         {
           "scid": "sn12.66:3.7",
           "pli": "So jarāmaraṇañca pajānāti jarāmaraṇasamudayañca pajānāti jarāmaraṇanirodhañca pajānāti yā ca jarāmaraṇanirodhasāruppagāminī paṭipadā tañca pajānāti.",
-          "en": "They understand old age and death, their origin, their cessation, and the appropriate practice for their cessation."
+          "en": "They understand old age and death, their origin, their cessation, and the fitting practice for their cessation."
         },
         {
           "scid": "sn12.66:3.8",
@@ -215,7 +215,7 @@
         {
           "scid": "sn12.66:4.5",
           "pli": "So upadhiñca pajānāti upadhisamudayañca pajānāti upadhinirodhañca pajānāti yā ca upadhinirodhasāruppagāminī paṭipadā tañca pajānāti.",
-          "en": "They understand attachments, their origin, their cessation, and the appropriate practice for their cessation."
+          "en": "They understand attachments, their origin, their cessation, and the fitting practice for their cessation."
         },
         {
           "scid": "sn12.66:4.6",
@@ -400,7 +400,7 @@
         {
           "scid": "sn12.66:9.9",
           "pli": "So taṃ āpānīyakaṃsaṃ sahasā appaṭisaṅkhā piveyya, nappaṭinissajjeyya.",
-          "en": "He wouldn’t reject that beverage. Hastily, without thinking, he’d drink it,"
+          "en": "He wouldn’t reject that beverage. Hastily, without reflection, he’d drink it,"
         },
         {
           "scid": "sn12.66:9.10",
@@ -643,6 +643,7 @@
     "difficulty": null,
     "original_title": "Sammasa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Self-examination",
@@ -650,21 +651,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn12.66_sujato",
         "segmented": true,
-        "title": "Self-examination"
+        "title": "Self-examination",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn12.66_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Exploration"
       }
     ],

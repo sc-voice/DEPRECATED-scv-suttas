@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Nandaka the Licchavi",
@@ -130,7 +130,7 @@
         {
           "scid": "sn55.30:3.5",
           "pli": "ādhipateyyena saṃyutto hoti dibbenapi mānusenapi.",
-          "en": "and authority, both human and divine."
+          "en": "and sovereignty, both human and divine."
         },
         {
           "scid": "sn55.30:3.6",
@@ -223,6 +223,7 @@
     "difficulty": null,
     "original_title": "Nandakalicchavi Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Nandaka the Licchavi",
@@ -230,12 +231,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn55.30_sujato",
         "segmented": true,
-        "title": "With Nandaka the Licchavi"
+        "title": "With Nandaka the Licchavi",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

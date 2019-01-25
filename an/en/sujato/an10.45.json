@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Entering a Royal Harem",
@@ -305,7 +305,7 @@
         {
           "scid": "an10.45:10.1",
           "pli": "Puna caparaṃ, bhikkhave, rañño antepuraṃ hatthisammaddaṃ assasammaddaṃ rathasammaddaṃ rajanīyāni rūpasaddagandharasaphoṭṭhabbāni, yāni na pabbajitassa sāruppāni.",
-          "en": "Furthermore, in the royal harem there is a trampling of elephants, horses, and chariots, as well as arousing sights, sounds, smells, tastes, and touches that are not appropriate for a monk."
+          "en": "Furthermore, in the royal harem there is a trampling of elephants, horses, and chariots, as well as arousing sights, sounds, smells, tastes, and touches that do not befit a monk."
         },
         {
           "scid": "an10.45:10.2",
@@ -343,6 +343,7 @@
     "difficulty": null,
     "original_title": "Rājantepurappavesana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Entering a Royal Harem",
@@ -350,12 +351,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.45_sujato",
         "segmented": true,
-        "title": "Entering a Royal Harem"
+        "title": "Entering a Royal Harem",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

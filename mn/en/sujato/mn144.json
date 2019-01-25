@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Advice to Channa",
@@ -65,7 +65,7 @@
         {
           "scid": "mn144:2.1",
           "pli": "Tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahācundo āyasmā ca channo gijjhakūṭe pabbate viharanti.",
-          "en": "Now at that time Venerables Sāriputta, Mahācunda, and Channa were staying on the Vulture’s Peak Mountain."
+          "en": "Now at that time the venerables Sāriputta, Mahācunda, and Channa were staying on the Vulture’s Peak Mountain."
         },
         {
           "scid": "mn144:3.1",
@@ -130,7 +130,7 @@
         {
           "scid": "mn144:5.6",
           "pli": "Seyyathāpi, āvuso sāriputta, dakkho goghātako vā goghātakantevāsī vā tiṇhena govikantanena kucchiṃ parikanteyya; evameva kho me, āvuso sāriputta, adhimattā vātā kucchiṃ parikantanti.",
-          "en": "The winds piercing my belly are so severe, it feels like an expert butcher or their apprentice is slicing my belly open with a meat cleaver."
+          "en": "The winds piercing my belly are so severe, it feels like a deft butcher or their apprentice is slicing my belly open with a meat cleaver."
         },
         {
           "scid": "mn144:5.7",
@@ -380,7 +380,7 @@
         {
           "scid": "mn144:11.7",
           "pli": "Āgatigatiyā asati cutūpapāto na hoti.",
-          "en": "When there’s no coming and coming there’s no passing away and reappearing."
+          "en": "When there’s no coming and going there’s no passing away and reappearing."
         },
         {
           "scid": "mn144:11.8",
@@ -395,7 +395,7 @@
         {
           "scid": "mn144:11.10",
           "pli": "Atha kho āyasmā ca sāriputto āyasmā ca mahācundo āyasmantaṃ channaṃ iminā ovādena ovaditvā uṭṭhāyāsanā pakkamiṃsu.",
-          "en": "And when Venerables Sāriputta and Mahācunda had given Venerable Channa this advice they got up from their seat and left."
+          "en": "And when the venerables Sāriputta and Mahācunda had given Venerable Channa this advice they got up from their seat and left."
         },
         {
           "scid": "mn144:12.1",
@@ -425,7 +425,7 @@
         {
           "scid": "mn144:13.5",
           "pli": "“Atthi, bhante, pubbajiraṃ nāma vajjigāmo.",
-          "en": "“Sir, there is a Vajjian village named Pubbavijjhana,"
+          "en": "“Sir, there is a Vajjian village named Pubbavijjhana"
         },
         {
           "scid": "mn144:13.6",
@@ -493,6 +493,7 @@
     "difficulty": 2,
     "original_title": "Channovāda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Advice to Channa",
@@ -500,12 +501,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn144_sujato",
         "segmented": true,
-        "title": "Advice to Channa"
+        "title": "Advice to Channa",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

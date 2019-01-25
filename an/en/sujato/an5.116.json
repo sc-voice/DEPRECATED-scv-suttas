@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Praise",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Envious",
+      "name": "Jealous",
       "uid": "an5.117"
     },
     "previous": {
@@ -163,6 +163,7 @@
     "difficulty": null,
     "original_title": "Vaṇṇanā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Praise",
@@ -170,12 +171,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.116_sujato",
         "segmented": true,
-        "title": "Praise"
+        "title": "Praise",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

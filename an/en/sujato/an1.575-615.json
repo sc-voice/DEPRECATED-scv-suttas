@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -75,7 +75,7 @@
         {
           "scid": "an1.575-615:576.1.1",
           "pli": "“Ekadhammo, bhikkhave, bhāvito bahulīkato mahato saṃvegāya saṃvattati … mahato atthāya saṃvattati … mahato yogakkhemāya saṃvattati … satisampajaññāya saṃvattati … ñāṇadassanappaṭilābhāya saṃvattati … diṭṭhadhammasukhavihārāya saṃvattati … vijjāvimuttiphalasacchikiriyāya saṃvattati.",
-          "en": "“One thing, mendicants, when developed and cultivated leads to great inspiration… great benefit … great sanctuary … mindfulness and awareness … gaining knowledge and vision … blissful meditation in the present life … the realization of the fruit of knowledge and freedom."
+          "en": "“One thing, mendicants, when developed and cultivated leads to great urgency … great benefit … great sanctuary … mindfulness and awareness … gaining knowledge and vision … blissful meditation in the present life … the realization of the fruit of knowledge and freedom."
         },
         {
           "scid": "an1.575-615:576.1.2",
@@ -90,7 +90,7 @@
         {
           "scid": "an1.575-615:576.1.4",
           "pli": "Ayaṃ kho, bhikkhave, ekadhammo bhāvito bahulīkato mahato saṃvegāya saṃvattati … mahato atthāya saṃvattati … mahato yogakkhemāya saṃvattati … satisampajaññāya saṃvattati … ñāṇadassanappaṭilābhāya saṃvattati … diṭṭhadhammasukhavihārāya saṃvattati … vijjāvimuttiphalasacchikiriyāya saṃvattatī”ti.",
-          "en": "This one thing, when developed and cultivated, leads to great inspiration… great benefit … great sanctuary … mindfulness and awareness … gaining knowledge and vision … a happy abiding in the present life … the realization of the fruit of knowledge and freedom.”"
+          "en": "This one thing, when developed and cultivated, leads to great urgency … great benefit … great sanctuary … mindfulness and awareness … gaining knowledge and vision … a happy abiding in the present life … the realization of the fruit of knowledge and freedom.”"
         },
         {
           "scid": "an1.575-615:576.1.5",
@@ -100,7 +100,7 @@
         {
           "scid": "an1.575-615:583.1.1",
           "pli": "“Ekadhamme, bhikkhave, bhāvite bahulīkate kāyopi passambhati, cittampi passambhati, vitakkavicārāpi vūpasammanti, kevalāpi vijjābhāgiyā dhammā bhāvanāpāripūriṃ gacchanti.",
-          "en": "“When one thing, mendicants, is developed and cultivated the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are developed to perfection."
+          "en": "“When one thing, mendicants, is developed and cultivated the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are fully developed."
         },
         {
           "scid": "an1.575-615:583.1.2",
@@ -115,7 +115,7 @@
         {
           "scid": "an1.575-615:583.1.4",
           "pli": "Imasmiṃ kho, bhikkhave, ekadhamme bhāvite bahulīkate kāyopi passambhati, cittampi passambhati, vitakkavicārāpi vūpasammanti, kevalāpi vijjābhāgiyā dhammā bhāvanāpāripūriṃ gacchantī”ti.",
-          "en": "When this one thing is developed and cultivated, the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are developed to perfection.”"
+          "en": "When this one thing is developed and cultivated, the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are fully developed.”"
         },
         {
           "scid": "an1.575-615:583.1.5",
@@ -225,7 +225,7 @@
         {
           "scid": "an1.575-615:589.1.1",
           "pli": "“Ekadhamme, bhikkhave, bhāvite bahulīkate anekadhātupaṭivedho hoti … nānādhātupaṭivedho hoti … anekadhātupaṭisambhidā hoti.",
-          "en": "“When one thing is developed and cultivated there is the penetration of the many and diverse elements, the analysis of many elements."
+          "en": "“When one thing is developed and cultivated there is the penetration of many elements … the penetration of diverse elements … the analysis of many elements."
         },
         {
           "scid": "an1.575-615:589.1.2",
@@ -240,7 +240,7 @@
         {
           "scid": "an1.575-615:589.1.4",
           "pli": "Imasmiṃ kho, bhikkhave, ekadhamme bhāvite bahulīkate anekadhātupaṭivedho hoti … nānādhātupaṭivedho hoti … anekadhātupaṭisambhidā hotī”ti.",
-          "en": "When this one thing is developed and cultivated there is the penetration of the many and diverse elements, the analysis of many elements.”"
+          "en": "When this one thing is developed and cultivated there is the penetration of many elements … the penetration of diverse elements … the analysis of many elements.”"
         },
         {
           "scid": "an1.575-615:589.1.5",
@@ -312,12 +312,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli1.44",
     "uid": "an1.575-615",
     "blurb": null,
     "difficulty": null,
     "original_title": "Kāyagatāsati Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -325,12 +326,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an1.575-615_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

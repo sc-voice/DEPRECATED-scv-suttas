@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Simile of the Quail",
@@ -835,17 +835,17 @@
         {
           "scid": "mn66:22.2",
           "pli": "idaṃ kho ahaṃ, udāyi, iñjitasmiṃ vadāmi.",
-          "en": "This belongs to what is not imperturbable, I say."
+          "en": "This belongs to the perturbable, I say."
         },
         {
           "scid": "mn66:22.3",
           "pli": "Kiñca tattha iñjitasmiṃ?",
-          "en": "And what there belongs to what is not imperturbable?"
+          "en": "And what there belongs to the perturbable?"
         },
         {
           "scid": "mn66:22.4",
           "pli": "Yadeva tattha vitakkavicārā aniruddhā honti idaṃ tattha iñjitasmiṃ.",
-          "en": "Whatever placing of the mind and keeping it connected has not ceased there is what belongs to what is not imperturbable."
+          "en": "Whatever placing of the mind and keeping it connected has not ceased there is what belongs to the perturbable."
         },
         {
           "scid": "mn66:23.1",
@@ -855,17 +855,17 @@
         {
           "scid": "mn66:23.2",
           "pli": "idampi kho ahaṃ, udāyi, iñjitasmiṃ vadāmi.",
-          "en": "This belongs to what is not imperturbable, I say."
+          "en": "This belongs to the perturbable, I say."
         },
         {
           "scid": "mn66:23.3",
           "pli": "Kiñca tattha iñjitasmiṃ?",
-          "en": "And what there belongs to what is not imperturbable?"
+          "en": "And what there belongs to the perturbable?"
         },
         {
           "scid": "mn66:23.4",
           "pli": "Yadeva tattha pītisukhaṃ aniruddhaṃ hoti idaṃ tattha iñjitasmiṃ.",
-          "en": "Whatever rapture and bliss has not ceased there is what belongs to what is not imperturbable."
+          "en": "Whatever rapture and bliss has not ceased there is what belongs to the perturbable."
         },
         {
           "scid": "mn66:24.1",
@@ -875,17 +875,17 @@
         {
           "scid": "mn66:24.2",
           "pli": "idampi kho ahaṃ, udāyi, iñjitasmiṃ vadāmi.",
-          "en": "This pertains to what is not imperturbable."
+          "en": "This belongs to the perturbable."
         },
         {
           "scid": "mn66:24.3",
           "pli": "Kiñca tattha iñjitasmiṃ?",
-          "en": "And what there pertains to what is not imperturbable?"
+          "en": "And what there belongs to the perturbable?"
         },
         {
           "scid": "mn66:24.4",
           "pli": "Yadeva tattha upekkhāsukhaṃ aniruddhaṃ hoti idaṃ tattha iñjitasmiṃ.",
-          "en": "Whatever equanimous bliss has not ceased there is what pertains to what is not imperturbable."
+          "en": "Whatever equanimous bliss has not ceased there is what belongs to the perturbable."
         },
         {
           "scid": "mn66:24.5",
@@ -895,7 +895,7 @@
         {
           "scid": "mn66:24.6",
           "pli": "idaṃ kho ahaṃ, udāyi, aniñjitasmiṃ vadāmi.",
-          "en": "This pertains to what is imperturbable."
+          "en": "This belongs to the perturbable."
         },
         {
           "scid": "mn66:26.1",
@@ -1073,6 +1073,7 @@
     "difficulty": 2,
     "original_title": "Laṭukikopama Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Simile of the Quail",
@@ -1080,21 +1081,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn66_sujato",
         "segmented": true,
-        "title": "The Simile of the Quail"
+        "title": "The Simile of the Quail",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn66_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on the Simile of the Quail"
       }
     ],

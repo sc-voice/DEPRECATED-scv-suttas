@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Great Discourse on Taking Up Practices",
@@ -750,7 +750,7 @@
         {
           "scid": "mn46:18.7",
           "pli": "So taṃ appaṭisaṅkhāya piveyya, nappaṭinissajjeyya.",
-          "en": "He wouldn’t reject it. Without thinking, he’d drink it."
+          "en": "He wouldn’t reject it. Without reflection, he’d drink it."
         },
         {
           "scid": "mn46:18.8",
@@ -805,7 +805,7 @@
         {
           "scid": "mn46:19.9",
           "pli": "So taṃ appaṭisaṅkhāya piveyya, nappaṭinissajjeyya.",
-          "en": "He wouldn’t reject it. Without thinking, he’d drink it."
+          "en": "He wouldn’t reject it. Without reflection, he’d drink it."
         },
         {
           "scid": "mn46:19.10",
@@ -845,7 +845,7 @@
         {
           "scid": "mn46:20.6",
           "pli": "So taṃ paṭisaṅkhāya piveyya, nappaṭinissajjeyya.",
-          "en": "He wouldn’t reject it. After thinking, he’d drink it."
+          "en": "He wouldn’t reject it. After reflection, he’d drink it."
         },
         {
           "scid": "mn46:20.7",
@@ -885,7 +885,7 @@
         {
           "scid": "mn46:21.6",
           "pli": "So taṃ paṭisaṅkhāya piveyya, nappaṭinissajjeyya.",
-          "en": "He wouldn’t reject it. After thinking, he’d drink it."
+          "en": "He wouldn’t reject it. After reflection, he’d drink it."
         },
         {
           "scid": "mn46:21.7",
@@ -943,6 +943,7 @@
     "difficulty": 1,
     "original_title": "Mahādhammasamādāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Great Discourse on Taking Up Practices",
@@ -950,21 +951,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn46_sujato",
         "segmented": true,
-        "title": "The Great Discourse on Taking Up Practices"
+        "title": "The Great Discourse on Taking Up Practices",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn46_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "The Greater Discourse on Ways of Undertaking Things"
       },
       {
@@ -972,9 +979,12 @@
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn46_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Greater Discourse on the (Ways of) Undertaking Dhamma"
       }
     ],

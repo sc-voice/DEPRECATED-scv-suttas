@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Subha",
@@ -790,7 +790,7 @@
         {
           "scid": "mn99:16.9",
           "pli": "Imehi kho, māṇava, pañcahi kāmaguṇehi brāhmaṇo pokkharasāti opamañño subhagavaniko gathito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjati.",
-          "en": "Pokkharasāti enjoys himself with these five kinds of sensual stimulation, tied, stupefied, attached, blind to the drawbacks, and not understanding the escape."
+          "en": "Pokkharasāti enjoys himself with these five kinds of sensual stimulation, tied, infatuated, attached, blind to the drawbacks, and not understanding the escape."
         },
         {
           "scid": "mn99:16.10",
@@ -1330,17 +1330,17 @@
         {
           "scid": "mn99:30.6",
           "pli": "“Taṃ kiṃ maññasi, bhavaṃ bhāradvājo samaṇassa gotamassa paññāveyyattiyaṃ paṇḍito maññeti”?",
-          "en": "“What do you think of the ascetic Gotama’s proficiency in wisdom? Do you think he’s astute?”"
+          "en": "“What do you think of the ascetic Gotama’s lucidity of wisdom? Do you think he’s astute?”"
         },
         {
           "scid": "mn99:30.7",
           "pli": "“Ko cāhaṃ, bho, ko ca samaṇassa gotamassa paññāveyyattiyaṃ jānissāmi?",
-          "en": "“My good man, who am I to judge the ascetic Gotama’s competence in wisdom?"
+          "en": "“My good man, who am I to judge the ascetic Gotama’s lucidity of wisdom?"
         },
         {
           "scid": "mn99:30.8",
           "pli": "Sopi nūnassa tādisova yo samaṇassa gotamassa paññāveyyattiyaṃ jāneyyā”ti.",
-          "en": "You’d really have to be on the same level to judge his competence in wisdom.”"
+          "en": "You’d really have to be on the same level to judge his lucidity of wisdom.”"
         },
         {
           "scid": "mn99:30.9",
@@ -1375,7 +1375,7 @@
         {
           "scid": "mn99:31.1",
           "pli": "Evaṃ vutte, jāṇussoṇi brāhmaṇo sabbasetā vaḷavābhirathā orohitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā udānaṃ udānesi:",
-          "en": "When he had spoken, Jāṇussoṇi got down from his chariot, arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and spoke these words of inspiration three times:"
+          "en": "When he had spoken, Jāṇussoṇi got down from his chariot, arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and was inspired to exclaim three times:"
         },
         {
           "scid": "mn99:31.2",
@@ -1413,6 +1413,7 @@
     "difficulty": 2,
     "original_title": "Subha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Subha",
@@ -1420,12 +1421,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn99_sujato",
         "segmented": true,
-        "title": "With Subha"
+        "title": "With Subha",
+        "volpage": null
       }
     ],
     "parallel_count": 10,

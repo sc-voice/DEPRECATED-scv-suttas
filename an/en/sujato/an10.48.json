@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Ten Regular Reflections for a Renunciate",
@@ -60,7 +60,7 @@
         {
           "scid": "an10.48:1.1",
           "pli": "“Dasayime, bhikkhave, dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā.",
-          "en": "“Mendicants, one who has gone forth should often reflect on these ten things."
+          "en": "“Mendicants, one who has gone forth should often review these ten things."
         },
         {
           "scid": "an10.48:1.2",
@@ -70,7 +70,7 @@
         {
           "scid": "an10.48:2.1",
           "pli": "‘Vevaṇṇiyamhi ajjhupagato’ti pabbajitena abhiṇhaṃ paccavekkhitabbaṃ. (1)",
-          "en": "One who has gone forth should often reflect: ‘I have achieved freedom from class.’"
+          "en": "One who has gone forth should often review this: ‘I have secured freedom from class.’"
         },
         {
           "scid": "an10.48:3.1",
@@ -125,7 +125,7 @@
         {
           "scid": "an10.48:13.1",
           "pli": "Ime kho, bhikkhave, dasa dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā”ti.",
-          "en": "One who has gone forth should often reflect on these ten things.”"
+          "en": "One who has gone forth should often review these ten things.”"
         },
         {
           "scid": "an10.48:13.2",
@@ -139,7 +139,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, one who has gone forth should often reflect…",
+      "title": "“Mendicants, one who has gone forth should often review…",
       "expandable": false
     }
   ],
@@ -153,6 +153,7 @@
     "difficulty": null,
     "original_title": "Pabbajitaabhiṇha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Ten Regular Reflections for a Renunciate",
@@ -160,21 +161,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.48_sujato",
         "segmented": true,
-        "title": "Ten Regular Reflections for a Renunciate"
+        "title": "Ten Regular Reflections for a Renunciate",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an10.48_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Ten Things"
       }
     ],

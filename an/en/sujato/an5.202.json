@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Listening to the Teaching",
@@ -60,7 +60,7 @@
         {
           "scid": "an5.202:1.1",
           "pli": "“Pañcime, bhikkhave, ānisaṃsā dhammassavane.",
-          "en": "“Mendicants, there are these five advantages of listening to the teaching."
+          "en": "“Mendicants, there are these five benefits of listening to the teaching."
         },
         {
           "scid": "an5.202:1.2",
@@ -75,7 +75,7 @@
         {
           "scid": "an5.202:1.4",
           "pli": "Ime kho, bhikkhave, pañca ānisaṃsā dhammassavane”ti.",
-          "en": "These are the five advantages of listening to the teaching.”"
+          "en": "These are the five benefits of listening to the teaching.”"
         },
         {
           "scid": "an5.202:1.5",
@@ -89,7 +89,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, there are these five advantages of listening to…",
+      "title": "“Mendicants, there are these five benefits of listening to…",
       "expandable": false
     }
   ],
@@ -103,6 +103,7 @@
     "difficulty": null,
     "original_title": "Dhammassavana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Listening to the Teaching",
@@ -110,21 +111,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.202_sujato",
         "segmented": true,
-        "title": "Listening to the Teaching"
+        "title": "Listening to the Teaching",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an5.202_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Listening to the Dhamma"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Facts",
@@ -105,7 +105,7 @@
         {
           "scid": "an4.192:2.4",
           "pli": "‘dīgharattaṃ kho ayamāyasmā khaṇḍakārī chiddakārī sabalakārī kammāsakārī, na santatakārī na santatavutti;",
-          "en": "‘For a long time this venerable’s deeds have been corrupt, flawed, blemished, and tainted. Their deeds and behavior are inconsistent."
+          "en": "‘For a long time this venerable’s deeds have been broken, tainted, spotty, and marred. Their deeds and behavior are inconsistent."
         },
         {
           "scid": "an4.192:2.5",
@@ -120,7 +120,7 @@
         {
           "scid": "an4.192:3.2",
           "pli": "‘dīgharattaṃ kho ayamāyasmā akhaṇḍakārī acchiddakārī asabalakārī akammāsakārī santatakārī santatavutti;",
-          "en": "‘For a long time this venerable’s deeds have been uncorrupted, unflawed, unblemished, and untainted. Their deeds and behavior are consistent."
+          "en": "‘For a long time this venerable’s deeds have been unbroken, impeccable, spotless, and unmarred. Their deeds and behavior are consistent."
         },
         {
           "scid": "an4.192:3.3",
@@ -130,7 +130,7 @@
         {
           "scid": "an4.192:3.4",
           "pli": "‘Saṃvāsena, bhikkhave, sīlaṃ veditabbaṃ, tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (1)",
-          "en": "That’s why I said that you can get know a person’s ethics by living with them. But only after a long time, not a short time; only when paying attention, not when inattentive; and only by the wise, not the witless."
+          "en": "That’s why I said that you can get to know a person’s ethics by living with them. But only after a long time, not a short time; only when paying attention, not when inattentive; and only by the wise, not the witless."
         },
         {
           "scid": "an4.192:4.1",
@@ -185,7 +185,7 @@
         {
           "scid": "an4.192:5.5",
           "pli": "‘Saṃvohārena, bhikkhave, soceyyaṃ veditabbaṃ, tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (2)",
-          "en": "That’s why I said that you can get know a person’s purity by dealing with them. …"
+          "en": "That’s why I said that you can get to know a person’s purity by dealing with them. …"
         },
         {
           "scid": "an4.192:6.1",
@@ -240,7 +240,7 @@
         {
           "scid": "an4.192:7.5",
           "pli": "‘Āpadāsu, bhikkhave, thāmo veditabbo, so ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’ti, ",
-          "en": "That’s why I said that you can know a person’s resilience in times of trouble. …"
+          "en": "That’s why I said that you can get to know a person’s resilience in times of trouble. …"
         },
         {
           "scid": "an4.192:7.6",
@@ -443,6 +443,7 @@
     "difficulty": null,
     "original_title": "Ṭhāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Facts",
@@ -450,21 +451,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.192_sujato",
         "segmented": true,
-        "title": "Facts"
+        "title": "Facts",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an4.192_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Traits"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Deity",
@@ -60,7 +60,7 @@
         {
           "scid": "an9.19:1.1",
           "pli": "“Imañca, bhikkhave, rattiṃ sambahulā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yenāhaṃ tenupasaṅkamiṃsu; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho, bhikkhave, tā devatā maṃ etadavocuṃ:",
-          "en": "“Mendicants, tonight, several glorious deities, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and said to me."
+          "en": "“Mendicants, tonight, several glorious deities, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and said to me:"
         },
         {
           "scid": "an9.19:1.2",
@@ -115,27 +115,27 @@
         {
           "scid": "an9.19:3.4",
           "pli": "yathāsatti yathābalaṃ saṃvibhajimha, no ca kho upanisīdimha dhammassavanāya … pe …",
-          "en": "‘We didn’t sit nearby to listen to the teachings. …’"
+          "en": "‘… we didn’t sit nearby to listen to the teachings. …’"
         },
         {
           "scid": "an9.19:3.5",
           "pli": "upanisīdimha dhammassavanāya, no ca kho ohitasotā dhammaṃ suṇimha … pe …",
-          "en": "‘We didn’t lend an ear to the teachings. …’"
+          "en": "‘… we didn’t lend an ear to the teachings. …’"
         },
         {
           "scid": "an9.19:3.6",
           "pli": "ohitasotā ca dhammaṃ suṇimha, no ca kho sutvā dhammaṃ dhārayimha … pe …",
-          "en": "‘We didn’t memorize the teachings. …’"
+          "en": "‘… we didn’t memorize the teachings. …’"
         },
         {
           "scid": "an9.19:3.7",
           "pli": "sutvā ca dhammaṃ dhārayimha, no ca kho dhātānaṃ dhammānaṃ atthaṃ upaparikkhimha … pe …",
-          "en": "‘We didn’t examine the meaning of teachings we’d memorized. …’"
+          "en": "‘… we didn’t examine the meaning of teachings we’d memorized. …’"
         },
         {
           "scid": "an9.19:3.8",
           "pli": "dhātānañca dhammānaṃ atthaṃ upaparikkhimha, no ca kho atthamaññāya dhammamaññāya dhammānudhammaṃ paṭipajjimha.",
-          "en": "‘Having understood the meaning and the teaching, we didn’t practice accordingly."
+          "en": "‘… having understood the meaning and the teaching, we didn’t practice accordingly."
         },
         {
           "scid": "an9.19:3.9",
@@ -155,7 +155,7 @@
         {
           "scid": "an9.19:4.3",
           "pli": "Te mayaṃ, bhante, paccuṭṭhimha abhivādimha, āsanaṃ adamha, yathāsatti yathābalaṃ saṃvibhajimha, upanisīdimha dhammassavanāya, ohitasotā ca dhammaṃ suṇimha, sutvā ca dhammaṃ dhārayimha, dhātānañca dhammānaṃ atthaṃ upaparikkhimha, atthamaññāya dhammamaññāya dhammānudhammaṃ paṭipajjimha.",
-          "en": "We politely rose, bowed, and offered them a seat. We shared as best we could. We sat near by to listen to the teachings, leant an ear, memorized them, and examined their meaning. Understanding the teaching and the meaning we practiced accordingly."
+          "en": "We politely rose, bowed, and offered them a seat. We shared as best we could. We sat nearby to listen to the teachings, lent an ear, memorized them, and examined their meaning. Understanding the teaching and the meaning we practiced accordingly."
         },
         {
           "scid": "an9.19:4.4",
@@ -193,6 +193,7 @@
     "difficulty": null,
     "original_title": "Devatā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Deity",
@@ -200,12 +201,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.19_sujato",
         "segmented": true,
-        "title": "A Deity"
+        "title": "A Deity",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

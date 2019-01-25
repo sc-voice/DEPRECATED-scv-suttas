@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Mahānāma",
@@ -165,7 +165,7 @@
         {
           "scid": "an6.10:4.2",
           "pli": "‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti.",
-          "en": "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, straightforward, methodical, and proper. It consists of the four pairs, the eight individuals. This is the Saṅgha of the Buddha’s disciples that is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of greeting with joined palms, and is the supreme field of merit for the world.’"
+          "en": "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, straightforward, methodical, and proper. It consists of the four pairs, the eight individuals. This is the Saṅgha of the Buddha’s disciples that is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and is the supreme field of merit for the world.’"
         },
         {
           "scid": "an6.10:4.3",
@@ -200,7 +200,7 @@
         {
           "scid": "an6.10:5.1",
           "pli": "Puna caparaṃ, mahānāma, ariyasāvako attano sīlāni anussarati akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni.",
-          "en": "Furthermore, a noble disciple recollects their own ethical conduct, which is uncorrupted, unflawed, unblemished, untainted, liberating, praised by sensible people, not mistaken, and leading to immersion."
+          "en": "Furthermore, a noble disciple recollects their own ethical conduct, which is unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion."
         },
         {
           "scid": "an6.10:5.2",
@@ -285,7 +285,7 @@
         {
           "scid": "an6.10:7.2",
           "pli": "‘santi devā cātumahārājikā, santi devā tāvatiṃsā, santi devā yāmā, santi devā tusitā, santi devā nimmānaratino, santi devā paranimmitavasavattino, santi devā brahmakāyikā, santi devā tatuttari.",
-          "en": "‘There are the Gods of the Four Great Kings, the Gods of the Thirty-Three, the Gods of Yama, the Joyful Gods, the Gods Who Love to Create, the Gods Who Control the Creations of Others, the Gods of Brahmā’s Group, and gods even higher than these."
+          "en": "‘There are the Gods of the Four Great Kings, the Gods of the Thirty-Three, the Gods of Yama, the Joyful Gods, the Gods Who Love to Create, the Gods Who Control the Creations of Others, the Gods of Brahmā’s Host, and gods even higher than these."
         },
         {
           "scid": "an6.10:7.3",
@@ -398,6 +398,7 @@
     "difficulty": null,
     "original_title": "Mahānāma Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Mahānāma",
@@ -405,12 +406,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.10_sujato",
         "segmented": true,
-        "title": "With Mahānāma"
+        "title": "With Mahānāma",
+        "volpage": null
       }
     ],
     "parallel_count": 6,

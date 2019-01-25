@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Immersion",
@@ -60,12 +60,12 @@
         {
           "scid": "an5.27:1.1",
           "pli": "“Samādhiṃ, bhikkhave, bhāvetha appamāṇaṃ nipakā patissatā.",
-          "en": "“Mendicants, develop limitless immersion, disciplined and mindful."
+          "en": "“Mendicants, develop limitless immersion, alert and mindful."
         },
         {
           "scid": "an5.27:1.2",
           "pli": "Samādhiṃ, bhikkhave, bhāvayataṃ appamāṇaṃ nipakānaṃ patissatānaṃ pañca ñāṇāni paccattaññeva uppajjanti.",
-          "en": "When you develop limitless immersion, disciplined and mindful, five knowledges arise for you personally."
+          "en": "When you develop limitless immersion, alert and mindful, five knowledges arise for you personally."
         },
         {
           "scid": "an5.27:1.3",
@@ -85,7 +85,7 @@
         {
           "scid": "an5.27:1.6",
           "pli": "‘ayaṃ samādhi akāpurisasevito’ti paccattaññeva ñāṇaṃ uppajjati, ",
-          "en": "‘This immersion is not cultivated by corrupt people.’ … "
+          "en": "‘This immersion is not cultivated by sinners.’ …"
         },
         {
           "scid": "an5.27:1.7",
@@ -100,12 +100,12 @@
         {
           "scid": "an5.27:2.1",
           "pli": "Samādhiṃ, bhikkhave, bhāvetha appamāṇaṃ nipakā patissatā.",
-          "en": "Develop limitless immersion, disciplined and mindful."
+          "en": "Develop limitless immersion, alert and mindful."
         },
         {
           "scid": "an5.27:2.2",
           "pli": "Samādhiṃ, bhikkhave, bhāvayataṃ appamāṇaṃ nipakānaṃ patissatānaṃ imāni pañca ñāṇāni paccattaññeva uppajjantī”ti.",
-          "en": "When you develop limitless immersion, disciplined and mindful, these five knowledges arise for you personally.”"
+          "en": "When you develop limitless immersion, alert and mindful, these five knowledges arise for you personally.”"
         },
         {
           "scid": "an5.27:2.3",
@@ -119,7 +119,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, develop limitless immersion, disciplined and mindful.",
+      "title": "“Mendicants, develop limitless immersion, alert and mindful.",
       "expandable": false
     }
   ],
@@ -133,6 +133,7 @@
     "difficulty": null,
     "original_title": "Samādhi Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Immersion",
@@ -140,21 +141,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.27_sujato",
         "segmented": true,
-        "title": "Immersion"
+        "title": "Immersion",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an5.27_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Concentration"
       }
     ],

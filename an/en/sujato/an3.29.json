@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Blind",
@@ -140,12 +140,12 @@
         {
           "scid": "an3.29:3.6",
           "pli": "Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasminti.",
-          "en": "These are the three people found in the world.”"
+          "en": "These are the three people found in the world."
         },
         {
           "scid": "an3.29:4.1",
           "pli": "Na ceva bhogā tathārūpā,",
-          "en": "“Neither suitable wealth,"
+          "en": "Neither suitable wealth,"
         },
         {
           "scid": "an3.29:4.2",
@@ -160,7 +160,7 @@
         {
           "scid": "an3.29:4.4",
           "pli": "andhassa hatacakkhuno.",
-          "en": "those blind, with ruined eyes."
+          "en": "those who are blind, with ruined eyes."
         },
         {
           "scid": "an3.29:5.1",
@@ -195,7 +195,7 @@
         {
           "scid": "an3.29:6.3",
           "pli": "Kusalo hoti saṅghātuṃ,",
-          "en": "the young man’s expert at piling up money,"
+          "en": "the young man’s skilled at piling up money,"
         },
         {
           "scid": "an3.29:6.4",
@@ -225,7 +225,7 @@
         {
           "scid": "an3.29:7.3",
           "pli": "Dhammaladdhehi bhogehi,",
-          "en": "Their wealth is properly earned,"
+          "en": "Their wealth is earned legitimately,"
         },
         {
           "scid": "an3.29:7.4",
@@ -298,6 +298,7 @@
     "difficulty": null,
     "original_title": "Andha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Blind",
@@ -305,21 +306,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.29_sujato",
         "segmented": true,
-        "title": "Blind"
+        "title": "Blind",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an3.29_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Blind"
       }
     ],

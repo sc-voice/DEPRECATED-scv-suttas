@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Distortions",
+    "title": "Perversions",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "an4.49:0.3",
           "pli": "49. Vipallāsasutta",
-          "en": "49. Distortions"
+          "en": "49. Perversions"
         }
       ],
       "type": "Section",
@@ -60,7 +60,7 @@
         {
           "scid": "an4.49:1.1",
           "pli": "“Cattārome, bhikkhave, saññāvipallāsā cittavipallāsā diṭṭhivipallāsā.",
-          "en": "“Mendicants, there are these four distortions of perception, mind, and view."
+          "en": "“Mendicants, there are these four perversions of perception, mind, and view."
         },
         {
           "scid": "an4.49:1.2",
@@ -90,7 +90,7 @@
         {
           "scid": "an4.49:1.7",
           "pli": "Ime kho, bhikkhave, cattāro saññāvipallāsā cittavipallāsā diṭṭhivipallāsā.",
-          "en": "These are the four distortions of perception, mind, and view."
+          "en": "These are the four perversions of perception, mind, and view."
         },
         {
           "scid": "an4.49:2.1",
@@ -155,7 +155,7 @@
         {
           "scid": "an4.49:3.6",
           "pli": "khittacittā visaññino.",
-          "en": "their minds deranged and perceptions twisted."
+          "en": "deranged, out of their mind."
         },
         {
           "scid": "an4.49:4.1",
@@ -165,7 +165,7 @@
         {
           "scid": "an4.49:4.2",
           "pli": "ayogakkhemino janā;",
-          "en": "don’t find sanctuary from the yoke."
+          "en": "find no sanctuary from the yoke."
         },
         {
           "scid": "an4.49:4.3",
@@ -249,7 +249,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, there are these four distortions of perception, mind,…",
+      "title": "“Mendicants, there are these four perversions of perception, mind,…",
       "expandable": false
     }
   ],
@@ -263,28 +263,35 @@
     "difficulty": null,
     "original_title": "Vipallāsa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Distortions",
+    "translated_title": "Perversions",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.49_sujato",
         "segmented": true,
-        "title": "Distortions"
+        "title": "Perversions",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an4.49_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Perversions"
       }
     ],

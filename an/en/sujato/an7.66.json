@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Seven Suns",
@@ -230,12 +230,12 @@
         {
           "scid": "an7.66:7.5",
           "pli": "Seyyathāpi, bhikkhave, saradasamaye thullaphusitake deve vassante tattha tattha gopadesu udakāni ṭhitāni honti;",
-          "en": "It’s like the time in the autumn, when the rain falls heavily and water remains here and there in the cow’s hoofprints."
+          "en": "It’s like the time in the autumn, when the rain falls heavily and water remains here and there in the cows’ hoofprints."
         },
         {
           "scid": "an7.66:7.6",
           "pli": "evamevaṃ kho, bhikkhave, tattha tattha gopphakamattāni mahāsamudde udakāni ṭhitāni honti.",
-          "en": "In the same way, water in the ocean remains here and there in puddles like cow’s hoofprints."
+          "en": "In the same way, water in the ocean remains here and there in puddles like cows’ hoofprints."
         },
         {
           "scid": "an7.66:7.7",
@@ -300,7 +300,7 @@
         {
           "scid": "an7.66:9.4",
           "pli": "Sinerussa, bhikkhave, pabbatarājassa jhāyamānassa dayhamānassa vinassamānassa mahatā tejokhandhena abhibhūtassa yojanasatikānipi kūṭāni palujjanti dviyojanasatikānipi, tiyojanasatikānipi, catuyojanasatikānipi, pañcayojanasatikānipi kūṭāni palujjanti.",
-          "en": "Sineru the king of mountains blazes and burns, crumbling as it’s overcome by the great heat. And meanwhile, mountain peaks a hundred leagues high, or two, three, four, or five hundred leagues high disintegrate as they burn."
+          "en": "Sineru the king of mountains blazes and burns, crumbling as it’s overcome by the great fire. And meanwhile, mountain peaks a hundred leagues high, or two, three, four, or five hundred leagues high disintegrate as they burn."
         },
         {
           "scid": "an7.66:9.5",
@@ -350,7 +350,7 @@
         {
           "scid": "an7.66:11.1",
           "pli": "Bhūtapubbaṃ, bhikkhave, sunetto nāma satthā ahosi titthakaro kāmesu vītarāgo.",
-          "en": "Once upon a time, there was a Teacher called Sunetta. He was a religious founder and was free of sensual desire."
+          "en": "Once upon a time, there was a teacher called Sunetta. He was a religious founder and was free of sensual desire."
         },
         {
           "scid": "an7.66:11.2",
@@ -375,7 +375,7 @@
         {
           "scid": "an7.66:12.1",
           "pli": "Atha kho, bhikkhave, sunettassa satthuno etadahosi:",
-          "en": "Then the Teacher Sunetta thought:"
+          "en": "Then the teacher Sunetta thought:"
         },
         {
           "scid": "an7.66:12.2",
@@ -445,7 +445,7 @@
         {
           "scid": "an7.66:14.2",
           "pli": "Catunnaṃ dhammānaṃ ananubodhā appaṭivedhā.",
-          "en": "Because of not understanding and not comprehending four things."
+          "en": "Because of not understanding and not penetrating four things."
         },
         {
           "scid": "an7.66:14.3",
@@ -538,6 +538,7 @@
     "difficulty": null,
     "original_title": "Sattasūriya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Seven Suns",
@@ -545,15 +546,18 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.66_sujato",
         "segmented": true,
-        "title": "The Seven Suns"
+        "title": "The Seven Suns",
+        "volpage": null
       }
     ],
-    "parallel_count": 7,
+    "parallel_count": 9,
     "biblio": null,
     "num": 2
   }

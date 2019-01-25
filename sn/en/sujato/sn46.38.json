@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Obstacles",
@@ -120,7 +120,7 @@
         {
           "scid": "sn46.38:3.1",
           "pli": "Yasmiṃ, bhikkhave, samaye ariyasāvako aṭṭhiṃ katvā manasi katvā sabbaṃ cetaso samannāharitvā ohitasoto dhammaṃ suṇāti, imassa pañca nīvaraṇā tasmiṃ samaye na honti. Satta bojjhaṅgā tasmiṃ samaye bhāvanāpāripūriṃ gacchanti.",
-          "en": "Mendicants, sometimes a mendicant pays heed, pays attention, engages wholeheartedly, and lends an ear to the teaching. At such a time the five hindrances are absent, and the seven awakening factors are developed to perfection."
+          "en": "Mendicants, sometimes a mendicant pays heed, pays attention, engages wholeheartedly, and lends an ear to the teaching. At such a time the five hindrances are absent, and the seven awakening factors are fully developed."
         },
         {
           "scid": "sn46.38:4.1",
@@ -140,7 +140,7 @@
         {
           "scid": "sn46.38:5.1",
           "pli": "Katame satta bojjhaṅgā tasmiṃ samaye bhāvanāpāripūriṃ gacchanti?",
-          "en": "And what are the seven awakening factors that are developed to perfection?"
+          "en": "And what are the seven awakening factors that are fully developed?"
         },
         {
           "scid": "sn46.38:5.2",
@@ -150,12 +150,12 @@
         {
           "scid": "sn46.38:5.3",
           "pli": "Ime satta bojjhaṅgā tasmiṃ samaye bhāvanāpāripūriṃ gacchanti.",
-          "en": "These are the seven awakening factors that are developed to perfection."
+          "en": "These are the seven awakening factors that are fully developed."
         },
         {
           "scid": "sn46.38:5.4",
           "pli": "Yasmiṃ, bhikkhave, samaye ariyasāvako aṭṭhiṃ katvā manasi katvā sabbaṃ cetaso samannāharitvā ohitasoto dhammaṃ suṇāti, imassa pañca nīvaraṇā tasmiṃ samaye na honti. Ime satta bojjhaṅgā tasmiṃ samaye bhāvanāpāripūriṃ gacchantī”ti.",
-          "en": "Sometimes a mendicant pays heed, pays attention, engages wholeheartedly, and lends an ear to the teaching. At such a time the five hindrances are absent, and the seven awakening factors are developed to perfection.”"
+          "en": "Sometimes a mendicant pays heed, pays attention, engages wholeheartedly, and lends an ear to the teaching. At such a time the five hindrances are absent, and the seven awakening factors are fully developed.”"
         },
         {
           "scid": "sn46.38:5.5",
@@ -183,6 +183,7 @@
     "difficulty": null,
     "original_title": "Anīvaraṇa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Obstacles",
@@ -190,21 +191,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn46.38_sujato",
         "segmented": true,
-        "title": "Obstacles"
+        "title": "Obstacles",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn46.38_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Without Hindrances"
       }
     ],

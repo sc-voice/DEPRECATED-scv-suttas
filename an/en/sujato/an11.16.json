@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "The Man From The City Of Aṭṭhaka",
+    "title": "The Man From the City of Aṭṭhaka",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "an11.16:0.3",
           "pli": "16. Aṭṭhakanāgarasutta",
-          "en": "16. The Man From The City Of Aṭṭhaka"
+          "en": "16. The Man From the City of Aṭṭhaka"
         }
       ],
       "type": "Section",
@@ -275,7 +275,7 @@
         {
           "scid": "an11.16:8.1",
           "pli": "Puna caparaṃ, gahapati, bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati.",
-          "en": "Furthermore, mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, they enter and remain in the dimension of infinite space."
+          "en": "Furthermore, a mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space."
         },
         {
           "scid": "an11.16:8.2",
@@ -385,7 +385,7 @@
         {
           "scid": "an11.16:11.1",
           "pli": "Atha kho dasamo gahapati aṭṭhakanāgaro vesālikañca pāṭaliputtakañca bhikkhusaṅghaṃ sannipātāpetvā paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.",
-          "en": "The householder Dasama, having assembled the Saṅgha from Vesālī and Pāṭaliputta, served and satisfied them with his own hands with a variety of delicious foods."
+          "en": "Then the householder Dasama, having assembled the Saṅgha from Vesālī and Pāṭaliputta, served and satisfied them with his own hands with a variety of delicious foods."
         },
         {
           "scid": "an11.16:11.2",
@@ -423,28 +423,35 @@
     "difficulty": null,
     "original_title": "Aṭṭhakanāgara Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "The Man From The City Of Aṭṭhaka",
+    "translated_title": "The Man From the City of Aṭṭhaka",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an11.16_sujato",
         "segmented": true,
-        "title": "The Man From The City Of Aṭṭhaka"
+        "title": "The Man From the City of Aṭṭhaka",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an11.16_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "To Dasama"
       }
     ],

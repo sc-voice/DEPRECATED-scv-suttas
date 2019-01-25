@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Longer Discourse at Assapura",
@@ -705,7 +705,7 @@
         {
           "scid": "mn39:15.4",
           "pli": "Seyyathāpi, bhikkhave, dakkho nhāpako vā nhāpakantevāsī vā kaṃsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṃ paripphosakaṃ sanneyya. Sāyaṃ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā, phuṭā snehena na ca pagghariṇī.",
-          "en": "It’s like when an expert bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out."
+          "en": "It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out."
         },
         {
           "scid": "mn39:15.5",
@@ -775,7 +775,7 @@
         {
           "scid": "mn39:19.1",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmeti.",
-          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward recollection of past lives."
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it toward recollection of past lives."
         },
         {
           "scid": "mn39:19.2",
@@ -795,7 +795,7 @@
         {
           "scid": "mn39:20.1",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmeti.",
-          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the death and rebirth of sentient beings."
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the death and rebirth of sentient beings."
         },
         {
           "scid": "mn39:20.2",
@@ -815,7 +815,7 @@
         {
           "scid": "mn39:21.1",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti.",
-          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the ending of defilements."
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the ending of defilements."
         },
         {
           "scid": "mn39:21.2",
@@ -1018,6 +1018,7 @@
     "difficulty": 2,
     "original_title": "Mahāassapura Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Longer Discourse at Assapura",
@@ -1025,21 +1026,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn39_sujato",
         "segmented": true,
-        "title": "The Longer Discourse at Assapura"
+        "title": "The Longer Discourse at Assapura",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn39_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Greater Discourse at Assapura"
       }
     ],

@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Simile of the Bonfire",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Sunetta",
+      "name": "About Sunetta",
       "uid": "an7.73"
     },
     "previous": {
@@ -70,7 +70,7 @@
         {
           "scid": "an7.72:1.3",
           "pli": "Addasā kho bhagavā addhānamaggappaṭipanno aññatarasmiṃ padese mahantaṃ aggikkhandhaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ.",
-          "en": "While walking along the road, at a certain spot he saw a bonfire burning, blazing and glowing."
+          "en": "While walking along the road, at a certain spot he saw a bonfire burning, blazing, and glowing."
         },
         {
           "scid": "an7.72:1.4",
@@ -275,7 +275,7 @@
         {
           "scid": "an7.72:13.1",
           "pli": "Taṃ kiṃ maññatha, bhikkhave, ",
-          "en": "“What do you think, mendicants? "
+          "en": "What do you think, mendicants? "
         },
         {
           "scid": "an7.72:13.2",
@@ -290,7 +290,7 @@
         {
           "scid": "an7.72:14.1",
           "pli": "“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso sīse vā gahetvā khandhe vā gahetvā tattaṃ ayomañcaṃ vā ayopīṭhaṃ vā abhinisīdāpeyya vā abhinipajjāpeyya vā.",
-          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man to have a strong man grab him by the head or shoulders and make him sit or lie down on a red-hot iron bed or chair."
+          "en": "“I declare this to you, mendicants, I announce this to you! It would be better for that unethical man to have a strong man grab him by the head or shoulders and make him sit or lie down on a red-hot iron bed or seat."
         },
         {
           "scid": "an7.72:14.2",
@@ -305,7 +305,7 @@
         {
           "scid": "an7.72:14.4",
           "pli": "Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ mañcapīṭhaṃ paribhuñjati. Tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (6)",
-          "en": "But when such an unethical man enjoys the use of beds and chairs given in faith by well-to-do aristocrats or brahmins or householders, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
+          "en": "But when such an unethical man enjoys the use of beds and seats given in faith by well-to-do aristocrats or brahmins or householders, that brings him lasting harm and suffering. When his body breaks up, after death, he’s reborn in a place of loss, a bad place, the underworld, hell."
         },
         {
           "scid": "an7.72:15.1",
@@ -390,7 +390,7 @@
         {
           "scid": "an7.72:18.4",
           "pli": "“sudukkaraṃ bhagavā, sudukkaraṃ bhagavā”ti.",
-          "en": "‘It’s too hard, Blessed One! It’s just too hard!”"
+          "en": "“It’s too hard, Blessed One! It’s just too hard!”"
         },
         {
           "scid": "an7.72:18.5",
@@ -423,6 +423,7 @@
     "difficulty": null,
     "original_title": "Aggikkhandhopama Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Simile of the Bonfire",
@@ -430,21 +431,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.72_sujato",
         "segmented": true,
-        "title": "The Simile of the Bonfire"
+        "title": "The Simile of the Bonfire",
+        "volpage": null
       },
       {
         "author": "Yahoo! Pali Group",
         "author_short": "YPG",
         "author_uid": "ypg",
         "id": "en_an7.72_ypg",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2002",
         "segmented": false,
+        "volpage": null,
         "title": "The Mass of Fire Comparison"
       }
     ],

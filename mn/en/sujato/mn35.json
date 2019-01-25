@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Shorter Discourse With Saccaka",
@@ -890,7 +890,7 @@
         {
           "scid": "mn35:22.2",
           "pli": "So tattha passeyya mahantaṃ kadalikkhandhaṃ ujuṃ navaṃ akukkukajātaṃ.",
-          "en": "There they’d see a big banana tree, straight and young and flawlessly grown."
+          "en": "There they’d see a big banana tree, straight and young and grown free of defects."
         },
         {
           "scid": "mn35:22.3",
@@ -1020,7 +1020,7 @@
         {
           "scid": "mn35:24.5",
           "pli": "Kittāvatā ca nu kho bhoto gotamassa sāvako sāsanakaro hoti ovādapatikaro tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane viharatī”ti?",
-          "en": "How do you define a disciple of Master Gotama who follows instructions and responds to advice; who has gone beyond doubt, got rid of uncertainty, gained assurance, and is independent of others in the Teacher’s instructions?”"
+          "en": "How do you define a disciple of Master Gotama who follows instructions and responds to advice; who has gone beyond doubt, got rid of indecision, gained assurance, and is independent of others in the Teacher’s instructions?”"
         },
         {
           "scid": "mn35:24.6",
@@ -1050,7 +1050,7 @@
         {
           "scid": "mn35:24.11",
           "pli": "Ettāvatā kho, aggivessana, mama sāvako sāsanakaro hoti ovādapatikaro tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane viharatī”ti.",
-          "en": "That’s how to define one of my disciples who follows instructions and responds to advice; who has gone beyond doubt, got rid of uncertainty, gained assurance, and is independent of others in the Teacher’s instructions.”"
+          "en": "That’s how to define one of my disciples who follows instructions and responds to advice; who has gone beyond doubt, got rid of indecision, gained assurance, and is independent of others in the Teacher’s instructions.”"
         },
         {
           "scid": "mn35:25.1",
@@ -1150,7 +1150,7 @@
         {
           "scid": "mn35:28.1",
           "pli": "Atha kho saccako nigaṇṭhaputto bhagavato adhivāsanaṃ viditvā te licchavī āmantesi:",
-          "en": "Then, knowing that the Buddha had accepted, Saccaka addressed those Licchavis:"
+          "en": "Then, knowing that the Buddha had consented, Saccaka addressed those Licchavis:"
         },
         {
           "scid": "mn35:28.2",
@@ -1205,12 +1205,12 @@
         {
           "scid": "mn35:30.6",
           "pli": "“Yaṃ kho, aggivessana, tādisaṃ dakkhiṇeyyaṃ āgamma avītarāgaṃ avītadosaṃ avītamohaṃ, taṃ dāyakānaṃ bhavissati.",
-          "en": "“Aggivessana, whatever comes from giving to a recipient of a teacher’s offering such as yourself—who is not free of greed, hate, and delusion—will accrue to the donors."
+          "en": "“Aggivessana, whatever comes from giving to a recipient of a religious donation such as yourself—who is not free of greed, hate, and delusion—will accrue to the donors."
         },
         {
           "scid": "mn35:30.7",
           "pli": "Yaṃ kho, aggivessana, mādisaṃ dakkhiṇeyyaṃ āgamma vītarāgaṃ vītadosaṃ vītamohaṃ, taṃ tuyhaṃ bhavissatī”ti.",
-          "en": "Whatever comes from giving to a recipient of a teacher’s offering such as myself—who is free of greed, hate, and delusion—will accrue to you.”"
+          "en": "Whatever comes from giving to a recipient of a religious donation such as myself—who is free of greed, hate, and delusion—will accrue to you.”"
         },
         {
           "scid": "mn35:30.8",
@@ -1238,6 +1238,7 @@
     "difficulty": 2,
     "original_title": "Cūḷasaccaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Shorter Discourse With Saccaka",
@@ -1245,21 +1246,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn35_sujato",
         "segmented": true,
-        "title": "The Shorter Discourse With Saccaka"
+        "title": "The Shorter Discourse With Saccaka",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn35_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Lesser Discourse To Saccaka"
       }
     ],

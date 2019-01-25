@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "The Intense Fever",
+    "title": "The Mighty Fever",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "sn56.43:0.3",
           "pli": "43. Mahāpariḷāhasutta",
-          "en": "43. The Intense Fever"
+          "en": "43. The Mighty Fever"
         }
       ],
       "type": "Section",
@@ -60,7 +60,7 @@
         {
           "scid": "sn56.43:1.1",
           "pli": "“Atthi, bhikkhave, mahāpariḷāho nāma nirayo.",
-          "en": "“Mendicants, there is a hell called ‘The Intense Fever’."
+          "en": "“Mendicants, there is a hell called ‘The Mighty Fever’."
         },
         {
           "scid": "sn56.43:1.2",
@@ -90,12 +90,12 @@
         {
           "scid": "sn56.43:2.2",
           "pli": "“mahā vata so, bhante, pariḷāho, sumahā vata so, bhante, pariḷāho.",
-          "en": "“Sir, that fever really is intense, so very intense."
+          "en": "“Sir, that fever really is mighty, so very mighty."
         },
         {
           "scid": "sn56.43:2.3",
           "pli": "Atthi nu kho, bhante, etamhā pariḷāhā añño pariḷāho mahantataro ceva bhayānakataro cā”ti?",
-          "en": "Is there any other fever more intense and scarier than this one?”"
+          "en": "Is there any other fever more mighty and terrifying than this one?”"
         },
         {
           "scid": "sn56.43:2.4",
@@ -184,7 +184,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, there is a hell called ‘The Intense Fever’.",
+      "title": "“Mendicants, there is a hell called ‘The Mighty Fever’.",
       "expandable": false
     }
   ],
@@ -198,28 +198,35 @@
     "difficulty": null,
     "original_title": "Mahāpariḷāha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "The Intense Fever",
+    "translated_title": "The Mighty Fever",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn56.43_sujato",
         "segmented": true,
-        "title": "The Intense Fever"
+        "title": "The Mighty Fever",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn56.43_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "The Great Conflagration"
       }
     ],

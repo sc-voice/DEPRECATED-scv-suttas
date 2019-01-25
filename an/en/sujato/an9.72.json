@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Emotional Shackles",
@@ -95,7 +95,7 @@
         {
           "scid": "an9.72:2.3",
           "pli": "yāvadatthaṃ udarāvadehakaṃ bhuñjitvā seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutto viharati …",
-          "en": "They eat as much as they like until their bellies are full, then indulge in the pleasures of sleeping, lying, and drowsing …"
+          "en": "They eat as much as they like until their belly is full, then indulge in the pleasures of sleeping, lying, and drowsing …"
         },
         {
           "scid": "an9.72:2.4",
@@ -150,7 +150,7 @@
         {
           "scid": "an9.72:3.7",
           "pli": "Imesaṃ kho, bhikkhave, pañcannaṃ cetasovinibandhānaṃ pahānāya ime cattāro satipaṭṭhānā bhāvetabbā”ti.",
-          "en": "To give up those five emotional shackles you should develop these four kinds of mindfulness meditation.”"
+          "en": "To give up these five emotional shackles you should develop these four kinds of mindfulness meditation.”"
         },
         {
           "scid": "an9.72:3.8",
@@ -203,6 +203,7 @@
     "difficulty": null,
     "original_title": "Cetasovinibandha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Emotional Shackles",
@@ -210,12 +211,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.72_sujato",
         "segmented": true,
-        "title": "Emotional Shackles"
+        "title": "Emotional Shackles",
+        "volpage": null
       }
     ],
     "parallel_count": 10,

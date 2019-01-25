@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Bhaddiya",
@@ -440,7 +440,7 @@
         {
           "scid": "an4.193:15.5",
           "pli": "“Evaṃvādiṃ kho maṃ, bhaddiya, evamakkhāyiṃ eke samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti:",
-          "en": "“Though I speak and explain like this, certain ascetics and brahmins misrepresent me with the false, baseless, lying, untruthful claim:"
+          "en": "“Though I speak and explain like this, certain ascetics and brahmins misrepresent me with the false, hollow, lying, untruthful claim:"
         },
         {
           "scid": "an4.193:15.6",
@@ -490,12 +490,12 @@
         {
           "scid": "an4.193:16.4",
           "pli": "Sadevako cepi, bhaddiya, loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā imāya āvaṭṭaniyā āvaṭṭeyyuṃ akusaladhammappahānāya kusaladhammūpasampadāya, sadevakassapissa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṃ hitāya sukhāya.",
-          "en": "If the whole world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—were to be converted by this, for giving up unskillful qualities and acquiring skillful qualities, it would be for their lasting welfare and happiness."
+          "en": "If the whole world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—were to be converted by this, for giving up unskillful qualities and embracing skillful qualities, it would be for their lasting welfare and happiness."
         },
         {
           "scid": "an4.193:16.5",
           "pli": "Ime cepi, bhaddiya, mahāsālā imāya āvaṭṭaniyā āvaṭṭeyyuṃ akusaladhammappahānāya kusaladhammūpasampadāya, imesampissa mahāsālānaṃ dīgharattaṃ hitāya sukhāya ().",
-          "en": "If these great sal trees were to be converted by this, for giving up unskillful qualities and acquiring skillful qualities, it would be for their lasting welfare and happiness—if they were sentient."
+          "en": "If these great sal trees were to be converted by this, for giving up unskillful qualities and embracing skillful qualities, it would be for their lasting welfare and happiness—if they were sentient."
         },
         {
           "scid": "an4.193:16.6",
@@ -528,6 +528,7 @@
     "difficulty": null,
     "original_title": "Bhaddiya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Bhaddiya",
@@ -535,12 +536,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.193_sujato",
         "segmented": true,
-        "title": "With Bhaddiya"
+        "title": "With Bhaddiya",
+        "volpage": null
       }
     ],
     "parallel_count": 3,

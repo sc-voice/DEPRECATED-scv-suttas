@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Heirs in the Teaching",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Fear and Terror",
+      "name": "Fear and Dread",
       "uid": "mn4"
     },
     "previous": {
@@ -620,7 +620,7 @@
         {
           "scid": "mn3:9-15.3",
           "pli": "issā ca pāpikā maccherañca pāpakaṃ, ",
-          "en": "envy and stinginess … "
+          "en": "jealousy and stinginess … "
         },
         {
           "scid": "mn3:9-15.4",
@@ -703,6 +703,7 @@
     "difficulty": 1,
     "original_title": "Dhammadāyāda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Heirs in the Teaching",
@@ -710,21 +711,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn3_sujato",
         "segmented": true,
-        "title": "Heirs in the Teaching"
+        "title": "Heirs in the Teaching",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn3_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on Heirs of Dhamma"
       }
     ],

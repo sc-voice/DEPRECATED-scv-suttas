@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Mother and Son",
@@ -130,7 +130,7 @@
         {
           "scid": "an5.55:3.1",
           "pli": "“Kiṃ nu so, bhikkhave, moghapuriso maññati:",
-          "en": "“Mendicants, how could that foolish man imagine that"
+          "en": "“Mendicants, how could that silly man imagine that"
         },
         {
           "scid": "an5.55:3.2",
@@ -140,12 +140,12 @@
         {
           "scid": "an5.55:3.3",
           "pli": "Nāhaṃ, bhikkhave, aññaṃ ekarūpampi samanupassāmi evaṃ rajanīyaṃ evaṃ kamanīyaṃ evaṃ madanīyaṃ evaṃ bandhanīyaṃ evaṃ mucchanīyaṃ evaṃ antarāyakaraṃ anuttarassa yogakkhemassa adhigamāya yathayidaṃ, bhikkhave, itthirūpaṃ.",
-          "en": "Compared to the sight of a woman, I do not see a single sight that is so arousing, desirable, intoxicating, captivating, and stupefying, and such an obstacle to reaching the supreme sanctuary."
+          "en": "Compared to the sight of a woman, I do not see a single sight that is so arousing, sensuous, intoxicating, captivating, and infatuating, and such an obstacle to reaching the supreme sanctuary."
         },
         {
           "scid": "an5.55:3.4",
           "pli": "Itthirūpe, bhikkhave, sattā rattā giddhā gathitā mucchitā ajjhosannā.",
-          "en": "Sentient beings are lustful, greedy, tied, stupefied, and attached to the sight of a woman."
+          "en": "Sentient beings are lustful, greedy, tied, infatuated, and attached to the sight of a woman."
         },
         {
           "scid": "an5.55:3.5",
@@ -155,12 +155,12 @@
         {
           "scid": "an5.55:4.1",
           "pli": "Nāhaṃ, bhikkhave, aññaṃ ekasaddampi … ekagandhampi … ekarasampi … ekaphoṭṭhabbampi samanupassāmi evaṃ rajanīyaṃ evaṃ kamanīyaṃ evaṃ madanīyaṃ evaṃ bandhanīyaṃ evaṃ mucchanīyaṃ evaṃ antarāyakaraṃ anuttarassa yogakkhemassa adhigamāya yathayidaṃ, bhikkhave, itthiphoṭṭhabbaṃ.",
-          "en": "Compared to the sound … smell … taste … touch of a woman, I do not see a single touch that is so arousing, desirable, intoxicating, captivating, and stupefying, and such an obstacle to reaching the supreme sanctuary."
+          "en": "Compared to the sound … smell … taste … touch of a woman, I do not see a single touch that is so arousing, sensuous, intoxicating, captivating, and infatuating, and such an obstacle to reaching the supreme sanctuary."
         },
         {
           "scid": "an5.55:4.2",
           "pli": "Itthiphoṭṭhabbe, bhikkhave, sattā rattā giddhā gathitā mucchitā ajjhosannā.",
-          "en": "Sentient beings are lustful, greedy, tied, stupefied, and attached to the touch of a woman."
+          "en": "Sentient beings are lustful, greedy, tied, infatuated, and attached to the touch of a woman."
         },
         {
           "scid": "an5.55:4.3",
@@ -285,12 +285,12 @@
         {
           "scid": "an5.55:9.3",
           "pli": "Kālaṃ gati bhavābhavaṃ,",
-          "en": "make their priority transmigration—"
+          "en": "prioritize transmigration—"
         },
         {
           "scid": "an5.55:9.4",
           "pli": "saṃsārasmiṃ purakkhatā.",
-          "en": "time and destination, life after life."
+          "en": "time and destination, and life after life."
         },
         {
           "scid": "an5.55:10.1",
@@ -338,6 +338,7 @@
     "difficulty": null,
     "original_title": "Mātāputta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Mother and Son",
@@ -345,21 +346,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.55_sujato",
         "segmented": true,
-        "title": "Mother and Son"
+        "title": "Mother and Son",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an5.55_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Mother and Son"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Kevaddha",
@@ -680,7 +680,7 @@
         {
           "scid": "dn11:79.6",
           "pli": "Atthi kho, bhikkhu, brahmakāyikā nāma devā amhehi abhikkantatarā ca paṇītatarā ca.",
-          "en": "the gods of Brahmā’s Group."
+          "en": "the gods of Brahmā’s Host."
         },
         {
           "scid": "dn11:79.7",
@@ -1058,6 +1058,7 @@
     "difficulty": 2,
     "original_title": "Kevaṭṭa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Kevaddha",
@@ -1065,21 +1066,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn11_sujato",
         "segmented": true,
-        "title": "With Kevaddha"
+        "title": "With Kevaddha",
+        "volpage": null
       },
       {
         "author": "T.W. Rhys Davids, Leigh Brasington",
         "author_short": "Rhys Davids …",
         "author_uid": "rhysdavids-brasington",
         "id": "en_dn11_rhysdavids-brasington",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": null,
         "segmented": false,
+        "volpage": null,
         "title": "To Kevaṭṭa"
       }
     ],

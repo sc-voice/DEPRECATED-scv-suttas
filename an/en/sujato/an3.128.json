@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Bitter",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Anuruddha (1st)",
+      "name": "With Anuruddha (1st)",
       "uid": "an3.129"
     },
     "previous": {
@@ -90,7 +90,7 @@
         {
           "scid": "an3.128:2.3",
           "pli": "Atha kho so bhikkhu bhagavatā iminā ovādena ovadito saṃvegamāpādi.",
-          "en": "Hearing this advice of the Buddha, that monk came to his senses."
+          "en": "Hearing this advice of the Buddha, that monk was struck with a sense of urgency."
         },
         {
           "scid": "an3.128:2.4",
@@ -165,12 +165,12 @@
         {
           "scid": "an3.128:5.4",
           "pli": "Taṃ vata, bhikkhu, kaṭuviyakataṃ attānaṃ āmagandhena avassutaṃ makkhikā nānupatissanti nānvāssavissantīti, netaṃ ṭhānaṃ vijjatīti.",
-          "en": "If you’re bitter, corrupted by the stench of rotting flesh, flies will, without a doubt, plague and infest you.”"
+          "en": "If you’re bitter, corrupted by the stench of rotting flesh, flies will, without a doubt, plague and infest you."
         },
         {
           "scid": "an3.128:6.1",
           "pli": "Aguttaṃ cakkhusotasmiṃ,",
-          "en": "“When your eyes and ears are unguarded,"
+          "en": "When your eyes and ears are unguarded,"
         },
         {
           "scid": "an3.128:6.2",
@@ -205,7 +205,7 @@
         {
           "scid": "an3.128:7.4",
           "pli": "vighātasseva bhāgavā.",
-          "en": "frustration is their lot."
+          "en": "anguish is their lot."
         },
         {
           "scid": "an3.128:8.1",
@@ -273,6 +273,7 @@
     "difficulty": null,
     "original_title": "Kaṭuviya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Bitter",
@@ -280,21 +281,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.128_sujato",
         "segmented": true,
-        "title": "Bitter"
+        "title": "Bitter",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an3.128_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Putrid"
       }
     ],

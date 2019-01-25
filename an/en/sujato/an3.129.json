@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Anuruddha (1st)",
+    "title": "With Anuruddha (1st)",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Anuruddha (2nd)",
+      "name": "With Anuruddha (2nd)",
       "uid": "an3.130"
     },
     "previous": {
@@ -43,7 +43,7 @@
         {
           "scid": "an3.129:0.3",
           "pli": "129. Paṭhamaanuruddhasutta",
-          "en": "129. Anuruddha (1st)"
+          "en": "129. With Anuruddha (1st)"
         }
       ],
       "type": "Section",
@@ -75,7 +75,7 @@
         {
           "scid": "an3.129:2.1",
           "pli": "“Tīhi kho, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
-          "en": "“When they have three qualities females—when their body breaks up, after death—are reborn in a place of loss, a bad place, the underworld, hell."
+          "en": "“When females have three qualities, when their body breaks up, after death, they are reborn in a place of loss, a bad place, the underworld, hell."
         },
         {
           "scid": "an3.129:2.2",
@@ -85,12 +85,12 @@
         {
           "scid": "an3.129:2.3",
           "pli": "Idha, anuruddha, mātugāmo pubbaṇhasamayaṃ maccheramalapariyuṭṭhitena cetasā agāraṃ ajjhāvasati, majjhanhikasamayaṃ issāpariyuṭṭhitena cetasā agāraṃ ajjhāvasati, sāyanhasamayaṃ kāmarāgapariyuṭṭhitena cetasā agāraṃ ajjhāvasati.",
-          "en": "A female lives at home with a heart full of the stain of stinginess in the morning, envy at midday, and sexual desire in the evening."
+          "en": "A female lives at home with a heart full of the stain of stinginess in the morning, jealousy at midday, and sexual desire in the evening."
         },
         {
           "scid": "an3.129:2.4",
           "pli": "Imehi kho, anuruddha, tīhi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī”ti.",
-          "en": "When they have these three qualities females—when their body breaks up, after death—are reborn in a place of loss, a bad place, the underworld, hell.”"
+          "en": "When females have these three qualities, when their body breaks up, after death, they are reborn in a place of loss, a bad place, the underworld, hell.”"
         },
         {
           "scid": "an3.129:2.5",
@@ -118,19 +118,23 @@
     "difficulty": null,
     "original_title": "Paṭhamaanuruddha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Anuruddha (1st)",
+    "translated_title": "With Anuruddha (1st)",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.129_sujato",
         "segmented": true,
-        "title": "Anuruddha (1st)"
+        "title": "With Anuruddha (1st)",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

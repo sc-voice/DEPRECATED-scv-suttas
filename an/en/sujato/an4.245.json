@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Benefits of Training",
@@ -75,7 +75,7 @@
         {
           "scid": "an4.245:1.4",
           "pli": "Yathā yathā, bhikkhave, mayā sāvakānaṃ ābhisamācārikā sikkhā paññattā appasannānaṃ pasādāya pasannānaṃ bhiyyobhāvāya tathā tathā so tassā sikkhāya akhaṇḍakārī hoti acchiddakārī asabalakārī akammāsakārī, samādāya sikkhati sikkhāpadesu.",
-          "en": "They undertake whatever supplementary regulations I have laid down, keeping them uncorrupted, unflawed, unblemished, and untainted."
+          "en": "They undertake whatever supplementary regulations I have laid down, keeping them unbroken, impeccable, spotless, and unmarred."
         },
         {
           "scid": "an4.245:2.1",
@@ -85,7 +85,7 @@
         {
           "scid": "an4.245:2.2",
           "pli": "Yathā yathā, bhikkhave, mayā sāvakānaṃ ādibrahmacariyikā sikkhā paññattā sabbaso sammā dukkhakkhayāya tathā tathā so tassā sikkhāya akhaṇḍakārī hoti acchiddakārī asabalakārī akammāsakārī, samādāya sikkhati sikkhāpadesu.",
-          "en": "They undertake whatever training that deals with the fundamentals of the spiritual life I have laid down, keeping it uncorrupted, unflawed, unblemished, and untainted."
+          "en": "They undertake whatever training that deals with the fundamentals of the spiritual life I have laid down, keeping it unbroken, impeccable, spotless, and unmarred."
         },
         {
           "scid": "an4.245:2.3",
@@ -198,6 +198,7 @@
     "difficulty": null,
     "original_title": "Sikkhānisaṃsa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Benefits of Training",
@@ -205,21 +206,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.245_sujato",
         "segmented": true,
-        "title": "The Benefits of Training"
+        "title": "The Benefits of Training",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an4.245_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Training"
       }
     ],

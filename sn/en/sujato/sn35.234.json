@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Udāyī",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "The Explanation on Burning",
+      "name": "The Exposition on Burning",
       "uid": "sn35.235"
     },
     "previous": {
@@ -170,7 +170,7 @@
         {
           "scid": "sn35.234:7.1",
           "pli": "Seyyathāpi, āvuso, puriso sāratthiko sāragavesī sārapariyesanaṃ caramāno tiṇhaṃ kuṭhāriṃ ādāya vanaṃ paviseyya. So tattha passeyya mahantaṃ kadalikkhandhaṃ ujuṃ navaṃ akukkukajātaṃ. Tamenaṃ mūle chindeyya; mūle chetvā agge chindeyya; agge chetvā pattavaṭṭiṃ vinibbhujeyya. So tattha pheggumpi nādhigaccheyya, kuto sāraṃ.",
-          "en": "Suppose there was a person in need of heartwood. Wandering in search of heartwood, they’d take a sharp axe and enter a forest. There they’d see a big banana tree, straight and young and flawlessly grown. They’d cut it down at the base, cut off the root, cut off the top, and unroll the coiled sheaths. But they wouldn’t even find sapwood, much less heartwood."
+          "en": "Suppose there was a person in need of heartwood. Wandering in search of heartwood, they’d take a sharp axe and enter a forest. There they’d see a big banana tree, straight and young and grown free of defects. They’d cut it down at the base, cut off the root, cut off the top, and unroll the coiled sheaths. But they wouldn’t even find sapwood, much less heartwood."
         },
         {
           "scid": "sn35.234:7.2",
@@ -218,6 +218,7 @@
     "difficulty": null,
     "original_title": "Udāyī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Udāyī",
@@ -225,21 +226,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn35.234_sujato",
         "segmented": true,
-        "title": "With Udāyī"
+        "title": "With Udāyī",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn35.234_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Udayi"
       }
     ],

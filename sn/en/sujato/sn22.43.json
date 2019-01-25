@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Be Your Own Island",
@@ -140,7 +140,7 @@
         {
           "scid": "sn22.43:3.1",
           "pli": "Rūpassa tveva, bhikkhave, aniccataṃ viditvā vipariṇāmaṃ virāgaṃ nirodhaṃ, ‘pubbe ceva rūpaṃ etarahi ca sabbaṃ rūpaṃ aniccaṃ dukkhaṃ vipariṇāmadhamman’ti, evametaṃ yathābhūtaṃ sammappaññāya passato ye sokaparidevadukkhadomanassupāyāsā te pahīyanti.",
-          "en": "Sorrow, lamentation, pain, sadness, and distress are given up when you understand the impermanence of form—its perishing, fading away, and cessation—and you truly see with proper understanding that all form, whether past or present, is impermanent, suffering, and perishable."
+          "en": "Sorrow, lamentation, pain, sadness, and distress are given up when you understand the impermanence of form—its perishing, fading away, and cessation—and you truly see with right understanding that all form, whether past or present, is impermanent, suffering, and perishable."
         },
         {
           "scid": "sn22.43:3.2",
@@ -175,7 +175,7 @@
         {
           "scid": "sn22.43:3.8",
           "pli": "Viññāṇassa tveva, bhikkhave, aniccataṃ viditvā vipariṇāmaṃ virāgaṃ nirodhaṃ, ‘pubbe ceva viññāṇaṃ etarahi ca sabbaṃ viññāṇaṃ aniccaṃ dukkhaṃ vipariṇāmadhamman’ti, evametaṃ yathābhūtaṃ sammappaññāya passato ye sokaparidevadukkhadomanassupāyāsā te pahīyanti.",
-          "en": "consciousness—its perishing, fading away, and cessation—and you truly see with proper understanding that all consciousness, whether past or present, is impermanent, suffering, and perishable."
+          "en": "consciousness—its perishing, fading away, and cessation—and you truly see with right understanding that all consciousness, whether past or present, is impermanent, suffering, and perishable."
         },
         {
           "scid": "sn22.43:3.9",
@@ -208,6 +208,7 @@
     "difficulty": null,
     "original_title": "Attadīpa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Be Your Own Island",
@@ -215,21 +216,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn22.43_sujato",
         "segmented": true,
-        "title": "Be Your Own Island"
+        "title": "Be Your Own Island",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn22.43_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "With Yourselves as an Island"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Inquirer",
@@ -280,7 +280,7 @@
         {
           "scid": "mn47:10.2",
           "pli": "‘ke panāyasmato ākārā, ke anvayā, yenāyasmā evaṃ vadesi—",
-          "en": "‘But what reasons does the venerable have for saying this?’"
+          "en": "‘But what reason and evidence does the venerable have for saying this?’"
         },
         {
           "scid": "mn47:10.3",
@@ -300,7 +300,7 @@
         {
           "scid": "mn47:10.6",
           "pli": "‘tathā hi pana ayamāyasmā saṅghe vā viharanto eko vā viharanto, ye ca tattha sugatā ye ca tattha duggatā, ye ca tattha gaṇamanusāsanti, ye ca idhekacce āmisesu sandissanti, ye ca idhekacce āmisena anupalittā, nāyamāyasmā taṃ tena avajānāti.",
-          "en": "‘Because, whether that venerable is staying in a community or alone, some people there are in a good way or a bad way, some instruct a group, and some indulge in carnal pleasures, while others remain unsullied. Yet that venerable doesn’t look down on them for that."
+          "en": "‘Because, whether that venerable is staying in a community or alone, some people there are in a good state or a sorry state, some instruct a group, and some indulge in material pleasures, while others remain unsullied. Yet that venerable doesn’t look down on them for that."
         },
         {
           "scid": "mn47:10.7",
@@ -365,7 +365,7 @@
         {
           "scid": "mn47:13.4",
           "pli": "etaṃ pathohamasmi, etaṃ gocaro, no ca tena tammayo’ti. (3)",
-          "en": "I am that range and that territory, but I don’t identify with that.’"
+          "en": "I am that range and that territory, but I do not identify with that.’"
         },
         {
           "scid": "mn47:14.1",
@@ -395,7 +395,7 @@
         {
           "scid": "mn47:15.2",
           "pli": "‘ke panāyasmato ākārā, ke anvayā, yenāyasmā evaṃ vadesi—",
-          "en": "‘But what reasons does the venerable have for saying this?’"
+          "en": "‘But what reason and evidence does the venerable have for saying this?’"
         },
         {
           "scid": "mn47:15.3",
@@ -483,6 +483,7 @@
     "difficulty": 2,
     "original_title": "Vīmaṃsaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Inquirer",
@@ -490,11 +491,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn47_sujato",
         "segmented": true,
+        "title": "The Inquirer",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn47_bodhi",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2009",
+        "segmented": false,
+        "volpage": null,
         "title": "The Inquirer"
       },
       {
@@ -502,20 +519,13 @@
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn47_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on Inquiring"
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "id": "en_mn47_bodhi",
-        "lang": "en",
-        "lang_name": "English",
-        "segmented": false,
-        "title": "The Inquirer"
       }
     ],
     "parallel_count": 1,

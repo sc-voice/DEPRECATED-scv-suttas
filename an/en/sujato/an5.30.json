@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Nāgita",
@@ -220,7 +220,7 @@
         {
           "scid": "an5.30:4.8",
           "pli": "Asubhanimittānuyogaṃ anuyuttassa kho, nāgita, subhanimitte pāṭikulyatā saṇṭhāti—",
-          "en": "When you pursue meditation on the aspect of ugliness, revulsion at the aspect of beauty becomes stabilized."
+          "en": "When you pursue meditation on the feature of ugliness, revulsion at the feature of beauty becomes stabilized."
         },
         {
           "scid": "an5.30:4.9",
@@ -298,6 +298,7 @@
     "difficulty": null,
     "original_title": "Nāgita Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Nāgita",
@@ -305,21 +306,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.30_sujato",
         "segmented": true,
-        "title": "With Nāgita"
+        "title": "With Nāgita",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an5.30_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Nāgita"
       }
     ],

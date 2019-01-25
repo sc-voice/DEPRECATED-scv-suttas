@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Exterior and What’s Suffering in the Three Times",
@@ -132,12 +132,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli4.155",
     "uid": "sn35.216-218",
     "blurb": null,
     "difficulty": null,
     "original_title": "Bāhirātītādiyaṃdukkha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Exterior and What’s Suffering in the Three Times",
@@ -145,12 +146,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn35.216-218_sujato",
         "segmented": true,
-        "title": "The Exterior and What’s Suffering in the Three Times"
+        "title": "The Exterior and What’s Suffering in the Three Times",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

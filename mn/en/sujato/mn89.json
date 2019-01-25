@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Shrines to the Teaching",
@@ -110,7 +110,7 @@
         {
           "scid": "mn89:4.1",
           "pli": "Addasā kho rājā pasenadi kosalo ārāme jaṅghāvihāraṃ anucaṅkamamāno anuvicaramāno rukkhamūlāni pāsādikāni pasādanīyāni appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni.",
-          "en": "As he was going for a walk in the park he saw roots of trees that were impressive and inspiring, quiet and still, far from the madding crowd, remote from human settlements, and appropriate for retreat."
+          "en": "As he was going for a walk in the park he saw roots of trees that were impressive and inspiring, quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat."
         },
         {
           "scid": "mn89:4.2",
@@ -858,6 +858,7 @@
     "difficulty": 1,
     "original_title": "Dhammacetiya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Shrines to the Teaching",
@@ -865,21 +866,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn89_sujato",
         "segmented": true,
-        "title": "Shrines to the Teaching"
+        "title": "Shrines to the Teaching",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn89_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2018",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on Testimonies to Dhamma"
       }
     ],

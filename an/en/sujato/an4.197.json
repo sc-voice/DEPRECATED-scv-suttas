@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Queen Mallikā",
@@ -175,7 +175,7 @@
         {
           "scid": "an4.197:8.1",
           "pli": "Idha pana, mallike, ekacco mātugāmo akkodhanā hoti anupāyāsabahulā.",
-          "en": "Take another female who isn’t angry and bad-tempered. …"
+          "en": "Take another female who isn’t irritable and bad-tempered. …"
         },
         {
           "scid": "an4.197:8.2",
@@ -210,7 +210,7 @@
         {
           "scid": "an4.197:9.1",
           "pli": "Idha pana, mallike, ekacco mātugāmo akkodhanā hoti anupāyāsabahulā.",
-          "en": "Take another female who isn’t angry and bad-tempered. …"
+          "en": "Take another female who isn’t irritable and bad-tempered. …"
         },
         {
           "scid": "an4.197:9.2",
@@ -320,7 +320,7 @@
         {
           "scid": "an4.197:13.3",
           "pli": "Esāhaṃ, bhante, ajjatagge akkodhanā bhavissāmi anupāyāsabahulā, ",
-          "en": "So, sir, from this day forth I will not be angry and bad-tempered. "
+          "en": "So, sir, from this day forth I will not be irritable and bad-tempered. "
         },
         {
           "scid": "an4.197:13.4",
@@ -368,6 +368,7 @@
     "difficulty": null,
     "original_title": "Mallikādevī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Queen Mallikā",
@@ -375,12 +376,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.197_sujato",
         "segmented": true,
-        "title": "Queen Mallikā"
+        "title": "Queen Mallikā",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

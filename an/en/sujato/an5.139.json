@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Cannot Endure",
@@ -155,7 +155,7 @@
         {
           "scid": "an5.139:8.1",
           "pli": "Evamevaṃ kho, bhikkhave, pañcahi aṅgehi samannāgato bhikkhu na āhuneyyo hoti na pāhuneyyo na dakkhiṇeyyo na añjalikaraṇīyo na anuttaraṃ puññakkhettaṃ lokassa.",
-          "en": "In the same way, a mendicant with five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a teacher’s offering, not worthy of veneration with joined palms, and is not the supreme field of merit for the world."
+          "en": "In the same way, a mendicant with five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a religious donation, not worthy of veneration with joined palms, and is not the supreme field of merit for the world."
         },
         {
           "scid": "an5.139:8.2",
@@ -245,7 +245,7 @@
         {
           "scid": "an5.139:14.1",
           "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu na āhuneyyo hoti na pāhuneyyo na dakkhiṇeyyo na añjalikaraṇīyo na anuttaraṃ puññakkhettaṃ lokassa.",
-          "en": "A mendicant with these five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a teacher’s offering, not worthy of veneration with joined palms, and is not the supreme field of merit for the world."
+          "en": "A mendicant with these five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a religious donation, not worthy of veneration with joined palms, and is not the supreme field of merit for the world."
         },
         {
           "scid": "an5.139:15.1",
@@ -345,7 +345,7 @@
         {
           "scid": "an5.139:22.1",
           "pli": "Evamevaṃ kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa.",
-          "en": "In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is the supreme field of merit for the world."
+          "en": "In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world."
         },
         {
           "scid": "an5.139:22.2",
@@ -435,7 +435,7 @@
         {
           "scid": "an5.139:28.1",
           "pli": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā”ti.",
-          "en": "A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is the supreme field of merit for the world.”"
+          "en": "A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”"
         },
         {
           "scid": "an5.139:28.2",
@@ -463,6 +463,7 @@
     "difficulty": null,
     "original_title": "Akkhama Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Cannot Endure",
@@ -470,21 +471,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.139_sujato",
         "segmented": true,
-        "title": "Cannot Endure"
+        "title": "Cannot Endure",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an5.139_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Not Resilient"
       }
     ],

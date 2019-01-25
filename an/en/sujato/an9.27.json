@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Dangers and Threats (1st)",
@@ -150,12 +150,12 @@
         {
           "scid": "an9.27:8.2",
           "pli": "‘suppaṭipanno bhagavato sāvakasaṅgho ujuppaṭipanno bhagavato sāvakasaṅgho ñāyappaṭipanno bhagavato sāvakasaṅgho sāmīcippaṭipanno bhagavato sāvakasaṅgho; yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti. (8)",
-          "en": "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, straightforward, methodical, and proper. It consists of the four pairs, the eight individuals. This is the Saṅgha of the Buddha’s disciples that is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of greeting with joined palms, and is the supreme field of merit for the world.’"
+          "en": "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, straightforward, methodical, and proper. It consists of the four pairs, the eight individuals. This is the Saṅgha of the Buddha’s disciples that is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and is the supreme field of merit for the world.’"
         },
         {
           "scid": "an9.27:9.1",
           "pli": "Ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehi viññuppasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi.",
-          "en": "And a noble disciple’s ethical conduct is loved by the noble ones, uncorrupted, unflawed, unblemished, untainted, liberating, praised by sensible people, not mistaken, and leading to immersion."
+          "en": "And a noble disciple’s ethical conduct is loved by the noble ones, unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion."
         },
         {
           "scid": "an9.27:9.2",
@@ -198,6 +198,7 @@
     "difficulty": null,
     "original_title": "Paṭhamavera Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Dangers and Threats (1st)",
@@ -205,12 +206,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.27_sujato",
         "segmented": true,
-        "title": "Dangers and Threats (1st)"
+        "title": "Dangers and Threats (1st)",
+        "volpage": null
       }
     ],
     "parallel_count": 4,

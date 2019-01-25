@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Full Inquiry",
@@ -125,7 +125,7 @@
         {
           "scid": "sn12.51:3.3",
           "pli": "idaṃ nu kho dukkhaṃ kiṃnidānaṃ kiṃsamudayaṃ kiṃjātikaṃ kiṃpabhavaṃ?",
-          "en": "What is the source, origin, birthplace, and root of this suffering?"
+          "en": "What is the source, origin, birthplace, and inception of this suffering?"
         },
         {
           "scid": "sn12.51:3.4",
@@ -150,7 +150,7 @@
         {
           "scid": "sn12.51:4.1",
           "pli": "So jarāmaraṇañca pajānāti, jarāmaraṇasamudayañca pajānāti, jarāmaraṇanirodhañca pajānāti, yā ca jarāmaraṇanirodhasāruppagāminī paṭipadā tañca pajānāti, tathā paṭipanno ca hoti anudhammacārī;",
-          "en": "They understand old age and death, their origin, their cessation, and the appropriate practice for their cessation. And they practice in line with that path."
+          "en": "They understand old age and death, their origin, their cessation, and the fitting practice for their cessation. And they practice in line with that path."
         },
         {
           "scid": "sn12.51:4.2",
@@ -185,7 +185,7 @@
         {
           "scid": "sn12.51:6.1",
           "pli": "So jātiñca pajānāti, jātisamudayañca pajānāti, jātinirodhañca pajānāti, yā ca jātinirodhasāruppagāminī paṭipadā tañca pajānāti, tathā paṭipanno ca hoti anudhammacārī;",
-          "en": "They understand rebirth, its origin, its cessation, and the appropriate practice for its cessation. And they practice in line with that path."
+          "en": "They understand rebirth, its origin, its cessation, and the fitting practice for its cessation. And they practice in line with that path."
         },
         {
           "scid": "sn12.51:6.2",
@@ -265,7 +265,7 @@
         {
           "scid": "sn12.51:8.1",
           "pli": "So saṅkhāre ca pajānāti, saṅkhārasamudayañca pajānāti, saṅkhāranirodhañca pajānāti, yā ca saṅkhāranirodhasāruppagāminī paṭipadā tañca pajānāti, tathā paṭipanno ca hoti anudhammacārī;",
-          "en": "They understand choices, their origin, their cessation, and the appropriate practice for their cessation. And they practice in line with that path."
+          "en": "They understand choices, their origin, their cessation, and the fitting practice for their cessation. And they practice in line with that path."
         },
         {
           "scid": "sn12.51:8.2",
@@ -523,6 +523,7 @@
     "difficulty": null,
     "original_title": "Parivīmaṃsana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Full Inquiry",
@@ -530,21 +531,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn12.51_sujato",
         "segmented": true,
-        "title": "A Full Inquiry"
+        "title": "A Full Inquiry",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn12.51_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Thorough Investigation"
       }
     ],

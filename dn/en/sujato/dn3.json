@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Ambaṭṭha",
@@ -120,7 +120,7 @@
         {
           "scid": "dn3:1.3.1",
           "pli": "Tena kho pana samayena brāhmaṇassa pokkharasātissa ambaṭṭho nāma māṇavo antevāsī hoti ajjhāyako mantadharo tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ padako veyyākaraṇo lokāyatamahāpurisalakkhaṇesu anavayo anuññātapaṭiññāto sake ācariyake tevijjake pāvacane:",
-          "en": "Now at that time Pokkharasāti had a student named Ambaṭṭha. He was one who recited and remembered the hymns, and was an expert in the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knew philology and grammar, and was well versed in cosmology and the marks of a great man. He had been authorized as a master in his own teacher’s scriptural heritage of the three Vedas with the words:"
+          "en": "Now at that time Pokkharasāti had a student named Ambaṭṭha. He was one who recited and remembered the hymns, and had mastered in the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knew philology and grammar, and was well versed in cosmology and the marks of a great man. He had been authorized as a master in his own teacher’s scriptural heritage of the three Vedas with the words:"
         },
         {
           "scid": "dn3:1.3.2",
@@ -550,7 +550,7 @@
         {
           "scid": "dn3:1.15.16",
           "pli": "Atha kho, ambaṭṭha, rājā okkāko udānaṃ udānesi:",
-          "en": "Then, Ambaṭṭha, King Okkāka spoke these words of inspiration:"
+          "en": "Then, Ambaṭṭha, King Okkāka was inspired to exclaim:"
         },
         {
           "scid": "dn3:1.15.17",
@@ -1355,7 +1355,7 @@
         {
           "scid": "dn3:2.2.17",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṃ abhinīharati abhininnāmeti … pe …",
-          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it and project it toward knowledge and vision."
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it and project it toward knowledge and vision."
         },
         {
           "scid": "dn3:2.2.18",
@@ -1950,7 +1950,7 @@
         {
           "scid": "dn3:2.15.2",
           "pli": "“aho vata re amhākaṃ, paṇḍitaka, aho vata re amhākaṃ, bahussutaka, aho vata re amhākaṃ, tevijjaka, evarūpena kira, bho, puriso atthacarakena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya.",
-          "en": "“Oh, our bloody fake scholar, our fake expert, our fake student of the three Vedas! A man who behaves like this ought, when their body breaks up, after death, to be reborn in a place of loss, a bad place, the underworld, hell."
+          "en": "“Oh, our bloody fake scholar, our fake learned man, who pretends to be proficient in the three Vedas! A man who behaves like this ought, when their body breaks up, after death, to be reborn in a place of loss, a bad place, the underworld, hell."
         },
         {
           "scid": "dn3:2.15.3",
@@ -2120,7 +2120,7 @@
         {
           "scid": "dn3:2.20.1",
           "pli": "Atha kho brāhmaṇo pokkharasāti bhagavato adhivāsanaṃ viditvā bhagavato kālaṃ ārocesi:",
-          "en": "Then, knowing that the Buddha had accepted, Pokkharasāti announced the time to him:"
+          "en": "Then, knowing that the Buddha had consented, Pokkharasāti announced the time to him:"
         },
         {
           "scid": "dn3:2.20.2",
@@ -2253,6 +2253,7 @@
     "difficulty": 2,
     "original_title": "Ambaṭṭha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Ambaṭṭha",
@@ -2260,21 +2261,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn3_sujato",
         "segmented": true,
-        "title": "With Ambaṭṭha"
+        "title": "With Ambaṭṭha",
+        "volpage": null
       },
       {
         "author": "T.W. Rhys Davids",
         "author_short": "T.W. Rhys Davids",
         "author_uid": "tw_rhysdavids",
         "id": "en_dn3_tw_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1899",
         "segmented": false,
+        "volpage": null,
         "title": "To Ambaṭṭha"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Overestimation",
@@ -100,7 +100,7 @@
         {
           "scid": "an10.86:2.4",
           "pli": "So tathāgatena vā tathāgatasāvakena vā jhāyinā samāpattikusalena paracittakusalena paracittapariyāyakusalena samanuyuñjiyamāno samanuggāhiyamāno samanubhāsiyamāno irīṇaṃ āpajjati vicinaṃ āpajjati anayaṃ āpajjati byasanaṃ āpajjati anayabyasanaṃ āpajjati.",
-          "en": "Grilled in this way they get stuck or lose their way. They come to ruin and disaster."
+          "en": "Grilled in this way they get stuck or lose their way. They fall to ruin and disaster."
         },
         {
           "scid": "an10.86:3.1",
@@ -348,6 +348,7 @@
     "difficulty": null,
     "original_title": "Adhimāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Overestimation",
@@ -355,12 +356,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.86_sujato",
         "segmented": true,
-        "title": "Overestimation"
+        "title": "Overestimation",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

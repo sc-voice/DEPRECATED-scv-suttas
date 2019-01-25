@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Appeal of Brahmā",
@@ -205,7 +205,7 @@
         {
           "scid": "sn6.1:6.4",
           "pli": "Suṇantu dhammaṃ vimalenānubuddhaṃ.",
-          "en": "Let them hear the teaching the stainless one discovered."
+          "en": "Let them hear the teaching the immaculate one discovered."
         },
         {
           "scid": "sn6.1:7.1",
@@ -265,7 +265,7 @@
         {
           "scid": "sn6.1:9.2",
           "pli": "Addasā kho bhagavābuddhacakkhunā lokaṃ volokento satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante.",
-          "en": "And the Buddha saw sentient beings with little dust in their eyes, and some with much dust in their eyes; with keen faculties and with weak faculties, with good qualities and with bad qualities, easy to teach and hard to teach. And some of them lived seeing the danger in the flaw to do with the next world, while others did not."
+          "en": "And the Buddha saw sentient beings with little dust in their eyes, and some with much dust in their eyes; with keen faculties and with weak faculties, with good qualities and with bad qualities, easy to teach and hard to teach. And some of them lived seeing the danger in the fault to do with the next world, while others did not."
         },
         {
           "scid": "sn6.1:9.3",
@@ -275,7 +275,7 @@
         {
           "scid": "sn6.1:9.4",
           "pli": "evameva bhagavā buddhacakkhunā lokaṃ volokento addasa satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante.",
-          "en": "In the same way, the Buddha saw sentient beings with little dust in their eyes, and some with much dust in their eyes; with keen faculties and with weak faculties, with good qualities and with bad qualities, easy to teach and hard to teach. And some of them lived seeing the danger in the flaw to do with the next world, while others did not."
+          "en": "In the same way, the Buddha saw sentient beings with little dust in their eyes, and some with much dust in their eyes; with keen faculties and with weak faculties, with good qualities and with bad qualities, easy to teach and hard to teach. And some of them lived seeing the danger in the fault to do with the next world, while others did not."
         },
         {
           "scid": "sn6.1:9.5",
@@ -328,6 +328,7 @@
     "difficulty": null,
     "original_title": "Brahmāyācana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Appeal of Brahmā",
@@ -335,15 +336,18 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn6.1_sujato",
         "segmented": true,
-        "title": "The Appeal of Brahmā"
+        "title": "The Appeal of Brahmā",
+        "volpage": null
       }
     ],
-    "parallel_count": 41,
+    "parallel_count": 43,
     "biblio": null,
     "num": 1
   }

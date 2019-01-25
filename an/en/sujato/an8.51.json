@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Gotamī",
@@ -290,7 +290,7 @@
         {
           "scid": "an8.51:10.1",
           "pli": "“Sace, ānanda, mahāpajāpatī gotamī aṭṭha garudhamme paṭiggaṇhāti, sāvassā hotu upasampadā—",
-          "en": "“Ānanda, if Mahāpajāpatī Gotamī accepts these eight principles of respect, that will be her full ordination."
+          "en": "“Ānanda, if Mahāpajāpatī Gotamī accepts these eight principles of respect, that will be her ordination."
         },
         {
           "scid": "an8.51:11.1",
@@ -355,7 +355,7 @@
         {
           "scid": "an8.51:16.1",
           "pli": "Dve vassāni chasu dhammesu sikkhitasikkhāya sikkhamānāya ubhatosaṅghe upasampadā pariyesitabbā.",
-          "en": "A female intern who has trained in the six rules for two years should seek full ordination from the communities of both monks and nuns."
+          "en": "A trainee nun who has trained in the six rules for two years should seek ordination from the communities of both monks and nuns."
         },
         {
           "scid": "an8.51:16.2",
@@ -385,7 +385,7 @@
         {
           "scid": "an8.51:19.1",
           "pli": "Sace, ānanda, mahāpajāpatī gotamī ime aṭṭha garudhamme paṭiggaṇhāti, sāvassā hotu upasampadā”ti.",
-          "en": "If Mahāpajāpatī Gotamī accepts these eight principles of respect, that will be her full ordination.”"
+          "en": "If Mahāpajāpatī Gotamī accepts these eight principles of respect, that will be her ordination.”"
         },
         {
           "scid": "an8.51:20.1",
@@ -395,7 +395,7 @@
         {
           "scid": "an8.51:21.1",
           "pli": "“Sace kho tvaṃ, gotami, aṭṭha garudhamme paṭiggaṇheyyāsi, sāva te bhavissati upasampadā—",
-          "en": "“Gotamī, if you accept eight principles of respect, that will be your full ordination."
+          "en": "“Gotamī, if you accept eight principles of respect, that will be your ordination."
         },
         {
           "scid": "an8.51:22.1",
@@ -420,7 +420,7 @@
         {
           "scid": "an8.51:23.3",
           "pli": "Sace kho tvaṃ, gotami, ime aṭṭha garudhamme paṭiggaṇheyyāsi, sāva te bhavissati upasampadā”ti.",
-          "en": "If you accept these eight principles of respect, that will be your full ordination.”"
+          "en": "If you accept these eight principles of respect, that will be your ordination.”"
         },
         {
           "scid": "an8.51:24.1",
@@ -523,6 +523,7 @@
     "difficulty": null,
     "original_title": "Gotamī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Gotamī",
@@ -530,12 +531,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an8.51_sujato",
         "segmented": true,
-        "title": "With Gotamī"
+        "title": "With Gotamī",
+        "volpage": null
       }
     ],
     "parallel_count": 16,

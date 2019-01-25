@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Upāli",
@@ -410,7 +410,7 @@
         {
           "scid": "mn56:8.2",
           "pli": "“na kho metaṃ, bhante, ruccati yaṃ upāli gahapati samaṇassa gotamassa vādaṃ āropeyya.",
-          "en": "“Sir, I don’t think it’s a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine."
+          "en": "“Sir, I don’t believe it’s a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine."
         },
         {
           "scid": "mn56:8.3",
@@ -450,7 +450,7 @@
         {
           "scid": "mn56:9.3",
           "pli": "“na kho metaṃ, bhante, ruccati yaṃ upāli gahapati samaṇassa gotamassa vādaṃ āropeyya.",
-          "en": "“Sir, I don’t think it’s a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine."
+          "en": "“Sir, I don’t believe it’s a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine."
         },
         {
           "scid": "mn56:9.4",
@@ -1525,7 +1525,7 @@
         {
           "scid": "mn56:27.11",
           "pli": "Atha kho, bhante, so brāhmaṇo tassā māṇavikāya sāratto paṭibaddhacitto āpaṇā makkaṭacchāpakaṃ kiṇitvā ānetvā taṃ māṇavikaṃ etadavoca:",
-          "en": "Then that brahmin, because of his infatuation with the brahmin lady, bought a male baby monkey at the market, brought it to her, and said:"
+          "en": "Then that brahmin, because of his love for the brahmin lady, bought a male baby monkey at the market, brought it to her, and said:"
         },
         {
           "scid": "mn56:27.12",
@@ -1550,7 +1550,7 @@
         {
           "scid": "mn56:27.16",
           "pli": "Atha kho, bhante, so brāhmaṇo tassā māṇavikāya sāratto paṭibaddhacitto taṃ makkaṭacchāpakaṃ ādāya yena rattapāṇi rajakaputto tenupasaṅkami; upasaṅkamitvā rattapāṇiṃ rajakaputtaṃ etadavoca:",
-          "en": "Then that brahmin, because of his infatuation with the brahmin lady, took the monkey to Rattapāṇi the dyer and said:"
+          "en": "Then that brahmin, because of his love for the brahmin lady, took the monkey to Rattapāṇi the dyer and said:"
         },
         {
           "scid": "mn56:27.17",
@@ -1645,7 +1645,7 @@
         {
           "scid": "mn56:29.7",
           "pli": "Vesamantarassa vimalassa,",
-          "en": "stainless in the midst of it all:"
+          "en": "immaculate in the midst of it all:"
         },
         {
           "scid": "mn56:29.8",
@@ -1825,7 +1825,7 @@
         {
           "scid": "mn56:29.43",
           "pli": "Anejassa vasippattassa,",
-          "en": "he’s still, attained to mastery:"
+          "en": "he’s unstirred, attained to mastery:"
         },
         {
           "scid": "mn56:29.44",
@@ -1930,7 +1930,7 @@
         {
           "scid": "mn56:30.2",
           "pli": "“Seyyathāpi, bhante, nānāpupphānaṃ mahāpuppharāsi, tamenaṃ dakkho mālākāro vā mālākārantevāsī vā vicittaṃ mālaṃ gantheyya;",
-          "en": "“Sir, suppose there was a large heap of many different flowers. An expert garland-maker or their apprentice could tie them into a colorful garland."
+          "en": "“Sir, suppose there was a large heap of many different flowers. A deft garland-maker or their apprentice could tie them into a colorful garland."
         },
         {
           "scid": "mn56:30.3",
@@ -1973,6 +1973,7 @@
     "difficulty": 2,
     "original_title": "Upāli Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Upāli",
@@ -1980,21 +1981,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn56_sujato",
         "segmented": true,
-        "title": "With Upāli"
+        "title": "With Upāli",
+        "volpage": null
       },
       {
         "author": "Nārada Thera, Mahinda Thera",
         "author_short": "Nārada …",
         "author_uid": "narada-mahinda",
         "id": "en_mn56_narada-mahinda",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1966",
         "segmented": false,
+        "volpage": null,
         "title": "Upāli, the Householder"
       },
       {
@@ -2002,9 +2009,12 @@
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn56_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse with Upāli"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Ānanda",
@@ -110,12 +110,12 @@
         {
           "scid": "sn8.4:3.3",
           "pli": "Nimittaṃ parivajjehi,",
-          "en": "Avoid noticing the attractive aspect of things,"
+          "en": "Turn away from the feature of things"
         },
         {
           "scid": "sn8.4:3.4",
           "pli": "subhaṃ rāgūpasaṃhitaṃ.",
-          "en": "for that just provokes lust."
+          "en": "that’s attractive, provoking lust."
         },
         {
           "scid": "sn8.4:4.1",
@@ -140,17 +140,17 @@
         {
           "scid": "sn8.4:5.1",
           "pli": "Asubhāya cittaṃ bhāvehi,",
-          "en": "Meditate on the unattractive,"
+          "en": "With mind unified and serene,"
         },
         {
           "scid": "sn8.4:5.2",
           "pli": "ekaggaṃ susamāhitaṃ;",
-          "en": "unified, serene;"
+          "en": "meditate on the ugly aspects of the body."
         },
         {
           "scid": "sn8.4:5.3",
           "pli": "Sati kāyagatā tyatthu,",
-          "en": "with mindfulness immersed in the body,"
+          "en": "With mindfulness immersed in the body,"
         },
         {
           "scid": "sn8.4:5.4",
@@ -198,6 +198,7 @@
     "difficulty": null,
     "original_title": "Ānanda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Ānanda",
@@ -205,12 +206,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn8.4_sujato",
         "segmented": true,
-        "title": "With Ānanda"
+        "title": "With Ānanda",
+        "volpage": null
       }
     ],
     "parallel_count": 4,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Potaliya the Wanderer",
@@ -620,7 +620,7 @@
         {
           "scid": "mn54:15.2",
           "pli": "Tamenaṃ dakkho goghātako vā goghātakantevāsī vā aṭṭhikaṅkalaṃ sunikkantaṃ nikkantaṃ nimmaṃsaṃ lohitamakkhitaṃ upasumbheyya.",
-          "en": "Then an expert butcher or their apprentice would toss them a skeleton scraped clean of flesh and smeared in blood."
+          "en": "Then a deft butcher or their apprentice would toss them a skeleton scraped clean of flesh and smeared in blood."
         },
         {
           "scid": "mn54:15.3",
@@ -665,12 +665,12 @@
         {
           "scid": "mn54:15.11",
           "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā yāyaṃ upekkhā nānattā nānattasitā taṃ abhinivajjetvā, yāyaṃ upekkhā ekattā ekattasitā yattha sabbaso lokāmisūpādānā aparisesā nirujjhanti tamevūpekkhaṃ bhāveti.",
-          "en": "Having truly seen this with proper understanding, they reject equanimity based on diversity and develop only the equanimity based on unity, where all kinds of grasping to the world’s carnal delights cease without anything left over."
+          "en": "Having truly seen this with right understanding, they reject equanimity based on diversity and develop only the equanimity based on unity, where all kinds of grasping to the world’s material delights cease without anything left over."
         },
         {
           "scid": "mn54:16.1",
           "pli": "Seyyathāpi, gahapati, gijjho vā kaṅko vā kulalo vā maṃsapesiṃ ādāya uḍḍīyeyya.",
-          "en": "Suppose a vulture or a crow or a hawk was to grab a piece of flesh and fly away."
+          "en": "Suppose a vulture or a crow or a hawk was to grab a lump of meat and fly away."
         },
         {
           "scid": "mn54:16.2",
@@ -685,7 +685,7 @@
         {
           "scid": "mn54:16.4",
           "pli": "sace so gijjho vā kaṅko vā kulalo vā taṃ maṃsapesiṃ na khippameva paṭinissajjeyya, so tatonidānaṃ maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhan”ti?",
-          "en": "If that vulture, crow, or hawk doesn’t quickly let go of that piece of flesh, wouldn’t that result in death or deadly suffering for them?”"
+          "en": "If that vulture, crow, or hawk doesn’t quickly let go of that lump of meat, wouldn’t that result in death or deadly suffering for them?”"
         },
         {
           "scid": "mn54:16.5",
@@ -990,7 +990,7 @@
         {
           "scid": "mn54:21.22",
           "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā yāyaṃ upekkhā nānattā nānattasitā taṃ abhinivajjetvā yāyaṃ upekkhā ekattā ekattasitā yattha sabbaso lokāmisūpādānā aparisesā nirujjhanti tamevūpekkhaṃ bhāveti.",
-          "en": "Having truly seen this with proper understanding, they reject equanimity based on diversity and develop only the equanimity based on unity, where all kinds of grasping to the world’s carnal delights cease without anything left over."
+          "en": "Having truly seen this with right understanding, they reject equanimity based on diversity and develop only the equanimity based on unity, where all kinds of grasping to the world’s material delights cease without anything left over."
         },
         {
           "scid": "mn54:22.1",
@@ -1000,7 +1000,7 @@
         {
           "scid": "mn54:22.2",
           "pli": "seyyathidaṃ—ekampi jātiṃ dvepi jātiyo … pe … iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.",
-          "en": "That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world evolving, many eons of the world contracting and evolving. … They recollect their many kinds of past lives, with features and details."
+          "en": "That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. … They recollect their many kinds of past lives, with features and details."
         },
         {
           "scid": "mn54:23.1",
@@ -1108,6 +1108,7 @@
     "difficulty": 2,
     "original_title": "Potaliya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Potaliya the Wanderer",
@@ -1115,32 +1116,41 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn54_sujato",
         "segmented": true,
-        "title": "With Potaliya the Wanderer"
-      },
-      {
-        "author": "I.B. Horner",
-        "author_short": "Horner",
-        "author_uid": "horner",
-        "id": "en_mn54_horner",
-        "lang": "en",
-        "lang_name": "English",
-        "segmented": false,
-        "title": "Discourse to Potaliya"
+        "title": "With Potaliya the Wanderer",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn54_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "To Potaliya"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn54_horner",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2017",
+        "segmented": false,
+        "volpage": null,
+        "title": "Discourse to Potaliya"
       }
     ],
     "parallel_count": 5,

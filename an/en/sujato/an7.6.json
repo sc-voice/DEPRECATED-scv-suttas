@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Wealth in Detail",
@@ -185,12 +185,12 @@
         {
           "scid": "an7.6:9.1",
           "pli": "Imāni kho, bhikkhave, sattadhanānīti.",
-          "en": "These are the seven kinds of wealth.”"
+          "en": "These are the seven kinds of wealth."
         },
         {
           "scid": "an7.6:10.1",
           "pli": "Saddhādhanaṃ sīladhanaṃ,",
-          "en": "“Faith and ethical conduct are kinds of wealth,"
+          "en": "Faith and ethical conduct are kinds of wealth,"
         },
         {
           "scid": "an7.6:10.2",
@@ -235,7 +235,7 @@
         {
           "scid": "an7.6:12.2",
           "pli": "pasādaṃ dhammadassanaṃ;",
-          "en": "to faith, ethical behaviour,"
+          "en": "to faith, ethical behavior,"
         },
         {
           "scid": "an7.6:12.3",
@@ -273,6 +273,7 @@
     "difficulty": null,
     "original_title": "Vitthatadhana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Wealth in Detail",
@@ -280,21 +281,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.6_sujato",
         "segmented": true,
-        "title": "Wealth in Detail"
+        "title": "Wealth in Detail",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an7.6_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Treasure"
       }
     ],

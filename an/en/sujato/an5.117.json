@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Envious",
+    "title": "Jealous",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "an5.117:0.3",
           "pli": "117. Issukinīsutta",
-          "en": "117. Envious"
+          "en": "117. Jealous"
         }
       ],
       "type": "Section",
@@ -80,12 +80,12 @@
         {
           "scid": "an5.117:1.5",
           "pli": "issukinī ca hoti, ",
-          "en": "She is envious, "
+          "en": "She is jealous, "
         },
         {
           "scid": "an5.117:1.6",
           "pli": "maccharinī ca, ",
-          "en": "stingy, "
+          "en": "stingy,"
         },
         {
           "scid": "an5.117:1.7",
@@ -120,12 +120,12 @@
         {
           "scid": "an5.117:2.5",
           "pli": "anissukinī ca hoti, ",
-          "en": "She is not envious "
+          "en": "She is not jealous, "
         },
         {
           "scid": "an5.117:2.6",
           "pli": "amaccharinī ca, ",
-          "en": "or stingy, "
+          "en": "or stingy,"
         },
         {
           "scid": "an5.117:2.7",
@@ -163,19 +163,23 @@
     "difficulty": null,
     "original_title": "Issukinī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Envious",
+    "translated_title": "Jealous",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.117_sujato",
         "segmented": true,
-        "title": "Envious"
+        "title": "Jealous",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

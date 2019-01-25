@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "The Shorter Analysis",
+    "title": "The Shorter Classification",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "The Great Analysis",
+      "name": "The Great Classification",
       "uid": "mn43"
     }
   },
@@ -38,7 +38,7 @@
         {
           "scid": "mn44:0.2",
           "pli": "Cūḷavedallasutta",
-          "en": "The Shorter Analysis"
+          "en": "The Shorter Classification"
         }
       ],
       "type": "Section",
@@ -135,7 +135,7 @@
         {
           "scid": "mn44:4.3",
           "pli": "“Yo kho, āvuso visākha, tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo;",
-          "en": "“It’s the fading away and cessation of that very same craving with nothing left over; giving it away, letting it go, releasing it, and not clinging to it."
+          "en": "“It’s the fading away and cessation of that very same craving with nothing left over; giving it away, letting it go, releasing it, and not adhering to it."
         },
         {
           "scid": "mn44:4.4",
@@ -310,7 +310,7 @@
         {
           "scid": "mn44:12.1",
           "pli": "“Katamo panāyye, samādhi, katame dhammā samādhinimittā, katame dhammā samādhiparikkhārā, katamā samādhibhāvanā”ti?",
-          "en": "“But ma’am, what is immersion? What things are the basis of immersion? What things are the prerequisites for immersion? What is the development of immersion?”"
+          "en": "“But ma’am, what is immersion? What things are the foundations of immersion? What things are the prerequisites for immersion? What is the development of immersion?”"
         },
         {
           "scid": "mn44:12.2",
@@ -320,7 +320,7 @@
         {
           "scid": "mn44:12.3",
           "pli": "cattāro satipaṭṭhānā samādhinimittā;",
-          "en": "The four kinds of mindfulness meditation are the basis of immersion."
+          "en": "The four kinds of mindfulness meditation are the foundations of immersion."
         },
         {
           "scid": "mn44:12.4",
@@ -753,39 +753,49 @@
     "difficulty": 3,
     "original_title": "Cūḷavedalla Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "The Shorter Analysis",
+    "translated_title": "The Shorter Classification",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn44_sujato",
         "segmented": true,
-        "title": "The Shorter Analysis"
-      },
-      {
-        "author": "I.B. Horner",
-        "author_short": "Horner",
-        "author_uid": "horner",
-        "id": "en_mn44_horner",
-        "lang": "en",
-        "lang_name": "English",
-        "segmented": false,
-        "title": "Lesser Discourse of the Miscellany"
+        "title": "The Shorter Classification",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Ānandajoti",
         "author_short": "Ānandajoti",
         "author_uid": "anandajoti",
         "id": "en_mn44_anandajoti",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2014",
         "segmented": false,
+        "volpage": null,
         "title": "The Small Discourse giving an Elaboration"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn44_horner",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2017",
+        "segmented": false,
+        "volpage": null,
+        "title": "Lesser Discourse of the Miscellany"
       }
     ],
     "parallel_count": 8,

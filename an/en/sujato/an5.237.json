@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Deserving Criticism (2nd)",
@@ -80,12 +80,12 @@
         {
           "scid": "an5.237:1.5",
           "pli": "āvāsamaccharī hoti āvāsapaligedhī;",
-          "en": "They’re stingy and greedy regarding monasteries."
+          "en": "They’re stingy and avaricious regarding monasteries."
         },
         {
           "scid": "an5.237:1.6",
           "pli": "kulamaccharī hoti kulapaligedhī;",
-          "en": "They’re stingy and greedy regarding families."
+          "en": "They’re stingy and avaricious regarding families."
         },
         {
           "scid": "an5.237:1.7",
@@ -120,12 +120,12 @@
         {
           "scid": "an5.237:2.5",
           "pli": "na āvāsamaccharī hoti na āvāsapaligedhī;",
-          "en": "They’re not stingy and greedy regarding monasteries."
+          "en": "They’re not stingy and avaricious regarding monasteries."
         },
         {
           "scid": "an5.237:2.6",
           "pli": "na kulamaccharī hoti na kulapaligedhī;",
-          "en": "They’re not stingy and greedy regarding families."
+          "en": "They’re not stingy and avaricious regarding families."
         },
         {
           "scid": "an5.237:2.7",
@@ -163,6 +163,7 @@
     "difficulty": null,
     "original_title": "Dutiyaavaṇṇāraha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Deserving Criticism (2nd)",
@@ -170,12 +171,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.237_sujato",
         "segmented": true,
-        "title": "Deserving Criticism (2nd)"
+        "title": "Deserving Criticism (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

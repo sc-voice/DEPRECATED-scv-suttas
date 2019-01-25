@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Sex",
@@ -80,7 +80,7 @@
         {
           "scid": "an7.50:1.5",
           "pli": "‘akhaṇḍaṃ acchiddaṃ asabalaṃ akammāsaṃ paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ caratī’ti, mameva taṃ, brāhmaṇa, sammā vadamāno vadeyya:",
-          "en": "live the celibate life uncorrupted, unflawed, unblemished, untainted, full and pure, it’s me.”"
+          "en": "live the celibate life unbroken, impeccable, spotless, and unmarred, full and pure, it’s me.”"
         },
         {
           "scid": "an7.50:1.6",
@@ -90,7 +90,7 @@
         {
           "scid": "an7.50:1.7",
           "pli": "“Kiṃ pana, bho gotama, brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampī”ti?",
-          "en": "“But what, Master Gotama, is there a corruption, flaw, blemish, or taint in celibacy?”"
+          "en": "“But what, Master Gotama, is a break, taint, stain, or mar in celibacy?”"
         },
         {
           "scid": "an7.50:2.1",
@@ -110,7 +110,7 @@
         {
           "scid": "an7.50:2.4",
           "pli": "Idampi kho, brāhmaṇa, brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampi.",
-          "en": "This is a corruption, flaw, blemish, or taint in celibacy."
+          "en": "This is a break, taint, stain, or mar in celibacy."
         },
         {
           "scid": "an7.50:2.5",
@@ -185,7 +185,7 @@
         {
           "scid": "an7.50:8.4",
           "pli": "Idampi kho, brāhmaṇa, brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampi.",
-          "en": "This is a corruption, flaw, blemish, or taint in celibacy."
+          "en": "This is a break, taint, stain, or mar in celibacy."
         },
         {
           "scid": "an7.50:8.5",
@@ -253,6 +253,7 @@
     "difficulty": null,
     "original_title": "Methuna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Sex",
@@ -260,12 +261,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.50_sujato",
         "segmented": true,
-        "title": "Sex"
+        "title": "Sex",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

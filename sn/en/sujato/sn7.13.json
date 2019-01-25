@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Devahita",
@@ -205,7 +205,7 @@
         {
           "scid": "sn7.13:7.4",
           "pli": "kathaṃ ijjhati dakkhiṇā”ti.",
-          "en": "ensure the success of their teacher’s offering?”"
+          "en": "ensure the success of their religious donation?”"
         },
         {
           "scid": "sn7.13:8.1",
@@ -245,7 +245,7 @@
         {
           "scid": "sn7.13:9.4",
           "pli": "evaṃ ijjhati dakkhiṇā”ti.",
-          "en": "ensures the success of their teacher’s offering.”"
+          "en": "ensures the success of their religious donation.”"
         },
         {
           "scid": "sn7.13:10.1",
@@ -283,6 +283,7 @@
     "difficulty": null,
     "original_title": "Devahita Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Devahita",
@@ -290,15 +291,18 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn7.13_sujato",
         "segmented": true,
-        "title": "With Devahita"
+        "title": "With Devahita",
+        "volpage": null
       }
     ],
-    "parallel_count": 2,
+    "parallel_count": 18,
     "biblio": null,
     "num": 3
   }

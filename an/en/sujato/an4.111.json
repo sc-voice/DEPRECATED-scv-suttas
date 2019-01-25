@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Kesi",
@@ -160,7 +160,7 @@
         {
           "scid": "an4.111:4.3",
           "pli": "“Na kho, bhante, bhagavato pāṇātipāto kappati.",
-          "en": "“Sir, it’s not proper for the Buddha to kill living creatures."
+          "en": "“Sir, it’s not appropriate for the Buddha to kill living creatures."
         },
         {
           "scid": "an4.111:4.4",
@@ -180,7 +180,7 @@
         {
           "scid": "an4.111:4.7",
           "pli": "Na tathāgatassa pāṇātipāto kappati.",
-          "en": "it’s not proper for a Realized One to kill living creatures."
+          "en": "it’s not appropriate for a Realized One to kill living creatures."
         },
         {
           "scid": "an4.111:4.8",
@@ -238,6 +238,7 @@
     "difficulty": null,
     "original_title": "Kesi Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Kesi",
@@ -245,21 +246,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.111_sujato",
         "segmented": true,
-        "title": "With Kesi"
+        "title": "With Kesi",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an4.111_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "To Kesi the Horsetrainer"
       }
     ],

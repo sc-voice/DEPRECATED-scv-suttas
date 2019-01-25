@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Ant-Hill",
@@ -70,7 +70,7 @@
         {
           "scid": "mn23:1.4",
           "pli": "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ andhavanaṃ obhāsetvā yenāyasmā kumārakassapo tenupasaṅkami; upasaṅkamitvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā āyasmantaṃ kumārakassapaṃ etadavoca:",
-          "en": "Then, late at night, a glorious deity, lighting up the entire Dark Forest, went up to Kassapa, stood to one side, and said:"
+          "en": "Then, late at night, a glorious deity, lighting up the entire Dark Forest, went up to Kassapa the Prince, stood to one side, and said:"
         },
         {
           "scid": "mn23:2.1",
@@ -240,12 +240,12 @@
         {
           "scid": "mn23:2.34",
           "pli": "Abhikkhaṇanto sumedho satthaṃ ādāya addasa maṃsapesiṃ.",
-          "en": "Taking up the sword and digging, the sage saw a piece of flesh:"
+          "en": "Taking up the sword and digging, the sage saw a lump of meat:"
         },
         {
           "scid": "mn23:2.35",
           "pli": "‘Maṃsapesi, bhadante’ti.",
-          "en": "‘A piece of flesh, sir!’"
+          "en": "‘A lump of meat, sir!’"
         },
         {
           "scid": "mn23:2.36",
@@ -255,7 +255,7 @@
         {
           "scid": "mn23:2.37",
           "pli": "‘ukkhipa maṃsapesiṃ;",
-          "en": "‘Throw out the piece of flesh!"
+          "en": "‘Throw out the lump of meat!"
         },
         {
           "scid": "mn23:2.38",
@@ -305,7 +305,7 @@
         {
           "scid": "mn23:3.1",
           "pli": "Atha kho āyasmā kumārakassapo tassā rattiyā accayena yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā kumārakassapo bhagavantaṃ etadavoca:",
-          "en": "Then, when the night had passed, Kassapa went to the Buddha, bowed, sat down to one side, and told him what had happened. Then he asked:"
+          "en": "Then, when the night had passed, Kassapa the Prince went to the Buddha, bowed, sat down to one side, and told him what had happened. Then he asked:"
         },
         {
           "scid": "mn23:3.2",
@@ -350,7 +350,7 @@
         {
           "scid": "mn23:3.10",
           "pli": "Ko nu kho, bhante, vammiko, kā rattiṃ dhūmāyanā, kā divā pajjalanā, ko brāhmaṇo, ko sumedho, kiṃ satthaṃ, kiṃ abhikkhaṇaṃ, kā laṅgī, kā uddhumāyikā, ko dvidhāpatho, kiṃ caṅgavāraṃ, ko kummo, kā asisūnā, kā maṃsapesi, ko nāgo”ti?",
-          "en": "“Sir, what is the ant-hill? What is the fuming by night and flaming by day? Who is the brahmin, and who the sage? What are the sword, the digging, the bar, the bullfrog, the forked path, the box, the tortoise, the axe and block, and the piece of flesh? And what is the dragon?”"
+          "en": "“Sir, what is the ant-hill? What is the fuming by night and flaming by day? Who is the brahmin, and who the sage? What are the sword, the digging, the bar, the bullfrog, the forked path, the box, the tortoise, the axe and block, and the lump of meat? And what is the dragon?”"
         },
         {
           "scid": "mn23:4.1",
@@ -525,12 +525,12 @@
         {
           "scid": "mn23:4.35",
           "pli": "‘Maṃsapesī’ti kho, bhikkhu, nandīrāgassetaṃ adhivacanaṃ.",
-          "en": "‘Piece of flesh’ is a term for desire with relishing."
+          "en": "‘Lump of meat’ is a term for desire with relishing."
         },
         {
           "scid": "mn23:4.36",
           "pli": "Ukkhipa maṃsapesiṃ, pajaha nandīrāgaṃ;",
-          "en": "‘Throw out the piece of flesh’ means ‘give up desire with relishing’ …"
+          "en": "‘Throw out the lump of meat’ means ‘give up desire with relishing’ …"
         },
         {
           "scid": "mn23:4.37",
@@ -583,6 +583,7 @@
     "difficulty": 2,
     "original_title": "Vammika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Ant-Hill",
@@ -590,21 +591,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn23_sujato",
         "segmented": true,
-        "title": "The Ant-Hill"
+        "title": "The Ant-Hill",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn23_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on the Anthill"
       }
     ],

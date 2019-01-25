@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Great Discourse on the Six Sense Fields",
@@ -200,7 +200,7 @@
         {
           "scid": "mn149:9.2",
           "pli": "Tassa asārattassa asaṃyuttassa asammūḷhassa ādīnavānupassino viharato āyatiṃ pañcupādānakkhandhā apacayaṃ gacchanti.",
-          "en": "Someone who lives unaroused like this—unfettered, unconfused, concentrating on drawbacks—disperses the the five grasping aggregates for themselves in the future ."
+          "en": "Someone who lives unaroused like this—unfettered, unconfused, concentrating on drawbacks—disperses the the five grasping aggregates for themselves in the future."
         },
         {
           "scid": "mn149:9.3",
@@ -255,17 +255,17 @@
         {
           "scid": "mn149:10.6",
           "pli": "Pubbeva kho panassa kāyakammaṃ vacīkammaṃ ājīvo suparisuddho hoti.",
-          "en": "But their actions of body and speech have already been fully purified before."
+          "en": "And their actions of body and speech have already been fully purified before."
         },
         {
           "scid": "mn149:10.7",
           "pli": "Evamassāyaṃ ariyo aṭṭhaṅgiko maggo bhāvanāpāripūriṃ gacchati.",
-          "en": "So this noble eightfold path is developed to perfection."
+          "en": "So this noble eightfold path is fully developed."
         },
         {
           "scid": "mn149:10.8",
           "pli": "Tassa evaṃ imaṃ ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvayato cattāropi satipaṭṭhānā bhāvanāpāripūriṃ gacchanti, cattāropi sammappadhānā bhāvanāpāripūriṃ gacchanti, cattāropi iddhipādā bhāvanāpāripūriṃ gacchanti, pañcapi indriyāni bhāvanāpāripūriṃ gacchanti, pañcapi balāni bhāvanāpāripūriṃ gacchanti, sattapi bojjhaṅgā bhāvanāpāripūriṃ gacchanti.",
-          "en": "When the noble eightfold path is developed, the following are developed to perfection: the four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, and the seven awakening factors."
+          "en": "When the noble eightfold path is developed, the following are fully developed: the four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, and the seven awakening factors."
         },
         {
           "scid": "mn149:10.9",
@@ -588,6 +588,7 @@
     "difficulty": 3,
     "original_title": "Mahāsaḷāyatanika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Great Discourse on the Six Sense Fields",
@@ -595,21 +596,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn149_sujato",
         "segmented": true,
-        "title": "The Great Discourse on the Six Sense Fields"
+        "title": "The Great Discourse on the Six Sense Fields",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn149_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "The Great Sixfold Base"
       }
     ],

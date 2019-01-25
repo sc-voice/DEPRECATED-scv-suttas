@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Training (1st)",
@@ -105,7 +105,7 @@
         {
           "scid": "an3.86:2.5",
           "pli": "Yāni ca kho tāni sikkhāpadāni ādibrahmacariyakāni brahmacariyasāruppāni, tattha dhuvasīlo ca hoti ṭhitasīlo ca, samādāya sikkhati sikkhāpadesu.",
-          "en": "But they’re constant and steady in their precepts regarding the training rules that are fundamental, appropriate for the spiritual path. They keep the rules they’ve undertaken."
+          "en": "But they’re constant and steady in their precepts regarding the training rules that are fundamental, befitting the spiritual path. They keep the rules they’ve undertaken."
         },
         {
           "scid": "an3.86:2.6",
@@ -135,7 +135,7 @@
         {
           "scid": "an3.86:3.5",
           "pli": "Yāni ca kho tāni sikkhāpadāni ādibrahmacariyakāni brahmacariyasāruppāni tattha dhuvasīlo ca hoti ṭhitasīlo ca, samādāya sikkhati sikkhāpadesu.",
-          "en": "But they’re constant and steady in their precepts regarding the training rules that are fundamental, appropriate for the spiritual path. They keep the rules they’ve undertaken."
+          "en": "But they’re constant and steady in their precepts regarding the training rules that are fundamental, befitting the spiritual path. They keep the rules they’ve undertaken."
         },
         {
           "scid": "an3.86:3.6",
@@ -165,7 +165,7 @@
         {
           "scid": "an3.86:4.5",
           "pli": "Yāni ca kho tāni sikkhāpadāni ādibrahmacariyakāni brahmacariyasāruppāni tattha dhuvasīlo ca hoti ṭhitasīlo ca, samādāya sikkhati sikkhāpadesu.",
-          "en": "But they’re constant and steady in their precepts regarding the training rules that are fundamentals, appropriate for the spiritual path. They keep the rules they’ve undertaken."
+          "en": "But they’re constant and steady in their precepts regarding the training rules that are fundamental, befitting the spiritual path. They keep the rules they’ve undertaken."
         },
         {
           "scid": "an3.86:4.6",
@@ -195,7 +195,7 @@
         {
           "scid": "an3.86:5.5",
           "pli": "Yāni ca kho tāni sikkhāpadāni ādibrahmacariyakāni brahmacariyasāruppāni tattha dhuvasīlo ca hoti ṭhitasīlo ca, samādāya sikkhati sikkhāpadesu.",
-          "en": "But they’re constant and steady in their precepts regarding the training rules that are fundamental, appropriate for the spiritual path. They keep the rules they’ve undertaken."
+          "en": "But they’re constant and steady in their precepts regarding the training rules that are fundamental, befitting the spiritual path. They keep the rules they’ve undertaken."
         },
         {
           "scid": "an3.86:5.6",
@@ -238,6 +238,7 @@
     "difficulty": null,
     "original_title": "Paṭhamasikkhā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Training (1st)",
@@ -245,21 +246,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.86_sujato",
         "segmented": true,
-        "title": "Training (1st)"
+        "title": "Training (1st)",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an3.86_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "One in Training (1)"
       }
     ],

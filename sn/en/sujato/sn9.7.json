@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Nāgadatta",
@@ -110,12 +110,12 @@
         {
           "scid": "sn9.7:3.4",
           "pli": "Antakassa vasaṃ upesī”ti.",
-          "en": "under the sway of the Terminator!”"
+          "en": "under the sway of the terminator!”"
         },
         {
           "scid": "sn9.7:4.1",
           "pli": "Atha kho āyasmā nāgadatto tāya devatāya saṃvejito saṃvegamāpādīti.",
-          "en": "Stirred up by that deity, Venerable Nāgadatta came to his senses."
+          "en": "Impelled by that deity, Venerable Nāgadatta was struck with a sense of urgency."
         }
       ],
       "type": "Section",
@@ -138,6 +138,7 @@
     "difficulty": null,
     "original_title": "Nāgadatta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Nāgadatta",
@@ -145,12 +146,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn9.7_sujato",
         "segmented": true,
-        "title": "With Nāgadatta"
+        "title": "With Nāgadatta",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Followers of Other Paths",
@@ -33,7 +33,7 @@
         {
           "scid": "an3.68:0.1",
           "pli": "Aṅguttara Nikāya 3",
-          "en": ""
+          "en": "Numbered Discourses 3"
         },
         {
           "scid": "an3.68:0.2",
@@ -52,7 +52,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "",
+      "title": "Numbered Discourses 3",
       "expandable": false
     },
     {
@@ -75,7 +75,7 @@
         {
           "scid": "an3.68:1.4",
           "pli": "Rāgo, doso, moho—",
-          "en": "Greed, hate, delusion."
+          "en": "Greed, hate, and delusion."
         },
         {
           "scid": "an3.68:1.5",
@@ -130,7 +130,7 @@
         {
           "scid": "an3.68:2.4",
           "pli": "Rāgo, doso, moho—",
-          "en": "Greed, hate, delusion."
+          "en": "Greed, hate, and delusion."
         },
         {
           "scid": "an3.68:2.5",
@@ -160,12 +160,12 @@
         {
           "scid": "an3.68:3.2",
           "pli": "‘“Subhanimittan”tissa vacanīyaṃ.",
-          "en": "You should say: ‘The beautiful aspect of things."
+          "en": "You should say: ‘The beautiful feature of things."
         },
         {
           "scid": "an3.68:3.3",
           "pli": "Tassa subhanimittaṃ ayoniso manasi karoto anuppanno vā rāgo uppajjati uppanno vā rāgo bhiyyobhāvāya vepullāya saṃvattati.",
-          "en": "When you attend improperly on the beautiful aspect of things, greed arises, and once arisen it increases and grows."
+          "en": "When you attend improperly to the beautiful feature of things, greed arises, and once arisen it increases and grows."
         },
         {
           "scid": "an3.68:3.4",
@@ -180,12 +180,12 @@
         {
           "scid": "an3.68:4.2",
           "pli": "‘“Paṭighanimittan”tissa vacanīyaṃ.",
-          "en": "You should say: ‘The disagreeable aspect of things."
+          "en": "You should say: ‘The feature of harshness."
         },
         {
           "scid": "an3.68:4.3",
           "pli": "Tassa paṭighanimittaṃ ayoniso manasi karoto anuppanno vā doso uppajjati uppanno vā doso bhiyyobhāvāya vepullāya saṃvattati.",
-          "en": "When you attend improperly on the disagreeable aspect of things, hate arises, and once arisen it increases and grows."
+          "en": "When you attend improperly to the feature of harshness, hate arises, and once arisen it increases and grows."
         },
         {
           "scid": "an3.68:4.4",
@@ -220,12 +220,12 @@
         {
           "scid": "an3.68:6.2",
           "pli": "‘“Asubhanimittan”tissa vacanīyaṃ.",
-          "en": "You should say: ‘The ugly aspect of things."
+          "en": "You should say: ‘The ugly feature of things."
         },
         {
           "scid": "an3.68:6.3",
           "pli": "Tassa asubhanimittaṃ yoniso manasi karoto anuppanno ceva rāgo nuppajjati uppanno ca rāgo pahīyati.",
-          "en": "When you attend properly on the ugly aspect of things, greed doesn’t arise, or if it’s already arisen it’s given up."
+          "en": "When you attend properly on the ugly feature of things, greed doesn’t arise, or if it’s already arisen it’s given up."
         },
         {
           "scid": "an3.68:6.4",
@@ -298,6 +298,7 @@
     "difficulty": null,
     "original_title": "Aññatitthiya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Followers of Other Paths",
@@ -305,21 +306,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.68_sujato",
         "segmented": true,
-        "title": "Followers of Other Paths"
+        "title": "Followers of Other Paths",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an3.68_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Sectarians"
       }
     ],

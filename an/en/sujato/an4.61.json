@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Deeds of Substance",
@@ -350,7 +350,7 @@
         {
           "scid": "an4.61:16.1",
           "pli": "Puna caparaṃ, gahapati, ariyasāvako uṭṭhānavīriyādhigatehi bhogehi bāhābalaparicitehi sedāvakkhittehi dhammikehi dhammaladdhehi ye te samaṇabrāhmaṇā madappamādā paṭiviratā khantisoracce niviṭṭhā ekamattānaṃ damenti, ekamattānaṃ samenti, ekamattānaṃ parinibbāpenti, tathārūpesu samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhāpeti sovaggikaṃ sukhavipākaṃ saggasaṃvattanikaṃ.",
-          "en": "Furthermore, with his legitimate wealth he establishes an uplifting teacher’s offering for ascetics and brahmins—those who avoid intoxication and negligence, are settled in patience and gentleness, and who tame, calm, and extinguish themselves—that’s conducive to heaven, ripens in happiness, and leads to heaven."
+          "en": "Furthermore, with his legitimate wealth he establishes an uplifting religious donation for ascetics and brahmins—those who avoid intoxication and negligence, are settled in patience and gentleness, and who tame, calm, and extinguish themselves—that’s conducive to heaven, ripens in happiness, and leads to heaven."
         },
         {
           "scid": "an4.61:16.2",
@@ -385,7 +385,7 @@
         {
           "scid": "an4.61:18.3",
           "pli": "Uddhaggā dakkhiṇā dinnā,",
-          "en": "I’ve given uplifting offerings to teachers;"
+          "en": "I’ve given uplifting religious donations;"
         },
         {
           "scid": "an4.61:18.4",
@@ -400,7 +400,7 @@
         {
           "scid": "an4.61:18.6",
           "pli": "Saññatā brahmacārayo.",
-          "en": "restrained spiritual practitioners."
+          "en": "disciplined spiritual practitioners."
         },
         {
           "scid": "an4.61:19.1",
@@ -468,6 +468,7 @@
     "difficulty": null,
     "original_title": "Pattakamma Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Deeds of Substance",
@@ -475,21 +476,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.61_sujato",
         "segmented": true,
-        "title": "Deeds of Substance"
+        "title": "Deeds of Substance",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an4.61_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Worthy Deeds"
       }
     ],

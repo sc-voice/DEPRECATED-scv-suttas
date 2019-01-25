@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Longer Discourse on the Ending of Craving",
@@ -270,7 +270,7 @@
         {
           "scid": "mn38:5.12",
           "pli": "“Kassa nu kho nāma tvaṃ, moghapurisa, mayā evaṃ dhammaṃ desitaṃ ājānāsi?",
-          "en": "“Foolish man, who on earth have you ever known me to teach in that way?"
+          "en": "“Silly man, who on earth have you ever known me to teach in that way?"
         },
         {
           "scid": "mn38:5.13",
@@ -325,7 +325,7 @@
         {
           "scid": "mn38:6.8",
           "pli": "“paññāyissasi kho tvaṃ, moghapurisa, etena sakena pāpakena diṭṭhigatena.",
-          "en": "“Foolish man, you will be known by your own harmful misconception."
+          "en": "“Silly man, you will be known by your own harmful misconception."
         },
         {
           "scid": "mn38:6.9",
@@ -545,7 +545,7 @@
         {
           "scid": "mn38:11.1",
           "pli": "“Bhūtamidanti, bhikkhave, yathābhūtaṃ sammappaññāya passato yā vicikicchā sā pahīyatī”ti?",
-          "en": "“Is doubt given up in someone who truly sees with proper understanding that this has come to be?”"
+          "en": "“Is doubt given up in someone who truly sees with right understanding that this has come to be?”"
         },
         {
           "scid": "mn38:11.2",
@@ -555,7 +555,7 @@
         {
           "scid": "mn38:11.3",
           "pli": "“Tadāhārasambhavanti, bhikkhave, yathābhūtaṃ sammappaññāya passato yā vicikicchā sā pahīyatī”ti?",
-          "en": "“Is doubt given up in someone who truly sees with proper understanding that this has originated with that as fuel?”"
+          "en": "“Is doubt given up in someone who truly sees with right understanding that this has originated with that as fuel?”"
         },
         {
           "scid": "mn38:11.4",
@@ -565,7 +565,7 @@
         {
           "scid": "mn38:11.5",
           "pli": "“Tadāhāranirodhā yaṃ bhūtaṃ, taṃ nirodhadhammanti, bhikkhave, yathābhūtaṃ sammappaññāya passato yā vicikicchā sā pahīyatī”ti?",
-          "en": "“Is doubt given up in someone who truly sees with proper understanding that when that fuel ceases, what has come to be is liable to cease?”"
+          "en": "“Is doubt given up in someone who truly sees with right understanding that when that fuel ceases, what has come to be is liable to cease?”"
         },
         {
           "scid": "mn38:11.6",
@@ -605,7 +605,7 @@
         {
           "scid": "mn38:13.1",
           "pli": "“Bhūtamidanti, bhikkhave, yathābhūtaṃ sammappaññāya sudiṭṭhan”ti?",
-          "en": "“Have you truly seen clearly with proper understanding that this has come to be?”"
+          "en": "“Have you truly seen clearly with right understanding that this has come to be?”"
         },
         {
           "scid": "mn38:13.2",
@@ -615,7 +615,7 @@
         {
           "scid": "mn38:13.3",
           "pli": "“Tadāhārasambhavanti, bhikkhave, yathābhūtaṃ sammappaññāya sudiṭṭhan”ti?",
-          "en": "“Have you truly seen clearly with proper understanding that this has originated with that as fuel?”"
+          "en": "“Have you truly seen clearly with right understanding that this has originated with that as fuel?”"
         },
         {
           "scid": "mn38:13.4",
@@ -625,7 +625,7 @@
         {
           "scid": "mn38:13.5",
           "pli": "“Tadāhāranirodhā yaṃ bhūtaṃ taṃ nirodhadhammanti, bhikkhave, yathābhūtaṃ sammappaññāya sudiṭṭhan”ti?",
-          "en": "“Have you truly seen clearly with proper understanding that when that fuel ceases, what has come to be is liable to cease?”"
+          "en": "“Have you truly seen clearly with right understanding that when that fuel ceases, what has come to be is liable to cease?”"
         },
         {
           "scid": "mn38:13.6",
@@ -1820,7 +1820,7 @@
         {
           "scid": "mn38:30.11",
           "pli": "manasā dhammaṃ viññāya piyarūpe dhamme sārajjati, appiyarūpe dhamme byāpajjati, anupaṭṭhitakāyasati ca viharati parittacetaso. ",
-          "en": "When they cognize a thought with their mind, if it’s pleasant they desire it, but if it’s unpleasant they dislike it. They live with mindfulness of the body unestablished and their heart restricted. "
+          "en": "When they know a thought with their mind, if it’s pleasant they desire it, but if it’s unpleasant they dislike it. They live with mindfulness of the body unestablished and their heart restricted. "
         },
         {
           "scid": "mn38:30.12",
@@ -2288,6 +2288,7 @@
     "difficulty": 3,
     "original_title": "Mahātaṇhāsaṅkhaya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Longer Discourse on the Ending of Craving",
@@ -2295,32 +2296,41 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn38_sujato",
         "segmented": true,
-        "title": "The Longer Discourse on the Ending of Craving"
-      },
-      {
-        "author": "I.B. Horner",
-        "author_short": "Horner",
-        "author_uid": "horner",
-        "id": "en_mn38_horner",
-        "lang": "en",
-        "lang_name": "English",
-        "segmented": false,
-        "title": "Greater Discourse on the Destruction of Craving"
+        "title": "The Longer Discourse on the Ending of Craving",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn38_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "The Greater Discourse on the Destruction of Craving"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn38_horner",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2017",
+        "segmented": false,
+        "volpage": null,
+        "title": "Greater Discourse on the Destruction of Craving"
       }
     ],
     "parallel_count": 63,

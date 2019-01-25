@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Five and Three",
@@ -265,7 +265,7 @@
         {
           "scid": "mn102:10.3",
           "pli": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā diṭṭhasutamutaviññātabbasaṅkhāramattena etassa āyatanassa upasampadaṃ paññapenti, byasanañhetaṃ, bhikkhave, akkhāyati etassa āyatanassa upasampadāya.",
-          "en": "Some ascetics or brahmins assert the attainment of that dimension merely through the conditioned phenomena of what is seen, heard, thought, and known. But that is said to be a disastrous approach."
+          "en": "Some ascetics or brahmins assert the embracing of that dimension merely through the conditioned phenomena of what is seen, heard, thought, and known. But that is said to be a disastrous approach."
         },
         {
           "scid": "mn102:10.4",
@@ -460,7 +460,7 @@
         {
           "scid": "mn102:15.2",
           "pli": "‘sassato attā ca loko ca, idameva saccaṃ moghamaññan’ti, tesaṃ vata aññatreva saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā paccattaṃyeva ñāṇaṃ bhavissati parisuddhaṃ pariyodātanti—netaṃ ṭhānaṃ vijjati.",
-          "en": "‘The self and the cosmos are eternal. This is the only truth, other ideas are stupid.’ It’s simply not possible for them to have purified and clear personal knowledge of this, apart from faith, personal preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration."
+          "en": "‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ It’s simply not possible for them to have purified and clear personal knowledge of this, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration."
         },
         {
           "scid": "mn102:15.3",
@@ -555,7 +555,7 @@
         {
           "scid": "mn102:16.16",
           "pli": "adukkhamasukhī attā ca loko ca, idameva saccaṃ moghamaññanti, tesaṃ vata aññatreva saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā paccattaṃyeva ñāṇaṃ bhavissati parisuddhaṃ pariyodātanti—netaṃ ṭhānaṃ vijjati.",
-          "en": "or experience neither happiness nor suffering. It’s simply not possible for them to have purified and clear personal knowledge of this, apart from faith, personal preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration."
+          "en": "or experience neither happiness nor suffering. It’s simply not possible for them to have purified and clear personal knowledge of this, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration."
         },
         {
           "scid": "mn102:16.17",
@@ -868,6 +868,7 @@
     "difficulty": 3,
     "original_title": "Pañcattaya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Five and Three",
@@ -875,12 +876,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn102_sujato",
         "segmented": true,
-        "title": "The Five and Three"
+        "title": "The Five and Three",
+        "volpage": null
       }
     ],
     "parallel_count": 3,

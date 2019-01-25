@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Awareness",
@@ -65,7 +65,7 @@
         {
           "scid": "an11.8:2.1",
           "pli": "“Siyā nu kho, bhante, bhikkhuno tathārūpo samādhipaṭilābho yathā na cakkhuṃ manasi kareyya, na rūpaṃ manasi kareyya, na sotaṃ manasi kareyya, na saddaṃ manasi kareyya, na ghānaṃ manasi kareyya, na gandhaṃ manasi kareyya, na jivhaṃ manasi kareyya, na rasaṃ manasi kareyya, na kāyaṃ manasi kareyya, na phoṭṭhabbaṃ manasi kareyya, na pathaviṃ manasi kareyya, na āpaṃ manasi kareyya, na tejaṃ manasi kareyya, na vāyaṃ manasi kareyya, na ākāsānañcāyatanaṃ manasi kareyya, na viññāṇañcāyatanaṃ manasi kareyya, na ākiñcaññāyatanaṃ manasi kareyya, na nevasaññānāsaññāyatanaṃ manasi kareyya, na idhalokaṃ manasi kareyya, na paralokaṃ manasi kareyya, yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi na manasi kareyya;",
-          "en": "“Could it be, sir, that a mendicant might gain a state of immersion like this. They wouldn’t be aware of the eye or sights, ear or sounds, nose or smells, tongue or tastes, or body or touches. They wouldn’t be aware of earth in earth, water in water, fire in fire, or air in air. And they wouldn’t be aware of the dimension of infinite space in the dimension of infinite space, the dimension of infinite consciousness in the dimension of infinite consciousness, the dimension of nothingness in the dimension of nothingness, or the dimension of neither perception nor non-perception in the dimension of neither perception nor non-perception. They wouldn’t be aware of this world in this world, or the other world in the other world. And they wouldn’t be aware of what is seen, heard, thought, cognized, attained, sought, or explored by the mind."
+          "en": "“Could it be, sir, that a mendicant might gain a state of immersion like this. They wouldn’t be aware of the eye or sights, ear or sounds, nose or smells, tongue or tastes, or body or touches. They wouldn’t be aware of earth in earth, water in water, fire in fire, or air in air. And they wouldn’t be aware of the dimension of infinite space in the dimension of infinite space, the dimension of infinite consciousness in the dimension of infinite consciousness, the dimension of nothingness in the dimension of nothingness, or the dimension of neither perception nor non-perception in the dimension of neither perception nor non-perception. They wouldn’t be aware of this world in this world, or the other world in the other world. And they wouldn’t be aware of what is seen, heard, thought, known, attained, sought, or explored by the mind."
         },
         {
           "scid": "an11.8:2.2",
@@ -115,7 +115,7 @@
         {
           "scid": "an11.8:5.4",
           "pli": "yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi na manasi kareyya;",
-          "en": "And they wouldn’t be aware of what is seen, heard, thought, cognized, attained, sought, or explored by the mind."
+          "en": "And they wouldn’t be aware of what is seen, heard, thought, known, attained, sought, or explored by the mind."
         },
         {
           "scid": "an11.8:5.5",
@@ -148,6 +148,7 @@
     "difficulty": null,
     "original_title": "Manasikāra Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Awareness",
@@ -155,12 +156,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an11.8_sujato",
         "segmented": true,
-        "title": "Awareness"
+        "title": "Awareness",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

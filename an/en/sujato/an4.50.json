@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Corruptions",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Distortions",
+      "name": "Perversions",
       "uid": "an4.49"
     }
   },
@@ -60,7 +60,7 @@
         {
           "scid": "an4.50:1.1",
           "pli": "“Cattārome, bhikkhave, candimasūriyānaṃ upakkilesā, yehi upakkilesehi upakkiliṭṭhā candimasūriyā na tapanti na bhāsanti na virocanti.",
-          "en": "“Mendicants, these four things obscure the sun and moon, so they don’t shine and glow and radiate."
+          "en": "“Mendicants, these four corruptions obscure the sun and moon, so they don’t shine and glow and radiate."
         },
         {
           "scid": "an4.50:1.2",
@@ -90,7 +90,7 @@
         {
           "scid": "an4.50:4.2",
           "pli": "Ime kho, bhikkhave, cattāro candimasūriyānaṃ upakkilesā, yehi upakkilesehi upakkiliṭṭhā candimasūriyā na tapanti na bhāsanti na virocanti.",
-          "en": "These are four things that obscure the sun and moon, so they don’t shine and glow and radiate."
+          "en": "These are four corruptions that obscure the sun and moon, so they don’t shine and glow and radiate."
         },
         {
           "scid": "an4.50:5.1",
@@ -240,7 +240,7 @@
         {
           "scid": "an4.50:12.3",
           "pli": "Vaḍḍhenti kaṭasiṃ ghoraṃ,",
-          "en": "swell the horrors of the charnel-ground,"
+          "en": "swell the horrors of the charnel ground,"
         },
         {
           "scid": "an4.50:12.4",
@@ -289,7 +289,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, these four things obscure the sun and moon,…",
+      "title": "“Mendicants, these four corruptions obscure the sun and moon,…",
       "expandable": false
     }
   ],
@@ -303,6 +303,7 @@
     "difficulty": null,
     "original_title": "Upakkilesa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Corruptions",
@@ -310,21 +311,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.50_sujato",
         "segmented": true,
-        "title": "Corruptions"
+        "title": "Corruptions",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an4.50_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Obscurations"
       }
     ],

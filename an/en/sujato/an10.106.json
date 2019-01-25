@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Wearing Away",
@@ -68,7 +68,7 @@
         {
           "scid": "an10.106:0.8",
           "pli": "sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (1)",
-          "en": "And because of right view, many skillful qualities are developed to perfection."
+          "en": "And because of right view, many skillful qualities are fully developed."
         }
       ],
       "type": "Section",
@@ -95,7 +95,7 @@
         {
           "scid": "an10.106:2.3",
           "pli": "sammāsaṅkappapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (2)",
-          "en": "And because of right thought, many skillful qualities are developed to perfection."
+          "en": "And because of right thought, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:3.1",
@@ -110,7 +110,7 @@
         {
           "scid": "an10.106:3.3",
           "pli": "sammāvācāpaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (3)",
-          "en": "And because of right speech, many skillful qualities are developed to perfection."
+          "en": "And because of right speech, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:4.1",
@@ -125,7 +125,7 @@
         {
           "scid": "an10.106:4.3",
           "pli": "sammākammantapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (4)",
-          "en": "And because of right action, many skillful qualities are developed to perfection."
+          "en": "And because of right action, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:5.1",
@@ -140,7 +140,7 @@
         {
           "scid": "an10.106:5.3",
           "pli": "sammāājīvapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (5)",
-          "en": "And because of right livelihood, many skillful qualities are developed to perfection."
+          "en": "And because of right livelihood, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:6.1",
@@ -155,7 +155,7 @@
         {
           "scid": "an10.106:6.3",
           "pli": "sammāvāyāmapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (6)",
-          "en": "And because of right effort, many skillful qualities are developed to perfection."
+          "en": "And because of right effort, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:7.1",
@@ -170,7 +170,7 @@
         {
           "scid": "an10.106:7.3",
           "pli": "sammāsatipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (7)",
-          "en": "And because of right mindfulness, many skillful qualities are developed to perfection."
+          "en": "And because of right mindfulness, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:8.1",
@@ -185,7 +185,7 @@
         {
           "scid": "an10.106:8.3",
           "pli": "sammāsamādhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (8)",
-          "en": "And because of right immersion, many skillful qualities are developed to perfection."
+          "en": "And because of right immersion, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:9.1",
@@ -200,7 +200,7 @@
         {
           "scid": "an10.106:9.3",
           "pli": "sammāñāṇapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (9)",
-          "en": "And because of right knowledge, many skillful qualities are developed to perfection."
+          "en": "And because of right knowledge, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:10.1",
@@ -215,7 +215,7 @@
         {
           "scid": "an10.106:10.3",
           "pli": "sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. (10)",
-          "en": "And because of right freedom, many skillful qualities are developed to perfection."
+          "en": "And because of right freedom, many skillful qualities are fully developed."
         },
         {
           "scid": "an10.106:11.1",
@@ -248,6 +248,7 @@
     "difficulty": null,
     "original_title": "Nijjara Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Wearing Away",
@@ -255,12 +256,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.106_sujato",
         "segmented": true,
-        "title": "Wearing Away"
+        "title": "Wearing Away",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Like Diamond",
@@ -80,7 +80,7 @@
         {
           "scid": "an3.25:1.5",
           "pli": "Idha, bhikkhave, ekacco puggalo kodhano hoti upāyāsabahulo ",
-          "en": "It’s someone who is irritable and bad-tempered. "
+          "en": "It’s someone who is irritable and bad-tempered."
         },
         {
           "scid": "an3.25:1.6",
@@ -188,6 +188,7 @@
     "difficulty": null,
     "original_title": "Vajirūpama Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Like Diamond",
@@ -195,21 +196,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.25_sujato",
         "segmented": true,
-        "title": "Like Diamond"
+        "title": "Like Diamond",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an3.25_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Diamond"
       }
     ],

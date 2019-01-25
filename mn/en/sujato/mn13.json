@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Longer Discourse on the Mass of Suffering",
@@ -575,7 +575,7 @@
         {
           "scid": "mn13:21.1",
           "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya sarīraṃ sivathikāya chaḍḍitaṃ—",
-          "en": "Furthermore, suppose that you were to see that same sister as a corpse thrown in a charnel ground. And she had been dead for one, two, or three days, bloated, livid, and festering."
+          "en": "Furthermore, suppose that you were to see that same sister as a corpse discarded in a charnel ground. And she had been dead for one, two, or three days, bloated, livid, and festering."
         },
         {
           "scid": "mn13:21.2",
@@ -605,7 +605,7 @@
         {
           "scid": "mn13:22.1",
           "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya sarīraṃ sivathikāya chaḍḍitaṃ—",
-          "en": "Furthermore, suppose that you were to see that same sister as a corpse thrown in a charnel ground. And she was being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures …"
+          "en": "Furthermore, suppose that you were to see that same sister as a corpse discarded in a charnel ground. And she was being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures …"
         },
         {
           "scid": "mn13:22.2",
@@ -630,7 +630,7 @@
         {
           "scid": "mn13:23-28.1",
           "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya sarīraṃ sivathikāya chaḍḍitaṃ—",
-          "en": "Furthermore, suppose that you were to see that same sister as a corpse thrown in a charnel ground."
+          "en": "Furthermore, suppose that you were to see that same sister as a corpse discarded in a charnel ground."
         },
         {
           "scid": "mn13:23-28.2",
@@ -660,7 +660,7 @@
         {
           "scid": "mn13:29.1",
           "pli": "Puna caparaṃ, bhikkhave, tameva bhaginiṃ passeyya sarīraṃ sivathikāya chaḍḍitaṃ—",
-          "en": "Furthermore, suppose that you were to see that same sister as a corpse thrown in a charnel ground."
+          "en": "Furthermore, suppose that you were to see that same sister as a corpse discarded in a charnel ground."
         },
         {
           "scid": "mn13:29.2",
@@ -823,6 +823,7 @@
     "difficulty": 2,
     "original_title": "Mahādukkhakkhandha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Longer Discourse on the Mass of Suffering",
@@ -830,21 +831,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn13_sujato",
         "segmented": true,
-        "title": "The Longer Discourse on the Mass of Suffering"
+        "title": "The Longer Discourse on the Mass of Suffering",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn13_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "The Greater Discourse on the Mass of Suffering"
       },
       {
@@ -852,9 +859,12 @@
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn13_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Greater Discourse on the Stems of Anguish"
       }
     ],

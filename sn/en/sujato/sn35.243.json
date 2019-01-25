@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Explanation on the Corrupt",
@@ -100,7 +100,7 @@
         {
           "scid": "sn35.243:2.1",
           "pli": "Atha kho kāpilavatthavā sakyā bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā yena navaṃ santhāgāraṃ tenupasaṅkamiṃsu; upasaṅkamitvā sabbasanthariṃ santhāgāraṃ santharitvā āsanāni paññāpetvā udakamaṇikaṃ patiṭṭhāpetvā telappadīpaṃ āropetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ etadavocuṃ:",
-          "en": "Then, knowing that the Buddha had accepted, the Sakyans got up from their seat, bowed, and respectfully circled the Buddha, keeping him on their right. Then they went to the new town hall, where they spread carpets all over, prepared seats, set up a water jar, and placed a lamp. Then they went back to the Buddha and told him of their preparations, saying:"
+          "en": "Then, knowing that the Buddha had consented, the Sakyans got up from their seat, bowed, and respectfully circled the Buddha, keeping him on their right. Then they went to the new town hall, where they spread carpets all over, prepared seats, set up a water jar, and placed a lamp. Then they went back to the Buddha and told him of their preparations, saying:"
         },
         {
           "scid": "sn35.243:2.2",
@@ -578,6 +578,7 @@
     "difficulty": null,
     "original_title": "Avassutapariyāya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Explanation on the Corrupt",
@@ -585,21 +586,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn35.243_sujato",
         "segmented": true,
-        "title": "The Explanation on the Corrupt"
+        "title": "The Explanation on the Corrupt",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn35.243_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Exposition on the Corrupted"
       }
     ],

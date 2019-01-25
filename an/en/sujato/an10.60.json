@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Girimānanda",
@@ -265,7 +265,7 @@
         {
           "scid": "an10.60:11.2",
           "pli": "Idhānanda, bhikkhu ye loke upādānā cetaso adhiṭṭhānābhinivesānusayā, te pajahanto viharati anupādiyanto.",
-          "en": "It’s when a mendicant lives giving up and not grasping on to the attraction and grasping to the world, the mental dedication, insistence, and underlying tendencies."
+          "en": "It’s when a mendicant lives giving up and not grasping on to the attraction and grasping to the world, the mental fixation, insistence, and underlying tendencies."
         },
         {
           "scid": "an10.60:11.3",
@@ -458,6 +458,7 @@
     "difficulty": null,
     "original_title": "Girimānanda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Girimānanda",
@@ -465,21 +466,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.60_sujato",
         "segmented": true,
-        "title": "With Girimānanda"
+        "title": "With Girimānanda",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an10.60_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Girimānanda"
       }
     ],

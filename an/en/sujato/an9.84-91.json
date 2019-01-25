@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Hindrances, etc.",
+    "title": "Hindrances, Etc.",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "an9.84-91:0.3",
           "pli": "84–​91. Nīvaraṇasuttādi",
-          "en": "84–91. Hindrances, etc."
+          "en": "84–91. Hindrances, Etc."
         }
       ],
       "type": "Section",
@@ -77,25 +77,29 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli4.464",
     "uid": "an9.84-91",
     "blurb": null,
     "difficulty": null,
     "original_title": "Nīvaraṇasuttādi",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Hindrances, etc.",
+    "translated_title": "Hindrances, Etc.",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.84-91_sujato",
         "segmented": true,
-        "title": "Hindrances, etc."
+        "title": "Hindrances, Etc.",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

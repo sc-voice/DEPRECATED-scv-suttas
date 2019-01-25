@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "King Mahāsudassana",
@@ -475,7 +475,7 @@
         {
           "scid": "dn17:1.14.2",
           "pli": "So ahosi maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato accho vippasanno anāvilo sabbākārasampanno.",
-          "en": "It was a beryl gem that was naturally beautiful, eight-faceted, with expert workmanship, transparent, clear, and unclouded, endowed with all good qualities."
+          "en": "It was a beryl gem that was naturally beautiful, eight-faceted, well-worked, transparent, clear, and unclouded, endowed with all good qualities."
         },
         {
           "scid": "dn17:1.14.3",
@@ -1330,7 +1330,7 @@
         {
           "scid": "dn17:2.2.1",
           "pli": "Atha kho, ānanda, rājā mahāsudassano yena mahāviyūhaṃ kūṭāgāraṃ tenupasaṅkami; upasaṅkamitvā mahāviyūhassa kūṭāgārassa dvāre ṭhito udānaṃ udānesi:",
-          "en": "Then he went to the great foyer, stood at the door, and spoke these words of inspiration:"
+          "en": "Then he went to the great foyer, stood at the door, and was inspired to exclaim:"
         },
         {
           "scid": "dn17:2.2.2",
@@ -2283,6 +2283,7 @@
     "difficulty": 2,
     "original_title": "Mahāsudassana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "King Mahāsudassana",
@@ -2290,25 +2291,31 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn17_sujato",
         "segmented": true,
-        "title": "King Mahāsudassana"
+        "title": "King Mahāsudassana",
+        "volpage": null
       },
       {
         "author": "T.W. Rhys Davids",
         "author_short": "T.W. Rhys Davids",
         "author_uid": "tw_rhysdavids",
         "id": "en_dn17_tw_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1881",
         "segmented": false,
+        "volpage": null,
         "title": "The Great King Of Glory"
       }
     ],
-    "parallel_count": 15,
+    "parallel_count": 16,
     "biblio": null,
     "num": 4
   }

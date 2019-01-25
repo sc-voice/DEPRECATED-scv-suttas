@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Sick",
@@ -130,7 +130,7 @@
         {
           "scid": "sn47.9:3.1",
           "pli": "Atha kho bhagavā gilānā vuṭṭhito aciravuṭṭhito gelaññā vihārā nikkhamitvā vihārapacchāyāyaṃ paññatte āsane nisīdi.",
-          "en": "Soon after the Buddha had recovered from that sickness, he came out from his dwelling and sat in the shade of the porch on the seat spread out."
+          "en": "Soon after the Buddha had recovered from that sickness, he left his dwelling and sat in the shade of the porch on the seat spread out."
         },
         {
           "scid": "sn47.9:3.2",
@@ -155,7 +155,7 @@
         {
           "scid": "sn47.9:3.6",
           "pli": "Api ca me, bhante, madhurakajāto viya kāyo, disāpi me na pakkhāyanti, dhammāpi maṃ nappaṭibhanti bhagavato gelaññena.",
-          "en": "Because when the Buddha was sick, my body felt like it was drugged. I was disorientated, and the teachings weren’t clear to me."
+          "en": "Because when the Buddha was sick, my body felt like it was drugged. I was disorientated, and the teachings didn’t spring to mind."
         },
         {
           "scid": "sn47.9:3.7",
@@ -298,6 +298,7 @@
     "difficulty": null,
     "original_title": "Gilāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Sick",
@@ -305,21 +306,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn47.9_sujato",
         "segmented": true,
-        "title": "Sick"
+        "title": "Sick",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn47.9_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Ill"
       }
     ],

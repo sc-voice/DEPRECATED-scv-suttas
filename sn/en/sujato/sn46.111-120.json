@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Searches, Etc.",
@@ -117,12 +117,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli5.136",
     "uid": "sn46.111-120",
     "blurb": null,
     "difficulty": null,
     "original_title": "Esanā Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Searches, Etc.",
@@ -130,21 +131,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn46.111-120_sujato",
         "segmented": true,
-        "title": "Searches, Etc."
+        "title": "Searches, Etc.",
+        "volpage": null
       },
       {
         "author": "Frank Lee Woodward",
         "author_short": "Woodward",
         "author_uid": "woodward",
         "id": "en_sn46.111-120_woodward",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Longing"
       }
     ],

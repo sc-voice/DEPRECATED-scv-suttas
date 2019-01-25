@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Non-decline",
@@ -80,7 +80,7 @@
         {
           "scid": "an4.37:2.2",
           "pli": "Idha, bhikkhave, bhikkhu sīlavā hoti pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.",
-          "en": "It’s when a mendicant is ethical, restrained in the monastic code, and accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+          "en": "It’s when a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
         },
         {
           "scid": "an4.37:2.3",
@@ -230,7 +230,7 @@
         {
           "scid": "an4.37:7.4",
           "pli": "yogakkhemassa pattiyā.",
-          "en": "in order to find sanctuary."
+          "en": "for the sake of finding sanctuary."
         },
         {
           "scid": "an4.37:8.1",
@@ -278,6 +278,7 @@
     "difficulty": null,
     "original_title": "Aparihāniya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Non-decline",
@@ -285,21 +286,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.37_sujato",
         "segmented": true,
-        "title": "Non-decline"
+        "title": "Non-decline",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an4.37_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Non-Decline"
       }
     ],

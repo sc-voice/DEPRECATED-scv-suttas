@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Janavasabha",
@@ -750,7 +750,7 @@
         {
           "scid": "dn18:14.1",
           "pli": "Atha kho, bhante, yenatthena devā tāvatiṃsā sudhammāyaṃ sabhāyaṃ sannisinnā honti sannipatitā, taṃ atthaṃ cintayitvā taṃ atthaṃ mantayitvā vuttavacanāpi taṃ cattāro mahārājāno tasmiṃ atthe honti. Paccānusiṭṭhavacanāpi taṃ cattāro mahārājāno tasmiṃ atthe honti,",
-          "en": "Then the gods of the Thirty-Three, having considered and deliberated about the matter for which they were seated together in the Hall of Justice, advised and instructed the Four Great Kings on the subject."
+          "en": "Then the gods of the Thirty-Three, having considered and deliberated on the matter for which they were seated together in the Hall of Justice, advised and instructed the Four Great Kings on the subject."
         },
         {
           "scid": "dn18:14.2",
@@ -1558,6 +1558,7 @@
     "difficulty": 2,
     "original_title": "Janavasabha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Janavasabha",
@@ -1565,25 +1566,31 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn18_sujato",
         "segmented": true,
-        "title": "With Janavasabha"
+        "title": "With Janavasabha",
+        "volpage": null
       },
       {
         "author": "T.W. Rhys Davids",
         "author_short": "T.W. Rhys Davids",
         "author_uid": "tw_rhysdavids",
         "id": "en_dn18_tw_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1910",
         "segmented": false,
+        "volpage": null,
         "title": "With Janavasabha"
       }
     ],
-    "parallel_count": 3,
+    "parallel_count": 4,
     "biblio": null,
     "num": 5
   }

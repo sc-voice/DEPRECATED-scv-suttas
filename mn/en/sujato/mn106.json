@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Conducive to the Imperturbable",
@@ -85,7 +85,7 @@
         {
           "scid": "mn106:2.1",
           "pli": "“Aniccā, bhikkhave, kāmā tucchā musā mosadhammā.",
-          "en": "“Mendicants, sensual pleasures are impermanent, baseless, false, and deceptive,"
+          "en": "“Mendicants, sensual pleasures are impermanent, hollow, false, and deceptive,"
         },
         {
           "scid": "mn106:2.2",
@@ -105,7 +105,7 @@
         {
           "scid": "mn106:2.5",
           "pli": "ubhayametaṃ māradheyyaṃ, mārassesa visayo, mārassesa nivāpo, mārassesa gocaro.",
-          "en": "both of these are Māra’s dominion, Māra’s domain, and Māra’s territory."
+          "en": "both of these are Māra’s sovereignty, Māra’s domain, and Māra’s territory."
         },
         {
           "scid": "mn106:2.6",
@@ -135,7 +135,7 @@
         {
           "scid": "mn106:3.4",
           "pli": "ubhayametaṃ māradheyyaṃ, mārassesa visayo, mārassesa nivāpo, mārassesa gocaro.",
-          "en": "both of these are Māra’s dominion, Māra’s domain, and Māra’s territory."
+          "en": "both of these are Māra’s sovereignty, Māra’s domain, and Māra’s territory."
         },
         {
           "scid": "mn106:3.5",
@@ -150,7 +150,7 @@
         {
           "scid": "mn106:3.7",
           "pli": "Yannūnāhaṃ vipulena mahaggatena cetasā vihareyyaṃ abhibhuyya lokaṃ adhiṭṭhāya manasā.",
-          "en": "Why don’t I meditate with an abundant, expansive heart, having mastered the world and resolved the mind?"
+          "en": "Why don’t I meditate with an abundant, expansive heart, having mastered the world and stabilized the mind?"
         },
         {
           "scid": "mn106:3.8",
@@ -698,6 +698,7 @@
     "difficulty": 3,
     "original_title": "Āneñjasappāya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Conducive to the Imperturbable",
@@ -705,12 +706,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn106_sujato",
         "segmented": true,
-        "title": "Conducive to the Imperturbable"
+        "title": "Conducive to the Imperturbable",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

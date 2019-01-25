@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Araka",
+    "title": "About Araka",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Sunetta",
+      "name": "About Sunetta",
       "uid": "an7.73"
     }
   },
@@ -43,7 +43,7 @@
         {
           "scid": "an7.74:0.3",
           "pli": "74. Arakasutta",
-          "en": "74. Araka"
+          "en": "74. About Araka"
         }
       ],
       "type": "Section",
@@ -85,7 +85,7 @@
         {
           "scid": "an7.74:2.2",
           "pli": "evamevaṃ kho, brāhmaṇa, ussāvabindūpamaṃ jīvitaṃ manussānaṃ parittaṃ lahukaṃ bahudukkhaṃ bahupāyāsaṃ mantāyaṃ boddhabbaṃ, kattabbaṃ kusalaṃ, caritabbaṃ brahmacariyaṃ, natthi jātassa amaraṇaṃ. (1)",
-          "en": "In the same way, life as a human is like a dew-drop. It’s short and scant, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death."
+          "en": "In the same way, life as a human is like a dew-drop. It’s brief and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death."
         },
         {
           "scid": "an7.74:3.1",
@@ -115,7 +115,7 @@
         {
           "scid": "an7.74:5.1",
           "pli": "Seyyathāpi, brāhmaṇa, nadī pabbateyyā dūraṅgamā sīghasotā hārahārinī, natthi so khaṇo vā layo vā muhutto vā yaṃ sā āvattati, atha kho sā gacchateva vattateva sandateva;",
-          "en": "It’s like a mountain river travelling far, flowing fast, carrying all before it. It doesn’t turn back—not for a moment, a second, an instant—but runs, rolls, and flows on."
+          "en": "It’s like a mountain river traveling far, flowing fast, carrying all before it. It doesn’t turn back—not for a moment, a second, an instant—but runs, rolls, and flows on."
         },
         {
           "scid": "an7.74:5.2",
@@ -145,12 +145,12 @@
         {
           "scid": "an7.74:7.1",
           "pli": "Seyyathāpi, brāhmaṇa, divasaṃsantatte ayokaṭāhe maṃsapesi pakkhittā khippaṃyeva paṭivigacchati, na ciraṭṭhitikā hoti;",
-          "en": "Suppose there was an iron cauldron that had been heated all day. If you tossed a piece of meat in, it would quickly vanish and not last long."
+          "en": "Suppose there was an iron cauldron that had been heated all day. If you tossed a lump of meat in, it would quickly vanish and not last long."
         },
         {
           "scid": "an7.74:7.2",
           "pli": "evamevaṃ kho, brāhmaṇa, maṃsapesūpamaṃ jīvitaṃ manussānaṃ parittaṃ … pe …",
-          "en": "In the same way, life as a human is like a piece of flesh. …"
+          "en": "In the same way, life as a human is like a lump of meat. …"
         },
         {
           "scid": "an7.74:7.3",
@@ -165,7 +165,7 @@
         {
           "scid": "an7.74:8.2",
           "pli": "evamevaṃ kho, brāhmaṇa, govajjhūpamaṃ jīvitaṃ manussānaṃ parittaṃ lahukaṃ bahudukkhaṃ bahupāyāsaṃ mantāyaṃ boddhabbaṃ, kattabbaṃ kusalaṃ, caritabbaṃ brahmacariyaṃ, natthi jātassa amaraṇan’ti. (7)",
-          "en": "In the same way, life as a human is like a cow being slaughtered. It’s short and scant, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.’"
+          "en": "In the same way, life as a human is like a cow being slaughtered. It’s brief and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.’"
         },
         {
           "scid": "an7.74:9.1",
@@ -328,28 +328,35 @@
     "difficulty": null,
     "original_title": "Araka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Araka",
+    "translated_title": "About Araka",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.74_sujato",
         "segmented": true,
-        "title": "Araka"
+        "title": "About Araka",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an7.74_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Araka’s Teaching"
       }
     ],

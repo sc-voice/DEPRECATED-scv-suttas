@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Sunetta",
+    "title": "About Sunetta",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Araka",
+      "name": "About Araka",
       "uid": "an7.74"
     },
     "previous": {
@@ -43,7 +43,7 @@
         {
           "scid": "an7.73:0.3",
           "pli": "73. Sunettasutta",
-          "en": "73. Sunetta"
+          "en": "73. About Sunetta"
         }
       ],
       "type": "Section",
@@ -208,19 +208,23 @@
     "difficulty": null,
     "original_title": "Sunetta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Sunetta",
+    "translated_title": "About Sunetta",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.73_sujato",
         "segmented": true,
-        "title": "Sunetta"
+        "title": "About Sunetta",
+        "volpage": null
       }
     ],
     "parallel_count": 6,

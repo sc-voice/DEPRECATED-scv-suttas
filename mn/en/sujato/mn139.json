@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Analysis of Non-Conflict",
@@ -125,7 +125,7 @@
         {
           "scid": "mn139:3.5",
           "pli": "Sukhavinicchayaṃ jaññā;",
-          "en": "Know how to distinguish different kinds of pleasure."
+          "en": "Know how to assess different kinds of pleasure."
         },
         {
           "scid": "mn139:3.6",
@@ -475,7 +475,7 @@
         {
           "scid": "mn139:9.1",
           "pli": "‘Sukhavinicchayaṃ jaññā;",
-          "en": "‘Know how to distinguish different kinds of pleasure."
+          "en": "‘Know how to assess different kinds of pleasure."
         },
         {
           "scid": "mn139:9.2",
@@ -570,7 +570,7 @@
         {
           "scid": "mn139:9.20",
           "pli": "‘Sukhavinicchayaṃ jaññā;",
-          "en": "‘Know how to distinguish different kinds of pleasure."
+          "en": "‘Know how to assess different kinds of pleasure."
         },
         {
           "scid": "mn139:9.21",
@@ -695,7 +695,7 @@
         {
           "scid": "mn139:12.6",
           "pli": "‘idameva saccaṃ, moghamaññan’ti.",
-          "en": "‘This is the only truth, other ideas are stupid.’"
+          "en": "‘This is the only truth, other ideas are silly.’"
         },
         {
           "scid": "mn139:12.7",
@@ -1068,6 +1068,7 @@
     "difficulty": 2,
     "original_title": "Araṇavibhaṅga Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Analysis of Non-Conflict",
@@ -1075,21 +1076,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn139_sujato",
         "segmented": true,
-        "title": "The Analysis of Non-Conflict"
+        "title": "The Analysis of Non-Conflict",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Ñāṇamoli",
         "author_short": "Ñāṇamoli",
         "author_uid": "nyanamoli",
         "id": "en_mn139_nyanamoli",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1993",
         "segmented": false,
+        "volpage": null,
         "title": "The Exposition of Non-Conflict"
       }
     ],

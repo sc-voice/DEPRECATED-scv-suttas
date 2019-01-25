@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Demons",
@@ -70,67 +70,67 @@
         {
           "scid": "an4.91:1.3",
           "pli": "Asuro asuraparivāro, asuro devaparivāro, devo asuraparivāro, devo devaparivāro.",
-          "en": "<ol><li>A demon accompanied by demons, </li><li>a demon accompanied by gods, </li><li>a god accompanied by demons, and </li><li>a god accompanied by gods.</li></ol>"
+          "en": "<ol><li>A demon surrounded by demons, </li><li>a demon surrounded by gods, </li><li>a god surrounded by demons, and </li><li>a god surrounded by gods.</li></ol>"
         },
         {
           "scid": "an4.91:2.1",
           "pli": "Kathañca, bhikkhave, puggalo asuro hoti asuraparivāro?",
-          "en": "And how is a person a demon accompanied by demons?"
+          "en": "And how is a person a demon surrounded by demons?"
         },
         {
           "scid": "an4.91:2.2",
           "pli": "Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo, parisāpissa hoti dussīlā pāpadhammā.",
-          "en": "It’s when a person is unethical, of bad character, and their following is the same."
+          "en": "It’s when a person is unethical, of bad character, and their followers are the same."
         },
         {
           "scid": "an4.91:2.3",
           "pli": "Evaṃ kho, bhikkhave, puggalo asuro hoti asuraparivāro.",
-          "en": "That’s how a person is a demon accompanied by demons."
+          "en": "That’s how a person is a demon surrounded by demons."
         },
         {
           "scid": "an4.91:3.1",
           "pli": "Kathañca, bhikkhave, puggalo asuro hoti devaparivāro?",
-          "en": "And how is a person a demon accompanied by gods?"
+          "en": "And how is a person a demon surrounded by gods?"
         },
         {
           "scid": "an4.91:3.2",
           "pli": "Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo, parisā ca khvassa hoti sīlavatī kalyāṇadhammā.",
-          "en": "It’s when a person is unethical, of bad character, but their following is ethical, of good character."
+          "en": "It’s when a person is unethical, of bad character, but their followers are ethical, of good character."
         },
         {
           "scid": "an4.91:3.3",
           "pli": "Evaṃ kho, bhikkhave, puggalo asuro hoti devaparivāro.",
-          "en": "That’s how a person is a demon accompanied by gods."
+          "en": "That’s how a person is a demon surrounded by gods."
         },
         {
           "scid": "an4.91:4.1",
           "pli": "Kathañca, bhikkhave, puggalo devo hoti asuraparivāro?",
-          "en": "And how is a person a god accompanied by demons?"
+          "en": "And how is a person a god surrounded by demons?"
         },
         {
           "scid": "an4.91:4.2",
           "pli": "Idha, bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo, parisā ca khvassa hoti dussīlā pāpadhammā.",
-          "en": "It’s when a person is ethical, of good character, but their following is unethical, of bad character."
+          "en": "It’s when a person is ethical, of good character, but their followers are unethical, of bad character."
         },
         {
           "scid": "an4.91:4.3",
           "pli": "Evaṃ kho, bhikkhave, puggalo devo hoti asuraparivāro.",
-          "en": "That’s how a person is a god accompanied by demons."
+          "en": "That’s how a person is a god surrounded by demons."
         },
         {
           "scid": "an4.91:5.1",
           "pli": "Kathañca, bhikkhave, puggalo devo hoti devaparivāro?",
-          "en": "And how is a person a god accompanied by gods?"
+          "en": "And how is a person a god surrounded by gods?"
         },
         {
           "scid": "an4.91:5.2",
           "pli": "Idha, bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo, parisāpissa hoti sīlavatī kalyāṇadhammā.",
-          "en": "It’s when a person is ethical, of good character, and their following is the same."
+          "en": "It’s when a person is ethical, of good character, and their followers are the same."
         },
         {
           "scid": "an4.91:5.3",
           "pli": "Evaṃ kho, bhikkhave, puggalo devo hoti, devaparivāro.",
-          "en": "That’s how a person is a god accompanied by gods."
+          "en": "That’s how a person is a god surrounded by gods."
         },
         {
           "scid": "an4.91:5.4",
@@ -163,6 +163,7 @@
     "difficulty": null,
     "original_title": "Asura Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Demons",
@@ -170,12 +171,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.91_sujato",
         "segmented": true,
-        "title": "Demons"
+        "title": "Demons",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Nakula’s Father",
@@ -285,7 +285,7 @@
         {
           "scid": "an6.16:7.2",
           "pli": "‘na nakulamātā gahapatānī imasmiṃ dhammavinaye ogādhappattā patigādhappattā assāsappattā tiṇṇavicikicchā vigatakathaṅkathā vesārajjappattā aparappaccayā satthusāsane viharatī’ti.",
-          "en": "‘The housewife Nakula’s mother has not gained a basis, a firm basis, and solace in this teaching and training. She has not gone beyond doubt, got rid of uncertainty, and gained assurance. And she’s not independent of others in the Teacher’s instructions.’"
+          "en": "‘The housewife Nakula’s mother has not gained a basis, a firm basis, and solace in this teaching and training. She has not gone beyond doubt, got rid of indecision, and gained assurance. And she’s not independent of others in the Teacher’s instructions.’"
         },
         {
           "scid": "an6.16:7.3",
@@ -295,7 +295,7 @@
         {
           "scid": "an6.16:7.4",
           "pli": "Yāvatā kho, gahapati, tassa bhagavato sāvikā gihī odātavasanā imasmiṃ dhammavinaye ogādhappattā patigādhappattā assāsappattā tiṇṇavicikicchā vigatakathaṅkathā vesārajjappattā aparappaccayā satthusāsane viharanti, ahaṃ tāsaṃ aññatarā.",
-          "en": "I am one of those white-robed disciples of the Buddha who has gained a basis, a firm basis, and solace in this teaching and training. I have gone beyond doubt, got rid of uncertainty, and gained assurance. And I am independent of others in the Teacher’s instructions."
+          "en": "I am one of those white-robed disciples of the Buddha who has gained a basis, a firm basis, and solace in this teaching and training. I have gone beyond doubt, got rid of indecision, and gained assurance. And I am independent of others in the Teacher’s instructions."
         },
         {
           "scid": "an6.16:7.5",
@@ -360,7 +360,7 @@
         {
           "scid": "an6.16:9.5",
           "pli": "Yāvatā kho, gahapati, mama sāvikā gihī odātavasanā imasmiṃ dhammavinaye ogādhappattā patigādhappattā assāsappattā tiṇṇavicikicchā vigatakathaṅkathā vesārajjappattā aparappaccayā satthusāsane viharanti, nakulamātā gahapatānī tāsaṃ aññatarā.",
-          "en": "She is one of those white-robed disciples of the Buddha who has gained a basis, a firm basis, and solace in this teaching and training. She has gone beyond doubt, got rid of uncertainty, and gained assurance. And she is independent of others in the Teacher’s instructions."
+          "en": "She is one of those white-robed disciples of the Buddha who has gained a basis, a firm basis, and solace in this teaching and training. She has gone beyond doubt, got rid of indecision, and gained assurance. And she is independent of others in the Teacher’s instructions."
         },
         {
           "scid": "an6.16:9.6",
@@ -398,6 +398,7 @@
     "difficulty": null,
     "original_title": "Nakulapitu Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Nakula’s Father",
@@ -405,21 +406,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.16_sujato",
         "segmented": true,
-        "title": "Nakula’s Father"
+        "title": "Nakula’s Father",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an6.16_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Nakula’s Parents"
       }
     ],

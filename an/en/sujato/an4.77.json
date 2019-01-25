@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Inconceivable",
+    "title": "Unthinkable",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "A Teacher’s Offering",
+      "name": "A Religious Donation",
       "uid": "an4.78"
     },
     "previous": {
@@ -43,7 +43,7 @@
         {
           "scid": "an4.77:0.3",
           "pli": "77. Acinteyyasutta",
-          "en": "77. Inconceivable"
+          "en": "77. Unthinkable"
         }
       ],
       "type": "Section",
@@ -60,7 +60,7 @@
         {
           "scid": "an4.77:1.1",
           "pli": "“Cattārimāni, bhikkhave, acinteyyāni, na cintetabbāni; yāni cintento ummādassa vighātassa bhāgī assa.",
-          "en": "“Mendicants, these four things are inconceivable. They should not be thought about, and anyone who tries to think about them will go mad or get frustrated."
+          "en": "“Mendicants, these four things are unthinkable. They should not be thought about, and anyone who tries to think about them will go mad or get frustrated."
         },
         {
           "scid": "an4.77:1.2",
@@ -110,7 +110,7 @@
         {
           "scid": "an4.77:1.11",
           "pli": "Imāni kho, bhikkhave, cattāri acinteyyāni, na cintetabbāni; yāni cintento ummādassa vighātassa bhāgī assā”ti.",
-          "en": "These are the four inconceivable things. They should not be thought about, and anyone who tries to think about them will go mad or get frustrated.”"
+          "en": "These are the four unthinkable things. They should not be thought about, and anyone who tries to think about them will go mad or get frustrated.”"
         },
         {
           "scid": "an4.77:1.12",
@@ -124,7 +124,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, these four things are inconceivable. They should not…",
+      "title": "“Mendicants, these four things are unthinkable. They should not…",
       "expandable": false
     }
   ],
@@ -138,28 +138,35 @@
     "difficulty": null,
     "original_title": "Acinteyya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Inconceivable",
+    "translated_title": "Unthinkable",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.77_sujato",
         "segmented": true,
-        "title": "Inconceivable"
+        "title": "Unthinkable",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an4.77_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Unconjecturable"
       }
     ],

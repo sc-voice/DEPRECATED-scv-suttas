@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Bad Principles (2nd)",
@@ -335,7 +335,7 @@
         {
           "scid": "an10.172:12.6",
           "pli": "pāṇātipātā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of not killing living creatures are good results."
+          "en": "And the many skillful qualities fully developed because of not killing living creatures are good results."
         },
         {
           "scid": "an10.172:13.1",
@@ -355,7 +355,7 @@
         {
           "scid": "an10.172:13.4",
           "pli": "adinnādānā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of not stealing are good results."
+          "en": "And the many skillful qualities fully developed because of not stealing are good results."
         },
         {
           "scid": "an10.172:14.1",
@@ -375,7 +375,7 @@
         {
           "scid": "an10.172:14.4",
           "pli": "kāmesumicchācārā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of avoiding sexual misconduct are good results."
+          "en": "And the many skillful qualities fully developed because of avoiding sexual misconduct are good results."
         },
         {
           "scid": "an10.172:15.1",
@@ -395,7 +395,7 @@
         {
           "scid": "an10.172:15.4",
           "pli": "musāvādā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of not lying are good results."
+          "en": "And the many skillful qualities fully developed because of not lying are good results."
         },
         {
           "scid": "an10.172:16.1",
@@ -415,7 +415,7 @@
         {
           "scid": "an10.172:16.4",
           "pli": "pisuṇāya vācāya veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of avoiding divisive speech are good results."
+          "en": "And the many skillful qualities fully developed because of avoiding divisive speech are good results."
         },
         {
           "scid": "an10.172:17.1",
@@ -435,7 +435,7 @@
         {
           "scid": "an10.172:17.4",
           "pli": "pharusāya vācāya veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of avoiding harsh speech are good results."
+          "en": "And the many skillful qualities fully developed because of avoiding harsh speech are good results."
         },
         {
           "scid": "an10.172:18.1",
@@ -455,7 +455,7 @@
         {
           "scid": "an10.172:18.4",
           "pli": "samphappalāpā veramaṇipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of avoiding talking nonsense are good results."
+          "en": "And the many skillful qualities fully developed because of avoiding talking nonsense are good results."
         },
         {
           "scid": "an10.172:19.1",
@@ -475,7 +475,7 @@
         {
           "scid": "an10.172:19.4",
           "pli": "anabhijjhāpaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of contentment are good results."
+          "en": "And the many skillful qualities fully developed because of contentment are good results."
         },
         {
           "scid": "an10.172:20.1",
@@ -495,7 +495,7 @@
         {
           "scid": "an10.172:20.4",
           "pli": "abyāpādapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of good will are good results."
+          "en": "And the many skillful qualities fully developed because of good will are good results."
         },
         {
           "scid": "an10.172:21.1",
@@ -515,7 +515,7 @@
         {
           "scid": "an10.172:21.4",
           "pli": "sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of right view are good results."
+          "en": "And the many skillful qualities fully developed because of right view are good results."
         },
         {
           "scid": "an10.172:22.1",
@@ -673,6 +673,7 @@
     "difficulty": null,
     "original_title": "Dutiyaadhamma Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Bad Principles (2nd)",
@@ -680,12 +681,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.172_sujato",
         "segmented": true,
-        "title": "Bad Principles (2nd)"
+        "title": "Bad Principles (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

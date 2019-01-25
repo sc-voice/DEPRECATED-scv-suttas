@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Warriors (2nd)",
@@ -415,7 +415,7 @@
         {
           "scid": "an5.76:11.4",
           "pli": "Maṃsapesūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
-          "en": "a piece of flesh …"
+          "en": "a lump of meat …"
         },
         {
           "scid": "an5.76:11.5",
@@ -465,7 +465,7 @@
         {
           "scid": "an5.76:11.14",
           "pli": "māyasmā sikkhādubbalyaṃ āvikatvā sikkhaṃ paccakkhāya hīnāyāvattī’ti.",
-          "en": "Venerable, please don’t declare your inability to continue training, reject it and disrobe.’"
+          "en": "Venerable, please don’t declare your inability to continue training, reject it and return to a lesser life.’"
         },
         {
           "scid": "an5.76:12.1",
@@ -575,7 +575,7 @@
         {
           "scid": "an5.76:15.4",
           "pli": "Maṃsapesūpamā kāmā vuttā bhagavatā … pe … tiṇukkūpamā kāmā vuttā bhagavatā … aṅgārakāsūpamā kāmā vuttā bhagavatā … supinakūpamā kāmā vuttā bhagavatā … yācitakūpamā kāmā vuttā bhagavatā … rukkhaphalūpamā kāmā vuttā bhagavatā … asisūnūpamā kāmā vuttā bhagavatā … sattisūlūpamā kāmā vuttā bhagavatā … sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo.",
-          "en": "a piece of flesh … a grass torch … a pit of glowing coals … a dream … borrowed goods … fruit on a tree … a butcher’s knife and chopping block … a staking sword … a snake’s head, the Buddha says that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks."
+          "en": "a lump of meat … a grass torch … a pit of glowing coals … a dream … borrowed goods … fruit on a tree … a butcher’s knife and chopping block … a staking sword … a snake’s head, the Buddha says that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks."
         },
         {
           "scid": "an5.76:15.5",
@@ -695,7 +695,7 @@
         {
           "scid": "an5.76:19.1",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti.",
-          "en": "When his mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—he extends it toward knowledge of the ending of defilements."
+          "en": "When his mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—he extends it toward knowledge of the ending of defilements."
         },
         {
           "scid": "an5.76:19.2",
@@ -748,6 +748,7 @@
     "difficulty": null,
     "original_title": "Dutiyayodhājīva Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Warriors (2nd)",
@@ -755,21 +756,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.76_sujato",
         "segmented": true,
-        "title": "Warriors (2nd)"
+        "title": "Warriors (2nd)",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an5.76_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "The Warrior (2)"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "An Adviser for Nuns",
@@ -85,7 +85,7 @@
         {
           "scid": "an8.52:2.3",
           "pli": "Idhānanda, bhikkhu sīlavā hoti … pe … samādāya sikkhati sikkhāpadesu;",
-          "en": "Firstly, a monk is ethical, restrained in the code of conduct, and accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+          "en": "Firstly, a monk is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
         },
         {
           "scid": "an8.52:2.4",
@@ -153,6 +153,7 @@
     "difficulty": null,
     "original_title": "Ovāda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "An Adviser for Nuns",
@@ -160,12 +161,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an8.52_sujato",
         "segmented": true,
-        "title": "An Adviser for Nuns"
+        "title": "An Adviser for Nuns",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

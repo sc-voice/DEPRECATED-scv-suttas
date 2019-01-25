@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Susīma",
@@ -315,7 +315,7 @@
         {
           "scid": "sn2.29:8.1",
           "pli": "Seyyathāpi nāma maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato paṇḍukambale nikkhitto bhāsate ca tapate ca virocati ca;",
-          "en": "Suppose there was a beryl gem that was naturally beautiful, eight-faceted, with expert workmanship. When placed on a cream rug it would shine and glow and radiate."
+          "en": "Suppose there was a beryl gem that was naturally beautiful, eight-faceted, well-worked. When placed on a cream rug it would shine and glow and radiate."
         },
         {
           "scid": "sn2.29:8.2",
@@ -325,7 +325,7 @@
         {
           "scid": "sn2.29:9.1",
           "pli": "Seyyathāpi nāma nikkhaṃ jambonadaṃ dakkhakammāraputtaukkāmukhasukusalasampahaṭṭhaṃ paṇḍukambale nikkhittaṃ bhāsate ca tapate ca virocati ca;",
-          "en": "Suppose there was an ornament of rare gold, fashioned by an expert smith, expertly wrought in the forge. When placed on a cream rug it would shine and glow and radiate."
+          "en": "Suppose there was an ornament of rare gold, fashioned by an expert smith, well wrought in the forge. When placed on a cream rug it would shine and glow and radiate."
         },
         {
           "scid": "sn2.29:9.2",
@@ -423,6 +423,7 @@
     "difficulty": null,
     "original_title": "Susima Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Susīma",
@@ -430,12 +431,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn2.29_sujato",
         "segmented": true,
-        "title": "With Susīma"
+        "title": "With Susīma",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

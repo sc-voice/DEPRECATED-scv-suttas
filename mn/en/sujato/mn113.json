@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Good Person",
@@ -835,7 +835,7 @@
         {
           "scid": "mn113:21.8",
           "pli": "Yena yena hi maññanti tato taṃ hoti aññathā’ti.",
-          "en": "For however they conceive it, it turns out to be something else.’"
+          "en": "For whatever they think it is, it turns out to be something else.’"
         },
         {
           "scid": "mn113:21.9",
@@ -895,7 +895,7 @@
         {
           "scid": "mn113:22-24.10",
           "pli": "Yena yena hi maññanti tato taṃ hoti aññathā’ti.",
-          "en": "For however they conceive it, it turns out to be something else.’"
+          "en": "For whatever they think it is, it turns out to be something else.’"
         },
         {
           "scid": "mn113:22-24.11",
@@ -1095,7 +1095,7 @@
         {
           "scid": "mn113:28.8",
           "pli": "Yena yena hi maññanti tato taṃ hoti aññathā’ti.",
-          "en": "For however they conceive it, it turns out to be something else.’"
+          "en": "For whatever they think it is, it turns out to be something else.’"
         },
         {
           "scid": "mn113:28.9",
@@ -1115,7 +1115,7 @@
         {
           "scid": "mn113:29.2",
           "pli": "Ayaṃ, bhikkhave, bhikkhu na kiñci maññati, na kuhiñci maññati, na kenaci maññatī”ti. (27)",
-          "en": "This is a mendicant who does not conceive anything, does not conceive regarding anything, does not conceive with anything.”"
+          "en": "This is a mendicant who does not identify with anything, does not identify regarding anything, does not identify through anything.”"
         },
         {
           "scid": "mn113:29.3",
@@ -1153,6 +1153,7 @@
     "difficulty": 2,
     "original_title": "Sappurisa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Good Person",
@@ -1160,12 +1161,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn113_sujato",
         "segmented": true,
-        "title": "A Good Person"
+        "title": "A Good Person",
+        "volpage": null
       }
     ],
     "parallel_count": 3,

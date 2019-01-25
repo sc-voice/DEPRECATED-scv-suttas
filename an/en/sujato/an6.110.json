@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Perceptions",
@@ -90,7 +90,7 @@
         {
           "scid": "an6.110:1.7",
           "pli": "Kāmasaññāya pahānāya nekkhammasaññā bhāvetabbā, byāpādasaññāya pahānāya abyāpādasaññā bhāvetabbā, vihiṃsāsaññāya pahānāya avihiṃsāsaññā bhāvetabbā.",
-          "en": "You should develop perceptions of renunciation to give up sensual perceptions, perceptions of love to give up malicious perceptions, and perceptions of kindness to give up cruel perceptions."
+          "en": "You should develop perceptions of renunciation to give up sensual perceptions, perceptions of good will to give up malicious perceptions, and perceptions of harmlessness to give up cruel perceptions."
         },
         {
           "scid": "an6.110:1.8",
@@ -123,6 +123,7 @@
     "difficulty": null,
     "original_title": "Saññā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Perceptions",
@@ -130,12 +131,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.110_sujato",
         "segmented": true,
-        "title": "Perceptions"
+        "title": "Perceptions",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

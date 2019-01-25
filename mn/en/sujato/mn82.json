@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Raṭṭhapāla",
@@ -715,7 +715,7 @@
         {
           "scid": "mn82:18.4",
           "pli": "Atha kho āyasmato raṭṭhapālassa ñātidāsī taṃ ābhidosikaṃ kummāsaṃ āyasmato raṭṭhapālassa patte ākirantī hatthānañca pādānañca sarassa ca nimittaṃ aggahesi.",
-          "en": "As she was pouring the porridge into his bowl, she recognized the details of his hands, feet, and voice."
+          "en": "As she was pouring the porridge into his bowl, she recognized the features of his hands, feet, and voice."
         },
         {
           "scid": "mn82:18.5",
@@ -815,7 +815,7 @@
         {
           "scid": "mn82:20.1",
           "pli": "Atha kho āyasmato raṭṭhapālassa pitā āyasmato raṭṭhapālassa adhivāsanaṃ viditvā yena sakaṃ nivesanaṃ tenupasaṅkami; upasaṅkamitvā mahantaṃ hiraññasuvaṇṇassa puñjaṃ kārāpetvā kilañjehi paṭicchādetvā āyasmato raṭṭhapālassa purāṇadutiyikā āmantesi:",
-          "en": "Then, knowing that Raṭṭhapāla had accepted, his father went back to his own house. He made a heap of gold coins and bullion and hid it under mats. Then he addressed Raṭṭhapāla’s former wives:"
+          "en": "Then, knowing that Raṭṭhapāla had consented, his father went back to his own house. He made a heap of gold coins and bullion and hid it under mats. Then he addressed Raṭṭhapāla’s former wives:"
         },
         {
           "scid": "mn82:20.2",
@@ -945,12 +945,12 @@
         {
           "scid": "mn82:25.6",
           "pli": "maṇinā kuṇḍalena ca;",
-          "en": "with gems and earrings,"
+          "en": "with its gems and earrings;"
         },
         {
           "scid": "mn82:25.7",
           "pli": "Aṭṭhi tacena onaddhaṃ,",
-          "en": "bones wrapped in skin,"
+          "en": "it is bones wrapped in skin,"
         },
         {
           "scid": "mn82:25.8",
@@ -970,7 +970,7 @@
         {
           "scid": "mn82:25.11",
           "pli": "Alaṃ bālassa mohāya,",
-          "en": "is enough to beguile a fool,"
+          "en": "may be enough to beguile a fool,"
         },
         {
           "scid": "mn82:25.12",
@@ -985,12 +985,12 @@
         {
           "scid": "mn82:25.14",
           "pli": "nettā añjanamakkhitā;",
-          "en": "and eyeliner,"
+          "en": "and eyeliner"
         },
         {
           "scid": "mn82:25.15",
           "pli": "Alaṃ bālassa mohāya,",
-          "en": "is enough to beguile a fool,"
+          "en": "may be enough to beguile a fool,"
         },
         {
           "scid": "mn82:25.16",
@@ -1010,7 +1010,7 @@
         {
           "scid": "mn82:25.19",
           "pli": "Alaṃ bālassa mohāya,",
-          "en": "is enough to beguile a fool,"
+          "en": "may be enough to beguile a fool,"
         },
         {
           "scid": "mn82:25.20",
@@ -2105,7 +2105,7 @@
         {
           "scid": "mn82:42.34",
           "pli": "Dhīro ca na vedhati phassaphuṭṭho.",
-          "en": "but the wise don’t tremble at the touch."
+          "en": "while the wise don’t tremble at the touch."
         },
         {
           "scid": "mn82:42.35",
@@ -2233,6 +2233,7 @@
     "difficulty": 1,
     "original_title": "Raṭṭhapāla Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Raṭṭhapāla",
@@ -2240,35 +2241,44 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn82_sujato",
         "segmented": true,
-        "title": "With Raṭṭhapāla"
-      },
-      {
-        "author": "I.B. Horner",
-        "author_short": "Horner",
-        "author_uid": "horner",
-        "id": "en_mn82_horner",
-        "lang": "en",
-        "lang_name": "English",
-        "segmented": false,
-        "title": "Discourse with Raṭṭhapāla"
+        "title": "With Raṭṭhapāla",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn82_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "On Raṭṭhapāla"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn82_horner",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2018",
+        "segmented": false,
+        "volpage": null,
+        "title": "Discourse with Raṭṭhapāla"
       }
     ],
-    "parallel_count": 33,
+    "parallel_count": 37,
     "biblio": null,
     "num": 2
   }

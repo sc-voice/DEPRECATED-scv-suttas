@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Rolling Forth the Wheel of Dhamma",
@@ -140,7 +140,7 @@
         {
           "scid": "sn56.11:4.7",
           "pli": "yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.",
-          "en": "It’s the fading away and cessation of that very same craving with nothing left over; giving it away, letting it go, releasing it, and not clinging to it."
+          "en": "It’s the fading away and cessation of that very same craving with nothing left over; giving it away, letting it go, releasing it, and not adhering to it."
         },
         {
           "scid": "sn56.11:4.8",
@@ -220,12 +220,12 @@
         {
           "scid": "sn56.11:9.1",
           "pli": "Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ.",
-          "en": "As long as my true knowledge and vision about these four noble truths was not fully purified in these three perspectives and twelve aspects, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans."
+          "en": "As long as my true knowledge and vision about these four noble truths was not fully purified in these three perspectives and twelve respects, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans."
         },
         {
           "scid": "sn56.11:10.1",
           "pli": "Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ.",
-          "en": "But when my true knowledge and vision about these four noble truths was fully purified in these three perspectives and twelve aspects, I announced my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans."
+          "en": "But when my true knowledge and vision about these four noble truths was fully purified in these three perspectives and twelve respects, I announced my supreme perfect awakening in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans."
         },
         {
           "scid": "sn56.11:10.2",
@@ -305,7 +305,7 @@
         {
           "scid": "sn56.11:12.10",
           "pli": "brahmakāyikā devā saddamanussāvesuṃ:",
-          "en": "the Gods of Brahmā’s Group raised the cry:"
+          "en": "the Gods of Brahmā’s Host raised the cry:"
         },
         {
           "scid": "sn56.11:12.11",
@@ -325,7 +325,7 @@
         {
           "scid": "sn56.11:14.1",
           "pli": "Atha kho bhagavā imaṃ udānaṃ udānesi:",
-          "en": "Then the Buddha spoke these words of inspiration:"
+          "en": "Then the Buddha was inspired to exclaim:"
         },
         {
           "scid": "sn56.11:14.2",
@@ -363,6 +363,7 @@
     "difficulty": null,
     "original_title": "Dhammacakkappavattana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Rolling Forth the Wheel of Dhamma",
@@ -370,21 +371,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn56.11_sujato",
         "segmented": true,
-        "title": "Rolling Forth the Wheel of Dhamma"
+        "title": "Rolling Forth the Wheel of Dhamma",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn56.11_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Setting in Motion the Wheel of the Dhamma"
       }
     ],

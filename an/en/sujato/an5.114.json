@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "At Andhakavinda",
@@ -80,12 +80,12 @@
         {
           "scid": "an5.114:2.3",
           "pli": "‘Etha tumhe, āvuso, sīlavā hotha, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā aṇumattesu vajjesu bhayadassāvino, samādāya sikkhatha sikkhāpadesū’ti—iti pātimokkhasaṃvare samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
-          "en": "They should be encouraged, supported, and established in restraint in the monastic code: ‘Reverends, please be ethical. Live restrained in the code of conduct, accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, keep the rules you’ve undertaken.’"
+          "en": "They should be encouraged, supported, and established in restraint in the monastic code: ‘Reverends, please be ethical. Live restrained in the code of conduct, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken.’"
         },
         {
           "scid": "an5.114:3.1",
           "pli": "‘Etha tumhe, āvuso, indriyesu guttadvārā viharatha ārakkhasatino nipakkasatino, sārakkhitamānasā satārakkhena cetasā samannāgatā’ti—iti indriyasaṃvare samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
-          "en": "They should be encouraged, supported, and established in sense restraint: ‘Reverends, please live with sense doors guarded, under mindful protection and discipline, with protected mind, having a heart protected by mindfulness.’"
+          "en": "They should be encouraged, supported, and established in sense restraint: ‘Reverends, please live with sense doors guarded, mindfully alert and on guard, with protected mind, having a heart protected by mindfulness.’"
         },
         {
           "scid": "an5.114:4.1",
@@ -133,6 +133,7 @@
     "difficulty": null,
     "original_title": "Andhakavinda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "At Andhakavinda",
@@ -140,21 +141,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.114_sujato",
         "segmented": true,
-        "title": "At Andhakavinda"
+        "title": "At Andhakavinda",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an5.114_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "At Andhakavinda"
       }
     ],

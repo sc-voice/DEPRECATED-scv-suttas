@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Elements of Escape",
@@ -100,7 +100,7 @@
         {
           "scid": "an5.200:2.2",
           "pli": "Abyāpādaṃ kho panassa manasikaroto abyāpāde cittaṃ pakkhandati pasīdati santiṭṭhati vimuccati.",
-          "en": "But when they focus on love, their mind is eager …"
+          "en": "But when they focus on good will, their mind is eager …"
         },
         {
           "scid": "an5.200:2.3",
@@ -195,7 +195,7 @@
         {
           "scid": "an5.200:6.1",
           "pli": "Tassa kāmanandīpi nānuseti, byāpādanandīpi nānuseti, vihesānandīpi nānuseti, rūpanandīpi nānuseti, sakkāyanandīpi nānuseti so kāmanandiyāpi ananusayā, byāpādanandiyāpi ananusayā, vihesānandiyāpi ananusayā, rūpanandiyāpi ananusayā, sakkāyanandiyāpi ananusayā.",
-          "en": "Delight in sensual pleasures, ill will, harming, form, and identity don’t lie within them."
+          "en": "Delight in sensual pleasures, ill will, harming, form, and identity don’t linger within them."
         },
         {
           "scid": "an5.200:6.2",
@@ -263,6 +263,7 @@
     "difficulty": null,
     "original_title": "Nissāraṇīya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Elements of Escape",
@@ -270,21 +271,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.200_sujato",
         "segmented": true,
-        "title": "Elements of Escape"
+        "title": "Elements of Escape",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an5.200_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Leading to Escape"
       }
     ],

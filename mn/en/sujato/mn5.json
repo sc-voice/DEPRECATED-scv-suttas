@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Unblemished",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Fear and Terror",
+      "name": "Fear and Dread",
       "uid": "mn4"
     }
   },
@@ -230,7 +230,7 @@
         {
           "scid": "mn5:6.1",
           "pli": "Tatrāvuso, yvāyaṃ puggalo anaṅgaṇova samāno ‘natthi me ajjhattaṃ aṅgaṇan’ti yathābhūtaṃ nappajānāti, tassetaṃ pāṭikaṅkhaṃ—subhanimittaṃ manasi karissati, tassa subhanimittassa manasikārā rāgo cittaṃ anuddhaṃsessati;",
-          "en": "Take the case of the person who doesn’t have a blemish but does not understand it. You can expect that they will focus on the aspect of beauty, and because of that, lust will infect their mind."
+          "en": "Take the case of the person who doesn’t have a blemish but does not understand it. You can expect that they will focus on the feature of beauty, and because of that, lust will infect their mind."
         },
         {
           "scid": "mn5:6.2",
@@ -260,7 +260,7 @@
         {
           "scid": "mn5:6.7",
           "pli": "“Evameva kho, āvuso, yvāyaṃ puggalo anaṅgaṇova samāno ‘natthi me ajjhattaṃ aṅgaṇan’ti yathābhūtaṃ nappajānāti, tassetaṃ pāṭikaṅkhaṃ—subhanimittaṃ manasi karissati, tassa subhanimittassa manasikārā rāgo cittaṃ anuddhaṃsessati;",
-          "en": "“In the same way, take the case of the person who has a blemish and does not understand it. You can expect that …"
+          "en": "“In the same way, take the case of the person who has no blemish and does not understand it. You can expect that …"
         },
         {
           "scid": "mn5:6.8",
@@ -270,7 +270,7 @@
         {
           "scid": "mn5:7.1",
           "pli": "Tatrāvuso, yvāyaṃ puggalo anaṅgaṇova samāno ‘natthi me ajjhattaṃ aṅgaṇan’ti yathābhūtaṃ pajānāti, tassetaṃ pāṭikaṅkhaṃ—subhanimittaṃ na manasi karissati, tassa subhanimittassa amanasikārā rāgo cittaṃ nānuddhaṃsessati;",
-          "en": "Take the case of the person who doesn’t have a blemish and does understand it. You can expect that they won’t focus on the aspect of beauty, and because of that, lust won’t infect their mind."
+          "en": "Take the case of the person who doesn’t have a blemish and does understand it. You can expect that they won’t focus on the feature of beauty, and because of that, lust won’t infect their mind."
         },
         {
           "scid": "mn5:7.2",
@@ -1078,6 +1078,7 @@
     "difficulty": 1,
     "original_title": "Anaṅgaṇa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Unblemished",
@@ -1085,21 +1086,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn5_sujato",
         "segmented": true,
-        "title": "Unblemished"
+        "title": "Unblemished",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn5_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on No Blemishes"
       }
     ],

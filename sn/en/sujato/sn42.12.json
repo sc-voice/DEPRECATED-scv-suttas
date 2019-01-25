@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Rāsiya",
@@ -75,7 +75,7 @@
         {
           "scid": "sn42.12:1.4",
           "pli": "“Ye te, gāmaṇi, evamāhaṃsu: ‘samaṇo gotamo sabbaṃ tapaṃ garahati, sabbaṃ tapassiṃ lūkhajīviṃ ekaṃsena upavadati upakkosatī’ti, na me te vuttavādino, abbhācikkhanti ca pana maṃ te asatā tucchā abhūtena.",
-          "en": "“Chief, those who say this do not repeat what I have said. They misrepresent me with what is false, baseless, and untrue."
+          "en": "“Chief, those who say this do not repeat what I have said. They misrepresent me with what is false, hollow, and untrue."
         },
         {
           "scid": "sn42.12:2.1",
@@ -210,7 +210,7 @@
         {
           "scid": "sn42.12:5.7",
           "pli": "Te ca bhoge gadhito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjati.",
-          "en": "They enjoy that wealth tied, stupefied, attached, blind to the drawbacks, and not understanding the escape."
+          "en": "They enjoy that wealth tied, infatuated, attached, blind to the drawbacks, and not understanding the escape."
         },
         {
           "scid": "sn42.12:5.8",
@@ -225,7 +225,7 @@
         {
           "scid": "sn42.12:5.10",
           "pli": "Te ca bhoge agadhito amucchito anajjhopanno ādīnavadassāvī nissaraṇapañño paribhuñjati. (7–9.)",
-          "en": "And they enjoy that wealth untied, unstupefied, unattached, seeing the drawbacks, and understanding the escape."
+          "en": "And they enjoy that wealth untied, uninfatuated, unattached, seeing the drawbacks, and understanding the escape."
         },
         {
           "scid": "sn42.12:6.1",
@@ -560,7 +560,7 @@
         {
           "scid": "sn42.12:14.1",
           "pli": "Tatra, gāmaṇi, yvāyaṃ kāmabhogī dhammena bhoge pariyesati asāhasena, dhammena bhoge pariyesitvā asāhasena attānaṃ sukheti pīṇeti saṃvibhajati puññāni karoti, te ca bhoge gadhito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjati.",
-          "en": "Now, consider the pleasure seeker who seeks wealth using legitimate, non-coercive means, and who makes themselves happy and pleased, and shares it and makes merit. But they enjoy that wealth tied, stupefied, attached, blind to the drawbacks, and not understanding the escape."
+          "en": "Now, consider the pleasure seeker who seeks wealth using legitimate, non-coercive means, and who makes themselves happy and pleased, and shares it and makes merit. But they enjoy that wealth tied, infatuated, attached, blind to the drawbacks, and not understanding the escape."
         },
         {
           "scid": "sn42.12:14.2",
@@ -595,7 +595,7 @@
         {
           "scid": "sn42.12:14.8",
           "pli": "Te ca bhoge gadhito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjatīti, iminā ekena ṭhānena gārayho.",
-          "en": "They enjoy that wealth tied, stupefied, attached, blind to the drawbacks, and not understanding the escape. This is the one ground for criticism."
+          "en": "They enjoy that wealth tied, infatuated, attached, blind to the drawbacks, and not understanding the escape. This is the one ground for criticism."
         },
         {
           "scid": "sn42.12:14.9",
@@ -610,7 +610,7 @@
         {
           "scid": "sn42.12:15.2",
           "pli": "Te ca bhoge agadhito amucchito anajjhopanno ādīnavadassāvī nissaraṇapañño paribhuñjati.",
-          "en": "And they enjoy that wealth untied, unstupefied, unattached, seeing the drawbacks, and understanding the escape."
+          "en": "And they enjoy that wealth untied, uninfatuated, unattached, seeing the drawbacks, and understanding the escape."
         },
         {
           "scid": "sn42.12:15.3",
@@ -640,7 +640,7 @@
         {
           "scid": "sn42.12:15.8",
           "pli": "Te ca bhoge agadhito amucchito anajjhopanno ādīnavadassāvī nissaraṇapañño paribhuñjatīti, iminā catutthena ṭhānena pāsaṃso.",
-          "en": "They enjoy that wealth untied, unstupefied, unattached, seeing the drawbacks, and understanding the escape. This is the fourth ground for praise."
+          "en": "They enjoy that wealth untied, uninfatuated, unattached, seeing the drawbacks, and understanding the escape. This is the fourth ground for praise."
         },
         {
           "scid": "sn42.12:15.9",
@@ -908,6 +908,7 @@
     "difficulty": null,
     "original_title": "Rāsiya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Rāsiya",
@@ -915,12 +916,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn42.12_sujato",
         "segmented": true,
-        "title": "With Rāsiya"
+        "title": "With Rāsiya",
+        "volpage": null
       }
     ],
     "parallel_count": 4,

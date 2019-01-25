@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Underlying Tendencies",
+    "title": "Underlying Tendencies (1st)",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Tendencies",
+      "name": "Underlying Tendencies (2nd)",
       "uid": "an7.12"
     },
     "previous": {
@@ -43,7 +43,7 @@
         {
           "scid": "an7.11:0.3",
           "pli": "11. Paṭhamaanusayasutta",
-          "en": "11. Underlying Tendencies"
+          "en": "11. Underlying Tendencies (1st)"
         }
       ],
       "type": "Section",
@@ -103,28 +103,35 @@
     "difficulty": null,
     "original_title": "Paṭhamaanusaya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Underlying Tendencies",
+    "translated_title": "Underlying Tendencies (1st)",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.11_sujato",
         "segmented": true,
-        "title": "Underlying Tendencies"
+        "title": "Underlying Tendencies (1st)",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an7.11_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Obsessions (1)"
       }
     ],

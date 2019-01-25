@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Bull Elephant",
@@ -175,7 +175,7 @@
         {
           "scid": "sn20.9:4.4",
           "pli": "Te taṃ lābhaṃ agadhitā amucchitā anajjhopannā ādīnavadassāvino nissaraṇapaññā paribhuñjanti.",
-          "en": "And when they get things, they use them untied, unstupefied, unattached, seeing the drawbacks, and understanding the escape."
+          "en": "And when they get things, they use them untied, uninfatuated, unattached, seeing the drawbacks, and understanding the escape."
         },
         {
           "scid": "sn20.9:4.5",
@@ -200,7 +200,7 @@
         {
           "scid": "sn20.9:4.9",
           "pli": "Te taṃ lābhaṃ gadhitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti.",
-          "en": "But when they get things, they use them tied, stupefied, attached, blind to the drawbacks, not understanding the escape."
+          "en": "But when they get things, they use them tied, infatuated, attached, blind to the drawbacks, not understanding the escape."
         },
         {
           "scid": "sn20.9:4.10",
@@ -215,7 +215,7 @@
         {
           "scid": "sn20.9:4.12",
           "pli": "‘agadhitā amucchitā anajjhopannā ādīnavadassāvino nissaraṇapaññā taṃ lābhaṃ paribhuñjissāmā’ti.",
-          "en": "‘When we get things, we will use them untied, unstupefied, unattached, seeing the drawbacks, and understanding the escape.’"
+          "en": "‘When we get things, we will use them untied, uninfatuated, unattached, seeing the drawbacks, and understanding the escape.’"
         },
         {
           "scid": "sn20.9:4.13",
@@ -248,6 +248,7 @@
     "difficulty": null,
     "original_title": "Nāga Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Bull Elephant",
@@ -255,12 +256,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn20.9_sujato",
         "segmented": true,
-        "title": "A Bull Elephant"
+        "title": "A Bull Elephant",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

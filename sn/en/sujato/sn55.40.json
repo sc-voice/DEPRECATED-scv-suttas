@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Nandiya the Sakyan",
@@ -115,7 +115,7 @@
         {
           "scid": "sn55.40:3.4",
           "pli": "So tena buddhe aveccappasādena santuṭṭho na uttari vāyamati divā pavivekāya, rattiṃ paṭisallānāya.",
-          "en": "They’re content with that confidence, and don’t make a further effort for seclusion by day or solitude by night."
+          "en": "They’re content with that confidence, and don’t make a further effort for solitude by day or retreat by night."
         },
         {
           "scid": "sn55.40:3.5",
@@ -140,7 +140,7 @@
         {
           "scid": "sn55.40:3.9",
           "pli": "Dukkhino cittaṃ na samādhiyati.",
-          "en": "The mind that suffers doesn’t become immersed in samādhi."
+          "en": "When one is suffering, the mind does not become immersed in samādhi."
         },
         {
           "scid": "sn55.40:3.10",
@@ -170,7 +170,7 @@
         {
           "scid": "sn55.40:4.4",
           "pli": "So tehi ariyakantehi sīlehi santuṭṭho na uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya.",
-          "en": "They’re content with that ethical conduct loved by the noble ones, and don’t make a further effort for seclusion by day or solitude by night."
+          "en": "They’re content with that ethical conduct loved by the noble ones, and don’t make a further effort for solitude by day or retreat by night."
         },
         {
           "scid": "sn55.40:4.5",
@@ -195,7 +195,7 @@
         {
           "scid": "sn55.40:4.9",
           "pli": "Dukkhino cittaṃ na samādhiyati.",
-          "en": "The mind that suffers doesn’t become immersed in samādhi."
+          "en": "When one is suffering, the mind does not become immersed in samādhi."
         },
         {
           "scid": "sn55.40:4.10",
@@ -230,7 +230,7 @@
         {
           "scid": "sn55.40:5.4",
           "pli": "So tena buddhe aveccappasādena asantuṭṭho uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya.",
-          "en": "But they’re not content with that confidence, and make a further effort for seclusion by day and solitude by night."
+          "en": "But they’re not content with that confidence, and make a further effort for solitude by day and retreat by night."
         },
         {
           "scid": "sn55.40:5.5",
@@ -285,7 +285,7 @@
         {
           "scid": "sn55.40:6.4",
           "pli": "So tehi ariyakantehi sīlehi asantuṭṭho uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya.",
-          "en": "But they’re not content with that ethical conduct loved by the noble ones, and make a further effort for seclusion by day and solitude by night."
+          "en": "But they’re not content with that ethical conduct loved by the noble ones, and make a further effort for solitude by day and retreat by night."
         },
         {
           "scid": "sn55.40:6.5",
@@ -378,6 +378,7 @@
     "difficulty": null,
     "original_title": "Nandiyasakka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Nandiya the Sakyan",
@@ -385,12 +386,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn55.40_sujato",
         "segmented": true,
-        "title": "Nandiya the Sakyan"
+        "title": "Nandiya the Sakyan",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

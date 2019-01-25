@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Pacetana",
+    "title": "About Pacetana",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "an3.15:0.3",
           "pli": "15. Sacetanasutta",
-          "en": "15. Pacetana"
+          "en": "15. About Pacetana"
         }
       ],
       "type": "Section",
@@ -95,7 +95,7 @@
         {
           "scid": "an3.15:2.3",
           "pli": "‘ito me, samma rathakāra, channaṃ māsānaṃ accayena saṅgāmo bhavissati.",
-          "en": "‘In six month’s time, my good chariot-maker, there will be a battle."
+          "en": "‘In six months’ time, my good chariot-maker, there will be a battle."
         },
         {
           "scid": "an3.15:2.4",
@@ -120,7 +120,7 @@
         {
           "scid": "an3.15:2.8",
           "pli": "‘ito me, samma rathakāra, channaṃ divasānaṃ accayena saṅgāmo bhavissati, niṭṭhitaṃ navaṃ cakkayugan’ti?",
-          "en": "‘In six day’s time there will be a battle. Is my new pair of wheels finished?’"
+          "en": "‘In six days’ time there will be a battle. Is my new pair of wheels finished?’"
         },
         {
           "scid": "an3.15:2.9",
@@ -235,12 +235,12 @@
         {
           "scid": "an3.15:5.5",
           "pli": "Tadāhaṃ, bhikkhave, kusalo dāruvaṅkānaṃ dārudosānaṃ dārukasāvānaṃ.",
-          "en": "Then I was an expert in the crooks, flaws, and defects of wood."
+          "en": "Then I was a skilled in the crooks, flaws, and defects of wood."
         },
         {
           "scid": "an3.15:5.6",
           "pli": "Etarahi kho panāhaṃ, bhikkhave, arahaṃ sammāsambuddho kusalo kāyavaṅkānaṃ kāyadosānaṃ kāyakasāvānaṃ, kusalo vacīvaṅkānaṃ vacīdosānaṃ vacīkasāvānaṃ, kusalo manovaṅkānaṃ manodosānaṃ manokasāvānaṃ.",
-          "en": "Now that I am a perfected one, a fully awakened Buddha, I am an expert in the crooks, flaws, and defects of actions by body, speech, and mind."
+          "en": "Now that I am a perfected one, a fully awakened Buddha, I am a skilled in the crooks, flaws, and defects of actions by body, speech, and mind."
         },
         {
           "scid": "an3.15:5.7",
@@ -293,28 +293,35 @@
     "difficulty": null,
     "original_title": "Sacetana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Pacetana",
+    "translated_title": "About Pacetana",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.15_sujato",
         "segmented": true,
-        "title": "Pacetana"
+        "title": "About Pacetana",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an3.15_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Pacetana"
       }
     ],

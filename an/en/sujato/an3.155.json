@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Morning",
@@ -70,12 +70,12 @@
         {
           "scid": "an3.155:3.1",
           "pli": "Ye, bhikkhave, sattā sāyanhasamayaṃ kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti, susāyanho, bhikkhave, tesaṃ sattānanti.",
-          "en": "Those sentient beings who do good things in the evening by way of body, speech, and mind have a good evening.”"
+          "en": "Those sentient beings who do good things in the evening by way of body, speech, and mind have a good evening."
         },
         {
           "scid": "an3.155:4.1",
           "pli": "Sunakkhattaṃ sumaṅgalaṃ,",
-          "en": "“A good star, a good fortune,"
+          "en": "A good star, a good fortune,"
         },
         {
           "scid": "an3.155:4.2",
@@ -110,7 +110,7 @@
         {
           "scid": "an3.155:5.4",
           "pli": "paṇīdhi te padakkhiṇe;",
-          "en": "worthy aspirations:"
+          "en": "worthy resolutions:"
         },
         {
           "scid": "an3.155:5.5",
@@ -198,6 +198,7 @@
     "difficulty": null,
     "original_title": "Pubbaṇha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Morning",
@@ -205,12 +206,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.155_sujato",
         "segmented": true,
-        "title": "Morning"
+        "title": "Morning",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

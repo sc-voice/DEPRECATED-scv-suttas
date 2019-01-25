@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "A Thousand Aeons",
+    "title": "A Thousand Eons",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "sn52.11:0.3",
           "pli": "11. Kappasahassasutta",
-          "en": "11. A Thousand Aeons"
+          "en": "11. A Thousand Eons"
         }
       ],
       "type": "Section",
@@ -110,7 +110,7 @@
         {
           "scid": "sn52.11:2.9",
           "pli": "Imesañca panāhaṃ, āvuso, catunnaṃ satipaṭṭhānānaṃ bhāvitattā bahulīkatattā kappasahassaṃ anussarāmī”ti.",
-          "en": "And it’s because of developing and cultivating these four kinds of mindfulness meditation that I recollect a thousand aeons.”"
+          "en": "And it’s because of developing and cultivating these four kinds of mindfulness meditation that I recollect a thousand eons.”"
         },
         {
           "scid": "sn52.11:2.10",
@@ -138,19 +138,23 @@
     "difficulty": null,
     "original_title": "Kappasahassa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "A Thousand Aeons",
+    "translated_title": "A Thousand Eons",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn52.11_sujato",
         "segmented": true,
-        "title": "A Thousand Aeons"
+        "title": "A Thousand Eons",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

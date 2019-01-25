@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Absorptions and Insights",
@@ -175,7 +175,7 @@
         {
           "scid": "sn16.9:12.1",
           "pli": "Ahaṃ, bhikkhave, yāvade ākaṅkhāmi parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāmi—sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajānāmi, vītarāgaṃ vā cittaṃ vītarāgaṃ cittanti pajānāmi, sadosaṃ vā cittaṃ … pe … vītadosaṃ vā cittaṃ … samohaṃ vā cittaṃ … vītamohaṃ vā cittaṃ … saṅkhittaṃ vā cittaṃ … vikkhittaṃ vā cittaṃ … mahaggataṃ vā cittaṃ … amahaggataṃ vā cittaṃ … sauttaraṃ vā cittaṃ … anuttaraṃ vā cittaṃ … samāhitaṃ vā cittaṃ … asamāhitaṃ vā cittaṃ … vimuttaṃ vā cittaṃ … avimuttaṃ vā cittaṃ avimuttaṃ cittanti pajānāmi.",
-          "en": "Whenever I want, I understand the minds of other beings and individuals, having comprehended them with my mind. I understand mind with greed as ‘mind with greed’, and mind without greed as ‘mind without greed’; mind with hate … mind without hate … mind with delusion … mind without delusion … contracted mind … scattered mind … expansive mind … unexpansive mind … mind that is not supreme … mind that is supreme … mind immersed in samādhi … mind not immersed in samādhi … freed mind … unfreed mind …"
+          "en": "Whenever I want, I understand the minds of other beings and individuals, having comprehended them with my mind. I understand mind with greed as ‘mind with greed’, and mind without greed as ‘mind without greed’; mind with hate … mind without hate … mind with delusion … mind without delusion … constricted mind … scattered mind … expansive mind … unexpansive mind … mind that is not supreme … mind that is supreme … mind immersed in samādhi … mind not immersed in samādhi … freed mind … unfreed mind …"
         },
         {
           "scid": "sn16.9:12.2",
@@ -185,7 +185,7 @@
         {
           "scid": "sn16.9:13.1",
           "pli": "Ahaṃ, bhikkhave, yāvade ākaṅkhāmi anekavihitaṃ pubbenivāsaṃ anussarāmi, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi, anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe: ‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarāmi.",
-          "en": "Whenever I want, I recollect my many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world evolving, many eons of the world contracting and evolving. I remember: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so I recollect my many kinds of past lives, with features and details."
+          "en": "Whenever I want, I recollect my many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. I remember: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so I recollect my many kinds of past lives, with features and details."
         },
         {
           "scid": "sn16.9:13.2",
@@ -238,6 +238,7 @@
     "difficulty": null,
     "original_title": "Jhānābhiñña Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Absorptions and Insights",
@@ -245,21 +246,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn16.9_sujato",
         "segmented": true,
-        "title": "Absorptions and Insights"
+        "title": "Absorptions and Insights",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn16.9_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Jhanas and Direct Knowledges"
       }
     ],

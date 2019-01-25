@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "At Kīṭāgiri",
@@ -160,7 +160,7 @@
         {
           "scid": "mn70:5.1",
           "pli": "Yato kho te bhikkhū nāsakkhiṃsu assajipunabbasuke bhikkhū saññāpetuṃ, atha yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
-          "en": "Since those mendicants were unable to convince the mendicants who were followers of Assaji and Punabbasuka, they approached the Buddha, bowed, sat down to one side, and told him what had happened. Then they said:"
+          "en": "Since those mendicants were unable to convince the mendicants who were followers of Assaji and Punabbasuka, they approached the Buddha, bowed, sat down to one side, and told him what had happened."
         },
         {
           "scid": "mn70:5.2",
@@ -575,7 +575,7 @@
         {
           "scid": "mn70:14.3",
           "pli": "Ubhatobhāgavimutto, paññāvimutto, kāyasakkhi, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī.",
-          "en": "One freed both ways, one freed by wisdom, a direct witness, one attained to view, one freed by faith, a follower of the teachings, and a follower by faith."
+          "en": "One freed both ways, one freed by wisdom, a personal witness, one attained to view, one freed by faith, a follower of the teachings, and a follower by faith."
         },
         {
           "scid": "mn70:15.1",
@@ -650,7 +650,7 @@
         {
           "scid": "mn70:17.1",
           "pli": "Katamo ca, bhikkhave, puggalo kāyasakkhi?",
-          "en": "And what person is a direct witness?"
+          "en": "And what person is a personal witness?"
         },
         {
           "scid": "mn70:17.2",
@@ -660,7 +660,7 @@
         {
           "scid": "mn70:17.3",
           "pli": "Ayaṃ vuccati, bhikkhave, puggalo kāyasakkhi.",
-          "en": "This person is called a direct witness."
+          "en": "This person is called a personal witness."
         },
         {
           "scid": "mn70:17.4",
@@ -875,7 +875,7 @@
         {
           "scid": "mn70:23.2",
           "pli": "Idha, bhikkhave, saddhājāto upasaṅkamati, upasaṅkamanto payirupāsati, payirupāsanto sotaṃ odahati, ohitasoto dhammaṃ suṇāti, sutvā dhammaṃ dhāreti, dhatānaṃ dhammānaṃ atthaṃ upaparikkhati, atthaṃ upaparikkhato dhammā nijjhānaṃ khamanti, dhammanijjhānakkhantiyā sati chando jāyati, chandajāto ussahati, ussāhetvā tuleti, tulayitvā padahati, pahitatto samāno kāyena ceva paramasaccaṃ sacchikaroti, paññāya ca naṃ ativijjha passati.",
-          "en": "It’s when someone in whom faith has arisen approaches a teacher. They pay homage, lend an ear, hear the teachings, remember the teachings, reflect on their meaning, and accept them after consideration. Then enthusiasm springs up; they make an effort, scrutinize, and persevere. Persevering, they directly realize the ultimate truth, and see it with penetrating wisdom."
+          "en": "It’s when someone in whom faith has arisen approaches a teacher. They pay homage, lend an ear, hear the teachings, remember the teachings, reflect on their meaning, and accept them after consideration. Then enthusiasm springs up; they make an effort, weigh up, and persevere. Persevering, they directly realize the ultimate truth, and see it with penetrating wisdom."
         },
         {
           "scid": "mn70:24.1",
@@ -930,7 +930,7 @@
         {
           "scid": "mn70:24.11",
           "pli": "sāpi nāma, bhikkhave, tulanā nāhosi;",
-          "en": "that scrutiny,"
+          "en": "that weighing up,"
         },
         {
           "scid": "mn70:24.12",
@@ -1073,6 +1073,7 @@
     "difficulty": 2,
     "original_title": "Kīṭāgiri Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "At Kīṭāgiri",
@@ -1080,11 +1081,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn70_sujato",
         "segmented": true,
+        "title": "At Kīṭāgiri",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_mn70_bodhi",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2009",
+        "segmented": false,
+        "volpage": null,
         "title": "At Kīṭāgiri"
       },
       {
@@ -1092,20 +1109,13 @@
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn70_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse at Kīṭāgiri"
-      },
-      {
-        "author": "Bhikkhu Bodhi",
-        "author_short": "Bodhi",
-        "author_uid": "bodhi",
-        "id": "en_mn70_bodhi",
-        "lang": "en",
-        "lang_name": "English",
-        "segmented": false,
-        "title": "At Kīṭāgiri"
       }
     ],
     "parallel_count": 3,

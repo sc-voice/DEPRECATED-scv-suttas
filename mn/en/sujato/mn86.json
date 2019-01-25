@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Aṅgulimāla",
@@ -310,7 +310,7 @@
         {
           "scid": "mn86:6.8",
           "pli": "Tuvañca pāṇesu asaññatosi,",
-          "en": "But you’re uncontrolled towards living creatures;"
+          "en": "But you can’t stop yourself from harming living creatures;"
         },
         {
           "scid": "mn86:6.9",
@@ -320,7 +320,7 @@
         {
           "scid": "mn86:6.10",
           "pli": "“Cirassaṃ vata me mahito mahesī,",
-          "en": "“Oh, at long last an ascetic,"
+          "en": "“Oh, at long last a hermit,"
         },
         {
           "scid": "mn86:6.11",
@@ -355,12 +355,12 @@
         {
           "scid": "mn86:6.17",
           "pli": "Tattheva naṃ pabbajjaṃ ayāci.",
-          "en": "and asked for the going forth right there."
+          "en": "and asked him for the going forth right away."
         },
         {
           "scid": "mn86:6.18",
           "pli": "Buddho ca kho kāruṇiko mahesi,",
-          "en": "Then the Buddha, the compassionate great sage,"
+          "en": "Then the Buddha, the compassionate great hermit,"
         },
         {
           "scid": "mn86:6.19",
@@ -755,7 +755,7 @@
         {
           "scid": "mn86:18.2",
           "pli": "tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:",
-          "en": "On that occasion he spoke these words of inspiration:"
+          "en": "On that occasion he was inspired to exclaim:"
         },
         {
           "scid": "mn86:18.3",
@@ -785,7 +785,7 @@
         {
           "scid": "mn86:18.8",
           "pli": "kusalena pidhīyati;",
-          "en": "closes the door on bad things they’ve done,"
+          "en": "shuts the door on bad things they’ve done,"
         },
         {
           "scid": "mn86:18.9",
@@ -870,12 +870,12 @@
         {
           "scid": "mn86:18.25",
           "pli": "Pappuyya paramaṃ santiṃ,",
-          "en": "Protecting creatures firm and fragile,"
+          "en": "Having arrived at ultimate peace,"
         },
         {
           "scid": "mn86:18.26",
           "pli": "rakkheyya tasathāvare.",
-          "en": "they’d attain ultimate peace."
+          "en": "they’d look after creatures firm and frail."
         },
         {
           "scid": "mn86:18.27",
@@ -890,7 +890,7 @@
         {
           "scid": "mn86:18.29",
           "pli": "Dāruṃ namayanti tacchakā,",
-          "en": "carpenters shape timber—"
+          "en": "carpenters carve timber—"
         },
         {
           "scid": "mn86:18.30",
@@ -1103,6 +1103,7 @@
     "difficulty": 1,
     "original_title": "Aṅgulimāla Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Aṅgulimāla",
@@ -1110,21 +1111,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn86_sujato",
         "segmented": true,
-        "title": "With Aṅgulimāla"
+        "title": "With Aṅgulimāla",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn86_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2018",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse with Aṅgulimāla"
       }
     ],

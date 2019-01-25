@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Sāriputta",
@@ -160,12 +160,12 @@
         {
           "scid": "an3.33:5.2",
           "pli": "dhammatakkapurejavaṃ;",
-          "en": "preceded by investigation of phenomena—"
+          "en": "preceded by investigation of principles—"
         },
         {
           "scid": "an3.33:5.3",
           "pli": "Aññāvimokkhaṃ pabrūmi,",
-          "en": "This, I declare, is liberation by enlightenment,"
+          "en": "this, I declare, is liberation by enlightenment,"
         },
         {
           "scid": "an3.33:5.4",
@@ -198,6 +198,7 @@
     "difficulty": null,
     "original_title": "Sāriputta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Sāriputta",
@@ -205,21 +206,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.33_sujato",
         "segmented": true,
-        "title": "With Sāriputta"
+        "title": "With Sāriputta",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an3.33_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Sāriputta"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Hatthaka",
@@ -135,7 +135,7 @@
         {
           "scid": "an3.35:3.5",
           "pli": "catasso ca pajāpatiyo manāpāmanāpena paccupaṭṭhitā assu.",
-          "en": "while his four wives attend to him in all manner of pleasing ways."
+          "en": "while his four wives attend to him in all manner of agreeable ways."
         },
         {
           "scid": "an3.35:3.6",
@@ -210,12 +210,12 @@
         {
           "scid": "an3.35:7.2",
           "pli": "Tasmāhaṃ sukhamasayitthanti.",
-          "en": "That’s why I sleep well.”"
+          "en": "That’s why I sleep well."
         },
         {
           "scid": "an3.35:8.1",
           "pli": "Sabbadā ve sukhaṃ seti,",
-          "en": "“A brahmin who is fully extinguished"
+          "en": "A brahmin who is fully extinguished"
         },
         {
           "scid": "an3.35:8.2",
@@ -278,6 +278,7 @@
     "difficulty": null,
     "original_title": "Hatthaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Hatthaka",
@@ -285,21 +286,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.35_sujato",
         "segmented": true,
-        "title": "With Hatthaka"
+        "title": "With Hatthaka",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an3.35_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Hatthaka"
       }
     ],

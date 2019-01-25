@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Bakkula",
@@ -250,12 +250,12 @@
         {
           "scid": "mn124:20-25.5",
           "pli": "nābhijānāmi sikkhamānāya dhammaṃ desitā …",
-          "en": "teaching the female interns …"
+          "en": "teaching the trainee nuns …"
         },
         {
           "scid": "mn124:20-25.6",
           "pli": "nābhijānāmi sāmaṇeriyā dhammaṃ desitā …",
-          "en": "teaching the female novices …"
+          "en": "teaching the novice nuns …"
         },
         {
           "scid": "mn124:26-29.1",
@@ -418,6 +418,7 @@
     "difficulty": 2,
     "original_title": "Bākula Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Bakkula",
@@ -425,12 +426,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn124_sujato",
         "segmented": true,
-        "title": "With Bakkula"
+        "title": "With Bakkula",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

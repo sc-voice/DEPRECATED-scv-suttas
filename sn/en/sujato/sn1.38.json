@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Splinter",
@@ -95,7 +95,7 @@
         {
           "scid": "sn1.38:2.2",
           "pli": "Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ udānaṃ udānesi:",
-          "en": "Standing to one side, one deity spoke these words of inspiration in the Buddha’s presence:"
+          "en": "Standing to one side, one deity was inspired to exclaim in the Buddha’s presence:"
         },
         {
           "scid": "sn1.38:2.3",
@@ -110,7 +110,7 @@
         {
           "scid": "sn1.38:3.1",
           "pli": "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:",
-          "en": "Then another deity spoke these words of inspiration in the Buddha’s presence:"
+          "en": "Then another deity was inspired to exclaim in the Buddha’s presence:"
         },
         {
           "scid": "sn1.38:3.2",
@@ -125,7 +125,7 @@
         {
           "scid": "sn1.38:4.1",
           "pli": "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:",
-          "en": "Then another deity spoke these words of inspiration in the Buddha’s presence:"
+          "en": "Then another deity was inspired to exclaim in the Buddha’s presence:"
         },
         {
           "scid": "sn1.38:4.2",
@@ -140,7 +140,7 @@
         {
           "scid": "sn1.38:5.1",
           "pli": "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:",
-          "en": "Then another deity spoke these words of inspiration in the Buddha’s presence:"
+          "en": "Then another deity was inspired to exclaim in the Buddha’s presence:"
         },
         {
           "scid": "sn1.38:5.2",
@@ -155,7 +155,7 @@
         {
           "scid": "sn1.38:6.1",
           "pli": "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:",
-          "en": "Then another deity spoke these words of inspiration in the Buddha’s presence:"
+          "en": "Then another deity was inspired to exclaim in the Buddha’s presence:"
         },
         {
           "scid": "sn1.38:6.2",
@@ -170,7 +170,7 @@
         {
           "scid": "sn1.38:7.1",
           "pli": "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:",
-          "en": "Then another deity spoke these words of inspiration in the Buddha’s presence:"
+          "en": "Then another deity was inspired to exclaim in the Buddha’s presence:"
         },
         {
           "scid": "sn1.38:7.2",
@@ -185,7 +185,7 @@
         {
           "scid": "sn1.38:8.1",
           "pli": "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:",
-          "en": "Then another deity spoke these words of inspiration in the Buddha’s presence:"
+          "en": "Then another deity was inspired to exclaim in the Buddha’s presence:"
         },
         {
           "scid": "sn1.38:8.2",
@@ -298,6 +298,7 @@
     "difficulty": null,
     "original_title": "Sakalika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Splinter",
@@ -305,21 +306,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn1.38_sujato",
         "segmented": true,
-        "title": "A Splinter"
+        "title": "A Splinter",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn1.38_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "The Stone Splinter"
       }
     ],

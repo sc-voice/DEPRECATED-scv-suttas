@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Rebirth by Giving",
@@ -95,7 +95,7 @@
         {
           "scid": "an8.35:1.8",
           "pli": "So taṃ cittaṃ dahati, taṃ cittaṃ adhiṭṭhāti, taṃ cittaṃ bhāveti.",
-          "en": "They settle on that idea, stabilize it and develop it."
+          "en": "They settle on that idea, concentrate on it and develop it."
         },
         {
           "scid": "an8.35:1.9",
@@ -225,7 +225,7 @@
         {
           "scid": "an8.35:3.11",
           "pli": "So taṃ cittaṃ dahati, taṃ cittaṃ adhiṭṭhāti, taṃ cittaṃ bhāveti.",
-          "en": "They settle on that idea, stabilize it and develop it."
+          "en": "They settle on that idea, concentrate on it and develop it."
         },
         {
           "scid": "an8.35:3.12",
@@ -265,7 +265,7 @@
         {
           "scid": "an8.35:4.4",
           "pli": "‘brahmakāyikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti.",
-          "en": "‘The Gods of Brahmā’s Group are long-lived, beautiful, and very happy.’"
+          "en": "‘The Gods of Brahmā’s Host are long-lived, beautiful, and very happy.’"
         },
         {
           "scid": "an8.35:4.5",
@@ -275,12 +275,12 @@
         {
           "scid": "an8.35:4.6",
           "pli": "‘aho vatāhaṃ kāyassa bhedā paraṃ maraṇā brahmakāyikānaṃ devānaṃ sahabyataṃ upapajjeyyan’ti.",
-          "en": "‘If only, when my body breaks up, after death, I would be reborn in the company of the Gods of Brahmā’s Group!’"
+          "en": "‘If only, when my body breaks up, after death, I would be reborn in the company of the Gods of Brahmā’s Host!’"
         },
         {
           "scid": "an8.35:4.7",
           "pli": "So taṃ cittaṃ dahati, taṃ cittaṃ adhiṭṭhāti, taṃ cittaṃ bhāveti.",
-          "en": "They settle on that idea, stabilize it and develop it."
+          "en": "They settle on that idea, concentrate on it and develop it."
         },
         {
           "scid": "an8.35:4.8",
@@ -290,7 +290,7 @@
         {
           "scid": "an8.35:4.9",
           "pli": "Kāyassa bhedā paraṃ maraṇā brahmakāyikānaṃ devānaṃ sahabyataṃ upapajjati.",
-          "en": "When their body breaks up, after death, they’re reborn in the company of the Gods of Brahmā’s Group."
+          "en": "When their body breaks up, after death, they’re reborn in the company of the Gods of Brahmā’s Host."
         },
         {
           "scid": "an8.35:4.10",
@@ -338,6 +338,7 @@
     "difficulty": null,
     "original_title": "Dānūpapatti Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Rebirth by Giving",
@@ -345,21 +346,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an8.35_sujato",
         "segmented": true,
-        "title": "Rebirth by Giving"
+        "title": "Rebirth by Giving",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an8.35_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Rebirth on Account of Giving"
       }
     ],

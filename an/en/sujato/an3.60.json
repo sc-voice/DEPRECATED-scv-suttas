@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Saṅgārava",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Jāṇussoṇi",
+      "name": "With Jāṇussoṇi",
       "uid": "an3.59"
     }
   },
@@ -155,7 +155,7 @@
         {
           "scid": "an3.60:4.4",
           "pli": "“seyyathāpi bhavaṃ gotamo bhavaṃ cānando.",
-          "en": "“Those such as Masters Gotama and Ānanda"
+          "en": "“Those such as the masters Gotama and Ānanda"
         },
         {
           "scid": "an3.60:4.5",
@@ -180,7 +180,7 @@
         {
           "scid": "an3.60:5.4",
           "pli": "Evaṃ kho tyāhaṃ, brāhmaṇa, pucchāmi:",
-          "en": "I asked you,"
+          "en": "I asked you"
         },
         {
           "scid": "an3.60:5.5",
@@ -195,7 +195,7 @@
         {
           "scid": "an3.60:5.7",
           "pli": "“seyyathāpi bhavaṃ gotamo bhavaṃ cānando.",
-          "en": "“Those such as Masters Gotama and Ānanda"
+          "en": "“Those such as the masters Gotama and Ānanda"
         },
         {
           "scid": "an3.60:5.8",
@@ -220,7 +220,7 @@
         {
           "scid": "an3.60:6.4",
           "pli": "Evaṃ kho tyāhaṃ, brāhmaṇa, pucchāmi:",
-          "en": "I asked you,"
+          "en": "I asked you"
         },
         {
           "scid": "an3.60:6.5",
@@ -235,7 +235,7 @@
         {
           "scid": "an3.60:6.7",
           "pli": "“seyyathāpi bhavaṃ gotamo bhavaṃ cānando.",
-          "en": "“Those such as Masters Gotama and Ānanda"
+          "en": "“Those such as the masters Gotama and Ānanda"
         },
         {
           "scid": "an3.60:6.8",
@@ -300,7 +300,7 @@
         {
           "scid": "an3.60:8.3",
           "pli": "Iddhipāṭihāriyaṃ, ādesanāpāṭihāriyaṃ, anusāsanīpāṭihāriyaṃ.",
-          "en": "A demonstration of psychic power, a demonstration of revealing, and an instructional demonstration."
+          "en": "A demonstration of psychic power, a demonstration of revealing, and a demonstration of instruction."
         },
         {
           "scid": "an3.60:8.4",
@@ -390,7 +390,7 @@
         {
           "scid": "an3.60:13.1",
           "pli": "Katamañca, brāhmaṇa, anusāsanīpāṭihāriyaṃ?",
-          "en": "And what is an instructional demonstration?"
+          "en": "And what is a demonstration of instruction?"
         },
         {
           "scid": "an3.60:13.2",
@@ -405,7 +405,7 @@
         {
           "scid": "an3.60:13.4",
           "pli": "Idaṃ vuccati, brāhmaṇa, anusāsanīpāṭihāriyaṃ.",
-          "en": "This is called an instructional demonstration."
+          "en": "This is called a demonstration of instruction."
         },
         {
           "scid": "an3.60:13.5",
@@ -450,7 +450,7 @@
         {
           "scid": "an3.60:15.3",
           "pli": "Idha pana, bho gotama, ekacco na heva kho nimittena ādisati, api ca kho manussānaṃ vā amanussānaṃ vā devatānaṃ vā saddaṃ sutvā ādisati … pe …",
-          "en": "or after hearing it from human, non-humans, or deities,"
+          "en": "or after hearing it from humans, non-humans, or deities,"
         },
         {
           "scid": "an3.60:15.4",
@@ -500,7 +500,7 @@
         {
           "scid": "an3.60:17.2",
           "pli": "Yāvasubhāsitamidaṃ bhotā gotamena imehi ca mayaṃ tīhi pāṭihāriyehi samannāgataṃ bhavantaṃ gotamaṃ dhārema.",
-          "en": "how well said this was said by Master Gotama. We regard Master Gotama as someone who possesses these three kinds of demonstration."
+          "en": "how well this was said by Master Gotama. We regard Master Gotama as someone who possesses these three kinds of demonstration."
         },
         {
           "scid": "an3.60:17.3",
@@ -653,6 +653,7 @@
     "difficulty": null,
     "original_title": "Saṅgārava Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Saṅgārava",
@@ -660,21 +661,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.60_sujato",
         "segmented": true,
-        "title": "With Saṅgārava"
+        "title": "With Saṅgārava",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an3.60_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Saṅgārava"
       }
     ],

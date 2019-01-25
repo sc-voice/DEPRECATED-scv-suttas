@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Guaranteed",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Pacetana",
+      "name": "About Pacetana",
       "uid": "an3.15"
     }
   },
@@ -38,7 +38,7 @@
         {
           "scid": "an3.16:0.2",
           "pli": "2. Rathakāravagga",
-          "en": "2. The Chariotmaker"
+          "en": "2. The Chariot-maker"
         },
         {
           "scid": "an3.16:0.3",
@@ -85,7 +85,7 @@
         {
           "scid": "an3.16:2.3",
           "pli": "Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati.",
-          "en": "If the faculty of sight was left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint."
+          "en": "If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint."
         },
         {
           "scid": "an3.16:2.4",
@@ -130,7 +130,7 @@
         {
           "scid": "an3.16:3.2",
           "pli": "Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso āhāraṃ āhāreti:",
-          "en": "It’s when a mendicant reflects properly on the food that they eat."
+          "en": "It’s when a mendicant reflects properly on the food that they eat:"
         },
         {
           "scid": "an3.16:3.3",
@@ -188,6 +188,7 @@
     "difficulty": null,
     "original_title": "Apaṇṇaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Guaranteed",
@@ -195,21 +196,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.16_sujato",
         "segmented": true,
-        "title": "Guaranteed"
+        "title": "Guaranteed",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an3.16_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "The Unmistaken"
       }
     ],

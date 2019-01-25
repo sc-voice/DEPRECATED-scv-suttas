@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Pāṭaliya",
@@ -360,7 +360,7 @@
         {
           "scid": "sn42.13:8.7",
           "pli": "“Ye pana te tucchaṃ musā vilapanti, sīlavanto vā te dussīlā vā”ti?",
-          "en": "“But those who speak baseless, false nonsense: are they moral or immoral?”"
+          "en": "“But those who speak hollow, false nonsense: are they moral or immoral?”"
         },
         {
           "scid": "sn42.13:8.8",
@@ -690,7 +690,7 @@
         {
           "scid": "sn42.13:14.13",
           "pli": "“Ye pana te tucchaṃ musā vilapanti sīlavanto vā te dussīlā vā”ti?",
-          "en": "“But those who speak baseless, false nonsense: are they moral or immoral?”"
+          "en": "“But those who speak hollow, false nonsense: are they moral or immoral?”"
         },
         {
           "scid": "sn42.13:14.14",
@@ -1558,6 +1558,7 @@
     "difficulty": null,
     "original_title": "Pāṭaliya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Pāṭaliya",
@@ -1565,12 +1566,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn42.13_sujato",
         "segmented": true,
-        "title": "With Pāṭaliya"
+        "title": "With Pāṭaliya",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

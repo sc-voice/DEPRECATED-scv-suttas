@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Murderer",
@@ -90,7 +90,7 @@
         {
           "scid": "an6.87:2.3",
           "pli": "Na mātā jīvitā voropitā hoti, na pitā jīvitā voropito hoti, na arahaṃ jīvitā voropito hoti, na tathāgatassa duṭṭhena cittena lohitaṃ uppāditaṃ hoti, na saṅgho bhinno hoti, paññavā hoti ajaḷo aneḷamūgo.",
-          "en": "They don’t murder their mother or father or a perfected one. They don’t maliciously shed the blood of a Realized One. They don’t cause a schism in the Saṅgha. They’re not witless, dull, and stupid."
+          "en": "They don’t murder their mother or father or a perfected one. They don’t maliciously shed the blood of a Realized One. They don’t cause a schism in the Saṅgha. They’re not wise, bright, and clever."
         },
         {
           "scid": "an6.87:2.4",
@@ -123,6 +123,7 @@
     "difficulty": null,
     "original_title": "Voropita Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Murderer",
@@ -130,21 +131,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.87_sujato",
         "segmented": true,
-        "title": "A Murderer"
+        "title": "A Murderer",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an6.87_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Kamma Obstructions"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Advice from Nandaka",
@@ -85,7 +85,7 @@
         {
           "scid": "mn146:3.1",
           "pli": "Tena kho pana samayena therā bhikkhū bhikkhuniyo ovadanti pariyāyena.",
-          "en": "Now at that time the senior mendicants were taking turns to advise the nuns."
+          "en": "Now at that time the senior monks were taking turns to advise the nuns."
         },
         {
           "scid": "mn146:3.2",
@@ -755,7 +755,7 @@
         {
           "scid": "mn146:10.7",
           "pli": "“Amussa hi, bhante, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ;",
-          "en": "“Because that large tree’s roots, trunk, and branches and leaves are all impermanent and perishable,"
+          "en": "Because that large tree’s roots, trunk, and branches and leaves are all impermanent and perishable,"
         },
         {
           "scid": "mn146:10.8",
@@ -815,7 +815,7 @@
         {
           "scid": "mn146:11.1",
           "pli": "Seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ.",
-          "en": "Suppose an expert butcher or butcher’s apprentice was to kill a cow and carve it with a sharp meat cleaver. Without damaging the flesh inside or the hide outside,"
+          "en": "Suppose a deft butcher or their apprentice was to kill a cow and carve it with a sharp meat cleaver. Without damaging the flesh inside or the hide outside,"
         },
         {
           "scid": "mn146:11.2",
@@ -1808,6 +1808,7 @@
     "difficulty": 2,
     "original_title": "Nandakovāda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Advice from Nandaka",
@@ -1815,21 +1816,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn146_sujato",
         "segmented": true,
-        "title": "Advice from Nandaka"
+        "title": "Advice from Nandaka",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn146_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "Advice from Nandaka"
       }
     ],

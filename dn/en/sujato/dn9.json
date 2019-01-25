@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Poṭṭhapāda",
@@ -725,7 +725,7 @@
         {
           "scid": "dn9:19.4",
           "pli": "“Yathā yathā kho, poṭṭhapāda, nirodhaṃ phusati tathā tathāhaṃ saññaggaṃ paññapemi.",
-          "en": "“I describe the peak of perception according to the specific manner in which one reaches cessation."
+          "en": "“I describe the peak of perception according to the specific manner in which one touches cessation."
         },
         {
           "scid": "dn9:19.5",
@@ -865,7 +865,7 @@
         {
           "scid": "dn9:24.3",
           "pli": "“Dujjānaṃ kho etaṃ, poṭṭhapāda, tayā aññadiṭṭhikena aññakhantikena aññarucikena aññatrāyogena aññatrācariyakena:",
-          "en": "“It’s hard for you to understand this, since you have a different view, creed, belief, practice, and tradition.”"
+          "en": "“It’s hard for you to understand this, since you have a different view, creed, preference, practice, and tradition.”"
         },
         {
           "scid": "dn9:24.4",
@@ -2428,6 +2428,7 @@
     "difficulty": 3,
     "original_title": "Poṭṭhapāda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Poṭṭhapāda",
@@ -2435,21 +2436,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn9_sujato",
         "segmented": true,
-        "title": "With Poṭṭhapāda"
+        "title": "With Poṭṭhapāda",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_dn9_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2003",
         "segmented": false,
+        "volpage": null,
         "title": "To Poṭṭhapada"
       }
     ],

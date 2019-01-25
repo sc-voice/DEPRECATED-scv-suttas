@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Loaded Dice",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Successes and Failures",
+      "name": "Failures and Accomplishments",
       "uid": "an3.117"
     }
   },
@@ -210,7 +210,7 @@
         {
           "scid": "an3.118:8.5",
           "pli": "Sīlasampadāhetu vā, bhikkhave, sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjanti. Cittasampadāhetu vā … pe … diṭṭhisampadāhetu vā, bhikkhave, sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjanti.",
-          "en": "Some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm because of success in ethics, mind, or view."
+          "en": "Some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm because of accomplishment in ethics, mind, or view."
         },
         {
           "scid": "an3.118:8.6",
@@ -220,7 +220,7 @@
         {
           "scid": "an3.118:8.7",
           "pli": "evamevaṃ kho, bhikkhave, sīlasampadāhetu vā sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjanti, cittasampadāhetu vā sattā … pe … diṭṭhisampadāhetu vā sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjanti. Imā kho, bhikkhave, tisso sampadā”ti.",
-          "en": "In the same way, some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm because of success in ethics, mind, or view. These are the three accomplishments.”"
+          "en": "In the same way, some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm because of accomplishment in ethics, mind, or view. These are the three accomplishments.”"
         },
         {
           "scid": "an3.118:8.8",
@@ -248,6 +248,7 @@
     "difficulty": null,
     "original_title": "Apaṇṇaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Loaded Dice",
@@ -255,12 +256,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.118_sujato",
         "segmented": true,
-        "title": "Loaded Dice"
+        "title": "Loaded Dice",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Vassakāra on What is Heard",
@@ -110,22 +110,22 @@
         {
           "scid": "an4.183:2.8",
           "pli": "yo koci viññātaṃ bhāsati—",
-          "en": "There’s nothing wrong with talking about what you’ve cognized, saying:"
+          "en": "There’s nothing wrong with talking about what you’ve known, saying:"
         },
         {
           "scid": "an4.183:2.9",
           "pli": "evaṃ me viññātanti, natthi tato doso’”ti.",
-          "en": "‘So I have cognized.’”"
+          "en": "‘So I have known.’”"
         },
         {
           "scid": "an4.183:3.1",
           "pli": "“Nāhaṃ, brāhmaṇa, sabbaṃ diṭṭhaṃ bhāsitabbanti vadāmi;",
-          "en": "“Brahmin, I don’t say you should talk about everything you see, hear, think, and cognize."
+          "en": "“Brahmin, I don’t say you should talk about everything you see, hear, think, and know."
         },
         {
           "scid": "an4.183:3.2",
           "pli": "na panāhaṃ, brāhmaṇa, sabbaṃ diṭṭhaṃ na bhāsitabbanti vadāmi;",
-          "en": "But I also don’t say you should talk about nothing you see, hear, think, and cognize."
+          "en": "But I also don’t say you should talk about nothing you see, hear, think, and know."
         },
         {
           "scid": "an4.183:3.3",
@@ -160,12 +160,12 @@
         {
           "scid": "an4.183:4.1",
           "pli": "Yañhi, brāhmaṇa, diṭṭhaṃ bhāsato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpaṃ diṭṭhaṃ na bhāsitabbanti vadāmi.",
-          "en": "When talking about certain things you’ve seen, heard, thought, or cognized, unskillful qualities grow while skillful qualities decline. I say that you shouldn’t talk about those things."
+          "en": "When talking about certain things you’ve seen, heard, thought, or known, unskillful qualities grow while skillful qualities decline. I say that you shouldn’t talk about those things."
         },
         {
           "scid": "an4.183:4.2",
           "pli": "Yañca khvassa, brāhmaṇa, diṭṭhaṃ abhāsato kusalā dhammā parihāyanti, akusalā dhammā abhivaḍḍhanti, evarūpaṃ diṭṭhaṃ bhāsitabbanti vadāmi.",
-          "en": "When talking about other things you’ve seen, heard, thought, or cognized, unskillful qualities decline while skillful qualities grow. I say that you should talk about those things.”"
+          "en": "When talking about other things you’ve seen, heard, thought, or known, unskillful qualities decline while skillful qualities grow. I say that you should talk about those things.”"
         },
         {
           "scid": "an4.183:5.1",
@@ -228,6 +228,7 @@
     "difficulty": null,
     "original_title": "Suta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Vassakāra on What is Heard",
@@ -235,21 +236,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.183_sujato",
         "segmented": true,
-        "title": "Vassakāra on What is Heard"
+        "title": "Vassakāra on What is Heard",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an4.183_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "On What is Heard"
       }
     ],

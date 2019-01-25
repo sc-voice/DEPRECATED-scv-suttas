@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Defilements",
@@ -60,7 +60,7 @@
         {
           "scid": "an6.58:1.1",
           "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa.",
-          "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is the supreme field of merit for the world."
+          "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world."
         },
         {
           "scid": "an6.58:2.1",
@@ -285,7 +285,7 @@
         {
           "scid": "an6.58:9.1",
           "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā”ti.",
-          "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is the supreme field of merit for the world.”"
+          "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”"
         },
         {
           "scid": "an6.58:9.2",
@@ -313,6 +313,7 @@
     "difficulty": null,
     "original_title": "Āsava Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Defilements",
@@ -320,12 +321,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.58_sujato",
         "segmented": true,
-        "title": "Defilements"
+        "title": "Defilements",
+        "volpage": null
       }
     ],
     "parallel_count": 5,

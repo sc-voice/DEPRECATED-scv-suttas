@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Kinds of Wives",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Angry",
+      "name": "Irritable",
       "uid": "an7.64"
     },
     "previous": {
@@ -175,7 +175,7 @@
         {
           "scid": "an7.63:5.5",
           "pli": "‘Vadhā ca bhariyā’ti ca sā pavuccati. (1)",
-          "en": "is called a wife and a murderer."
+          "en": "is called a wife and a killer."
         },
         {
           "scid": "an7.63:6.1",
@@ -185,7 +185,7 @@
         {
           "scid": "an7.63:6.2",
           "pli": "Sippaṃ vaṇijjañca kasiṃ adhiṭṭhahaṃ;",
-          "en": "by working at a profession, trade, or farming."
+          "en": "by applying oneself to a profession, trade, or farming."
         },
         {
           "scid": "an7.63:6.3",
@@ -240,7 +240,7 @@
         {
           "scid": "an7.63:8.3",
           "pli": "Tato dhanaṃ sambhatamassa rakkhati,",
-          "en": "She keeps the wealth that he’s earned secure."
+          "en": "She keeps the wealth that he has earned secure."
         },
         {
           "scid": "an7.63:8.4",
@@ -335,7 +335,7 @@
         {
           "scid": "an7.63:12.2",
           "pli": "‘Corī ca ayyā’ti ca yā pavuccati;",
-          "en": "murderer, thief, and lord;"
+          "en": "killer, thief, and lord;"
         },
         {
           "scid": "an7.63:12.3",
@@ -365,7 +365,7 @@
         {
           "scid": "an7.63:13.4",
           "pli": "Kāyassa bhedā sugatiṃ vajanti tāti. (4–7.)",
-          "en": "when their body breaks up they go to a good place.”"
+          "en": "when their body breaks up they go to a good place."
         },
         {
           "scid": "an7.63:14.1",
@@ -408,6 +408,7 @@
     "difficulty": null,
     "original_title": "Bhariyā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Kinds of Wives",
@@ -415,12 +416,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.63_sujato",
         "segmented": true,
-        "title": "Kinds of Wives"
+        "title": "Kinds of Wives",
+        "volpage": null
       }
     ],
     "parallel_count": 7,

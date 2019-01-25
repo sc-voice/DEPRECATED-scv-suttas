@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Nanda’s Mother",
@@ -65,7 +65,7 @@
         {
           "scid": "an7.53:1.2",
           "pli": "ekaṃ samayaṃ āyasmā ca sāriputto āyasmā ca mahāmoggallāno dakkhiṇāgirismiṃ cārikaṃ caranti mahatā bhikkhusaṃghena saddhiṃ.",
-          "en": "At one time Venerables Sāriputta and Mahāmoggallāna were wandering in the Southern Hills together with a large Saṅgha of mendicants."
+          "en": "At one time the venerables Sāriputta and Mahāmoggallāna were wandering in the Southern Hills together with a large Saṅgha of mendicants."
         },
         {
           "scid": "an7.53:1.3",
@@ -120,7 +120,7 @@
         {
           "scid": "an7.53:3.8",
           "pli": "Sveva sāriputtamoggallānappamukho bhikkhusaṃgho akatapātarāso veḷukaṇḍakaṃ āgamissati, tañca bhikkhusaṃghaṃ parivisitvā mama dakkhiṇaṃ ādiseyyāsi.",
-          "en": "Tomorrow, the mendicant Saṅgha headed by Sāriputta and Moggallāna will arrive at Veḷukaṇṭa before breakfast. When you’ve served the Saṅgha, please dedicate the teacher’s offering to me."
+          "en": "Tomorrow, the mendicant Saṅgha headed by Sāriputta and Moggallāna will arrive at Veḷukaṇṭa before breakfast. When you’ve served the Saṅgha, please dedicate the religious donation to me."
         },
         {
           "scid": "an7.53:3.9",
@@ -165,7 +165,7 @@
         {
           "scid": "an7.53:4.8",
           "pli": "Atha kho sāriputtamoggallānappamukho bhikkhusaṅgho pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena nandamātāya upāsikāya nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.",
-          "en": "And then the Saṅgha of mendicants headed by Sāriputta and Moggallāna robed up in the morning and, taking their bowls and robes, went to the home of Nanda’s Mother, where they sat on the seat spread outs."
+          "en": "And then the Saṅgha of mendicants headed by Sāriputta and Moggallāna robed up in the morning and, taking their bowls and robes, went to the home of Nanda’s Mother, where they sat on the seats spread out."
         },
         {
           "scid": "an7.53:4.9",
@@ -225,7 +225,7 @@
         {
           "scid": "an7.53:6.8",
           "pli": "Sveva sāriputtamoggallānappamukho bhikkhusaṃgho akatapātarāso veḷukaṇḍakaṃ āgamissati, tañca bhikkhusaṃghaṃ parivisitvā mama dakkhiṇaṃ ādiseyyāsi.",
-          "en": "Tomorrow, the mendicant Saṅgha headed by Sāriputta and Moggallāna will arrive at Veḷukaṇṭa before breakfast. When you’ve served the Saṅgha, please dedicate the teacher’s offering to me."
+          "en": "Tomorrow, the mendicant Saṅgha headed by Sāriputta and Moggallāna will arrive at Veḷukaṇṭa before breakfast. When you’ve served the Saṅgha, please dedicate the religious donation to me."
         },
         {
           "scid": "an7.53:6.9",
@@ -245,7 +245,7 @@
         {
           "scid": "an7.53:7.2",
           "pli": "Yatra hi nāma vessavaṇena mahārājena evaṃmahiddhikena evaṃmahesakkhena devaputtena sammukhā sallapissasī”ti. (1)",
-          "en": "that you converse face to face with a mighty and illustrious god like the great king Vessavaṇa”"
+          "en": "that you converse face to face with a mighty and illustrious god like the great king Vessavaṇa.”"
         },
         {
           "scid": "an7.53:8.1",
@@ -478,6 +478,7 @@
     "difficulty": null,
     "original_title": "Nandamātā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Nanda’s Mother",
@@ -485,12 +486,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.53_sujato",
         "segmented": true,
-        "title": "Nanda’s Mother"
+        "title": "Nanda’s Mother",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

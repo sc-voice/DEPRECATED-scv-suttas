@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -500,7 +500,7 @@
         {
           "scid": "an2.42-51:48.1.6",
           "pli": "‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto, asuko kāyasakkhī, asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānusārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti.",
-          "en": "‘The mendicant so-and-so is freed both ways; so-and-so is freed by wisdom; so-and-so is a direct witness; so-and-so is attained to view; so-and-so is freed by faith; so-and-so is a follower of the teachings; so-and-so is a follower by faith; so-and-so is ethical, of good character; so-and-so is unethical, of bad character.’"
+          "en": "‘The mendicant so-and-so is freed both ways; so-and-so is freed by wisdom; so-and-so is a personal witness; so-and-so is attained to view; so-and-so is freed by faith; so-and-so is a follower of the teachings; so-and-so is a follower by faith; so-and-so is ethical, of good character; so-and-so is unethical, of bad character.’"
         },
         {
           "scid": "an2.42-51:48.1.7",
@@ -510,7 +510,7 @@
         {
           "scid": "an2.42-51:48.1.8",
           "pli": "Te taṃ lābhaṃ labhitvā gathitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti.",
-          "en": "And when they get these things, they use them tied, stupefied, attached, blind to the drawbacks, and not understanding the escape."
+          "en": "And when they get these things, they use them tied, infatuated, attached, blind to the drawbacks, and not understanding the escape."
         },
         {
           "scid": "an2.42-51:48.1.9",
@@ -530,7 +530,7 @@
         {
           "scid": "an2.42-51:48.2.3",
           "pli": "‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto, asuko kāyasakkhī, asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānusārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti.",
-          "en": "‘The mendicant so-and-so is freed both ways; so-and-so is freed by wisdom; so-and-so is a direct witness; so-and-so is attained to view; so-and-so is freed by faith; so-and-so is a follower of the teachings; so-and-so is a follower by faith; so-and-so is ethical, of good character; so-and-so is unethical, of bad character.’"
+          "en": "‘The mendicant so-and-so is freed both ways; so-and-so is freed by wisdom; so-and-so is a personal witness; so-and-so is attained to view; so-and-so is freed by faith; so-and-so is a follower of the teachings; so-and-so is a follower by faith; so-and-so is ethical, of good character; so-and-so is unethical, of bad character.’"
         },
         {
           "scid": "an2.42-51:48.2.4",
@@ -540,7 +540,7 @@
         {
           "scid": "an2.42-51:48.2.5",
           "pli": "Te taṃ lābhaṃ labhitvā agathitā amucchitā anajjhosannā ādīnavadassāvino nissaraṇapaññā paribhuñjanti.",
-          "en": "And when they get these things, they use them untied, unstupefied, unattached, seeing the drawbacks, and understanding the escape."
+          "en": "And when they get these things, they use them untied, uninfatuated, unattached, seeing the drawbacks, and understanding the escape."
         },
         {
           "scid": "an2.42-51:48.2.6",
@@ -685,7 +685,7 @@
         {
           "scid": "an2.42-51:51.1.8",
           "pli": "‘idameva saccaṃ moghamaññan’ti.",
-          "en": "‘This is the only truth, other ideas are stupid.’"
+          "en": "‘This is the only truth, other ideas are silly.’"
         },
         {
           "scid": "an2.42-51:51.1.9",
@@ -715,7 +715,7 @@
         {
           "scid": "an2.42-51:51.2.5",
           "pli": "‘idameva saccaṃ moghamaññan’ti.",
-          "en": "‘This is the only truth, other ideas are stupid.’"
+          "en": "‘This is the only truth, other ideas are silly.’"
         },
         {
           "scid": "an2.42-51:51.2.6",
@@ -777,12 +777,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli1.70",
     "uid": "an2.42-51",
     "blurb": null,
     "difficulty": null,
     "original_title": "Parisa Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -790,21 +791,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an2.42-51_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an2.42-51_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Bombast"
       }
     ],

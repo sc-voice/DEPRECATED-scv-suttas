@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Cessation",
@@ -70,7 +70,7 @@
         {
           "scid": "an5.166:1.3",
           "pli": "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—",
-          "en": "If they don’t reach enlightenment in this very life, then, surpassing the company of gods that consume solid food, they’re reborn in a certain group of mind-made gods. There they might enter into and emerge from the cessation of perception and feeling."
+          "en": "If they don’t reach enlightenment in this very life, then, surpassing the company of gods that consume solid food, they’re reborn in a certain host of mind-made gods. There they might enter into and emerge from the cessation of perception and feeling."
         },
         {
           "scid": "an5.166:1.4",
@@ -170,7 +170,7 @@
         {
           "scid": "an5.166:5.8",
           "pli": "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—",
-          "en": "If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain group of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling."
+          "en": "If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling."
         },
         {
           "scid": "an5.166:5.9",
@@ -310,7 +310,7 @@
         {
           "scid": "an5.166:12.4",
           "pli": "No ce diṭṭheva dhamme aññaṃ ārādheyya, atikkammeva kabaḷīkārāhārabhakkhānaṃ devānaṃ sahabyataṃ aññataraṃ manomayaṃ kāyaṃ upapanno saññāvedayitanirodhaṃ samāpajjeyyāpi vuṭṭhaheyyāpi—",
-          "en": "If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain group of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling."
+          "en": "If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling."
         },
         {
           "scid": "an5.166:12.5",
@@ -375,7 +375,7 @@
         {
           "scid": "an5.166:14.4",
           "pli": "Idha, bhante, thero bhikkhu sīlavā hoti … pe … samādāya sikkhati sikkhāpadesu;",
-          "en": "It’s when a mendicant is ethical, restrained in the code of conduct, and has appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+          "en": "It’s when a mendicant is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
         },
         {
           "scid": "an5.166:14.5",
@@ -448,6 +448,7 @@
     "difficulty": null,
     "original_title": "Nirodha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Cessation",
@@ -455,12 +456,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.166_sujato",
         "segmented": true,
-        "title": "Cessation"
+        "title": "Cessation",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

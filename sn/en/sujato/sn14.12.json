@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With a Cause",
@@ -120,12 +120,12 @@
         {
           "scid": "sn14.12:6.1",
           "pli": "Sanidānaṃ, bhikkhave, uppajjati nekkhammavitakko, no anidānaṃ; sanidānaṃ uppajjati abyāpādavitakko, no anidānaṃ; sanidānaṃ uppajjati avihiṃsāvitakko, no anidānaṃ.",
-          "en": "Thoughts of renunciation, love, and kindness arise for a reason, not without reason."
+          "en": "Thoughts of renunciation, good will, and harmlessness arise for a reason, not without reason."
         },
         {
           "scid": "sn14.12:7.1",
           "pli": "Kathañca, bhikkhave, sanidānaṃ uppajjati nekkhammavitakko, no anidānaṃ; sanidānaṃ uppajjati abyāpādavitakko, no anidānaṃ; sanidānaṃ uppajjati avihiṃsāvitakko, no anidānaṃ?",
-          "en": "And how do thoughts of renunciation, love, and kindness arise for a reason, not without reason?"
+          "en": "And how do thoughts of renunciation, good will, and harmlessness arise for a reason, not without reason?"
         },
         {
           "scid": "sn14.12:7.2",
@@ -160,62 +160,62 @@
         {
           "scid": "sn14.12:8.1",
           "pli": "Abyāpādadhātuṃ, bhikkhave, paṭicca uppajjati abyāpādasaññā, ",
-          "en": "The element of love gives rise to loving perceptions. "
+          "en": "The element of good will gives rise to perceptions of good will. "
         },
         {
           "scid": "sn14.12:8.2",
           "pli": "abyāpādasaññaṃ paṭicca uppajjati abyāpādasaṅkappo … pe …",
-          "en": "Loving perceptions give rise to loving thoughts. …"
+          "en": "Perceptions of good will give rise to thoughts of good will. …"
         },
         {
           "scid": "sn14.12:8.3",
           "pli": "abyāpādacchando …",
-          "en": "enthusiasm for love …"
+          "en": "enthusiasm for good will …"
         },
         {
           "scid": "sn14.12:8.4",
           "pli": "abyāpādapariḷāho …",
-          "en": "fervor for love …"
+          "en": "fervor for good will …"
         },
         {
           "scid": "sn14.12:8.5",
           "pli": "abyāpādapariyesanā, ",
-          "en": "the search for love. "
+          "en": "the search for good will. "
         },
         {
           "scid": "sn14.12:8.6",
           "pli": "abyāpādapariyesanaṃ, bhikkhave, pariyesamāno sutavā ariyasāvako tīhi ṭhānehi sammā paṭipajjati—kāyena, vācāya, manasā.",
-          "en": "An educated noble disciple on a search for love behaves well in three ways: by body, speech, and mind."
+          "en": "An educated noble disciple on a search for good will behaves well in three ways: by body, speech, and mind."
         },
         {
           "scid": "sn14.12:9.1",
           "pli": "Avihiṃsādhātuṃ, bhikkhave, paṭicca uppajjati avihiṃsāsaññā, ",
-          "en": "The element of kindness gives rise to kind perceptions. "
+          "en": "The element of harmlessness gives rise to harmlessness perceptions. "
         },
         {
           "scid": "sn14.12:9.2",
           "pli": "avihiṃsāsaññaṃ paṭicca uppajjati avihiṃsāsaṅkappo, ",
-          "en": "Kind perceptions give rise to kind thoughts. … "
+          "en": "Harmlessness perceptions give rise to harmlessness thoughts. … "
         },
         {
           "scid": "sn14.12:9.3",
           "pli": "avihiṃsāsaṅkappaṃ paṭicca uppajjati avihiṃsāchando, ",
-          "en": "enthusiasm for kindness … "
+          "en": "enthusiasm for harmlessness … "
         },
         {
           "scid": "sn14.12:9.4",
           "pli": "avihiṃsāchandaṃ paṭicca uppajjati avihiṃsāpariḷāho, ",
-          "en": "fervor for kindness … "
+          "en": "fervor for harmlessness … "
         },
         {
           "scid": "sn14.12:9.5",
           "pli": "avihiṃsāpariḷāhaṃ paṭicca uppajjati avihiṃsāpariyesanā;",
-          "en": "the search for kindness."
+          "en": "the search for harmlessness."
         },
         {
           "scid": "sn14.12:9.6",
           "pli": "avihiṃsāpariyesanaṃ, bhikkhave, pariyesamāno sutavā ariyasāvako tīhi ṭhānehi sammā paṭipajjati—kāyena, vācāya, manasā.",
-          "en": "An educated noble disciple on a search for kindness behaves well in three ways: by body, speech, and mind."
+          "en": "An educated noble disciple on a search for harmlessness behaves well in three ways: by body, speech, and mind."
         },
         {
           "scid": "sn14.12:10.1",
@@ -258,6 +258,7 @@
     "difficulty": null,
     "original_title": "Sanidāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With a Cause",
@@ -265,12 +266,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn14.12_sujato",
         "segmented": true,
-        "title": "With a Cause"
+        "title": "With a Cause",
+        "volpage": null
       }
     ],
     "parallel_count": 3,

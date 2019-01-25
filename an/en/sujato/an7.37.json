@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Friend (2nd)",
@@ -75,12 +75,12 @@
         {
           "scid": "an7.37:1.4",
           "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu mitto sevitabbo bhajitabbo payirupāsitabbo api panujjamānenapīti.",
-          "en": "When a friend has these seven qualities you should associate with, accompany, and attend with them, even if they send you away.”"
+          "en": "When a friend has these seven qualities you should associate with, accompany, and attend them, even if they send you away."
         },
         {
           "scid": "an7.37:2.1",
           "pli": "Piyo garu bhāvanīyo,",
-          "en": "“They’re lovable, respected, and admired,"
+          "en": "They’re lovable, respected, and admired,"
         },
         {
           "scid": "an7.37:2.2",
@@ -153,6 +153,7 @@
     "difficulty": null,
     "original_title": "Dutiyamitta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Friend (2nd)",
@@ -160,12 +161,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.37_sujato",
         "segmented": true,
-        "title": "A Friend (2nd)"
+        "title": "A Friend (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

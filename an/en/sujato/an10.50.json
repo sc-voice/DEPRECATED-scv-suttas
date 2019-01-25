@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Arguments",
@@ -105,7 +105,7 @@
         {
           "scid": "an10.50:4.3",
           "pli": "Idha, bhikkhave, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.",
-          "en": "Firstly, a mendicant is ethical, restrained in the monastic code, and has appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+          "en": "Firstly, a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
         },
         {
           "scid": "an10.50:4.4",
@@ -165,7 +165,7 @@
         {
           "scid": "an10.50:8.1",
           "pli": "Puna caparaṃ, bhikkhave, bhikkhu yāni tāni sabrahmacārīnaṃ uccāvacāni kiṅkaraṇīyāni—tattha dakkho hoti analaso, tatrūpāyāya vīmaṃsāya samannāgato alaṃ kātuṃ alaṃ saṃvidhātuṃ.",
-          "en": "Furthermore, a mendicant is expert and tireless in a diverse spectrum of duties for their spiritual companions, understanding how to go about things in order to complete and organize the work. …"
+          "en": "Furthermore, a mendicant is deft and tireless in a diverse spectrum of duties for their spiritual companions, understanding how to go about things in order to complete and organize the work. …"
         },
         {
           "scid": "an10.50:8.2",
@@ -195,7 +195,7 @@
         {
           "scid": "an10.50:10.1",
           "pli": "Puna caparaṃ, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu.",
-          "en": "Furthermore, a mendicant lives with energy roused up for giving up unskillful qualities and gaining skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. …"
+          "en": "Furthermore, a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. …"
         },
         {
           "scid": "an10.50:10.2",
@@ -313,6 +313,7 @@
     "difficulty": null,
     "original_title": "Bhaṇḍana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Arguments",
@@ -320,12 +321,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.50_sujato",
         "segmented": true,
-        "title": "Arguments"
+        "title": "Arguments",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

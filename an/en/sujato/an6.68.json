@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Enjoying Company",
@@ -65,12 +65,12 @@
         {
           "scid": "an6.68:1.2",
           "pli": "‘Eko paviveke anabhiramanto cittassa nimittaṃ gahessatī’ti netaṃ ṭhānaṃ vijjati.",
-          "en": "Without taking pleasure in being alone in seclusion, it’s impossible to learn the characteristics of the mind."
+          "en": "Without taking pleasure in being alone in seclusion, it’s impossible to learn the patterns of the mind."
         },
         {
           "scid": "an6.68:1.3",
           "pli": "‘Cittassa nimittaṃ agaṇhanto sammādiṭṭhiṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati.",
-          "en": "Without learning the characteristics of the mind, it’s impossible to fulfill right view."
+          "en": "Without learning the patterns of the mind, it’s impossible to fulfill right view."
         },
         {
           "scid": "an6.68:1.4",
@@ -95,12 +95,12 @@
         {
           "scid": "an6.68:2.2",
           "pli": "‘Eko paviveke abhiramanto cittassa nimittaṃ gahessatī’ti ṭhānametaṃ vijjati.",
-          "en": "For someone who takes pleasure in being alone in seclusion, it’s possible to learn the characteristics of the mind."
+          "en": "For someone who takes pleasure in being alone in seclusion, it’s possible to learn the patterns of the mind."
         },
         {
           "scid": "an6.68:2.3",
           "pli": "‘Cittassa nimittaṃ gaṇhanto sammādiṭṭhiṃ paripūressatī’ti ṭhānametaṃ vijjati.",
-          "en": "For someone who learns the characteristics of the mind, it’s possible to fulfill right view."
+          "en": "For someone who learns the patterns of the mind, it’s possible to fulfill right view."
         },
         {
           "scid": "an6.68:2.4",
@@ -143,6 +143,7 @@
     "difficulty": null,
     "original_title": "Saṅgaṇikārāma Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Enjoying Company",
@@ -150,12 +151,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.68_sujato",
         "segmented": true,
-        "title": "Enjoying Company"
+        "title": "Enjoying Company",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

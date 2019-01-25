@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Candimasa",
@@ -90,7 +90,7 @@
         {
           "scid": "sn2.11:2.4",
           "pli": "ekodi nipakā satā”ti.",
-          "en": "unified, self-disciplined, and mindful.”"
+          "en": "unified, alert, and mindful.”"
         },
         {
           "scid": "sn2.11:3.1",
@@ -110,7 +110,7 @@
         {
           "scid": "sn2.11:3.4",
           "pli": "appamattā raṇañjahā”ti.",
-          "en": "diligent, with flaws discarded.”"
+          "en": "diligent, with vices discarded.”"
         }
       ],
       "type": "Section",
@@ -133,6 +133,7 @@
     "difficulty": null,
     "original_title": "Candimasa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Candimasa",
@@ -140,12 +141,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn2.11_sujato",
         "segmented": true,
-        "title": "With Candimasa"
+        "title": "With Candimasa",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

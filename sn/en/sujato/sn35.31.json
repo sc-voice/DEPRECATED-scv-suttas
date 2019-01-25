@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Practice Conducive to Uprooting (1st)",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "The Appropriate Practice for Uprooting",
+      "name": "The Practice Fit for Uprooting",
       "uid": "sn35.30"
     }
   },
@@ -90,7 +90,7 @@
         {
           "scid": "sn35.31:1.7",
           "pli": "Yañhi, bhikkhave, maññati, yasmiṃ maññati, yato maññati, yaṃ meti maññati, tato taṃ hoti aññathā.",
-          "en": "For whatever you identify with, whatever you identify in, whatever you identify from, and whatever you identify as ‘mine’: that becomes something else."
+          "en": "For whatever you identify with, whatever you identify in, whatever you identify as, and whatever you identify as ‘mine’: that becomes something else."
         },
         {
           "scid": "sn35.31:1.8",
@@ -150,7 +150,7 @@
         {
           "scid": "sn35.31:1.19",
           "pli": "Yañhi, bhikkhave, maññati, yasmiṃ maññati, yato maññati, yaṃ meti maññati, tato taṃ hoti aññathā.",
-          "en": "For whatever you identify with, whatever you identify in, whatever you identify from, and whatever you identify as ‘mine’: that becomes something else."
+          "en": "For whatever you identify with, whatever you identify in, whatever you identify as, and whatever you identify as ‘mine’: that becomes something else."
         },
         {
           "scid": "sn35.31:1.20",
@@ -208,6 +208,7 @@
     "difficulty": null,
     "original_title": "Paṭhamasamugghātasappāya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Practice Conducive to Uprooting (1st)",
@@ -215,21 +216,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn35.31_sujato",
         "segmented": true,
-        "title": "The Practice Conducive to Uprooting (1st)"
+        "title": "The Practice Conducive to Uprooting (1st)",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn35.31_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Suitable for Uprooting (1)"
       }
     ],

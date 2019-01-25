@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Marks of a Great Man",
@@ -535,7 +535,7 @@
         {
           "scid": "dn30:1.7.2",
           "pli": "bahujanassa sukhāvaho ahosi, ubbegauttāsabhayaṃ apanuditā, dhammikañca rakkhāvaraṇaguttiṃ saṃvidhātā, saparivārañca dānaṃ adāsi.",
-          "en": "He brought happiness to many people, dispelling threats, terror, and danger, providing just protection and security, and giving gifts with all the trimmings."
+          "en": "He brought happiness to many people, eliminating threats, terror, and danger, providing just protection and security, and giving gifts with all the trimmings."
         },
         {
           "scid": "dn30:1.7.3",
@@ -1035,7 +1035,7 @@
         {
           "scid": "dn30:1.16.3",
           "pli": "dānena peyyavajjena atthacariyāya samānattatāya.",
-          "en": "giving, kind speech, taking care, and equality."
+          "en": "giving, kindly words, taking care, and equality."
         },
         {
           "scid": "dn30:1.16.4",
@@ -1685,7 +1685,7 @@
         {
           "scid": "dn30:1.28.2",
           "pli": "akkodhano ahosi anupāyāsabahulo, ",
-          "en": "He wasn’t angry or bad-tempered. "
+          "en": "He wasn’t irritable or bad-tempered. "
         },
         {
           "scid": "dn30:1.28.3",
@@ -1760,7 +1760,7 @@
         {
           "scid": "dn30:1.30.2",
           "pli": "“Akkodhañca adhiṭṭhahi adāsi,",
-          "en": "“Committed to good will, he gave gifts."
+          "en": "“Dedicated to good will, he gave gifts."
         },
         {
           "scid": "dn30:1.30.3",
@@ -3075,7 +3075,7 @@
         {
           "scid": "dn30:2.21.16",
           "pli": "Samaṇo ca hoti virajo vimalo,",
-          "en": "And as an ascetic, spotless and stainless,"
+          "en": "And as an ascetic, stainless, immaculate,"
         },
         {
           "scid": "dn30:2.21.17",
@@ -3325,7 +3325,7 @@
         {
           "scid": "dn30:2.27.4",
           "pli": "Ahitamapi ca apanudi,",
-          "en": "He rejected what was useless,"
+          "en": "He eliminated what was useless,"
         },
         {
           "scid": "dn30:2.27.5",
@@ -3505,7 +3505,7 @@
         {
           "scid": "dn30:2.31.4",
           "pli": "Ahitamapi ca apanudi,",
-          "en": "He rejected what was useless,"
+          "en": "He eliminated what was useless,"
         },
         {
           "scid": "dn30:2.31.5",
@@ -3668,6 +3668,7 @@
     "difficulty": 2,
     "original_title": "Lakkhaṇa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Marks of a Great Man",
@@ -3675,21 +3676,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn30_sujato",
         "segmented": true,
-        "title": "The Marks of a Great Man"
+        "title": "The Marks of a Great Man",
+        "volpage": null
       },
       {
         "author": "T.W. & C.A.F. Rhys Davids",
         "author_short": "Rhys Davids",
         "author_uid": "tw-caf_rhysdavids",
         "id": "en_dn30_tw-caf_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1921",
         "segmented": false,
+        "volpage": null,
         "title": "The Marks of the Superman"
       }
     ],

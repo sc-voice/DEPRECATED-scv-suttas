@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Stream-Enterer",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Ascetics and Brahmins (2nd)",
+      "name": "Ascetics (2nd)",
       "uid": "sn22.108"
     }
   },
@@ -113,6 +113,7 @@
     "difficulty": null,
     "original_title": "Sotāpanna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Stream-Enterer",
@@ -120,12 +121,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn22.109_sujato",
         "segmented": true,
-        "title": "A Stream-Enterer"
+        "title": "A Stream-Enterer",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

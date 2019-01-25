@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Assalāyana",
@@ -85,7 +85,7 @@
         {
           "scid": "mn93:3.1",
           "pli": "Tena kho pana samayena assalāyano nāma māṇavo sāvatthiyaṃ paṭivasati daharo, vuttasiro, soḷasavassuddesiko jātiyā, tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo.",
-          "en": "Now at that time the brahmin student Assalāyana was residing in Sāvatthī. He was young, just tonsured; he was sixteen years old. He was an expert in the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knew philology and grammar, and was well versed in cosmology and the marks of a great man."
+          "en": "Now at that time the brahmin student Assalāyana was residing in Sāvatthī. He was young, just tonsured; he was sixteen years old. He had mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knew philology and grammar, and was well versed in cosmology and the marks of a great man."
         },
         {
           "scid": "mn93:3.2",
@@ -950,7 +950,7 @@
         {
           "scid": "mn93:18.13",
           "pli": "handa ko nu kho ime bhavanto brāhmaṇisayo gatā’ti?",
-          "en": "Where, oh where have those rahmin hermits gone?’"
+          "en": "Where, oh where have those brahmin hermits gone?’"
         },
         {
           "scid": "mn93:18.14",
@@ -960,7 +960,7 @@
         {
           "scid": "mn93:18.15",
           "pli": "‘ko nāyaṃ gāmaṇḍalarūpo viya sattannaṃ brāhmaṇisīnaṃ patthaṇḍile caṅkamamāno evamāha:",
-          "en": "‘Who’s this wandering about our courtyard like a cowboy?"
+          "en": "‘Who’s this wandering about our courtyard like a cowpoke?"
         },
         {
           "scid": "mn93:18.16",
@@ -1283,6 +1283,7 @@
     "difficulty": 2,
     "original_title": "Assalāyana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Assalāyana",
@@ -1290,21 +1291,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn93_sujato",
         "segmented": true,
-        "title": "With Assalāyana"
+        "title": "With Assalāyana",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn93_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2013",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse with Assalāyana"
       }
     ],

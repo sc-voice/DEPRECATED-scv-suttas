@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Lost Opportunities",
@@ -125,7 +125,7 @@
         {
           "scid": "an8.29:5.2",
           "pli": "ayañca puggalo paccantimesu janapadesu paccājāto hoti, so ca hoti aviññātāresu milakkhesu, yattha natthi gati bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ … pe …. (5)",
-          "en": "But a person has been reborn in the borderlands, among barbarian tribes, where monks, nuns, laymen, and laywomen do not go. This is the fifth lost opportunity …"
+          "en": "But a person has been reborn in the borderlands, among strange barbarian tribes, where monks, nuns, laymen, and laywomen do not go. This is the fifth lost opportunity …"
         },
         {
           "scid": "an8.29:6.1",
@@ -145,7 +145,7 @@
         {
           "scid": "an8.29:7.2",
           "pli": "ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti duppañño jaḷo eḷamūgo appaṭibalo subhāsitadubbhāsitassa atthamaññātuṃ.",
-          "en": "And a person is reborn in a central country. But they’re witless, dull, stupid, and unable to distinguish the well said from the poorly said."
+          "en": "And a person is reborn in a central country. But they’re witless, dull, stupid, and unable to distinguish what is well said from what is poorly said."
         },
         {
           "scid": "an8.29:7.3",
@@ -160,7 +160,7 @@
         {
           "scid": "an8.29:8.2",
           "pli": "Dhammo ca na desiyati opasamiko parinibbāniko sambodhagāmī sugatappavedito. Ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti paññavā ajaḷo aneḷamūgo paṭibalo subhāsitadubbhāsitassa atthamaññātuṃ.",
-          "en": "But he doesn’t teach the Dhamma leading to peace, extinguishment, awakening, as proclaimed by the Holy One. And a person is reborn in a central country. And they’re wise, bright, clever, and able to distinguish the well said from the poorly said."
+          "en": "But he doesn’t teach the Dhamma leading to peace, extinguishment, awakening, as proclaimed by the Holy One. And a person is reborn in a central country. And they’re wise, bright, clever, and able to distinguish what is well said from what is poorly said."
         },
         {
           "scid": "an8.29:8.3",
@@ -190,7 +190,7 @@
         {
           "scid": "an8.29:10.4",
           "pli": "Dhammo ca desiyati opasamiko parinibbāniko sambodhagāmī sugatappavedito. Ayañca puggalo majjhimesu janapadesu paccājāto hoti, so ca hoti paññavā ajaḷo aneḷamūgo paṭibalo subhāsitadubbhāsitassa atthamaññātuṃ.",
-          "en": "He teaches the Dhamma leading to peace, extinguishment, awakening, as proclaimed by the Holy One. And a person is reborn in a central country. And they’re wise, bright, clever, and able to distinguish the well said from the poorly said."
+          "en": "He teaches the Dhamma leading to peace, extinguishment, awakening, as proclaimed by the Holy One. And a person is reborn in a central country. And they’re wise, bright, clever, and able to distinguish what is well said from what is poorly said."
         },
         {
           "scid": "an8.29:10.5",
@@ -205,7 +205,7 @@
         {
           "scid": "an8.29:11.2",
           "pli": "saddhamme suppavedite;",
-          "en": "and the true teaching has been proclaimed,"
+          "en": "and the true teaching has been so well proclaimed,"
         },
         {
           "scid": "an8.29:11.3",
@@ -235,7 +235,7 @@
         {
           "scid": "an8.29:12.4",
           "pli": "uppajjanti tathāgatā.",
-          "en": "does a Realized One arise."
+          "en": "do Realized Ones arise."
         },
         {
           "scid": "an8.29:13.1",
@@ -335,7 +335,7 @@
         {
           "scid": "an8.29:17.2",
           "pli": "saddhamme suppavedite;",
-          "en": "when the true teaching has been proclaimed,"
+          "en": "when the true teaching has been so well proclaimed,"
         },
         {
           "scid": "an8.29:17.3",
@@ -400,7 +400,7 @@
         {
           "scid": "an8.29:20.3",
           "pli": "Te ve pāraṅgatā loke,",
-          "en": "they’re the ones in this world who’ve truly gone beyond,"
+          "en": "they’re the ones in this world who’ve truly crossed over,"
         },
         {
           "scid": "an8.29:20.4",
@@ -433,6 +433,7 @@
     "difficulty": null,
     "original_title": "Akkhaṇa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Lost Opportunities",
@@ -440,21 +441,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an8.29_sujato",
         "segmented": true,
-        "title": "Lost Opportunities"
+        "title": "Lost Opportunities",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an8.29_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Inopportune Moments"
       }
     ],

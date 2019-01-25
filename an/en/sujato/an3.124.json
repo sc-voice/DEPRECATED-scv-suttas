@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Arguments",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "The Gotamaka Tree-shrine",
+      "name": "The Gotamaka Shrine",
       "uid": "an3.125"
     },
     "previous": {
@@ -80,7 +80,7 @@
         {
           "scid": "an3.124:1.5",
           "pli": "Nekkhammavitakkaṃ, abyāpādavitakkaṃ, avihiṃsāvitakkaṃ—",
-          "en": "Thoughts of renunciation, love, and kindness."
+          "en": "Thoughts of renunciation, good will, and harmlessness."
         },
         {
           "scid": "an3.124:1.6",
@@ -115,7 +115,7 @@
         {
           "scid": "an3.124:1.12",
           "pli": "‘addhā te āyasmanto ime tayo dhamme pajahiṃsu, ime tayo dhamme bahulamakaṃsu’.",
-          "en": "‘Clearly those venerables have given up three things and built up three things.’"
+          "en": "‘Clearly those venerables have given up three things and cultivated three things.’"
         },
         {
           "scid": "an3.124:2.1",
@@ -130,7 +130,7 @@
         {
           "scid": "an3.124:2.3",
           "pli": "‘addhā te āyasmanto tayo dhamme pajahiṃsu, tayo dhamme bahulamakaṃsu.",
-          "en": "‘Clearly those venerables have given up three things and built up three things.’"
+          "en": "‘Clearly those venerables have given up three things and cultivated three things.’"
         },
         {
           "scid": "an3.124:2.4",
@@ -150,12 +150,12 @@
         {
           "scid": "an3.124:2.7",
           "pli": "Katame tayo dhamme bahulamakaṃsu?",
-          "en": "What three things have they built up?"
+          "en": "What three things have they cultivated?"
         },
         {
           "scid": "an3.124:2.8",
           "pli": "Nekkhammavitakkaṃ, abyāpādavitakkaṃ, avihiṃsāvitakkaṃ—",
-          "en": "Thoughts of renunciation, love, and kindness. …"
+          "en": "Thoughts of renunciation, good will, and harmlessness. …"
         },
         {
           "scid": "an3.124:2.9",
@@ -175,7 +175,7 @@
         {
           "scid": "an3.124:2.12",
           "pli": "‘addhā te āyasmanto ime tayo dhamme pajahiṃsu, ime tayo dhamme bahulamakaṃsū’”ti.",
-          "en": "‘Clearly those venerables have given up three things and built up three things.’”"
+          "en": "‘Clearly those venerables have given up three things and cultivated three things.’”"
         },
         {
           "scid": "an3.124:2.13",
@@ -203,6 +203,7 @@
     "difficulty": null,
     "original_title": "Bhaṇḍana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Arguments",
@@ -210,12 +211,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.124_sujato",
         "segmented": true,
-        "title": "Arguments"
+        "title": "Arguments",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

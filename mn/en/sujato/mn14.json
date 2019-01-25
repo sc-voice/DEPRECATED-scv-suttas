@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Shorter Discourse on the Mass of Suffering",
@@ -465,7 +465,7 @@
         {
           "scid": "mn14:17.9",
           "pli": "Tañca panamhākaṃ ruccati ceva khamati ca, tena camha attamanā’ti.",
-          "en": "We approve and accept this, and we are satisfied with it.’"
+          "en": "We like and accept this, and we are satisfied with it.’"
         },
         {
           "scid": "mn14:18.1",
@@ -540,7 +540,7 @@
         {
           "scid": "mn14:18.15",
           "pli": "diṭṭheva dhamme akusalānaṃ dhammānaṃ pahānaṃ, kusalānaṃ dhammānaṃ upasampadan’ti?",
-          "en": "about giving up unskillful qualities in the present life and gaining skillful qualities?’"
+          "en": "about giving up unskillful qualities in the present life and embracing skillful qualities?’"
         },
         {
           "scid": "mn14:18.16",
@@ -600,7 +600,7 @@
         {
           "scid": "mn14:20.3",
           "pli": "‘Addhāyasmantehi nigaṇṭhehi sahasā appaṭisaṅkhā vācā bhāsitā:",
-          "en": "‘Clearly the venerables have spoken rashly, without thinking."
+          "en": "‘Clearly the venerables have spoken rashly, without reflection."
         },
         {
           "scid": "mn14:20.4",
@@ -625,7 +625,7 @@
         {
           "scid": "mn14:20.8",
           "pli": "Addhāvuso gotama, amhehi sahasā appaṭisaṅkhā vācā bhāsitā, na kho, āvuso gotama, sukhena sukhaṃ adhigantabbaṃ, dukkhena kho sukhaṃ adhigantabbaṃ;",
-          "en": "‘Clearly we spoke rashly and without thinking."
+          "en": "‘Clearly we spoke rashly and without reflection."
         },
         {
           "scid": "mn14:20.9",
@@ -783,6 +783,7 @@
     "difficulty": 2,
     "original_title": "Cūḷadukkhakkhandha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Shorter Discourse on the Mass of Suffering",
@@ -790,21 +791,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn14_sujato",
         "segmented": true,
-        "title": "The Shorter Discourse on the Mass of Suffering"
+        "title": "The Shorter Discourse on the Mass of Suffering",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn14_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Lesser Discourse on the Stems of Anguish"
       }
     ],

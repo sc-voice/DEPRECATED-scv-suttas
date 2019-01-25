@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Soṇa",
@@ -190,7 +190,7 @@
         {
           "scid": "an6.55:7.2",
           "pli": "Tasmātiha tvaṃ, soṇa, vīriyasamathaṃ adhiṭṭhaha, indriyānañca samataṃ paṭivijjha, tattha ca nimittaṃ gaṇhāhī”ti.",
-          "en": "So, Soṇa, you should apply yourself to energy and serenity, find a balance of the faculties, and learn the characteristics that condition this situation.”"
+          "en": "So, Soṇa, you should apply yourself to energy and serenity, find a balance of the faculties, and learn the pattern of this situation.”"
         },
         {
           "scid": "an6.55:7.3",
@@ -205,7 +205,7 @@
         {
           "scid": "an6.55:8.1",
           "pli": "Atha kho āyasmā soṇo aparena samayena vīriyasamathaṃ adhiṭṭhāsi, indriyānañca samataṃ paṭivijjhi, tattha ca nimittaṃ aggahesi.",
-          "en": "After some time Soṇa applied himself to energy and serenity, found a balance of the faculties, and learned the characteristics that condition this situation."
+          "en": "After some time Soṇa applied himself to energy and serenity, found a balance of the faculties, and learned the pattern of this situation."
         },
         {
           "scid": "an6.55:8.2",
@@ -430,7 +430,7 @@
         {
           "scid": "an6.55:18.2",
           "pli": "pavivekañca cetaso;",
-          "en": "and seclusion of heart;"
+          "en": "and seclusion of the heart;"
         },
         {
           "scid": "an6.55:18.3",
@@ -465,7 +465,7 @@
         {
           "scid": "an6.55:20.1",
           "pli": "Tassa sammā vimuttassa,",
-          "en": "To that poised one, rightly freed"
+          "en": "For that one, rightly freed,"
         },
         {
           "scid": "an6.55:20.2",
@@ -548,6 +548,7 @@
     "difficulty": null,
     "original_title": "Soṇa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Soṇa",
@@ -555,21 +556,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.55_sujato",
         "segmented": true,
-        "title": "With Soṇa"
+        "title": "With Soṇa",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an6.55_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "About Sona"
       }
     ],

@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Long Life (2nd)",
+    "title": "Life Span (2nd)",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -38,12 +38,12 @@
         {
           "scid": "sn4.10:0.2",
           "pli": "1. Paṭhamavagga",
-          "en": "1. Long Life"
+          "en": "1. Life Span"
         },
         {
           "scid": "sn4.10:0.3",
           "pli": "10. Dutiyaāyusutta",
-          "en": "10. Long Life (2nd)"
+          "en": "10. Life Span (2nd)"
         }
       ],
       "type": "Section",
@@ -188,28 +188,35 @@
     "difficulty": null,
     "original_title": "Dutiyaāyu Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Long Life (2nd)",
+    "translated_title": "Life Span (2nd)",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn4.10_sujato",
         "segmented": true,
-        "title": "Long Life (2nd)"
+        "title": "Life Span (2nd)",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn4.10_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Life Span (2)"
       }
     ],

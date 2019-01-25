@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Attachment To Rebirth",
@@ -80,7 +80,7 @@
         {
           "scid": "sn23.3:1.5",
           "pli": "“Rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā—",
-          "en": "“Rādha, any desire, greed, relishing, and craving for form; and any attraction, grasping, mental dedication, insistence, and underlying tendencies—"
+          "en": "“Rādha, any desire, greed, relishing, and craving for form; and any attraction, grasping, mental fixation, insistence, and underlying tendencies—"
         },
         {
           "scid": "sn23.3:1.6",
@@ -110,7 +110,7 @@
         {
           "scid": "sn23.3:1.11",
           "pli": "viññāṇe yo chando … pe … adhiṭṭhānābhinivesānusayā—",
-          "en": "consciousness; and any becoming involved, grasping, mental dedication, insistence, and underlying tendencies—"
+          "en": "consciousness; and any becoming involved, grasping, mental fixation, insistence, and underlying tendencies—"
         },
         {
           "scid": "sn23.3:1.12",
@@ -148,6 +148,7 @@
     "difficulty": null,
     "original_title": "Bhavanetti Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Attachment To Rebirth",
@@ -155,12 +156,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn23.3_sujato",
         "segmented": true,
-        "title": "Attachment To Rebirth"
+        "title": "Attachment To Rebirth",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

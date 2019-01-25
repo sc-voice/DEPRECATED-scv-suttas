@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Grounds for Knowledge",
@@ -225,7 +225,7 @@
         {
           "scid": "sn12.33:7.2",
           "pli": "Idamassa anvaye ñāṇaṃ.",
-          "en": "This is their knowledge of what follows."
+          "en": "This is their inferential knowledge."
         },
         {
           "scid": "sn12.33:8.1",
@@ -235,7 +235,7 @@
         {
           "scid": "sn12.33:8.2",
           "pli": "dhamme ñāṇañca anvaye ñāṇañca.",
-          "en": "knowledge of the present phenomena, and knowledge of what follows."
+          "en": "knowledge of the present phenomena, and inferential knowledge."
         },
         {
           "scid": "sn12.33:8.3",
@@ -350,7 +350,7 @@
         {
           "scid": "sn12.33:13.2",
           "pli": "Idamassa anvaye ñāṇaṃ.",
-          "en": "This is their knowledge of what follows."
+          "en": "This is their inferential knowledge."
         },
         {
           "scid": "sn12.33:14.1",
@@ -360,7 +360,7 @@
         {
           "scid": "sn12.33:14.2",
           "pli": "dhamme ñāṇañca anvaye ñāṇañca.",
-          "en": "knowledge of the present phenomena, and knowledge of what follows."
+          "en": "knowledge of the present phenomena, and inferential knowledge."
         },
         {
           "scid": "sn12.33:14.3",
@@ -393,6 +393,7 @@
     "difficulty": null,
     "original_title": "Ñāṇavatthu Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Grounds for Knowledge",
@@ -400,21 +401,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn12.33_sujato",
         "segmented": true,
-        "title": "Grounds for Knowledge"
+        "title": "Grounds for Knowledge",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn12.33_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Cases of Knowledge (1)"
       }
     ],

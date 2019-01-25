@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Koṭṭhita",
@@ -215,7 +215,7 @@
         {
           "scid": "an9.13:20.1",
           "pli": "‘Kiṃ panāvuso sāriputta, yaṃ kammaṃ avedanīyaṃ taṃ me kammaṃ vedanīyaṃ hotūti, etassa atthāya bhagavati brahmacariyaṃ vussatī’ti, iti puṭṭho samāno ‘no hidaṃ, āvuso’ti vadesi.",
-          "en": "When you were asked whether the spiritual life was lived under the Buddha so that deeds not to be experienced in lives are experienced, you said, ‘Certainly not.’"
+          "en": "When you were asked whether the spiritual life was lived under the Buddha so that deeds not to be experienced are experienced, you said, ‘Certainly not.’"
         },
         {
           "scid": "an9.13:20.2",
@@ -293,6 +293,7 @@
     "difficulty": null,
     "original_title": "Koṭṭhika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Koṭṭhita",
@@ -300,21 +301,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.13_sujato",
         "segmented": true,
-        "title": "With Koṭṭhita"
+        "title": "With Koṭṭhita",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an9.13_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "With Kotthita"
       }
     ],

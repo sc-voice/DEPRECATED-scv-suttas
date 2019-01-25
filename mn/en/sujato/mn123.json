@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Incredible and Amazing",
@@ -165,7 +165,7 @@
         {
           "scid": "mn123:3.2",
           "pli": "‘sato sampajāno, ānanda, bodhisatto tusitaṃ kāyaṃ upapajjī’ti.",
-          "en": "‘Mindful and aware, the being intent on awakening was reborn in the group of Joyful Gods.’"
+          "en": "‘Mindful and aware, the being intent on awakening was reborn in the host of Joyful Gods.’"
         },
         {
           "scid": "mn123:3.3",
@@ -180,7 +180,7 @@
         {
           "scid": "mn123:4.2",
           "pli": "‘sato sampajāno, ānanda, bodhisatto tusite kāye aṭṭhāsī’ti.",
-          "en": "‘Mindful and aware, the being intent on awakening remained in the group of Joyful Gods.’"
+          "en": "‘Mindful and aware, the being intent on awakening remained in the host of Joyful Gods.’"
         },
         {
           "scid": "mn123:4.3",
@@ -195,7 +195,7 @@
         {
           "scid": "mn123:5.2",
           "pli": "‘yāvatāyukaṃ, ānanda, bodhisatto tusite kāye aṭṭhāsī’ti.",
-          "en": "‘For the whole of that life, the being intent on awakening remained in the group of Joyful Gods.’"
+          "en": "‘For the whole of that life, the being intent on awakening remained in the host of Joyful Gods.’"
         },
         {
           "scid": "mn123:5.3",
@@ -210,7 +210,7 @@
         {
           "scid": "mn123:6.2",
           "pli": "‘sato sampajāno, ānanda, bodhisatto tusitā, kāyā cavitvā mātukucchiṃ okkamī’ti.",
-          "en": "‘Mindful and aware, the being intent on awakening passed away from the group of Joyful Gods and was conceived in his mother’s womb.’"
+          "en": "‘Mindful and aware, the being intent on awakening passed away from the host of Joyful Gods and was conceived in his mother’s womb.’"
         },
         {
           "scid": "mn123:6.3",
@@ -225,7 +225,7 @@
         {
           "scid": "mn123:7.2",
           "pli": "‘yadā, ānanda, bodhisatto tusitā kāyā cavitvā mātukucchiṃ okkamati, ",
-          "en": "‘When the being intent on awakening passes away from the group of Joyful Gods, he is conceived in his mother’s womb."
+          "en": "‘When the being intent on awakening passes away from the host of Joyful Gods, he is conceived in his mother’s womb."
         },
         {
           "scid": "mn123:7.3",
@@ -325,12 +325,12 @@
         {
           "scid": "mn123:12.3",
           "pli": "Seyyathāpi, ānanda, maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato. Tatrāssa suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vā.",
-          "en": "Suppose there was a beryl gem that was naturally beautiful, eight-faceted, with expert workmanship. And it was strung with a thread of blue, yellow, red, white, or golden brown."
+          "en": "Suppose there was a beryl gem that was naturally beautiful, eight-faceted, well-worked. And it was strung with a thread of blue, yellow, red, white, or golden brown."
         },
         {
           "scid": "mn123:12.4",
           "pli": "Tamenaṃ cakkhumā puriso hatthe karitvā paccavekkheyya—ayaṃ kho maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato, tatridaṃ suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vāti.",
-          "en": "And someone with good eyesight were to take it in their hand and examine it: “This beryl gem is naturally beautiful, eight-faceted, with expert workmanship. And it’s strung with a thread of blue, yellow, red, white, or golden brown.”"
+          "en": "And someone with good eyesight were to take it in their hand and examine it: “This beryl gem is naturally beautiful, eight-faceted, well-worked. And it’s strung with a thread of blue, yellow, red, white, or golden brown.”"
         },
         {
           "scid": "mn123:12.5",
@@ -350,7 +350,7 @@
         {
           "scid": "mn123:13.2",
           "pli": "‘sattāhajāte, ānanda, bodhisatte bodhisattamātā kālaṃ karoti, tusitaṃ kāyaṃ upapajjatī’ti.",
-          "en": "‘Seven days after the being intent on awakening is born, his mother passes away and is reborn in the group of Joyful Gods.’"
+          "en": "‘Seven days after the being intent on awakening is born, his mother passes away and is reborn in the host of Joyful Gods.’"
         },
         {
           "scid": "mn123:13.3",
@@ -598,6 +598,7 @@
     "difficulty": 2,
     "original_title": "Acchariyaabbhuta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Incredible and Amazing",
@@ -605,12 +606,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn123_sujato",
         "segmented": true,
-        "title": "Incredible and Amazing"
+        "title": "Incredible and Amazing",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

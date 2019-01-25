@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Precepts and Observances",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Existence (2nd)",
+      "name": "Continued Existence (2nd)",
       "uid": "an3.77"
     }
   },
@@ -80,7 +80,7 @@
         {
           "scid": "an3.78:2.1",
           "pli": "“Yañhissa, bhante, sīlabbataṃ jīvitaṃ brahmacariyaṃ upaṭṭhānasāraṃ sevato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyanti, evarūpaṃ sīlabbataṃ jīvitaṃ brahmacariyaṃ upaṭṭhānasāraṃ aphalaṃ.",
-          "en": "“Take the case of someone who cultivates precepts and observances, lifestyle, and a spiritual path, taking this as the essence. If unskillful qualities grow while skillful qualities decline, that’s not fruitful."
+          "en": "“Take the case of someone who cultivates precepts and observances, a lifestyle, and a spiritual path, taking this as the essence. If unskillful qualities grow while skillful qualities decline, that’s not fruitful."
         },
         {
           "scid": "an3.78:2.2",
@@ -143,6 +143,7 @@
     "difficulty": null,
     "original_title": "Sīlabbata Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Precepts and Observances",
@@ -150,21 +151,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.78_sujato",
         "segmented": true,
-        "title": "Precepts and Observances"
+        "title": "Precepts and Observances",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an3.78_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Precept & Practice"
       }
     ],

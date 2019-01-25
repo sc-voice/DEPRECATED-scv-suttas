@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Kinds of Expression (2nd)",
@@ -60,7 +60,7 @@
         {
           "scid": "an4.228:1.1",
           "pli": "… pe … Diṭṭhe adiṭṭhavādī hoti, sute asutavādī hoti, mute amutavādī hoti, viññāte aviññātavādī hoti … pe … diṭṭhe diṭṭhavādī hoti, sute sutavādī hoti, mute mutavādī hoti, viññāte viññātavādī hoti … pe ….",
-          "en": "“A foolish person … makes much bad karma. … They say they haven’t seen, heard, thought, or cognized something, but they have. … An astute person … makes much merit. … They say they’ve seen, heard, thought, or cognized something, and they have. …”"
+          "en": "“A foolish person … makes much bad karma. … They say they haven’t seen, heard, thought, or known something, but they have. … An astute person … makes much merit. … They say they’ve seen, heard, thought, or known something, and they have. …”"
         },
         {
           "scid": "an4.228:1.2",
@@ -88,6 +88,7 @@
     "difficulty": null,
     "original_title": "Dutiyavohārapatha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Kinds of Expression (2nd)",
@@ -95,12 +96,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.228_sujato",
         "segmented": true,
-        "title": "Kinds of Expression (2nd)"
+        "title": "Kinds of Expression (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

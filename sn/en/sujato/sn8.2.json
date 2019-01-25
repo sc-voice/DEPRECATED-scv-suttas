@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Dissatisfaction",
@@ -135,7 +135,7 @@
         {
           "scid": "sn8.2:3.4",
           "pli": "Evaṃ samecca caranti mutattā.",
-          "en": "the wise live having comprehended this truth."
+          "en": "the thoughtful live having comprehended this truth."
         },
         {
           "scid": "sn8.2:4.1",
@@ -180,12 +180,12 @@
         {
           "scid": "sn8.2:6.1",
           "pli": "Dabbo cirarattasamāhito,",
-          "en": "Clever, long trained in immersion,"
+          "en": "Clever, long serene,"
         },
         {
           "scid": "sn8.2:6.2",
           "pli": "Akuhako nipako apihālu;",
-          "en": "free of deceit, disciplined, without longing,"
+          "en": "free of deceit, alert, without envy,"
         },
         {
           "scid": "sn8.2:6.3",
@@ -218,6 +218,7 @@
     "difficulty": null,
     "original_title": "Aratī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Dissatisfaction",
@@ -225,12 +226,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn8.2_sujato",
         "segmented": true,
-        "title": "Dissatisfaction"
+        "title": "Dissatisfaction",
+        "volpage": null
       }
     ],
     "parallel_count": 3,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "At Kusināra",
@@ -90,7 +90,7 @@
         {
           "scid": "an3.123:2.2",
           "pli": "Tamenaṃ gahapati vā gahapatiputto vā upasaṅkamitvā svātanāya bhattena nimanteti.",
-          "en": "A householder or their child approaches and invites them for tomorrow’s meal."
+          "en": "A householder or their child approaches and invites them for the next day’s meal."
         },
         {
           "scid": "an3.123:2.3",
@@ -130,7 +130,7 @@
         {
           "scid": "an3.123:3.5",
           "pli": "So taṃ piṇḍapātaṃ gathito mucchito ajjhosanno anādīnavadassāvī anissaraṇapañño paribhuñjati.",
-          "en": "They eat that food tied, stupefied, attached, blind to the drawbacks, and not understanding the escape."
+          "en": "They eat that food tied, infatuated, attached, blind to the drawbacks, and not understanding the escape."
         },
         {
           "scid": "an3.123:3.6",
@@ -160,7 +160,7 @@
         {
           "scid": "an3.123:4.2",
           "pli": "Tamenaṃ gahapati vā gahapatiputto vā upasaṅkamitvā svātanāya bhattena nimanteti.",
-          "en": "A householder or their child approaches and invites them for tomorrow’s meal."
+          "en": "A householder or their child approaches and invites them for the next day’s meal."
         },
         {
           "scid": "an3.123:4.3",
@@ -200,12 +200,12 @@
         {
           "scid": "an3.123:5.5",
           "pli": "So taṃ piṇḍapātaṃ agathito amucchito anajjhosanno ādīnavadassāvī nissaraṇapañño paribhuñjati.",
-          "en": "They eat that alms-food untied, unstupefied, unattached, seeing the drawback, and understanding the escape."
+          "en": "They eat that alms-food untied, uninfatuated, unattached, seeing the drawback, and understanding the escape."
         },
         {
           "scid": "an3.123:5.6",
           "pli": "So tattha nekkhammavitakkampi vitakketi, abyāpādavitakkampi vitakketi, avihiṃsāvitakkampi vitakketi.",
-          "en": "They think about it with thoughts of renunciation, love, or kindness."
+          "en": "They think about it with thoughts of renunciation, good will, or harmlessness."
         },
         {
           "scid": "an3.123:5.7",
@@ -248,6 +248,7 @@
     "difficulty": null,
     "original_title": "Kusināra Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "At Kusināra",
@@ -255,12 +256,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.123_sujato",
         "segmented": true,
-        "title": "At Kusināra"
+        "title": "At Kusināra",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

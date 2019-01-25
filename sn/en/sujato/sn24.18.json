@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Realized One Neither Exists Nor Doesn’t Exist",
@@ -120,7 +120,7 @@
         {
           "scid": "sn24.18:3.7",
           "pli": "“Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā”ti?",
-          "en": "“That which is seen, heard, thought, cognized, searched, and explored by the mind: is that permanent or impermanent?”"
+          "en": "“That which is seen, heard, thought, known, sought, and explored by the mind: is that permanent or impermanent?”"
         },
         {
           "scid": "sn24.18:3.8",
@@ -253,6 +253,7 @@
     "difficulty": null,
     "original_title": "Nevahotinanahotitathāgato Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Realized One Neither Exists Nor Doesn’t Exist",
@@ -260,12 +261,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn24.18_sujato",
         "segmented": true,
-        "title": "A Realized One Neither Exists Nor Doesn’t Exist"
+        "title": "A Realized One Neither Exists Nor Doesn’t Exist",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

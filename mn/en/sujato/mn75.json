@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Māgaṇḍiya",
@@ -835,7 +835,7 @@
         {
           "scid": "mn75:19.1",
           "pli": "Atha kho bhagavā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:",
-          "en": "Then on that occasion the Buddha spoke these words of inspiration:"
+          "en": "Then on that occasion the Buddha was inspired to exclaim:"
         },
         {
           "scid": "mn75:19.2",
@@ -1378,6 +1378,7 @@
     "difficulty": 2,
     "original_title": "Māgaṇḍiya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Māgaṇḍiya",
@@ -1385,21 +1386,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn75_sujato",
         "segmented": true,
-        "title": "With Māgaṇḍiya"
+        "title": "With Māgaṇḍiya",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn75_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "To Māgandiya"
       },
       {
@@ -1407,9 +1414,12 @@
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn75_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse to Māgandiya"
       }
     ],

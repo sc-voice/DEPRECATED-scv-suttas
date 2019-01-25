@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Shorter Discourse on the Cowherd",
@@ -105,7 +105,7 @@
         {
           "scid": "mn34:3.4",
           "pli": "Evameva kho, bhikkhave, ye hi keci samaṇā vā brāhmaṇā vā akusalā imassa lokassa akusalā parassa lokassa, akusalā māradheyyassa akusalā amāradheyyassa, akusalā maccudheyyassa akusalā amaccudheyyassa, tesaṃ ye sotabbaṃ saddahātabbaṃ maññissanti, tesaṃ taṃ bhavissati dīgharattaṃ ahitāya dukkhāya.",
-          "en": "In the same way, there are ascetics and brahmins who are unskilled in this world and the other world, unskilled in Māra’s dominion and its opposite, and unskilled in Death’s dominion and its opposite. If anyone thinks they are worth listening to and trusting, it will be for their lasting harm and suffering."
+          "en": "In the same way, there are ascetics and brahmins who are unskilled in this world and the other world, unskilled in Māra’s sovereignty and its opposite, and unskilled in Death’s sovereignty and its opposite. If anyone thinks they are worth listening to and trusting, it will be for their lasting harm and suffering."
         },
         {
           "scid": "mn34:4.1",
@@ -170,7 +170,7 @@
         {
           "scid": "mn34:5.12",
           "pli": "Evameva kho, bhikkhave, ye hi keci samaṇā vā brāhmaṇā vā kusalā imassa lokassa kusalā parassa lokassa, kusalā māradheyyassa kusalā amāradheyyassa, kusalā maccudheyyassa kusalā amaccudheyyassa, tesaṃ ye sotabbaṃ saddahātabbaṃ maññissanti, tesaṃ taṃ bhavissati dīgharattaṃ hitāya sukhāya.",
-          "en": "In the same way, there are ascetics and brahmins who are skilled in this world and the other world, skilled in Māra’s dominion and its opposite, and skilled in Death’s dominion and its opposite. If anyone thinks they are worth listening to and trusting, it will be for their lasting welfare and happiness."
+          "en": "In the same way, there are ascetics and brahmins who are skilled in this world and the other world, skilled in Māra’s sovereignty and its opposite, and skilled in Death’s sovereignty and its opposite. If anyone thinks they are worth listening to and trusting, it will be for their lasting welfare and happiness."
         },
         {
           "scid": "mn34:6.1",
@@ -225,7 +225,7 @@
         {
           "scid": "mn34:11.1",
           "pli": "Ahaṃ kho pana, bhikkhave, kusalo imassa lokassa kusalo parassa lokassa, kusalo māradheyyassa kusalo amāradheyyassa, kusalo maccudheyyassa kusalo amaccudheyyassa. Tassa mayhaṃ, bhikkhave, ye sotabbaṃ saddahātabbaṃ maññissanti, tesaṃ taṃ bhavissati dīgharattaṃ hitāya sukhāyā”ti.",
-          "en": "Mendicants, I am skilled in this world and the other world, skilled in Māra’s dominion and its opposite, and skilled in Death’s dominion and its opposite. If anyone thinks I am worth listening to and trusting, it will be for their lasting welfare and happiness.”"
+          "en": "Mendicants, I am skilled in this world and the other world, skilled in Māra’s sovereignty and its opposite, and skilled in Death’s sovereignty and its opposite. If anyone thinks I am worth listening to and trusting, it will be for their lasting welfare and happiness.”"
         },
         {
           "scid": "mn34:12.1",
@@ -323,6 +323,7 @@
     "difficulty": 2,
     "original_title": "Cūḷagopālaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Shorter Discourse on the Cowherd",
@@ -330,21 +331,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn34_sujato",
         "segmented": true,
-        "title": "The Shorter Discourse on the Cowherd"
+        "title": "The Shorter Discourse on the Cowherd",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn34_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Lesser Discourse on the Cowherd"
       }
     ],

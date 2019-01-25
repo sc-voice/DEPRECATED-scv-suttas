@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Koṇḍañña",
@@ -90,7 +90,7 @@
         {
           "scid": "sn8.9:1.7",
           "pli": "Yannūnāhaṃ āyasmantaṃ aññāsikoṇḍaññaṃ bhagavato sammukhā sāruppāhi gāthāhi abhitthaveyyan”ti.",
-          "en": "Why don’t I extoll him in the Buddha’s presence with appropriate verses?”"
+          "en": "Why don’t I extoll him in the Buddha’s presence with fitting verses?”"
         },
         {
           "scid": "sn8.9:2.1",
@@ -110,12 +110,12 @@
         {
           "scid": "sn8.9:2.4",
           "pli": "Atha kho āyasmā vaṅgīso āyasmantaṃ aññāsikoṇḍaññaṃ bhagavato sammukhā sāruppāhi gāthāhi abhitthavi:",
-          "en": "Then Vaṅgīsa extolled Koṇḍañña in the Buddha’s presence with appropriate verses:"
+          "en": "Then Vaṅgīsa extolled Koṇḍañña in the Buddha’s presence with fitting verses:"
         },
         {
           "scid": "sn8.9:3.1",
           "pli": "“Buddhānubuddho so thero,",
-          "en": "“The senior monk who was awakened after the Buddha,"
+          "en": "“The senior monk who was awakened right after the Buddha,"
         },
         {
           "scid": "sn8.9:3.2",
@@ -170,7 +170,7 @@
         {
           "scid": "sn8.9:5.4",
           "pli": "pāde vandati satthuno”ti.",
-          "en": "bows at the teacher’s feet.”"
+          "en": "bows at the Teacher’s feet.”"
         }
       ],
       "type": "Section",
@@ -193,6 +193,7 @@
     "difficulty": null,
     "original_title": "Koṇḍañña Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Koṇḍañña",
@@ -200,12 +201,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn8.9_sujato",
         "segmented": true,
-        "title": "With Koṇḍañña"
+        "title": "With Koṇḍañña",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

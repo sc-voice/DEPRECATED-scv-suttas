@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Simile of the Bull Elephant in the Forest",
@@ -65,7 +65,7 @@
         {
           "scid": "an9.40:1.2",
           "pli": "Yasmiṃ, bhikkhave, samaye āraññikassa nāgassa gocarapasutassa hatthīpi hatthiniyopi hatthikalabhāpi hatthicchāpāpi obhaggobhaggaṃ sākhābhaṅgaṃ khādanti, tena, bhikkhave, āraññiko nāgo aṭṭīyati harāyati jigucchati.",
-          "en": "When the wild bull elephant is engrossed in the pasture, but other elephants—males, females, younglings, or cubs—eat the broken branches that he’s dragged down, the wild bull elephant is horrified, repelled, and disgusted by that."
+          "en": "When the wild bull elephant is engrossed in the pasture, but other elephants—males, females, younglings, or cubs—eat the broken branches that he has dragged down, the wild bull elephant is horrified, repelled, and disgusted by that."
         },
         {
           "scid": "an9.40:1.3",
@@ -100,7 +100,7 @@
         {
           "scid": "an9.40:2.5",
           "pli": "So aparena samayena eko gaṇasmā vūpakaṭṭho viharati, acchinnaggāni ceva tiṇāni khādati, obhaggobhaggañcassa sākhābhaṅgaṃ na khādanti, anāvilāni ca pānīyāni pivati, ogāhā cassa uttiṇṇassa na hatthiniyo kāyaṃ upanighaṃsantiyo gacchanti.",
-          "en": "After some time he lives alone, withdrawn from the herd, and he eats untrampled grass, and they don’t eat the broken branches he’s dragged down. He doesn’t drink muddy water, and the female elephants don’t bump into him after his bath."
+          "en": "After some time he lives alone, withdrawn from the herd, and he eats untrampled grass, and other elephants don’t eat the broken branches he has dragged down. He doesn’t drink muddy water, and the female elephants don’t bump into him after his bath."
         },
         {
           "scid": "an9.40:3.1",
@@ -135,7 +135,7 @@
         {
           "scid": "an9.40:4.5",
           "pli": "So araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
-          "en": "Gone to a wilderness, or to the root of a tree, or to an empty hut, they sit down cross-legged, with their body straight, and establishes mindfulness right there."
+          "en": "Gone to a wilderness, or to the root of a tree, or to an empty hut, they sit down cross-legged, with their body straight, and establish mindfulness right there."
         },
         {
           "scid": "an9.40:5.1",
@@ -258,6 +258,7 @@
     "difficulty": null,
     "original_title": "Nāga Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Simile of the Bull Elephant in the Forest",
@@ -265,21 +266,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.40_sujato",
         "segmented": true,
-        "title": "The Simile of the Bull Elephant in the Forest"
+        "title": "The Simile of the Bull Elephant in the Forest",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an9.40_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "The Tusker"
       }
     ],

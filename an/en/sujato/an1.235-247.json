@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -75,7 +75,7 @@
         {
           "scid": "an1.235-247:4.1",
           "pli": "… Vinayadharānaṃ yadidaṃ paṭācārā. (4)",
-          "en": "… who have memorized the Vinaya is Paṭācārā."
+          "en": "… who have memorized the texts on monastic training is Paṭācārā."
         },
         {
           "scid": "an1.235-247:5.1",
@@ -148,6 +148,7 @@
     "difficulty": null,
     "original_title": "Pañcama Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -155,12 +156,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an1.235-247_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       }
     ],
     "parallel_count": 6,

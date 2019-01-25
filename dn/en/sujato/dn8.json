@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Longer Discourse on the Lion’s Roar",
@@ -120,7 +120,7 @@
         {
           "scid": "dn8:3.6",
           "pli": "Yohaṃ, kassapa, imesaṃ tapassīnaṃ evaṃ āgatiñca gatiñca cutiñca upapattiñca yathābhūtaṃ pajānāmi, sohaṃ kiṃ sabbaṃ tapaṃ garahissāmi, sabbaṃ vā tapassiṃ lūkhājīviṃ ekaṃsena upakkosissāmi upavadissāmi?",
-          "en": "Since I truly understand the coming and going, dying and rebirth of these self-mortifiers in this way, how could I criticize all forms of mortification, or categorically condemn and denounce those self-mortifiers who live rough?"
+          "en": "Since I truly understand the coming and going, passing away and rebirth of these self-mortifiers in this way, how could I criticize all forms of mortification, or categorically condemn and denounce those self-mortifiers who live rough?"
         },
         {
           "scid": "dn8:4.1",
@@ -890,7 +890,7 @@
         {
           "scid": "dn8:18.4",
           "pli": "bhayadassāvī samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena parisuddhājīvo sīlasampanno indriyesu guttadvāro satisampajaññena samannāgato santuṭṭho.",
-          "en": "Seeing danger in the slightest flaw, a mendicant keeps the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They guard the sense doors, have mindfulness and situational awareness, and are content."
+          "en": "Seeing danger in the slightest fault, a mendicant keeps the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They guard the sense doors, have mindfulness and situational awareness, and are content."
         },
         {
           "scid": "dn8:18.5",
@@ -1323,6 +1323,7 @@
     "difficulty": 2,
     "original_title": "Mahāsīhanāda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Longer Discourse on the Lion’s Roar",
@@ -1330,21 +1331,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn8_sujato",
         "segmented": true,
-        "title": "The Longer Discourse on the Lion’s Roar"
+        "title": "The Longer Discourse on the Lion’s Roar",
+        "volpage": null
       },
       {
         "author": "T.W. Rhys Davids",
         "author_short": "T.W. Rhys Davids",
         "author_uid": "tw_rhysdavids",
         "id": "en_dn8_tw_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1899",
         "segmented": false,
+        "volpage": null,
         "title": "The Lion’s Roar to Kassapa"
       }
     ],

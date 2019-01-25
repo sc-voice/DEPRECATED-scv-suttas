@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Aristocrats",
@@ -75,7 +75,7 @@
         {
           "scid": "an6.52:2.2",
           "pli": "“Khattiyā kho, brāhmaṇa, bhogādhippāyā paññūpavicārā balādhiṭṭhānā pathavībhinivesā issariyapariyosānā”ti. (1)",
-          "en": "“Aristocrats, brahmin, have wealth as their ambition. They’re preoccupied with wisdom. They’re dedicated to power. They insist on territory. Their ultimate goal is sovereignty.”"
+          "en": "“Aristocrats, brahmin, have wealth as their ambition. They’re preoccupied with wisdom. They’re dedicated to power. They insist on territory. Their ultimate goal is authority.”"
         },
         {
           "scid": "an6.52:3.1",
@@ -105,7 +105,7 @@
         {
           "scid": "an6.52:5.2",
           "pli": "“Itthī kho, brāhmaṇa, purisādhippāyā alaṅkārūpavicārā puttādhiṭṭhānā asapattībhinivesā issariyapariyosānā”ti. (4)",
-          "en": "“Women have a man as their ambition. They’re preoccupied with adornments. They’re dedicated to their children. They insist on being without a co-wife. Their ultimate goal is sovereignty.”"
+          "en": "“Women have a man as their ambition. They’re preoccupied with adornments. They’re dedicated to their children. They insist on being without a co-wife. Their ultimate goal is authority.”"
         },
         {
           "scid": "an6.52:6.1",
@@ -173,6 +173,7 @@
     "difficulty": null,
     "original_title": "Khattiya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Aristocrats",
@@ -180,12 +181,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.52_sujato",
         "segmented": true,
-        "title": "Aristocrats"
+        "title": "Aristocrats",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Cramped",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "A Direct Witness",
+      "name": "A Personal Witness",
       "uid": "an9.43"
     },
     "previous": {
@@ -240,7 +240,7 @@
         {
           "scid": "an9.42:7.5",
           "pli": "Yadeva tattha rūpasaññā aniruddhā hoti, ayamettha sambādho.",
-          "en": "Whatever perception of forms has not ceased is the confinement there."
+          "en": "Whatever perception of form has not ceased is the confinement there."
         },
         {
           "scid": "an9.42:8.1",
@@ -378,6 +378,7 @@
     "difficulty": null,
     "original_title": "Sambādha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Cramped",
@@ -385,21 +386,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.42_sujato",
         "segmented": true,
-        "title": "Cramped"
+        "title": "Cramped",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an9.42_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Pañcala’s Verse"
       }
     ],

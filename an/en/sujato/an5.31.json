@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Sumanā",
@@ -100,7 +100,7 @@
         {
           "scid": "an5.31:3.3",
           "pli": "dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena.",
-          "en": "divine lifespan, beauty, happiness, fame, and dominion."
+          "en": "divine lifespan, beauty, happiness, fame, and sovereignty."
         },
         {
           "scid": "an5.31:3.4",
@@ -125,7 +125,7 @@
         {
           "scid": "an5.31:4.4",
           "pli": "mānusakena āyunā, mānusakena vaṇṇena, mānusakena sukhena, mānusakena yasena, mānusakena ādhipateyyena.",
-          "en": "human lifespan, beauty, happiness, fame, and dominion."
+          "en": "human lifespan, beauty, happiness, fame, and sovereignty."
         },
         {
           "scid": "an5.31:4.5",
@@ -285,7 +285,7 @@
         {
           "scid": "an5.31:12.3",
           "pli": "Macchariṃ adhigaṇhāti,",
-          "en": "surpasses a mean person"
+          "en": "surpasses a stingy person"
         },
         {
           "scid": "an5.31:12.4",
@@ -338,6 +338,7 @@
     "difficulty": null,
     "original_title": "Sumana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Sumanā",
@@ -345,25 +346,31 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.31_sujato",
         "segmented": true,
-        "title": "With Sumanā"
+        "title": "With Sumanā",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an5.31_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Sumanā"
       }
     ],
-    "parallel_count": 5,
+    "parallel_count": 6,
     "biblio": null,
     "num": 1
   }

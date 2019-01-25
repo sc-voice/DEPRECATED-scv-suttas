@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Mindfulness of Breathing",
@@ -165,7 +165,7 @@
         {
           "scid": "mn118:8.3",
           "pli": "yathārūpā parisā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassa.",
-          "en": "An assembly such as this is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of greeting with joined palms, and is the supreme field of merit for the world."
+          "en": "An assembly such as this is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and is the supreme field of merit for the world."
         },
         {
           "scid": "mn118:8.4",
@@ -803,6 +803,7 @@
     "difficulty": 2,
     "original_title": "Ānāpānassati Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Mindfulness of Breathing",
@@ -810,21 +811,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn118_sujato",
         "segmented": true,
-        "title": "Mindfulness of Breathing"
+        "title": "Mindfulness of Breathing",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn118_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "Mindfulness of Breathing"
       }
     ],

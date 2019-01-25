@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Royal Elephant",
@@ -160,7 +160,7 @@
         {
           "scid": "an4.114:6.1",
           "pli": "Evamevaṃ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti … pe … anuttaraṃ puññakkhettaṃ lokassa.",
-          "en": "In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is the supreme field of merit for the world."
+          "en": "In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world."
         },
         {
           "scid": "an4.114:6.2",
@@ -210,7 +210,7 @@
         {
           "scid": "an4.114:9.2",
           "pli": "Idha, bhikkhave, bhikkhu khamo hoti sītassa uṇhassa jighacchāya pipāsāya, ḍaṃsamakasavātātapasarīsapasamphassānaṃ duruttānaṃ durāgatānaṃ vacanapathānaṃ uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ adhivāsakajātiko hoti.",
-          "en": "It’s when a mendicant endures cold, heat, hunger, and thirst; the touch of flies, mosquitoes, wind, sun, and reptiles; rude and unwelcome criticism; and they put up with physical pain—intense, severe, acute, unpleasant, disagreeable, and life-threatening."
+          "en": "It’s when a mendicant endures cold, heat, hunger, and thirst; the touch of flies, mosquitoes, wind, sun, and reptiles; rude and unwelcome criticism; and they put up with physical pain—sharp, severe, acute, unpleasant, disagreeable, and life-threatening."
         },
         {
           "scid": "an4.114:9.3",
@@ -263,6 +263,7 @@
     "difficulty": null,
     "original_title": "Nāga Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Royal Elephant",
@@ -270,12 +271,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.114_sujato",
         "segmented": true,
-        "title": "A Royal Elephant"
+        "title": "A Royal Elephant",
+        "volpage": null
       }
     ],
     "parallel_count": 15,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With the People of Nagaravinda",
@@ -70,7 +70,7 @@
         {
           "scid": "mn150:2.2",
           "pli": "“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṃ caramāno mahatā bhikkhusaṃghena saddhiṃ nagaravindaṃ anuppatto.",
-          "en": "“It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—has arrived at Bamboo Gate, together with a large Saṅgha of mendicants."
+          "en": "“It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—while wandering in the land of the Kosalans has arrived at Nagaravinda, together with a large Saṅgha of mendicants."
         },
         {
           "scid": "mn150:2.3",
@@ -275,7 +275,7 @@
         {
           "scid": "mn150:6.3",
           "pli": "Addhā te āyasmanto vītarāgā vā rāgavinayāya vā paṭipannā, vītadosā vā dosavinayāya vā paṭipannā, vītamohā vā mohavinayāya vā paṭipannā’ti?",
-          "en": "‘Clearly those venerables are free of greed, hate, and delusion, or practicing to be free of them’?"
+          "en": "“Clearly those venerables are free of greed, hate, and delusion, or practicing to be free of them”?’"
         },
         {
           "scid": "mn150:6.4",
@@ -290,7 +290,7 @@
         {
           "scid": "mn150:6.6",
           "pli": "Natthi kho pana tattha tathārūpā cakkhuviññeyyā rūpā ye disvā disvā abhirameyyuṃ, natthi kho pana tattha tathārūpā sotaviññeyyā saddā ye sutvā sutvā abhirameyyuṃ, natthi kho pana tattha tathārūpā ghānaviññeyyā gandhā ye ghāyitvā ghāyitvā abhirameyyuṃ, natthi kho pana tattha tathārūpā jivhāviññeyyā rasā ye sāyitvā sāyitvā abhirameyyuṃ, natthi kho pana tattha tathārūpā kāyaviññeyyā phoṭṭhabbā ye phusitvā phusitvā abhirameyyuṃ.",
-          "en": "In such places there are no sights known by the eye to see and enjoy. there are no sounds known by the ear to hear and enjoy, no odors known by the nose to smell and enjoy, no flavors known by the tongue to taste and enjoy, and no touches known by the body to feel and enjoy."
+          "en": "In such places there are no sights known by the eye to see and enjoy, there are no sounds known by the ear to hear and enjoy, no odors known by the nose to smell and enjoy, no flavors known by the tongue to taste and enjoy, and no touches known by the body to feel and enjoy."
         },
         {
           "scid": "mn150:6.7",
@@ -300,7 +300,7 @@
         {
           "scid": "mn150:6.8",
           "pli": "addhā te āyasmanto vītarāgā vā rāgavinayāya vā paṭipannā, vītadosā vā dosavinayāya vā paṭipannā, vītamohā vā mohavinayāya vā paṭipannā’ti.",
-          "en": "‘Clearly those venerables are free of greed, hate, and delusion, or practicing to be free of them.’"
+          "en": "“Clearly those venerables are free of greed, hate, and delusion, or practicing to be free of them”.’"
         },
         {
           "scid": "mn150:6.9",
@@ -358,6 +358,7 @@
     "difficulty": 1,
     "original_title": "Nagaravindeyya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With the People of Nagaravinda",
@@ -365,12 +366,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn150_sujato",
         "segmented": true,
-        "title": "With the People of Nagaravinda"
+        "title": "With the People of Nagaravinda",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

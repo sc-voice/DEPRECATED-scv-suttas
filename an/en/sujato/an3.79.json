@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Fragrances",
@@ -155,12 +155,12 @@
         {
           "scid": "an3.79:6.5",
           "pli": "Idaṃ kho taṃ, ānanda, gandhajātaṃ yassa anuvātampi gandho gacchati, paṭivātampi gandho gacchati, anuvātapaṭivātampi gandho gacchatīti.",
-          "en": "This is the kind of fragrance that spreads with the wind, and against it, and both.”"
+          "en": "This is the kind of fragrance that spreads with the wind, and against it, and both."
         },
         {
           "scid": "an3.79:7.1",
           "pli": "Na pupphagandho paṭivātameti,",
-          "en": "“The fragrance of flowers doesn’t spread against the wind,"
+          "en": "The fragrance of flowers doesn’t spread against the wind,"
         },
         {
           "scid": "an3.79:7.2",
@@ -170,7 +170,7 @@
         {
           "scid": "an3.79:7.3",
           "pli": "Satañca gandho paṭivātameti,",
-          "en": "But the fragrance of the good spreads against the wind;"
+          "en": "but the fragrance of the good spreads against the wind;"
         },
         {
           "scid": "an3.79:7.4",
@@ -203,6 +203,7 @@
     "difficulty": null,
     "original_title": "Gandhajāta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Fragrances",
@@ -210,12 +211,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.79_sujato",
         "segmented": true,
-        "title": "Fragrances"
+        "title": "Fragrances",
+        "volpage": null
       }
     ],
     "parallel_count": 16,

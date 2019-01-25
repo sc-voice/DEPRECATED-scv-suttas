@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Self-Effacement",
@@ -425,7 +425,7 @@
         {
           "scid": "mn8:12.25",
           "pli": "‘Pare kodhanā bhavissanti, mayamettha akkodhanā bhavissāmā’ti sallekho karaṇīyo. (24)",
-          "en": "‘Others will be angry, but here we will be without anger.’"
+          "en": "‘Others will be irritable, but here we will be without anger.’"
         },
         {
           "scid": "mn8:12.26",
@@ -445,7 +445,7 @@
         {
           "scid": "mn8:12.29",
           "pli": "‘Pare issukī bhavissanti, mayamettha anissukī bhavissāmā’ti sallekho karaṇīyo. (28)",
-          "en": "‘Others will be envious, but here we will be without envy.’"
+          "en": "‘Others will be jealous, but here we will be without jealousy.’"
         },
         {
           "scid": "mn8:12.30",
@@ -535,7 +535,7 @@
         {
           "scid": "mn8:13.1",
           "pli": "Cittuppādampi kho ahaṃ, cunda, kusalesu dhammesu bahukāraṃ vadāmi, ko pana vādo kāyena vācāya anuvidhīyanāsu.",
-          "en": "Cunda, I say that even giving rise to the thought of skillful qualities is very helpful, not to speak of following that path in body and speech."
+          "en": "Cunda, I say that even giving rise to the thought of skillful qualities is very helpful, let alone following that path in body and speech."
         },
         {
           "scid": "mn8:13.2",
@@ -870,22 +870,22 @@
         {
           "scid": "mn8:17.6",
           "pli": "Catuttālīsapadā vuttā,",
-          "en": ""
+          "en": "Forty-four items have been stated,"
         },
         {
           "scid": "mn8:17.7",
           "pli": "sandhayo pañca desitā;",
-          "en": ""
+          "en": "organized into five sections."
         },
         {
           "scid": "mn8:17.8",
           "pli": "Sallekho nāma suttanto,",
-          "en": ""
+          "en": "“Effacement” is the name of this discourse,"
         },
         {
           "scid": "mn8:17.9",
           "pli": "gambhīro sāgarūpamoti.",
-          "en": ""
+          "en": "which is deep as the ocean."
         },
         {
           "scid": "mn8:17.10",
@@ -913,6 +913,7 @@
     "difficulty": 2,
     "original_title": "Sallekha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Self-Effacement",
@@ -920,32 +921,41 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn8_sujato",
         "segmented": true,
-        "title": "Self-Effacement"
-      },
-      {
-        "author": "I.B. Horner",
-        "author_short": "Horner",
-        "author_uid": "horner",
-        "id": "en_mn8_horner",
-        "lang": "en",
-        "lang_name": "English",
-        "segmented": false,
-        "title": "Discourse on Expunging"
+        "title": "Self-Effacement",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn8_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "Effacement"
+      },
+      {
+        "author": "I.B. Horner",
+        "author_short": "Horner",
+        "author_uid": "horner",
+        "id": "en_mn8_horner",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2017",
+        "segmented": false,
+        "volpage": null,
+        "title": "Discourse on Expunging"
       }
     ],
     "parallel_count": 4,

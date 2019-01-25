@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Nuns’ Quarters",
@@ -160,7 +160,7 @@
         {
           "scid": "sn47.10:6.4",
           "pli": "Tenānanda, bhikkhunā kismiñcideva pasādanīye nimitte cittaṃ paṇidahitabbaṃ.",
-          "en": "That mendicant should direct their mind towards something inspiring."
+          "en": "That mendicant should direct their mind towards an inspiring foundation."
         },
         {
           "scid": "sn47.10:6.5",
@@ -235,7 +235,7 @@
         {
           "scid": "sn47.10:7.5",
           "pli": "Tenānanda, bhikkhunā kismiñcideva pasādanīye nimitte cittaṃ paṇidahitabbaṃ.",
-          "en": "That mendicant should direct their mind towards something inspiring."
+          "en": "That mendicant should direct their mind towards an inspiring foundation."
         },
         {
           "scid": "sn47.10:7.6",
@@ -305,7 +305,7 @@
         {
           "scid": "sn47.10:8.3",
           "pli": "Atha pacchāpure ‘asaṅkhittaṃ vimuttaṃ appaṇihitan’ti pajānāti.",
-          "en": "And they understand: ‘Over a period of time it’s uncontracted, freed, and undirected.’"
+          "en": "And they understand: ‘Over a period of time it’s unconstricted, freed, and undirected.’"
         },
         {
           "scid": "sn47.10:8.4",
@@ -320,7 +320,7 @@
         {
           "scid": "sn47.10:8.6",
           "pli": "Atha pacchāpure ‘asaṅkhittaṃ vimuttaṃ appaṇihitan’ti pajānāti.",
-          "en": "And they understand: ‘Over a period of time it’s uncontracted, freed, and undirected.’"
+          "en": "And they understand: ‘Over a period of time it’s unconstricted, freed, and undirected.’"
         },
         {
           "scid": "sn47.10:8.7",
@@ -335,7 +335,7 @@
         {
           "scid": "sn47.10:8.9",
           "pli": "Atha pacchāpure ‘asaṅkhittaṃ vimuttaṃ appaṇihitan’ti pajānāti.",
-          "en": "And they understand: ‘Over a period of time it’s uncontracted, freed, and undirected.’"
+          "en": "And they understand: ‘Over a period of time it’s unconstricted, freed, and undirected.’"
         },
         {
           "scid": "sn47.10:8.10",
@@ -350,7 +350,7 @@
         {
           "scid": "sn47.10:8.12",
           "pli": "Atha pacchāpure ‘asaṅkhittaṃ vimuttaṃ appaṇihitan’ti pajānāti.",
-          "en": "And they understand: ‘Over a period of time it’s uncontracted, freed, and undirected.’"
+          "en": "And they understand: ‘Over a period of time it’s unconstricted, freed, and undirected.’"
         },
         {
           "scid": "sn47.10:8.13",
@@ -438,6 +438,7 @@
     "difficulty": null,
     "original_title": "Bhikkhunupassaya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Nuns’ Quarters",
@@ -445,21 +446,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn47.10_sujato",
         "segmented": true,
-        "title": "The Nuns’ Quarters"
+        "title": "The Nuns’ Quarters",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn47.10_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "The Bhikkhunis’ Quarter"
       }
     ],

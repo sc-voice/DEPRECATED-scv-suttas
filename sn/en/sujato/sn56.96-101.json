@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Mutilation, Etc.",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Dying as Humans and Reborn in Hell",
+      "name": "Passing Away as Humans and Reborn in Hell",
       "uid": "sn56.102"
     },
     "previous": {
@@ -132,12 +132,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli5.474",
     "uid": "sn56.96-101",
     "blurb": null,
     "difficulty": null,
     "original_title": "Chedanādi Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Mutilation, Etc.",
@@ -145,12 +146,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn56.96-101_sujato",
         "segmented": true,
-        "title": "Mutilation, Etc."
+        "title": "Mutilation, Etc.",
+        "volpage": null
       }
     ],
     "parallel_count": 4,

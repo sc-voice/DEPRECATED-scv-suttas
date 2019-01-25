@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Restraint in the Monastic Code",
@@ -80,7 +80,7 @@
         {
           "scid": "sn47.46:2.4",
           "pli": "Idha tvaṃ, bhikkhu, pātimokkhasaṃvarasaṃvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhassu sikkhāpadesu.",
-          "en": "Live restrained in the monastic code, and accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, keep the rules you’ve undertaken."
+          "en": "Live restrained in the monastic code, conducting yourself well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken."
         },
         {
           "scid": "sn47.46:2.5",
@@ -163,6 +163,7 @@
     "difficulty": null,
     "original_title": "Pātimokkhasaṃvara Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Restraint in the Monastic Code",
@@ -170,21 +171,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn47.46_sujato",
         "segmented": true,
-        "title": "Restraint in the Monastic Code"
+        "title": "Restraint in the Monastic Code",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn47.46_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "The Restraint of the Patimokkha"
       }
     ],

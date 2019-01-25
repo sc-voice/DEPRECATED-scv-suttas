@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -85,7 +85,7 @@
         {
           "scid": "an3.156-162:1.6",
           "pli": "‘natthi kāmesu doso’ti.",
-          "en": "‘There’s nothing wrong with sensual pleasures;"
+          "en": "‘There’s nothing wrong with sensual pleasures’;"
         },
         {
           "scid": "an3.156-162:1.7",
@@ -110,7 +110,7 @@
         {
           "scid": "an3.156-162:2.3",
           "pli": "So na kumbhimukhā paṭiggaṇhāti, na kaḷopimukhā paṭiggaṇhāti na eḷakamantaraṃ na daṇḍamantaraṃ na musalamantaraṃ na dvinnaṃ bhuñjamānānaṃ na gabbhiniyā na pāyamānāya na purisantaragatāya na saṅkittīsu na yattha sā upaṭṭhito hoti na yattha makkhikā saṇḍasaṇḍacārinī na macchaṃ na maṃsaṃ na suraṃ na merayaṃ, na thusodakaṃ pivati.",
-          "en": "They don’t receive anything from a pot or bowl; or from someone who keeps sheep, or who has a weapon or a shovel in their home; or where a couple is eating; or where there is a woman who is pregnant, breast-feeding, or who has a man in her home; or where there’s a dog waiting or flies buzzing. They accept no fish or meat or liquor or wine, and drink no beer."
+          "en": "They don’t receive anything from a pot or bowl; or from someone who keeps sheep, or who has a weapon or a shovel in their home; or where a couple is eating; or where there is a woman who is pregnant, breastfeeding, or who has a man in her home; or where there’s a dog waiting or flies buzzing. They accept no fish or meat or liquor or wine, and drink no beer."
         },
         {
           "scid": "an3.156-162:2.4",
@@ -140,7 +140,7 @@
         {
           "scid": "an3.156-162:4.2",
           "pli": "kesamassulocakopi hoti kesamassulocanānuyogamanuyutto, ",
-          "en": "They tear out hair and beard, pursuing this practice. "
+          "en": "They tear out their hair and beard, committed to this practice. "
         },
         {
           "scid": "an3.156-162:4.3",
@@ -265,7 +265,7 @@
         {
           "scid": "an3.156-162:8.5",
           "pli": "uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati …. (2)",
-          "en": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development."
+          "en": "They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development. …"
         },
         {
           "scid": "an3.156-162:9.1",
@@ -280,7 +280,7 @@
         {
           "scid": "an3.156-162:9.3",
           "pli": "vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti … pe …. (3)",
-          "en": "They develop the basis of psychic power that has immersion due to inquiry, and active effort."
+          "en": "They develop the basis of psychic power that has immersion due to inquiry, and active effort. …"
         },
         {
           "scid": "an3.156-162:10.1",
@@ -305,7 +305,7 @@
         {
           "scid": "an3.156-162:10.5",
           "pli": "paññindriyaṃ bhāveti … pe …. (4)",
-          "en": "wisdom …"
+          "en": "wisdom …"
         },
         {
           "scid": "an3.156-162:11.1",
@@ -415,7 +415,7 @@
         {
           "scid": "an3.156-162:13.10",
           "pli": "Imā kho, bhikkhave, tisso paṭipadā”ti. (7)",
-          "en": "These are the three practices."
+          "en": "These are the three practices.”"
         },
         {
           "scid": "an3.156-162:13.11",
@@ -457,12 +457,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli1.295",
     "uid": "an3.156-162",
     "blurb": null,
     "difficulty": null,
     "original_title": "Acelaka Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -470,12 +471,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.156-162_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       }
     ],
     "parallel_count": 9,

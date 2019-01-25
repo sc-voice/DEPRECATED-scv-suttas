@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Shorter Discourse on the Full-Moon Night",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "The Longer Discourse on the Full-Moon night",
+      "name": "The Longer Discourse on the Full-Moon Night",
       "uid": "mn109"
     }
   },
@@ -558,6 +558,7 @@
     "difficulty": 1,
     "original_title": "Cūḷapuṇṇama Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Shorter Discourse on the Full-Moon Night",
@@ -565,12 +566,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn110_sujato",
         "segmented": true,
-        "title": "The Shorter Discourse on the Full-Moon Night"
+        "title": "The Shorter Discourse on the Full-Moon Night",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

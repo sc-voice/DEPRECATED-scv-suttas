@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With the Sakyans",
@@ -95,7 +95,7 @@
         {
           "scid": "an10.46:2.3",
           "pli": "Dakkho puriso uṭṭhānasampannoti alaṃvacanāyā”ti?",
-          "en": "Is this enough to call him an expert and industrious man?”"
+          "en": "Is this enough to call him a deft and industrious man?”"
         },
         {
           "scid": "an10.46:2.4",
@@ -115,7 +115,7 @@
         {
           "scid": "an10.46:3.3",
           "pli": "Dakkho puriso uṭṭhānasampannoti alaṃvacanāyā”ti?",
-          "en": "Is this enough to call him an expert and industrious man?”"
+          "en": "Is this enough to call him a deft and industrious man?”"
         },
         {
           "scid": "an10.46:3.4",
@@ -200,7 +200,7 @@
         {
           "scid": "an10.46:4.16",
           "pli": "Dakkho puriso uṭṭhānasampannoti alaṃvacanāyā”ti?",
-          "en": "Is this enough to call him an expert and industrious man?”"
+          "en": "Is this enough to call him a deft and industrious man?”"
         },
         {
           "scid": "an10.46:4.17",
@@ -245,7 +245,7 @@
         {
           "scid": "an10.46:6.5",
           "pli": "“Kāmā hi, bhante, aniccā tucchā musā mosadhammā”ti.",
-          "en": "“Because sensual pleasures, sir, are impermanent, baseless, false, and deceptive.”"
+          "en": "“Because sensual pleasures, sir, are impermanent, hollow, false, and deceptive.”"
         },
         {
           "scid": "an10.46:7.1",
@@ -468,6 +468,7 @@
     "difficulty": null,
     "original_title": "Sakka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With the Sakyans",
@@ -475,21 +476,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.46_sujato",
         "segmented": true,
-        "title": "With the Sakyans"
+        "title": "With the Sakyans",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an10.46_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "To the Sakyans (on the Uposatha)"
       }
     ],

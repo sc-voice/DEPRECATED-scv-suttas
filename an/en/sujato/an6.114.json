@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Contentment",
@@ -70,7 +70,7 @@
         {
           "scid": "an6.114:1.3",
           "pli": "Asantuṭṭhitā, asampajaññaṃ, mahicchatā.",
-          "en": "Discontent, lack of situational awareness, and having many wishes."
+          "en": "Lack of contentment, lack of situational awareness, and having many wishes."
         },
         {
           "scid": "an6.114:1.4",
@@ -90,7 +90,7 @@
         {
           "scid": "an6.114:1.7",
           "pli": "Asantuṭṭhitāya pahānāya santuṭṭhitā bhāvetabbā, asampajaññassa pahānāya sampajaññaṃ bhāvetabbaṃ, mahicchatāya pahānāya appicchatā bhāvetabbā.",
-          "en": "You should develop contentment to give up discontent, situational awareness to give up lack of situational awareness, and having few wishes to give up having many wishes."
+          "en": "You should develop contentment to give up lack of contentment, situational awareness to give up lack of situational awareness, and having few wishes to give up having many wishes."
         },
         {
           "scid": "an6.114:1.8",
@@ -123,6 +123,7 @@
     "difficulty": null,
     "original_title": "Santuṭṭhitā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Contentment",
@@ -130,12 +131,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.114_sujato",
         "segmented": true,
-        "title": "Contentment"
+        "title": "Contentment",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

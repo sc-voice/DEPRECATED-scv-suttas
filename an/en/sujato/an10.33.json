@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Judge",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Full Ordination",
+      "name": "Ordination",
       "uid": "an10.34"
     },
     "previous": {
@@ -75,7 +75,7 @@
         {
           "scid": "an10.33:1.4",
           "pli": "Idhupāli, bhikkhu sīlavā hoti; pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu;",
-          "en": "It’s when a mendicant is ethical, restrained in the monastic code, and has appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+          "en": "It’s when a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
         },
         {
           "scid": "an10.33:1.5",
@@ -90,7 +90,7 @@
         {
           "scid": "an10.33:1.7",
           "pli": "vinaye kho pana ṭhito hoti asaṃhīro;",
-          "en": "They’re firm in the training, not shaky."
+          "en": "They’re firm and unfaltering in the training."
         },
         {
           "scid": "an10.33:1.8",
@@ -153,6 +153,7 @@
     "difficulty": null,
     "original_title": "Ubbāhikā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Judge",
@@ -160,21 +161,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.33_sujato",
         "segmented": true,
-        "title": "A Judge"
+        "title": "A Judge",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an10.33_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Adjudication"
       }
     ],

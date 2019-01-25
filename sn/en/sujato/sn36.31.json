@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Spiritual",
@@ -60,27 +60,27 @@
         {
           "scid": "sn36.31:1.1",
           "pli": "“Atthi, bhikkhave, sāmisā pīti, atthi nirāmisā pīti, atthi nirāmisā nirāmisatarā pīti;",
-          "en": "“Mendicants, there is carnal rapture, spiritual rapture, and even more spiritual rapture."
+          "en": "“Mendicants, there is material rapture, spiritual rapture, and even more spiritual rapture."
         },
         {
           "scid": "sn36.31:1.2",
           "pli": "atthi sāmisaṃ sukhaṃ, atthi nirāmisaṃ sukhaṃ, atthi nirāmisā nirāmisataraṃ sukhaṃ;",
-          "en": "There is carnal pleasure, spiritual pleasure, and even more spiritual pleasure."
+          "en": "There is material pleasure, spiritual pleasure, and even more spiritual pleasure."
         },
         {
           "scid": "sn36.31:1.3",
           "pli": "atthi sāmisā upekkhā, atthi nirāmisā upekkhā, atthi nirāmisā nirāmisatarā upekkhā;",
-          "en": "There is carnal equanimity, spiritual equanimity, and even more spiritual equanimity."
+          "en": "There is material equanimity, spiritual equanimity, and even more spiritual equanimity."
         },
         {
           "scid": "sn36.31:1.4",
           "pli": "atthi sāmiso vimokkho, atthi nirāmiso vimokkho, atthi nirāmisā nirāmisataro vimokkho.",
-          "en": "There is carnal liberation, spiritual liberation, and even more spiritual liberation."
+          "en": "There is material liberation, spiritual liberation, and even more spiritual liberation."
         },
         {
           "scid": "sn36.31:1.5",
           "pli": "Katamā ca, bhikkhave, sāmisā pīti?",
-          "en": "And what is carnal rapture?"
+          "en": "And what is material rapture?"
         },
         {
           "scid": "sn36.31:1.6",
@@ -110,7 +110,7 @@
         {
           "scid": "sn36.31:1.11",
           "pli": "Yā kho, bhikkhave, ime pañca kāmaguṇe paṭicca uppajjati pīti, ayaṃ vuccati, bhikkhave, sāmisā pīti.",
-          "en": "The rapture that arises from these five kinds of sensual stimulation is called carnal rapture."
+          "en": "The rapture that arises from these five kinds of sensual stimulation is called material rapture."
         },
         {
           "scid": "sn36.31:2.1",
@@ -145,7 +145,7 @@
         {
           "scid": "sn36.31:4.1",
           "pli": "Katamañca, bhikkhave, sāmisaṃ sukhaṃ?",
-          "en": "And what is carnal pleasure?"
+          "en": "And what is material pleasure?"
         },
         {
           "scid": "sn36.31:4.2",
@@ -175,7 +175,7 @@
         {
           "scid": "sn36.31:4.7",
           "pli": "Yaṃ kho, bhikkhave, ime pañca kāmaguṇe paṭicca uppajjati sukhaṃ somanassaṃ, idaṃ vuccati, bhikkhave, sāmisaṃ sukhaṃ.",
-          "en": "The pleasure and happiness that arise from these five kinds of sensual stimulation is called carnal pleasure."
+          "en": "The pleasure and happiness that arise from these five kinds of sensual stimulation is called material pleasure."
         },
         {
           "scid": "sn36.31:5.1",
@@ -215,7 +215,7 @@
         {
           "scid": "sn36.31:7.1",
           "pli": "Katamā ca, bhikkhave, sāmisā upekkhā?",
-          "en": "And what is carnal equanimity?"
+          "en": "And what is material equanimity?"
         },
         {
           "scid": "sn36.31:7.2",
@@ -245,7 +245,7 @@
         {
           "scid": "sn36.31:7.7",
           "pli": "Yā kho, bhikkhave, ime pañca kāmaguṇe paṭicca uppajjati upekkhā, ayaṃ vuccati, bhikkhave, sāmisā upekkhā.",
-          "en": "The equanimity that arises from these five kinds of sensual stimulation is called carnal equanimity."
+          "en": "The equanimity that arises from these five kinds of sensual stimulation is called material equanimity."
         },
         {
           "scid": "sn36.31:8.1",
@@ -275,12 +275,12 @@
         {
           "scid": "sn36.31:10.1",
           "pli": "Katamo ca, bhikkhave, sāmiso vimokkho?",
-          "en": "And what is carnal liberation?"
+          "en": "And what is material liberation?"
         },
         {
           "scid": "sn36.31:10.2",
           "pli": "Rūpappaṭisaṃyutto vimokkho sāmiso vimokkho.",
-          "en": "Liberation connected with form is carnal."
+          "en": "Liberation connected with form is material."
         },
         {
           "scid": "sn36.31:11.1",
@@ -344,7 +344,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, there is carnal rapture, spiritual rapture, and even…",
+      "title": "“Mendicants, there is material rapture, spiritual rapture, and even…",
       "expandable": false
     }
   ],
@@ -358,6 +358,7 @@
     "difficulty": null,
     "original_title": "Nirāmisa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Spiritual",
@@ -365,21 +366,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn36.31_sujato",
         "segmented": true,
-        "title": "Spiritual"
+        "title": "Spiritual",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn36.31_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Spiritual"
       }
     ],

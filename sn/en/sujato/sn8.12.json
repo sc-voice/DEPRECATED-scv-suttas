@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Vaṅgīsa",
@@ -110,7 +110,7 @@
         {
           "scid": "sn8.12:4.1",
           "pli": "Bahunnaṃ vata atthāya,",
-          "en": "It has truly been for the benefit of many"
+          "en": "It was truly for the benefit of many"
         },
         {
           "scid": "sn8.12:4.2",
@@ -145,7 +145,7 @@
         {
           "scid": "sn8.12:5.4",
           "pli": "kataṃ buddhassa sāsanaṃ.",
-          "en": "I’ve done what the Buddha taught."
+          "en": "and fulfilled the Buddha’s instructions."
         },
         {
           "scid": "sn8.12:6.1",
@@ -160,12 +160,12 @@
         {
           "scid": "sn8.12:6.3",
           "pli": "Tevijjo iddhipattomhi,",
-          "en": "I am master of three knowledges and attained in psychic power,"
+          "en": "I am master of three knowledges, attained in psychic power,"
         },
         {
           "scid": "sn8.12:6.4",
           "pli": "Cetopariyāyakovido”ti.",
-          "en": "and I’m expert in comprehending the minds of others.”"
+          "en": "cxpert in comprehending the minds of others.”"
         },
         {
           "scid": "sn8.12:7.1",
@@ -228,6 +228,7 @@
     "difficulty": null,
     "original_title": "Vaṅgīsa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Vaṅgīsa",
@@ -235,12 +236,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn8.12_sujato",
         "segmented": true,
-        "title": "With Vaṅgīsa"
+        "title": "With Vaṅgīsa",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

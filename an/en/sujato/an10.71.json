@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "One Might Wish",
@@ -85,7 +85,7 @@
         {
           "scid": "an10.71:2.1",
           "pli": "“Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā aṇumattesu vajjesu bhayadassāvino, samādāya sikkhatha sikkhāpadesu.",
-          "en": "“Mendicants, live by the ethical precepts and the monastic code. Live restrained in the code of conduct, accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, keep the rules you’ve undertaken."
+          "en": "“Mendicants, live by the ethical precepts and the monastic code. Live restrained in the code of conduct, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken."
         },
         {
           "scid": "an10.71:3.1",
@@ -125,7 +125,7 @@
         {
           "scid": "an10.71:10.1",
           "pli": "Ākaṅkheyya ce, bhikkhave, bhikkhu ‘bhayabheravasaho assaṃ, na ca maṃ bhayabheravo saheyya, uppannaṃ bhayabheravaṃ abhibhuyya abhibhuyya vihareyyan’ti, sīlesvevassa … pe … brūhetā suññāgārānaṃ. (8)",
-          "en": "A mendicant might wish: ‘May I prevail over fear and terror, and may fear and terror not prevail over me. May I live having mastered fear and terror whenever they arise.’ So let them fulfill their precepts …"
+          "en": "A mendicant might wish: ‘May I prevail over fear and dread, and may fear and dread not prevail over me. May I live having mastered fear and dread whenever they arise.’ So let them fulfill their precepts …"
         },
         {
           "scid": "an10.71:11.1",
@@ -140,7 +140,7 @@
         {
           "scid": "an10.71:13.1",
           "pli": "‘Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā aṇumattesu vajjesu bhayadassāvino, samādāya sikkhatha sikkhāpadesū’ti, ",
-          "en": "‘Live by the ethical precepts and the monastic code. Live restrained in the code of conduct, accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, keep the rules you’ve undertaken.’ "
+          "en": "‘Live by the ethical precepts and the monastic code. Live restrained in the code of conduct, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken.’ "
         },
         {
           "scid": "an10.71:13.2",
@@ -173,6 +173,7 @@
     "difficulty": null,
     "original_title": "Ākaṅkha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "One Might Wish",
@@ -180,21 +181,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.71_sujato",
         "segmented": true,
-        "title": "One Might Wish"
+        "title": "One Might Wish",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an10.71_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Wishes"
       }
     ],

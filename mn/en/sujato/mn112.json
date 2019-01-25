@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Sixfold Purification",
@@ -200,7 +200,7 @@
         {
           "scid": "mn112:6.2",
           "pli": "‘rūpaṃ kho ahaṃ, āvuso, abalaṃ virāgunaṃ anassāsikanti viditvā ye rūpe upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
-          "en": "‘Reverends, knowing that form is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental dedication, insistence, and underlying tendency for form."
+          "en": "‘Reverends, knowing that form is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental fixation, insistence, and underlying tendency for form."
         },
         {
           "scid": "mn112:6.3",
@@ -220,7 +220,7 @@
         {
           "scid": "mn112:6.6",
           "pli": "viññāṇaṃ kho ahaṃ, āvuso, abalaṃ virāgunaṃ anassāsikanti viditvā ye viññāṇe upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
-          "en": "consciousness is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental dedication, insistence, and underlying tendency for consciousness."
+          "en": "consciousness is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental fixation, insistence, and underlying tendency for consciousness."
         },
         {
           "scid": "mn112:6.7",
@@ -275,7 +275,7 @@
         {
           "scid": "mn112:8.3",
           "pli": "Ye ca pathavīdhātunissitā upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
-          "en": "And I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental dedication, insistence, and underlying tendency based on the earth element."
+          "en": "And I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental fixation, insistence, and underlying tendency based on the earth element."
         },
         {
           "scid": "mn112:8.4",
@@ -355,7 +355,7 @@
         {
           "scid": "mn112:10.2",
           "pli": "‘cakkhusmiṃ, āvuso, rūpe cakkhuviññāṇe cakkhuviññāṇaviññātabbesu dhammesu yo chando yo rāgo yā nandī yā taṇhā ye ca upāyūpādānā cetaso adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā vimuttaṃ me cittanti pajānāmi.",
-          "en": "‘I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of desire and greed and relishing and craving; attraction, grasping, mental dedication, insistence, and underlying tendency for the eye, sights, eye consciousness, and things knowable by eye consciousness."
+          "en": "‘I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of desire and greed and relishing and craving; attraction, grasping, mental fixation, insistence, and underlying tendency for the eye, sights, eye consciousness, and things knowable by eye consciousness."
         },
         {
           "scid": "mn112:10.3",
@@ -710,7 +710,7 @@
         {
           "scid": "mn112:19.1",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmesiṃ.",
-          "en": "When my mind had immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—I extended it toward knowledge of the ending of defilements."
+          "en": "When my mind had immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—I extended it toward knowledge of the ending of defilements."
         },
         {
           "scid": "mn112:19.2",
@@ -798,6 +798,7 @@
     "difficulty": 3,
     "original_title": "Chabbisodhana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Sixfold Purification",
@@ -805,12 +806,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn112_sujato",
         "segmented": true,
-        "title": "The Sixfold Purification"
+        "title": "The Sixfold Purification",
+        "volpage": null
       }
     ],
     "parallel_count": 37,

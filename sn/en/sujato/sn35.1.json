@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Interior as Impermanent",
@@ -105,7 +105,7 @@
         {
           "scid": "sn35.1:2.4",
           "pli": "Yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
-          "en": "And what’s not-self should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+          "en": "And what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’"
         },
         {
           "scid": "sn35.1:2.5",
@@ -175,7 +175,7 @@
         {
           "scid": "sn35.1:2.18",
           "pli": "Yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
-          "en": "And what’s not-self should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+          "en": "And what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’"
         },
         {
           "scid": "sn35.1:2.19",
@@ -218,6 +218,7 @@
     "difficulty": null,
     "original_title": "Ajjhattānicca Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Interior as Impermanent",
@@ -225,21 +226,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn35.1_sujato",
         "segmented": true,
-        "title": "The Interior as Impermanent"
+        "title": "The Interior as Impermanent",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn35.1_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "The Internal as Impermanent"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Lump of Foam",
@@ -100,7 +100,7 @@
         {
           "scid": "sn22.95:5.1",
           "pli": "Seyyathāpi, bhikkhave, puriso sāratthiko sāragavesī sārapariyesanaṃ caramāno tiṇhaṃ kuṭhāriṃ ādāya vanaṃ paviseyya. So tattha passeyya mahantaṃ kadalikkhandhaṃ ujuṃ navaṃ akukkukajātaṃ. Tamenaṃ mūle chindeyya; mūle chetvā agge chindeyya, agge chetvā pattavaṭṭiṃ vinibbhujeyya. So tassa pattavaṭṭiṃ vinibbhujanto pheggumpi nādhigaccheyya, kuto sāraṃ. Tamenaṃ cakkhumā puriso passeyya nijjhāyeyya yoniso upaparikkheyya. Tassa taṃ passato nijjhāyato yoniso upaparikkhato rittakaññeva khāyeyya, tucchakaññeva khāyeyya, asārakaññeva khāyeyya. Kiñhi siyā, bhikkhave, kadalikkhandhe sāro?",
-          "en": "Suppose there was a person in need of heartwood. Wandering in search of heartwood, they’d take a sharp axe and enter a forest. There they’d see a big banana tree, straight and young and flawlessly grown. They’d cut it down at the base, cut off the top, and unroll the coiled sheaths. But they wouldn’t even find sapwood, much less heartwood. And a person with good eyesight would see it and contemplate it, examining it carefully. And it would appear to them as completely void, hollow, and insubstantial. For what substance could there be in a banana tree?"
+          "en": "Suppose there was a person in need of heartwood. Wandering in search of heartwood, they’d take a sharp axe and enter a forest. There they’d see a big banana tree, straight and young and grown free of defects. They’d cut it down at the base, cut off the top, and unroll the coiled sheaths. But they wouldn’t even find sapwood, much less heartwood. And a person with good eyesight would see it and contemplate it, examining it carefully. And it would appear to them as completely void, hollow, and insubstantial. For what substance could there be in a banana tree?"
         },
         {
           "scid": "sn22.95:5.2",
@@ -210,7 +210,7 @@
         {
           "scid": "sn22.95:11.4",
           "pli": "rūpaṃ passatha chaḍḍitaṃ.",
-          "en": "you’ll see this form cast off."
+          "en": "you’ll see this form discarded."
         },
         {
           "scid": "sn22.95:12.1",
@@ -318,6 +318,7 @@
     "difficulty": null,
     "original_title": "Pheṇapiṇḍūpama Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Lump of Foam",
@@ -325,21 +326,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn22.95_sujato",
         "segmented": true,
-        "title": "A Lump of Foam"
+        "title": "A Lump of Foam",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn22.95_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "A Lump of Foam"
       }
     ],

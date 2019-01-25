@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Great Forty",
@@ -205,7 +205,7 @@
         {
           "scid": "mn117:9.1",
           "pli": "So micchādiṭṭhiyā pahānāya vāyamati, sammādiṭṭhiyā, upasampadāya, svāssa hoti sammāvāyāmo.",
-          "en": "They make an effort to give up wrong view and take up right view: that’s their right effort."
+          "en": "They make an effort to give up wrong view and embrace right view: that’s their right effort."
         },
         {
           "scid": "mn117:9.2",
@@ -275,7 +275,7 @@
         {
           "scid": "mn117:13.2",
           "pli": "Nekkhammasaṅkappo, abyāpādasaṅkappo, avihiṃsāsaṅkappo:",
-          "en": "Thoughts of renunciation, love, and kindness."
+          "en": "Thoughts of renunciation, good will, and harmlessness."
         },
         {
           "scid": "mn117:13.3",
@@ -300,7 +300,7 @@
         {
           "scid": "mn117:15.1",
           "pli": "So micchāsaṅkappassa pahānāya vāyamati, sammāsaṅkappassa upasampadāya, svāssa hoti sammāvāyāmo.",
-          "en": "They make an effort to give up wrong thought and take up right thought: that’s their right effort."
+          "en": "They make an effort to give up wrong thought and embrace right thought: that’s their right effort."
         },
         {
           "scid": "mn117:15.2",
@@ -395,7 +395,7 @@
         {
           "scid": "mn117:21.1",
           "pli": "So micchāvācāya pahānāya vāyamati, sammāvācāya upasampadāya; svāssa hoti sammāvāyāmo.",
-          "en": "They make an effort to give up wrong speech and take up right speech: that’s their right effort."
+          "en": "They make an effort to give up wrong speech and embrace right speech: that’s their right effort."
         },
         {
           "scid": "mn117:21.2",
@@ -490,7 +490,7 @@
         {
           "scid": "mn117:27.1",
           "pli": "So micchākammantassa pahānāya vāyamati, sammākammantassa upasampadāya; svāssa hoti sammāvāyāmo.",
-          "en": "They make an effort to give up wrong action and take up right action: that’s their right effort."
+          "en": "They make an effort to give up wrong action and embrace right action: that’s their right effort."
         },
         {
           "scid": "mn117:27.2",
@@ -525,7 +525,7 @@
         {
           "scid": "mn117:29.2",
           "pli": "Kuhanā, lapanā, nemittikatā, nippesikatā, lābhena lābhaṃ nijigīsanatā—",
-          "en": "Deception, flattery, hinting, and belittling, and using material possessions to pursue other material possessions."
+          "en": "Deceit, flattery, hinting, and belittling, and using material possessions to pursue other material possessions."
         },
         {
           "scid": "mn117:29.3",
@@ -585,7 +585,7 @@
         {
           "scid": "mn117:33.1",
           "pli": "So micchāājīvassa pahānāya vāyamati, sammāājīvassa upasampadāya; svāssa hoti sammāvāyāmo.",
-          "en": "They make an effort to give up wrong livelihood and take up right livelihood: that’s their right effort."
+          "en": "They make an effort to give up wrong livelihood and embrace right livelihood: that’s their right effort."
         },
         {
           "scid": "mn117:33.2",
@@ -620,7 +620,7 @@
         {
           "scid": "mn117:34.5",
           "pli": "Tatrapi sammāñāṇena aneke pāpakā akusalā dhammā vigatā bhāvanāpāripūriṃ gacchanti.",
-          "en": "And here too, the eradication of many bad, unskillful qualities is developed to perfection due to right knowledge."
+          "en": "And here too, the eradication of many bad, unskillful qualities is fully developed due to right knowledge."
         },
         {
           "scid": "mn117:35.1",
@@ -645,7 +645,7 @@
         {
           "scid": "mn117:35.5",
           "pli": "Sammādiṭṭhipaccayā aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
-          "en": "And because of right view, many skillful qualities are developed to perfection."
+          "en": "And because of right view, many skillful qualities are fully developed."
         },
         {
           "scid": "mn117:35.6",
@@ -700,7 +700,7 @@
         {
           "scid": "mn117:35.16",
           "pli": "Sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
-          "en": "And because of right freedom, many skillful qualities are developed to perfection."
+          "en": "And because of right freedom, many skillful qualities are fully developed."
         },
         {
           "scid": "mn117:36.1",
@@ -823,6 +823,7 @@
     "difficulty": 3,
     "original_title": "Mahācattārīsaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Great Forty",
@@ -830,21 +831,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn117_sujato",
         "segmented": true,
-        "title": "The Great Forty"
+        "title": "The Great Forty",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn117_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "The Great Forty"
       }
     ],

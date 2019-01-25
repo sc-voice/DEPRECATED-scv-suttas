@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Darkness",
@@ -70,12 +70,12 @@
         {
           "scid": "sn56.46:2.2",
           "pli": "“mahā vata so, bhante, andhakāro, sumahā vata so, bhante, andhakāro.",
-          "en": "“Sir, that darkness really is intense, so very intense."
+          "en": "“Sir, that darkness really is mighty, so very mighty."
         },
         {
           "scid": "sn56.46:2.3",
           "pli": "Atthi nu kho, bhante, etamhā andhakārā añño andhakāro mahantataro ca bhayānakataro cā”ti?",
-          "en": "Is there any other darkness more intense and scarier than this one?”"
+          "en": "Is there any other darkness more mighty and terrifying than this one?”"
         },
         {
           "scid": "sn56.46:2.4",
@@ -178,6 +178,7 @@
     "difficulty": null,
     "original_title": "Andhakāra Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Darkness",
@@ -185,21 +186,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn56.46_sujato",
         "segmented": true,
-        "title": "Darkness"
+        "title": "Darkness",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn56.46_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Darkness"
       }
     ],

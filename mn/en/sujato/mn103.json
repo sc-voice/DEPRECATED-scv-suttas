@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Is This What You Think Of Me?",
@@ -450,7 +450,7 @@
         {
           "scid": "mn103:10.2",
           "pli": "‘iti mayhañca avihesā bhavissati parassa ca puggalassa anupaghāto, paro hi puggalo akkodhano anupanāhī adaḷhadiṭṭhī suppaṭinissaggī, sakkomi cāhaṃ etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetun’ti.",
-          "en": "‘I won’t be troubled and the other individual won’t be hurt, for they’re not angry and hostile. They don’t hold fast to their views, but let them go easily. I can draw them away from the unskillful and establish them in the skillful.’"
+          "en": "‘I won’t be troubled and the other individual won’t be hurt, for they’re not irritable and hostile. They don’t hold fast to their views, but let them go easily. I can draw them away from the unskillful and establish them in the skillful.’"
         },
         {
           "scid": "mn103:10.3",
@@ -465,7 +465,7 @@
         {
           "scid": "mn103:11.2",
           "pli": "‘mayhaṃ kho avihesā bhavissati parassa ca puggalassa upaghāto, paro hi puggalo kodhano upanāhī adaḷhadiṭṭhī suppaṭinissaggī, sakkomi cāhaṃ etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetuṃ.",
-          "en": "‘I will be troubled and the other individual will be hurt, for they’re angry and hostile. However, they don’t hold fast to their views, but let them go easily. I can draw them away from the unskillful and establish them in the skillful."
+          "en": "‘I will be troubled and the other individual will be hurt, for they’re irritable and hostile. However, they don’t hold fast to their views, but let them go easily. I can draw them away from the unskillful and establish them in the skillful."
         },
         {
           "scid": "mn103:11.3",
@@ -495,7 +495,7 @@
         {
           "scid": "mn103:12.2",
           "pli": "‘mayhaṃ kho vihesā bhavissati parassa ca puggalassa anupaghāto. Paro hi puggalo akkodhano anupanāhī daḷhadiṭṭhī duppaṭinissaggī, sakkomi cāhaṃ etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetuṃ.",
-          "en": "‘I will be troubled but the other individual won’t be hurt, for they’re not angry and hostile. However, they hold fast to their views, refusing to let go. Nevertheless, I can draw them away from the unskillful and establish them in the skillful."
+          "en": "‘I will be troubled but the other individual won’t be hurt, for they’re not irritable and hostile. However, they hold fast to their views, refusing to let go. Nevertheless, I can draw them away from the unskillful and establish them in the skillful."
         },
         {
           "scid": "mn103:12.3",
@@ -525,7 +525,7 @@
         {
           "scid": "mn103:13.2",
           "pli": "‘mayhañca kho vihesā bhavissati parassa ca puggalassa upaghāto. Paro hi puggalo kodhano upanāhī daḷhadiṭṭhī duppaṭinissaggī, sakkomi cāhaṃ etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetuṃ.",
-          "en": "‘I will be troubled and the other individual will be hurt, for they’re angry and hostile. And they hold fast to their views, refusing to let go. Nevertheless, I can draw them away from the unskillful and establish them in the skillful."
+          "en": "‘I will be troubled and the other individual will be hurt, for they’re irritable and hostile. And they hold fast to their views, refusing to let go. Nevertheless, I can draw them away from the unskillful and establish them in the skillful."
         },
         {
           "scid": "mn103:13.3",
@@ -555,7 +555,7 @@
         {
           "scid": "mn103:14.2",
           "pli": "‘mayhañca kho vihesā bhavissati parassa ca puggalassa upaghāto. Paro hi puggalo kodhano upanāhī daḷhadiṭṭhī duppaṭinissaggī, na cāhaṃ sakkomi etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale patiṭṭhāpetun’ti.",
-          "en": "‘I will be troubled and the other individual will be hurt, for they’re angry and hostile. And they hold fast to their views, refusing to let go. I cannot draw them away from the unskillful and establish them in the skillful.’"
+          "en": "‘I will be troubled and the other individual will be hurt, for they’re irritable and hostile. And they hold fast to their views, refusing to let go. I cannot draw them away from the unskillful and establish them in the skillful.’"
         },
         {
           "scid": "mn103:14.3",
@@ -703,6 +703,7 @@
     "difficulty": 1,
     "original_title": "Kinti Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Is This What You Think Of Me?",
@@ -710,21 +711,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn103_sujato",
         "segmented": true,
-        "title": "Is This What You Think Of Me?"
+        "title": "Is This What You Think Of Me?",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn103_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "What Do You Think About Me?"
       }
     ],

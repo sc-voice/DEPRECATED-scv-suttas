@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Love (1st)",
@@ -80,12 +80,12 @@
         {
           "scid": "an4.125:1.5",
           "pli": "Tattha ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṃ kurumāno brahmakāyikānaṃ devānaṃ sahabyataṃ upapajjati.",
-          "en": "If they abide in that, are committed to it, and meditate on it often without losing it, when they die they’re reborn in the company of the gods of Brahmā’s Group."
+          "en": "If they abide in that, are committed to it, and meditate on it often without losing it, when they die they’re reborn in the company of the gods of Brahmā’s Host."
         },
         {
           "scid": "an4.125:1.6",
           "pli": "Brahmakāyikānaṃ, bhikkhave, devānaṃ kappo āyuppamāṇaṃ.",
-          "en": "The lifespan of the gods of Brahma’s Group is one eon."
+          "en": "The lifespan of the gods of Brahma’s Host is one eon."
         },
         {
           "scid": "an4.125:1.7",
@@ -188,6 +188,7 @@
     "difficulty": null,
     "original_title": "Paṭhamamettā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Love (1st)",
@@ -195,21 +196,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.125_sujato",
         "segmented": true,
-        "title": "Love (1st)"
+        "title": "Love (1st)",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an4.125_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Good Will (1)"
       }
     ],

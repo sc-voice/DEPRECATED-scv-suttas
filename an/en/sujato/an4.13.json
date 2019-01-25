@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Effort",
@@ -95,17 +95,17 @@
         {
           "scid": "an4.13:2.1",
           "pli": "Sammappadhānā māradheyyābhibhūtā,",
-          "en": "By rightly striving, they’ve crushed Māra’s dominion;"
+          "en": "By rightly striving, they’ve crushed Māra’s sovereignty;"
         },
         {
           "scid": "an4.13:2.2",
           "pli": "Te asitā jātimaraṇabhayassa pāragū;",
-          "en": "unattached, they’ve transcended the danger of birth and death."
+          "en": "unattached, they’ve gone beyond the danger of birth and death."
         },
         {
           "scid": "an4.13:2.3",
           "pli": "Te tusitā jetvā māraṃ savāhiniṃ te anejā,",
-          "en": "Contented and still, they’ve defeated Māra and his mount;"
+          "en": "Contented and unstirred, they’ve vanquished Māra and his mount;"
         },
         {
           "scid": "an4.13:2.4",
@@ -138,6 +138,7 @@
     "difficulty": null,
     "original_title": "Padhāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Effort",
@@ -145,21 +146,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.13_sujato",
         "segmented": true,
-        "title": "Effort"
+        "title": "Effort",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an4.13_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Striving"
       }
     ],

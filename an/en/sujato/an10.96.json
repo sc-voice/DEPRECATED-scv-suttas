@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Kokanada",
@@ -120,7 +120,7 @@
         {
           "scid": "an10.96:5.1",
           "pli": "“Kiṃ nu kho, bho, ‘sassato loko, idameva saccaṃ moghamaññan’ti—evaṃdiṭṭhi bhavan”ti?",
-          "en": "“Is this your view: ‘The world is eternal. This is the only truth, other ideas are stupid’?”"
+          "en": "“Is this your view: ‘The world is eternal. This is the only truth, other ideas are silly’?”"
         },
         {
           "scid": "an10.96:5.2",
@@ -135,7 +135,7 @@
         {
           "scid": "an10.96:6.1",
           "pli": "“Kiṃ pana, bho, ‘asassato loko, idameva saccaṃ moghamaññan’ti—evaṃdiṭṭhi bhavan”ti?",
-          "en": "“Then is this your view: ‘The world is not eternal. This is the only truth, other ideas are stupid’?”"
+          "en": "“Then is this your view: ‘The world is not eternal. This is the only truth, other ideas are silly’?”"
         },
         {
           "scid": "an10.96:6.2",
@@ -185,7 +185,7 @@
         {
           "scid": "an10.96:7.8",
           "pli": "neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti—evaṃdiṭṭhi bhavan”ti?",
-          "en": "‘A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are stupid’?”"
+          "en": "‘A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are silly’?”"
         },
         {
           "scid": "an10.96:7.9",
@@ -330,12 +330,12 @@
         {
           "scid": "an10.96:13.1",
           "pli": "“‘Sassato loko, idameva saccaṃ moghamaññan’ti kho, āvuso, diṭṭhigatametaṃ.",
-          "en": "“‘The world is eternal. This is the only truth, other ideas are stupid:’ that’s a misconception."
+          "en": "“‘The world is eternal. This is the only truth, other ideas are silly:’ that’s a misconception."
         },
         {
           "scid": "an10.96:13.2",
           "pli": "‘Asassato loko, idameva saccaṃ moghamaññan’ti kho, āvuso, diṭṭhigatametaṃ.",
-          "en": "‘The world is not eternal. This is the only truth, other ideas are stupid:’ that’s a misconception."
+          "en": "‘The world is not eternal. This is the only truth, other ideas are silly:’ that’s a misconception."
         },
         {
           "scid": "an10.96:13.3",
@@ -375,12 +375,12 @@
         {
           "scid": "an10.96:13.10",
           "pli": "‘neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti kho, āvuso, diṭṭhigatametaṃ.",
-          "en": "‘A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are stupid:’ that’s a misconception."
+          "en": "‘A Realized One neither exists nor doesn’t exist after death. This is the only truth, other ideas are silly:’ that’s a misconception."
         },
         {
           "scid": "an10.96:14.1",
           "pli": "Yāvatā, āvuso, diṭṭhi yāvatā diṭṭhiṭṭhānaṃ diṭṭhiadhiṭṭhānaṃ diṭṭhipariyuṭṭhānaṃ diṭṭhisamuṭṭhānaṃ diṭṭhisamugghāto, tamahaṃ jānāmi tamahaṃ passāmi.",
-          "en": "I know and see the scope of convictions, the scope of grounds for views, dedication to views, obsession with views, the origin of views, and the uprooting of views."
+          "en": "I know and see the scope of convictions, the scope of grounds for views, fixation on views, obsession with views, the origin of views, and the uprooting of views."
         },
         {
           "scid": "an10.96:14.2",
@@ -463,6 +463,7 @@
     "difficulty": null,
     "original_title": "Kokanuda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Kokanada",
@@ -470,21 +471,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.96_sujato",
         "segmented": true,
-        "title": "With Kokanada"
+        "title": "With Kokanada",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an10.96_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "To Kokanuda (On Viewpoints)"
       }
     ],

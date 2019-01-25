@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "At Sārandada",
@@ -200,12 +200,12 @@
         {
           "scid": "an5.143:5.6",
           "pli": "tathāgatappaveditassa dhammavinayassa desitassa viññātā puggalo dullabho lokasmiṃ, ",
-          "en": "A person who understands the teaching and training proclaimed by a Realized One. "
+          "en": "A person who understands the teaching and training proclaimed by a Realized One."
         },
         {
           "scid": "an5.143:5.7",
           "pli": "tathāgatappaveditassa dhammavinayassa desitassa viññātā dhammānudhammappaṭipanno puggalo dullabho lokasmiṃ, ",
-          "en": "A person who practices in line with the teaching. "
+          "en": "A person who practices in line with the teaching."
         },
         {
           "scid": "an5.143:5.8",
@@ -243,6 +243,7 @@
     "difficulty": null,
     "original_title": "Sārandada Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "At Sārandada",
@@ -250,12 +251,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.143_sujato",
         "segmented": true,
-        "title": "At Sārandada"
+        "title": "At Sārandada",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -63,7 +63,7 @@
         {
           "scid": "an11.22-29:5.3",
           "pli": "Idha, bhikkhave, gopālako na rūpaññū hoti, na lakkhaṇakusalo hoti, na āsāṭikaṃ hāretā hoti, na vaṇaṃ paṭicchādetā hoti, na dhūmaṃ kattā hoti, na titthaṃ jānāti, na pītaṃ jānāti, na vīthiṃ jānāti, na gocarakusalo hoti, anavasesadohī ca hoti, ye te usabhā gopitaro gopariṇāyakā te na atirekapūjāya pūjetā hoti—",
-          "en": "It’s when a cowherd doesn’t know form, is unskilled in characteristics, doesn’t pick out flies’ eggs, doesn’t dress wounds, doesn’t smoke out pests, doesn’t know the ford, doesn’t know when they’re satisfied, doesn’t know the trail, is not skilled in pastures, milks dry, and doesn’t show extra respect to the bulls who are fathers and leaders of the herd."
+          "en": "It’s when a cowherd doesn’t know form, is unskilled in characteristics, doesn’t pick out flies’ eggs, doesn’t dress wounds, doesn’t smoke out pests, doesn’t know the ford, doesn’t know satisfaction, doesn’t know the trail, is not skilled in pastures, milks dry, and doesn’t show extra respect to the bulls who are fathers and leaders of the herd."
         },
         {
           "scid": "an11.22-29:5.4",
@@ -130,12 +130,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts5.359",
     "uid": "an11.22-29",
     "blurb": null,
     "difficulty": null,
     "original_title": "",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -143,12 +144,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an11.22-29_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

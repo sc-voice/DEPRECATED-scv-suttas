@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "A Bad Female Novice",
+    "title": "A Bad Novice Nun",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "A Bad Male Novice",
+      "name": "A Bad Novice Monk",
       "uid": "sn19.20"
     }
   },
@@ -43,7 +43,7 @@
         {
           "scid": "sn19.21:0.3",
           "pli": "21. Pāpasāmaṇerīsutta",
-          "en": "21. A Bad Female Novice"
+          "en": "21. A Bad Novice Nun"
         }
       ],
       "type": "Section",
@@ -60,7 +60,7 @@
         {
           "scid": "sn19.21:1.1",
           "pli": "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ sāmaṇeriṃ vehāsaṃ gacchantiṃ.",
-          "en": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a female novice flying through the air."
+          "en": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a novice nun flying through the air."
         },
         {
           "scid": "sn19.21:1.2",
@@ -115,7 +115,7 @@
         {
           "scid": "sn19.21:2.4",
           "pli": "Pubbeva me sā, bhikkhave, sāmaṇerī diṭṭhā ahosi.",
-          "en": "Formerly, I too saw that female novice, but I did not speak of it."
+          "en": "Formerly, I too saw that novice nun, but I did not speak of it."
         },
         {
           "scid": "sn19.21:2.5",
@@ -135,7 +135,7 @@
         {
           "scid": "sn19.21:2.8",
           "pli": "Esā, bhikkhave, sāmaṇerī kassapassa sammāsambuddhassa pāvacane pāpasāmaṇerī ahosi.",
-          "en": "That female novice used to be a bad female novice in the time of the Buddha Kassapa’s dispensation."
+          "en": "That female novice used to be a bad novice nun in the time of the Buddha Kassapa’s dispensation."
         },
         {
           "scid": "sn19.21:2.9",
@@ -228,22 +228,26 @@
     "difficulty": null,
     "original_title": "Pāpasāmaṇerī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "A Bad Female Novice",
+    "translated_title": "A Bad Novice Nun",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn19.21_sujato",
         "segmented": true,
-        "title": "A Bad Female Novice"
+        "title": "A Bad Novice Nun",
+        "volpage": null
       }
     ],
-    "parallel_count": 24,
+    "parallel_count": 25,
     "biblio": null,
     "num": 11
   }

@@ -10,20 +10,20 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Dying as Humans and Reborn as Animals",
+    "title": "Passing Away as Humans and Reborn as Animals",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Dying as Humans and Reborn as Ghosts",
+      "name": "Passing Away as Humans and Reborn as Ghosts",
       "uid": "sn56.104"
     },
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Dying as Humans and Reborn in Hell",
+      "name": "Passing Away as Humans and Reborn in Hell",
       "uid": "sn56.102"
     }
   },
@@ -43,7 +43,7 @@
         {
           "scid": "sn56.103:0.3",
           "pli": "103. Manussacutitiracchānasutta",
-          "en": "103. Dying as Humans and Reborn as Animals"
+          "en": "103. Passing Away as Humans and Reborn as Animals"
         }
       ],
       "type": "Section",
@@ -88,19 +88,23 @@
     "difficulty": null,
     "original_title": "Manussacutitiracchāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Dying as Humans and Reborn as Animals",
+    "translated_title": "Passing Away as Humans and Reborn as Animals",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn56.103_sujato",
         "segmented": true,
-        "title": "Dying as Humans and Reborn as Animals"
+        "title": "Passing Away as Humans and Reborn as Animals",
+        "volpage": null
       }
     ],
     "parallel_count": 4,

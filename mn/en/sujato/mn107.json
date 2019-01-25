@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Moggallāna the Accountant",
@@ -140,7 +140,7 @@
         {
           "scid": "mn107:3.2",
           "pli": "Seyyathāpi, brāhmaṇa, dakkho assadammako bhaddaṃ assājānīyaṃ labhitvā paṭhameneva mukhādhāne kāraṇaṃ kāreti, atha uttariṃ kāraṇaṃ kāreti;",
-          "en": "Suppose an expert horse trainer were to obtain a fine thoroughbred. First of all he’d make it get used to wearing the bit."
+          "en": "Suppose a deft horse trainer were to obtain a fine thoroughbred. First of all he’d make it get used to wearing the bit."
         },
         {
           "scid": "mn107:3.3",
@@ -150,7 +150,7 @@
         {
           "scid": "mn107:3.4",
           "pli": "‘ehi tvaṃ, bhikkhu, sīlavā hohi, pātimokkhasaṃvarasaṃvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhassu sikkhāpadesū’ti.",
-          "en": "‘Come, mendicant, be ethical and restrained in the monastic code, with appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, keep the rules you’ve undertaken.’"
+          "en": "‘Come, mendicant, be ethical and restrained in the monastic code, conducting yourself well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken.’"
         },
         {
           "scid": "mn107:4.1",
@@ -583,6 +583,7 @@
     "difficulty": 1,
     "original_title": "Gaṇakamoggallāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Moggallāna the Accountant",
@@ -590,12 +591,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn107_sujato",
         "segmented": true,
-        "title": "With Moggallāna the Accountant"
+        "title": "With Moggallāna the Accountant",
+        "volpage": null
       }
     ],
     "parallel_count": 41,

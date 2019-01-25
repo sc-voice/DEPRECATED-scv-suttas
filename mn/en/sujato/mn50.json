@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Rebuke of Māra",
@@ -765,7 +765,7 @@
         {
           "scid": "mn50:25.1",
           "pli": "Majjhe sarassa tiṭṭhanti,",
-          "en": "There are mansions that last for an aeon"
+          "en": "There are mansions that last for an eon"
         },
         {
           "scid": "mn50:25.2",
@@ -865,7 +865,7 @@
         {
           "scid": "mn50:27.3",
           "pli": "Iddhibalenupatthaddho,",
-          "en": "relying on psychic power,"
+          "en": "owing to psychic power,"
         },
         {
           "scid": "mn50:27.4",
@@ -985,7 +985,7 @@
         {
           "scid": "mn50:29.9",
           "pli": "Na me mārisa sā diṭṭhi,",
-          "en": "‘Friend, I don’t have that view"
+          "en": "‘Good sir, I don’t have that view"
         },
         {
           "scid": "mn50:29.10",
@@ -1095,7 +1095,7 @@
         {
           "scid": "mn50:31.5",
           "pli": "Evameva tuvaṃ māra,",
-          "en": "In the same way Māra,"
+          "en": "In the same way, Māra,"
         },
         {
           "scid": "mn50:31.6",
@@ -1115,7 +1115,7 @@
         {
           "scid": "mn50:31.9",
           "pli": "Apuññaṃ pasavī māro,",
-          "en": "Māra’s made bad karma"
+          "en": "Māra’s done a bad thing"
         },
         {
           "scid": "mn50:31.10",
@@ -1140,7 +1140,7 @@
         {
           "scid": "mn50:31.14",
           "pli": "cirarattāya antaka;",
-          "en": "that will last a long time, Terminator!"
+          "en": "that will last a long time, terminator!"
         },
         {
           "scid": "mn50:31.15",
@@ -1155,7 +1155,7 @@
         {
           "scid": "mn50:31.17",
           "pli": "Iti māraṃ atajjesi,",
-          "en": "That is how, in the Bhesekaḷā grove"
+          "en": "That is how, in the Bhesekaḷā grove,"
         },
         {
           "scid": "mn50:31.18",
@@ -1248,6 +1248,7 @@
     "difficulty": 2,
     "original_title": "Māratajjanīya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Rebuke of Māra",
@@ -1255,21 +1256,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn50_sujato",
         "segmented": true,
-        "title": "The Rebuke of Māra"
+        "title": "The Rebuke of Māra",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn50_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse On A Rebuke To Māra"
       }
     ],

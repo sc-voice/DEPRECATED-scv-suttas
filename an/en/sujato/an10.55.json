@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Decline",
@@ -195,7 +195,7 @@
         {
           "scid": "an10.55:8.1",
           "pli": "Sace pana, āvuso, bhikkhu paccavekkhamāno sabbepime kusale dhamme attani na samanupassati, tenāvuso, bhikkhunā sabbesaṃyeva imesaṃ kusalānaṃ dhammānaṃ paṭilābhāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyaṃ.",
-          "en": "Suppose a checking mendicant doesn’t see any of these skillful qualities in themselves. In order to get them they should apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness."
+          "en": "Suppose a mendicant, while checking, doesn’t see any of these skillful qualities in themselves. In order to get them they should apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness."
         },
         {
           "scid": "an10.55:8.2",
@@ -215,7 +215,7 @@
         {
           "scid": "an10.55:9.1",
           "pli": "Sace panāvuso, bhikkhu paccavekkhamāno ekacce kusale dhamme attani samanupassati, ekacce kusale dhamme attani na samanupassati, tenāvuso, bhikkhunā ye kusale dhamme attani samanupassati tesu kusalesu dhammesu patiṭṭhāya, ye kusale dhamme attani na samanupassati tesaṃ kusalānaṃ dhammānaṃ paṭilābhāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyaṃ.",
-          "en": "Suppose a checking mendicant sees some of these skillful qualities in themselves, but doesn’t see others. Grounded on the skillful qualities they see, they should apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness in order to get the skillful qualities they don’t see."
+          "en": "Suppose a mendicant, while checking, sees some of these skillful qualities in themselves, but doesn’t see others. Grounded on the skillful qualities they see, they should apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness in order to get the skillful qualities they don’t see."
         },
         {
           "scid": "an10.55:9.2",
@@ -235,7 +235,7 @@
         {
           "scid": "an10.55:10.1",
           "pli": "Sace panāvuso, bhikkhu paccavekkhamāno sabbepime kusale dhamme attani samanupassati, tenāvuso, bhikkhunā sabbesveva imesu kusalesu dhammesu patiṭṭhāya uttari āsavānaṃ khayāya yogo karaṇīyo”ti.",
-          "en": "But suppose a checking mendicant sees all of these skillful qualities in themselves. Grounded on all these skillful qualities they should practice meditation further to end the defilements.”"
+          "en": "But suppose a mendicant, while checking, sees all of these skillful qualities in themselves. Grounded on all these skillful qualities they should practice meditation further to end the defilements.”"
         },
         {
           "scid": "an10.55:10.2",
@@ -263,6 +263,7 @@
     "difficulty": null,
     "original_title": "Parihāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Decline",
@@ -270,21 +271,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.55_sujato",
         "segmented": true,
-        "title": "Decline"
+        "title": "Decline",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an10.55_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Decline"
       }
     ],

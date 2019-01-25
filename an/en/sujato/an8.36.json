@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Grounds for Making Merit",
@@ -150,7 +150,7 @@
         {
           "scid": "an8.36:6.3",
           "pli": "Tatra, bhikkhave, suyāmo devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, yāme deve dasahi ṭhānehi adhigaṇhāti—",
-          "en": "There, the deity Yama has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
+          "en": "There, the god Yama has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
         },
         {
           "scid": "an8.36:6.4",
@@ -175,7 +175,7 @@
         {
           "scid": "an8.36:7.3",
           "pli": "Tatra, bhikkhave, santusito devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, tusite deve dasahi ṭhānehi adhigaṇhāti—",
-          "en": "There, the deity Santusita has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
+          "en": "There, the god Santusita has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
         },
         {
           "scid": "an8.36:7.4",
@@ -200,7 +200,7 @@
         {
           "scid": "an8.36:8.3",
           "pli": "Tatra, bhikkhave, sunimmito devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, nimmānaratīdeve dasahi ṭhānehi adhigaṇhāti—",
-          "en": "There, the deity Sunimmita has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
+          "en": "There, the god Sunimmita has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects …"
         },
         {
           "scid": "an8.36:8.4",
@@ -225,7 +225,7 @@
         {
           "scid": "an8.36:9.3",
           "pli": "Tatra, bhikkhave, vasavattī devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, paranimmitavasavattīdeve dasahi ṭhānehi adhigaṇhāti—",
-          "en": "There, the deity Vasavattī has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects:"
+          "en": "There, the god Vasavattī has practiced giving and ethical conduct as grounds for making merit to a greater degree than the other gods. So he surpasses them in ten respects:"
         },
         {
           "scid": "an8.36:9.4",
@@ -263,6 +263,7 @@
     "difficulty": null,
     "original_title": "Puññakiriyavatthu Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Grounds for Making Merit",
@@ -270,21 +271,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an8.36_sujato",
         "segmented": true,
-        "title": "Grounds for Making Merit"
+        "title": "Grounds for Making Merit",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an8.36_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Activity"
       }
     ],

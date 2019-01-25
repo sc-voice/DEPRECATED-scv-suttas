@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Migajāla (1st)",
@@ -150,7 +150,7 @@
         {
           "scid": "sn35.63:2.14",
           "pli": "Evaṃvihārī ca, migajāla, bhikkhu kiñcāpi araññavanapatthāni pantāni senāsanāni paṭisevati appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni;",
-          "en": "A mendicant who lives like this is said to live with a partner, even if they frequent remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and appropriate for retreat."
+          "en": "A mendicant who lives like this is said to live with a partner, even if they frequent remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat."
         },
         {
           "scid": "sn35.63:2.15",
@@ -288,6 +288,7 @@
     "difficulty": null,
     "original_title": "Paṭhamamigajāla Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Migajāla (1st)",
@@ -295,21 +296,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn35.63_sujato",
         "segmented": true,
-        "title": "With Migajāla (1st)"
+        "title": "With Migajāla (1st)",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn35.63_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Migajala (1)"
       }
     ],

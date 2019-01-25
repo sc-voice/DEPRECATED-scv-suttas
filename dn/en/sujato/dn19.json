@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Great Steward",
@@ -355,7 +355,7 @@
         {
           "scid": "dn19:12.1",
           "pli": "Tiṇṇavicikiccho kho pana so bhagavā vigatakathaṅkatho pariyositasaṅkappo ajjhāsayaṃ ādibrahmacariyaṃ.",
-          "en": "Also, the Buddha has gone beyond doubt and got rid of uncertainty. He has achieved all he wished for regarding the fundamental purpose of the spiritual life."
+          "en": "Also, the Buddha has gone beyond doubt and got rid of indecision. He has achieved all he wished for regarding the fundamental purpose of the spiritual life."
         },
         {
           "scid": "dn19:12.2",
@@ -440,7 +440,7 @@
         {
           "scid": "dn19:14.5",
           "pli": "Atha kho, bhante, yenatthena devā tāvatiṃsā sudhammāyaṃ sabhāyaṃ sannisinnā honti sannipatitā, taṃ atthaṃ cintayitvā taṃ atthaṃ mantayitvā vuttavacanāpi taṃ cattāro mahārājāno tasmiṃ atthe honti.",
-          "en": "Then the gods of the Thirty-Three, having considered and deliberated about the matter for which they were seated together in the Hall of Justice, advised and instructed the Four Great Kings on the subject."
+          "en": "Then the gods of the Thirty-Three, having considered and deliberated on the matter for which they were seated together in the Hall of Justice, advised and instructed the Four Great Kings on the subject."
         },
         {
           "scid": "dn19:14.6",
@@ -1765,7 +1765,7 @@
         {
           "scid": "dn19:45.5",
           "pli": "“kusalo kho ahaṃ diṭṭhadhammikānaṃ atthānaṃ, aññepi maṃ diṭṭhadhammikaṃ atthaṃ pucchanti.",
-          "en": "“I’m an expert in what is beneficial for this life, and others even ask me about it."
+          "en": "“I’m a skilled in what is beneficial for this life, and others even ask me about it."
         },
         {
           "scid": "dn19:45.6",
@@ -2858,6 +2858,7 @@
     "difficulty": 2,
     "original_title": "Mahāgovinda Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Great Steward",
@@ -2865,25 +2866,31 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn19_sujato",
         "segmented": true,
-        "title": "The Great Steward"
+        "title": "The Great Steward",
+        "volpage": null
       },
       {
         "author": "T.W. & C.A.F. Rhys Davids",
         "author_short": "Rhys Davids",
         "author_uid": "tw-caf_rhysdavids",
         "id": "en_dn19_tw-caf_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1910",
         "segmented": false,
+        "volpage": null,
         "title": "The Lord High Steward"
       }
     ],
-    "parallel_count": 12,
+    "parallel_count": 16,
     "biblio": null,
     "num": 6
   }

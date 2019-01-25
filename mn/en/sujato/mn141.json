@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Analysis of the Truths",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "The Analysis of Offerings to the Teacher",
+      "name": "The Analysis of Religious Donations",
       "uid": "mn142"
     },
     "previous": {
@@ -100,7 +100,7 @@
         {
           "scid": "mn141:3.1",
           "pli": "Dukkhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ, dukkhasamudayassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ, dukkhanirodhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ, dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ.",
-          "en": "The noble truths of suffering, the origin of suffering, the cessation of suffering and the way of practice that leads to the cessation of suffering."
+          "en": "The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering."
         },
         {
           "scid": "mn141:3.2",
@@ -195,7 +195,7 @@
         {
           "scid": "mn141:9.1",
           "pli": "Dukkhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ, dukkhasamudayassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ, dukkhanirodhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ, dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ.",
-          "en": "The noble truths of suffering, the origin of suffering, the cessation of suffering and the way of practice that leads to the cessation of suffering."
+          "en": "The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering."
         },
         {
           "scid": "mn141:10.1",
@@ -245,7 +245,7 @@
         {
           "scid": "mn141:13.2",
           "pli": "Yā tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṃ maccu maraṇaṃ kālaṅkiriyā khandhānaṃ bhedo kaḷevarassa nikkhepo jīvitindriyassupacchedo, ",
-          "en": "The passing away, perishing, disintegration, demise, mortality, death, decease, breaking up of the aggregates, laying to rest of the corpse, and cutting off of the live faculty of the various sentient beings in the various orders of sentient beings. "
+          "en": "The passing away, perishing, disintegration, demise, mortality, death, decease, breaking up of the aggregates, laying to rest of the corpse, and cutting off of the life faculty of the various sentient beings in the various orders of sentient beings. "
         },
         {
           "scid": "mn141:13.3",
@@ -285,7 +285,7 @@
         {
           "scid": "mn141:16.1",
           "pli": "Katamañcāvuso, dukkhaṃ?",
-          "en": "And what is suffering?"
+          "en": "And what is pain?"
         },
         {
           "scid": "mn141:16.2",
@@ -295,7 +295,7 @@
         {
           "scid": "mn141:16.3",
           "pli": "idaṃ vuccatāvuso: ‘dukkhaṃ’.",
-          "en": "This is called suffering."
+          "en": "This is called pain."
         },
         {
           "scid": "mn141:17.1",
@@ -435,7 +435,7 @@
         {
           "scid": "mn141:22.2",
           "pli": "Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo,",
-          "en": "It’s the fading away and cessation of that very same craving with nothing left over; giving it away, letting it go, releasing it, and not clinging to it."
+          "en": "It’s the fading away and cessation of that very same craving with nothing left over; giving it away, letting it go, releasing it, and not adhering to it."
         },
         {
           "scid": "mn141:22.3",
@@ -480,7 +480,7 @@
         {
           "scid": "mn141:25.2",
           "pli": "Nekkhammasaṅkappo, abyāpādasaṅkappo, avihiṃsāsaṅkappo,",
-          "en": "Thoughts of renunciation, love, and kindness."
+          "en": "Thoughts of renunciation, good will, and harmlessness."
         },
         {
           "scid": "mn141:25.3",
@@ -673,6 +673,7 @@
     "difficulty": 3,
     "original_title": "Saccavibhaṅga Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Analysis of the Truths",
@@ -680,12 +681,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn141_sujato",
         "segmented": true,
-        "title": "The Analysis of the Truths"
+        "title": "The Analysis of the Truths",
+        "volpage": null
       }
     ],
     "parallel_count": 8,

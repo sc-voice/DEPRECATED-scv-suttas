@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Inspiring Confidence",
@@ -555,7 +555,7 @@
         {
           "scid": "dn28:8.3",
           "pli": "Ubhatobhāgavimutto paññāvimutto kāyasakkhi diṭṭhippatto saddhāvimutto dhammānusārī saddhānusārī.",
-          "en": "One freed both ways, one freed by wisdom, a direct witness, one attained to view, one freed by faith, a follower of the teachings, a follower by faith."
+          "en": "One freed both ways, one freed by wisdom, a personal witness, one attained to view, one freed by faith, a follower of the teachings, a follower by faith."
         },
         {
           "scid": "dn28:8.4",
@@ -655,7 +655,7 @@
         {
           "scid": "dn28:12.2",
           "pli": "Idha, bhante, ekacco sacco cassa saddho ca, na ca kuhako, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṃ nijigīsanako, indriyesu guttadvāro, bhojane mattaññū, samakārī, jāgariyānuyogamanuyutto, atandito, āraddhavīriyo, jhāyī, satimā, kalyāṇapaṭibhāno, gatimā, dhitimā, matimā, na ca kāmesu giddho, sato ca nipako ca.",
-          "en": "It’s when someone is honest and faithful. They don’t use deception, flattery, hinting, or belittling, and they don’t use material possessions to pursue other material possessions. They guard the sense doors and eat in moderation. They’re fair, dedicated to wakefulness, tireless, energetic, and meditative. They have good memory, eloquence, range, retention, and thoughtfulness. They’re not greedy for sensual pleasures. They are mindful and self-disciplined."
+          "en": "It’s when someone is honest and faithful. They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to pursue other material possessions. They guard the sense doors and eat in moderation. They’re fair, dedicated to wakefulness, tireless, energetic, and meditative. They have good memory, eloquence, range, retention, and thoughtfulness. They’re not greedy for sensual pleasures. They are mindful and alert."
         },
         {
           "scid": "dn28:12.3",
@@ -930,7 +930,7 @@
         {
           "scid": "dn28:16.3",
           "pli": "Seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe, ",
-          "en": "That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world evolving, many eons of the world contracting and evolving. They remember: "
+          "en": "That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. They remember: "
         },
         {
           "scid": "dn28:16.4",
@@ -1298,6 +1298,7 @@
     "difficulty": 1,
     "original_title": "Sampasādanīya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Inspiring Confidence",
@@ -1305,21 +1306,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn28_sujato",
         "segmented": true,
-        "title": "Inspiring Confidence"
+        "title": "Inspiring Confidence",
+        "volpage": null
       },
       {
         "author": "T.W. & C.A.F. Rhys Davids",
         "author_short": "Rhys Davids",
         "author_uid": "tw-caf_rhysdavids",
         "id": "en_dn28_tw-caf_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1921",
         "segmented": false,
+        "volpage": null,
         "title": "The Faith That Satisfied"
       }
     ],

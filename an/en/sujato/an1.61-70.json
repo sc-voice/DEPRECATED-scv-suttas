@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -120,12 +120,12 @@
         {
           "scid": "an1.61-70:64.1.1",
           "pli": "“Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā akusalā dhammā uppajjanti uppannā vā kusalā dhammā parihāyanti yathayidaṃ, bhikkhave, asantuṭṭhitā.",
-          "en": "“Mendicants, I do not see a single thing that gives rise to unskillful qualities, or makes skillful qualities decline like discontent."
+          "en": "“Mendicants, I do not see a single thing that gives rise to unskillful qualities, or makes skillful qualities decline like lack of contentment."
         },
         {
           "scid": "an1.61-70:64.1.2",
           "pli": "Asantuṭṭhassa, bhikkhave, anuppannā ceva akusalā dhammā uppajjanti uppannā ca kusalā dhammā parihāyantī”ti.",
-          "en": "When you’re discontented, unskillful qualities arise and skillful qualities decline.”"
+          "en": "When you lack contentment, unskillful qualities arise and skillful qualities decline.”"
         },
         {
           "scid": "an1.61-70:64.1.3",
@@ -272,12 +272,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli1.12",
     "uid": "an1.61-70",
     "blurb": null,
     "difficulty": null,
     "original_title": "Vīriyārambhādi Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -285,12 +286,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an1.61-70_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

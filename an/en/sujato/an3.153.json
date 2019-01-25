@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Broken (4th)",
@@ -33,7 +33,7 @@
         {
           "scid": "an3.153:0.1",
           "pli": "Aṅguttara Nikāya 3",
-          "en": ""
+          "en": "Numbered Discourses 3"
         },
         {
           "scid": "an3.153:0.2",
@@ -52,7 +52,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "",
+      "title": "Numbered Discourses 3",
       "expandable": false
     },
     {
@@ -65,7 +65,7 @@
         {
           "scid": "an3.153:1.2",
           "pli": "asucinā kāyakammena, asucinā vacīkammena, asucinā manokammena … pe ….",
-          "en": "Filthy deeds by way of body, speech, and mind. …"
+          "en": "Impure deeds by way of body, speech, and mind. …"
         },
         {
           "scid": "an3.153:2.1",
@@ -108,6 +108,7 @@
     "difficulty": null,
     "original_title": "Catutthakhata Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Broken (4th)",
@@ -115,12 +116,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.153_sujato",
         "segmented": true,
-        "title": "Broken (4th)"
+        "title": "Broken (4th)",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

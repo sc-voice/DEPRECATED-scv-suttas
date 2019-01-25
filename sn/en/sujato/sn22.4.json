@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Hāliddikāni (2nd)",
@@ -90,7 +90,7 @@
         {
           "scid": "sn22.4:3.1",
           "pli": "“Rūpadhātuyā kho, gahapati, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā ‘cittaṃ suvimuttanti’ vuccati.",
-          "en": "“Householder, consider any desire, greed, relishing, and craving for the form element; any attraction, grasping, mental dedication, insistence, and underlying tendencies. With the ending, fading away, cessation, giving away, and letting go of that, the mind is said to be ‘well freed’."
+          "en": "“Householder, consider any desire, greed, relishing, and craving for the form element; any attraction, grasping, mental fixation, insistence, and underlying tendencies. With the ending, fading away, cessation, giving away, and letting go of that, the mind is said to be ‘well freed’."
         },
         {
           "scid": "sn22.4:4.1",
@@ -110,7 +110,7 @@
         {
           "scid": "sn22.4:4.4",
           "pli": "viññāṇadhātuyā kho, gahapati, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, tesaṃ khayā virāgā nirodhā cāgā paṭinissaggā ‘cittaṃ suvimuttanti’ vuccati.",
-          "en": "the consciousness element; any attraction, grasping, mental dedication, insistence, and underlying tendencies. With the ending, fading away, cessation, giving away, and letting go of that, the mind is said to be ‘well freed’."
+          "en": "the consciousness element; any attraction, grasping, mental fixation, insistence, and underlying tendencies. With the ending, fading away, cessation, giving away, and letting go of that, the mind is said to be ‘well freed’."
         },
         {
           "scid": "sn22.4:5.1",
@@ -153,6 +153,7 @@
     "difficulty": null,
     "original_title": "Dutiyahāliddikāni Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Hāliddikāni (2nd)",
@@ -160,21 +161,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn22.4_sujato",
         "segmented": true,
-        "title": "Hāliddikāni (2nd)"
+        "title": "Hāliddikāni (2nd)",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn22.4_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Haliddakani (2)"
       }
     ],

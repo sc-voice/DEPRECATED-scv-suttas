@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Vital Conditions (1st)",
@@ -125,7 +125,7 @@
         {
           "scid": "an11.3:2.4",
           "pli": "vimuttiñāṇadassanaṃ.",
-          "en": "One who lacks dispassion has destroyed a vital condition for knowledge and vision of freedom."
+          "en": "When there is no dispassion, one who lacks dispassion has destroyed a vital condition for knowledge and vision of freedom."
         },
         {
           "scid": "an11.3:3.1",
@@ -195,7 +195,7 @@
         {
           "scid": "an11.3:4.4",
           "pli": "vimuttiñāṇadassanan”ti.",
-          "en": "One who has fulfilled disillusionment and dispassion has fulfilled a vital condition for knowledge and vision of freedom.”"
+          "en": "When there is dispassion, one who has fulfilled dispassion has fulfilled a vital condition for knowledge and vision of freedom.”"
         },
         {
           "scid": "an11.3:4.5",
@@ -223,6 +223,7 @@
     "difficulty": null,
     "original_title": "Paṭhamaupanisā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Vital Conditions (1st)",
@@ -230,12 +231,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an11.3_sujato",
         "segmented": true,
-        "title": "Vital Conditions (1st)"
+        "title": "Vital Conditions (1st)",
+        "volpage": null
       }
     ],
     "parallel_count": 18,

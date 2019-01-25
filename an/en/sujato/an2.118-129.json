@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -195,7 +195,7 @@
         {
           "scid": "an2.118-129:123.1.3",
           "pli": "Subhanimittañca ayoniso ca manasikāro.",
-          "en": "The aspect of beauty and improper attention."
+          "en": "The feature of beauty and improper attention."
         },
         {
           "scid": "an2.118-129:123.1.4",
@@ -220,7 +220,7 @@
         {
           "scid": "an2.118-129:124.1.3",
           "pli": "Paṭighanimittañca ayoniso ca manasikāro.",
-          "en": "The aspect of repulsion and improper attention."
+          "en": "The feature of harshness and improper attention."
         },
         {
           "scid": "an2.118-129:124.1.4",
@@ -372,12 +372,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli1.87",
     "uid": "an2.118-129",
     "blurb": null,
     "difficulty": null,
     "original_title": "Āsāduppajaha Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -385,21 +386,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an2.118-129_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an2.118-129_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Hard to Find"
       }
     ],

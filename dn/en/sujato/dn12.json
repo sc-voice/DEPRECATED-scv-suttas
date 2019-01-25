@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Lohicca",
@@ -175,7 +175,7 @@
         {
           "scid": "dn12:6.1",
           "pli": "Atha kho rosikā nhāpito bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā yena lohicco brāhmaṇo tenupasaṅkami; upasaṅkamitvā lohiccaṃ brāhmaṇaṃ etadavoca:",
-          "en": "Then, knowing that the Buddha had accepted, Rosika got up from his seat, went to Lohicca, and said to him:"
+          "en": "Then, knowing that the Buddha had consented, Rosika got up from his seat, went to Lohicca, and said to him:"
         },
         {
           "scid": "dn12:6.2",
@@ -1008,6 +1008,7 @@
     "difficulty": 2,
     "original_title": "Lohicca Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Lohicca",
@@ -1015,21 +1016,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn12_sujato",
         "segmented": true,
-        "title": "With Lohicca"
+        "title": "With Lohicca",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_dn12_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Lohicca"
       }
     ],

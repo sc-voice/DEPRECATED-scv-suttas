@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Worthy of Offerings (2nd)",
@@ -60,7 +60,7 @@
         {
           "scid": "an6.2:1.1",
           "pli": "“Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti … pe … anuttaraṃ puññakkhettaṃ lokassa.",
-          "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is the supreme field of merit for the world."
+          "en": "“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world."
         },
         {
           "scid": "an6.2:1.2",
@@ -80,12 +80,12 @@
         {
           "scid": "an6.2:3.1",
           "pli": "Parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti. Sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajānāti, vītarāgaṃ vā cittaṃ … sadosaṃ vā cittaṃ … vītadosaṃ vā cittaṃ … samohaṃ vā cittaṃ … vītamohaṃ vā cittaṃ … saṅkhittaṃ vā cittaṃ … vikkhittaṃ vā cittaṃ … mahaggataṃ vā cittaṃ … amahaggataṃ vā cittaṃ … sauttaraṃ vā cittaṃ … anuttaraṃ vā cittaṃ … samāhitaṃ vā cittaṃ … asamāhitaṃ vā cittaṃ … vimuttaṃ vā cittaṃ … avimuttaṃ vā cittaṃ avimuttaṃ cittanti pajānāti. (3)",
-          "en": "They understand the minds of other beings and individuals, having comprehended them with their own mind. They understand mind with greed as ‘mind with greed’, and mind without greed as ‘mind without greed’. They understand mind with hate … mind without hate … mind with delusion … mind without delusion … contracted mind … scattered mind … expansive mind … unexpansive mind … mind that is not supreme … mind that is supreme … mind immersed in samādhi … mind not immersed in samādhi … freed mind … They understand unfreed mind as ‘unfreed mind’."
+          "en": "They understand the minds of other beings and individuals, having comprehended them with their own mind. They understand mind with greed as ‘mind with greed’, and mind without greed as ‘mind without greed’. They understand mind with hate … mind without hate … mind with delusion … mind without delusion … constricted mind … scattered mind … expansive mind … unexpansive mind … mind that is not supreme … mind that is supreme … mind immersed in samādhi … mind not immersed in samādhi … freed mind … They understand unfreed mind as ‘unfreed mind’."
         },
         {
           "scid": "an6.2:4.1",
           "pli": "Anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo … pe …. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati. (4)",
-          "en": "They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world evolving, many eons of the world contracting and evolving. They remember: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so they recollect their many kinds of past lives, with features and details."
+          "en": "They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. They remember: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so they recollect their many kinds of past lives, with features and details."
         },
         {
           "scid": "an6.2:5.1",
@@ -100,7 +100,7 @@
         {
           "scid": "an6.2:7.1",
           "pli": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti … pe … anuttaraṃ puññakkhettaṃ lokassā”ti.",
-          "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of veneration with joined palms, and is the supreme field of merit for the world.”"
+          "en": "A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”"
         },
         {
           "scid": "an6.2:7.2",
@@ -128,6 +128,7 @@
     "difficulty": null,
     "original_title": "Dutiyaāhuneyya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Worthy of Offerings (2nd)",
@@ -135,12 +136,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an6.2_sujato",
         "segmented": true,
-        "title": "Worthy of Offerings (2nd)"
+        "title": "Worthy of Offerings (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

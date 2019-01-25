@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "At Sāmagāma",
@@ -215,7 +215,7 @@
         {
           "scid": "mn104:6.3",
           "pli": "Idhānanda, bhikkhu kodhano hoti upanāhī.",
-          "en": "Firstly, a mendicant is angry and hostile."
+          "en": "Firstly, a mendicant is irritable and hostile."
         },
         {
           "scid": "mn104:6.4",
@@ -250,7 +250,7 @@
         {
           "scid": "mn104:7-11.2",
           "pli": "issukī hoti maccharī … pe …",
-          "en": "They’re envious and mean …"
+          "en": "They’re jealous and stingy …"
         },
         {
           "scid": "mn104:7-11.3",
@@ -700,7 +700,7 @@
         {
           "scid": "mn104:20.1",
           "pli": "Kathañcānanda, tiṇavatthārako hoti?",
-          "en": "And how there the covering over with grass?"
+          "en": "And how is there the covering over with grass?"
         },
         {
           "scid": "mn104:20.2",
@@ -815,7 +815,7 @@
         {
           "scid": "mn104:21.11",
           "pli": "Puna caparaṃ, ānanda, bhikkhu—yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpesu sīlesu—sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca.",
-          "en": "Furthermore, a mendicant lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are uncorrupted, unflawed, unblemished, untainted, liberating, praised by sensible people, not mistaken, and leading to immersion."
+          "en": "Furthermore, a mendicant lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion."
         },
         {
           "scid": "mn104:21.12",
@@ -893,6 +893,7 @@
     "difficulty": 2,
     "original_title": "Sāmagāma Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "At Sāmagāma",
@@ -900,21 +901,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn104_sujato",
         "segmented": true,
-        "title": "At Sāmagāma"
+        "title": "At Sāmagāma",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_mn104_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2009",
         "segmented": false,
+        "volpage": null,
         "title": "At Sāmagāma"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "A Trainee (2nd)",
@@ -135,7 +135,7 @@
         {
           "scid": "an5.90:5.2",
           "pli": "appicchakathā santuṭṭhikathā pavivekakathā asaṃsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya na nikāmalābhī hoti na akicchalābhī na akasiralābhī;",
-          "en": "talk about fewness of wishes, contentment, seclusion, keeping your distance, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom."
+          "en": "talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom."
         },
         {
           "scid": "an5.90:5.3",
@@ -230,7 +230,7 @@
         {
           "scid": "an5.90:10.2",
           "pli": "appicchakathā santuṭṭhikathā pavivekakathā asaṃsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī;",
-          "en": "talk about fewness of wishes, contentment, seclusion, keeping your distance, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom."
+          "en": "talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom."
         },
         {
           "scid": "an5.90:10.3",
@@ -298,6 +298,7 @@
     "difficulty": null,
     "original_title": "Dutiyasekha Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "A Trainee (2nd)",
@@ -305,12 +306,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.90_sujato",
         "segmented": true,
-        "title": "A Trainee (2nd)"
+        "title": "A Trainee (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Perceptions in Detail",
@@ -95,7 +95,7 @@
         {
           "scid": "an7.49:2.4",
           "pli": "Seyyathāpi, bhikkhave, kukkuṭapattaṃ vā nhārudaddulaṃ vā aggimhi pakkhittaṃ patilīyati patikuṭati pativattati, na sampasāriyati.",
-          "en": "It’s like a chicken’s feather or a strip of sinew thrown in a fire. It shrivels up, shrinks up, rolls up, and doesn’t stretch out."
+          "en": "It’s like a chicken’s feather or a strip of sinew thrown in a fire. It shrivels up, shrinks, rolls up, and doesn’t stretch out."
         },
         {
           "scid": "an7.49:2.5",
@@ -200,7 +200,7 @@
         {
           "scid": "an7.49:5.8",
           "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (2)",
-          "en": "That’s what I said, and this is why I said it."
+          "en": "and this is why I said it."
         },
         {
           "scid": "an7.49:6.1",
@@ -260,7 +260,7 @@
         {
           "scid": "an7.49:7.8",
           "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (3)",
-          "en": "That’s what I said, and this is why I said it."
+          "en": "and this is why I said it."
         },
         {
           "scid": "an7.49:8.1",
@@ -325,7 +325,7 @@
         {
           "scid": "an7.49:9.8",
           "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (4)",
-          "en": "That’s what I said, and this is why I said it."
+          "en": "and this is why I said it."
         },
         {
           "scid": "an7.49:10.1",
@@ -390,7 +390,7 @@
         {
           "scid": "an7.49:11.8",
           "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (5)",
-          "en": "That’s what I said, and this is why I said it."
+          "en": "and this is why I said it."
         },
         {
           "scid": "an7.49:12.1",
@@ -405,7 +405,7 @@
         {
           "scid": "an7.49:12.3",
           "pli": "Anicce dukkhasaññāparicitena, bhikkhave, bhikkhuno cetasā bahulaṃ viharato ālasye kosajje vissaṭṭhiye pamāde ananuyoge apaccavekkhaṇāya tibbā bhayasaññā paccupaṭṭhitā hoti, seyyathāpi, bhikkhave, ukkhittāsike vadhake.",
-          "en": "When a mendicant often meditates with a mind reinforced with the perception of suffering in impermanence, they establish a keen perception of the danger of sloth, laziness, slackness, negligence, lack of commitment, and unreflectiveness, like a killer with a drawn sword. …"
+          "en": "When a mendicant often meditates with a mind reinforced with the perception of suffering in impermanence, they establish a keen perception of the danger of sloth, laziness, slackness, negligence, lack of commitment, and failure to review, like a killer with a drawn sword. …"
         },
         {
           "scid": "an7.49:13.1",
@@ -445,7 +445,7 @@
         {
           "scid": "an7.49:13.8",
           "pli": "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ. (6)",
-          "en": "That’s what I said, and this is why I said it."
+          "en": "and this is why I said it."
         },
         {
           "scid": "an7.49:14.1",
@@ -533,6 +533,7 @@
     "difficulty": null,
     "original_title": "Dutiyasaññā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Perceptions in Detail",
@@ -540,21 +541,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.49_sujato",
         "segmented": true,
-        "title": "Perceptions in Detail"
+        "title": "Perceptions in Detail",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an7.49_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Perceptions"
       }
     ],

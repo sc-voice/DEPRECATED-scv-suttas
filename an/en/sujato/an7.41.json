@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Mastery of the Mind (2nd)",
@@ -68,6 +68,11 @@
           "en": "What seven?"
         },
         {
+          "scid": "an7.41:1.3",
+          "pli": "Idha, bhikkhave, sāriputto samādhikusalo hoti, samādhissa samāpattikusalo, samādhissa ṭhitikusalo, samādhissa vuṭṭhānakusalo, samādhissa kalyāṇakusalo, samādhissa gocarakusalo, samādhissa abhinīhārakusalo hoti.",
+          "en": "Sāriputta is skilled at immersion, skilled in entering immersion, skilled in remaining in immersion, skilled in emerging from immersion, skilled in gladdening the mind for immersion, skilled in the mindfulness meditation subjects for immersion, and skilled in projecting the mind purified by immersion."
+        },
+        {
           "scid": "an7.41:1.4",
           "pli": "Imehi kho, bhikkhave, sattahi dhammehi samannāgato sāriputto cittaṃ vase vatteti, no ca sāriputto cittassa vasena vattatī”ti.",
           "en": "Having these seven qualities Sāriputta has mastered his mind and is not mastered by it.”"
@@ -98,6 +103,7 @@
     "difficulty": null,
     "original_title": "Dutiyavasa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Mastery of the Mind (2nd)",
@@ -105,12 +111,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.41_sujato",
         "segmented": true,
-        "title": "Mastery of the Mind (2nd)"
+        "title": "Mastery of the Mind (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

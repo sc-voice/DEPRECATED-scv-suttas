@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Sandaka",
@@ -265,7 +265,7 @@
         {
           "scid": "mn76:7.9",
           "pli": "Tesaṃ tucchā musā vilāpo ye keci atthikavādaṃ vadanti.",
-          "en": "When anyone affirms a positive teaching it’s just baseless, false nonsense."
+          "en": "When anyone affirms a positive teaching it’s just hollow, false nonsense."
         },
         {
           "scid": "mn76:7.10",
@@ -1025,12 +1025,12 @@
         {
           "scid": "mn76:47.1",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmeti.",
-          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward recollection of past lives."
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it toward recollection of past lives."
         },
         {
           "scid": "mn76:47.2",
           "pli": "So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo … pe … iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.",
-          "en": "They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world evolving, many eons of the world contracting and evolving. … They recollect their many kinds of past lives, with features and details."
+          "en": "They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. … They recollect their many kinds of past lives, with features and details."
         },
         {
           "scid": "mn76:47.3",
@@ -1040,7 +1040,7 @@
         {
           "scid": "mn76:48.1",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmeti.",
-          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the death and rebirth of sentient beings."
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the death and rebirth of sentient beings."
         },
         {
           "scid": "mn76:48.2",
@@ -1055,7 +1055,7 @@
         {
           "scid": "mn76:49.1",
           "pli": "So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti.",
-          "en": "When their mind has become immersed in samādhi like this—purified, bright, spotless, rid of taints, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the ending of defilements."
+          "en": "When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it toward knowledge of the ending of defilements."
         },
         {
           "scid": "mn76:49.2",
@@ -1140,7 +1140,7 @@
         {
           "scid": "mn76:52.7",
           "pli": "‘chinnā me hatthapādā’ti, udāhu paccavekkhamāno jānāti:",
-          "en": "Or would they be aware of it only when they reflected on it?”"
+          "en": "Or would they be aware of it only when they checked it?”"
         },
         {
           "scid": "mn76:52.8",
@@ -1160,7 +1160,7 @@
         {
           "scid": "mn76:52.11",
           "pli": "Api ca kho pana naṃ paccavekkhamāno jānāti:",
-          "en": "only when they reflected on it.”"
+          "en": "only when they checked it.”"
         },
         {
           "scid": "mn76:52.12",
@@ -1180,7 +1180,7 @@
         {
           "scid": "mn76:52.15",
           "pli": "api ca kho pana naṃ paccavekkhamāno jānāti:",
-          "en": "Rather, they are aware of it only when they reflect on it.”"
+          "en": "Rather, they are aware of it only when they checked it.”"
         },
         {
           "scid": "mn76:52.16",
@@ -1263,6 +1263,7 @@
     "difficulty": 2,
     "original_title": "Sandaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Sandaka",
@@ -1270,21 +1271,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn76_sujato",
         "segmented": true,
-        "title": "With Sandaka"
+        "title": "With Sandaka",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn76_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse to Sandaka"
       }
     ],

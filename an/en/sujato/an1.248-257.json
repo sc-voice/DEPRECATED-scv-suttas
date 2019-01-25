@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -75,12 +75,12 @@
         {
           "scid": "an1.248-257:4.1",
           "pli": "… Catūhi saṅgahavatthūhi parisaṃ saṅgaṇhantānaṃ yadidaṃ hatthako āḷavako. (4)",
-          "en": "… who attract a following by the four ways of being inclusive is Hatthaka Āḷavaka."
+          "en": "… who attract a congregation by the four ways of being inclusive is Hatthaka Āḷavaka."
         },
         {
           "scid": "an1.248-257:5.1",
           "pli": "… Paṇītadāyakānaṃ yadidaṃ mahānāmo sakko. (5)",
-          "en": "… who donate good things is Mahānāma Sakka."
+          "en": "… who donate fine things is Mahānāma Sakka."
         },
         {
           "scid": "an1.248-257:6.1",
@@ -133,6 +133,7 @@
     "difficulty": null,
     "original_title": "Chaṭṭha Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -140,12 +141,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an1.248-257_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       }
     ],
     "parallel_count": 5,

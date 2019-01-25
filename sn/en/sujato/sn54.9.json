@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "At Vesālī",
@@ -100,7 +100,7 @@
         {
           "scid": "sn54.9:3.2",
           "pli": "“bhagavā anekapariyāyena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubhabhāvanāya vaṇṇaṃ bhāsatī”ti anekākāravokāraṃ asubhabhāvanānuyogamanuyuttā viharanti.",
-          "en": "“The Buddha spoke in many ways about the meditation on ugliness. He praised the meditation on ugliness and its development.” They committed themselves to developing the many different aspects of the meditation on ugliness."
+          "en": "“The Buddha spoke in many ways about the meditation on ugliness. He praised the meditation on ugliness and its development.” They committed themselves to developing the many different facets of the meditation on ugliness."
         },
         {
           "scid": "sn54.9:3.3",
@@ -238,6 +238,7 @@
     "difficulty": null,
     "original_title": "Vesālī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "At Vesālī",
@@ -245,12 +246,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn54.9_sujato",
         "segmented": true,
-        "title": "At Vesālī"
+        "title": "At Vesālī",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

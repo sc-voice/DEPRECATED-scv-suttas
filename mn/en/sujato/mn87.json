@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Born From the Beloved",
@@ -770,7 +770,7 @@
         {
           "scid": "mn87:29.4",
           "pli": "Atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā tikkhattuṃ udānaṃ udānesi:",
-          "en": "Then King Pasenadi got up from his seat, arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and spoke these words of inspiration three times:"
+          "en": "Then King Pasenadi got up from his seat, arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and was inspired to exclaim three times:"
         },
         {
           "scid": "mn87:29.5",
@@ -813,6 +813,7 @@
     "difficulty": 1,
     "original_title": "Piyajātika Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Born From the Beloved",
@@ -820,21 +821,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn87_sujato",
         "segmented": true,
-        "title": "Born From the Beloved"
+        "title": "Born From the Beloved",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn87_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2018",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on “Born of Affection”"
       }
     ],

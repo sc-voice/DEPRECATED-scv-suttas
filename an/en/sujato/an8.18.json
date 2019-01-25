@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Imprisonment (2nd)",
+    "title": "Catching (2nd)",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Imprisonment (1st)",
+      "name": "Catching (1st)",
       "uid": "an8.17"
     }
   },
@@ -43,7 +43,7 @@
         {
           "scid": "an8.18:0.3",
           "pli": "18. Dutiyabandhanasutta",
-          "en": "18. Imprisonment (2nd)"
+          "en": "18. Catching (2nd)"
         }
       ],
       "type": "Section",
@@ -60,7 +60,7 @@
         {
           "scid": "an8.18:1.1",
           "pli": "“Aṭṭhahi, bhikkhave, ākārehi puriso itthiṃ bandhati.",
-          "en": "“Mendicants, a man has eight ways to imprison a woman."
+          "en": "“Mendicants, a man catches a woman using eight features."
         },
         {
           "scid": "an8.18:1.2",
@@ -110,12 +110,12 @@
         {
           "scid": "an8.18:1.11",
           "pli": "Imehi kho, bhikkhave, aṭṭhahākārehi puriso itthiṃ bandhati.",
-          "en": "A man has these eight ways to imprison a woman."
+          "en": "A man catches a woman using these eight features."
         },
         {
           "scid": "an8.18:1.12",
           "pli": "Te, bhikkhave, sattā subaddhā, ye phassena baddhā”ti.",
-          "en": "But those beings who are imprisoned by touch are truly imprisoned.”"
+          "en": "But those beings who are caught by touch are well and truly caught.”"
         },
         {
           "scid": "an8.18:1.13",
@@ -129,7 +129,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Mendicants, a man has eight ways to imprison a…",
+      "title": "“Mendicants, a man catches a woman using eight features.",
       "expandable": false
     }
   ],
@@ -143,28 +143,35 @@
     "difficulty": null,
     "original_title": "Dutiyabandhana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Imprisonment (2nd)",
+    "translated_title": "Catching (2nd)",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an8.18_sujato",
         "segmented": true,
-        "title": "Imprisonment (2nd)"
+        "title": "Catching (2nd)",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an8.18_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Bondage (2)"
       }
     ],

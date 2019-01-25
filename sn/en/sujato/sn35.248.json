@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Sheaf of Barley",
@@ -195,12 +195,12 @@
         {
           "scid": "sn35.248:2.17",
           "pli": "Maññamāno kho, bhikkhave, baddho mārassa, amaññamāno mutto pāpimato.",
-          "en": "When you have conceit, you’re bound by Māra. Not conceiving, you’re free from the Wicked One."
+          "en": "When you identify, you’re bound by Māra. Not identifying, you’re free from the Wicked One."
         },
         {
           "scid": "sn35.248:3.1",
           "pli": "‘Asmī’ti, bhikkhave, maññitametaṃ, ‘ayamahamasmī’ti maññitametaṃ, ‘bhavissan’ti maññitametaṃ, ‘na bhavissan’ti maññitametaṃ, ‘rūpī bhavissan’ti maññitametaṃ, ‘arūpī bhavissan’ti maññitametaṃ, ‘saññī bhavissan’ti maññitametaṃ, ‘asaññī bhavissan’ti maññitametaṃ, ‘nevasaññīnāsaññī bhavissan’ti maññitametaṃ.",
-          "en": "These are all forms of conceiving: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be non-percipient’, ‘I will be neither percipient nor non-percipient.’"
+          "en": "These are all forms of identifying: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be non-percipient’, ‘I will be neither percipient nor non-percipient.’"
         },
         {
           "scid": "sn35.248:3.2",
@@ -210,7 +210,7 @@
         {
           "scid": "sn35.248:3.3",
           "pli": "Tasmātiha, bhikkhave, ‘amaññamānena cetasā viharissāmā’ti—",
-          "en": "So mendicants, you should train yourselves like this: ‘We will live with a heart that does not conceive.’"
+          "en": "So mendicants, you should train yourselves like this: ‘We will live with a heart that does not identify.’"
         },
         {
           "scid": "sn35.248:3.4",
@@ -378,6 +378,7 @@
     "difficulty": null,
     "original_title": "Yavakalāpi Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Sheaf of Barley",
@@ -385,21 +386,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn35.248_sujato",
         "segmented": true,
-        "title": "The Sheaf of Barley"
+        "title": "The Sheaf of Barley",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn35.248_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "The Sheaf of Barley"
       }
     ],

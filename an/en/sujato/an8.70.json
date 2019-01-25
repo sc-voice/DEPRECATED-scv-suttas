@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Earthquakes",
@@ -80,7 +80,7 @@
         {
           "scid": "an8.70:1.5",
           "pli": "Yena cāpālaṃ cetiyaṃ tenupasaṅkamissāma divāvihārāyā”ti.",
-          "en": "Let’s go to the Cāpāla tree shrine for the day’s meditation.”"
+          "en": "Let’s go to the Cāpāla shrine for the day’s meditation.”"
         },
         {
           "scid": "an8.70:1.6",
@@ -100,7 +100,7 @@
         {
           "scid": "an8.70:3.1",
           "pli": "“Ramaṇīyā, ānanda, vesālī, ramaṇīyaṃ udenaṃ cetiyaṃ, ramaṇīyaṃ gotamakaṃ cetiyaṃ, ramaṇīyaṃ sattambaṃ cetiyaṃ, ramaṇīyaṃ bahuputtakaṃ cetiyaṃ; ramaṇīyaṃ sārandadaṃ cetiyaṃ, ramaṇīyaṃ cāpālaṃ cetiyaṃ.",
-          "en": "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, Sārandada, and Cāpāla tree shrines are all lovely."
+          "en": "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, Sārandada, and Cāpāla shrines are all lovely."
         },
         {
           "scid": "an8.70:3.2",
@@ -140,7 +140,7 @@
         {
           "scid": "an8.70:4.3",
           "pli": "“ramaṇīyā, ānanda, vesālī, ramaṇīyaṃ udenaṃ cetiyaṃ, ramaṇīyaṃ gotamakaṃ cetiyaṃ, ramaṇīyaṃ sattambaṃ cetiyaṃ, ramaṇīyaṃ bahuputtakaṃ cetiyaṃ, ramaṇīyaṃ sārandadaṃ cetiyaṃ, ramaṇīyaṃ cāpālaṃ cetiyaṃ.",
-          "en": "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, Sārandada, and Cāpāla tree shrines are all lovely."
+          "en": "“Ānanda, Vesālī is lovely. And the Udena, Gotamaka, Sattamba, Bahuputta, Sārandada, and Cāpāla shrines are all lovely."
         },
         {
           "scid": "an8.70:4.4",
@@ -285,12 +285,12 @@
         {
           "scid": "an8.70:10.3",
           "pli": "Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:",
-          "en": "Then, knowing the meaning of this, on that occasion the Buddha spoke these words of inspiration:"
+          "en": "Then, knowing the meaning of this, on that occasion the Buddha was inspired to exclaim:"
         },
         {
           "scid": "an8.70:10.4",
           "pli": "“Tulamatulañca sambhavaṃ,",
-          "en": "“Comparing the incomparable with an extension of life,"
+          "en": "“Weighing up the incomparable against an extension of life,"
         },
         {
           "scid": "an8.70:10.5",
@@ -300,12 +300,12 @@
         {
           "scid": "an8.70:10.6",
           "pli": "Ajjhattarato samāhito,",
-          "en": "Happy inside, immersed in samādhi,"
+          "en": "Happy inside, serene,"
         },
         {
           "scid": "an8.70:10.7",
           "pli": "Abhindi kavacamivattasambhavan”ti.",
-          "en": "he broke his continued existence like a suit of armor.”"
+          "en": "he burst out of this self-made chain like a suit of armor.”"
         },
         {
           "scid": "an8.70:12.1",
@@ -380,7 +380,7 @@
         {
           "scid": "an8.70:16.1",
           "pli": "Puna caparaṃ, ānanda, yadā bodhisatto tusitā kāyā cavitvā sato sampajāno mātukucchiṃ okkamati, tadāyaṃ pathavī kampati saṅkampati sampakampati sampavedhati.",
-          "en": "Furthermore, when the being intent on awakening passes away from the group of Joyful Gods, he’s conceived in his mother’s belly, mindful and aware. Then the earth shakes and rocks and trembles."
+          "en": "Furthermore, when the being intent on awakening passes away from the host of Joyful Gods, he’s conceived in his mother’s belly, mindful and aware. Then the earth shakes and rocks and trembles."
         },
         {
           "scid": "an8.70:16.2",
@@ -493,6 +493,7 @@
     "difficulty": null,
     "original_title": "Bhūmicāla Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Earthquakes",
@@ -500,15 +501,18 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an8.70_sujato",
         "segmented": true,
-        "title": "Earthquakes"
+        "title": "Earthquakes",
+        "volpage": null
       }
     ],
-    "parallel_count": 18,
+    "parallel_count": 23,
     "biblio": null,
     "num": 10
   }

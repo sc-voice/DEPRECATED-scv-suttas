@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Simile of the Mountain",
@@ -75,7 +75,7 @@
         {
           "scid": "sn3.25:1.4",
           "pli": "“Yāni tāni, bhante, raññaṃ khattiyānaṃ muddhāvasittānaṃ issariyamadamattānaṃ kāmagedhapariyuṭṭhitānaṃ janapadatthāvariyappattānaṃ mahantaṃ pathavimaṇḍalaṃ abhivijiya ajjhāvasantānaṃ rājakaraṇīyāni bhavanti, tesu khvāhaṃ, etarahi ussukkamāpanno”ti.",
-          "en": "“Sir, there are anointed aristocratic kings who are infatuated with power, and obsessed with greed for sensual pleasures. They have attained stability in the country, occupying a vast conquered territory. Today I have been busy fulfilling the duties of such kings.”"
+          "en": "“Sir, there are anointed aristocratic kings who are infatuated with authority, and obsessed with greed for sensual pleasures. They have attained stability in the country, occupying a vast conquered territory. Today I have been busy fulfilling the duties of such kings.”"
         },
         {
           "scid": "sn3.25:2.1",
@@ -170,7 +170,7 @@
         {
           "scid": "sn3.25:4.4",
           "pli": "Yāni tāni, bhante, raññaṃ khattiyānaṃ muddhāvasittānaṃ issariyamadamattānaṃ kāmagedhapariyuṭṭhitānaṃ janapadatthāvariyappattānaṃ mahantaṃ pathavimaṇḍalaṃ abhivijiya ajjhāvasantānaṃ hatthiyuddhāni bhavanti;",
-          "en": "Sir, there are anointed aristocratic kings who are infatuated with power, and obsessed with greed for sensual pleasures. They have attained stability in the country, occupying a vast conquered territory. Such kings engage in battles of elephants,"
+          "en": "Sir, there are anointed aristocratic kings who are infatuated with authority, and obsessed with greed for sensual pleasures. They have attained stability in the country, occupying a vast conquered territory. Such kings engage in battles of elephants,"
         },
         {
           "scid": "sn3.25:4.5",
@@ -408,6 +408,7 @@
     "difficulty": null,
     "original_title": "Pabbatūpama Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Simile of the Mountain",
@@ -415,12 +416,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn3.25_sujato",
         "segmented": true,
-        "title": "The Simile of the Mountain"
+        "title": "The Simile of the Mountain",
+        "volpage": null
       }
     ],
     "parallel_count": 2,

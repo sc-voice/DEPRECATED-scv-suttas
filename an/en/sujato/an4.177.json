@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Rāhula",
@@ -70,12 +70,12 @@
         {
           "scid": "an4.177:2.2",
           "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
-          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+          "en": "This should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’"
         },
         {
           "scid": "an4.177:2.3",
           "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā pathavīdhātuyā nibbindati, pathavīdhātuyā cittaṃ virājeti.",
-          "en": "When you really see with proper understanding, you reject the earth element, detaching the mind from the earth element."
+          "en": "When you truly see with right understanding, you reject the earth element, detaching the mind from the earth element."
         },
         {
           "scid": "an4.177:3.1",
@@ -85,12 +85,12 @@
         {
           "scid": "an4.177:3.2",
           "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
-          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+          "en": "This should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’"
         },
         {
           "scid": "an4.177:3.3",
           "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā āpodhātuyā nibbindati, āpodhātuyā cittaṃ virājeti.",
-          "en": "When you really see with proper understanding, you reject the water element, detaching the mind from the water element."
+          "en": "When you truly see with right understanding, you reject the water element, detaching the mind from the water element."
         },
         {
           "scid": "an4.177:4.1",
@@ -100,12 +100,12 @@
         {
           "scid": "an4.177:4.2",
           "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
-          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+          "en": "This should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’"
         },
         {
           "scid": "an4.177:4.3",
           "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā tejodhātuyā nibbindati, tejodhātuyā cittaṃ virājeti.",
-          "en": "When you really see with proper understanding, you reject the fire element, detaching the mind from the fire element."
+          "en": "When you truly see with right understanding, you reject the fire element, detaching the mind from the fire element."
         },
         {
           "scid": "an4.177:5.1",
@@ -115,12 +115,12 @@
         {
           "scid": "an4.177:5.2",
           "pli": "‘Taṃ netaṃ mama, nesohamasmi, na meso attā’ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
-          "en": "This should be truly seen with proper understanding like this: ‘This is not mine, I am not this, this is not my self.’"
+          "en": "This should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’"
         },
         {
           "scid": "an4.177:5.3",
           "pli": "Evametaṃ yathābhūtaṃ sammappaññāya disvā vāyodhātuyā nibbindati, vāyodhātuyā cittaṃ virājeti.",
-          "en": "When you really see with proper understanding, you reject the air element, detaching the mind from the air element."
+          "en": "When you truly see with right understanding, you reject the air element, detaching the mind from the air element."
         },
         {
           "scid": "an4.177:6.1",
@@ -153,6 +153,7 @@
     "difficulty": null,
     "original_title": "Rāhula Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Rāhula",
@@ -160,12 +161,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.177_sujato",
         "segmented": true,
-        "title": "With Rāhula"
+        "title": "With Rāhula",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Angry",
+    "title": "Irritable",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "sn37.5:0.3",
           "pli": "5. Kodhanasutta",
-          "en": "5. Angry"
+          "en": "5. Irritable"
         }
       ],
       "type": "Section",
@@ -85,7 +85,7 @@
         {
           "scid": "sn37.5:2.3",
           "pli": "Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, kodhano ca hoti, duppañño ca hoti—",
-          "en": "They’re faithless, shameless, imprudent, angry, and witless."
+          "en": "They’re faithless, shameless, imprudent, irritable, and witless."
         },
         {
           "scid": "sn37.5:2.4",
@@ -118,19 +118,23 @@
     "difficulty": null,
     "original_title": "Kodhana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Angry",
+    "translated_title": "Irritable",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn37.5_sujato",
         "segmented": true,
-        "title": "Angry"
+        "title": "Irritable",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

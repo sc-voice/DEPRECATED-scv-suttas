@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "General Sīha",
@@ -95,7 +95,7 @@
         {
           "scid": "an7.57:2.4",
           "pli": "eko puriso assaddho maccharī kadariyo paribhāsako, eko puriso saddho dānapati anuppadānarato.",
-          "en": "One is faithless, mean, miserly, and abusive. One is a faithful donor who loves charity."
+          "en": "One is faithless, stingy, miserly, and abusive. One is a faithful donor who loves charity."
         },
         {
           "scid": "an7.57:2.5",
@@ -110,7 +110,7 @@
         {
           "scid": "an7.57:3.1",
           "pli": "“Yo so, bhante, puriso assaddho maccharī kadariyo paribhāsako, kintaṃ arahanto paṭhamaṃ anukampantā anukampissanti.",
-          "en": "“Why would the perfected ones first show compassion for the person who is faithless, miserly, and abusive?"
+          "en": "“Why would the perfected ones first show compassion for the person who is faithless, stingy, miserly, and abusive?"
         },
         {
           "scid": "an7.57:3.2",
@@ -230,7 +230,7 @@
         {
           "scid": "an7.57:9.3",
           "pli": "“Yo so, bhante, puriso assaddho maccharī kadariyo paribhāsako, kiṃ so kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissati.",
-          "en": "“Why would the person who is faithless, miserly, and abusive be reborn in a good place, a heavenly realm?"
+          "en": "“Why would the person who is faithless, stingy, miserly, and abusive be reborn in a good place, a heavenly realm?"
         },
         {
           "scid": "an7.57:9.4",
@@ -343,6 +343,7 @@
     "difficulty": null,
     "original_title": "Sīhasenāpati Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "General Sīha",
@@ -350,21 +351,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.57_sujato",
         "segmented": true,
-        "title": "General Sīha"
+        "title": "General Sīha",
+        "volpage": null
       },
       {
         "author": "E.M. Hare",
         "author_short": "Hare",
         "author_uid": "hare",
         "id": "en_an7.57_hare",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": null,
         "segmented": false,
+        "volpage": null,
         "title": "Sīha"
       }
     ],

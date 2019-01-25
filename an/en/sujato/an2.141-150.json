@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -150,7 +150,7 @@
         {
           "scid": "an2.141-150:144.1.1",
           "pli": "“Dveme, bhikkhave, pariccāgā.",
-          "en": "“There are these two donations."
+          "en": "“There are these two kinds of charity."
         },
         {
           "scid": "an2.141-150:144.1.2",
@@ -160,17 +160,17 @@
         {
           "scid": "an2.141-150:144.1.3",
           "pli": "Āmisapariccāgo ca dhammapariccāgo ca.",
-          "en": "Donation of material things and donation of the teaching."
+          "en": "Charity in material things and charity in the teaching."
         },
         {
           "scid": "an2.141-150:144.1.4",
           "pli": "Ime kho, bhikkhave, dve pariccāgā.",
-          "en": "These are the two donations."
+          "en": "These are the two kinds of charity."
         },
         {
           "scid": "an2.141-150:144.1.5",
           "pli": "Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ pariccāgānaṃ yadidaṃ dhammapariccāgo”ti.",
-          "en": "The better of these two donations is a donation of the teaching.”"
+          "en": "The better of these two kinds of charity is a charity in the teaching.”"
         },
         {
           "scid": "an2.141-150:144.1.6",
@@ -372,12 +372,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli1.92",
     "uid": "an2.141-150",
     "blurb": null,
     "difficulty": null,
     "original_title": "Dāna Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -385,12 +386,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an2.141-150_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       }
     ],
     "parallel_count": 4,

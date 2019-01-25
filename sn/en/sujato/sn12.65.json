@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The City",
@@ -390,7 +390,7 @@
         {
           "scid": "sn12.65:7.1",
           "pli": "Seyyathāpi, bhikkhave, puriso araññe pavane caramāno passeyya purāṇaṃ maggaṃ purāṇañjasaṃ pubbakehi manussehi anuyātaṃ.",
-          "en": "Suppose a person was walking through a forest. They’d see an ancient path, an ancient road traveled by humans in the past."
+          "en": "Suppose a person was walking through a forest. They’d see an ancient path, an ancient route traveled by humans in the past."
         },
         {
           "scid": "sn12.65:7.2",
@@ -410,7 +410,7 @@
         {
           "scid": "sn12.65:7.5",
           "pli": "‘yagghe, bhante, jāneyyāsi—ahaṃ addasaṃ araññe pavane caramāno purāṇaṃ maggaṃ purāṇañjasaṃ pubbakehi manussehi anuyātaṃ tamanugacchiṃ.",
-          "en": "‘Please sir, you should know this. While walking through a forest I saw an ancient path, an ancient road traveled by humans in the past."
+          "en": "‘Please sir, you should know this. While walking through a forest I saw an ancient path, an ancient route traveled by humans in the past."
         },
         {
           "scid": "sn12.65:7.6",
@@ -435,7 +435,7 @@
         {
           "scid": "sn12.65:7.10",
           "pli": "Evameva khvāhaṃ, bhikkhave, addasaṃ purāṇaṃ maggaṃ purāṇañjasaṃ pubbakehi sammāsambuddhehi anuyātaṃ.",
-          "en": "In the same way, I saw an ancient path, an ancient road traveled by fully awakened Buddhas in the past."
+          "en": "In the same way, I saw an ancient path, an ancient route traveled by fully awakened Buddhas in the past."
         },
         {
           "scid": "sn12.65:8.1",
@@ -588,6 +588,7 @@
     "difficulty": null,
     "original_title": "Nagara Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The City",
@@ -595,21 +596,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn12.65_sujato",
         "segmented": true,
-        "title": "The City"
+        "title": "The City",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn12.65_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "The City"
       }
     ],

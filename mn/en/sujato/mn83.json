@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "About King Makhādeva",
@@ -545,7 +545,7 @@
         {
           "scid": "mn83:13.22",
           "pli": "Atha kho, ānanda, sakko devānamindo nimissa rañño adhivāsanaṃ viditvā—seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya; evameva—nimissa rañño pamukhe antarahito devesu tāvatiṃsesu pāturahosi.",
-          "en": "Then, knowing that the king had accepted, as easily as a strong person would extend or contract their arm, Sakka vanished from King Nimi and reappeared among the Thirty-Three gods."
+          "en": "Then, knowing that the king had consented, as easily as a strong person would extend or contract their arm, Sakka vanished from King Nimi and reappeared among the Thirty-Three gods."
         },
         {
           "scid": "mn83:14.1",
@@ -968,6 +968,7 @@
     "difficulty": 2,
     "original_title": "Maghadeva Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "About King Makhādeva",
@@ -975,21 +976,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn83_sujato",
         "segmented": true,
-        "title": "About King Makhādeva"
+        "title": "About King Makhādeva",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn83_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2018",
         "segmented": false,
+        "volpage": null,
         "title": "Discourse on Makhādeva"
       }
     ],

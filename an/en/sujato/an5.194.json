@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Kāraṇapālī",
@@ -90,17 +90,17 @@
         {
           "scid": "an5.194:2.3",
           "pli": "“Taṃ kiṃ maññati bhavaṃ piṅgiyānī samaṇassa gotamassa paññāveyyattiyaṃ? Paṇḍito maññe”ti?",
-          "en": "“What do you think of the ascetic Gotama’s proficiency in wisdom? Do you think he’s astute?”"
+          "en": "“What do you think of the ascetic Gotama’s lucidity of wisdom? Do you think he’s astute?”"
         },
         {
           "scid": "an5.194:2.4",
           "pli": "“Ko cāhaṃ, bho, ko ca samaṇassa gotamassa paññāveyyattiyaṃ jānissāmi.",
-          "en": "“My good man, who am I to judge the ascetic Gotama’s proficiency in wisdom?"
+          "en": "“My good man, who am I to judge the ascetic Gotama’s lucidity of wisdom?"
         },
         {
           "scid": "an5.194:2.5",
           "pli": "Sopi nūnassa tādisova yo samaṇassa gotamassa paññāveyyattiyaṃ jāneyyā”ti.",
-          "en": "You’d really have to be on the same level to judge his proficiency in wisdom.”"
+          "en": "You’d really have to be on the same level to judge his lucidity of wisdom.”"
         },
         {
           "scid": "an5.194:2.6",
@@ -265,7 +265,7 @@
         {
           "scid": "an5.194:8.1",
           "pli": "Evaṃ vutte, kāraṇapālī brāhmaṇo uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā dakkhiṇaṃ jāṇumaṇḍalaṃ pathaviyaṃ nihantvā yena bhagavā tenañjaliṃ paṇāmetvā tikkhattuṃ udānaṃ udānesi:",
-          "en": "When this was said, the brahmin Kāraṇapālī got up from his seat, arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and spoke these words of inspiration three times:"
+          "en": "When this was said, the brahmin Kāraṇapālī got up from his seat, arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha, and was inspired to exclaim three times:"
         },
         {
           "scid": "an5.194:9.1",
@@ -328,6 +328,7 @@
     "difficulty": null,
     "original_title": "Kāraṇapālī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Kāraṇapālī",
@@ -335,12 +336,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.194_sujato",
         "segmented": true,
-        "title": "With Kāraṇapālī"
+        "title": "With Kāraṇapālī",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

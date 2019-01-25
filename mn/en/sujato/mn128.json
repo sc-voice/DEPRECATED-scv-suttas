@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Corruptions",
@@ -350,7 +350,7 @@
         {
           "scid": "mn128:6.30",
           "pli": "Sace labhetha nipakaṃ sahāyaṃ,",
-          "en": "If you find a discreet companion,"
+          "en": "If you find an alert companion,"
         },
         {
           "scid": "mn128:6.31",
@@ -370,7 +370,7 @@
         {
           "scid": "mn128:6.34",
           "pli": "No ce labhetha nipakaṃ sahāyaṃ,",
-          "en": "If you find no discreet companion,"
+          "en": "If you find no alert companion,"
         },
         {
           "scid": "mn128:6.35",
@@ -770,12 +770,12 @@
         {
           "scid": "mn128:15.5",
           "pli": "tañca nimittaṃ nappaṭivijjhāmā”ti.",
-          "en": "We haven’t found out the reason for that.”"
+          "en": "We haven’t worked out the pattern of that.”"
         },
         {
           "scid": "mn128:16.1",
           "pli": "“Taṃ kho pana vo, anuruddhā, nimittaṃ paṭivijjhitabbaṃ.",
-          "en": "“Now you should find out the reason for that."
+          "en": "“Now you should work out the pattern of that."
         },
         {
           "scid": "mn128:16.2",
@@ -1260,12 +1260,12 @@
         {
           "scid": "mn128:28.9",
           "pli": "‘yasmiñhi kho ahaṃ samaye rūpanimittaṃ amanasikaritvā obhāsanimittaṃ manasi karomi, obhāsañhi kho tasmiṃ samaye sañjānāmi, na ca rūpāni passāmi.",
-          "en": "‘When I don’t focus on the cause for the vision of forms, but focus on the cause for the light, then I perceive light and do not see forms."
+          "en": "‘When I don’t focus on the foundation of the forms, but focus on the foundation of the light, then I perceive light and do not see forms."
         },
         {
           "scid": "mn128:28.10",
           "pli": "Yasmiṃ panāhaṃ samaye obhāsanimittaṃ amanasikaritvā rūpanimittaṃ manasi karomi, rūpāni hi kho tasmiṃ samaye passāmi na ca obhāsaṃ sañjānāmi—",
-          "en": "But when I don’t focus on the cause for the light, but focus on the cause for the vision of forms, then I see forms and do not perceive light."
+          "en": "But when I don’t focus on the foundation of the light, but focus on the foundation of the forms, then I see forms and do not perceive light."
         },
         {
           "scid": "mn128:28.11",
@@ -1468,6 +1468,7 @@
     "difficulty": 2,
     "original_title": "Upakkilesa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Corruptions",
@@ -1475,15 +1476,18 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn128_sujato",
         "segmented": true,
-        "title": "Corruptions"
+        "title": "Corruptions",
+        "volpage": null
       }
     ],
-    "parallel_count": 88,
+    "parallel_count": 99,
     "biblio": null,
     "num": 8
   }

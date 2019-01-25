@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Kūṭadanta",
@@ -325,7 +325,7 @@
         {
           "scid": "dn5:6.10",
           "pli": "Bhavañhi kūṭadanto ajjhāyako mantadharo tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ padako veyyākaraṇo lokāyatamahāpurisalakkhaṇesu anavayo … pe …",
-          "en": "You recite and remember the hymns, and are an expert in the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. You know philology and grammar, and are well versed in cosmology and the marks of a great man. …"
+          "en": "You recite and remember the hymns, and have mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. You know philology and grammar, and are well versed in cosmology and the marks of a great man. …"
         },
         {
           "scid": "dn5:6.11",
@@ -700,7 +700,7 @@
         {
           "scid": "dn5:10.3",
           "pli": "‘adhigatā kho me vipulā mānusakā bhogā, mahantaṃ pathavimaṇḍalaṃ abhivijiya ajjhāvasāmi, yannūnāhaṃ mahāyaññaṃ yajeyyaṃ, yaṃ mama assa dīgharattaṃ hitāya sukhāyā’ti.",
-          "en": "‘I have achieved human wealth, and reign after conquering this great land. Why don’t I hold a large sacrifice? That will be for my lasting welfare and happiness.’"
+          "en": "‘I have achieved human wealth, and reign after conquering this vast territory. Why don’t I hold a large sacrifice? That will be for my lasting welfare and happiness.’"
         },
         {
           "scid": "dn5:10.4",
@@ -715,7 +715,7 @@
         {
           "scid": "dn5:10.6",
           "pli": "“adhigatā kho me vipulā mānusakā bhogā, mahantaṃ pathavimaṇḍalaṃ abhivijiya ajjhāvasāmi. Yannūnāhaṃ mahāyaññaṃ yajeyyaṃ yaṃ mama assa dīgharattaṃ hitāya sukhāyā”ti.",
-          "en": "“I have achieved human wealth, and reign after conquering this great land. Why don’t I perform a great sacrifice? That will be for my lasting welfare and happiness.”"
+          "en": "“I have achieved human wealth, and reign after conquering this vast territory. Why don’t I perform a great sacrifice? That will be for my lasting welfare and happiness.”"
         },
         {
           "scid": "dn5:10.7",
@@ -750,7 +750,7 @@
         {
           "scid": "dn5:11.5",
           "pli": "“ahametaṃ dassukhīlaṃ vadhena vā bandhena vā jāniyā vā garahāya vā pabbājanāya vā samūhanissāmī”ti, na kho panetassa dassukhīlassa evaṃ sammā samugghāto hoti.",
-          "en": "“I’ll eradicate this barbarian obstacle by execution or imprisonment or condemnation or banishment!” But that’s not the right way to eradicate this barbarian obstacle."
+          "en": "“I’ll eradicate this barbarian obstacle by execution or imprisonment or confiscation or condemnation or banishment!” But that’s not the right way to eradicate this barbarian obstacle."
         },
         {
           "scid": "dn5:11.6",
@@ -965,7 +965,7 @@
         {
           "scid": "dn5:14.2",
           "pli": "ajjhāyako mantadharo tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ padako veyyākaraṇo lokāyatamahāpurisalakkhaṇesu anavayo;",
-          "en": "He recited and remembered the hymns, and was an expert in the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knew philology and grammar, and was well versed in cosmology and the marks of a great man."
+          "en": "He recited and remembered the hymns, and had mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knew philology and grammar, and was well versed in cosmology and the marks of a great man."
         },
         {
           "scid": "dn5:14.3",
@@ -1875,7 +1875,7 @@
         {
           "scid": "dn5:30.4",
           "pli": "Atha kho kūṭadanto brāhmaṇo bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.",
-          "en": "Then, knowing that the Buddha had accepted, Kūṭadanta got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving."
+          "en": "Then, knowing that the Buddha had consented, Kūṭadanta got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving."
         },
         {
           "scid": "dn5:30.5",
@@ -1933,6 +1933,7 @@
     "difficulty": 1,
     "original_title": "Kūṭadanta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Kūṭadanta",
@@ -1940,21 +1941,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn5_sujato",
         "segmented": true,
-        "title": "With Kūṭadanta"
+        "title": "With Kūṭadanta",
+        "volpage": null
       },
       {
         "author": "T.W. Rhys Davids",
         "author_short": "T.W. Rhys Davids",
         "author_uid": "tw_rhysdavids",
         "id": "en_dn5_tw_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1899",
         "segmented": false,
+        "volpage": null,
         "title": "To Kūṭadanta"
       }
     ],

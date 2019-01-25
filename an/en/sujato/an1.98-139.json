@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "",
@@ -140,7 +140,7 @@
         {
           "scid": "an1.98-139:102.1.1",
           "pli": "“Ajjhattikaṃ, bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, mahicchatā … pe … appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṃ … sampajaññaṃ … dvādasamaṃ.",
-          "en": "“Taking into account interior factors, mendicants, I do not see a single one that is so very harmful as having many wishes … having few wishes … discontent … contentment … improper attention … proper attention … lack of situational awareness … situational awareness …"
+          "en": "“Taking into account interior factors, mendicants, I do not see a single one that is so very harmful as having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness …”"
         },
         {
           "scid": "an1.98-139:102.1.2",
@@ -310,7 +310,7 @@
         {
           "scid": "an1.98-139:118.1.1",
           "pli": "“Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ saddhammassa sammosāya antaradhānāya saṃvattati yathayidaṃ, bhikkhave, mahicchatā … pe … appicchatā … asantuṭṭhitā … santuṭṭhitā … ayonisomanasikāro … yonisomanasikāro … asampajaññaṃ … sampajaññaṃ … pāpamittatā … kalyāṇamittatā … anuyogo akusalānaṃ dhammānaṃ, ananuyogo kusalānaṃ dhammānaṃ.",
-          "en": "“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like having many wishes … having few wishes … discontent … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits, not good habits."
+          "en": "“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits."
         },
         {
           "scid": "an1.98-139:118.1.2",
@@ -395,7 +395,7 @@
         {
           "scid": "an1.98-139:132.1.1",
           "pli": "“Ye te, bhikkhave, bhikkhū avinayaṃ vinayoti dīpenti … pe … vinayaṃ avinayoti dīpenti … pe … abhāsitaṃ alapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpenti … pe … bhāsitaṃ lapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpenti … pe … anāciṇṇaṃ tathāgatena āciṇṇaṃ tathāgatenāti dīpenti … pe … āciṇṇaṃ tathāgatena anāciṇṇaṃ tathāgatenāti dīpenti … pe … apaññattaṃ tathāgatena paññattaṃ tathāgatenāti dīpenti … pe … paññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti;",
-          "en": "“Those mendicants who explain non-Vinaya as Vinaya … Vinaya as non-Vinaya … what was not spoken and stated by the Realized One as spoken and stated by the Realized One … what was spoken and stated by the Realized One as not spoken and stated by the Realized One … what was not practiced by the Realized One as practiced by the Realized One … what was practiced by the Realized One as not practiced by the Realized One … what was not prescribed by the Realized One as prescribed by the Realized One … what was prescribed by the Realized One as not prescribed by the Realized One …"
+          "en": "“Those mendicants who explain what is not found in the texts on monastic training as found in those texts … what is found in the texts on monastic training as not found in those texts … what was not spoken and stated by the Realized One as spoken and stated by the Realized One … what was spoken and stated by the Realized One as not spoken and stated by the Realized One … what was not practiced by the Realized One as practiced by the Realized One … what was practiced by the Realized One as not practiced by the Realized One … what was not prescribed by the Realized One as prescribed by the Realized One … what was prescribed by the Realized One as not prescribed by the Realized One"
         },
         {
           "scid": "an1.98-139:132.1.2",
@@ -438,6 +438,7 @@
     "difficulty": null,
     "original_title": "Dutiyapamādādi Vagga",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "",
@@ -445,12 +446,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an1.98-139_sujato",
         "segmented": true,
-        "title": ""
+        "title": "",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

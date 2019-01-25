@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Depending on Absorption",
@@ -290,7 +290,7 @@
         {
           "scid": "an9.36:6.3",
           "pli": "Idha, bhikkhave, bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati.",
-          "en": "Take a mendicant who, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that “space is infinite”, enters and remains in the dimension of infinite space."
+          "en": "Take a mendicant who, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space."
         },
         {
           "scid": "an9.36:6.4",
@@ -370,7 +370,7 @@
         {
           "scid": "an9.36:8.4",
           "pli": "Idha, bhikkhave, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati.",
-          "en": "Take a mendicant who—going totally beyond the dimension of infinite consciousness—aware that “there is nothing at all”, enters and remains in the dimension of nothingness."
+          "en": "Take a mendicant who, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness."
         },
         {
           "scid": "an9.36:8.5",
@@ -410,7 +410,7 @@
         {
           "scid": "an9.36:9.2",
           "pli": "evamevaṃ kho, bhikkhave, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati.",
-          "en": "In the same way, take a mendicant who—going totally beyond the dimension of infinite consciousness—aware that “there is nothing at all”, enters and remains in the dimension of nothingness."
+          "en": "In the same way, take a mendicant who, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness."
         },
         {
           "scid": "an9.36:9.3",
@@ -493,6 +493,7 @@
     "difficulty": null,
     "original_title": "Jhāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Depending on Absorption",
@@ -500,21 +501,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.36_sujato",
         "segmented": true,
-        "title": "Depending on Absorption"
+        "title": "Depending on Absorption",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an9.36_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Mental Absorption"
       }
     ],

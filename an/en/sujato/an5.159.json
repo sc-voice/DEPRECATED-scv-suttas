@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Udāyī",
@@ -110,22 +110,22 @@
         {
           "scid": "an5.159:2.5",
           "pli": "‘pariyāyadassāvī kathaṃ kathessāmī’ti paresaṃ dhammo desetabbo;",
-          "en": "‘I will talk explaining my methods.’ …"
+          "en": "‘I will teach explaining my methods.’ …"
         },
         {
           "scid": "an5.159:2.6",
           "pli": "‘anuddayataṃ paṭicca kathaṃ kathessāmī’ti paresaṃ dhammo desetabbo;",
-          "en": "‘I will talk out of kindness.’ …"
+          "en": "‘I will teach out of kindness.’ …"
         },
         {
           "scid": "an5.159:2.7",
           "pli": "‘na āmisantaro kathaṃ kathessāmī’ti paresaṃ dhammo desetabbo;",
-          "en": "‘I will not talk while secretly hoping to profit.’ …"
+          "en": "‘I will not teach while secretly hoping to profit.’ …"
         },
         {
           "scid": "an5.159:2.8",
           "pli": "‘attānañca parañca anupahacca kathaṃ kathessāmī’ti paresaṃ dhammo desetabbo.",
-          "en": "‘I will talk without hurting myself or others.’"
+          "en": "‘I will teach without hurting myself or others.’"
         },
         {
           "scid": "an5.159:2.9",
@@ -163,6 +163,7 @@
     "difficulty": null,
     "original_title": "Udāyī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Udāyī",
@@ -170,21 +171,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.159_sujato",
         "segmented": true,
-        "title": "With Udāyī"
+        "title": "With Udāyī",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an5.159_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "About Udayin"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Turbulence (1st)",
@@ -75,12 +75,12 @@
         {
           "scid": "sn35.90:1.4",
           "pli": "cakkhuṃ na maññeyya, cakkhusmiṃ na maññeyya, cakkhuto na maññeyya, cakkhu meti na maññeyya;",
-          "en": "So let them not conceive the eye, let them not conceive regarding the eye, let them not conceive as the eye, let them not conceive ‘the eye is mine.’"
+          "en": "So let them not identify with the eye, let them not identify regarding the eye, let them not identify as the eye, let them not identify ‘the eye is mine.’"
         },
         {
           "scid": "sn35.90:1.5",
           "pli": "rūpe na maññeyya, rūpesu na maññeyya, rūpato na maññeyya, rūpā meti na maññeyya;",
-          "en": "Let them not conceive sights …"
+          "en": "Let them not identify sights …"
         },
         {
           "scid": "sn35.90:1.6",
@@ -95,12 +95,12 @@
         {
           "scid": "sn35.90:1.8",
           "pli": "Yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi na maññeyya, tasmimpi na maññeyya, tatopi na maññeyya, taṃ meti na maññeyya.",
-          "en": "Let them not conceive the pleasant, painful, or neutral feeling that arises conditioned by eye contact. Let them not conceive regarding that, let them not conceive as that, and let them not conceive ‘that is mine.’"
+          "en": "Let them not identify with the pleasant, painful, or neutral feeling that arises conditioned by eye contact. Let them not identify regarding that, let them not identify as that, and let them not identify ‘that is mine.’"
         },
         {
           "scid": "sn35.90:2.1",
           "pli": "Sotaṃ na maññeyya … pe …",
-          "en": "Let them not conceive the ear …"
+          "en": "Let them not identify the ear …"
         },
         {
           "scid": "sn35.90:2.2",
@@ -160,17 +160,17 @@
         {
           "scid": "sn35.90:3.6",
           "pli": "yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi na maññeyya, tasmimpi na maññeyya, tatopi na maññeyya, taṃ meti na maññeyya;",
-          "en": "Let them not conceive the pleasant, painful, or neutral feeling that arises conditioned by mind contact. Let them not conceive regarding that, let them not conceive as that, and let them not conceive ‘that is mine.’"
+          "en": "Let them not identify with the pleasant, painful, or neutral feeling that arises conditioned by mind contact. Let them not identify regarding that, let them not identify as that, and let them not identify ‘that is mine.’"
         },
         {
           "scid": "sn35.90:3.7",
           "pli": "sabbaṃ na maññeyya, sabbasmiṃ na maññeyya, sabbato na maññeyya, sabbaṃ meti na maññeyya.",
-          "en": "Let them not conceive all, let them not conceive regarding all, let them not conceive as all, let them not conceive ‘all is mine’."
+          "en": "Let them not identify with all, let them not identify regarding all, let them not identify as all, let them not identify ‘all is mine’."
         },
         {
           "scid": "sn35.90:4.1",
           "pli": "So evaṃ amaññamāno na kiñcipi loke upādiyati. ",
-          "en": "Not conceiving, they don’t grasp at anything in the world. "
+          "en": "Not identifying, they don’t grasp at anything in the world."
         },
         {
           "scid": "sn35.90:4.2",
@@ -208,6 +208,7 @@
     "difficulty": null,
     "original_title": "Paṭhamaejā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Turbulence (1st)",
@@ -215,21 +216,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn35.90_sujato",
         "segmented": true,
-        "title": "Turbulence (1st)"
+        "title": "Turbulence (1st)",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn35.90_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Being Stirred (1)"
       }
     ],

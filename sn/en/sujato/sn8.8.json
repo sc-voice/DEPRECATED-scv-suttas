@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Over a Thousand",
@@ -90,7 +90,7 @@
         {
           "scid": "sn8.8:1.7",
           "pli": "Yannūnāhaṃ bhagavantaṃ sammukhā sāruppāhi gāthāhi abhitthaveyyan”ti.",
-          "en": "Why don’t I extoll him in his presence with appropriate verses?”"
+          "en": "Why don’t I extoll him in his presence with fitting verses?”"
         },
         {
           "scid": "sn8.8:2.1",
@@ -110,7 +110,7 @@
         {
           "scid": "sn8.8:2.4",
           "pli": "Atha kho āyasmā vaṅgīso bhagavantaṃ sammukhā sāruppāhi gāthāhi abhitthavi:",
-          "en": "Then Vaṅgīsa extolled the Buddha in his presence with appropriate verses:"
+          "en": "Then Vaṅgīsa extolled the Buddha in his presence with fitting verses:"
         },
         {
           "scid": "sn8.8:3.1",
@@ -135,7 +135,7 @@
         {
           "scid": "sn8.8:4.1",
           "pli": "Suṇanti dhammaṃ vimalaṃ,",
-          "en": "They listen to the stainless Dhamma"
+          "en": "They listen to the immaculate Dhamma"
         },
         {
           "scid": "sn8.8:4.2",
@@ -150,7 +150,7 @@
         {
           "scid": "sn8.8:4.4",
           "pli": "bhikkhusaṅghapurakkhato.",
-          "en": "at the forefront of the mendicant Saṅgha,"
+          "en": "at the fore of the mendicant Saṅgha,"
         },
         {
           "scid": "sn8.8:5.1",
@@ -175,7 +175,7 @@
         {
           "scid": "sn8.8:6.1",
           "pli": "Divāvihārā nikkhamma,",
-          "en": "I’ve emerged from my day’s meditation,"
+          "en": "I’ve left my day’s meditation,"
         },
         {
           "scid": "sn8.8:6.2",
@@ -195,12 +195,12 @@
         {
           "scid": "sn8.8:7.1",
           "pli": "“Kiṃ nu te, vaṅgīsa, imā gāthāyo pubbe parivitakkitā, udāhu ṭhānasova taṃ paṭibhantī”ti?",
-          "en": "“Vaṅgīsa, had you previously composed these verses, or did they spontaneously occur to you in the moment?”"
+          "en": "“Vaṅgīsa, had you previously composed these verses, or did they spring to mind in the moment?”"
         },
         {
           "scid": "sn8.8:7.2",
           "pli": "“Na kho me, bhante, imā gāthāyo pubbe parivitakkitā, atha kho ṭhānasova maṃ paṭibhantī”ti.",
-          "en": "“They spontaneously occurred to me in the moment, sir.”"
+          "en": "“They sprang to mind in the moment, sir.”"
         },
         {
           "scid": "sn8.8:7.3",
@@ -260,7 +260,7 @@
         {
           "scid": "sn8.8:10.2",
           "pli": "Sabbaṭṭhitīnaṃ atikkamamaddasa;",
-          "en": "you’ve seen what lies beyond all states of rebirth."
+          "en": "you’ve seen what lies beyond all states of being."
         },
         {
           "scid": "sn8.8:10.3",
@@ -313,6 +313,7 @@
     "difficulty": null,
     "original_title": "Parosahassa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Over a Thousand",
@@ -320,12 +321,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn8.8_sujato",
         "segmented": true,
-        "title": "Over a Thousand"
+        "title": "Over a Thousand",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Successes and Failures",
+    "title": "Failures and Accomplishments",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "an3.117:0.3",
           "pli": "117. Vipattisampadāsutta",
-          "en": "117. Successes and Failures"
+          "en": "117. Failures and Accomplishments"
         }
       ],
       "type": "Section",
@@ -210,7 +210,7 @@
         {
           "scid": "an3.117:7.5",
           "pli": "Sīlasampadāhetu vā, bhikkhave, sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjanti;",
-          "en": "Some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm because of success in ethics,"
+          "en": "Some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm because of accomplishment in ethics,"
         },
         {
           "scid": "an3.117:7.6",
@@ -253,19 +253,23 @@
     "difficulty": null,
     "original_title": "Vipattisampadā Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Successes and Failures",
+    "translated_title": "Failures and Accomplishments",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.117_sujato",
         "segmented": true,
-        "title": "Successes and Failures"
+        "title": "Failures and Accomplishments",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

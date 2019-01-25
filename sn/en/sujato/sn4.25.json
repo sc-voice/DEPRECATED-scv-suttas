@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Māra’s Daughters",
@@ -38,7 +38,7 @@
         {
           "scid": "sn4.25:0.2",
           "pli": "3. Tatiyavagga",
-          "en": "3. Rule"
+          "en": "3. Māra"
         },
         {
           "scid": "sn4.25:0.3",
@@ -110,7 +110,7 @@
         {
           "scid": "sn4.25:3.3",
           "pli": "Māradheyyaṃ atikkanto,",
-          "en": "He has gone beyond Māra’s dominion;"
+          "en": "He has gone beyond Māra’s sovereignty;"
         },
         {
           "scid": "sn4.25:3.4",
@@ -320,7 +320,7 @@
         {
           "scid": "sn4.25:10.3",
           "pli": "Māradheyyaṃ atikkanto,",
-          "en": "He has gone beyond Māra’s dominion;"
+          "en": "He has gone beyond Māra’s sovereignty;"
         },
         {
           "scid": "sn4.25:10.4",
@@ -425,7 +425,7 @@
         {
           "scid": "sn4.25:16.4",
           "pli": "Paribāhirā honti aladdha yo tan”ti.",
-          "en": "are warded off and don’t get hold of them?”"
+          "en": "are kept out and don’t get hold of them?”"
         },
         {
           "scid": "sn4.25:17.1",
@@ -465,7 +465,7 @@
         {
           "scid": "sn4.25:18.4",
           "pli": "Paribāhirā honti aladdha yo tan”ti.",
-          "en": "are warded off and don’t get hold of them.”"
+          "en": "are kept out and don’t get hold of them.”"
         },
         {
           "scid": "sn4.25:19.1",
@@ -638,6 +638,7 @@
     "difficulty": null,
     "original_title": "Māradhītu Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Māra’s Daughters",
@@ -645,21 +646,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn4.25_sujato",
         "segmented": true,
-        "title": "Māra’s Daughters"
+        "title": "Māra’s Daughters",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn4.25_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Mara’s Daughters"
       }
     ],

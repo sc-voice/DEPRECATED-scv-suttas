@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Deceiver",
@@ -70,7 +70,7 @@
         {
           "scid": "an5.83:1.3",
           "pli": "Kuhako ca hoti, lapako ca, nemittiko ca, nippesiko ca, lābhena ca lābhaṃ nijigīsitā—",
-          "en": "They use deception, flattery, hinting, and belittling, and they use material possessions to pursue other material possessions."
+          "en": "They use deceit, flattery, hinting, and belittling, and they use material possessions to pursue other material possessions."
         },
         {
           "scid": "an5.83:1.4",
@@ -90,7 +90,7 @@
         {
           "scid": "an5.83:2.3",
           "pli": "Na ca kuhako hoti, na ca lapako, na ca nemittiko, na ca nippesiko, na ca lābhena lābhaṃ nijigīsitā—",
-          "en": "They don’t use deception, flattery, hinting, or belittling, and they don’t use material possessions to pursue other material possessions."
+          "en": "They don’t use deceit, flattery, hinting, or belittling, and they don’t use material possessions to pursue other material possessions."
         },
         {
           "scid": "an5.83:2.4",
@@ -123,6 +123,7 @@
     "difficulty": null,
     "original_title": "Kuhaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Deceiver",
@@ -130,12 +131,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.83_sujato",
         "segmented": true,
-        "title": "Deceiver"
+        "title": "Deceiver",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

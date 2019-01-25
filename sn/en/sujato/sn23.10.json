@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Desire and Greed (2nd)",
@@ -70,7 +70,7 @@
         {
           "scid": "sn23.10:1.3",
           "pli": "“rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, te pajahatha.",
-          "en": "“Rādha, you should give up any desire, greed, relishing, and craving for form; and any attraction, grasping, mental dedication, insistence, and underlying tendencies."
+          "en": "“Rādha, you should give up any desire, greed, relishing, and craving for form; and any attraction, grasping, mental fixation, insistence, and underlying tendencies."
         },
         {
           "scid": "sn23.10:1.4",
@@ -105,7 +105,7 @@
         {
           "scid": "sn23.10:1.10",
           "pli": "Viññāṇe yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, te pajahatha.",
-          "en": "consciousness; and any attraction, grasping, mental dedication, insistence, and underlying tendencies."
+          "en": "consciousness; and any attraction, grasping, mental fixation, insistence, and underlying tendencies."
         },
         {
           "scid": "sn23.10:1.11",
@@ -163,6 +163,7 @@
     "difficulty": null,
     "original_title": "Dutiyachandarāga Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Desire and Greed (2nd)",
@@ -170,12 +171,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn23.10_sujato",
         "segmented": true,
-        "title": "Desire and Greed (2nd)"
+        "title": "Desire and Greed (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

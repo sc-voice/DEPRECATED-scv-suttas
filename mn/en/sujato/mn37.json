@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Shorter Discourse on the Ending of Craving",
@@ -80,7 +80,7 @@
         {
           "scid": "mn37:3.2",
           "pli": "‘sabbe dhammā nālaṃ abhinivesāyā’ti.",
-          "en": "‘Nothing is worth clinging on to.’"
+          "en": "‘Nothing is worth insisting on.’"
         },
         {
           "scid": "mn37:3.3",
@@ -90,7 +90,7 @@
         {
           "scid": "mn37:3.4",
           "pli": "‘sabbe dhammā nālaṃ abhinivesāyā’ti.",
-          "en": "nothing is worth clinging on to,"
+          "en": "nothing is worth insisting on,"
         },
         {
           "scid": "mn37:3.5",
@@ -260,7 +260,7 @@
         {
           "scid": "mn37:8.12",
           "pli": "Ekamekissā accharāya satta satta paricārikāyo.",
-          "en": "Each nymph has seven maidens."
+          "en": "Each nymph has seven maids."
         },
         {
           "scid": "mn37:8.13",
@@ -280,7 +280,7 @@
         {
           "scid": "mn37:9.2",
           "pli": "Addasaṃsu kho sakkassa devānamindassa paricārikāyo āyasmantaṃ mahāmoggallānaṃ dūratova āgacchantaṃ;",
-          "en": "When they saw Moggallāna coming off in the distance, Sakka’s maidens,"
+          "en": "When they saw Moggallāna coming off in the distance, Sakka’s maids,"
         },
         {
           "scid": "mn37:9.3",
@@ -405,7 +405,7 @@
         {
           "scid": "mn37:13.3",
           "pli": "“sabbe dhammā nālaṃ abhinivesāyā”ti.",
-          "en": "“Nothing is worth clinging on to.”"
+          "en": "“Nothing is worth insisting on”"
         },
         {
           "scid": "mn37:13.4",
@@ -415,7 +415,7 @@
         {
           "scid": "mn37:13.5",
           "pli": "“sabbe dhammā nālaṃ abhinivesāyā”ti.",
-          "en": "nothing is worth clinging on to,"
+          "en": "nothing is worth insisting on,"
         },
         {
           "scid": "mn37:13.6",
@@ -460,7 +460,7 @@
         {
           "scid": "mn37:14.2",
           "pli": "Atha kho sakkassa devānamindassa paricārikāyo acirapakkante āyasmante mahāmoggallāne sakkaṃ devānamindaṃ etadavocuṃ:",
-          "en": "Soon after Moggallāna left, Sakka’s maidens said to him:"
+          "en": "Soon after Moggallāna left, Sakka’s maids said to him:"
         },
         {
           "scid": "mn37:14.3",
@@ -613,6 +613,7 @@
     "difficulty": 2,
     "original_title": "Cūḷataṇhāsaṅkhaya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Shorter Discourse on the Ending of Craving",
@@ -620,21 +621,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_mn37_sujato",
         "segmented": true,
-        "title": "The Shorter Discourse on the Ending of Craving"
+        "title": "The Shorter Discourse on the Ending of Craving",
+        "volpage": null
       },
       {
         "author": "I.B. Horner",
         "author_short": "Horner",
         "author_uid": "horner",
         "id": "en_mn37_horner",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2017",
         "segmented": false,
+        "volpage": null,
         "title": "Lesser Discourse on the Destruction of Craving"
       }
     ],

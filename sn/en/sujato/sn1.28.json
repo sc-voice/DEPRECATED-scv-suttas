@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Affluent",
@@ -100,27 +100,27 @@
         {
           "scid": "sn1.28:3.1",
           "pli": "“Hitvā agāraṃ pabbajitā,",
-          "en": "“They gave up their house,"
+          "en": "“Having given up their home, their child, their cattle,"
         },
         {
           "scid": "sn1.28:3.2",
           "pli": "hitvā puttaṃ pasuṃ piyaṃ;",
-          "en": "their beloved children and cattle, and went forth."
+          "en": "and all that they love, they went forth."
         },
         {
           "scid": "sn1.28:3.3",
           "pli": "Hitvā rāgañca dosañca,",
-          "en": "And they gave up desire and hate,"
+          "en": "Having given up desire and hate,"
         },
         {
           "scid": "sn1.28:3.4",
           "pli": "avijjañca virājiya;",
-          "en": "and discarded ignorance."
+          "en": "having dispelled ignorance,"
         },
         {
           "scid": "sn1.28:3.5",
           "pli": "Khīṇāsavā arahanto,",
-          "en": "The perfected ones with defilements ended—"
+          "en": "the perfected ones with defilements ended—"
         },
         {
           "scid": "sn1.28:3.6",
@@ -148,6 +148,7 @@
     "difficulty": null,
     "original_title": "Mahaddhana Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Affluent",
@@ -155,21 +156,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn1.28_sujato",
         "segmented": true,
-        "title": "Affluent"
+        "title": "Affluent",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn1.28_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Those of Great Wealth"
       }
     ],

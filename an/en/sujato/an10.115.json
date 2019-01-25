@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Bad Principles (3rd)",
@@ -330,7 +330,7 @@
         {
           "scid": "an10.115:13.4",
           "pli": "sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of right view are good results."
+          "en": "And the many skillful qualities fully developed because of right view are good results."
         },
         {
           "scid": "an10.115:14.1",
@@ -430,7 +430,7 @@
         {
           "scid": "an10.115:15.4",
           "pli": "sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
-          "en": "And the many skillful qualities developed to perfection because of right freedom are good results."
+          "en": "And the many skillful qualities fully developed because of right freedom are good results."
         },
         {
           "scid": "an10.115:16.1",
@@ -588,6 +588,7 @@
     "difficulty": null,
     "original_title": "Tatiyaadhamma Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Bad Principles (3rd)",
@@ -595,12 +596,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.115_sujato",
         "segmented": true,
-        "title": "Bad Principles (3rd)"
+        "title": "Bad Principles (3rd)",
+        "volpage": null
       }
     ],
     "parallel_count": 1,

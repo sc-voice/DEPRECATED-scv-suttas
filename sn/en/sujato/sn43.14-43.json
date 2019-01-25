@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Undefiled, Etc.",
@@ -195,7 +195,7 @@
         {
           "scid": "sn43.14-43:14.1",
           "pli": "Sivañca vo, bhikkhave, desessāmi sivagāmiñca maggaṃ.",
-          "en": "the blissful …"
+          "en": "the state of grace …"
         },
         {
           "scid": "sn43.14-43:14.2",
@@ -325,7 +325,7 @@
         {
           "scid": "sn43.14-43:26.1",
           "pli": "Anālayañca vo, bhikkhave, desessāmi anālayagāmiñca maggaṃ.",
-          "en": "not clinging …"
+          "en": "not adhering …"
         },
         {
           "scid": "sn43.14-43:26.2",
@@ -392,12 +392,13 @@
   "author_uid": "sujato",
   "suttaplex": {
     "acronym": null,
-    "volpages": null,
+    "volpages": "pts-vp-pli4.369",
     "uid": "sn43.14-43",
     "blurb": null,
     "difficulty": null,
     "original_title": "Anāsavādi Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Undefiled, Etc.",
@@ -405,21 +406,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn43.14-43_sujato",
         "segmented": true,
-        "title": "Undefiled, Etc."
+        "title": "Undefiled, Etc.",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn43.14-43_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "The Taintless, Etc."
       }
     ],

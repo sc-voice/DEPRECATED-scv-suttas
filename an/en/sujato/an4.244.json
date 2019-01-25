@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Perils of Offenses",
@@ -215,7 +215,7 @@
         {
           "scid": "an4.244:3.10",
           "pli": "Evamevaṃ kho, bhikkhave, yassa kassaci bhikkhussa vā bhikkhuniyā vā evaṃ tibbā bhayasaññā paccupaṭṭhitā hoti pācittiyesu dhammesu, tassetaṃ pāṭikaṅkhaṃ—anāpanno vā pācittiyaṃ dhammaṃ na āpajjissati, āpanno vā pācittiyaṃ dhammaṃ yathādhammaṃ paṭikarissati.",
-          "en": "In the same way, take any monk or nun who has set up such an acute perception of peril regarding redemption offenses. It can be expected that if they haven’t committed a redemption offense they won’t, and if they committed one they will deal with it properly."
+          "en": "In the same way, take any monk or nun who has set up such an acute perception of peril regarding confessable offenses. It can be expected that if they haven’t committed a confessable offense they won’t, and if they committed one they will deal with it properly."
         },
         {
           "scid": "an4.244:4.1",
@@ -265,7 +265,7 @@
         {
           "scid": "an4.244:4.10",
           "pli": "Evamevaṃ kho, bhikkhave, yassa kassaci bhikkhussa vā bhikkhuniyā vā evaṃ tibbā bhayasaññā paccupaṭṭhitā hoti pāṭidesanīyesu dhammesu, tassetaṃ pāṭikaṅkhaṃ—anāpanno vā pāṭidesanīyaṃ dhammaṃ na āpajjissati, āpanno vā pāṭidesanīyaṃ dhammaṃ yathādhammaṃ paṭikarissati.",
-          "en": "In the same way, take any monk or nun who has set up such an acute perception of peril regarding confession offenses. It can be expected that if they haven’t committed a confession offense they won’t, and if they committed one they will deal with it properly."
+          "en": "In the same way, take any monk or nun who has set up such an acute perception of peril regarding acknowledgable offenses. It can be expected that if they haven’t committed an acknowledgeable offense they won’t, and if they committed one they will deal with it properly."
         },
         {
           "scid": "an4.244:4.11",
@@ -298,6 +298,7 @@
     "difficulty": null,
     "original_title": "Āpattibhaya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Perils of Offenses",
@@ -305,12 +306,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.244_sujato",
         "segmented": true,
-        "title": "Perils of Offenses"
+        "title": "Perils of Offenses",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

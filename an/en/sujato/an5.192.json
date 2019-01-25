@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With the Brahmin Doṇa",
@@ -120,7 +120,7 @@
         {
           "scid": "an5.192:2.11",
           "pli": "mātito ca pitito ca, saṃsuddhagahaṇiko, yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena, ajjhāyako mantadharo, tiṇṇaṃ vedānaṃ pāragū sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ, padako veyyākaraṇo lokāyatamahāpurisalakkhaṇesu anavayo”ti.",
-          "en": "For I am well born on both my mother’s and father’s side, of pure descent, irrefutable and impeccable in questions of ancestry back to the seventh paternal generation. I recite and remember the hymns, and am an expert in the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. I know philology and grammar, and am well versed in cosmology and the marks of a great man.”"
+          "en": "For I am well born on both my mother’s and father’s side, of pure descent, irrefutable and impeccable in questions of ancestry back to the seventh paternal generation. I recite and remember the hymns, and have mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. I know philology and grammar, and am well versed in cosmology and the marks of a great man.”"
         },
         {
           "scid": "an5.192:3.1",
@@ -663,6 +663,7 @@
     "difficulty": null,
     "original_title": "Doṇabrāhmaṇa Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With the Brahmin Doṇa",
@@ -670,12 +671,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an5.192_sujato",
         "segmented": true,
-        "title": "With the Brahmin Doṇa"
+        "title": "With the Brahmin Doṇa",
+        "volpage": null
       }
     ],
     "parallel_count": 6,

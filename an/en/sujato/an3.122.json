@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Sagacity",
@@ -85,7 +85,7 @@
         {
           "scid": "an3.122:1.6",
           "pli": "Idaṃ vuccati, bhikkhave, kāyamoneyyaṃ.",
-          "en": "This is called sagacity of body."
+          "en": "This is called ‘sagacity of body’."
         },
         {
           "scid": "an3.122:2.1",
@@ -100,7 +100,7 @@
         {
           "scid": "an3.122:2.3",
           "pli": "Idaṃ vuccati, bhikkhave, vacīmoneyyaṃ.",
-          "en": "This is called sagacity of speech."
+          "en": "This is called ‘sagacity of speech’."
         },
         {
           "scid": "an3.122:3.1",
@@ -115,17 +115,17 @@
         {
           "scid": "an3.122:3.3",
           "pli": "Idaṃ vuccati, bhikkhave, manomoneyyaṃ.",
-          "en": "This is called sagacity of mind."
+          "en": "This is called ‘sagacity of mind’."
         },
         {
           "scid": "an3.122:3.4",
           "pli": "Imāni kho, bhikkhave, tīṇi moneyyānīti.",
-          "en": "These are the three kinds of sagacity.”"
+          "en": "These are the three kinds of sagacity."
         },
         {
           "scid": "an3.122:4.1",
           "pli": "Kāyamuniṃ vacīmuniṃ,",
-          "en": "“A sage in body, a sage in speech,"
+          "en": "A sage in body, a sage in speech,"
         },
         {
           "scid": "an3.122:4.2",
@@ -193,6 +193,7 @@
     "difficulty": null,
     "original_title": "Moneyya Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Sagacity",
@@ -200,21 +201,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.122_sujato",
         "segmented": true,
-        "title": "Sagacity"
+        "title": "Sagacity",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an3.122_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Sagacity"
       }
     ],

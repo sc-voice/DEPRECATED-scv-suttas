@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Childless (2nd)",
@@ -80,7 +80,7 @@
         {
           "scid": "sn3.20:2.3",
           "pli": "Sataṃ, bhante, satasahassāni hiraññasseva, ko pana vādo rūpiyassa.",
-          "en": "There was ten million in gold, not to speak of the silver."
+          "en": "There was ten million in gold, not to mention the silver."
         },
         {
           "scid": "sn3.20:2.4",
@@ -333,6 +333,7 @@
     "difficulty": null,
     "original_title": "Dutiyaaputtaka Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Childless (2nd)",
@@ -340,12 +341,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn3.20_sujato",
         "segmented": true,
-        "title": "Childless (2nd)"
+        "title": "Childless (2nd)",
+        "volpage": null
       }
     ],
     "parallel_count": 16,

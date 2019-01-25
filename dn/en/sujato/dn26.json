@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "The Wheel-Turning Monarch",
@@ -710,7 +710,7 @@
         {
           "scid": "dn26:10.15",
           "pli": "‘iminā tvaṃ, ambho purisa, dhanena attanā ca jīvāhi, mātāpitaro ca posehi, puttadārañca posehi, kammante ca payojehi, samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhāpehi sovaggikaṃ sukhavipākaṃ saggasaṃvattanikan’ti.",
-          "en": "‘With this money, mister, keep yourself alive, and provide for your mother and father, partners and children. Work for a living, and establish an uplifting teacher’s offering for ascetics and brahmins that’s conducive to heaven, ripens in happiness, and leads to heaven.’"
+          "en": "‘With this money, mister, keep yourself alive, and provide for your mother and father, partners and children. Work for a living, and establish an uplifting religious donation for ascetics and brahmins that’s conducive to heaven, ripens in happiness, and leads to heaven.’"
         },
         {
           "scid": "dn26:10.16",
@@ -770,7 +770,7 @@
         {
           "scid": "dn26:11.11",
           "pli": "‘iminā tvaṃ, ambho purisa, dhanena attanā ca jīvāhi, mātāpitaro ca posehi, puttadārañca posehi, kammante ca payojehi, samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhāpehi sovaggikaṃ sukhavipākaṃ saggasaṃvattanikan’ti.",
-          "en": "‘With this money, mister, keep yourself alive, and provide for your mother and father, partners and children. Work for a living, and establish an uplifting teacher’s offering for ascetics and brahmins that’s conducive to heaven, ripens in happiness, and leads to heaven.’"
+          "en": "‘With this money, mister, keep yourself alive, and provide for your mother and father, partners and children. Work for a living, and establish an uplifting religious donation for ascetics and brahmins that’s conducive to heaven, ripens in happiness, and leads to heaven.’"
         },
         {
           "scid": "dn26:11.12",
@@ -1710,7 +1710,7 @@
         {
           "scid": "dn26:28.11",
           "pli": "Idha, bhikkhave, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.",
-          "en": "It’s when a mendicant is ethical, restrained in the monastic code, and has appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, they keep the rules they’ve undertaken."
+          "en": "It’s when a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken."
         },
         {
           "scid": "dn26:28.12",
@@ -1838,6 +1838,7 @@
     "difficulty": 2,
     "original_title": "Cakkavatti Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "The Wheel-Turning Monarch",
@@ -1845,21 +1846,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn26_sujato",
         "segmented": true,
-        "title": "The Wheel-Turning Monarch"
+        "title": "The Wheel-Turning Monarch",
+        "volpage": null
       },
       {
         "author": "T.W. & C.A.F. Rhys Davids",
         "author_short": "Rhys Davids",
         "author_uid": "tw-caf_rhysdavids",
         "id": "en_dn26_tw-caf_rhysdavids",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1921",
         "segmented": false,
+        "volpage": null,
         "title": "The Lion-roar on the Turning of the Wheel"
       }
     ],

@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Persons",
@@ -60,7 +60,7 @@
         {
           "scid": "an7.14:1.1",
           "pli": "“Sattime, bhikkhave, puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassa.",
-          "en": "“Mendicants, these seven people are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of greeting with joined palms, and are the supreme field of merit for the world."
+          "en": "“Mendicants, these seven people are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and are the supreme field of merit for the world."
         },
         {
           "scid": "an7.14:1.2",
@@ -70,12 +70,12 @@
         {
           "scid": "an7.14:1.3",
           "pli": "Ubhatobhāgavimutto, paññāvimutto, kāyasakkhī, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī.",
-          "en": "The one freed both ways, the one freed by wisdom, the direct witness, the one attained to view, the one freed by faith, the follower of the teachings, and the follower by faith."
+          "en": "The one freed both ways, the one freed by wisdom, the personal witness, the one attained to view, the one freed by faith, the follower of the teachings, and the follower by faith."
         },
         {
           "scid": "an7.14:1.4",
           "pli": "Ime kho, bhikkhave, satta puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassā”ti.",
-          "en": "These are the seven people who are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’s offering, worthy of greeting with joined palms, and are the supreme field of merit for the world.”"
+          "en": "These are the seven people who are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and are the supreme field of merit for the world.”"
         },
         {
           "scid": "an7.14:1.5",
@@ -103,6 +103,7 @@
     "difficulty": null,
     "original_title": "Puggala Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Persons",
@@ -110,12 +111,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.14_sujato",
         "segmented": true,
-        "title": "Persons"
+        "title": "Persons",
+        "volpage": null
       }
     ],
     "parallel_count": 0,

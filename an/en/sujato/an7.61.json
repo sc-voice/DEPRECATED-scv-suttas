@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Nodding Off",
@@ -180,7 +180,7 @@
         {
           "scid": "an7.61:8.1",
           "pli": "No ce te evaṃ viharato taṃ middhaṃ pahīyetha, tato tvaṃ, moggallāna, pacchāpuresaññī caṅkamaṃ adhiṭṭhaheyyāsi antogatehi indriyehi abahigatena mānasena.",
-          "en": "But what if that doesn’t work? Then walk meditation concentrating on perception of continuity, your faculties directed inwards and your mind not scattered outside."
+          "en": "But what if that doesn’t work? Then walk meditation concentrating on the perception of continuity, your faculties directed inwards and your mind not scattered outside."
         },
         {
           "scid": "an7.61:8.2",
@@ -280,7 +280,7 @@
         {
           "scid": "an7.61:11.8",
           "pli": "Yāni ca kho tāni senāsanāni appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni tathārūpehi senāsanehi saṃsaggaṃ vaṇṇayāmī”ti.",
-          "en": "I do praise closeness with those lodgings that are quiet and still, far from the madding crowd, remote from human settlements, and appropriate for retreat.”"
+          "en": "I do praise closeness with those lodgings that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat.”"
         },
         {
           "scid": "an7.61:12.1",
@@ -368,6 +368,7 @@
     "difficulty": null,
     "original_title": "Pacalāyamāna Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Nodding Off",
@@ -375,21 +376,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an7.61_sujato",
         "segmented": true,
-        "title": "Nodding Off"
+        "title": "Nodding Off",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an7.61_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Nodding"
       }
     ],

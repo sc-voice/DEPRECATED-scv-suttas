@@ -10,10 +10,10 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "A Direct Witness",
+    "title": "A Personal Witness",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
@@ -43,7 +43,7 @@
         {
           "scid": "an9.43:0.3",
           "pli": "43. Kāyasakkhīsutta",
-          "en": "43. A Direct Witness"
+          "en": "43. A Personal Witness"
         }
       ],
       "type": "Section",
@@ -60,12 +60,12 @@
         {
           "scid": "an9.43:1.1",
           "pli": "“‘Kāyasakkhī, kāyasakkhī’ti, āvuso, vuccati.",
-          "en": "“Reverend, they speak of a person called ‘direct witness’."
+          "en": "“Reverend, they speak of a person called ‘personal witness’."
         },
         {
           "scid": "an9.43:1.2",
           "pli": "Kittāvatā nu kho, āvuso, kāyasakkhī vutto bhagavatā”ti?",
-          "en": "What is the direct witness that the Buddha spoke of?”"
+          "en": "What is the personal witness that the Buddha spoke of?”"
         },
         {
           "scid": "an9.43:2.1",
@@ -80,7 +80,7 @@
         {
           "scid": "an9.43:2.3",
           "pli": "Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena. (1)",
-          "en": "To this extent the Buddha spoke of the direct witness in a qualified sense."
+          "en": "To this extent the Buddha spoke of the personal witness in a qualified sense."
         },
         {
           "scid": "an9.43:3.1",
@@ -105,7 +105,7 @@
         {
           "scid": "an9.43:3.5",
           "pli": "Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena. (2–4.)",
-          "en": "To this extent the Buddha spoke of the direct witness in a qualified sense."
+          "en": "To this extent the Buddha spoke of the personal witness in a qualified sense."
         },
         {
           "scid": "an9.43:4.1",
@@ -120,7 +120,7 @@
         {
           "scid": "an9.43:4.3",
           "pli": "Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena … pe …. (5–8.)",
-          "en": "To this extent the Buddha spoke of the direct witness in a qualified sense. Furthermore, take a mendicant who enters and remains in the dimension of infinite consciousness … nothingness … neither perception nor non-perception …"
+          "en": "To this extent the Buddha spoke of the personal witness in a qualified sense. Furthermore, take a mendicant who enters and remains in the dimension of infinite consciousness … the dimension of nothingness … the dimension of neither perception nor non-perception …"
         },
         {
           "scid": "an9.43:5.1",
@@ -135,7 +135,7 @@
         {
           "scid": "an9.43:5.3",
           "pli": "Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā nippariyāyenā”ti. (9)",
-          "en": "To this extent the Buddha spoke of the direct witness in a definitive sense.”"
+          "en": "To this extent the Buddha spoke of the personal witness in a definitive sense.”"
         },
         {
           "scid": "an9.43:5.4",
@@ -149,7 +149,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "“Reverend, they speak of a person called ‘direct witness’.",
+      "title": "“Reverend, they speak of a person called ‘personal witness’.",
       "expandable": false
     }
   ],
@@ -163,28 +163,35 @@
     "difficulty": null,
     "original_title": "Kāyasakkhī Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "A Direct Witness",
+    "translated_title": "A Personal Witness",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an9.43_sujato",
         "segmented": true,
-        "title": "A Direct Witness"
+        "title": "A Personal Witness",
+        "volpage": null
       },
       {
         "author": "Thanissaro Bhikkhu",
         "author_short": "Thanissaro",
         "author_uid": "thanissaro",
         "id": "en_an9.43_thanissaro",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "1998",
         "segmented": false,
+        "volpage": null,
         "title": "Bodily Witness"
       }
     ],

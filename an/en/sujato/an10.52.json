@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Sāriputta",
@@ -115,7 +115,7 @@
         {
           "scid": "an10.52:4.2",
           "pli": "‘abhijjhālu nu kho bahulaṃ viharāmi, anabhijjhālu nu kho bahulaṃ viharāmi, byāpannacitto nu kho bahulaṃ viharāmi, abyāpannacitto nu kho bahulaṃ viharāmi, thinamiddhapariyuṭṭhito nu kho bahulaṃ viharāmi, vigatathinamiddho nu kho bahulaṃ viharāmi, uddhato nu kho bahulaṃ viharāmi, anuddhato nu kho bahulaṃ viharāmi, vicikiccho nu kho bahulaṃ viharāmi, tiṇṇavicikiccho nu kho bahulaṃ viharāmi, kodhano nu kho bahulaṃ viharāmi, akkodhano nu kho bahulaṃ viharāmi, saṅkiliṭṭhacitto nu kho bahulaṃ viharāmi, asaṅkiliṭṭhacitto nu kho bahulaṃ viharāmi, sāraddhakāyo nu kho bahulaṃ viharāmi, asāraddhakāyo nu kho bahulaṃ viharāmi, kusīto nu kho bahulaṃ viharāmi, āraddhavīriyo nu kho bahulaṃ viharāmi, samāhito nu kho bahulaṃ viharāmi, asamāhito nu kho bahulaṃ viharāmī’ti.",
-          "en": "‘Am I often covetous or not? Am I often malicious or not? Am I often overcome with dullness and drowsiness or not? Am I often restless or not? Am I often doubtful or not? Am I often angry or not? Am I often defiled in mind or not? Am I often disturbed in body or not? Am I often energetic or not? Am I often immersed in samādhi or not?’"
+          "en": "‘Am I often covetous or not? Am I often malicious or not? Am I often overcome with dullness and drowsiness or not? Am I often restless or not? Am I often doubtful or not? Am I often irritable or not? Am I often defiled in mind or not? Am I often disturbed in body or not? Am I often energetic or not? Am I often immersed in samādhi or not?’"
         },
         {
           "scid": "an10.52:5.1",
@@ -173,6 +173,7 @@
     "difficulty": null,
     "original_title": "Sāriputta Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Sāriputta",
@@ -180,21 +181,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an10.52_sujato",
         "segmented": true,
-        "title": "With Sāriputta"
+        "title": "With Sāriputta",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an10.52_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Sāriputta"
       }
     ],

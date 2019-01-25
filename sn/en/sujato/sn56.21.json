@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "At the Village of Koṭi (1st)",
@@ -70,7 +70,7 @@
         {
           "scid": "sn56.21:1.3",
           "pli": "“catunnaṃ, bhikkhave, ariyasaccānaṃ ananubodhā appaṭivedhā evamidaṃ dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañceva tumhākañca.",
-          "en": "“Mendicants, not understanding and not comprehending four noble truths, both you and I have wandered and transmigrated for such a very long time."
+          "en": "“Mendicants, not understanding and not penetrating four noble truths, both you and I have wandered and transmigrated for such a very long time."
         },
         {
           "scid": "sn56.21:2.1",
@@ -178,6 +178,7 @@
     "difficulty": null,
     "original_title": "Paṭhamakoṭigāma Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "At the Village of Koṭi (1st)",
@@ -185,21 +186,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn56.21_sujato",
         "segmented": true,
-        "title": "At the Village of Koṭi (1st)"
+        "title": "At the Village of Koṭi (1st)",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn56.21_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Koṭigama (1)"
       }
     ],

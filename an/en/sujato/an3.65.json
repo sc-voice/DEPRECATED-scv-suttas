@@ -10,14 +10,14 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Kālāma",
+    "title": "With the Kālāmas of Kesamutta",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "With Sāḷha and Friends",
+      "name": "With Sāḷha and His Friend",
       "uid": "an3.66"
     },
     "previous": {
@@ -43,7 +43,7 @@
         {
           "scid": "an3.65:0.3",
           "pli": "65. Kesamuttisutta",
-          "en": "65. Kālāma"
+          "en": "65. With the Kālāmas of Kesamutta"
         }
       ],
       "type": "Section",
@@ -280,7 +280,7 @@
         {
           "scid": "an3.65:25.1",
           "pli": "“Iti kho, kālāmā, yaṃ taṃ avocumhā:",
-          "en": "“So, Kālāmas, when we said:"
+          "en": "“So, Kālāmas, when I said:"
         },
         {
           "scid": "an3.65:25.2",
@@ -355,17 +355,17 @@
         {
           "scid": "an3.65:31.2",
           "pli": "adoso purisassa ajjhattaṃ uppajjamāno uppajjati … pe …",
-          "en": "Does love come up in a person for their welfare or harm?"
+          "en": "Does love come up in a person for their welfare or harm? …"
         },
         {
           "scid": "an3.65:31.3",
           "pli": "amoho purisassa ajjhattaṃ uppajjamāno uppajjati … pe …",
-          "en": "… Does understanding come up in a person for their welfare or harm?"
+          "en": "Does understanding come up in a person for their welfare or harm? …"
         },
         {
           "scid": "an3.65:31.4",
           "pli": "hitāya sukhāyā”ti.",
-          "en": "… Is that for their lasting welfare and happiness?”"
+          "en": "Is that for their lasting welfare and happiness?”"
         },
         {
           "scid": "an3.65:32.1",
@@ -425,7 +425,7 @@
         {
           "scid": "an3.65:41.1",
           "pli": "“Iti kho, kālāmā, yaṃ taṃ avocumhā:",
-          "en": "“So, Kālāmas, when we said:"
+          "en": "“So, Kālāmas, when I said:"
         },
         {
           "scid": "an3.65:41.2",
@@ -565,7 +565,7 @@
         {
           "scid": "an3.65:53.1",
           "pli": "Abhikkantaṃ, bhante … pe …",
-          "en": "Excellent, sir! Excellent!"
+          "en": "Excellent, sir! Excellent! …"
         },
         {
           "scid": "an3.65:53.2",
@@ -603,28 +603,35 @@
     "difficulty": null,
     "original_title": "Kesamutti Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Kālāma",
+    "translated_title": "With the Kālāmas of Kesamutta",
     "translations": [
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an3.65_sujato",
         "segmented": true,
-        "title": "Kālāma"
+        "title": "With the Kālāmas of Kesamutta",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an3.65_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Kesaputtiya"
       }
     ],

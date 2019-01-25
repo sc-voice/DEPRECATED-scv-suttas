@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Ethics",
@@ -60,7 +60,7 @@
         {
           "scid": "an4.12:1.1",
           "pli": "“Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā, aṇumattesu vajjesu bhayadassāvino samādāya sikkhatha sikkhāpadesu.",
-          "en": "“Mendicants, live by the ethical precepts and the monastic code. Live restrained in the code of conduct, accomplished in appropriate behavior and means of collecting alms. Seeing danger in the slightest flaw, keep the rules you’ve undertaken."
+          "en": "“Mendicants, live by the ethical precepts and the monastic code. Live restrained in the code of conduct, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken."
         },
         {
           "scid": "an4.12:1.2",
@@ -173,6 +173,7 @@
     "difficulty": null,
     "original_title": "Sīla Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Ethics",
@@ -180,21 +181,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.12_sujato",
         "segmented": true,
-        "title": "Ethics"
+        "title": "Ethics",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an4.12_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Virtuous Behavior"
       }
     ],

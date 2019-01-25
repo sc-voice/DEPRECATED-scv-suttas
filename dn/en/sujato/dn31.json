@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Advice to Sigālaka",
@@ -275,7 +275,7 @@
         {
           "scid": "dn31:5.10",
           "pli": "kāḷapakkheva candimā.",
-          "en": "like the moon in the dark fortnight."
+          "en": "like the moon in the waning fortnight."
         },
         {
           "scid": "dn31:5.11",
@@ -295,7 +295,7 @@
         {
           "scid": "dn31:5.14",
           "pli": "sukkapakkheva candimā”ti.",
-          "en": "like the moon in the bright fortnight.”"
+          "en": "like the moon in the waxing fortnight.”"
         },
         {
           "scid": "dn31:5.15",
@@ -500,7 +500,7 @@
         {
           "scid": "dn31:13.16",
           "pli": "pāpaācāragocaro;",
-          "en": "bad conduct, hanging out in bad places,"
+          "en": "bad behavior and alms-resort,"
         },
         {
           "scid": "dn31:13.17",
@@ -1055,7 +1055,7 @@
         {
           "scid": "dn31:30.2",
           "pli": "sammānanāya anavamānanāya anaticariyāya issariyavossaggena alaṅkārānuppadānena.",
-          "en": "by treating her with honor, by not looking down on her, by not being unfaithful, by relinquishing sovereignty to her, and by presenting her with adornments."
+          "en": "by treating her with honor, by not looking down on her, by not being unfaithful, by relinquishing authority to her, and by presenting her with adornments."
         },
         {
           "scid": "dn31:30.3",
@@ -1065,7 +1065,7 @@
         {
           "scid": "dn31:30.4",
           "pli": "susaṃvihitakammantā ca hoti, saṅgahitaparijanā ca, anaticārinī ca, sambhatañca anurakkhati, dakkhā ca hoti analasā sabbakiccesu.",
-          "en": "She’s well-organized in her work. She manages the domestic help. She’s not unfaithful. She protects his earnings. She’s expert and tireless in all her duties."
+          "en": "She’s well-organized in her work. She manages the domestic help. She’s not unfaithful. She preserves his earnings. She’s deft and tireless in all her duties."
         },
         {
           "scid": "dn31:30.5",
@@ -1085,7 +1085,7 @@
         {
           "scid": "dn31:31.2",
           "pli": "dānena peyyavajjena atthacariyāya samānattatāya avisaṃvādanatāya.",
-          "en": "giving, kind speech, taking care, equality, and not using tricky words."
+          "en": "giving, kindly words, taking care, equality, and not using tricky words."
         },
         {
           "scid": "dn31:31.3",
@@ -1398,6 +1398,7 @@
     "difficulty": 1,
     "original_title": "Siṅgāla Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Advice to Sigālaka",
@@ -1405,25 +1406,31 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_dn31_sujato",
         "segmented": true,
-        "title": "Advice to Sigālaka"
+        "title": "Advice to Sigālaka",
+        "volpage": null
       },
       {
         "author": "Kelly, Sawyer, Yareham",
         "author_short": "Kelly …",
         "author_uid": "kelly-sawyer-yareham",
         "id": "en_dn31_kelly-sawyer-yareham",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": null,
         "segmented": false,
+        "volpage": null,
         "title": "The Buddha’s Advice to Sigālaka"
       }
     ],
-    "parallel_count": 13,
+    "parallel_count": 17,
     "biblio": null,
     "num": 8
   }

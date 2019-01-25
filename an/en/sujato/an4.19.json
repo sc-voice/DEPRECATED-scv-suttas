@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Prejudice (3rd)",
@@ -115,7 +115,7 @@
         {
           "scid": "an4.19:3.4",
           "pli": "kāḷapakkheva candimā.",
-          "en": "like the moon in the dark fortnight."
+          "en": "like the moon in the waning fortnight."
         },
         {
           "scid": "an4.19:4.1",
@@ -135,7 +135,7 @@
         {
           "scid": "an4.19:4.4",
           "pli": "sukkapakkheva candimā”ti.",
-          "en": "like the moon in the bright fortnight.”"
+          "en": "like the moon in the waxing fortnight.”"
         },
         {
           "scid": "an4.19:4.5",
@@ -163,6 +163,7 @@
     "difficulty": null,
     "original_title": "Tatiyaagati Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Prejudice (3rd)",
@@ -170,25 +171,31 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_an4.19_sujato",
         "segmented": true,
-        "title": "Prejudice (3rd)"
+        "title": "Prejudice (3rd)",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_an4.19_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2012",
         "segmented": false,
+        "volpage": null,
         "title": "Wrong Courses (3)"
       }
     ],
-    "parallel_count": 2,
+    "parallel_count": 4,
     "biblio": null,
     "num": 9
   }

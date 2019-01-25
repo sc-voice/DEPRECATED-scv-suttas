@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "With Ghaṭikāra",
@@ -235,7 +235,7 @@
         {
           "scid": "sn1.50:9.2",
           "pli": "brahmacārī nirāmiso;",
-          "en": "I was celibate, non-carnal."
+          "en": "I was celibate, spiritual."
         },
         {
           "scid": "sn1.50:9.3",
@@ -305,7 +305,7 @@
         {
           "scid": "sn1.50:12.2",
           "pli": "brahmacārī nirāmiso;",
-          "en": "you were celibate, non-carnal."
+          "en": "you were celibate, spiritual."
         },
         {
           "scid": "sn1.50:12.3",
@@ -383,6 +383,7 @@
     "difficulty": null,
     "original_title": "Ghaṭīkāra Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "With Ghaṭikāra",
@@ -390,21 +391,27 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn1.50_sujato",
         "segmented": true,
-        "title": "With Ghaṭikāra"
+        "title": "With Ghaṭikāra",
+        "volpage": null
       },
       {
         "author": "Bhikkhu Bodhi",
         "author_short": "Bodhi",
         "author_uid": "bodhi",
         "id": "en_sn1.50_bodhi",
+        "is_root": false,
         "lang": "en",
         "lang_name": "English",
+        "publication_date": "2000",
         "segmented": false,
+        "volpage": null,
         "title": "Ghaṭikara"
       }
     ],

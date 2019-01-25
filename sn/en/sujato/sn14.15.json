@@ -10,7 +10,7 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by Sujato Bhikkhu"
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
     "title": "Walking Meditation",
@@ -23,7 +23,7 @@
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Believers in Low Things",
+      "name": "Bad Attitudes",
       "uid": "sn14.14"
     }
   },
@@ -235,12 +235,12 @@
         {
           "scid": "sn14.15:3.2",
           "pli": "Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti;",
-          "en": "Those who believe in low things come together and converge with those who believe in low things."
+          "en": "Those who have a bad attitude come together and converge with those who have a bad attitude."
         },
         {
           "scid": "sn14.15:3.3",
           "pli": "kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samenti.",
-          "en": "Those who believe in good things come together and converge with those who believe in good things."
+          "en": "Those who have a good attitude come together and converge with those who have a good attitude."
         },
         {
           "scid": "sn14.15:3.4",
@@ -280,12 +280,12 @@
         {
           "scid": "sn14.15:5.2",
           "pli": "Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti;",
-          "en": "Those who believe in low things come together and converge with those who believe in low things."
+          "en": "Those who have a bad attitude come together and converge with those who have a bad attitude."
         },
         {
           "scid": "sn14.15:5.3",
           "pli": "kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samentī”ti.",
-          "en": "Those who believe in good things come together and converge with those who believe in good things.”"
+          "en": "Those who have a good attitude come together and converge with those who have a good attitude.”"
         },
         {
           "scid": "sn14.15:5.4",
@@ -313,6 +313,7 @@
     "difficulty": null,
     "original_title": "Caṅkama Sutta",
     "root_lang": "pli",
+    "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
     "translated_title": "Walking Meditation",
@@ -320,12 +321,15 @@
       {
         "lang": "en",
         "lang_name": "English",
+        "is_root": false,
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
+        "publication_date": "2018",
         "id": "en_sn14.15_sujato",
         "segmented": true,
-        "title": "Walking Meditation"
+        "title": "Walking Meditation",
+        "volpage": null
       }
     ],
     "parallel_count": 3,
