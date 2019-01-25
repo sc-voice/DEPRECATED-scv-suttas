@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "thig1.18",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.18",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Saṃghā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Abhirūpanandā",
+      "uid": "thig2.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dhammā",
+      "uid": "thig1.17"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.18:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.18:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.18:3.1",
+          "pli": "18. Saṃghātherīgāthā",
+          "en": "1.18. Saṃghā"
+        },
+        {
+          "scid": "thig1.18:4.1",
+          "pli": "“Hitvā ghare <span class=\"var\" title=\"pabbajitā (bj)\" id=\"note12\">pabbajitvā</span>,",
+          "en": "Having given up my home, my child, my cattle,"
+        },
+        {
+          "scid": "thig1.18:4.2",
+          "pli": "hitvā puttaṃ pasuṃ piyaṃ;",
+          "en": "and all that I love, I went forth."
+        },
+        {
+          "scid": "thig1.18:4.3",
+          "pli": "Hitvā rāgañca dosañca,",
+          "en": "Having given up desire and hate,"
+        },
+        {
+          "scid": "thig1.18:4.4",
+          "pli": "avijjañca virājiya;",
+          "en": "having dispelled ignorance,"
+        },
+        {
+          "scid": "thig1.18:4.5",
+          "pli": "Samūlaṃ taṇhamabbuyha,",
+          "en": "and having plucked out craving, root and all,"
+        },
+        {
+          "scid": "thig1.18:4.6",
+          "pli": "upasantāmhi nibbutā”ti.",
+          "en": "I’m quenched and at peace."
+        },
+        {
+          "scid": "thig1.18:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.18:5.2",
+          "pli": "Saṃghā therī ….",
+          "en": ""
+        },
+        {
+          "scid": "thig1.18:6.1",
+          "pli": "Ekakanipāto niṭṭhito.",
+          "en": "The Book of the Ones is finished."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.18/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.18",
+    "volpages": "pts125",
+    "uid": "thig1.18",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Saṃghātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Saṃghā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.18_sujato",
+        "segmented": true,
+        "title": "Saṃghā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.18_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Saṃghā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 18
+  }
+}

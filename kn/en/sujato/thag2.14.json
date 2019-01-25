@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "thag2.14",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.14",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Somamitta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sabbamitta",
+      "uid": "thag2.15"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Heraññakāni",
+      "uid": "thag2.13"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.14:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.14:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.14:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag2.14:4.1",
+          "pli": "<span class=\"var\" title=\"somacittattheragāthā (bj)\" id=\"note92\">2.14 Somamittattheragāthā</span>",
+          "en": "2.14. Somamitta"
+        },
+        {
+          "scid": "thag2.14:5.1",
+          "pli": "<span class=\"cross\" title=\"^thag3.16#3 [Vimalattheragāthā]\" id=\"note93\">*</span>“Parittaṃ dārumāruyha,",
+          "en": "If you’re lost in the middle of a great sea,"
+        },
+        {
+          "scid": "thag2.14:5.2",
+          "pli": "yathā sīde mahaṇṇave;",
+          "en": "and you clamber up on a little log, you’ll sink."
+        },
+        {
+          "scid": "thag2.14:5.3",
+          "pli": "Evaṃ kusītamāgamma,",
+          "en": "So too, a person who lives well"
+        },
+        {
+          "scid": "thag2.14:5.4",
+          "pli": "sādhujīvīpi sīdati;",
+          "en": "sinks by relying on a lazy person."
+        },
+        {
+          "scid": "thag2.14:5.5",
+          "pli": "Tasmā taṃ parivajjeyya,",
+          "en": "Hence you should avoid such"
+        },
+        {
+          "scid": "thag2.14:5.6",
+          "pli": "kusītaṃ hīnavīriyaṃ.",
+          "en": "a lazy person who lacks energy."
+        },
+        {
+          "scid": "thag2.14:6.1",
+          "pli": "<span class=\"cross\" title=\"^sn14.16#1 [16. Sagāthāsutta] | ^it78#1 [Dhātusosaṃsandanasutta] | ^thag3.16#3 [Vimalattheragāthā] | ^mi7.7.4#1 [Pavanaṅgapañha]\" id=\"note94\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc148\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts148\"></a>Pavivittehi ariyehi,",
+          "en": "Dwell with the noble ones"
+        },
+        {
+          "scid": "thag2.14:6.2",
+          "pli": "pahitattehi jhāyibhi;",
+          "en": "who are secluded and determined"
+        },
+        {
+          "scid": "thag2.14:6.3",
+          "pli": "Niccaṃ āraddhavīriyehi,",
+          "en": "and always energetic;"
+        },
+        {
+          "scid": "thag2.14:6.4",
+          "pli": "paṇḍitehi sahāvase”ti.",
+          "en": "the astute who practice absorption."
+        },
+        {
+          "scid": "thag2.14:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.14:7.2",
+          "pli": "<span class=\"var\" title=\"somacitto (bj)\" id=\"note95\">Somamitto</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.14/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.14",
+    "volpages": "pts20",
+    "uid": "thag2.14",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Somamittattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Somamitta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.14_sujato",
+        "segmented": true,
+        "title": "Somamitta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.14_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Somamitta"
+      }
+    ],
+    "parallel_count": 9,
+    "biblio": null,
+    "num": 4
+  }
+}

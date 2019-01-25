@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.53",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.53",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Valliya (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttiya (2nd)",
+      "uid": "thag1.54"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Subāhu",
+      "uid": "thag1.52"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.53:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.53:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.53:3.1",
+          "pli": "Chaṭṭhavagga",
+          "en": "Chapter Six"
+        },
+        {
+          "scid": "thag1.53:4.1",
+          "pli": "1.53. Valliyattheragāthā",
+          "en": "1.53. Valliya (1st)"
+        },
+        {
+          "scid": "thag1.53:5.1",
+          "pli": "“Vassati devo yathā sugītaṃ,",
+          "en": "The sky rains down, like a beautiful song."
+        },
+        {
+          "scid": "thag1.53:5.2",
+          "pli": "Channā me kuṭikā sukhā nivātā;",
+          "en": "My little hut is ro­ofed and pleasant, sheltered from the wind."
+        },
+        {
+          "scid": "thag1.53:5.3",
+          "pli": "Tassaṃ viharāmi appamatto,",
+          "en": "I meditate there, diligent:"
+        },
+        {
+          "scid": "thag1.53:5.4",
+          "pli": "Atha ce patthayasi pavassa devā”ti.",
+          "en": "so rain, sky, as you please."
+        },
+        {
+          "scid": "thag1.53:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.53:6.2",
+          "pli": "Valliyo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.53/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.53",
+    "volpages": "pts8",
+    "uid": "thag1.53",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Valliyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Valliya (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.53_sujato",
+        "segmented": true,
+        "title": "Valliya (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.53_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Valliya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

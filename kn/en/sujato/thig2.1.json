@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "thig2.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig2.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Abhirūpanandā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jentā",
+      "uid": "thig2.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Saṃghā",
+      "uid": "thig1.18"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.1:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig2.1:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thig2.1:3.1",
+          "pli": "1. Abhirūpanandātherīgāthā",
+          "en": "2.1. Abhirūpanandā"
+        },
+        {
+          "scid": "thig2.1:4.1",
+          "pli": "<span class=\"cross\" title=\"^thig5.4#1 [Sundarīnandātherīgāthā] | ^thi-ap18#66 [Khemātherīapadāna]\" id=\"note13\">*</span> <a class=\"sc\" id=\"1\"></a><a class=\"verse-num-sc\" id=\"verse-num-sc19\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts19\"></a>“Āturaṃ asuciṃ pūtiṃ,",
+          "en": "Nandā, see this bag of bones as"
+        },
+        {
+          "scid": "thig2.1:4.2",
+          "pli": "passa nande samussayaṃ;",
+          "en": "diseased, filthy, and rotten."
+        },
+        {
+          "scid": "thig2.1:4.3",
+          "pli": "Asubhāya cittaṃ bhāvehi,",
+          "en": "With mind unified and serene,"
+        },
+        {
+          "scid": "thig2.1:4.4",
+          "pli": "ekaggaṃ susamāhitaṃ.",
+          "en": "meditate on the ugly aspects of the body."
+        },
+        {
+          "scid": "thig2.1:5.1",
+          "pli": "Animittañca bhāvehi,",
+          "en": "Meditate on the signless,"
+        },
+        {
+          "scid": "thig2.1:5.2",
+          "pli": "mānānusayamujjaha;",
+          "en": "give up the underlying tendency to conceit;"
+        },
+        {
+          "scid": "thig2.1:5.3",
+          "pli": "Tato mānābhisamayā,",
+          "en": "and when you comprehend conceit,"
+        },
+        {
+          "scid": "thig2.1:5.4",
+          "pli": "upasantā carissasī”ti.",
+          "en": "you will live at peace."
+        },
+        {
+          "scid": "thig2.1:6.1",
+          "pli": "<span class=\"var\" title=\"itthaṃ sudaṃ bhagavā nandaṃ sikkhamānaṃ imāhi gāthāhi abhiṇhaṃ ovadati (s2, s3, pts1-2) | itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhiṇhaṃ ovadatīti (mr)\" id=\"note14\">Itthaṃ sudaṃ abhirūpanandā therī gāthāyo abhāsitthāti</span>.",
+          "en": "It was thus that the Buddha regularly advised the senior nun Nandā with these verses."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 2.1",
+    "volpages": "pts125",
+    "uid": "thig2.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Abhirūpanandātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Abhirūpanandā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig2.1_sujato",
+        "segmented": true,
+        "title": "Abhirūpanandā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.1_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Abhirūpa-Nandā"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 1
+  }
+}

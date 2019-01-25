@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "thig2.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig2.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mettikā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mittā (2nd)",
+      "uid": "thig2.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cittā",
+      "uid": "thig2.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.6:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig2.6:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thig2.6:3.1",
+          "pli": "6. Mettikātherīgāthā",
+          "en": "2.6. Mettikā"
+        },
+        {
+          "scid": "thig2.6:4.1",
+          "pli": "“Kiñcāpi khomhi dukkhitā,",
+          "en": "Though in pain,"
+        },
+        {
+          "scid": "thig2.6:4.2",
+          "pli": "dubbalā gatayobbanā;",
+          "en": "feeble, my youth long gone,"
+        },
+        {
+          "scid": "thig2.6:4.3",
+          "pli": "Daṇḍamolubbha gacchāmi,",
+          "en": "I climb the mountain,"
+        },
+        {
+          "scid": "thig2.6:4.4",
+          "pli": "pabbataṃ abhirūhiya.",
+          "en": "leaning on a staff."
+        },
+        {
+          "scid": "thig2.6:5.1",
+          "pli": "Nikkhipitvāna saṅghāṭiṃ,",
+          "en": "Having laid down my outer robe"
+        },
+        {
+          "scid": "thig2.6:5.2",
+          "pli": "pattakañca nikujjiya;",
+          "en": "and overturned my bowl,"
+        },
+        {
+          "scid": "thig2.6:5.3",
+          "pli": "Nisinnā camhi selamhi,",
+          "en": "sitting on a rock,"
+        },
+        {
+          "scid": "thig2.6:5.4",
+          "pli": "atha cittaṃ vimucci me;",
+          "en": "my mind was freed."
+        },
+        {
+          "scid": "thig2.6:5.5",
+          "pli": "Tisso vijjā anuppattā,",
+          "en": "I’ve attained the three knowledges,"
+        },
+        {
+          "scid": "thig2.6:5.6",
+          "pli": "kataṃ buddhassa sāsanan”ti.",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thig2.6:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig2.6:6.2",
+          "pli": "Mettikā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 2.6",
+    "volpages": "pts126",
+    "uid": "thig2.6",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mettikātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mettikā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig2.6_sujato",
+        "segmented": true,
+        "title": "Mettikā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.6_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mettikā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 6
+  }
+}

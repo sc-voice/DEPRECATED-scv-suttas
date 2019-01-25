@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.39",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.39",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Tissa (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vaḍḍhamāna",
+      "uid": "thag1.40"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gavampati",
+      "uid": "thag1.38"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.39:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.39:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.39:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag1.39:4.1",
+          "pli": "1.39. Tissattheragāthā",
+          "en": "1.39. Tissa (1st)"
+        },
+        {
+          "scid": "thag1.39:5.1",
+          "pli": "<span class=\"cross\" title=\"(gāthā 39--40) ^sn1.21#1 [21. Sattisutta] | ^sn2.16#1 [16. Vāsudattasutta] | ^thag16.1#23 [Mahāmoggallānattheragāthā]-1535 | ^ne6#181 [Sāsanapaṭṭhāna] | ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi]\" id=\"note35\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc39\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts39\"></a>“Sattiyā viya omaṭṭho,",
+          "en": "Like they’re struck by a sword,"
+        },
+        {
+          "scid": "thag1.39:5.2",
+          "pli": "<span class=\"var\" title=\"ḍayhamāneva (sabbattha)\" id=\"note36\">ḍayhamānova</span> matthake;",
+          "en": "like their head was on fire,"
+        },
+        {
+          "scid": "thag1.39:5.3",
+          "pli": "Kāmarāgappahānāya,",
+          "en": "a mendicant should go forth mindfully"
+        },
+        {
+          "scid": "thag1.39:5.4",
+          "pli": "sato bhikkhu paribbaje”ti.",
+          "en": "to give up sensual desire."
+        },
+        {
+          "scid": "thag1.39:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.39:6.2",
+          "pli": "Tisso thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.39/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.39",
+    "volpages": "pts6",
+    "uid": "thag1.39",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Tissattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Tissa (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.39_sujato",
+        "segmented": true,
+        "title": "Tissa (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.39_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Tissa"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 9
+  }
+}

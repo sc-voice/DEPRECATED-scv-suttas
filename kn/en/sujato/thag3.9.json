@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Yasoja",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sāṭimattiya",
+      "uid": "thag3.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vassika",
+      "uid": "thag3.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.9:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.9:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.9:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.9:4.1",
+          "pli": "3.9. Yasojattheragāthā",
+          "en": "3.9. Yasoja"
+        },
+        {
+          "scid": "thag3.9:5.1",
+          "pli": "“Kālapabbaṅgasaṅkāso,",
+          "en": "“With knobbly knees,"
+        },
+        {
+          "scid": "thag3.9:5.2",
+          "pli": "kiso <span class=\"var\" title=\"dhamanisaṇṭhito (s2, s3) | dhamanisantato (pts1)\" id=\"note160\">dhamanisanthato</span>;",
+          "en": "thin and veiny,"
+        },
+        {
+          "scid": "thag3.9:5.3",
+          "pli": "Mattaññū annapānamhi,",
+          "en": "eating and drinking but little—"
+        },
+        {
+          "scid": "thag3.9:5.4",
+          "pli": "adīnamānaso naro”.",
+          "en": "this person’s spirit is undaunted.”"
+        },
+        {
+          "scid": "thag3.9:6.1",
+          "pli": "“Phuṭṭho ḍaṃsehi makasehi,",
+          "en": "“Pestered by flies and mosquitoes"
+        },
+        {
+          "scid": "thag3.9:6.2",
+          "pli": "araññasmiṃ brahāvane;",
+          "en": "in the wilds, the formidable forest,"
+        },
+        {
+          "scid": "thag3.9:6.3",
+          "pli": "Nāgo saṅgāmasīseva,",
+          "en": "one should mindfully endure,"
+        },
+        {
+          "scid": "thag3.9:6.4",
+          "pli": "sato tatrādhivāsaye.",
+          "en": "like an elephant at the head of the battle."
+        },
+        {
+          "scid": "thag3.9:7.1",
+          "pli": "Yathā brahmā tathā eko,",
+          "en": "A monk alone is like the supreme Brahmā;"
+        },
+        {
+          "scid": "thag3.9:7.2",
+          "pli": "yathā devo tathā duve;",
+          "en": "a pair of monks are like gods;"
+        },
+        {
+          "scid": "thag3.9:7.3",
+          "pli": "Yathā gāmo tathā tayo,",
+          "en": "three are like a village;"
+        },
+        {
+          "scid": "thag3.9:7.4",
+          "pli": "kolāhalaṃ tatuttarin”ti.",
+          "en": "and more than that is a rabble.”"
+        },
+        {
+          "scid": "thag3.9:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.9:8.2",
+          "pli": "Yasojo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.9",
+    "volpages": "pts31",
+    "uid": "thag3.9",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Yasojattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Yasoja",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.9_sujato",
+        "segmented": true,
+        "title": "Yasoja",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.9_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Yasoja"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

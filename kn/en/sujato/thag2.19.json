@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.19",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.19",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Nanda",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sirima",
+      "uid": "thag2.20"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kimbila (2nd)",
+      "uid": "thag2.18"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.19:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.19:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.19:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag2.19:4.1",
+          "pli": "2.19. Nandattheragāthā",
+          "en": "2.19. Nanda"
+        },
+        {
+          "scid": "thag2.19:5.1",
+          "pli": "“Ayoniso manasikārā,",
+          "en": "Because of focusing on the wrong things,"
+        },
+        {
+          "scid": "thag2.19:5.2",
+          "pli": "maṇḍanaṃ anuyuñjisaṃ;",
+          "en": "I was addicted to ornamentation."
+        },
+        {
+          "scid": "thag2.19:5.3",
+          "pli": "Uddhato capalo cāsiṃ,",
+          "en": "I was vain, fickle,"
+        },
+        {
+          "scid": "thag2.19:5.4",
+          "pli": "kāmarāgena aṭṭito.",
+          "en": "racked by desire for pleasures of the senses."
+        },
+        {
+          "scid": "thag2.19:6.1",
+          "pli": "Upāyakusalenāhaṃ,",
+          "en": "But with the help of the Buddha,"
+        },
+        {
+          "scid": "thag2.19:6.2",
+          "pli": "buddhenādiccabandhunā;",
+          "en": "the Kinsman of the Sun, so skilled in means,"
+        },
+        {
+          "scid": "thag2.19:6.3",
+          "pli": "Yoniso paṭipajjitvā,",
+          "en": "I practiced properly and extracted"
+        },
+        {
+          "scid": "thag2.19:6.4",
+          "pli": "bhave cittaṃ udabbahin”ti.",
+          "en": "attachment to continued existence from my mind."
+        },
+        {
+          "scid": "thag2.19:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.19:7.2",
+          "pli": "Nando thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.19/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.19",
+    "volpages": "pts21",
+    "uid": "thag2.19",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nandattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Nanda",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.19_sujato",
+        "segmented": true,
+        "title": "Nanda",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.19_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Nanda"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

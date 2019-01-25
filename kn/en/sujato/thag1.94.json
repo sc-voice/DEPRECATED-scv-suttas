@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.94",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.94",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mettaji",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cakkhupāla",
+      "uid": "thag1.95"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Eraka",
+      "uid": "thag1.93"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.94:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.94:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.94:3.1",
+          "pli": "Dasamavagga",
+          "en": "Chapter Ten"
+        },
+        {
+          "scid": "thag1.94:4.1",
+          "pli": "1.94. Mettajittheragāthā",
+          "en": "1.94. Mettaji"
+        },
+        {
+          "scid": "thag1.94:5.1",
+          "pli": "“Namo hi tassa bhagavato,",
+          "en": "Homage to that Blessed One,"
+        },
+        {
+          "scid": "thag1.94:5.2",
+          "pli": "sakyaputtassa sirīmato;",
+          "en": "the glorious Sakyan!"
+        },
+        {
+          "scid": "thag1.94:5.3",
+          "pli": "Tenāyaṃ aggappattena,",
+          "en": "Having reached the best,"
+        },
+        {
+          "scid": "thag1.94:5.4",
+          "pli": "<span class=\"var\" title=\"aggo dhammo (bj)\" id=\"note62\">aggadhammo</span> sudesito”ti.",
+          "en": "he beautifully taught the best teaching."
+        },
+        {
+          "scid": "thag1.94:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.94:6.2",
+          "pli": "Mettaji thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.94/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.94",
+    "volpages": "pts14",
+    "uid": "thag1.94",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mettajittheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mettaji",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.94_sujato",
+        "segmented": true,
+        "title": "Mettaji",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.94_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mettaji"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

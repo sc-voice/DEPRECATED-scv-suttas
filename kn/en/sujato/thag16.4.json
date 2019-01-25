@@ -1,0 +1,620 @@
+{
+  "sutta_uid": "thag16.4",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag16.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Raṭṭhapāla",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Māluṅkyaputta (2nd)",
+      "uid": "thag16.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Telakāni",
+      "uid": "thag16.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag16.4:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag16.4:2.1",
+          "pli": "Vīsatinipāta",
+          "en": "The Book of the Twenties"
+        },
+        {
+          "scid": "thag16.4:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag16.4:4.1",
+          "pli": "16.4. Raṭṭhapālattheragāthā",
+          "en": "16.4. Raṭṭhapāla"
+        },
+        {
+          "scid": "thag16.4:5.1",
+          "pli": "<span class=\"cross\" title=\"^mn82#16 [Raṭṭhapālasutta]\" id=\"note351\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc769\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts769\"></a>“Passa cittakataṃ bimbaṃ,",
+          "en": "“See this fancy puppet,"
+        },
+        {
+          "scid": "thag16.4:5.2",
+          "pli": "arukāyaṃ samussitaṃ;",
+          "en": "a body built of sores,"
+        },
+        {
+          "scid": "thag16.4:5.3",
+          "pli": "Āturaṃ bahusaṅkappaṃ,",
+          "en": "diseased, obsessed over,"
+        },
+        {
+          "scid": "thag16.4:5.4",
+          "pli": "yassa natthi dhuvaṃ ṭhiti.",
+          "en": "which doesn’t last at all."
+        },
+        {
+          "scid": "thag16.4:6.1",
+          "pli": "Passa cittakataṃ rūpaṃ,",
+          "en": "See this fancy figure,"
+        },
+        {
+          "scid": "thag16.4:6.2",
+          "pli": "maṇinā kuṇḍalena ca;",
+          "en": "with its gems and earrings;"
+        },
+        {
+          "scid": "thag16.4:6.3",
+          "pli": "<span class=\"var\" title=\"aṭṭhitacena (s2, s3, pts1)\" id=\"note352\">Aṭṭhiṃ tacena</span> onaddhaṃ,",
+          "en": "it is bones wrapped in skin,"
+        },
+        {
+          "scid": "thag16.4:6.4",
+          "pli": "saha vatthehi sobhati.",
+          "en": "made pretty by its clothes."
+        },
+        {
+          "scid": "thag16.4:7.1",
+          "pli": "Alattakakatā <span class=\"var\" title=\"pāpā (pts1)\" id=\"note353\">pādā</span>,",
+          "en": "Rouged feet"
+        },
+        {
+          "scid": "thag16.4:7.2",
+          "pli": "mukhaṃ cuṇṇakamakkhitaṃ;",
+          "en": "and powdered face"
+        },
+        {
+          "scid": "thag16.4:7.3",
+          "pli": "Alaṃ bālassa mohāya,",
+          "en": "may be enough to beguile a fool,"
+        },
+        {
+          "scid": "thag16.4:7.4",
+          "pli": "no ca pāragavesino.",
+          "en": "but not a seeker of the far shore."
+        },
+        {
+          "scid": "thag16.4:8.1",
+          "pli": "Aṭṭhapadakatā kesā,",
+          "en": "Hair in eight braids"
+        },
+        {
+          "scid": "thag16.4:8.2",
+          "pli": "nettā añjanamakkhitā;",
+          "en": "and eyeliner"
+        },
+        {
+          "scid": "thag16.4:8.3",
+          "pli": "Alaṃ bālassa mohāya,",
+          "en": "may be enough to beguile a fool,"
+        },
+        {
+          "scid": "thag16.4:8.4",
+          "pli": "no ca pāragavesino.",
+          "en": "but not a seeker of the far shore."
+        },
+        {
+          "scid": "thag16.4:9.1",
+          "pli": "Añjanīva navā cittā,",
+          "en": "A rotting body all adorned"
+        },
+        {
+          "scid": "thag16.4:9.2",
+          "pli": "pūtikāyo alaṅkato;",
+          "en": "like a freshly painted makeup box"
+        },
+        {
+          "scid": "thag16.4:9.3",
+          "pli": "Alaṃ bālassa mohāya,",
+          "en": "may be enough to beguile a fool,"
+        },
+        {
+          "scid": "thag16.4:9.4",
+          "pli": "no ca pāragavesino.",
+          "en": "but not a seeker of the far shore."
+        },
+        {
+          "scid": "thag16.4:10.1",
+          "pli": "Odahi migavo pāsaṃ,",
+          "en": "The hunter laid his snare,"
+        },
+        {
+          "scid": "thag16.4:10.2",
+          "pli": "<span class=\"var\" title=\"nāsādā (s2, s3, pts1)\" id=\"note354\">nāsadā</span> <span class=\"var\" title=\"vākuraṃ (s2, s3, pts1)\" id=\"note355\">vāguraṃ</span> migo;",
+          "en": "but the deer didn’t spring the trap."
+        },
+        {
+          "scid": "thag16.4:10.3",
+          "pli": "Bhutvā nivāpaṃ gacchāma,",
+          "en": "I’ve eaten the bait and now I go,"
+        },
+        {
+          "scid": "thag16.4:10.4",
+          "pli": "kandante migabandhake.",
+          "en": "leaving the trapper to lament."
+        },
+        {
+          "scid": "thag16.4:11.1",
+          "pli": "<span class=\"var\" title=\"chinnā pāsā (s2, s3, pts1)\" id=\"note356\">Chinno pāso</span> migavassa,",
+          "en": "The hunter’s snare is broken,"
+        },
+        {
+          "scid": "thag16.4:11.2",
+          "pli": "<span class=\"var\" title=\"nāsādā (s2, s3, pts1)\" id=\"note357\">nāsadā</span> <span class=\"var\" title=\"vākuraṃ (s2, s3, pts1)\" id=\"note358\">vāguraṃ</span> migo;",
+          "en": "but the deer didn’t spring the trap."
+        },
+        {
+          "scid": "thag16.4:11.3",
+          "pli": "Bhutvā nivāpaṃ gacchāma,",
+          "en": "I’ve eaten the bait and now I go,"
+        },
+        {
+          "scid": "thag16.4:11.4",
+          "pli": "socante migaluddake.",
+          "en": "leaving the deer-hunter to grieve.”"
+        },
+        {
+          "scid": "thag16.4:12.1",
+          "pli": "<span class=\"cross\" title=\"^mn82#37 [Raṭṭhapālasutta]\" id=\"note359\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc776\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts776\"></a><a class=\"pts\" id=\"pts76\"></a>Passāmi loke sadhane manusse,",
+          "en": "“I see rich people in the world who,"
+        },
+        {
+          "scid": "thag16.4:12.2",
+          "pli": "Laddhāna vittaṃ na dadanti mohā;",
+          "en": "because of delusion, give not the wealth they’ve earned."
+        },
+        {
+          "scid": "thag16.4:12.3",
+          "pli": "Luddhā dhanaṃ sannicayaṃ karonti,",
+          "en": "Greedily, they hoard their riches,"
+        },
+        {
+          "scid": "thag16.4:12.4",
+          "pli": "<span class=\"var\" title=\"... ca (s2, s3, pts1)\" id=\"note360\">Bhiyyova</span> kāme abhipatthayanti.",
+          "en": "yearning for ever more sensual pleasures."
+        },
+        {
+          "scid": "thag16.4:13.1",
+          "pli": "Rājā pasayhappathaviṃ vijetvā,",
+          "en": "A king who conquered the earth by force,"
+        },
+        {
+          "scid": "thag16.4:13.2",
+          "pli": "Sasāgarantaṃ mahimāvasanto;",
+          "en": "ruling the land from sea to sea,"
+        },
+        {
+          "scid": "thag16.4:13.3",
+          "pli": "Oraṃ samuddassa atittarūpo,",
+          "en": "unsatisfied with the near shore of the ocean,"
+        },
+        {
+          "scid": "thag16.4:13.4",
+          "pli": "Pāraṃ samuddassapi patthayetha.",
+          "en": "would still yearn for the further shore."
+        },
+        {
+          "scid": "thag16.4:14.1",
+          "pli": "Rājā ca aññe ca bahū manussā,",
+          "en": "Not just the king, but others too,"
+        },
+        {
+          "scid": "thag16.4:14.2",
+          "pli": "Avītataṇhā maraṇaṃ upenti;",
+          "en": "reach death not rid of craving."
+        },
+        {
+          "scid": "thag16.4:14.3",
+          "pli": "Ūnāva hutvāna jahanti dehaṃ,",
+          "en": "They leave the body still wanting,"
+        },
+        {
+          "scid": "thag16.4:14.4",
+          "pli": "Kāmehi lokamhi na hatthi titti.",
+          "en": "for in this world sensual pleasures never satisfy."
+        },
+        {
+          "scid": "thag16.4:15.1",
+          "pli": "Kandanti naṃ ñātī pakiriya kese,",
+          "en": "Relatives lament, their hair disheveled,"
+        },
+        {
+          "scid": "thag16.4:15.2",
+          "pli": "Aho vatā no amarāti cāhu;",
+          "en": "saying ‘Ah! Alas! They’re not immortal!’"
+        },
+        {
+          "scid": "thag16.4:15.3",
+          "pli": "Vatthena naṃ pārutaṃ nīharitvā,",
+          "en": "They take out the body wrapped in a shroud,"
+        },
+        {
+          "scid": "thag16.4:15.4",
+          "pli": "Citaṃ samodhāya tato ḍahanti.",
+          "en": "heap up a pyre, and burn it there."
+        },
+        {
+          "scid": "thag16.4:16.1",
+          "pli": "So ḍayhati sūlehi tujjamāno,",
+          "en": "It’s poked with stakes while being burnt,"
+        },
+        {
+          "scid": "thag16.4:16.2",
+          "pli": "<span class=\"var\" title=\"etena gattena (mr)\" id=\"note361\">Ekena vatthena</span> pahāya bhoge;",
+          "en": "in just a single cloth, all wealth gone."
+        },
+        {
+          "scid": "thag16.4:16.3",
+          "pli": "Na mīyamānassa bhavanti tāṇā,",
+          "en": "Relatives, friends, and companions"
+        },
+        {
+          "scid": "thag16.4:16.4",
+          "pli": "Ñātī ca mittā atha vā sahāyā.",
+          "en": "can’t help you when you’re dying."
+        },
+        {
+          "scid": "thag16.4:17.1",
+          "pli": "Dāyādakā tassa dhanaṃ haranti,",
+          "en": "Heirs take your riches,"
+        },
+        {
+          "scid": "thag16.4:17.2",
+          "pli": "Satto pana gacchati yena kammaṃ;",
+          "en": "while beings fare on according to their deeds."
+        },
+        {
+          "scid": "thag16.4:17.3",
+          "pli": "Na <span class=\"var\" title=\"miyyamānaṃ (s2, s3, pts1-2)\" id=\"note362\">mīyamānaṃ</span> <span class=\"var\" title=\"... manviti (mr)\" id=\"note363\">dhanamanveti</span> kiñci,",
+          "en": "Riches don’t follow you when you die;"
+        },
+        {
+          "scid": "thag16.4:17.4",
+          "pli": "Puttā ca dārā ca dhanañca raṭṭhaṃ.",
+          "en": "nor do children, wife, wealth, nor kingdom."
+        },
+        {
+          "scid": "thag16.4:18.1",
+          "pli": "Na dīghamāyuṃ labhate dhanena,",
+          "en": "Longevity isn’t gained by riches,"
+        },
+        {
+          "scid": "thag16.4:18.2",
+          "pli": "Na cāpi vittena jaraṃ vihanti;",
+          "en": "nor does wealth banish old age;"
+        },
+        {
+          "scid": "thag16.4:18.3",
+          "pli": "Appaṃ <span class=\"var\" title=\"hi taṃ (bj) | hi naṃ (s2, s3, pts1)\" id=\"note364\">hidaṃ</span> jīvitamāhu dhīrā,",
+          "en": "for the wise say this life is short,"
+        },
+        {
+          "scid": "thag16.4:18.4",
+          "pli": "Asassataṃ vippariṇāmadhammaṃ.",
+          "en": "it’s perishable and not eternal."
+        },
+        {
+          "scid": "thag16.4:19.1",
+          "pli": "<span class=\"var\" title=\"addhā (s2, s3, pts1)\" id=\"note365\">Aḍḍhā</span> daliddā ca phusanti phassaṃ,",
+          "en": "The rich and the poor feel its touch;"
+        },
+        {
+          "scid": "thag16.4:19.2",
+          "pli": "Bālo ca dhīro ca tatheva phuṭṭho;",
+          "en": "the fool and the wise feel it too."
+        },
+        {
+          "scid": "thag16.4:19.3",
+          "pli": "Bālo hi bālyā vadhitova seti,",
+          "en": "But the fool lies stricken by their own folly,"
+        },
+        {
+          "scid": "thag16.4:19.4",
+          "pli": "Dhīro ca no vedhati phassaphuṭṭho.",
+          "en": "while the wise don’t tremble at the touch."
+        },
+        {
+          "scid": "thag16.4:20.1",
+          "pli": "Tasmā hi paññāva dhanena <span class=\"var\" title=\"seyyo (s2, s3, pts1)\" id=\"note366\">seyyā</span>,",
+          "en": "Therefore wisdom’s much better than wealth,"
+        },
+        {
+          "scid": "thag16.4:20.2",
+          "pli": "Yāya vosānamidhādhigacchati;",
+          "en": "since by wisdom you reach consummation in this life."
+        },
+        {
+          "scid": "thag16.4:20.3",
+          "pli": "<span class=\"var\" title=\"abyositatthā (pts1) | avyositattā (pts2)\" id=\"note367\">Abyositattā</span> hi bhavābhavesu,",
+          "en": "But if because of delusion you don’t reach consummation,"
+        },
+        {
+          "scid": "thag16.4:20.4",
+          "pli": "Pāpāni kammāni karoti mohā.",
+          "en": "you’ll do evil deeds in life after life."
+        },
+        {
+          "scid": "thag16.4:21.1",
+          "pli": "Upeti gabbhañca parañca lokaṃ,",
+          "en": "One who enters a womb and the world beyond,"
+        },
+        {
+          "scid": "thag16.4:21.2",
+          "pli": "Saṃsāramāpajja paramparāya;",
+          "en": "will transmigrate from one life to the next."
+        },
+        {
+          "scid": "thag16.4:21.3",
+          "pli": "Tassappapañño abhisaddahanto,",
+          "en": "While someone of little wisdom, placing faith in them,"
+        },
+        {
+          "scid": "thag16.4:21.4",
+          "pli": "Upeti gabbhañca parañca lokaṃ.",
+          "en": "also enters a womb and the world beyond."
+        },
+        {
+          "scid": "thag16.4:22.1",
+          "pli": "<span class=\"cross\" title=\"^ne4#141 [Vibhaṅga/ Catubyūhahāravibhaṅga] | ^ne6#4 [Sāsanapaṭṭhāna]\" id=\"note368\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc786\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts786\"></a>Coro yathā sandhimukhe gahīto,",
+          "en": "As a bandit caught in the door"
+        },
+        {
+          "scid": "thag16.4:22.2",
+          "pli": "Sakammunā haññati pāpadhammo;",
+          "en": "is punished for his own bad deeds;"
+        },
+        {
+          "scid": "thag16.4:22.3",
+          "pli": "Evaṃ pajā pecca paramhi loke,",
+          "en": "so after departing, in the world beyond,"
+        },
+        {
+          "scid": "thag16.4:22.4",
+          "pli": "Sakammunā haññati pāpadhammo.",
+          "en": "people are punished for their own bad deeds."
+        },
+        {
+          "scid": "thag16.4:23.1",
+          "pli": "<span class=\"cross\" title=\"^snp1.3#331 [Khaggavisāṇasutta] | ^tha-ap2#25 [Paccekabuddhaapadāna]\" id=\"note369\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc787\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts787\"></a>Kāmā hi citrā madhurā manoramā,",
+          "en": "Sensual pleasures are diverse, sweet, delightful,"
+        },
+        {
+          "scid": "thag16.4:23.2",
+          "pli": "Virūparūpena mathenti cittaṃ;",
+          "en": "appearing in disguise they disturb the mind."
+        },
+        {
+          "scid": "thag16.4:23.3",
+          "pli": "Ādīnavaṃ kāmaguṇesu disvā,",
+          "en": "Seeing danger in the many kinds of sensual stimulation,"
+        },
+        {
+          "scid": "thag16.4:23.4",
+          "pli": "Tasmā ahaṃ pabbajitomhi rāja.",
+          "en": "I went forth, O King."
+        },
+        {
+          "scid": "thag16.4:24.1",
+          "pli": "Dumapphalānīva patanti māṇavā,",
+          "en": "As fruit falls from a tree, so people fall,"
+        },
+        {
+          "scid": "thag16.4:24.2",
+          "pli": "Daharā ca vuḍḍhā ca sarīrabhedā;",
+          "en": "young and old, when the body breaks up."
+        },
+        {
+          "scid": "thag16.4:24.3",
+          "pli": "Etampi disvā pabbajitomhi rāja,",
+          "en": "Seeing this, too, I went forth, O King;"
+        },
+        {
+          "scid": "thag16.4:24.4",
+          "pli": "Apaṇṇakaṃ sāmaññameva seyyo.",
+          "en": "the ascetic life is guaranteed to be better.”"
+        },
+        {
+          "scid": "thag16.4:25.1",
+          "pli": "Saddhāyāhaṃ pabbajito,",
+          "en": "“I went forth out of faith"
+        },
+        {
+          "scid": "thag16.4:25.2",
+          "pli": "upeto jinasāsane;",
+          "en": "joining the victor’s dispensation."
+        },
+        {
+          "scid": "thag16.4:25.3",
+          "pli": "<span class=\"var\" title=\"avajjā (s2, s3, pts1)\" id=\"note370\">Avañjhā</span> mayhaṃ pabbajjā,",
+          "en": "My going forth wasn’t wasted;"
+        },
+        {
+          "scid": "thag16.4:25.4",
+          "pli": "anaṇo bhuñjāmi bhojanaṃ.",
+          "en": "I enjoy my food free of debt."
+        },
+        {
+          "scid": "thag16.4:26.1",
+          "pli": "Kāme ādittato disvā,",
+          "en": "I saw sensual pleasures as burning,"
+        },
+        {
+          "scid": "thag16.4:26.2",
+          "pli": "Jātarūpāni satthato;",
+          "en": "gold as a cutting blade,"
+        },
+        {
+          "scid": "thag16.4:26.3",
+          "pli": "<span class=\"var\" title=\"gabbhe vokkantito (s2, s3, pts1)\" id=\"note371\">Gabbhavokkantito</span> dukkhaṃ,",
+          "en": "conception in a womb as suffering,"
+        },
+        {
+          "scid": "thag16.4:26.4",
+          "pli": "Nirayesu mahabbhayaṃ.",
+          "en": "and the hells as very fearful."
+        },
+        {
+          "scid": "thag16.4:27.1",
+          "pli": "Etamādīnavaṃ <span class=\"var\" title=\"disvā (s2, s3, pts1)\" id=\"note372\">ñatvā</span>,",
+          "en": "Knowing this danger,"
+        },
+        {
+          "scid": "thag16.4:27.2",
+          "pli": "saṃvegaṃ alabhiṃ tadā;",
+          "en": "I was struck with a sense of urgency."
+        },
+        {
+          "scid": "thag16.4:27.3",
+          "pli": "Sohaṃ viddho tadā santo,",
+          "en": "I was stabbed, but then I found peace,"
+        },
+        {
+          "scid": "thag16.4:27.4",
+          "pli": "sampatto āsavakkhayaṃ.",
+          "en": "attaining the end of defilements."
+        },
+        {
+          "scid": "thag16.4:28.1",
+          "pli": "Pariciṇṇo mayā satthā,",
+          "en": "I’ve served the teacher"
+        },
+        {
+          "scid": "thag16.4:28.2",
+          "pli": "kataṃ buddhassa sāsanaṃ;",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag16.4:28.3",
+          "pli": "Ohito garuko bhāro,",
+          "en": "The heavy burden is laid down,"
+        },
+        {
+          "scid": "thag16.4:28.4",
+          "pli": "bhavanetti samūhatā.",
+          "en": "the attachment to rebirth is eradicated."
+        },
+        {
+          "scid": "thag16.4:29.1",
+          "pli": "Yassatthāya pabbajito,",
+          "en": "I’ve reached the goal"
+        },
+        {
+          "scid": "thag16.4:29.2",
+          "pli": "agārasmānagāriyaṃ;",
+          "en": "for the sake of which I went forth"
+        },
+        {
+          "scid": "thag16.4:29.3",
+          "pli": "So me attho anuppatto,",
+          "en": "from the lay life to homelessness—"
+        },
+        {
+          "scid": "thag16.4:29.4",
+          "pli": "sabbasaṃyojanakkhayo”ti.",
+          "en": "the ending of all fetters.”"
+        },
+        {
+          "scid": "thag16.4:30.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag16.4:30.2",
+          "pli": "Raṭṭhapālo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag16.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 16.4",
+    "volpages": "pts77",
+    "uid": "thag16.4",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Raṭṭhapālattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Raṭṭhapāla",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag16.4_sujato",
+        "segmented": true,
+        "title": "Raṭṭhapāla",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag16.4_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Raṭṭhapāla"
+      }
+    ],
+    "parallel_count": 25,
+    "biblio": null,
+    "num": 4
+  }
+}

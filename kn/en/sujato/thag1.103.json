@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.103",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.103",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Bandhura",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Khitaka",
+      "uid": "thag1.104"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Setuccha",
+      "uid": "thag1.102"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.103:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.103:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.103:3.1",
+          "pli": "Ekādasamavagga",
+          "en": "Chapter Eleven"
+        },
+        {
+          "scid": "thag1.103:4.1",
+          "pli": "1.103. Bandhurattheragāthā",
+          "en": "1.103. Bandhura"
+        },
+        {
+          "scid": "thag1.103:5.1",
+          "pli": "“Nāhaṃ etena atthiko,",
+          "en": "I don’t need this—"
+        },
+        {
+          "scid": "thag1.103:5.2",
+          "pli": "Sukhito dhammarasena tappito;",
+          "en": "I’m happy and satisfied with the sweet teaching."
+        },
+        {
+          "scid": "thag1.103:5.3",
+          "pli": "<span class=\"var\" title=\"pitvāna (bj, s2, s3, pts2) | pītvāna (pts1)\" id=\"note72\">Pitvā</span> rasaggamuttamaṃ,",
+          "en": "I’ve drunk the best, the supreme nectar:"
+        },
+        {
+          "scid": "thag1.103:5.4",
+          "pli": "Na ca kāhāmi visena santhavan”ti.",
+          "en": "I won’t go near poison."
+        },
+        {
+          "scid": "thag1.103:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.103:6.2",
+          "pli": "<span class=\"var\" title=\"bandhano (mr)\" id=\"note73\">Bandhuro</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.103/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.103",
+    "volpages": "pts15",
+    "uid": "thag1.103",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bandhurattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bandhura",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.103_sujato",
+        "segmented": true,
+        "title": "Bandhura",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.103_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Bandhura"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

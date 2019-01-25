@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "thag1.98",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.98",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Abhaya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttiya (3rd)",
+      "uid": "thag1.99"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Tissa (2nd)",
+      "uid": "thag1.97"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.98:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.98:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.98:3.1",
+          "pli": "Dasamavagga",
+          "en": "Chapter Ten"
+        },
+        {
+          "scid": "thag1.98:4.1",
+          "pli": "1.98. Abhayattheragāthā",
+          "en": "1.98. Abhaya"
+        },
+        {
+          "scid": "thag1.98:5.1",
+          "pli": "“Rūpaṃ disvā sati muṭṭhā,",
+          "en": "When you see a sight, mindfulness is lost"
+        },
+        {
+          "scid": "thag1.98:5.2",
+          "pli": "<span class=\"var\" title=\"piyanimittaṃ (bj, s2, s3, pts1)\" id=\"note66\">Piyaṃ nimittaṃ</span> manasikaroto;",
+          "en": "as attention latches on a pleasant feature."
+        },
+        {
+          "scid": "thag1.98:5.3",
+          "pli": "Sārattacitto vedeti,",
+          "en": "Experiencing it with a mind full of desire,"
+        },
+        {
+          "scid": "thag1.98:5.4",
+          "pli": "Tañca ajjhosa tiṭṭhati;",
+          "en": "you keep clinging to it."
+        },
+        {
+          "scid": "thag1.98:5.5",
+          "pli": "Tassa vaḍḍhanti āsavā,",
+          "en": "Your defilements grow,"
+        },
+        {
+          "scid": "thag1.98:5.6",
+          "pli": "<span class=\"var\" title=\"bhavamūlā bhavagāminoti (bj, mr)\" id=\"note67\">Bhavamūlopagāmino”ti</span>.",
+          "en": "leading to the root of rebirth."
+        },
+        {
+          "scid": "thag1.98:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.98:6.2",
+          "pli": "Abhayo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.98/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.98",
+    "volpages": "pts14",
+    "uid": "thag1.98",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Abhayattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Abhaya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.98_sujato",
+        "segmented": true,
+        "title": "Abhaya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.98_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Abhaya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

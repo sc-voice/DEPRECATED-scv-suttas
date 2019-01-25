@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Paccaya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bākula",
+      "uid": "thag3.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Aṅgaṇikabhāradvāja",
+      "uid": "thag3.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.2:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.2:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.2:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.2:4.1",
+          "pli": "3.2. Paccayattheragāthā",
+          "en": "3.2. Paccaya"
+        },
+        {
+          "scid": "thag3.2:5.1",
+          "pli": "“Pañcāhāhaṃ pabbajito,",
+          "en": "I went forth five days ago,"
+        },
+        {
+          "scid": "thag3.2:5.2",
+          "pli": "sekho appattamānaso;",
+          "en": "a trainee, my heart’s desire unfulfilled."
+        },
+        {
+          "scid": "thag3.2:5.3",
+          "pli": "Vihāraṃ me paviṭṭhassa,",
+          "en": "I entered my dwelling"
+        },
+        {
+          "scid": "thag3.2:5.4",
+          "pli": "cetaso paṇidhī ahu.",
+          "en": "and resolved in my heart:"
+        },
+        {
+          "scid": "thag3.2:6.1",
+          "pli": "Nāsissaṃ na pivissāmi,",
+          "en": "I won’t eat; I won’t drink;"
+        },
+        {
+          "scid": "thag3.2:6.2",
+          "pli": "<span class=\"var\" title=\"vihārā ca (pts2)\" id=\"note152\">vihārato</span> na nikkhame;",
+          "en": "I won’t leave my dwelling;"
+        },
+        {
+          "scid": "thag3.2:6.3",
+          "pli": "Napi passaṃ nipātessaṃ,",
+          "en": "nor will I lie down on my side—"
+        },
+        {
+          "scid": "thag3.2:6.4",
+          "pli": "taṇhāsalle anūhate.",
+          "en": "not until the dart of craving is pulled out."
+        },
+        {
+          "scid": "thag3.2:7.1",
+          "pli": "Tassa mevaṃ viharato,",
+          "en": "See my energy and vigor"
+        },
+        {
+          "scid": "thag3.2:7.2",
+          "pli": "passa vīriyaparakkamaṃ;",
+          "en": "as I meditate like this!"
+        },
+        {
+          "scid": "thag3.2:7.3",
+          "pli": "Tisso vijjā anuppattā,",
+          "en": "I’ve attained the three knowledges"
+        },
+        {
+          "scid": "thag3.2:7.4",
+          "pli": "kataṃ buddhassa sāsanan”ti.",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag3.2:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.2:8.2",
+          "pli": "Paccayo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.2",
+    "volpages": "pts29",
+    "uid": "thag3.2",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Paccayattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Paccaya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.2_sujato",
+        "segmented": true,
+        "title": "Paccaya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.2_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Paccaya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.13",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.13",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Heraññakāni",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Somamitta",
+      "uid": "thag2.14"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jotidāsa",
+      "uid": "thag2.12"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.13:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.13:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.13:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag2.13:4.1",
+          "pli": "2.13. Heraññakānittheragāthā",
+          "en": "2.13. Heraññakāni"
+        },
+        {
+          "scid": "thag2.13:5.1",
+          "pli": "“Accayanti ahorattā,",
+          "en": "The days and nights rush by,"
+        },
+        {
+          "scid": "thag2.13:5.2",
+          "pli": "jīvitaṃ uparujjhati;",
+          "en": "and then life is cut short."
+        },
+        {
+          "scid": "thag2.13:5.3",
+          "pli": "Āyu khīyati maccānaṃ,",
+          "en": "The life of mortals wastes away,"
+        },
+        {
+          "scid": "thag2.13:5.4",
+          "pli": "kunnadīnaṃva odakaṃ.",
+          "en": "like the water in tiny streams."
+        },
+        {
+          "scid": "thag2.13:6.1",
+          "pli": "Atha pāpāni kammāni,",
+          "en": "But while doing bad deeds"
+        },
+        {
+          "scid": "thag2.13:6.2",
+          "pli": "karaṃ bālo na bujjhati;",
+          "en": "the fool doesn’t realize—"
+        },
+        {
+          "scid": "thag2.13:6.3",
+          "pli": "Pacchāssa kaṭukaṃ hoti,",
+          "en": "it’ll be bitter later on;"
+        },
+        {
+          "scid": "thag2.13:6.4",
+          "pli": "vipāko hissa pāpako”ti.",
+          "en": "for the result will be bad for them."
+        },
+        {
+          "scid": "thag2.13:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.13:7.2",
+          "pli": "Heraññakānitthero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.13/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.13",
+    "volpages": "pts20",
+    "uid": "thag2.13",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Heraññakānittheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Heraññakāni",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.13_sujato",
+        "segmented": true,
+        "title": "Heraññakāni",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.13_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Heraññakāni"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 3
+  }
+}

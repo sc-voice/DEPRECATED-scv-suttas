@@ -1,0 +1,713 @@
+{
+  "sutta_uid": "thig13.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig13.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Subhā, the Smith’s Daughter",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Subhā of Jīvaka’s Mango Grove",
+      "uid": "thig14.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sundarī",
+      "uid": "thig13.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig13.5:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig13.5:2.1",
+          "pli": "Vīsatinipāta",
+          "en": "The Book of the Twenties"
+        },
+        {
+          "scid": "thig13.5:3.1",
+          "pli": "5. Subhākammāradhītutherīgāthā",
+          "en": "13.5. Subhā, the Smith’s Daughter"
+        },
+        {
+          "scid": "thig13.5:4.1",
+          "pli": "“Daharāhaṃ suddhavasanā,",
+          "en": "“I was so young, my clothes so fresh,"
+        },
+        {
+          "scid": "thig13.5:4.2",
+          "pli": "yaṃ pure dhammamassuṇiṃ;",
+          "en": "at that time I heard the teaching."
+        },
+        {
+          "scid": "thig13.5:4.3",
+          "pli": "Tassā me appamattāya,",
+          "en": "Being diligent,"
+        },
+        {
+          "scid": "thig13.5:4.4",
+          "pli": "saccābhisamayo ahu.",
+          "en": "I comprehended the truth;"
+        },
+        {
+          "scid": "thig13.5:5.1",
+          "pli": "Tatohaṃ sabbakāmesu,",
+          "en": "and then I became profoundly dispassionate"
+        },
+        {
+          "scid": "thig13.5:5.2",
+          "pli": "bhusaṃ aratimajjhagaṃ;",
+          "en": "towards all sensual pleasures."
+        },
+        {
+          "scid": "thig13.5:5.3",
+          "pli": "Sakkāyasmiṃ bhayaṃ disvā,",
+          "en": "Seeing fear in identity,"
+        },
+        {
+          "scid": "thig13.5:5.4",
+          "pli": "<span class=\"var\" title=\"nekkhammaññeva (bj) | nekkhammasseva (s2, s3) | nekkhammaṃ yeva (pts1-2)\" id=\"note104\">nekkhammameva</span> pīhaye.",
+          "en": "I longed for renunciation."
+        },
+        {
+          "scid": "thig13.5:6.1",
+          "pli": "Hitvānahaṃ ñātigaṇaṃ,",
+          "en": "Giving up my family circle,"
+        },
+        {
+          "scid": "thig13.5:6.2",
+          "pli": "dāsakammakarāni ca;",
+          "en": "bonded servants and workers,"
+        },
+        {
+          "scid": "thig13.5:6.3",
+          "pli": "Gāmakhettāni phītāni,",
+          "en": "and my flourishing villages and lands,"
+        },
+        {
+          "scid": "thig13.5:6.4",
+          "pli": "ramaṇīye pamodite.",
+          "en": "so delightful and pleasant,"
+        },
+        {
+          "scid": "thig13.5:7.1",
+          "pli": "Pahāyahaṃ pabbajitā,",
+          "en": "I went forth;"
+        },
+        {
+          "scid": "thig13.5:7.2",
+          "pli": "sāpateyyamanappakaṃ;",
+          "en": "all that is no small wealth."
+        },
+        {
+          "scid": "thig13.5:7.3",
+          "pli": "<a class=\"verse-num-pts\" id=\"verse-num-pts341\"></a>Evaṃ saddhāya nikkhamma,",
+          "en": "Now that I’ve gone forth in faith like this,"
+        },
+        {
+          "scid": "thig13.5:7.4",
+          "pli": "saddhamme suppavedite.",
+          "en": "in the true teaching so well proclaimed,"
+        },
+        {
+          "scid": "thig13.5:8.1",
+          "pli": "<span class=\"var\" title=\"na me taṃ (bj, s2, s3, pts1-2)\" id=\"note105\">Netaṃ</span> assa patirūpaṃ,",
+          "en": "since I desire to have nothing,"
+        },
+        {
+          "scid": "thig13.5:8.2",
+          "pli": "Ākiñcaññañhi patthaye;",
+          "en": "it would not be appropriate"
+        },
+        {
+          "scid": "thig13.5:8.3",
+          "pli": "<span class=\"var\" title=\"yā (s2, s3, pts1-2)\" id=\"note106\">Yo</span> jātarūpaṃ rajataṃ,",
+          "en": "to take back gold and money,"
+        },
+        {
+          "scid": "thig13.5:8.4",
+          "pli": "<span class=\"var\" title=\"ṭhapetvā (s2, s3, pts1-2) | thapetvā (mr)\" id=\"note107\">Chaḍḍetvā</span> <span class=\"var\" title=\"punarāgahe (mr)\" id=\"note108\">punarāgame</span>.",
+          "en": "having already got rid of them."
+        },
+        {
+          "scid": "thig13.5:9.1",
+          "pli": "Rajataṃ jātarūpaṃ vā,",
+          "en": "Money or gold"
+        },
+        {
+          "scid": "thig13.5:9.2",
+          "pli": "na bodhāya na santiyā;",
+          "en": "doesn’t lead to peace and awakening."
+        },
+        {
+          "scid": "thig13.5:9.3",
+          "pli": "Netaṃ samaṇasāruppaṃ,",
+          "en": "It doesn’t befit an ascetic,"
+        },
+        {
+          "scid": "thig13.5:9.4",
+          "pli": "na etaṃ ariyaddhanaṃ.",
+          "en": "it’s not the wealth of the noble ones;"
+        },
+        {
+          "scid": "thig13.5:10.1",
+          "pli": "Lobhanaṃ madanañcetaṃ,",
+          "en": "it’s just greed and intoxication,"
+        },
+        {
+          "scid": "thig13.5:10.2",
+          "pli": "mohanaṃ rajavaḍḍhanaṃ;",
+          "en": "confusion and growing decadence,"
+        },
+        {
+          "scid": "thig13.5:10.3",
+          "pli": "Sāsaṅkaṃ bahuāyāsaṃ,",
+          "en": "dubious, troublesome—"
+        },
+        {
+          "scid": "thig13.5:10.4",
+          "pli": "natthi cettha dhuvaṃ ṭhiti.",
+          "en": "there is nothing lasting there."
+        },
+        {
+          "scid": "thig13.5:11.1",
+          "pli": "Ettha rattā pamattā ca,",
+          "en": "Depraved and heedless,"
+        },
+        {
+          "scid": "thig13.5:11.2",
+          "pli": "saṃkiliṭṭhamanā narā;",
+          "en": "unenlightened folk, their hearts corrupt,"
+        },
+        {
+          "scid": "thig13.5:11.3",
+          "pli": "Aññamaññena byāruddhā,",
+          "en": "oppose each other,"
+        },
+        {
+          "scid": "thig13.5:11.4",
+          "pli": "puthu kubbanti medhagaṃ.",
+          "en": "creating disputes."
+        },
+        {
+          "scid": "thig13.5:12.1",
+          "pli": "Vadho bandho parikleso,",
+          "en": "Killing, caging, misery,"
+        },
+        {
+          "scid": "thig13.5:12.2",
+          "pli": "jāni sokapariddavo;",
+          "en": "loss, grief, and lamentation;"
+        },
+        {
+          "scid": "thig13.5:12.3",
+          "pli": "Kāmesu adhipannānaṃ,",
+          "en": "those sunk in sensual pleasures"
+        },
+        {
+          "scid": "thig13.5:12.4",
+          "pli": "dissate byasanaṃ bahuṃ.",
+          "en": "see many disastrous things."
+        },
+        {
+          "scid": "thig13.5:13.1",
+          "pli": "Taṃ maṃ ñātī amittāva,",
+          "en": "My family, why do you urge me on"
+        },
+        {
+          "scid": "thig13.5:13.2",
+          "pli": "kiṃ vo kāmesu yuñjatha;",
+          "en": "to pleasures, as if you were my enemies?"
+        },
+        {
+          "scid": "thig13.5:13.3",
+          "pli": "Jānātha maṃ pabbajitaṃ,",
+          "en": "You know I’ve gone forth,"
+        },
+        {
+          "scid": "thig13.5:13.4",
+          "pli": "kāmesu bhayadassiniṃ.",
+          "en": "seeing fear in sensual pleasures."
+        },
+        {
+          "scid": "thig13.5:14.1",
+          "pli": "Na hiraññasuvaṇṇena,",
+          "en": "It’s not due to gold, coined or uncoined,"
+        },
+        {
+          "scid": "thig13.5:14.2",
+          "pli": "parikkhīyanti āsavā;",
+          "en": "that defilements come to an end."
+        },
+        {
+          "scid": "thig13.5:14.3",
+          "pli": "Amittā vadhakā kāmā,",
+          "en": "Sensual pleasures are enemies and murderers,"
+        },
+        {
+          "scid": "thig13.5:14.4",
+          "pli": "sapattā sallabandhanā.",
+          "en": "hostile forces that bind you to thorns."
+        },
+        {
+          "scid": "thig13.5:15.1",
+          "pli": "Taṃ maṃ ñātī amittāva,",
+          "en": "My family, why do you urge me on"
+        },
+        {
+          "scid": "thig13.5:15.2",
+          "pli": "kiṃ vo kāmesu yuñjatha;",
+          "en": "to pleasures, as if you were my enemies?"
+        },
+        {
+          "scid": "thig13.5:15.3",
+          "pli": "Jānātha maṃ pabbajitaṃ,",
+          "en": "You know I’ve gone forth,"
+        },
+        {
+          "scid": "thig13.5:15.4",
+          "pli": "muṇḍaṃ saṅghāṭipārutaṃ.",
+          "en": "shaven, wrapped in my outer robe."
+        },
+        {
+          "scid": "thig13.5:16.1",
+          "pli": "Uttiṭṭhapiṇḍo uñcho ca,",
+          "en": "Leftovers as gleanings,"
+        },
+        {
+          "scid": "thig13.5:16.2",
+          "pli": "paṃsukūlañca cīvaraṃ;",
+          "en": "and cast-off rags as robes—"
+        },
+        {
+          "scid": "thig13.5:16.3",
+          "pli": "Etaṃ kho mama sāruppaṃ,",
+          "en": "that’s what’s fitting for me,"
+        },
+        {
+          "scid": "thig13.5:16.4",
+          "pli": "anagārūpanissayo.",
+          "en": "the essentials of the homeless life."
+        },
+        {
+          "scid": "thig13.5:17.1",
+          "pli": "Vantā mahesīhi kāmā,",
+          "en": "Great hermits expel sensual pleasures,"
+        },
+        {
+          "scid": "thig13.5:17.2",
+          "pli": "ye dibbā ye ca mānusā;",
+          "en": "both human and divine."
+        },
+        {
+          "scid": "thig13.5:17.3",
+          "pli": "Khemaṭṭhāne vimuttā te,",
+          "en": "Safe in their sanctuary, they are freed,"
+        },
+        {
+          "scid": "thig13.5:17.4",
+          "pli": "pattā te acalaṃ sukhaṃ.",
+          "en": "having found unshakable happiness."
+        },
+        {
+          "scid": "thig13.5:18.1",
+          "pli": "Māhaṃ kāmehi saṅgacchiṃ,",
+          "en": "May I not encounter sensual pleasures,"
+        },
+        {
+          "scid": "thig13.5:18.2",
+          "pli": "yesu tāṇaṃ na vijjati;",
+          "en": "for no shelter is found in them."
+        },
+        {
+          "scid": "thig13.5:18.3",
+          "pli": "Amittā vadhakā kāmā,",
+          "en": "Sensual pleasures are enemies and murderers,"
+        },
+        {
+          "scid": "thig13.5:18.4",
+          "pli": "aggikkhandhūpamā dukhā.",
+          "en": "as painful as a bonfire."
+        },
+        {
+          "scid": "thig13.5:19.1",
+          "pli": "Paripantho esa bhayo,",
+          "en": "Greed is an obstacle, a threat,"
+        },
+        {
+          "scid": "thig13.5:19.2",
+          "pli": "savighāto sakaṇṭako;",
+          "en": "full of anguish and thorns;"
+        },
+        {
+          "scid": "thig13.5:19.3",
+          "pli": "Gedho suvisamo <span class=\"var\" title=\"lepo (bj)\" id=\"note109\">ceso</span>,",
+          "en": "it is out of balance,"
+        },
+        {
+          "scid": "thig13.5:19.4",
+          "pli": "mahanto mohanāmukho.",
+          "en": "a great gateway to confusion."
+        },
+        {
+          "scid": "thig13.5:20.1",
+          "pli": "Upasaggo bhīmarūpo,",
+          "en": "Hazardous and terrifying,"
+        },
+        {
+          "scid": "thig13.5:20.2",
+          "pli": "kāmā sappasirūpamā;",
+          "en": "sensual pleasures are like a snake’s head,"
+        },
+        {
+          "scid": "thig13.5:20.3",
+          "pli": "Ye bālā abhinandanti,",
+          "en": "where fools delight,"
+        },
+        {
+          "scid": "thig13.5:20.4",
+          "pli": "andhabhūtā puthujjanā.",
+          "en": "ordinary folk trapped in darkness."
+        },
+        {
+          "scid": "thig13.5:21.1",
+          "pli": "Kāmapaṅkena sattā hi,",
+          "en": "Stuck in the mud of sensual pleasures,"
+        },
+        {
+          "scid": "thig13.5:21.2",
+          "pli": "bahū loke aviddasū;",
+          "en": "there are so many ignorant in the world."
+        },
+        {
+          "scid": "thig13.5:21.3",
+          "pli": "Pariyantaṃ na jānanti,",
+          "en": "They know nothing of the end"
+        },
+        {
+          "scid": "thig13.5:21.4",
+          "pli": "jātiyā maraṇassa ca.",
+          "en": "of rebirth and death."
+        },
+        {
+          "scid": "thig13.5:22.1",
+          "pli": "Duggatigamanaṃ maggaṃ,",
+          "en": "Because of sensual pleasures,"
+        },
+        {
+          "scid": "thig13.5:22.2",
+          "pli": "manussā kāmahetukaṃ;",
+          "en": "people jump right on to the path that goes to a bad place."
+        },
+        {
+          "scid": "thig13.5:22.3",
+          "pli": "Bahuṃ ve paṭipajjanti,",
+          "en": "So many walk the path"
+        },
+        {
+          "scid": "thig13.5:22.4",
+          "pli": "attano rogamāvahaṃ.",
+          "en": "that brings disease onto themselves."
+        },
+        {
+          "scid": "thig13.5:23.1",
+          "pli": "Evaṃ amittajananā,",
+          "en": "That’s how sensual pleasures create enemies;"
+        },
+        {
+          "scid": "thig13.5:23.2",
+          "pli": "tāpanā saṃkilesikā;",
+          "en": "they are so tormenting, so corrupting,"
+        },
+        {
+          "scid": "thig13.5:23.3",
+          "pli": "Lokāmisā bandhanīyā,",
+          "en": "trapping beings with the world’s material delights,"
+        },
+        {
+          "scid": "thig13.5:23.4",
+          "pli": "kāmā maraṇabandhanā.",
+          "en": "they are nothing less than the bonds of death."
+        },
+        {
+          "scid": "thig13.5:24.1",
+          "pli": "Ummādanā ullapanā,",
+          "en": "Maddening, enticing,"
+        },
+        {
+          "scid": "thig13.5:24.2",
+          "pli": "kāmā cittappamaddino;",
+          "en": "sensual pleasures derange the mind."
+        },
+        {
+          "scid": "thig13.5:24.3",
+          "pli": "Sattānaṃ saṃkilesāya,",
+          "en": "They’re a snare laid by Māra"
+        },
+        {
+          "scid": "thig13.5:24.4",
+          "pli": "<span class=\"var\" title=\"khipaṃ (bj)\" id=\"note110\">khippaṃ</span> mārena oḍḍitaṃ.",
+          "en": "for the corruption of beings."
+        },
+        {
+          "scid": "thig13.5:25.1",
+          "pli": "Anantādīnavā kāmā,",
+          "en": "Sensual pleasures are infinitely dangerous,"
+        },
+        {
+          "scid": "thig13.5:25.2",
+          "pli": "bahudukkhā mahāvisā;",
+          "en": "they’re full of suffering, a terrible poison;"
+        },
+        {
+          "scid": "thig13.5:25.3",
+          "pli": "Appassādā raṇakarā,",
+          "en": "offering little gratification, they’re makers of strife,"
+        },
+        {
+          "scid": "thig13.5:25.4",
+          "pli": "sukkapakkhavisosanā.",
+          "en": "withering bright qualities away."
+        },
+        {
+          "scid": "thig13.5:26.1",
+          "pli": "Sāhaṃ etādisaṃ katvā,",
+          "en": "Since I’ve created so much ruination"
+        },
+        {
+          "scid": "thig13.5:26.2",
+          "pli": "byasanaṃ kāmahetukaṃ;",
+          "en": "because of sensual pleasures,"
+        },
+        {
+          "scid": "thig13.5:26.3",
+          "pli": "Na taṃ paccāgamissāmi,",
+          "en": "I will not relapse to them again,"
+        },
+        {
+          "scid": "thig13.5:26.4",
+          "pli": "nibbānābhiratā sadā.",
+          "en": "but will always delight in quenching."
+        },
+        {
+          "scid": "thig13.5:27.1",
+          "pli": "Raṇaṃ <span class=\"var\" title=\"taritvā (bj)\" id=\"note111\">karitvā</span> kāmānaṃ,",
+          "en": "Fighting against sensual pleasures,"
+        },
+        {
+          "scid": "thig13.5:27.2",
+          "pli": "sītibhāvābhikaṅkhinī;",
+          "en": "longing for that cool state,"
+        },
+        {
+          "scid": "thig13.5:27.3",
+          "pli": "Appamattā vihassāmi,",
+          "en": "I shall meditate diligently"
+        },
+        {
+          "scid": "thig13.5:27.4",
+          "pli": "sabbasaṃyojanakkhaye.",
+          "en": "for the ending of all fetters."
+        },
+        {
+          "scid": "thig13.5:28.1",
+          "pli": "Asokaṃ virajaṃ khemaṃ,",
+          "en": "Sorrowless, stainless, secure:"
+        },
+        {
+          "scid": "thig13.5:28.2",
+          "pli": "ariyaṭṭhaṅgikaṃ ujuṃ;",
+          "en": "I’ll follow that path,"
+        },
+        {
+          "scid": "thig13.5:28.3",
+          "pli": "Taṃ maggaṃ anugacchāmi,",
+          "en": "the straight noble eightfold way"
+        },
+        {
+          "scid": "thig13.5:28.4",
+          "pli": "yena tiṇṇā mahesino”.",
+          "en": "by which the hermits have crossed over.”"
+        },
+        {
+          "scid": "thig13.5:29.1",
+          "pli": "“Imaṃ passatha dhammaṭṭhaṃ,",
+          "en": "“Look at this: Subhā the smith’s daughter,"
+        },
+        {
+          "scid": "thig13.5:29.2",
+          "pli": "subhaṃ kammāradhītaraṃ;",
+          "en": "standing firm in the teaching."
+        },
+        {
+          "scid": "thig13.5:29.3",
+          "pli": "Anejaṃ upasampajja,",
+          "en": "She has entered the imperturbable state,"
+        },
+        {
+          "scid": "thig13.5:29.4",
+          "pli": "rukkhamūlamhi jhāyati.",
+          "en": "meditating at the root of a tree."
+        },
+        {
+          "scid": "thig13.5:30.1",
+          "pli": "Ajjaṭṭhamī pabbajitā,",
+          "en": "It’s just eight days since she went forth,"
+        },
+        {
+          "scid": "thig13.5:30.2",
+          "pli": "saddhā saddhammasobhanā;",
+          "en": "full of faith in the beautiful teaching."
+        },
+        {
+          "scid": "thig13.5:30.3",
+          "pli": "Vinītuppalavaṇṇāya,",
+          "en": "Guided by Uppalavaṇṇā,"
+        },
+        {
+          "scid": "thig13.5:30.4",
+          "pli": "tevijjā maccuhāyinī.",
+          "en": "she is master of the three knowledges, destroyer of death."
+        },
+        {
+          "scid": "thig13.5:31.1",
+          "pli": "Sāyaṃ bhujissā anaṇā,",
+          "en": "This one is freed from slavery and debt,"
+        },
+        {
+          "scid": "thig13.5:31.2",
+          "pli": "bhikkhunī bhāvitindriyā;",
+          "en": "a nun with faculties developed."
+        },
+        {
+          "scid": "thig13.5:31.3",
+          "pli": "Sabbayogavisaṃyuttā,",
+          "en": "Detached from all attachments,"
+        },
+        {
+          "scid": "thig13.5:31.4",
+          "pli": "katakiccā anāsavā”.",
+          "en": "she has completed the task and is free of defilements.”"
+        },
+        {
+          "scid": "thig13.5:32.1",
+          "pli": "Taṃ sakko devasaṅghena,",
+          "en": "Thus did Sakka, lord of all creatures,"
+        },
+        {
+          "scid": "thig13.5:32.2",
+          "pli": "upasaṅkamma iddhiyā;",
+          "en": "along with a host of gods,"
+        },
+        {
+          "scid": "thig13.5:32.3",
+          "pli": "Namassati bhūtapati,",
+          "en": "having come by their psychic powers,"
+        },
+        {
+          "scid": "thig13.5:32.4",
+          "pli": "subhaṃ kammāradhītaranti.",
+          "en": "honor Subhā, the smith’s daughter."
+        },
+        {
+          "scid": "thig13.5:33.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig13.5:33.2",
+          "pli": "Subhā kammāradhītā therī ….",
+          "en": ""
+        },
+        {
+          "scid": "thig13.5:34.1",
+          "pli": "Vīsatinipāto niṭṭhito.",
+          "en": "The Book of the Twenties is finished."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig13.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 13.5",
+    "volpages": "pts157",
+    "uid": "thig13.5",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Subhākammāradhītutherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Subhā, the Smith’s Daughter",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig13.5_sujato",
+        "segmented": true,
+        "title": "Subhā, the Smith’s Daughter",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig13.5_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Subhā (The Goldsmith’s Daughter)"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig13.5_thanissaro",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2005",
+        "segmented": false,
+        "volpage": null,
+        "title": "Subha: The Goldsmith's Daughter"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

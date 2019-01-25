@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.82",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.82",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Kassapa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sīha",
+      "uid": "thag1.83"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Samitigutta",
+      "uid": "thag1.81"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.82:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.82:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.82:3.1",
+          "pli": "Navamavagga",
+          "en": "Chapter Nine"
+        },
+        {
+          "scid": "thag1.82:4.1",
+          "pli": "1.82. Kassapattheragāthā",
+          "en": "1.82. Kassapa"
+        },
+        {
+          "scid": "thag1.82:5.1",
+          "pli": "“Yena yena subhikkhāni,",
+          "en": "Go, child, to any place"
+        },
+        {
+          "scid": "thag1.82:5.2",
+          "pli": "sivāni abhayāni ca;",
+          "en": "where there’s plenty of food,"
+        },
+        {
+          "scid": "thag1.82:5.3",
+          "pli": "Tena puttaka gacchassu,",
+          "en": "where it’s safe and free of peril—"
+        },
+        {
+          "scid": "thag1.82:5.4",
+          "pli": "mā <span class=\"var\" title=\"sokā pahato (s2, s3, pts1)\" id=\"note60\">sokāpahato</span> bhavā”ti.",
+          "en": "may you not be overcome by sorrow!"
+        },
+        {
+          "scid": "thag1.82:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.82:6.2",
+          "pli": "Kassapo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.82/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.82",
+    "volpages": "pts12",
+    "uid": "thag1.82",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kassapattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kassapa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.82_sujato",
+        "segmented": true,
+        "title": "Kassapa",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.82_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Kassapa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

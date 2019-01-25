@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag1.90",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.90",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sāmidatta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Paripuṇṇaka",
+      "uid": "thag1.91"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Devasabha (1st)",
+      "uid": "thag1.89"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.90:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.90:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.90:3.1",
+          "pli": "Navamavagga",
+          "en": "Chapter Nine"
+        },
+        {
+          "scid": "thag1.90:4.1",
+          "pli": "1.90. Sāmidattattheragāthā",
+          "en": "1.90. Sāmidatta"
+        },
+        {
+          "scid": "thag1.90:5.1",
+          "pli": "“Pañcakkhandhā pariññātā,",
+          "en": "The five aggregates are fully understood;"
+        },
+        {
+          "scid": "thag1.90:5.2",
+          "pli": "tiṭṭhanti chinnamūlakā;",
+          "en": "they remain, but their root is cut."
+        },
+        {
+          "scid": "thag1.90:5.3",
+          "pli": "Vikkhīṇo jātisaṃsāro,",
+          "en": "Transmigration is finished,"
+        },
+        {
+          "scid": "thag1.90:5.4",
+          "pli": "natthi dāni punabbhavo”ti.",
+          "en": "now there are no more future lives."
+        },
+        {
+          "scid": "thag1.90:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:6.2",
+          "pli": "Sāmidatto thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:6.3",
+          "pli": "Vaggo navamo.",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:7.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:8.1",
+          "pli": "Thero samitigutto ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:8.2",
+          "pli": "kassapo sīhasavhayo;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:8.3",
+          "pli": "Nīto sunāgo nāgito,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:8.4",
+          "pli": "paviṭṭho ajjuno isi;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:8.5",
+          "pli": "Devasabho ca yo thero,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.90:8.6",
+          "pli": "sāmidatto mahabbaloti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.90/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.90",
+    "volpages": "pts13",
+    "uid": "thag1.90",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sāmidattattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sāmidatta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.90_sujato",
+        "segmented": true,
+        "title": "Sāmidatta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.90_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sāmidatta"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

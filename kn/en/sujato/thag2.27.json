@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.27",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.27",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Nandaka (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bharata",
+      "uid": "thag2.28"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Puṇṇamāsa (2nd)",
+      "uid": "thag2.26"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.27:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.27:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.27:3.1",
+          "pli": "Tatiyavagga",
+          "en": "Chapter Three"
+        },
+        {
+          "scid": "thag2.27:4.1",
+          "pli": "2.27. Nandakattheragāthā",
+          "en": "2.27. Nandaka (1st)"
+        },
+        {
+          "scid": "thag2.27:5.1",
+          "pli": "“Yathāpi bhaddo ājañño,",
+          "en": "Though a fine thoroughbred may stumble,"
+        },
+        {
+          "scid": "thag2.27:5.2",
+          "pli": "khalitvā patitiṭṭhati;",
+          "en": "it soon stands firm again."
+        },
+        {
+          "scid": "thag2.27:5.3",
+          "pli": "Bhiyyo laddhāna saṃvegaṃ,",
+          "en": "It gains even more urgency,"
+        },
+        {
+          "scid": "thag2.27:5.4",
+          "pli": "adīno vahate dhuraṃ.",
+          "en": "and draws its load undeterred."
+        },
+        {
+          "scid": "thag2.27:6.1",
+          "pli": "Evaṃ dassanasampannaṃ,",
+          "en": "Even so is one accomplished in vision,"
+        },
+        {
+          "scid": "thag2.27:6.2",
+          "pli": "sammāsambuddhasāvakaṃ;",
+          "en": "a disciple of the Buddha."
+        },
+        {
+          "scid": "thag2.27:6.3",
+          "pli": "Ājānīyaṃ maṃ dhāretha,",
+          "en": "Remember me as a thoroughbred,"
+        },
+        {
+          "scid": "thag2.27:6.4",
+          "pli": "puttaṃ buddhassa orasan”ti.",
+          "en": "the Buddha’s rightful son."
+        },
+        {
+          "scid": "thag2.27:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.27:7.2",
+          "pli": "Nandako thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.27/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.27",
+    "volpages": "pts23",
+    "uid": "thag2.27",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nandakattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Nandaka (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.27_sujato",
+        "segmented": true,
+        "title": "Nandaka (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.27_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Nandaka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

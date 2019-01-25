@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.13",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.13",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Abhibhūta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gotama (2nd)",
+      "uid": "thag3.14"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttarapāla",
+      "uid": "thag3.12"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.13:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.13:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.13:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.13:4.1",
+          "pli": "3.13. Abhibhūtattheragāthā",
+          "en": "3.13. Abhibhūta"
+        },
+        {
+          "scid": "thag3.13:5.1",
+          "pli": "“Suṇātha ñātayo sabbe,",
+          "en": "Listen up, all my relatives,"
+        },
+        {
+          "scid": "thag3.13:5.2",
+          "pli": "yāvantettha samāgatā;",
+          "en": "those who have gathered here:"
+        },
+        {
+          "scid": "thag3.13:5.3",
+          "pli": "Dhammaṃ vo desayissāmi,",
+          "en": "I’ll teach you Dhamma!"
+        },
+        {
+          "scid": "thag3.13:5.4",
+          "pli": "dukkhā jāti punappunaṃ.",
+          "en": "Painful is birth again and again."
+        },
+        {
+          "scid": "thag3.13:6.1",
+          "pli": "<span class=\"cross\" title=\"^sn6.14#1 [14. Aruṇavatīsutta] | ^ne4#185 [Vibhaṅga/ Āvaṭṭahāravibhaṅga] | ^pe3#56 [Suttādhiṭṭhānatatiyabhūmi] | ^mi6.2.3#1 [Paṭipadādosapañha] | ^kv1.2#181 [Dutiyavagga/ Vacībhedakathā]\" id=\"note163\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc256\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts256\"></a><span class=\"var\" title=\"ārabhatha (bj, s2, s3, pts1-2) | ārabbhatha (mr)\" id=\"note164\">Ārambhatha</span> nikkamatha,",
+          "en": "Rouse yourselves, try harder!"
+        },
+        {
+          "scid": "thag3.13:6.2",
+          "pli": "Yuñjatha buddhasāsane;",
+          "en": "Devote yourselves to the instructions of the Buddha!"
+        },
+        {
+          "scid": "thag3.13:6.3",
+          "pli": "Dhunātha maccuno senaṃ,",
+          "en": "Crush the army of death,"
+        },
+        {
+          "scid": "thag3.13:6.4",
+          "pli": "Naḷāgāraṃva kuñjaro.",
+          "en": "as an elephant a hut of reeds."
+        },
+        {
+          "scid": "thag3.13:7.1",
+          "pli": "Yo imasmiṃ dhammavinaye,",
+          "en": "Anyone who meditates diligently"
+        },
+        {
+          "scid": "thag3.13:7.2",
+          "pli": "appamatto <span class=\"var\" title=\"vihessati (bj, s2, s3, pts1-2)\" id=\"note165\">vihassati</span>;",
+          "en": "in this teaching and training,"
+        },
+        {
+          "scid": "thag3.13:7.3",
+          "pli": "Pahāya jātisaṃsāraṃ,",
+          "en": "giving up transmigration,"
+        },
+        {
+          "scid": "thag3.13:7.4",
+          "pli": "dukkhassantaṃ karissatī”ti.",
+          "en": "will make an end to suffering."
+        },
+        {
+          "scid": "thag3.13:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.13:8.2",
+          "pli": "Abhibhūto thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.13/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.13",
+    "volpages": "pts31",
+    "uid": "thag3.13",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Abhibhūtattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Abhibhūta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.13_sujato",
+        "segmented": true,
+        "title": "Abhibhūta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.13_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Abhibhūta"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 13
+  }
+}

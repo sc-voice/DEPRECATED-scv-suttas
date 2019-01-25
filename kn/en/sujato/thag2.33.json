@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.33",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.33",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Upavāṇa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Isidinna",
+      "uid": "thag2.34"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sivaka",
+      "uid": "thag2.32"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.33:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.33:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.33:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag2.33:4.1",
+          "pli": "<span class=\"var\" title=\"upavānattheragāthā (bj)\" id=\"note118\">2.33 Upavāṇattheragāthā</span>",
+          "en": "2.33. Upavāṇa"
+        },
+        {
+          "scid": "thag2.33:5.1",
+          "pli": "“Arahaṃ sugato loke,",
+          "en": "The perfected one, the Holy One in the world,"
+        },
+        {
+          "scid": "thag2.33:5.2",
+          "pli": "<span class=\"var\" title=\"... bādhito (bj, s2, s3, pts1-2, mr)\" id=\"note119\">vātehābādhiko</span> muni;",
+          "en": "the sage is afflicted by winds."
+        },
+        {
+          "scid": "thag2.33:5.3",
+          "pli": "Sace uṇhodakaṃ atthi,",
+          "en": "If there’s hot water,"
+        },
+        {
+          "scid": "thag2.33:5.4",
+          "pli": "munino dehi brāhmaṇa.",
+          "en": "give it to the sage, brahmin."
+        },
+        {
+          "scid": "thag2.33:6.1",
+          "pli": "Pūjito <span class=\"var\" title=\"pūjanīyānaṃ (bj)\" id=\"note120\">pūjaneyyānaṃ</span>,",
+          "en": "I wish to bring it to the one"
+        },
+        {
+          "scid": "thag2.33:6.2",
+          "pli": "sakkareyyāna sakkato;",
+          "en": "who is esteemed by the estimable,"
+        },
+        {
+          "scid": "thag2.33:6.3",
+          "pli": "<span class=\"var\" title=\"apacitopacanīyānaṃ (bj) | apacito apacineyyānaṃ (s2, s3, pts1) | apacito apaceyyānaṃ (pts2)\" id=\"note121\">Apacitopaceyyānaṃ</span>,",
+          "en": "honored by the honorable,"
+        },
+        {
+          "scid": "thag2.33:6.4",
+          "pli": "tassa icchāmi hātave”ti.",
+          "en": "and venerated by the venerable."
+        },
+        {
+          "scid": "thag2.33:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.33:7.2",
+          "pli": "<span class=\"var\" title=\"upavāno (bj, pts1-2)\" id=\"note122\">Upavāṇo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.33/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.33",
+    "volpages": "pts24",
+    "uid": "thag2.33",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Upavāṇattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Upavāṇa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.33_sujato",
+        "segmented": true,
+        "title": "Upavāṇa",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.33_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Upavāṇa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

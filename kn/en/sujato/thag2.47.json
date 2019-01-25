@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.47",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.47",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Anūpama",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vajjita",
+      "uid": "thag2.48"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cūḷaka",
+      "uid": "thag2.46"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.47:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.47:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.47:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag2.47:4.1",
+          "pli": "2.47. Anūpamattheragāthā",
+          "en": "2.47. Anūpama"
+        },
+        {
+          "scid": "thag2.47:5.1",
+          "pli": "“Nandamānāgataṃ cittaṃ,",
+          "en": "The conceited mind, addicted to pleasure,"
+        },
+        {
+          "scid": "thag2.47:5.2",
+          "pli": "sūlamāropamānakaṃ;",
+          "en": "impales itself on its own stake."
+        },
+        {
+          "scid": "thag2.47:5.3",
+          "pli": "Tena teneva vajasi,",
+          "en": "It always goes where"
+        },
+        {
+          "scid": "thag2.47:5.4",
+          "pli": "yena sūlaṃ kaliṅgaraṃ.",
+          "en": "there’s a stake, a chopping block."
+        },
+        {
+          "scid": "thag2.47:6.1",
+          "pli": "Tāhaṃ <span class=\"var\" title=\"citta kaliṃ (s2, s3, pts1)\" id=\"note145\">cittakaliṃ</span> brūmi,",
+          "en": "I declare you the demon mind!"
+        },
+        {
+          "scid": "thag2.47:6.2",
+          "pli": "taṃ brūmi cittadubbhakaṃ;",
+          "en": "I declare you the insidious mind!"
+        },
+        {
+          "scid": "thag2.47:6.3",
+          "pli": "Satthā te dullabho laddho,",
+          "en": "You’ve found the teacher so hard to find—"
+        },
+        {
+          "scid": "thag2.47:6.4",
+          "pli": "mānatthe maṃ niyojayī”ti.",
+          "en": "don’t lead me away from the goal."
+        },
+        {
+          "scid": "thag2.47:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.47:7.2",
+          "pli": "Anūpamo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.47/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.47",
+    "volpages": "pts27",
+    "uid": "thag2.47",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Anūpamattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Anūpama",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.47_sujato",
+        "segmented": true,
+        "title": "Anūpama",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.47_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Anūpama"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

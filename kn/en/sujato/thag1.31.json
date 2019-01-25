@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.31",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.31",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Gahvaratīriya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Suppiya",
+      "uid": "thag1.32"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttiya (1st)",
+      "uid": "thag1.30"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.31:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.31:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.31:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag1.31:4.1",
+          "pli": "<span class=\"var\" title=\"gabbharatīriyattheragāthā (bj)\" id=\"note30\">1.31 Gahvaratīriyattheragāthā</span>",
+          "en": "1.31. Gahvaratīriya"
+        },
+        {
+          "scid": "thag1.31:5.1",
+          "pli": "“Phuṭṭho ḍaṃsehi makasehi,",
+          "en": "Pestered by flies and mosquitoes"
+        },
+        {
+          "scid": "thag1.31:5.2",
+          "pli": "araññasmiṃ brahāvane;",
+          "en": "in the wilds, the formidable forest,"
+        },
+        {
+          "scid": "thag1.31:5.3",
+          "pli": "Nāgo saṃgāmasīseva,",
+          "en": "one should mindfully endure,"
+        },
+        {
+          "scid": "thag1.31:5.4",
+          "pli": "sato tatrādhivāsaye”ti.",
+          "en": "like an elephant at the head of the battle."
+        },
+        {
+          "scid": "thag1.31:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.31:6.2",
+          "pli": "<span class=\"var\" title=\"gabbharatīriyo (bj) | gahuratīriyo (s2, s3)\" id=\"note31\">Gahvaratīriyo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.31/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.31",
+    "volpages": "pts6",
+    "uid": "thag1.31",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Gahvaratīriyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Gahvaratīriya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.31_sujato",
+        "segmented": true,
+        "title": "Gahvaratīriya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.31_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Gahvaratīriya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

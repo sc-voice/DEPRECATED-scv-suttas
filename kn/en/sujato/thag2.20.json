@@ -1,0 +1,200 @@
+{
+  "sutta_uid": "thag2.20",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.20",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sirima",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttara (2nd)",
+      "uid": "thag2.21"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nanda",
+      "uid": "thag2.19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.20:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.20:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.20:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag2.20:4.1",
+          "pli": "2.20. Sirimattheragāthā",
+          "en": "2.20. Sirima"
+        },
+        {
+          "scid": "thag2.20:5.1",
+          "pli": "“Pare ca naṃ pasaṃsanti,",
+          "en": "If others praise one"
+        },
+        {
+          "scid": "thag2.20:5.2",
+          "pli": "attā ce asamāhito;",
+          "en": "who has no immersion,"
+        },
+        {
+          "scid": "thag2.20:5.3",
+          "pli": "Moghaṃ pare pasaṃsanti,",
+          "en": "they praise in vain,"
+        },
+        {
+          "scid": "thag2.20:5.4",
+          "pli": "attā hi asamāhito.",
+          "en": "as one has no immersion."
+        },
+        {
+          "scid": "thag2.20:6.1",
+          "pli": "Pare ca naṃ garahanti,",
+          "en": "If others rebuke one"
+        },
+        {
+          "scid": "thag2.20:6.2",
+          "pli": "attā ce susamāhito;",
+          "en": "who does have immersion,"
+        },
+        {
+          "scid": "thag2.20:6.3",
+          "pli": "Moghaṃ pare garahanti,",
+          "en": "they rebuke in vain,"
+        },
+        {
+          "scid": "thag2.20:6.4",
+          "pli": "attā hi susamāhito”ti.",
+          "en": "as one does have immersion."
+        },
+        {
+          "scid": "thag2.20:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:7.2",
+          "pli": "Sirimā thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:7.3",
+          "pli": "Vaggo dutiyo.",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:8.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:9.1",
+          "pli": "Cundo ca jotidāso ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:9.2",
+          "pli": "thero heraññakāni ca;",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:9.3",
+          "pli": "Somamitto sabbamitto,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:9.4",
+          "pli": "kāḷo tisso ca <span class=\"var\" title=\"kimbilo (bj, s2, s3, pts1-2)\" id=\"note106\">kimilo</span>;",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:9.5",
+          "pli": "Nando ca sirimā ceva,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.20:9.6",
+          "pli": "dasa therā mahiddhikāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.20/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.20",
+    "volpages": "pts22",
+    "uid": "thag2.20",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sirimattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sirima",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.20_sujato",
+        "segmented": true,
+        "title": "Sirima",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.20_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sirimā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

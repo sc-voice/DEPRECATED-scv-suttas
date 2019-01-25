@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "thag1.92",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.92",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Vijaya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Eraka",
+      "uid": "thag1.93"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Paripuṇṇaka",
+      "uid": "thag1.91"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.92:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.92:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.92:3.1",
+          "pli": "Dasamavagga",
+          "en": "Chapter Ten"
+        },
+        {
+          "scid": "thag1.92:4.1",
+          "pli": "1.92. Vijayattheragāthā",
+          "en": "1.92. Vijaya"
+        },
+        {
+          "scid": "thag1.92:5.1",
+          "pli": "“Yassāsavā parikkhīṇā,",
+          "en": "One whose defilements have ended;"
+        },
+        {
+          "scid": "thag1.92:5.2",
+          "pli": "āhāre ca anissito;",
+          "en": "who’s not attached to food;"
+        },
+        {
+          "scid": "thag1.92:5.3",
+          "pli": "Suññato animitto ca,",
+          "en": "whose resort is the liberation"
+        },
+        {
+          "scid": "thag1.92:5.4",
+          "pli": "vimokkho yassa gocaro;",
+          "en": "of the signless and the empty:"
+        },
+        {
+          "scid": "thag1.92:5.5",
+          "pli": "Ākāseva sakuntānaṃ,",
+          "en": "their track is hard to trace,"
+        },
+        {
+          "scid": "thag1.92:5.6",
+          "pli": "padaṃ tassa durannayan”ti.",
+          "en": "like birds in the sky."
+        },
+        {
+          "scid": "thag1.92:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.92:6.2",
+          "pli": "Vijayo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.92/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.92",
+    "volpages": "pts14",
+    "uid": "thag1.92",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vijayattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vijaya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.92_sujato",
+        "segmented": true,
+        "title": "Vijaya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.92_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Vijaya"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 2
+  }
+}

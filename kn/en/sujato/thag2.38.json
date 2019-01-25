@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.38",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.38",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Nisabha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Usabha (2nd)",
+      "uid": "thag2.39"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Soṇapoṭiriya",
+      "uid": "thag2.37"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.38:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.38:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.38:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag2.38:4.1",
+          "pli": "2.38. Nisabhattheragāthā",
+          "en": "2.38. Nisabha"
+        },
+        {
+          "scid": "thag2.38:5.1",
+          "pli": "“Pañca kāmaguṇe hitvā,",
+          "en": "One who has left the home life out of faith,"
+        },
+        {
+          "scid": "thag2.38:5.2",
+          "pli": "Piyarūpe manorame;",
+          "en": "giving up the five kinds of sensual stimulation,"
+        },
+        {
+          "scid": "thag2.38:5.3",
+          "pli": "Saddhāya <span class=\"var\" title=\" abhinikkhamma (sī1, pā1)\" id=\"note129\">gharā nikkhamma</span>,",
+          "en": "so pleasing and delightful—"
+        },
+        {
+          "scid": "thag2.38:5.4",
+          "pli": "Dukkhassantakaro bhave.",
+          "en": "let them make an end to suffering!"
+        },
+        {
+          "scid": "thag2.38:6.1",
+          "pli": "<span class=\"cross\" title=\"^thag11.1#11 [Saṅkiccattheragāthā] | ^thag14.1#11 [Paṭhamavagga/ Khadiravaniyarevatattheragāthā] | ^mi3.2.4#1 [Paṭisandahanapuggalavediyanapañha]\" id=\"note131\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc196\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts196\"></a>Nābhinandāmi maraṇaṃ,",
+          "en": "I don’t long for death;"
+        },
+        {
+          "scid": "thag2.38:6.2",
+          "pli": "nābhinandāmi jīvitaṃ;",
+          "en": "I don’t long for life;"
+        },
+        {
+          "scid": "thag2.38:6.3",
+          "pli": "Kālañca paṭikaṅkhāmi,",
+          "en": "I await my time,"
+        },
+        {
+          "scid": "thag2.38:6.4",
+          "pli": "sampajāno patissato”ti.",
+          "en": "aware and mindful."
+        },
+        {
+          "scid": "thag2.38:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.38:7.2",
+          "pli": "Nisabho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.38/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.38",
+    "volpages": "pts25",
+    "uid": "thag2.38",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nisabhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Nisabha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.38_sujato",
+        "segmented": true,
+        "title": "Nisabha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.38_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Nisabha"
+      }
+    ],
+    "parallel_count": 3,
+    "biblio": null,
+    "num": 8
+  }
+}

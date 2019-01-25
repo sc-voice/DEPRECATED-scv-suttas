@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.13",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.13",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Vanavaccha (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Novice Sivaka",
+      "uid": "thag1.14"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahāvaccha",
+      "uid": "thag1.12"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.13:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.13:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.13:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag1.13:4.1",
+          "pli": "1.13. Vanavacchattheragāthā",
+          "en": "1.13. Vanavaccha (1st)"
+        },
+        {
+          "scid": "thag1.13:5.1",
+          "pli": "“Nīlabbhavaṇṇā rucirā,",
+          "en": "Glistening, they look like blue storm clouds,"
+        },
+        {
+          "scid": "thag1.13:5.2",
+          "pli": "sītavārī sucindharā;",
+          "en": "with waters cool and streams so clear,"
+        },
+        {
+          "scid": "thag1.13:5.3",
+          "pli": "Indagopakasañchannā,",
+          "en": "and covered all in ladybugs:"
+        },
+        {
+          "scid": "thag1.13:5.4",
+          "pli": "te selā ramayanti man”ti.",
+          "en": "these rocky crags delight me!"
+        },
+        {
+          "scid": "thag1.13:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.13:6.2",
+          "pli": "Vanavaccho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.13/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.13",
+    "volpages": "pts3",
+    "uid": "thag1.13",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vanavacchattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vanavaccha (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.13_sujato",
+        "segmented": true,
+        "title": "Vanavaccha (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.13_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Vanavaccha"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

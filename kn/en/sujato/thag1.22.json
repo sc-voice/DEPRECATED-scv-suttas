@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.22",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.22",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Cittaka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gosāla",
+      "uid": "thag1.23"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nigrodha",
+      "uid": "thag1.21"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.22:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.22:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.22:3.1",
+          "pli": "Tatiyavagga",
+          "en": "Chapter Three"
+        },
+        {
+          "scid": "thag1.22:4.1",
+          "pli": "1.22. Cittakattheragāthā",
+          "en": "1.22. Cittaka"
+        },
+        {
+          "scid": "thag1.22:5.1",
+          "pli": "“Nīlā sugīvā sikhino,",
+          "en": "Crested peacocks with beautiful blue necks"
+        },
+        {
+          "scid": "thag1.22:5.2",
+          "pli": "Morā <span class=\"var\" title=\"kāraṃviyaṃ (bj, pts1-2) | kāraviyaṃ (s2, s3)\" id=\"note24\">kārambhiyaṃ</span> abhinadanti;",
+          "en": "cry out in Karaṃvī."
+        },
+        {
+          "scid": "thag1.22:5.3",
+          "pli": "Te <span class=\"var\" title=\"sītavātakadditakalitā (bj) | sītavātakalitā (s2, s3, pts1-2)\" id=\"note25\">sītavātakīḷitā</span>,",
+          "en": "Stirred by a cool breeze,"
+        },
+        {
+          "scid": "thag1.22:5.4",
+          "pli": "Suttaṃ <span class=\"var\" title=\"jhānaṃ (s2, s3) | jhāyiṃ (?)\" id=\"note26\">jhāyaṃ</span> nibodhentī”ti.",
+          "en": "they wake the sleeper to practice absorption."
+        },
+        {
+          "scid": "thag1.22:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.22:6.2",
+          "pli": "Cittako thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.22/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.22",
+    "volpages": "pts4",
+    "uid": "thag1.22",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Cittakattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Cittaka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.22_sujato",
+        "segmented": true,
+        "title": "Cittaka",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.22_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Cittaka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

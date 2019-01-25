@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.72",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.72",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Ātuma",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Māṇava",
+      "uid": "thag1.73"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vacchapāla",
+      "uid": "thag1.71"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.72:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.72:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.72:3.1",
+          "pli": "Aṭṭhamavagga",
+          "en": "Chapter Eight"
+        },
+        {
+          "scid": "thag1.72:4.1",
+          "pli": "1.72. Ātumattheragāthā",
+          "en": "1.72. Ātuma"
+        },
+        {
+          "scid": "thag1.72:5.1",
+          "pli": "“Yathā kaḷīro susu vaḍḍhitaggo,",
+          "en": "A young bamboo is hard to extract"
+        },
+        {
+          "scid": "thag1.72:5.2",
+          "pli": "<span class=\"var\" title=\"dunnikkhaso (s2, s3) | dunnikkamo (pts2)\" id=\"note57\">Dunnikkhamo</span> hoti pasākhajāto;",
+          "en": "when the point is grown and become all woody."
+        },
+        {
+          "scid": "thag1.72:5.3",
+          "pli": "Evaṃ ahaṃ bhariyāyānitāya,",
+          "en": "That’s how I feel with the wife who was arranged for me."
+        },
+        {
+          "scid": "thag1.72:5.4",
+          "pli": "Anumaññaṃ maṃ pabbajitomhi dānī”ti.",
+          "en": "Give me permission—now I’ve gone forth."
+        },
+        {
+          "scid": "thag1.72:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.72:6.2",
+          "pli": "Ātumo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.72/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.72",
+    "volpages": "pts11",
+    "uid": "thag1.72",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ātumattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ātuma",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.72_sujato",
+        "segmented": true,
+        "title": "Ātuma",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.72_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Ātuma"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

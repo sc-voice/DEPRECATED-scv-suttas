@@ -1,0 +1,170 @@
+{
+  "sutta_uid": "thag2.32",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.32",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sivaka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Upavāṇa",
+      "uid": "thag2.33"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Migasira",
+      "uid": "thag2.31"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.32:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.32:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.32:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag2.32:4.1",
+          "pli": "<span class=\"var\" title=\"sīvakattheragāthā (bj)\" id=\"note114\">2.32 Sivakattheragāthā</span>",
+          "en": "2.32. Sivaka"
+        },
+        {
+          "scid": "thag2.32:5.1",
+          "pli": "“Aniccāni gahakāni,",
+          "en": "Houses are impermanent—"
+        },
+        {
+          "scid": "thag2.32:5.2",
+          "pli": "tattha tattha punappunaṃ;",
+          "en": "on and on, life after life."
+        },
+        {
+          "scid": "thag2.32:5.3",
+          "pli": "Gahakāraṃ gavesanto,",
+          "en": "I’ve been searching for the house-builder—"
+        },
+        {
+          "scid": "thag2.32:5.4",
+          "pli": "dukkhā jāti punappunaṃ.",
+          "en": "painful is birth again and again."
+        },
+        {
+          "scid": "thag2.32:6.1",
+          "pli": "Gahakāraka diṭṭhosi,",
+          "en": "I’ve seen you, house-builder!"
+        },
+        {
+          "scid": "thag2.32:6.2",
+          "pli": "puna gehaṃ na kāhasi;",
+          "en": "You won’t build a house again."
+        },
+        {
+          "scid": "thag2.32:6.3",
+          "pli": "Sabbā te phāsukā bhaggā,",
+          "en": "All your rafters are broken,"
+        },
+        {
+          "scid": "thag2.32:6.4",
+          "pli": "<span class=\"var\" title=\"dhuṇirā (s2) | thūṇirā (s3, pts1-2, mr)\" id=\"note115\">thūṇikā</span> ca <span class=\"var\" title=\"padālitā (si, s2, s3)\" id=\"note116\">vidālitā</span>;",
+          "en": "your ridgepole is shattered."
+        },
+        {
+          "scid": "thag2.32:6.5",
+          "pli": "Vimariyādikataṃ cittaṃ,",
+          "en": "My mind is released from limits:"
+        },
+        {
+          "scid": "thag2.32:6.6",
+          "pli": "idheva vidhamissatī”ti.",
+          "en": "in this very life it will dissipate."
+        },
+        {
+          "scid": "thag2.32:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.32:7.2",
+          "pli": "<span class=\"var\" title=\"sīvako (bj)\" id=\"note117\">Sivako</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.32/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.32",
+    "volpages": "pts24",
+    "uid": "thag2.32",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sivakattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sivaka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.32_sujato",
+        "segmented": true,
+        "title": "Sivaka",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.32_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sivaka"
+      }
+    ],
+    "parallel_count": 13,
+    "biblio": null,
+    "num": 2
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "sutta_uid": "thag9.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag9.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Bhūta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kāḷudāyin",
+      "uid": "thag10.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahāpanthaka",
+      "uid": "thag8.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag9.1:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag9.1:2.1",
+          "pli": "Navakanipāta",
+          "en": "The Book of the Nines"
+        },
+        {
+          "scid": "thag9.1:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag9.1:4.1",
+          "pli": "9.1. Bhūtattheragāthā",
+          "en": "9.1. Bhūta"
+        },
+        {
+          "scid": "thag9.1:5.1",
+          "pli": "“Yadā dukkhaṃ jarāmaraṇanti paṇḍito,",
+          "en": "“Old age and death are suffering;"
+        },
+        {
+          "scid": "thag9.1:5.2",
+          "pli": "Aviddasū yattha sitā puthujjanā;",
+          "en": "yet an ignorant ordinary person is bound to them.”"
+        },
+        {
+          "scid": "thag9.1:5.3",
+          "pli": "Dukkhaṃ pariññāya satova jhāyati,",
+          "en": "When an astute person fully understands this, and they are mindful, practicing absorption:"
+        },
+        {
+          "scid": "thag9.1:5.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindati.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:6.1",
+          "pli": "Yadā dukkhassāvahaniṃ visattikaṃ,",
+          "en": "When clinging, the carrier of suffering,"
+        },
+        {
+          "scid": "thag9.1:6.2",
+          "pli": "Papañcasaṅghātadukhādhivāhiniṃ;",
+          "en": "and craving, the carrier of this painful mass of proliferation,"
+        },
+        {
+          "scid": "thag9.1:6.3",
+          "pli": "Taṇhaṃ pahantvāna satova jhāyati,",
+          "en": "are destroyed, and one is mindful, practicing absorption:"
+        },
+        {
+          "scid": "thag9.1:6.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindati.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:7.1",
+          "pli": "Yadā sivaṃ dvecaturaṅgagāminaṃ,",
+          "en": "When the eightfold way, so full of grace,"
+        },
+        {
+          "scid": "thag9.1:7.2",
+          "pli": "Magguttamaṃ sabbakilesasodhanaṃ;",
+          "en": "the supreme path, cleanser of all corruptions,"
+        },
+        {
+          "scid": "thag9.1:7.3",
+          "pli": "Paññāya passitva satova jhāyati,",
+          "en": "is seen with wisdom; and one is mindful, practicing absorption:"
+        },
+        {
+          "scid": "thag9.1:7.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindati.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:8.1",
+          "pli": "Yadā asokaṃ virajaṃ asaṅkhataṃ,",
+          "en": "When one develops that peaceful state,"
+        },
+        {
+          "scid": "thag9.1:8.2",
+          "pli": "Santaṃ padaṃ sabbakilesasodhanaṃ;",
+          "en": "sorrowless, stainless, unconditioned,"
+        },
+        {
+          "scid": "thag9.1:8.3",
+          "pli": "Bhāveti saṃyojanabandhanacchidaṃ,",
+          "en": "cleanser of all corruptions, cutter of fetters and bonds:"
+        },
+        {
+          "scid": "thag9.1:8.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindati.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:9.1",
+          "pli": "Yadā nabhe gajjati meghadundubhi,",
+          "en": "When the thunder-cloud rumbles in the sky,"
+        },
+        {
+          "scid": "thag9.1:9.2",
+          "pli": "Dhārākulā <span class=\"var\" title=\"vihaṅgapathe (s2, s3, pts1)\" id=\"note259\">vihagapathe</span> samantato;",
+          "en": "while the rain pours on the path of birds everywhere,"
+        },
+        {
+          "scid": "thag9.1:9.3",
+          "pli": "Bhikkhū ca pabbhāragatova jhāyati,",
+          "en": "and a monk has gone to a mountain cave, practicing absorption:"
+        },
+        {
+          "scid": "thag9.1:9.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindati.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:10.1",
+          "pli": "Yadā nadīnaṃ kusumākulānaṃ,",
+          "en": "When sitting on a riverbank covered in flowers,"
+        },
+        {
+          "scid": "thag9.1:10.2",
+          "pli": "Vicitta-vāneyya-vaṭaṃsakānaṃ;",
+          "en": "garlanded with brightly colored forest plants,"
+        },
+        {
+          "scid": "thag9.1:10.3",
+          "pli": "Tīre nisinno sumanova jhāyati,",
+          "en": "one is truly happy, practicing absorption:"
+        },
+        {
+          "scid": "thag9.1:10.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindati.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:11.1",
+          "pli": "Yadā nisīthe rahitamhi kānane,",
+          "en": "When it is midnight in a lonely forest,"
+        },
+        {
+          "scid": "thag9.1:11.2",
+          "pli": "Deve gaḷantamhi nadanti dāṭhino;",
+          "en": "and the sky rains, and the lions roar,"
+        },
+        {
+          "scid": "thag9.1:11.3",
+          "pli": "Bhikkhū ca pabbhāragatova jhāyati,",
+          "en": "and a monk has gone to a mountain cave, practicing absorption:"
+        },
+        {
+          "scid": "thag9.1:11.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindati.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:12.1",
+          "pli": "Yadā vitakke uparundhiyattano,",
+          "en": "When one’s own thoughts have stopped,"
+        },
+        {
+          "scid": "thag9.1:12.2",
+          "pli": "Nagantare nagavivaraṃ samassito;",
+          "en": "between two mountains, sheltered inside a cleft,"
+        },
+        {
+          "scid": "thag9.1:12.3",
+          "pli": "Vītaddaro vītakhilova jhāyati,",
+          "en": "without stress or heartlessness, practicing absorption:"
+        },
+        {
+          "scid": "thag9.1:12.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindati.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:13.1",
+          "pli": "Yadā sukhī malakhilasokanāsano,",
+          "en": "When one is happy, destroyer of stains, heartlessness, and sorrow,"
+        },
+        {
+          "scid": "thag9.1:13.2",
+          "pli": "Niraggaḷo nibbanatho visallo;",
+          "en": "free of obstructions, entanglements, and thorns,"
+        },
+        {
+          "scid": "thag9.1:13.3",
+          "pli": "Sabbāsave byantikatova jhāyati,",
+          "en": "and with all defilements annihilated, practicing absorption:"
+        },
+        {
+          "scid": "thag9.1:13.4",
+          "pli": "Tato ratiṃ paramataraṃ na vindatī”ti.",
+          "en": "there is no greater pleasure than this."
+        },
+        {
+          "scid": "thag9.1:14.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag9.1:14.2",
+          "pli": "Bhūto thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag9.1:15.1",
+          "pli": "Navakanipāto niṭṭhito.",
+          "en": ""
+        },
+        {
+          "scid": "thag9.1:16.1",
+          "pli": "Tatruddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag9.1:17.1",
+          "pli": "Bhūto tathaddaso thero,",
+          "en": ""
+        },
+        {
+          "scid": "thag9.1:17.2",
+          "pli": "eko khaggavisāṇavā;",
+          "en": ""
+        },
+        {
+          "scid": "thag9.1:17.3",
+          "pli": "Navakamhi nipātamhi,",
+          "en": ""
+        },
+        {
+          "scid": "thag9.1:17.4",
+          "pli": "gāthāyopi imā navāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag9.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 9.1",
+    "volpages": "pts54",
+    "uid": "thag9.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bhūtattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bhūta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag9.1_sujato",
+        "segmented": true,
+        "title": "Bhūta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag9.1_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Bhūta"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

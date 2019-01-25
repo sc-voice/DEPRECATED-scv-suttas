@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "thig3.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig3.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Another Uttamā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dantikā",
+      "uid": "thig3.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttamā",
+      "uid": "thig3.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.3:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig3.3:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thig3.3:3.1",
+          "pli": "3. Aparāuttamātherīgāthā",
+          "en": "3.3. Another Uttamā"
+        },
+        {
+          "scid": "thig3.3:4.1",
+          "pli": "“Ye ime satta bojjhaṅgā,",
+          "en": "Of the seven awakening factors,"
+        },
+        {
+          "scid": "thig3.3:4.2",
+          "pli": "maggā nibbānapattiyā;",
+          "en": "the path for attaining extinguishment,"
+        },
+        {
+          "scid": "thig3.3:4.3",
+          "pli": "Bhāvitā te mayā sabbe,",
+          "en": "I have developed them all,"
+        },
+        {
+          "scid": "thig3.3:4.4",
+          "pli": "yathā buddhena desitā.",
+          "en": "just as the Buddha taught."
+        },
+        {
+          "scid": "thig3.3:5.1",
+          "pli": "Suññatassānimittassa,",
+          "en": "I attain the meditations on emptiness"
+        },
+        {
+          "scid": "thig3.3:5.2",
+          "pli": "lābhinīhaṃ yadicchakaṃ;",
+          "en": "and signlessness whenever I want."
+        },
+        {
+          "scid": "thig3.3:5.3",
+          "pli": "Orasā dhītā buddhassa,",
+          "en": "I am the Buddha’s rightful daughter,"
+        },
+        {
+          "scid": "thig3.3:5.4",
+          "pli": "nibbānābhiratā sadā.",
+          "en": "always delighting in quenching."
+        },
+        {
+          "scid": "thig3.3:6.1",
+          "pli": "Sabbe kāmā samucchinnā,",
+          "en": "All sensual pleasures are cut off,"
+        },
+        {
+          "scid": "thig3.3:6.2",
+          "pli": "ye dibbā ye ca mānusā;",
+          "en": "whether human or divine."
+        },
+        {
+          "scid": "thig3.3:6.3",
+          "pli": "Vikkhīṇo jātisaṃsāro,",
+          "en": "Transmigration through births is finished,"
+        },
+        {
+          "scid": "thig3.3:6.4",
+          "pli": "natthi dāni punabbhavo”ti.",
+          "en": "now there are no more future lives."
+        },
+        {
+          "scid": "thig3.3:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig3.3:7.2",
+          "pli": "Aparā uttamā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 3.3",
+    "volpages": "pts128",
+    "uid": "thig3.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Aparāuttamātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Another Uttamā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig3.3_sujato",
+        "segmented": true,
+        "title": "Another Uttamā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.3_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Another Uttamā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 3
+  }
+}

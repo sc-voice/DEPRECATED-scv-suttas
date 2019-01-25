@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.25",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.25",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Vītasoka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Puṇṇamāsa (2nd)",
+      "uid": "thag2.26"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Valliya (3rd)",
+      "uid": "thag2.24"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.25:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.25:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.25:3.1",
+          "pli": "Tatiyavagga",
+          "en": "Chapter Three"
+        },
+        {
+          "scid": "thag2.25:4.1",
+          "pli": "2.25. Vītasokattheragāthā",
+          "en": "2.25. Vītasoka"
+        },
+        {
+          "scid": "thag2.25:5.1",
+          "pli": "“Kese me olikhissanti,",
+          "en": "The barber approached"
+        },
+        {
+          "scid": "thag2.25:5.2",
+          "pli": "kappako upasaṅkami;",
+          "en": "to shave my head."
+        },
+        {
+          "scid": "thag2.25:5.3",
+          "pli": "Tato ādāsamādāya,",
+          "en": "I picked up a mirror"
+        },
+        {
+          "scid": "thag2.25:5.4",
+          "pli": "sarīraṃ paccavekkhisaṃ.",
+          "en": "and examined my body."
+        },
+        {
+          "scid": "thag2.25:6.1",
+          "pli": "Tuccho kāyo adissittha,",
+          "en": "My body appeared hollow;"
+        },
+        {
+          "scid": "thag2.25:6.2",
+          "pli": "andhakāro tamo byagā;",
+          "en": "I once was blind, but the darkness left me."
+        },
+        {
+          "scid": "thag2.25:6.3",
+          "pli": "Sabbe coḷā samucchinnā,",
+          "en": "My fancy hairdo has been cut off:"
+        },
+        {
+          "scid": "thag2.25:6.4",
+          "pli": "natthi dāni punabbhavo”ti.",
+          "en": "now there are no more future lives."
+        },
+        {
+          "scid": "thag2.25:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.25:7.2",
+          "pli": "Vītasoko thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.25/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.25",
+    "volpages": "pts23",
+    "uid": "thag2.25",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vītasokattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vītasoka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.25_sujato",
+        "segmented": true,
+        "title": "Vītasoka",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.25_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Vītasoka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

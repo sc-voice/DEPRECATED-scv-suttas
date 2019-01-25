@@ -1,0 +1,143 @@
+{
+  "sutta_uid": "thig1.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "An Unnamed Nun (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Muttā (1st)",
+      "uid": "thig1.2"
+    },
+    "previous": null
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.1:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.1:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.1:3.1",
+          "pli": "1. Aññatarātherīgāthā",
+          "en": "1.1. An Unnamed Nun (1st)"
+        },
+        {
+          "scid": "thig1.1:4.1",
+          "pli": "Namo tassa Bhagavato Arahato Sammāsambuddhassa.",
+          "en": "Homage to that Blessed One, the perfected one, the fully awakened Buddha!"
+        },
+        {
+          "scid": "thig1.1:5.1",
+          "pli": "“Sukhaṃ supāhi therike,",
+          "en": "Sleep softly, little nun,"
+        },
+        {
+          "scid": "thig1.1:5.2",
+          "pli": "Katvā coḷena pārutā;",
+          "en": "wrapped in the cloth you sewed yourself;"
+        },
+        {
+          "scid": "thig1.1:5.3",
+          "pli": "Upasanto hi te rāgo,",
+          "en": "for your desire has been quelled,"
+        },
+        {
+          "scid": "thig1.1:5.4",
+          "pli": "Sukkhaḍākaṃ va kumbhiyan”ti.",
+          "en": "like vegetables boiled dry in a pot."
+        },
+        {
+          "scid": "thig1.1:6.1",
+          "pli": "Itthaṃ sudaṃ aññatarā therī apaññātā bhikkhunī gāthaṃ abhāsitthāti.",
+          "en": "It was thus that this verse was recited by a certain unnamed nun."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.1",
+    "volpages": "pts123",
+    "uid": "thig1.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Aññatarātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "An Unnamed Nun (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.1_sujato",
+        "segmented": true,
+        "title": "An Unnamed Nun (1st)",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.1_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "A Bhikkhunī of Name Unknown"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig1.1_thanissaro",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2005",
+        "segmented": false,
+        "volpage": null,
+        "title": "An Anonymous Bhikkhuni"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 1
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "sutta_uid": "thag16.3",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag16.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Telakāni",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Raṭṭhapāla",
+      "uid": "thag16.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pārāpariya (2nd)",
+      "uid": "thag16.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag16.3:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag16.3:2.1",
+          "pli": "Vīsatinipāta",
+          "en": "The Book of the Twenties"
+        },
+        {
+          "scid": "thag16.3:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag16.3:4.1",
+          "pli": "16.3. Telakānittheragāthā",
+          "en": "16.3. Telakāni"
+        },
+        {
+          "scid": "thag16.3:5.1",
+          "pli": "“Cirarattaṃ vatātāpī,",
+          "en": "For a long time, sadly,"
+        },
+        {
+          "scid": "thag16.3:5.2",
+          "pli": "dhammaṃ anuvicintayaṃ;",
+          "en": "though I keenly contemplated the teaching,"
+        },
+        {
+          "scid": "thag16.3:5.3",
+          "pli": "Samaṃ cittassa nālatthaṃ,",
+          "en": "I gained no peace of mind."
+        },
+        {
+          "scid": "thag16.3:5.4",
+          "pli": "pucchaṃ samaṇabrāhmaṇe.",
+          "en": "So I asked this of ascetics and brahmins:"
+        },
+        {
+          "scid": "thag16.3:6.1",
+          "pli": "‘Ko so pāraṅgato loke,",
+          "en": "“Who has crossed over the world?"
+        },
+        {
+          "scid": "thag16.3:6.2",
+          "pli": "ko patto amatogadhaṃ;",
+          "en": "Whose attainment culminates in the deathless?"
+        },
+        {
+          "scid": "thag16.3:6.3",
+          "pli": "Kassa dhammaṃ paṭicchāmi,",
+          "en": "Whose teaching do I accept"
+        },
+        {
+          "scid": "thag16.3:6.4",
+          "pli": "paramatthavijānanaṃ’.",
+          "en": "to understand the highest goal?"
+        },
+        {
+          "scid": "thag16.3:7.1",
+          "pli": "Antovaṅkagato āsi,",
+          "en": "I was hooked inside,"
+        },
+        {
+          "scid": "thag16.3:7.2",
+          "pli": "macchova ghasamāmisaṃ;",
+          "en": "like a fish gulping bait;"
+        },
+        {
+          "scid": "thag16.3:7.3",
+          "pli": "Baddho mahindapāsena,",
+          "en": "bound like the demon Vepaciti"
+        },
+        {
+          "scid": "thag16.3:7.4",
+          "pli": "<span class=\"var\" title=\"vepacityāsuro (s2, s3, pts1)\" id=\"note340\">vepacityasuro</span> yathā.",
+          "en": "in Mahinda’s trap."
+        },
+        {
+          "scid": "thag16.3:8.1",
+          "pli": "Añchāmi naṃ na muñcāmi,",
+          "en": "Dragging it along, I’m not free"
+        },
+        {
+          "scid": "thag16.3:8.2",
+          "pli": "asmā sokapariddavā;",
+          "en": "from grief and lamentation."
+        },
+        {
+          "scid": "thag16.3:8.3",
+          "pli": "Ko me bandhaṃ muñcaṃ loke,",
+          "en": "Who will free me from bonds in the world,"
+        },
+        {
+          "scid": "thag16.3:8.4",
+          "pli": "sambodhiṃ vedayissati.",
+          "en": "so that I may know awakening?"
+        },
+        {
+          "scid": "thag16.3:9.1",
+          "pli": "Samaṇaṃ brāhmaṇaṃ vā kaṃ,",
+          "en": "What ascetic or brahmin"
+        },
+        {
+          "scid": "thag16.3:9.2",
+          "pli": "ādisantaṃ pabhaṅgunaṃ;",
+          "en": "points to the perishable?"
+        },
+        {
+          "scid": "thag16.3:9.3",
+          "pli": "Kassa dhammaṃ paṭicchāmi,",
+          "en": "Whose teaching do I accept"
+        },
+        {
+          "scid": "thag16.3:9.4",
+          "pli": "jarāmaccupavāhanaṃ.",
+          "en": "to sweep away old age and death?"
+        },
+        {
+          "scid": "thag16.3:10.1",
+          "pli": "Vicikicchākaṅkhāganthitaṃ,",
+          "en": "Tied up with uncertainty and doubt,"
+        },
+        {
+          "scid": "thag16.3:10.2",
+          "pli": "sārambhabalasaññutaṃ;",
+          "en": "secured by the power of pride,"
+        },
+        {
+          "scid": "thag16.3:10.3",
+          "pli": "Kodhappattamanatthaddhaṃ,",
+          "en": "rigid as a mind beset by anger;"
+        },
+        {
+          "scid": "thag16.3:10.4",
+          "pli": "abhijappappadāraṇaṃ.",
+          "en": "the arrow of covetousness,"
+        },
+        {
+          "scid": "thag16.3:11.1",
+          "pli": "Taṇhādhanusamuṭṭhānaṃ,",
+          "en": "propelled by the bow of craving,"
+        },
+        {
+          "scid": "thag16.3:11.2",
+          "pli": "dve <span class=\"var\" title=\"dvedhāpannarasāyutaṃ (?)\" id=\"note341\">ca pannarasāyutaṃ</span>;",
+          "en": "is stuck in my twice-fifteen ribs—"
+        },
+        {
+          "scid": "thag16.3:11.3",
+          "pli": "Passa orasikaṃ <span class=\"var\" title=\"bālaṃ (s2, s3, pts1)\" id=\"note342\">bāḷhaṃ</span>,",
+          "en": "see how it stands in my breast,"
+        },
+        {
+          "scid": "thag16.3:11.4",
+          "pli": "bhetvāna <span class=\"var\" title=\"hadi (?)\" id=\"note343\">yadi</span> tiṭṭhati.",
+          "en": "breaking my strong heart."
+        },
+        {
+          "scid": "thag16.3:12.1",
+          "pli": "Anudiṭṭhīnaṃ appahānaṃ,",
+          "en": "Speculative views are not abandoned,"
+        },
+        {
+          "scid": "thag16.3:12.2",
+          "pli": "saṅkappaparatejitaṃ;",
+          "en": "they are sharpened by memories and intentions;"
+        },
+        {
+          "scid": "thag16.3:12.3",
+          "pli": "Tena viddho pavedhāmi,",
+          "en": "and pierced by this I tremble,"
+        },
+        {
+          "scid": "thag16.3:12.4",
+          "pli": "pattaṃva māluteritaṃ.",
+          "en": "like a leaf blowing in the wind."
+        },
+        {
+          "scid": "thag16.3:13.1",
+          "pli": "Ajjhattaṃ me samuṭṭhāya,",
+          "en": "Having arisen within,"
+        },
+        {
+          "scid": "thag16.3:13.2",
+          "pli": "khippaṃ paccati māmakaṃ;",
+          "en": "what belongs to me burns quickly,"
+        },
+        {
+          "scid": "thag16.3:13.3",
+          "pli": "Chaphassāyatanī kāyo,",
+          "en": "in that place where the body always heads"
+        },
+        {
+          "scid": "thag16.3:13.4",
+          "pli": "yattha sarati sabbadā.",
+          "en": "with its six sense-fields of contact."
+        },
+        {
+          "scid": "thag16.3:14.1",
+          "pli": "Taṃ na passāmi tekicchaṃ,",
+          "en": "I don’t see a healer"
+        },
+        {
+          "scid": "thag16.3:14.2",
+          "pli": "yo metaṃ sallamuddhare;",
+          "en": "who can pull out my dart of doubt"
+        },
+        {
+          "scid": "thag16.3:14.3",
+          "pli": "<span class=\"var\" title=\"nāraggena na satthena (?)\" id=\"note344\">Nānārajjena satthena</span>,",
+          "en": "without a lance"
+        },
+        {
+          "scid": "thag16.3:14.4",
+          "pli": "nāññena vicikicchitaṃ.",
+          "en": "or some other blade."
+        },
+        {
+          "scid": "thag16.3:15.1",
+          "pli": "Ko me asattho avaṇo,",
+          "en": "Without knife or wound,"
+        },
+        {
+          "scid": "thag16.3:15.2",
+          "pli": "<span class=\"var\" title=\"... abbhantarāpassayaṃ (s2, s3) | ... abbhantara-apassayaṃ (pts2)\" id=\"note345\">Sallamabbhantarapassayaṃ</span>;",
+          "en": "who will pull out this dart"
+        },
+        {
+          "scid": "thag16.3:15.3",
+          "pli": "Ahiṃsaṃ sabbagattāni,",
+          "en": "that’s stuck inside me,"
+        },
+        {
+          "scid": "thag16.3:15.4",
+          "pli": "Sallaṃ me uddharissati.",
+          "en": "without harming any part of my body?"
+        },
+        {
+          "scid": "thag16.3:16.1",
+          "pli": "Dhammappati hi so seṭṭho,",
+          "en": "He really would be the Lord of the Dhamma,"
+        },
+        {
+          "scid": "thag16.3:16.2",
+          "pli": "visadosappavāhako;",
+          "en": "the best one to cure the damage of poison;"
+        },
+        {
+          "scid": "thag16.3:16.3",
+          "pli": "Gambhīre patitassa me,",
+          "en": "when I have fallen into deep waters,"
+        },
+        {
+          "scid": "thag16.3:16.4",
+          "pli": "thalaṃ <span class=\"var\" title=\"pāṇiva (s2, s3, pts1)\" id=\"note346\">pāṇiñca</span> dassaye.",
+          "en": "he would give me his hand and bring me to the shore."
+        },
+        {
+          "scid": "thag16.3:17.1",
+          "pli": "Rahadehamasmi ogāḷho,",
+          "en": "I’ve plunged into a lake,"
+        },
+        {
+          "scid": "thag16.3:17.2",
+          "pli": "ahāriyarajamattike;",
+          "en": "and I can’t wash off the mud and dirt."
+        },
+        {
+          "scid": "thag16.3:17.3",
+          "pli": "<span class=\"var\" title=\"māyāussuyya ... (s2, s3, pts1)\" id=\"note347\">Māyāusūyasārambha</span>,",
+          "en": "It’s full of fraud, jealousy, pride,"
+        },
+        {
+          "scid": "thag16.3:17.4",
+          "pli": "thinamiddhamapatthaṭe.",
+          "en": "and dullness and drowsiness."
+        },
+        {
+          "scid": "thag16.3:18.1",
+          "pli": "Uddhaccameghathanitaṃ,",
+          "en": "Like a thunder-cloud of restlessness,"
+        },
+        {
+          "scid": "thag16.3:18.2",
+          "pli": "saṃyojanavalāhakaṃ;",
+          "en": "like a rain-cloud of fetters;"
+        },
+        {
+          "scid": "thag16.3:18.3",
+          "pli": "Vāhā vahanti <span class=\"var\" title=\"duddiṭṭhiṃ (bj ^dhp334-359#335.2 [334. Kapilamacchavatthu/335. Sūkarapotikāvatthu])\" id=\"note348\">kuddiṭṭhiṃ</span>,",
+          "en": "lustful thoughts are winds"
+        },
+        {
+          "scid": "thag16.3:18.4",
+          "pli": "saṅkappā rāganissitā.",
+          "en": "that sweep up a person with bad views."
+        },
+        {
+          "scid": "thag16.3:19.1",
+          "pli": "Savanti sabbadhi sotā,",
+          "en": "The streams flow everywhere;"
+        },
+        {
+          "scid": "thag16.3:19.2",
+          "pli": "latā ubbhijja tiṭṭhati;",
+          "en": "a weed springs up and remains."
+        },
+        {
+          "scid": "thag16.3:19.3",
+          "pli": "Te sote ko nivāreyya,",
+          "en": "Who will block the streams?"
+        },
+        {
+          "scid": "thag16.3:19.4",
+          "pli": "taṃ lataṃ ko hi checchati.",
+          "en": "Who will cut the weed?”"
+        },
+        {
+          "scid": "thag16.3:20.1",
+          "pli": "Velaṃ karotha bhaddante,",
+          "en": "“Venerable sir, build a dam"
+        },
+        {
+          "scid": "thag16.3:20.2",
+          "pli": "sotānaṃ sannivāraṇaṃ;",
+          "en": "to block the streams."
+        },
+        {
+          "scid": "thag16.3:20.3",
+          "pli": "Mā te manomayo soto,",
+          "en": "Don’t let your mind-made streams"
+        },
+        {
+          "scid": "thag16.3:20.4",
+          "pli": "rukkhaṃva sahasā luve.",
+          "en": "cut you down suddenly like a tree.”"
+        },
+        {
+          "scid": "thag16.3:21.1",
+          "pli": "Evaṃ me bhayajātassa,",
+          "en": "That is how the teacher whose weapon is wisdom,"
+        },
+        {
+          "scid": "thag16.3:21.2",
+          "pli": "apārā pāramesato;",
+          "en": "surrounded by the Saṅgha of hermits,"
+        },
+        {
+          "scid": "thag16.3:21.3",
+          "pli": "Tāṇo paññāvudho satthā,",
+          "en": "was my shelter when I was full of fear,"
+        },
+        {
+          "scid": "thag16.3:21.4",
+          "pli": "isisaṃghanisevito.",
+          "en": "seeking the far shore from the near."
+        },
+        {
+          "scid": "thag16.3:22.1",
+          "pli": "Sopāṇaṃ sugataṃ suddhaṃ,",
+          "en": "As I was being swept away,"
+        },
+        {
+          "scid": "thag16.3:22.2",
+          "pli": "dhammasāramayaṃ daḷhaṃ;",
+          "en": "he gave me a strong, simple ladder,"
+        },
+        {
+          "scid": "thag16.3:22.3",
+          "pli": "Pādāsi vuyhamānassa,",
+          "en": "made of the heartwood of Dhamma,"
+        },
+        {
+          "scid": "thag16.3:22.4",
+          "pli": "‘mā bhāyī’ti ca mabravi.",
+          "en": "and he said to me: “Do not fear.”"
+        },
+        {
+          "scid": "thag16.3:23.1",
+          "pli": "Satipaṭṭhānapāsādaṃ,",
+          "en": "I climbed the tower of mindfulness meditation,"
+        },
+        {
+          "scid": "thag16.3:23.2",
+          "pli": "āruyha paccavekkhisaṃ;",
+          "en": "and checked back down"
+        },
+        {
+          "scid": "thag16.3:23.3",
+          "pli": "Yaṃ taṃ pubbe amaññissaṃ,",
+          "en": "at people delighting in identity,"
+        },
+        {
+          "scid": "thag16.3:23.4",
+          "pli": "sakkāyābhirataṃ pajaṃ.",
+          "en": "as I’d obsessed over in the past."
+        },
+        {
+          "scid": "thag16.3:24.1",
+          "pli": "Yadā ca maggamaddakkhiṃ,",
+          "en": "When I saw the path,"
+        },
+        {
+          "scid": "thag16.3:24.2",
+          "pli": "nāvāya abhirūhanaṃ;",
+          "en": "as I was embarking on the ship,"
+        },
+        {
+          "scid": "thag16.3:24.3",
+          "pli": "Anadhiṭṭhāya attānaṃ,",
+          "en": "without fixating on the self,"
+        },
+        {
+          "scid": "thag16.3:24.4",
+          "pli": "titthamaddakkhimuttamaṃ.",
+          "en": "I saw the supreme landing-place."
+        },
+        {
+          "scid": "thag16.3:25.1",
+          "pli": "Sallaṃ attasamuṭṭhānaṃ,",
+          "en": "The dart that arises in oneself,"
+        },
+        {
+          "scid": "thag16.3:25.2",
+          "pli": "bhavanettippabhāvitaṃ;",
+          "en": "and that which stems from attachment to rebirth:"
+        },
+        {
+          "scid": "thag16.3:25.3",
+          "pli": "Etesaṃ <span class=\"var\" title=\"appavattiyā (?)\" id=\"note349\">appavattāya</span>,",
+          "en": "he taught the supreme path"
+        },
+        {
+          "scid": "thag16.3:25.4",
+          "pli": "desesi maggamuttamaṃ.",
+          "en": "for the canceling of these."
+        },
+        {
+          "scid": "thag16.3:26.1",
+          "pli": "Dīgharattānusayitaṃ,",
+          "en": "For a long time it had lain within me;"
+        },
+        {
+          "scid": "thag16.3:26.2",
+          "pli": "cirarattamadhiṭṭhitaṃ;",
+          "en": "for a long time it was fixed in me:"
+        },
+        {
+          "scid": "thag16.3:26.3",
+          "pli": "Buddho mepānudī ganthaṃ,",
+          "en": "the Buddha cast off the knot,"
+        },
+        {
+          "scid": "thag16.3:26.4",
+          "pli": "visadosappavāhano”ti.",
+          "en": "curing the damage of poison."
+        },
+        {
+          "scid": "thag16.3:27.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag16.3:27.2",
+          "pli": "<span class=\"var\" title=\"telukāni (s2, s3)\" id=\"note350\">Telakāni</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag16.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 16.3",
+    "volpages": "pts74",
+    "uid": "thag16.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Telakānittheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Telakāni",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag16.3_sujato",
+        "segmented": true,
+        "title": "Telakāni",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag16.3_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Telakāni"
+      }
+    ],
+    "parallel_count": 15,
+    "biblio": null,
+    "num": 3
+  }
+}

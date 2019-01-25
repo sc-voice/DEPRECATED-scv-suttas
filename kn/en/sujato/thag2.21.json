@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.21",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.21",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Uttara (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bhaddaji",
+      "uid": "thag2.22"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sirima",
+      "uid": "thag2.20"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.21:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.21:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.21:3.1",
+          "pli": "Tatiyavagga",
+          "en": "Chapter Three"
+        },
+        {
+          "scid": "thag2.21:4.1",
+          "pli": "2.21. Uttarattheragāthā",
+          "en": "2.21. Uttara (2nd)"
+        },
+        {
+          "scid": "thag2.21:5.1",
+          "pli": "“Khandhā mayā pariññātā,",
+          "en": "I’ve fully understood the aggregates;"
+        },
+        {
+          "scid": "thag2.21:5.2",
+          "pli": "taṇhā me susamūhatā;",
+          "en": "I’ve eradicated craving;"
+        },
+        {
+          "scid": "thag2.21:5.3",
+          "pli": "Bhāvitā mama bojjhaṅgā,",
+          "en": "I’ve developed the factors of awakening,"
+        },
+        {
+          "scid": "thag2.21:5.4",
+          "pli": "patto me āsavakkhayo.",
+          "en": "I’ve attained the ending of defilements."
+        },
+        {
+          "scid": "thag2.21:6.1",
+          "pli": "Sohaṃ khandhe pariññāya,",
+          "en": "Having fully understood the aggregates,"
+        },
+        {
+          "scid": "thag2.21:6.2",
+          "pli": "<span class=\"var\" title=\"abbhahitvāna (s2, s3) | abbuhitvāna (mr)\" id=\"note107\">abbahitvāna</span> jāliniṃ;",
+          "en": "having plucked out the weaver of the web,"
+        },
+        {
+          "scid": "thag2.21:6.3",
+          "pli": "Bhāvayitvāna bojjhaṅge,",
+          "en": "having developed the factors of awakening,"
+        },
+        {
+          "scid": "thag2.21:6.4",
+          "pli": "nibbāyissaṃ anāsavo”ti.",
+          "en": "I’ll be quenched without defilements."
+        },
+        {
+          "scid": "thag2.21:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.21:7.2",
+          "pli": "Uttaro thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.21/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.21",
+    "volpages": "pts22",
+    "uid": "thag2.21",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uttarattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uttara (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.21_sujato",
+        "segmented": true,
+        "title": "Uttara (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.21_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Uttara"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

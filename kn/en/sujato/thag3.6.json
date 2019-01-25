@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Khujjasobhita",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vāraṇa",
+      "uid": "thag3.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mātaṅgaputta",
+      "uid": "thag3.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.6:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.6:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.6:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.6:4.1",
+          "pli": "3.6. Khujjasobhitattheragāthā",
+          "en": "3.6. Khujjasobhita"
+        },
+        {
+          "scid": "thag3.6:5.1",
+          "pli": "“Ye cittakathī bahussutā,",
+          "en": "“One of those monks who live in Pāṭaliputta—"
+        },
+        {
+          "scid": "thag3.6:5.2",
+          "pli": "Samaṇā pāṭaliputtavāsino;",
+          "en": "such brilliant speakers, and very learned—"
+        },
+        {
+          "scid": "thag3.6:5.3",
+          "pli": "Tesaññataroyamāyuvā,",
+          "en": "stands at the door:"
+        },
+        {
+          "scid": "thag3.6:5.4",
+          "pli": "Dvāre tiṭṭhati khujjasobhito”.",
+          "en": "the old man, Khujjasobhita."
+        },
+        {
+          "scid": "thag3.6:6.1",
+          "pli": "“Ye cittakathī bahussutā,",
+          "en": "One of those monks who live in Pāṭaliputta—"
+        },
+        {
+          "scid": "thag3.6:6.2",
+          "pli": "Samaṇā pāṭaliputtavāsino;",
+          "en": "such brilliant speakers, and very learned—"
+        },
+        {
+          "scid": "thag3.6:6.3",
+          "pli": "Tesaññataroyamāyuvā,",
+          "en": "stands at the door:"
+        },
+        {
+          "scid": "thag3.6:6.4",
+          "pli": "Dvāre tiṭṭhati māluterito”.",
+          "en": "an old man, trembling in the wind.”"
+        },
+        {
+          "scid": "thag3.6:7.1",
+          "pli": "“Suyuddhena suyiṭṭhena,",
+          "en": "“By war well fought, by sacrifice well made,"
+        },
+        {
+          "scid": "thag3.6:7.2",
+          "pli": "saṅgāmavijayena ca;",
+          "en": "by victory in battle;"
+        },
+        {
+          "scid": "thag3.6:7.3",
+          "pli": "Brahmacariyānuciṇṇena,",
+          "en": "by living the spiritual life:"
+        },
+        {
+          "scid": "thag3.6:7.4",
+          "pli": "evāyaṃ sukhamedhatī”ti.",
+          "en": "that’s how one prospers in happiness.”"
+        },
+        {
+          "scid": "thag3.6:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.6:8.2",
+          "pli": "Khujjasobhito thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.6",
+    "volpages": "pts30",
+    "uid": "thag3.6",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Khujjasobhitattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Khujjasobhita",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.6_sujato",
+        "segmented": true,
+        "title": "Khujjasobhita",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.6_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Khujjasobhita"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

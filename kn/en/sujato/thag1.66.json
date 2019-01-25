@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "thag1.66",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.66",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Meghiya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ekadhammasavanīya",
+      "uid": "thag1.67"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ukkhepakatavaccha",
+      "uid": "thag1.65"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.66:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.66:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.66:3.1",
+          "pli": "Sattamavagga",
+          "en": "Chapter Seven"
+        },
+        {
+          "scid": "thag1.66:4.1",
+          "pli": "1.66. Meghiyattheragāthā",
+          "en": "1.66. Meghiya"
+        },
+        {
+          "scid": "thag1.66:5.1",
+          "pli": "“Anusāsi mahāvīro,",
+          "en": "He counseled me, the great hero,"
+        },
+        {
+          "scid": "thag1.66:5.2",
+          "pli": "sabbadhammāna pāragū;",
+          "en": "the one who has gone beyond all things."
+        },
+        {
+          "scid": "thag1.66:5.3",
+          "pli": "Tassāhaṃ dhammaṃ sutvāna,",
+          "en": "When I heard his teaching"
+        },
+        {
+          "scid": "thag1.66:5.4",
+          "pli": "vihāsiṃ santike <span class=\"var\" title=\"rato (s2, s3, pts1)\" id=\"note51\">sato</span>;",
+          "en": "I stayed close by him, mindful."
+        },
+        {
+          "scid": "thag1.66:5.5",
+          "pli": "Tisso vijjā anuppattā,",
+          "en": "I’ve attained the three knowledges"
+        },
+        {
+          "scid": "thag1.66:5.6",
+          "pli": "kataṃ buddhassa sāsanan”ti.",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag1.66:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.66:6.2",
+          "pli": "Meghiyo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.66/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.66",
+    "volpages": "pts10",
+    "uid": "thag1.66",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Meghiyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Meghiya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.66_sujato",
+        "segmented": true,
+        "title": "Meghiya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.66_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Meghiya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

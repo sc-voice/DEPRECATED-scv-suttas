@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thig1.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mittā (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bhadrā",
+      "uid": "thig1.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vīrā",
+      "uid": "thig1.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.8:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.8:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.8:3.1",
+          "pli": "8. Mittātherīgāthā",
+          "en": "1.8. Mittā (1st)"
+        },
+        {
+          "scid": "thig1.8:4.1",
+          "pli": "“Saddhāya pabbajitvāna,",
+          "en": "Having gone forth out of faith,"
+        },
+        {
+          "scid": "thig1.8:4.2",
+          "pli": "mitte mittaratā bhava;",
+          "en": "appreciate your spiritual friends, Mittā."
+        },
+        {
+          "scid": "thig1.8:4.3",
+          "pli": "Bhāvehi kusale dhamme,",
+          "en": "Develop skillful qualities"
+        },
+        {
+          "scid": "thig1.8:4.4",
+          "pli": "yogakkhemassa pattiyā”ti.",
+          "en": "for the sake of finding sanctuary."
+        },
+        {
+          "scid": "thig1.8:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.8:5.2",
+          "pli": "Mittā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.8",
+    "volpages": "pts124",
+    "uid": "thig1.8",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mittātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mittā (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.8_sujato",
+        "segmented": true,
+        "title": "Mittā (1st)",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.8_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mittā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "sutta_uid": "thag16.5",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag16.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Māluṅkyaputta (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sela",
+      "uid": "thag16.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Raṭṭhapāla",
+      "uid": "thag16.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag16.5:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag16.5:2.1",
+          "pli": "Vīsatinipāta",
+          "en": "The Book of the Twenties"
+        },
+        {
+          "scid": "thag16.5:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag16.5:4.1",
+          "pli": "<span class=\"var\" title=\"māluṅkyaputtatheragāthā (bj)\" id=\"note373\">16.5 Mālukyaputtattheragāthā</span>",
+          "en": "16.5. Māluṅkyaputta (2nd)"
+        },
+        {
+          "scid": "thag16.5:5.1",
+          "pli": "<span class=\"cross\" title=\"^sn35.95#1 [95. Mālukyaputtasutta]\" id=\"note374\">*</span>“Rūpaṃ disvā sati muṭṭhā,",
+          "en": "When you see a sight, mindfulness is lost"
+        },
+        {
+          "scid": "thag16.5:5.2",
+          "pli": "<span class=\"var\" title=\"piya (s2, s3, pts1)\" id=\"note375\">Piyaṃ</span> nimittaṃ manasi karoto;",
+          "en": "as attention latches on a pleasant feature."
+        },
+        {
+          "scid": "thag16.5:5.3",
+          "pli": "Sārattacitto vedeti,",
+          "en": "Experiencing it with a mind full of desire,"
+        },
+        {
+          "scid": "thag16.5:5.4",
+          "pli": "Tañca ajjhosa tiṭṭhati.",
+          "en": "you keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:6.1",
+          "pli": "Tassa vaḍḍhanti vedanā,",
+          "en": "Many feelings grow"
+        },
+        {
+          "scid": "thag16.5:6.2",
+          "pli": "anekā rūpasambhavā;",
+          "en": "arising from sights."
+        },
+        {
+          "scid": "thag16.5:6.3",
+          "pli": "Abhijjhā ca vihesā ca,",
+          "en": "The mind is damaged"
+        },
+        {
+          "scid": "thag16.5:6.4",
+          "pli": "cittamassūpahaññati;",
+          "en": "by covetousness and cruelty."
+        },
+        {
+          "scid": "thag16.5:6.5",
+          "pli": "Evamācinato dukkhaṃ,",
+          "en": "Heaping up suffering like this,"
+        },
+        {
+          "scid": "thag16.5:6.6",
+          "pli": "ārā <span class=\"var\" title=\"nibbānaṃ (bj)\" id=\"note376\">nibbāna</span> vuccati.",
+          "en": "you’re said to be far from quenching."
+        },
+        {
+          "scid": "thag16.5:7.1",
+          "pli": "Saddaṃ sutvā sati muṭṭhā,",
+          "en": "When you hear a sound, mindfulness is lost"
+        },
+        {
+          "scid": "thag16.5:7.2",
+          "pli": "Piyaṃ nimittaṃ manasi karoto;",
+          "en": "as attention latches on a pleasant feature."
+        },
+        {
+          "scid": "thag16.5:7.3",
+          "pli": "Sārattacitto vedeti,",
+          "en": "Experiencing it with a mind full of desire,"
+        },
+        {
+          "scid": "thag16.5:7.4",
+          "pli": "Tañca ajjhosa tiṭṭhati.",
+          "en": "you keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:8.1",
+          "pli": "Tassa vaḍḍhanti vedanā,",
+          "en": "Many feelings grow"
+        },
+        {
+          "scid": "thag16.5:8.2",
+          "pli": "anekā saddasambhavā;",
+          "en": "arising from sounds."
+        },
+        {
+          "scid": "thag16.5:8.3",
+          "pli": "Abhijjhā ca vihesā ca,",
+          "en": "The mind is damaged"
+        },
+        {
+          "scid": "thag16.5:8.4",
+          "pli": "cittamassūpahaññati;",
+          "en": "by covetousness and cruelty."
+        },
+        {
+          "scid": "thag16.5:8.5",
+          "pli": "Evamācinato dukkhaṃ,",
+          "en": "Heaping up suffering like this,"
+        },
+        {
+          "scid": "thag16.5:8.6",
+          "pli": "ārā nibbāna vuccati.",
+          "en": "you’re said to be far from quenching."
+        },
+        {
+          "scid": "thag16.5:9.1",
+          "pli": "Gandhaṃ ghatvā sati muṭṭhā,",
+          "en": "When you smell an odor, mindfulness is lost"
+        },
+        {
+          "scid": "thag16.5:9.2",
+          "pli": "Piyaṃ nimittaṃ manasi karoto;",
+          "en": "as attention latches on a pleasant feature."
+        },
+        {
+          "scid": "thag16.5:9.3",
+          "pli": "Sārattacitto vedeti,",
+          "en": "Experiencing it with a mind full of desire,"
+        },
+        {
+          "scid": "thag16.5:9.4",
+          "pli": "Tañca ajjhosa tiṭṭhati.",
+          "en": "you keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:10.1",
+          "pli": "Tassa vaḍḍhanti vedanā,",
+          "en": "Many feelings grow"
+        },
+        {
+          "scid": "thag16.5:10.2",
+          "pli": "anekā gandhasambhavā;",
+          "en": "arising from smells."
+        },
+        {
+          "scid": "thag16.5:10.3",
+          "pli": "Abhijjhā ca vihesā ca,",
+          "en": "The mind is damaged"
+        },
+        {
+          "scid": "thag16.5:10.4",
+          "pli": "cittamassūpahaññati;",
+          "en": "by covetousness and cruelty."
+        },
+        {
+          "scid": "thag16.5:10.5",
+          "pli": "Evamācinato dukkhaṃ,",
+          "en": "Heaping up suffering like this,"
+        },
+        {
+          "scid": "thag16.5:10.6",
+          "pli": "ārā nibbāna vuccati.",
+          "en": "you’re said to be far from quenching."
+        },
+        {
+          "scid": "thag16.5:11.1",
+          "pli": "Rasaṃ bhotvā sati muṭṭhā,",
+          "en": "When you enjoy a taste, mindfulness is lost"
+        },
+        {
+          "scid": "thag16.5:11.2",
+          "pli": "Piyaṃ nimittaṃ manasi karoto;",
+          "en": "as attention latches on a pleasant feature."
+        },
+        {
+          "scid": "thag16.5:11.3",
+          "pli": "Sārattacitto vedeti,",
+          "en": "Experiencing it with a mind full of desire,"
+        },
+        {
+          "scid": "thag16.5:11.4",
+          "pli": "Tañca ajjhosa tiṭṭhati.",
+          "en": "you keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:12.1",
+          "pli": "Tassa vaḍḍhanti vedanā,",
+          "en": "Many feelings grow"
+        },
+        {
+          "scid": "thag16.5:12.2",
+          "pli": "anekā rasasambhavā;",
+          "en": "arising from tastes."
+        },
+        {
+          "scid": "thag16.5:12.3",
+          "pli": "Abhijjhā ca vihesā ca,",
+          "en": "The mind is damaged"
+        },
+        {
+          "scid": "thag16.5:12.4",
+          "pli": "cittamassūpahaññati;",
+          "en": "by covetousness and cruelty."
+        },
+        {
+          "scid": "thag16.5:12.5",
+          "pli": "Evamācinato dukkhaṃ,",
+          "en": "Heaping up suffering like this,"
+        },
+        {
+          "scid": "thag16.5:12.6",
+          "pli": "ārā nibbāna vuccati.",
+          "en": "you’re said to be far from quenching."
+        },
+        {
+          "scid": "thag16.5:13.1",
+          "pli": "Phassaṃ phussa sati muṭṭhā,",
+          "en": "When you sense a touch, mindfulness is lost"
+        },
+        {
+          "scid": "thag16.5:13.2",
+          "pli": "Piyaṃ nimittaṃ manasi karoto;",
+          "en": "as attention latches on a pleasant feature."
+        },
+        {
+          "scid": "thag16.5:13.3",
+          "pli": "Sārattacitto vedeti,",
+          "en": "Experiencing it with a mind full of desire,"
+        },
+        {
+          "scid": "thag16.5:13.4",
+          "pli": "Tañca ajjhosa tiṭṭhati.",
+          "en": "you keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:14.1",
+          "pli": "Tassa vaḍḍhanti vedanā,",
+          "en": "Many feelings grow"
+        },
+        {
+          "scid": "thag16.5:14.2",
+          "pli": "anekā phassasambhavā;",
+          "en": "arising from touches."
+        },
+        {
+          "scid": "thag16.5:14.3",
+          "pli": "Abhijjhā ca vihesā ca,",
+          "en": "The mind is damaged"
+        },
+        {
+          "scid": "thag16.5:14.4",
+          "pli": "cittamassūpahaññati;",
+          "en": "by covetousness and cruelty."
+        },
+        {
+          "scid": "thag16.5:14.5",
+          "pli": "Evamācinato dukkhaṃ,",
+          "en": "Heaping up suffering like this,"
+        },
+        {
+          "scid": "thag16.5:14.6",
+          "pli": "ārā nibbāna vuccati.",
+          "en": "you’re said to be far from quenching."
+        },
+        {
+          "scid": "thag16.5:15.1",
+          "pli": "Dhammaṃ ñatvā sati muṭṭhā,",
+          "en": "When you know a thought, mindfulness is lost"
+        },
+        {
+          "scid": "thag16.5:15.2",
+          "pli": "Piyaṃ nimittaṃ manasi karoto;",
+          "en": "as attention latches on a pleasant feature."
+        },
+        {
+          "scid": "thag16.5:15.3",
+          "pli": "Sārattacitto vedeti,",
+          "en": "Experiencing it with a mind full of desire,"
+        },
+        {
+          "scid": "thag16.5:15.4",
+          "pli": "Tañca ajjhosa tiṭṭhati.",
+          "en": "you keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:16.1",
+          "pli": "Tassa vaḍḍhanti vedanā,",
+          "en": "Many feelings grow"
+        },
+        {
+          "scid": "thag16.5:16.2",
+          "pli": "anekā dhammasambhavā;",
+          "en": "arising from thoughts."
+        },
+        {
+          "scid": "thag16.5:16.3",
+          "pli": "Abhijjhā ca vihesā ca,",
+          "en": "The mind is damaged"
+        },
+        {
+          "scid": "thag16.5:16.4",
+          "pli": "cittamassūpahaññati;",
+          "en": "by covetousness and cruelty."
+        },
+        {
+          "scid": "thag16.5:16.5",
+          "pli": "Evamācinato dukkhaṃ,",
+          "en": "Heaping up suffering like this,"
+        },
+        {
+          "scid": "thag16.5:16.6",
+          "pli": "ārā nibbāna vuccati.",
+          "en": "you’re said to be far from quenching."
+        },
+        {
+          "scid": "thag16.5:17.1",
+          "pli": "Na so rajjati rūpesu,",
+          "en": "When you see a sight with mindfulness,"
+        },
+        {
+          "scid": "thag16.5:17.2",
+          "pli": "rūpaṃ disvā patissato;",
+          "en": "there’s no desire for sights."
+        },
+        {
+          "scid": "thag16.5:17.3",
+          "pli": "Virattacitto vedeti,",
+          "en": "Experiencing it with a mind free of desire,"
+        },
+        {
+          "scid": "thag16.5:17.4",
+          "pli": "tañca nājjhosa tiṭṭhati.",
+          "en": "you don’t keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:18.1",
+          "pli": "Yathāssa passato rūpaṃ,",
+          "en": "Even as you see a sight"
+        },
+        {
+          "scid": "thag16.5:18.2",
+          "pli": "sevato <span class=\"var\" title=\"vāpi (s2, s3, pts1)\" id=\"note377\">cāpi</span> vedanaṃ;",
+          "en": "and undergo a feeling,"
+        },
+        {
+          "scid": "thag16.5:18.3",
+          "pli": "Khīyati nopacīyati,",
+          "en": "you wear away, you don’t heap up:"
+        },
+        {
+          "scid": "thag16.5:18.4",
+          "pli": "evaṃ so caratī sato;",
+          "en": "that’s how to live mindfully."
+        },
+        {
+          "scid": "thag16.5:18.5",
+          "pli": "Evaṃ apacinato dukkhaṃ,",
+          "en": "Eroding suffering like this,"
+        },
+        {
+          "scid": "thag16.5:18.6",
+          "pli": "santike nibbāna vuccati.",
+          "en": "you’re said to be in the presence of quenching."
+        },
+        {
+          "scid": "thag16.5:19.1",
+          "pli": "Na so rajjati saddesu,",
+          "en": "When you hear a sound with mindfulness,"
+        },
+        {
+          "scid": "thag16.5:19.2",
+          "pli": "saddaṃ sutvā patissato;",
+          "en": "there’s no desire for sounds."
+        },
+        {
+          "scid": "thag16.5:19.3",
+          "pli": "Virattacitto vedeti,",
+          "en": "Experiencing it with a mind free of desire,"
+        },
+        {
+          "scid": "thag16.5:19.4",
+          "pli": "tañca nājjhosa tiṭṭhati.",
+          "en": "you don’t keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:20.1",
+          "pli": "Yathāssa suṇato saddaṃ,",
+          "en": "Even as you hear a sound"
+        },
+        {
+          "scid": "thag16.5:20.2",
+          "pli": "sevato cāpi vedanaṃ;",
+          "en": "and undergo a feeling,"
+        },
+        {
+          "scid": "thag16.5:20.3",
+          "pli": "Khīyati nopacīyati,",
+          "en": "you wear away, you don’t heap up:"
+        },
+        {
+          "scid": "thag16.5:20.4",
+          "pli": "evaṃ so caratī sato;",
+          "en": "that’s how to live mindfully."
+        },
+        {
+          "scid": "thag16.5:20.5",
+          "pli": "Evaṃ apacinato dukkhaṃ,",
+          "en": "Eroding suffering like this,"
+        },
+        {
+          "scid": "thag16.5:20.6",
+          "pli": "santike nibbāna vuccati.",
+          "en": "you’re said to be in the presence of quenching."
+        },
+        {
+          "scid": "thag16.5:21.1",
+          "pli": "Na so rajjati gandhesu,",
+          "en": "When you smell an odor with mindfulness,"
+        },
+        {
+          "scid": "thag16.5:21.2",
+          "pli": "gandhaṃ ghatvā patissato;",
+          "en": "there’s no desire for odors."
+        },
+        {
+          "scid": "thag16.5:21.3",
+          "pli": "Virattacitto vedeti,",
+          "en": "Experiencing it with a mind free of desire,"
+        },
+        {
+          "scid": "thag16.5:21.4",
+          "pli": "tañca nājjhosa tiṭṭhati.",
+          "en": "you don’t keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:22.1",
+          "pli": "Yathāssa ghāyato gandhaṃ,",
+          "en": "Even as you smell an odor"
+        },
+        {
+          "scid": "thag16.5:22.2",
+          "pli": "sevato cāpi vedanaṃ;",
+          "en": "and undergo a feeling,"
+        },
+        {
+          "scid": "thag16.5:22.3",
+          "pli": "Khīyati nopacīyati,",
+          "en": "you wear away, you don’t heap up:"
+        },
+        {
+          "scid": "thag16.5:22.4",
+          "pli": "evaṃ so caratī sato;",
+          "en": "that’s how to live mindfully."
+        },
+        {
+          "scid": "thag16.5:22.5",
+          "pli": "Evaṃ apacinato dukkhaṃ,",
+          "en": "Eroding suffering like this,"
+        },
+        {
+          "scid": "thag16.5:22.6",
+          "pli": "santike nibbāna vuccati.",
+          "en": "you’re said to be in the presence of quenching."
+        },
+        {
+          "scid": "thag16.5:23.1",
+          "pli": "Na so rajjati rasesu,",
+          "en": "Enjoying a taste with mindfulness,"
+        },
+        {
+          "scid": "thag16.5:23.2",
+          "pli": "rasaṃ bhotvā patissato;",
+          "en": "there’s no desire for tastes."
+        },
+        {
+          "scid": "thag16.5:23.3",
+          "pli": "Virattacitto vedeti,",
+          "en": "Experiencing it with a mind free of desire,"
+        },
+        {
+          "scid": "thag16.5:23.4",
+          "pli": "tañca nājjhosa tiṭṭhati.",
+          "en": "you don’t keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:24.1",
+          "pli": "Yathāssa sāyarato rasaṃ,",
+          "en": "Even as you savor a taste"
+        },
+        {
+          "scid": "thag16.5:24.2",
+          "pli": "sevato cāpi vedanaṃ;",
+          "en": "and undergo a feeling,"
+        },
+        {
+          "scid": "thag16.5:24.3",
+          "pli": "Khīyati nopacīyati,",
+          "en": "you wear away, you don’t heap up:"
+        },
+        {
+          "scid": "thag16.5:24.4",
+          "pli": "evaṃ so caratī sato;",
+          "en": "that’s how to live mindfully."
+        },
+        {
+          "scid": "thag16.5:24.5",
+          "pli": "Evaṃ apacinato dukkhaṃ,",
+          "en": "Eroding suffering like this,"
+        },
+        {
+          "scid": "thag16.5:24.6",
+          "pli": "santike nibbāna vuccati.",
+          "en": "you’re said to be in the presence of quenching."
+        },
+        {
+          "scid": "thag16.5:25.1",
+          "pli": "Na so rajjati phassesu,",
+          "en": "When you sense a touch with mindfulness,"
+        },
+        {
+          "scid": "thag16.5:25.2",
+          "pli": "phassaṃ phussa patissato;",
+          "en": "there’s no desire for touches."
+        },
+        {
+          "scid": "thag16.5:25.3",
+          "pli": "Virattacitto vedeti,",
+          "en": "Experiencing it with a mind free of desire,"
+        },
+        {
+          "scid": "thag16.5:25.4",
+          "pli": "tañca nājjhosa tiṭṭhati.",
+          "en": "you don’t keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:26.1",
+          "pli": "Yathāssa phusato phassaṃ,",
+          "en": "Even as you sense a touch"
+        },
+        {
+          "scid": "thag16.5:26.2",
+          "pli": "sevato cāpi vedanaṃ;",
+          "en": "and get familiar with how it feels,"
+        },
+        {
+          "scid": "thag16.5:26.3",
+          "pli": "Khīyati nopacīyati,",
+          "en": "you wear away, you don’t heap up:"
+        },
+        {
+          "scid": "thag16.5:26.4",
+          "pli": "evaṃ so caratī sato;",
+          "en": "that’s how to live mindfully."
+        },
+        {
+          "scid": "thag16.5:26.5",
+          "pli": "Evaṃ apacinato dukkhaṃ,",
+          "en": "Eroding suffering like this,"
+        },
+        {
+          "scid": "thag16.5:26.6",
+          "pli": "santike nibbāna vuccati.",
+          "en": "you’re said to be in the presence of quenching."
+        },
+        {
+          "scid": "thag16.5:27.1",
+          "pli": "Na so rajjati dhammesu,",
+          "en": "When you know a thought with mindfulness,"
+        },
+        {
+          "scid": "thag16.5:27.2",
+          "pli": "dhammaṃ ñatvā patissato;",
+          "en": "there’s no desire for thoughts."
+        },
+        {
+          "scid": "thag16.5:27.3",
+          "pli": "Virattacitto vedeti,",
+          "en": "Experiencing it with a mind free of desire,"
+        },
+        {
+          "scid": "thag16.5:27.4",
+          "pli": "tañca nājjhosa tiṭṭhati.",
+          "en": "you don’t keep clinging to it."
+        },
+        {
+          "scid": "thag16.5:28.1",
+          "pli": "Yathāssa vijānato dhammaṃ,",
+          "en": "Even as you know a thought"
+        },
+        {
+          "scid": "thag16.5:28.2",
+          "pli": "sevato cāpi vedanaṃ;",
+          "en": "and get familiar with how it feels,"
+        },
+        {
+          "scid": "thag16.5:28.3",
+          "pli": "Khīyati nopacīyati,",
+          "en": "you wear away, you don’t heap up:"
+        },
+        {
+          "scid": "thag16.5:28.4",
+          "pli": "evaṃ so caratī sato;",
+          "en": "that’s how to live mindfully."
+        },
+        {
+          "scid": "thag16.5:28.5",
+          "pli": "Evaṃ apacinato dukkhaṃ,",
+          "en": "Eroding suffering like this,"
+        },
+        {
+          "scid": "thag16.5:28.6",
+          "pli": "santike nibbāna vuccati”.",
+          "en": "you’re said to be in the presence of quenching."
+        },
+        {
+          "scid": "thag16.5:29.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag16.5:29.2",
+          "pli": "<span class=\"var\" title=\"māluṅkyaputto (bj, s2, s3, pts1-2)\" id=\"note378\">Mālukyaputto</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag16.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 16.5",
+    "volpages": "pts78",
+    "uid": "thag16.5",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mālukyaputtattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Māluṅkyaputta (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag16.5_sujato",
+        "segmented": true,
+        "title": "Māluṅkyaputta (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag16.5_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mālukyaputta"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

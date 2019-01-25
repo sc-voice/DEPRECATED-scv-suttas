@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag1.30",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.30",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Uttiya (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gahvaratīriya",
+      "uid": "thag1.31"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Hārita (1st)",
+      "uid": "thag1.29"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.30:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.30:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.30:3.1",
+          "pli": "Tatiyavagga",
+          "en": "Chapter Three"
+        },
+        {
+          "scid": "thag1.30:4.1",
+          "pli": "1.30. Uttiyattheragāthā",
+          "en": "1.30. Uttiya (1st)"
+        },
+        {
+          "scid": "thag1.30:5.1",
+          "pli": "“Ābādhe me samuppanne,",
+          "en": "When I was ill in the past,"
+        },
+        {
+          "scid": "thag1.30:5.2",
+          "pli": "sati me udapajjatha;",
+          "en": "mindfulness arose in me."
+        },
+        {
+          "scid": "thag1.30:5.3",
+          "pli": "Ābādho me samuppanno,",
+          "en": "Now I am ill once more—"
+        },
+        {
+          "scid": "thag1.30:5.4",
+          "pli": "kālo me nappamajjitun”ti.",
+          "en": "it’s time for me to be heedful."
+        },
+        {
+          "scid": "thag1.30:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:6.2",
+          "pli": "Uttiyo thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:6.3",
+          "pli": "Vaggo tatiyo.",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:7.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:8.1",
+          "pli": "Nigrodho cittako thero,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:8.2",
+          "pli": "gosālathero sugandho;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:8.3",
+          "pli": "Nandiyo abhayo thero,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:8.4",
+          "pli": "thero lomasakaṅgiyo;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:8.5",
+          "pli": "Jambugāmikaputto ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.30:8.6",
+          "pli": "hārito uttiyo isīti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.30/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.30",
+    "volpages": "pts5",
+    "uid": "thag1.30",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uttiyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uttiya (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.30_sujato",
+        "segmented": true,
+        "title": "Uttiya (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.30_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Uttiya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

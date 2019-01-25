@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Valliya (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gaṅgātīriya",
+      "uid": "thag2.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Piṇḍolabhāradvāja",
+      "uid": "thag2.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.3:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.3:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.3:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag2.3:4.1",
+          "pli": "2.3. Valliyattheragāthā",
+          "en": "2.3. Valliya (2nd)"
+        },
+        {
+          "scid": "thag2.3:5.1",
+          "pli": "“Makkaṭo pañcadvārāyaṃ,",
+          "en": "A monkey went up to the little hut"
+        },
+        {
+          "scid": "thag2.3:5.2",
+          "pli": "kuṭikāyaṃ pasakkiya;",
+          "en": "with five doors."
+        },
+        {
+          "scid": "thag2.3:5.3",
+          "pli": "Dvārena anupariyeti,",
+          "en": "He circles around, knocking"
+        },
+        {
+          "scid": "thag2.3:5.4",
+          "pli": "ghaṭṭayanto muhuṃ muhuṃ.",
+          "en": "on each door, again and again."
+        },
+        {
+          "scid": "thag2.3:6.1",
+          "pli": "Tiṭṭha makkaṭa mā dhāvi,",
+          "en": "Stand still monkey, don’t run!"
+        },
+        {
+          "scid": "thag2.3:6.2",
+          "pli": "na hi te taṃ yathā pure;",
+          "en": "Things are different now;"
+        },
+        {
+          "scid": "thag2.3:6.3",
+          "pli": "Niggahītosi paññāya,",
+          "en": "you’ve been caught by wisdom—"
+        },
+        {
+          "scid": "thag2.3:6.4",
+          "pli": "neva dūraṃ gamissatī”ti.",
+          "en": "you won’t go far."
+        },
+        {
+          "scid": "thag2.3:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.3:7.2",
+          "pli": "Valliyo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.3",
+    "volpages": "pts18",
+    "uid": "thag2.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Valliyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Valliya (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.3_sujato",
+        "segmented": true,
+        "title": "Valliya (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.3_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Valliya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

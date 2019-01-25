@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thig1.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Uttarā (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sumanā, Who Went Forth Late in Life",
+      "uid": "thig1.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sumanā",
+      "uid": "thig1.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.15:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.15:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.15:3.1",
+          "pli": "15. Uttarātherīgāthā",
+          "en": "1.15. Uttarā (1st)"
+        },
+        {
+          "scid": "thig1.15:4.1",
+          "pli": "“Kāyena saṃvutā āsiṃ,",
+          "en": "I was restrained"
+        },
+        {
+          "scid": "thig1.15:4.2",
+          "pli": "vācāya uda cetasā;",
+          "en": "in body, speech, and mind."
+        },
+        {
+          "scid": "thig1.15:4.3",
+          "pli": "Samūlaṃ taṇhamabbuyha,",
+          "en": "Having plucked out craving root and all,"
+        },
+        {
+          "scid": "thig1.15:4.4",
+          "pli": "sītibhūtāmhi nibbutā”ti.",
+          "en": "I’m cooled and quenched."
+        },
+        {
+          "scid": "thig1.15:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.15:5.2",
+          "pli": "Uttarā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.15",
+    "volpages": "pts125",
+    "uid": "thig1.15",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uttarātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uttarā (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.15_sujato",
+        "segmented": true,
+        "title": "Uttarā (1st)",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.15_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Uttarā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 15
+  }
+}

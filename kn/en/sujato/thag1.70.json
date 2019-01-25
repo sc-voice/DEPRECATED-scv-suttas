@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag1.70",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.70",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Puṇṇa (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vacchapāla",
+      "uid": "thag1.71"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Channa",
+      "uid": "thag1.69"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.70:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.70:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.70:3.1",
+          "pli": "Sattamavagga",
+          "en": "Chapter Seven"
+        },
+        {
+          "scid": "thag1.70:4.1",
+          "pli": "1.70. Puṇṇattheragāthā",
+          "en": "1.70. Puṇṇa (2nd)"
+        },
+        {
+          "scid": "thag1.70:5.1",
+          "pli": "“Sīlameva idha aggaṃ,",
+          "en": "Ethical conduct is best in this life,"
+        },
+        {
+          "scid": "thag1.70:5.2",
+          "pli": "paññavā pana uttamo;",
+          "en": "but one with wisdom is supreme."
+        },
+        {
+          "scid": "thag1.70:5.3",
+          "pli": "Manussesu ca devesu,",
+          "en": "Someone with both virtue and wisdom"
+        },
+        {
+          "scid": "thag1.70:5.4",
+          "pli": "sīlapaññāṇato jayan”ti.",
+          "en": "is victorious among men and gods."
+        },
+        {
+          "scid": "thag1.70:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:6.2",
+          "pli": "Puṇṇo thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:6.3",
+          "pli": "Vaggo sattamo.",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:7.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:8.1",
+          "pli": "Vappo ca vajjiputto ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:8.2",
+          "pli": "pakkho vimalakoṇḍañño;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:8.3",
+          "pli": "Ukkhepakatavaccho ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:8.4",
+          "pli": "meghiyo ekadhammiko;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:8.5",
+          "pli": "Ekudāniyachannā ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.70:8.6",
+          "pli": "puṇṇatthero mahabbaloti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.70/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.70",
+    "volpages": "pts11",
+    "uid": "thag1.70",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Puṇṇattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Puṇṇa (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.70_sujato",
+        "segmented": true,
+        "title": "Puṇṇa (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.70_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Puṇṇa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

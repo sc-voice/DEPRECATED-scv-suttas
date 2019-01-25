@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.115",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.115",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mahānāma",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pārāpariya (1st)",
+      "uid": "thag1.116"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Adhimutta (1st)",
+      "uid": "thag1.114"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.115:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.115:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.115:3.1",
+          "pli": "Dvādasamavagga",
+          "en": "Chapter Twelve"
+        },
+        {
+          "scid": "thag1.115:4.1",
+          "pli": "1.115. Mahānāmattheragāthā",
+          "en": "1.115. Mahānāma"
+        },
+        {
+          "scid": "thag1.115:5.1",
+          "pli": "“Esāvahiyyase pabbatena,",
+          "en": "By Mount Nesādaka,"
+        },
+        {
+          "scid": "thag1.115:5.2",
+          "pli": "<span class=\"var\" title=\"... sallarikena (bj, s2, s3)\" id=\"note78\">Bahukuṭajasallakikena</span>;",
+          "en": "with its famous covering"
+        },
+        {
+          "scid": "thag1.115:5.3",
+          "pli": "Nesādakena girinā,",
+          "en": "of abundant shrubs and trees,"
+        },
+        {
+          "scid": "thag1.115:5.4",
+          "pli": "Yasassinā paricchadenā”ti.",
+          "en": "you’re found deficient."
+        },
+        {
+          "scid": "thag1.115:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.115:6.2",
+          "pli": "Mahānāmo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.115/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.115",
+    "volpages": "pts16",
+    "uid": "thag1.115",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mahānāmattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mahānāma",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.115_sujato",
+        "segmented": true,
+        "title": "Mahānāma",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.115_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mahānāma"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.46",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.46",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Cūḷaka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Anūpama",
+      "uid": "thag2.47"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Visākhapañcālaputta",
+      "uid": "thag2.45"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.46:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.46:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.46:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag2.46:4.1",
+          "pli": "2.46. Cūḷakattheragāthā",
+          "en": "2.46. Cūḷaka"
+        },
+        {
+          "scid": "thag2.46:5.1",
+          "pli": "“Nadanti morā susikhā supekhuṇā,",
+          "en": "The peacocks cry out with their fair crests and tails,"
+        },
+        {
+          "scid": "thag2.46:5.2",
+          "pli": "Sunīlagīvā sumukhā sugajjino;",
+          "en": "their lovely blue necks and fair faces, their beautiful song and their call."
+        },
+        {
+          "scid": "thag2.46:5.3",
+          "pli": "Susaddalā cāpi mahāmahī ayaṃ,",
+          "en": "This broad earth is lush with grass and dew,"
+        },
+        {
+          "scid": "thag2.46:5.4",
+          "pli": "Subyāpitambu suvalāhakaṃ nabhaṃ.",
+          "en": "and the sky is full of beautiful clouds."
+        },
+        {
+          "scid": "thag2.46:6.1",
+          "pli": "Sukallarūpo sumanassa <span class=\"var\" title=\"jhāyitaṃ (s2, s3, pts1, mr)\" id=\"note142\">jhāyataṃ</span>,",
+          "en": "One practicing absorption is happy in mind, and their appearance is uplifting;"
+        },
+        {
+          "scid": "thag2.46:6.2",
+          "pli": "<span class=\"var\" title=\"sunikkhamo (bj, pts1)\" id=\"note143\">Sunikkamo</span> sādhu subuddhasāsane;",
+          "en": "going forth in the teaching of the Buddha is easy for a good person."
+        },
+        {
+          "scid": "thag2.46:6.3",
+          "pli": "Susukkasukkaṃ nipuṇaṃ sududdasaṃ,",
+          "en": "You should realize that supreme, unchanging state,"
+        },
+        {
+          "scid": "thag2.46:6.4",
+          "pli": "Phusāhi taṃ uttamamaccutaṃ padan”ti.",
+          "en": "so very pure, subtle, and hard to see."
+        },
+        {
+          "scid": "thag2.46:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.46:7.2",
+          "pli": "<span class=\"var\" title=\"cūlakat (bj)\" id=\"note144\">Cūḷako</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.46/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.46",
+    "volpages": "pts27",
+    "uid": "thag2.46",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Cūḷakattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Cūḷaka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.46_sujato",
+        "segmented": true,
+        "title": "Cūḷaka",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.46_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Cūḷaka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

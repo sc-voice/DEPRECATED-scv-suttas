@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "thig2.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig2.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Aḍḍhakāsi",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cittā",
+      "uid": "thig2.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sumaṅgala’s Mother",
+      "uid": "thig2.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.4:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig2.4:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thig2.4:3.1",
+          "pli": "<span class=\"var\" title=\"aḍḍhakāsītherīgāthā (bj)\" id=\"note18\">4 Aḍḍhakāsitherīgāthā</span>",
+          "en": "2.4. Aḍḍhakāsi"
+        },
+        {
+          "scid": "thig2.4:4.1",
+          "pli": "“Yāva kāsijanapado,",
+          "en": "The price for my services"
+        },
+        {
+          "scid": "thig2.4:4.2",
+          "pli": "suṅko me tatthako ahu;",
+          "en": "amounted to the nation of Kāsi."
+        },
+        {
+          "scid": "thig2.4:4.3",
+          "pli": "Taṃ katvā negamo agghaṃ,",
+          "en": "By setting that price,"
+        },
+        {
+          "scid": "thig2.4:4.4",
+          "pli": "aḍḍhenagghaṃ ṭhapesi maṃ.",
+          "en": "the townsfolk made me priceless."
+        },
+        {
+          "scid": "thig2.4:5.1",
+          "pli": "Atha nibbindahaṃ rūpe,",
+          "en": "Then, growing disillusioned with my form,"
+        },
+        {
+          "scid": "thig2.4:5.2",
+          "pli": "nibbindañca virajjahaṃ;",
+          "en": "I became dispassionate."
+        },
+        {
+          "scid": "thig2.4:5.3",
+          "pli": "Mā puna jātisaṃsāraṃ,",
+          "en": "Don’t journey on and on,"
+        },
+        {
+          "scid": "thig2.4:5.4",
+          "pli": "sandhāveyyaṃ punappunaṃ;",
+          "en": "transmigrating through rebirths!"
+        },
+        {
+          "scid": "thig2.4:5.5",
+          "pli": "Tisso vijjā sacchikatā,",
+          "en": "I've realized the three knowledges,"
+        },
+        {
+          "scid": "thig2.4:5.6",
+          "pli": "kataṃ buddhassa sāsanan”ti.",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thig2.4:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig2.4:6.2",
+          "pli": "<span class=\"var\" title=\"aḍḍhakāsī (bj, s2, s3, pts1-2)\" id=\"note19\">Aḍḍhakāsi</span> therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 2.4",
+    "volpages": "pts126",
+    "uid": "thig2.4",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Aḍḍhakāsitherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Aḍḍhakāsi",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig2.4_sujato",
+        "segmented": true,
+        "title": "Aḍḍhakāsi",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.4_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Aḍḍhakāsi"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 4
+  }
+}

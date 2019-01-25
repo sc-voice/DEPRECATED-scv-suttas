@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thig1.13",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.13",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Visākhā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sumanā",
+      "uid": "thig1.14"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dhammadinnā",
+      "uid": "thig1.12"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.13:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.13:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.13:3.1",
+          "pli": "13. Visākhātherīgāthā",
+          "en": "1.13. Visākhā"
+        },
+        {
+          "scid": "thig1.13:4.1",
+          "pli": "“Karotha buddhasāsanaṃ,",
+          "en": "Fulfill the Buddha’s instructions,"
+        },
+        {
+          "scid": "thig1.13:4.2",
+          "pli": "yaṃ katvā nānutappati;",
+          "en": "after which you’ll not regret."
+        },
+        {
+          "scid": "thig1.13:4.3",
+          "pli": "Khippaṃ pādāni dhovitvā,",
+          "en": "Having quickly washed your feet,"
+        },
+        {
+          "scid": "thig1.13:4.4",
+          "pli": "ekamante nisīdathā”ti.",
+          "en": "sit in a discreet place to meditate."
+        },
+        {
+          "scid": "thig1.13:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.13:5.2",
+          "pli": "Visākhā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.13/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.13",
+    "volpages": "pts124",
+    "uid": "thig1.13",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Visākhātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Visākhā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.13_sujato",
+        "segmented": true,
+        "title": "Visākhā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.13_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Visākhā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 13
+  }
+}

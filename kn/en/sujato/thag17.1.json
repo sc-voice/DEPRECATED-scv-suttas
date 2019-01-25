@@ -1,0 +1,760 @@
+{
+  "sutta_uid": "thag17.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag17.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Phussa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sāriputta",
+      "uid": "thag17.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pārāpariya (3rd)",
+      "uid": "thag16.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag17.1:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag17.1:2.1",
+          "pli": "Tiṃsanipāta",
+          "en": "The Book of the Thirties"
+        },
+        {
+          "scid": "thag17.1:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag17.1:4.1",
+          "pli": "17.1. Phussattheragāthā",
+          "en": "17.1. Phussa"
+        },
+        {
+          "scid": "thag17.1:5.1",
+          "pli": "Pāsādike bahū disvā,",
+          "en": "Seeing many who inspire confidence,"
+        },
+        {
+          "scid": "thag17.1:5.2",
+          "pli": "bhāvitatte susaṃvute;",
+          "en": "personally developed and well-restrained,"
+        },
+        {
+          "scid": "thag17.1:5.3",
+          "pli": "Isi <span class=\"var\" title=\"paṇḍarassa gotto (bj)\" id=\"note422\">paṇḍarasagotto</span>,",
+          "en": "the hermit Paṇḍarasagotta"
+        },
+        {
+          "scid": "thag17.1:5.4",
+          "pli": "apucchi phussasavhayaṃ.",
+          "en": "asked the one known as Phussa:"
+        },
+        {
+          "scid": "thag17.1:6.1",
+          "pli": "“Kiṃchandā kimadhippāyā,",
+          "en": "“In future times,"
+        },
+        {
+          "scid": "thag17.1:6.2",
+          "pli": "kimākappā bhavissare;",
+          "en": "what desire and motivation"
+        },
+        {
+          "scid": "thag17.1:6.3",
+          "pli": "Anāgatamhi kālamhi,",
+          "en": "and behavior will people have?"
+        },
+        {
+          "scid": "thag17.1:6.4",
+          "pli": "taṃ me akkhāhi pucchito”.",
+          "en": "Please answer my question.”"
+        },
+        {
+          "scid": "thag17.1:7.1",
+          "pli": "“Suṇohi vacanaṃ mayhaṃ,",
+          "en": "“Listen to my words,"
+        },
+        {
+          "scid": "thag17.1:7.2",
+          "pli": "isipaṇḍarasavhaya;",
+          "en": "Paṇḍarasa the hermit,"
+        },
+        {
+          "scid": "thag17.1:7.3",
+          "pli": "Sakkaccaṃ upadhārehi,",
+          "en": "and remember them carefully,"
+        },
+        {
+          "scid": "thag17.1:7.4",
+          "pli": "ācikkhissāmyanāgataṃ.",
+          "en": "I will describe the future."
+        },
+        {
+          "scid": "thag17.1:8.1",
+          "pli": "Kodhanā upanāhī ca,",
+          "en": "In the future many will be"
+        },
+        {
+          "scid": "thag17.1:8.2",
+          "pli": "makkhī thambhī saṭhā bahū;",
+          "en": "angry and hostile,"
+        },
+        {
+          "scid": "thag17.1:8.3",
+          "pli": "Ussukī nānāvādā ca,",
+          "en": "offensive, stubborn, and devious,"
+        },
+        {
+          "scid": "thag17.1:8.4",
+          "pli": "bhavissanti anāgate.",
+          "en": "envious, holding divergent views."
+        },
+        {
+          "scid": "thag17.1:9.1",
+          "pli": "Aññātamānino dhamme,",
+          "en": "Imagining they understand the depths of the teaching,"
+        },
+        {
+          "scid": "thag17.1:9.2",
+          "pli": "gambhīre tīragocarā;",
+          "en": "they remain on the near shore."
+        },
+        {
+          "scid": "thag17.1:9.3",
+          "pli": "Lahukā agarū dhamme,",
+          "en": "Superficial and disrespectful towards the teaching,"
+        },
+        {
+          "scid": "thag17.1:9.4",
+          "pli": "aññamaññamagāravā.",
+          "en": "they lack respect for one another."
+        },
+        {
+          "scid": "thag17.1:10.1",
+          "pli": "Bahū ādīnavā loke,",
+          "en": "In the future"
+        },
+        {
+          "scid": "thag17.1:10.2",
+          "pli": "uppajjissantyanāgate;",
+          "en": "many dangers will arise in the world."
+        },
+        {
+          "scid": "thag17.1:10.3",
+          "pli": "Sudesitaṃ imaṃ dhammaṃ,",
+          "en": "Idiots will defile"
+        },
+        {
+          "scid": "thag17.1:10.4",
+          "pli": "<span class=\"var\" title=\"kilesissanti (bj, pts2) | kilisissanti (s2, s3, pts1, mr)\" id=\"note423\">kilesessanti</span> dummatī.",
+          "en": "the Dhamma that was taught so well."
+        },
+        {
+          "scid": "thag17.1:11.1",
+          "pli": "Guṇahīnāpi saṃghamhi,",
+          "en": "Though bereft of good qualities,"
+        },
+        {
+          "scid": "thag17.1:11.2",
+          "pli": "<span class=\"var\" title=\"voharanti (pts1)\" id=\"note424\">voharantā</span> visāradā;",
+          "en": "unlearned prattlers, too sure of themselves,"
+        },
+        {
+          "scid": "thag17.1:11.3",
+          "pli": "Balavanto bhavissanti,",
+          "en": "will become powerful"
+        },
+        {
+          "scid": "thag17.1:11.4",
+          "pli": "mukharā assutāvino.",
+          "en": "in running Saṅgha proceedings."
+        },
+        {
+          "scid": "thag17.1:12.1",
+          "pli": "Guṇavantopi saṃghamhi,",
+          "en": "Though possessing good qualities,"
+        },
+        {
+          "scid": "thag17.1:12.2",
+          "pli": "voharantā yathātthato;",
+          "en": "the conscientious and unbiased, acting in the proper spirit,"
+        },
+        {
+          "scid": "thag17.1:12.3",
+          "pli": "Dubbalā te bhavissanti,",
+          "en": "will become weak"
+        },
+        {
+          "scid": "thag17.1:12.4",
+          "pli": "hirīmanā anatthikā.",
+          "en": "in running Saṅgha proceedings."
+        },
+        {
+          "scid": "thag17.1:13.1",
+          "pli": "Rajataṃ jātarūpañca,",
+          "en": "In the future, fools will accept"
+        },
+        {
+          "scid": "thag17.1:13.2",
+          "pli": "khettaṃ vatthumajeḷakaṃ;",
+          "en": "money, gold, and silver,"
+        },
+        {
+          "scid": "thag17.1:13.3",
+          "pli": "Dāsidāsañca dummedhā,",
+          "en": "fields and land, goats and sheep,"
+        },
+        {
+          "scid": "thag17.1:13.4",
+          "pli": "sādiyissantyanāgate.",
+          "en": "and bonded servants, male and female."
+        },
+        {
+          "scid": "thag17.1:14.1",
+          "pli": "Ujjhānasaññino bālā,",
+          "en": "Fools looking for fault in others,"
+        },
+        {
+          "scid": "thag17.1:14.2",
+          "pli": "sīlesu asamāhitā;",
+          "en": "but unsteady in their own ethics,"
+        },
+        {
+          "scid": "thag17.1:14.3",
+          "pli": "Unnaḷā vicarissanti,",
+          "en": "will wander about, insolent,"
+        },
+        {
+          "scid": "thag17.1:14.4",
+          "pli": "kalahābhiratā magā.",
+          "en": "like cantankerous beasts."
+        },
+        {
+          "scid": "thag17.1:15.1",
+          "pli": "Uddhatā ca bhavissanti,",
+          "en": "They’ll be arrogant,"
+        },
+        {
+          "scid": "thag17.1:15.2",
+          "pli": "nīlacīvarapārutā;",
+          "en": "wrapped in robes of blue;"
+        },
+        {
+          "scid": "thag17.1:15.3",
+          "pli": "Kuhā thaddhā lapā siṅgī,",
+          "en": "deceivers, stubborn, flatterers, and frauds,"
+        },
+        {
+          "scid": "thag17.1:15.4",
+          "pli": "carissantyariyā viya.",
+          "en": "they’ll wander as if they were noble ones."
+        },
+        {
+          "scid": "thag17.1:16.1",
+          "pli": "Telasaṇṭhehi kesehi,",
+          "en": "With hair sleeked back with oil,"
+        },
+        {
+          "scid": "thag17.1:16.2",
+          "pli": "capalā añjanakkhikā;",
+          "en": "fickle, their eyes painted with eye-liner,"
+        },
+        {
+          "scid": "thag17.1:16.3",
+          "pli": "Rathiyāya gamissanti,",
+          "en": "they’ll travel on the high-road,"
+        },
+        {
+          "scid": "thag17.1:16.4",
+          "pli": "dantavaṇṇikapārutā.",
+          "en": "wrapped in robes of ivory color."
+        },
+        {
+          "scid": "thag17.1:17.1",
+          "pli": "Ajegucchaṃ vimuttehi,",
+          "en": "The deep-dyed ocher robe,"
+        },
+        {
+          "scid": "thag17.1:17.2",
+          "pli": "surattaṃ arahaddhajaṃ;",
+          "en": "worn without disgust by the free,"
+        },
+        {
+          "scid": "thag17.1:17.3",
+          "pli": "Jigucchissanti kāsāvaṃ,",
+          "en": "they will come to loathe,"
+        },
+        {
+          "scid": "thag17.1:17.4",
+          "pli": "odātesu samucchitā.",
+          "en": "besotted by white clothes."
+        },
+        {
+          "scid": "thag17.1:18.1",
+          "pli": "Lābhakāmā bhavissanti,",
+          "en": "They’ll want lots of possessions,"
+        },
+        {
+          "scid": "thag17.1:18.2",
+          "pli": "kusītā hīnavīriyā;",
+          "en": "and be lazy, lacking energy."
+        },
+        {
+          "scid": "thag17.1:18.3",
+          "pli": "Kicchantā vanapatthāni,",
+          "en": "Weary of the forest,"
+        },
+        {
+          "scid": "thag17.1:18.4",
+          "pli": "gāmantesu vasissare.",
+          "en": "they’ll stay in the neighborhood of villages."
+        },
+        {
+          "scid": "thag17.1:19.1",
+          "pli": "Ye ye lābhaṃ labhissanti,",
+          "en": "Being unrestrained, they’ll keep company with"
+        },
+        {
+          "scid": "thag17.1:19.2",
+          "pli": "micchājīvaratā sadā;",
+          "en": "those who get lots of stuff,"
+        },
+        {
+          "scid": "thag17.1:19.3",
+          "pli": "Te teva anusikkhantā,",
+          "en": "and who always enjoy wrong livelihood,"
+        },
+        {
+          "scid": "thag17.1:19.4",
+          "pli": "bhajissanti asaṃyatā.",
+          "en": "following their example."
+        },
+        {
+          "scid": "thag17.1:20.1",
+          "pli": "Ye ye alābhino lābhaṃ,",
+          "en": "They won’t respect those"
+        },
+        {
+          "scid": "thag17.1:20.2",
+          "pli": "na te pujjā bhavissare;",
+          "en": "who don’t get lots of stuff,"
+        },
+        {
+          "scid": "thag17.1:20.3",
+          "pli": "Supesalepi te dhīre,",
+          "en": "and they won’t associate with the wise,"
+        },
+        {
+          "scid": "thag17.1:20.4",
+          "pli": "sevissanti na te tadā.",
+          "en": "even though they’re very amiable."
+        },
+        {
+          "scid": "thag17.1:21.1",
+          "pli": "<span class=\"var\" title=\"pilakkharajanaṃ rattaṃ (?)\" id=\"note425\">Milakkhurajanaṃ rattaṃ</span>,",
+          "en": "Disparaging their own banner,"
+        },
+        {
+          "scid": "thag17.1:21.2",
+          "pli": "garahantā sakaṃ dhajaṃ;",
+          "en": "which is dyed the color of copper,"
+        },
+        {
+          "scid": "thag17.1:21.3",
+          "pli": "Titthiyānaṃ dhajaṃ keci,",
+          "en": "some will wear the white banner"
+        },
+        {
+          "scid": "thag17.1:21.4",
+          "pli": "dhārissantyavadātakaṃ.",
+          "en": "of those who follow other paths."
+        },
+        {
+          "scid": "thag17.1:22.1",
+          "pli": "Agāravo ca kāsāve,",
+          "en": "Then they’ll have no respect"
+        },
+        {
+          "scid": "thag17.1:22.2",
+          "pli": "tadā tesaṃ bhavissati;",
+          "en": "for the ocher robe."
+        },
+        {
+          "scid": "thag17.1:22.3",
+          "pli": "Paṭisaṅkhā ca kāsāve,",
+          "en": "The mendicants will not reflect"
+        },
+        {
+          "scid": "thag17.1:22.4",
+          "pli": "bhikkhūnaṃ na bhavissati.",
+          "en": "on the nature of the ocher robe."
+        },
+        {
+          "scid": "thag17.1:23.1",
+          "pli": "Abhibhūtassa dukkhena,",
+          "en": "This awful lack of reflection"
+        },
+        {
+          "scid": "thag17.1:23.2",
+          "pli": "sallaviddhassa ruppato;",
+          "en": "was unthinkable to the elephant,"
+        },
+        {
+          "scid": "thag17.1:23.3",
+          "pli": "Paṭisaṅkhā mahāghorā,",
+          "en": "who was overcome by suffering,"
+        },
+        {
+          "scid": "thag17.1:23.4",
+          "pli": "nāgassāsi acintiyā.",
+          "en": "injured, pierced by an arrow."
+        },
+        {
+          "scid": "thag17.1:24.1",
+          "pli": "Chaddanto hi tadā disvā,",
+          "en": "Then the six-tusked elephant,"
+        },
+        {
+          "scid": "thag17.1:24.2",
+          "pli": "surattaṃ arahaddhajaṃ;",
+          "en": "seeing the deep-dyed banner of the perfected ones,"
+        },
+        {
+          "scid": "thag17.1:24.3",
+          "pli": "Tāvadeva bhaṇī gāthā,",
+          "en": "straight away spoke these verses"
+        },
+        {
+          "scid": "thag17.1:24.4",
+          "pli": "gajo atthopasaṃhitā.",
+          "en": "connected with the goal."
+        },
+        {
+          "scid": "thag17.1:25.1",
+          "pli": "<span class=\"cross\" title=\"^dhp1-20#7.1 [1. Cakkhupālattheravatthu/7. Devadattavatthu]\" id=\"note426\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc969\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts969\"></a>Anikkasāvo kāsāvaṃ,",
+          "en": "The impure one"
+        },
+        {
+          "scid": "thag17.1:25.2",
+          "pli": "yo vatthaṃ <span class=\"var\" title=\"paridahessati (bj, s2, s3) | paridahissati (pts1)\" id=\"note427\">paridhassati</span>;",
+          "en": "who will wear the ocher robe"
+        },
+        {
+          "scid": "thag17.1:25.3",
+          "pli": "Apeto damasaccena,",
+          "en": "without taming and truth:"
+        },
+        {
+          "scid": "thag17.1:25.4",
+          "pli": "na so kāsāvamarahati.",
+          "en": "they are not worthy of the ocher robe."
+        },
+        {
+          "scid": "thag17.1:26.1",
+          "pli": "Yo ca vantakasāvassa,",
+          "en": "Whoever has rejected impurities,"
+        },
+        {
+          "scid": "thag17.1:26.2",
+          "pli": "sīlesu susamāhito;",
+          "en": "steady in ethics,"
+        },
+        {
+          "scid": "thag17.1:26.3",
+          "pli": "Upeto damasaccena,",
+          "en": "possessing truth and taming:"
+        },
+        {
+          "scid": "thag17.1:26.4",
+          "pli": "sa ve kāsāvamarahati.",
+          "en": "they are truly worthy of the ocher robe."
+        },
+        {
+          "scid": "thag17.1:27.1",
+          "pli": "Vipannasīlo dummedho,",
+          "en": "Devoid of virtue, unintelligent,"
+        },
+        {
+          "scid": "thag17.1:27.2",
+          "pli": "pākaṭo kāmakāriyo;",
+          "en": "wild, doing what they like,"
+        },
+        {
+          "scid": "thag17.1:27.3",
+          "pli": "Vibbhantacitto nissukko,",
+          "en": "their minds astray, indolent:"
+        },
+        {
+          "scid": "thag17.1:27.4",
+          "pli": "na so kāsāvamarahati.",
+          "en": "they are not worthy of the ocher robe."
+        },
+        {
+          "scid": "thag17.1:28.1",
+          "pli": "Yo ca sīlena sampanno,",
+          "en": "One accomplished in ethics,"
+        },
+        {
+          "scid": "thag17.1:28.2",
+          "pli": "vītarāgo samāhito;",
+          "en": "free of greed, serene,"
+        },
+        {
+          "scid": "thag17.1:28.3",
+          "pli": "Odātamanasaṅkappo,",
+          "en": "their heart’s intention pure:"
+        },
+        {
+          "scid": "thag17.1:28.4",
+          "pli": "sa ve kāsāvamarahati.",
+          "en": "they are truly worthy of the ocher robe."
+        },
+        {
+          "scid": "thag17.1:29.1",
+          "pli": "Uddhato unnaḷo bālo,",
+          "en": "The conceited, arrogant fool,"
+        },
+        {
+          "scid": "thag17.1:29.2",
+          "pli": "sīlaṃ yassa na vijjati;",
+          "en": "who has no ethics at all,"
+        },
+        {
+          "scid": "thag17.1:29.3",
+          "pli": "Odātakaṃ arahati,",
+          "en": "is worthy of a white robe—"
+        },
+        {
+          "scid": "thag17.1:29.4",
+          "pli": "kāsāvaṃ kiṃ karissati.",
+          "en": "what use is an ocher robe for them?"
+        },
+        {
+          "scid": "thag17.1:30.1",
+          "pli": "Bhikkhū ca bhikkhuniyo ca,",
+          "en": "In the future, monks and nuns"
+        },
+        {
+          "scid": "thag17.1:30.2",
+          "pli": "duṭṭhacittā anādarā;",
+          "en": "with corrupt hearts, lacking regard for others,"
+        },
+        {
+          "scid": "thag17.1:30.3",
+          "pli": "Tādīnaṃ mettacittānaṃ,",
+          "en": "will disparage those"
+        },
+        {
+          "scid": "thag17.1:30.4",
+          "pli": "niggaṇhissantyanāgate.",
+          "en": "with hearts of loving-kindness."
+        },
+        {
+          "scid": "thag17.1:31.1",
+          "pli": "Sikkhāpentāpi therehi,",
+          "en": "Though trained in wearing the robe"
+        },
+        {
+          "scid": "thag17.1:31.2",
+          "pli": "bālā cīvaradhāraṇaṃ;",
+          "en": "by senior monks,"
+        },
+        {
+          "scid": "thag17.1:31.3",
+          "pli": "Na suṇissanti dummedhā,",
+          "en": "the unintelligent will not listen,"
+        },
+        {
+          "scid": "thag17.1:31.4",
+          "pli": "pākaṭā kāmakāriyā.",
+          "en": "wild, doing what they like."
+        },
+        {
+          "scid": "thag17.1:32.1",
+          "pli": "Te tathā sikkhitā bālā,",
+          "en": "With that kind of attitude to training,"
+        },
+        {
+          "scid": "thag17.1:32.2",
+          "pli": "aññamaññaṃ agāravā;",
+          "en": "those fools won’t respect each other,"
+        },
+        {
+          "scid": "thag17.1:32.3",
+          "pli": "Nādiyissantupajjhāye,",
+          "en": "or take any notice of their mentors,"
+        },
+        {
+          "scid": "thag17.1:32.4",
+          "pli": "khaḷuṅko viya sārathiṃ.",
+          "en": "like a wild colt with its charioteer."
+        },
+        {
+          "scid": "thag17.1:33.1",
+          "pli": "Evaṃ anāgataddhānaṃ,",
+          "en": "Even so, in the future,"
+        },
+        {
+          "scid": "thag17.1:33.2",
+          "pli": "paṭipatti bhavissati;",
+          "en": "this will be the practice"
+        },
+        {
+          "scid": "thag17.1:33.3",
+          "pli": "Bhikkhūnaṃ bhikkhunīnañca,",
+          "en": "of monks and nuns"
+        },
+        {
+          "scid": "thag17.1:33.4",
+          "pli": "patte kālamhi pacchime’.",
+          "en": "when the latter days have come."
+        },
+        {
+          "scid": "thag17.1:34.1",
+          "pli": "Purā āgacchate etaṃ,",
+          "en": "Before this frightening future arrives,"
+        },
+        {
+          "scid": "thag17.1:34.2",
+          "pli": "anāgataṃ mahabbhayaṃ;",
+          "en": "be easy to admonish,"
+        },
+        {
+          "scid": "thag17.1:34.3",
+          "pli": "Subbacā hotha sakhilā,",
+          "en": "kind in speech,"
+        },
+        {
+          "scid": "thag17.1:34.4",
+          "pli": "aññamaññaṃ sagāravā.",
+          "en": "and respect one another."
+        },
+        {
+          "scid": "thag17.1:35.1",
+          "pli": "Mettacittā kāruṇikā,",
+          "en": "Have hearts of love and compassion,"
+        },
+        {
+          "scid": "thag17.1:35.2",
+          "pli": "Hotha sīlesu saṃvutā;",
+          "en": "and please do keep your precepts."
+        },
+        {
+          "scid": "thag17.1:35.3",
+          "pli": "Āraddhavīriyā pahitattā,",
+          "en": "Be energetic, resolute,"
+        },
+        {
+          "scid": "thag17.1:35.4",
+          "pli": "Niccaṃ daḷhaparakkamā.",
+          "en": "and always staunchly vigorous."
+        },
+        {
+          "scid": "thag17.1:36.1",
+          "pli": "Pamādaṃ bhayato disvā,",
+          "en": "Seeing negligence as fearful,"
+        },
+        {
+          "scid": "thag17.1:36.2",
+          "pli": "Appamādañca khemato;",
+          "en": "and diligence as a sanctuary,"
+        },
+        {
+          "scid": "thag17.1:36.3",
+          "pli": "Bhāvethaṭṭhaṅgikaṃ maggaṃ,",
+          "en": "develop the eightfold path,"
+        },
+        {
+          "scid": "thag17.1:36.4",
+          "pli": "<span class=\"var\" title=\"phusanti (s2, s3, pts1)\" id=\"note428\">Phusantā</span> amataṃ padan”ti.",
+          "en": "realizing the deathless state.”"
+        },
+        {
+          "scid": "thag17.1:37.1",
+          "pli": "…",
+          "en": "…"
+        },
+        {
+          "scid": "thag17.1:37.2",
+          "pli": "<span class=\"var\" title=\"pussathero (s2, s3)\" id=\"note429\">Phusso</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag17.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 17.1",
+    "volpages": "pts87",
+    "uid": "thag17.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Phussattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Phussa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag17.1_sujato",
+        "segmented": true,
+        "title": "Phussa",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag17.1_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Phussa"
+      }
+    ],
+    "parallel_count": 22,
+    "biblio": null,
+    "num": 1
+  }
+}

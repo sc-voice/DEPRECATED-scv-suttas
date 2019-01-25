@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.58",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.58",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Ramaṇīyakuṭika",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kosalavihārin",
+      "uid": "thag1.59"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kuṭivihārin (2nd)",
+      "uid": "thag1.57"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.58:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.58:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.58:3.1",
+          "pli": "Chaṭṭhavagga",
+          "en": "Chapter Six"
+        },
+        {
+          "scid": "thag1.58:4.1",
+          "pli": "1.58. Ramaṇīyakuṭikattheragāthā",
+          "en": "1.58. Ramaṇīyakuṭika"
+        },
+        {
+          "scid": "thag1.58:5.1",
+          "pli": "“Ramaṇīyā me kuṭikā,",
+          "en": "My little hut is pleasing, delightful,"
+        },
+        {
+          "scid": "thag1.58:5.2",
+          "pli": "Saddhādeyyā manoramā;",
+          "en": "a gift given in faith."
+        },
+        {
+          "scid": "thag1.58:5.3",
+          "pli": "Na me attho kumārīhi,",
+          "en": "I’ve no need of girls:"
+        },
+        {
+          "scid": "thag1.58:5.4",
+          "pli": "Yesaṃ attho tahiṃ gacchatha nāriyo”ti.",
+          "en": "go, ladies, to those in need!"
+        },
+        {
+          "scid": "thag1.58:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.58:6.2",
+          "pli": "Ramaṇīyakuṭiko thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.58/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.58",
+    "volpages": "pts9",
+    "uid": "thag1.58",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ramaṇīyakuṭikattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ramaṇīyakuṭika",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.58_sujato",
+        "segmented": true,
+        "title": "Ramaṇīyakuṭika",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.58_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Ramaṇīyakuṭika"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

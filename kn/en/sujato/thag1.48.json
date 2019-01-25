@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.48",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.48",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sañjaya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rāmaṇeyyaka",
+      "uid": "thag1.49"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ujjaya",
+      "uid": "thag1.47"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.48:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.48:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.48:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag1.48:4.1",
+          "pli": "1.48. Sañjayattheragāthā",
+          "en": "1.48. Sañjaya"
+        },
+        {
+          "scid": "thag1.48:5.1",
+          "pli": "“Yato ahaṃ pabbajito,",
+          "en": "Since I went forth"
+        },
+        {
+          "scid": "thag1.48:5.2",
+          "pli": "Agārasmānagāriyaṃ;",
+          "en": "from the lay life to homelessness,"
+        },
+        {
+          "scid": "thag1.48:5.3",
+          "pli": "Nābhijānāmi saṅkappaṃ,",
+          "en": "I’ve not been aware of any thought"
+        },
+        {
+          "scid": "thag1.48:5.4",
+          "pli": "Anariyaṃ dosasaṃhitan”ti.",
+          "en": "that is ignoble and hateful."
+        },
+        {
+          "scid": "thag1.48:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.48:6.2",
+          "pli": "Sañjayo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.48/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.48",
+    "volpages": "pts8",
+    "uid": "thag1.48",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sañjayattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sañjaya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.48_sujato",
+        "segmented": true,
+        "title": "Sañjaya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.48_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sañjaya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "sutta_uid": "thag16.9",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag16.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Anuruddha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pārāpariya (3rd)",
+      "uid": "thag16.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Aṅgulimāla",
+      "uid": "thag16.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag16.9:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag16.9:2.1",
+          "pli": "Vīsatinipāta",
+          "en": "The Book of the Twenties"
+        },
+        {
+          "scid": "thag16.9:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag16.9:4.1",
+          "pli": "16.9. Anuruddhattheragāthā",
+          "en": "16.9. Anuruddha"
+        },
+        {
+          "scid": "thag16.9:5.1",
+          "pli": "“Pahāya mātāpitaro,",
+          "en": "Leaving my mother and father behind,"
+        },
+        {
+          "scid": "thag16.9:5.2",
+          "pli": "bhaginī ñātibhātaro;",
+          "en": "as well as sisters, kinsmen, and brothers;"
+        },
+        {
+          "scid": "thag16.9:5.3",
+          "pli": "Pañca kāmaguṇe hitvā,",
+          "en": "having given up the five kinds of sensual stimulation,"
+        },
+        {
+          "scid": "thag16.9:5.4",
+          "pli": "anuruddhova jhāyati.",
+          "en": "Anuruddha practices absorption."
+        },
+        {
+          "scid": "thag16.9:6.1",
+          "pli": "Sameto naccagītehi,",
+          "en": "Surrounded by song and dance,"
+        },
+        {
+          "scid": "thag16.9:6.2",
+          "pli": "sammatāḷappabodhano;",
+          "en": "awakened by cymbals and gongs,"
+        },
+        {
+          "scid": "thag16.9:6.3",
+          "pli": "Na tena <span class=\"var\" title=\"suddhamajjhagā (si, pts2, mr) | suddhimajjhagamā (s2, s3, pts1)\" id=\"note407\">suddhimajjhagaṃ</span>,",
+          "en": "he did not find purification"
+        },
+        {
+          "scid": "thag16.9:6.4",
+          "pli": "mārassa visaye rato.",
+          "en": "while delighting in Māra’s domain."
+        },
+        {
+          "scid": "thag16.9:7.1",
+          "pli": "Etañca samatikkamma,",
+          "en": "But he has gone beyond all that,"
+        },
+        {
+          "scid": "thag16.9:7.2",
+          "pli": "rato buddhassa sāsane;",
+          "en": "and delights in the Buddha’s teaching."
+        },
+        {
+          "scid": "thag16.9:7.3",
+          "pli": "Sabboghaṃ samatikkamma,",
+          "en": "Having crossed over the entire flood,"
+        },
+        {
+          "scid": "thag16.9:7.4",
+          "pli": "anuruddhova jhāyati.",
+          "en": "Anuruddha practices absorption."
+        },
+        {
+          "scid": "thag16.9:8.1",
+          "pli": "Rūpā saddā rasā gandhā,",
+          "en": "Sights, sounds, tastes, smells,"
+        },
+        {
+          "scid": "thag16.9:8.2",
+          "pli": "phoṭṭhabbā ca manoramā;",
+          "en": "and touches so delightful:"
+        },
+        {
+          "scid": "thag16.9:8.3",
+          "pli": "Ete ca samatikkamma,",
+          "en": "having crossed over these as well,"
+        },
+        {
+          "scid": "thag16.9:8.4",
+          "pli": "anuruddhova jhāyati.",
+          "en": "Anuruddha practices absorption."
+        },
+        {
+          "scid": "thag16.9:9.1",
+          "pli": "Piṇḍapātamatikkanto,",
+          "en": "Returning from alms-round,"
+        },
+        {
+          "scid": "thag16.9:9.2",
+          "pli": "eko adutiyo muni;",
+          "en": "alone, without companion,"
+        },
+        {
+          "scid": "thag16.9:9.3",
+          "pli": "Esati paṃsukūlāni,",
+          "en": "seeking rags from the dust heap,"
+        },
+        {
+          "scid": "thag16.9:9.4",
+          "pli": "anuruddho anāsavo.",
+          "en": "Anuruddha is without defilements."
+        },
+        {
+          "scid": "thag16.9:10.1",
+          "pli": "Vicinī aggahī dhovi,",
+          "en": "The thoughtful sage"
+        },
+        {
+          "scid": "thag16.9:10.2",
+          "pli": "rajayī dhārayī muni;",
+          "en": "selected rags from the dust heap;"
+        },
+        {
+          "scid": "thag16.9:10.3",
+          "pli": "Paṃsukūlāni matimā,",
+          "en": "he picked them up, washed, dyed, and wore them;"
+        },
+        {
+          "scid": "thag16.9:10.4",
+          "pli": "anuruddho anāsavo.",
+          "en": "Anuruddha is without defilements."
+        },
+        {
+          "scid": "thag16.9:11.1",
+          "pli": "Mahiccho ca asantuṭṭho,",
+          "en": "The principles of someone"
+        },
+        {
+          "scid": "thag16.9:11.2",
+          "pli": "saṃsaṭṭho yo ca uddhato;",
+          "en": "who has many wishes and is not content,"
+        },
+        {
+          "scid": "thag16.9:11.3",
+          "pli": "Tassa dhammā ime honti,",
+          "en": "who socializes and is conceited,"
+        },
+        {
+          "scid": "thag16.9:11.4",
+          "pli": "pāpakā saṃkilesikā.",
+          "en": "are wicked and corrupt."
+        },
+        {
+          "scid": "thag16.9:12.1",
+          "pli": "Sato ca hoti appiccho,",
+          "en": "But someone who is mindful, few of wishes,"
+        },
+        {
+          "scid": "thag16.9:12.2",
+          "pli": "santuṭṭho avighātavā;",
+          "en": "content and untroubled,"
+        },
+        {
+          "scid": "thag16.9:12.3",
+          "pli": "Pavivekarato vitto,",
+          "en": "delighting in seclusion, joyful,"
+        },
+        {
+          "scid": "thag16.9:12.4",
+          "pli": "niccamāraddhavīriyo.",
+          "en": "always resolute and energetic;"
+        },
+        {
+          "scid": "thag16.9:13.1",
+          "pli": "Tassa dhammā ime honti,",
+          "en": "their principles are skillful,"
+        },
+        {
+          "scid": "thag16.9:13.2",
+          "pli": "kusalā bodhipakkhikā;",
+          "en": "leading to awakening;"
+        },
+        {
+          "scid": "thag16.9:13.3",
+          "pli": "Anāsavo ca so hoti,",
+          "en": "they are without defilements—"
+        },
+        {
+          "scid": "thag16.9:13.4",
+          "pli": "iti vuttaṃ mahesinā.",
+          "en": "so said the great hermit."
+        },
+        {
+          "scid": "thag16.9:14.1",
+          "pli": "<span class=\"cross\" title=\"^an8.30#1 [30. Anuruddhamahāvitakkasutta]\" id=\"note408\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc901\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts901\"></a>Mama saṅkappamaññāya,",
+          "en": "“Knowing my thoughts,"
+        },
+        {
+          "scid": "thag16.9:14.2",
+          "pli": "satthā loke anuttaro;",
+          "en": "the supreme Teacher in the world"
+        },
+        {
+          "scid": "thag16.9:14.3",
+          "pli": "Manomayena kāyena,",
+          "en": "came to me in a mind-made body,"
+        },
+        {
+          "scid": "thag16.9:14.4",
+          "pli": "iddhiyā upasaṅkami.",
+          "en": "using his psychic power."
+        },
+        {
+          "scid": "thag16.9:15.1",
+          "pli": "Yadā me ahu saṅkappo,",
+          "en": "He taught me more"
+        },
+        {
+          "scid": "thag16.9:15.2",
+          "pli": "tato uttari desayi;",
+          "en": "than I had thought of."
+        },
+        {
+          "scid": "thag16.9:15.3",
+          "pli": "Nippapañcarato buddho,",
+          "en": "The Buddha who loves non-proliferation"
+        },
+        {
+          "scid": "thag16.9:15.4",
+          "pli": "nippapañcamadesayi.",
+          "en": "taught me non-proliferation."
+        },
+        {
+          "scid": "thag16.9:16.1",
+          "pli": "Tassāhaṃ dhammamaññāya,",
+          "en": "Understanding that teaching,"
+        },
+        {
+          "scid": "thag16.9:16.2",
+          "pli": "vihāsiṃ sāsane rato;",
+          "en": "I happily did his bidding."
+        },
+        {
+          "scid": "thag16.9:16.3",
+          "pli": "Tisso vijjā anuppattā,",
+          "en": "I’ve attained the three knowledges,"
+        },
+        {
+          "scid": "thag16.9:16.4",
+          "pli": "kataṃ buddhassa sāsanaṃ.",
+          "en": "and have fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag16.9:17.1",
+          "pli": "Pañcapaññāsavassāni,",
+          "en": "For the last fifty-five years"
+        },
+        {
+          "scid": "thag16.9:17.2",
+          "pli": "yato nesajjiko ahaṃ;",
+          "en": "I have not lain down to sleep."
+        },
+        {
+          "scid": "thag16.9:17.3",
+          "pli": "Pañcavīsativassāni,",
+          "en": "Twenty-five years have passed"
+        },
+        {
+          "scid": "thag16.9:17.4",
+          "pli": "yato middhaṃ samūhataṃ.",
+          "en": "since I eradicated drowsiness.”"
+        },
+        {
+          "scid": "thag16.9:18.1",
+          "pli": "<span class=\"cross\" title=\"(gāthā 905--906) ^dn16#241 [Mahāparinibbānasutta/36. Parinibbutakathā]\" id=\"note409\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc905\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts905\"></a>Nāhu assāsapassāsā,",
+          "en": "“There was no more breathing"
+        },
+        {
+          "scid": "thag16.9:18.2",
+          "pli": "ṭhitacittassa tādino;",
+          "en": "for the poised one of steady heart."
+        },
+        {
+          "scid": "thag16.9:18.3",
+          "pli": "Anejo santimārabbha,",
+          "en": "Imperturbable, committed to peace,"
+        },
+        {
+          "scid": "thag16.9:18.4",
+          "pli": "cakkhumā parinibbuto.",
+          "en": "the seer became fully extinguished."
+        },
+        {
+          "scid": "thag16.9:19.1",
+          "pli": "Asallīnena cittena,",
+          "en": "He put up with painful feelings"
+        },
+        {
+          "scid": "thag16.9:19.2",
+          "pli": "vedanaṃ ajjhavāsayi;",
+          "en": "without flinching."
+        },
+        {
+          "scid": "thag16.9:19.3",
+          "pli": "Pajjotasseva nibbānaṃ,",
+          "en": "The liberation of his heart"
+        },
+        {
+          "scid": "thag16.9:19.4",
+          "pli": "vimokkho cetaso ahu.",
+          "en": "was like the extinguishing of a lamp.”"
+        },
+        {
+          "scid": "thag16.9:20.1",
+          "pli": "Ete pacchimakā dāni,",
+          "en": "“Now these touches and the other four"
+        },
+        {
+          "scid": "thag16.9:20.2",
+          "pli": "munino phassapañcamā;",
+          "en": "are the last to be experienced by the sage;"
+        },
+        {
+          "scid": "thag16.9:20.3",
+          "pli": "Nāññe dhammā bhavissanti,",
+          "en": "nor will there be other phenomena"
+        },
+        {
+          "scid": "thag16.9:20.4",
+          "pli": "sambuddhe parinibbute.",
+          "en": "since the Buddha became fully extinguished."
+        },
+        {
+          "scid": "thag16.9:21.1",
+          "pli": "Natthi dāni punāvāso,",
+          "en": "Weaver of the web in the company of the gods,"
+        },
+        {
+          "scid": "thag16.9:21.2",
+          "pli": "devakāyasmi jālini;",
+          "en": "now there are no future lives."
+        },
+        {
+          "scid": "thag16.9:21.3",
+          "pli": "Vikkhīṇo jātisaṃsāro,",
+          "en": "Transmigration through births is finished,"
+        },
+        {
+          "scid": "thag16.9:21.4",
+          "pli": "natthi dāni punabbhavo.",
+          "en": "now there are no more future lives.”"
+        },
+        {
+          "scid": "thag16.9:22.1",
+          "pli": "Yassa muhuttena sahassadhā,",
+          "en": "“Knowing in an hour the galaxy,"
+        },
+        {
+          "scid": "thag16.9:22.2",
+          "pli": "Loko saṃvidito sabrahmakappo;",
+          "en": "together with the Brahmā realm;"
+        },
+        {
+          "scid": "thag16.9:22.3",
+          "pli": "Vasī iddhiguṇe cutūpapāte,",
+          "en": "that mendicant, a master of psychic powers,"
+        },
+        {
+          "scid": "thag16.9:22.4",
+          "pli": "Kāle passati devatā <span class=\"var\" title=\"sabhikkhuno (bj, mr)\" id=\"note410\">sa bhikkhu</span>.",
+          "en": "knowing the passing away and rebirth of beings, sees even the gods at that time.”"
+        },
+        {
+          "scid": "thag16.9:23.1",
+          "pli": "<span class=\"var\" title=\"annahāro (si)\" id=\"note411\">Annabhāro</span> pure āsiṃ,",
+          "en": "“In the past I was Annabhāra,"
+        },
+        {
+          "scid": "thag16.9:23.2",
+          "pli": "daliddo ghāsahārako;",
+          "en": "a poor carrier of fodder."
+        },
+        {
+          "scid": "thag16.9:23.3",
+          "pli": "Samaṇaṃ paṭipādesiṃ,",
+          "en": "I practiced as an ascetic,"
+        },
+        {
+          "scid": "thag16.9:23.4",
+          "pli": "upariṭṭhaṃ yasassinaṃ.",
+          "en": "the renowned Upariṭṭha."
+        },
+        {
+          "scid": "thag16.9:24.1",
+          "pli": "Somhi sakyakule jāto,",
+          "en": "Then I was reborn in the Sakyan clan,"
+        },
+        {
+          "scid": "thag16.9:24.2",
+          "pli": "anuruddhoti maṃ vidū;",
+          "en": "where I was known as ‘Anuruddha’."
+        },
+        {
+          "scid": "thag16.9:24.3",
+          "pli": "Upeto naccagītehi,",
+          "en": "Surrounded by song and dance,"
+        },
+        {
+          "scid": "thag16.9:24.4",
+          "pli": "sammatāḷappabodhano.",
+          "en": "I was awakened by cymbals and gongs."
+        },
+        {
+          "scid": "thag16.9:25.1",
+          "pli": "Athaddasāsiṃ sambuddhaṃ,",
+          "en": "Then I saw the Buddha,"
+        },
+        {
+          "scid": "thag16.9:25.2",
+          "pli": "satthāraṃ akutobhayaṃ;",
+          "en": "the Teacher, fearing nothing from any quarter;"
+        },
+        {
+          "scid": "thag16.9:25.3",
+          "pli": "Tasmiṃ cittaṃ pasādetvā,",
+          "en": "filling my mind with confidence in him,"
+        },
+        {
+          "scid": "thag16.9:25.4",
+          "pli": "pabbajiṃ anagāriyaṃ.",
+          "en": "I went forth to homelessness."
+        },
+        {
+          "scid": "thag16.9:26.1",
+          "pli": "Pubbenivāsaṃ jānāmi,",
+          "en": "I know my past lives,"
+        },
+        {
+          "scid": "thag16.9:26.2",
+          "pli": "yattha me vusitaṃ pure;",
+          "en": "the places I used to live."
+        },
+        {
+          "scid": "thag16.9:26.3",
+          "pli": "Tāvatiṃsesu devesu,",
+          "en": "I was born as Sakka,"
+        },
+        {
+          "scid": "thag16.9:26.4",
+          "pli": "aṭṭhāsiṃ <span class=\"var\" title=\"satajātiyā (bj)\" id=\"note412\">sakkajātiyā</span>.",
+          "en": "and stayed among the Thirty-Three gods."
+        },
+        {
+          "scid": "thag16.9:27.1",
+          "pli": "Sattakkhattuṃ manussindo,",
+          "en": "Seven times I was a king of men"
+        },
+        {
+          "scid": "thag16.9:27.2",
+          "pli": "ahaṃ rajjamakārayiṃ;",
+          "en": "ruling a kingdom,"
+        },
+        {
+          "scid": "thag16.9:27.3",
+          "pli": "Cāturanto vijitāvī,",
+          "en": "victorious in the four directions,"
+        },
+        {
+          "scid": "thag16.9:27.4",
+          "pli": "jambusaṇḍassa issaro;",
+          "en": "lord of all India."
+        },
+        {
+          "scid": "thag16.9:27.5",
+          "pli": "Adaṇḍena asatthena,",
+          "en": "Without rod or sword,"
+        },
+        {
+          "scid": "thag16.9:27.6",
+          "pli": "dhammena anusāsayiṃ.",
+          "en": "I governed by principle."
+        },
+        {
+          "scid": "thag16.9:28.1",
+          "pli": "Ito satta <span class=\"var\" title=\"ito (s2, s3, pts1)\" id=\"note413\">tato</span> satta,",
+          "en": "Seven here, seven there,"
+        },
+        {
+          "scid": "thag16.9:28.2",
+          "pli": "saṃsārāni catuddasa;",
+          "en": "fourteen transmigrations in all."
+        },
+        {
+          "scid": "thag16.9:28.3",
+          "pli": "Nivāsamabhijānissaṃ,",
+          "en": "I remember my past lives;"
+        },
+        {
+          "scid": "thag16.9:28.4",
+          "pli": "devaloke ṭhito tadā.",
+          "en": "at that time I stayed in the realm of the gods."
+        },
+        {
+          "scid": "thag16.9:29.1",
+          "pli": "Pañcaṅgike samādhimhi,",
+          "en": "I have gained complete tranquility"
+        },
+        {
+          "scid": "thag16.9:29.2",
+          "pli": "sante ekodibhāvite;",
+          "en": "in immersion with five factors."
+        },
+        {
+          "scid": "thag16.9:29.3",
+          "pli": "Paṭippassaddhiladdhamhi,",
+          "en": "Peaceful, serene,"
+        },
+        {
+          "scid": "thag16.9:29.4",
+          "pli": "dibbacakkhu visujjhi me.",
+          "en": "my clairvoyance is purified."
+        },
+        {
+          "scid": "thag16.9:30.1",
+          "pli": "Cutūpapātaṃ jānāmi,",
+          "en": "Steady in five-factored absorption,"
+        },
+        {
+          "scid": "thag16.9:30.2",
+          "pli": "sattānaṃ āgatiṃ gatiṃ;",
+          "en": "I know the passing away and rebirth of beings,"
+        },
+        {
+          "scid": "thag16.9:30.3",
+          "pli": "Itthabhāvaññathābhāvaṃ,",
+          "en": "their coming and going,"
+        },
+        {
+          "scid": "thag16.9:30.4",
+          "pli": "jhāne pañcaṅgike ṭhito.",
+          "en": "their lives in this state and that."
+        },
+        {
+          "scid": "thag16.9:31.1",
+          "pli": "Pariciṇṇo mayā satthā,",
+          "en": "I’ve served the teacher"
+        },
+        {
+          "scid": "thag16.9:31.2",
+          "pli": "…",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag16.9:31.3",
+          "pli": "pe …",
+          "en": "The heavy burden is laid down,"
+        },
+        {
+          "scid": "thag16.9:31.4",
+          "pli": "bhavanetti samūhatā.",
+          "en": "the attachment to rebirth is eradicated."
+        },
+        {
+          "scid": "thag16.9:32.1",
+          "pli": "Vajjīnaṃ veḷuvagāme,",
+          "en": "In the Vajjian village of Veḷuva,"
+        },
+        {
+          "scid": "thag16.9:32.2",
+          "pli": "ahaṃ jīvitasaṅkhayā;",
+          "en": "my life will come to an end."
+        },
+        {
+          "scid": "thag16.9:32.3",
+          "pli": "Heṭṭhato veḷugumbasmiṃ,",
+          "en": "Beneath a thicket of bamboos,"
+        },
+        {
+          "scid": "thag16.9:32.4",
+          "pli": "nibbāyissaṃ anāsavo”ti.",
+          "en": "I’ll be quenched without defilements.”"
+        },
+        {
+          "scid": "thag16.9:33.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag16.9:33.2",
+          "pli": "Anuruddho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag16.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 16.9",
+    "volpages": "pts83",
+    "uid": "thag16.9",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Anuruddhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Anuruddha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag16.9_sujato",
+        "segmented": true,
+        "title": "Anuruddha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag16.9_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Anuruddha"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 9
+  }
+}

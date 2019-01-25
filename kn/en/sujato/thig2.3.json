@@ -1,0 +1,168 @@
+{
+  "sutta_uid": "thig2.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig2.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sumaṅgala’s Mother",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Aḍḍhakāsi",
+      "uid": "thig2.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jentā",
+      "uid": "thig2.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.3:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig2.3:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thig2.3:3.1",
+          "pli": "3. Sumaṅgalamātātherīgāthā",
+          "en": "2.3. Sumaṅgala’s Mother"
+        },
+        {
+          "scid": "thig2.3:4.1",
+          "pli": "“Sumuttikā <span class=\"var\" title=\"sumuttike sumuttike (bj) | sumuttike sumuttikā (s2, s3, pts1-2, mr)\" id=\"note16\">sumuttikā</span>,",
+          "en": "I’m well freed, well freed,"
+        },
+        {
+          "scid": "thig2.3:4.2",
+          "pli": "Sādhumuttikāmhi musalassa;",
+          "en": "so very well freed!"
+        },
+        {
+          "scid": "thig2.3:4.3",
+          "pli": "Ahiriko me chattakaṃ vāpi,",
+          "en": "My pestle’s shameless wind was wafting;"
+        },
+        {
+          "scid": "thig2.3:4.4",
+          "pli": "Ukkhalikā me deḍḍubhaṃ vāti.",
+          "en": "my little pot wafted like an eel."
+        },
+        {
+          "scid": "thig2.3:5.1",
+          "pli": "Rāgañca ahaṃ dosañca,",
+          "en": "Now, as for greed and hate:"
+        },
+        {
+          "scid": "thig2.3:5.2",
+          "pli": "Cicciṭi cicciṭīti vihanāmi;",
+          "en": "I sear them and sizzle them up."
+        },
+        {
+          "scid": "thig2.3:5.3",
+          "pli": "Sā rukkhamūlamupagamma,",
+          "en": "Having gone to the root of a tree,"
+        },
+        {
+          "scid": "thig2.3:5.4",
+          "pli": "Aho sukhanti sukhato jhāyāmī”ti.",
+          "en": "I meditate happily, thinking, “Oh, what bliss!”"
+        },
+        {
+          "scid": "thig2.3:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig2.3:6.2",
+          "pli": "<span class=\"var\" title=\"aññatarā therībhikkhunī apaññātā (s2, s3, pts1-2, mr)\" id=\"note17\">Sumaṅgalamātā therī</span>.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 2.3",
+    "volpages": "pts126",
+    "uid": "thig2.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sumaṅgalamātātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sumaṅgala’s Mother",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig2.3_sujato",
+        "segmented": true,
+        "title": "Sumaṅgala’s Mother",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.3_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sumaṅgala's Mother"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig2.3_thanissaro",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2005",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sumangala's Mother"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

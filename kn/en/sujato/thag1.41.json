@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.41",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.41",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sirivaḍḍha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Khadiravaniya",
+      "uid": "thag1.42"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vaḍḍhamāna",
+      "uid": "thag1.40"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.41:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.41:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.41:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag1.41:4.1",
+          "pli": "1.41. Sirivaḍḍhattheragāthā",
+          "en": "1.41. Sirivaḍḍha"
+        },
+        {
+          "scid": "thag1.41:5.1",
+          "pli": "“Vivaramanupatanti vijjutā,",
+          "en": "Lightning flashes down"
+        },
+        {
+          "scid": "thag1.41:5.2",
+          "pli": "Vebhārassa ca paṇḍavassa ca;",
+          "en": "on the cleft of Vebhāra and Paṇḍava."
+        },
+        {
+          "scid": "thag1.41:5.3",
+          "pli": "Nagavivaragato ca jhāyati,",
+          "en": "But in the mountain cleft he is absorbed in jhāna—"
+        },
+        {
+          "scid": "thag1.41:5.4",
+          "pli": "Putto appaṭimassa tādino”ti.",
+          "en": "the son of the Buddha, inimitable and poised."
+        },
+        {
+          "scid": "thag1.41:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.41:6.2",
+          "pli": "Sirivaḍḍho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.41/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.41",
+    "volpages": "pts7",
+    "uid": "thag1.41",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sirivaḍḍhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sirivaḍḍha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.41_sujato",
+        "segmented": true,
+        "title": "Sirivaḍḍha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.41_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sirivaḍḍha"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

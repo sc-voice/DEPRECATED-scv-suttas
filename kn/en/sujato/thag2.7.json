@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Rādha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Surādha",
+      "uid": "thag2.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Meḷajina",
+      "uid": "thag2.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.7:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.7:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.7:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag2.7:4.1",
+          "pli": "2.7. Rādhattheragāthā",
+          "en": "2.7. Rādha"
+        },
+        {
+          "scid": "thag2.7:5.1",
+          "pli": "<span class=\"cross\" title=\"(gāthā 133--134) ^dhp1-20#9.1 [1. Cakkhupālattheravatthu/9. Nandattheravatthu]-15\" id=\"note87\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc133\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts133\"></a>“Yathā agāraṃ ducchannaṃ,",
+          "en": "Just as rain seeps into"
+        },
+        {
+          "scid": "thag2.7:5.2",
+          "pli": "vuṭṭhī samativijjhati;",
+          "en": "a poorly roofed house,"
+        },
+        {
+          "scid": "thag2.7:5.3",
+          "pli": "Evaṃ abhāvitaṃ cittaṃ,",
+          "en": "lust seeps into"
+        },
+        {
+          "scid": "thag2.7:5.4",
+          "pli": "rāgo samativijjhati.",
+          "en": "an undeveloped mind."
+        },
+        {
+          "scid": "thag2.7:6.1",
+          "pli": "Yathā agāraṃ succhannaṃ,",
+          "en": "Just as rain doesn’t seep into"
+        },
+        {
+          "scid": "thag2.7:6.2",
+          "pli": "Vuṭṭhī na samativijjhati;",
+          "en": "a well roofed house,"
+        },
+        {
+          "scid": "thag2.7:6.3",
+          "pli": "Evaṃ subhāvitaṃ cittaṃ,",
+          "en": "lust doesn’t seep into"
+        },
+        {
+          "scid": "thag2.7:6.4",
+          "pli": "Rāgo na samativijjhatī”ti.",
+          "en": "a well-developed mind."
+        },
+        {
+          "scid": "thag2.7:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.7:7.2",
+          "pli": "Rādho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.7",
+    "volpages": "pts19",
+    "uid": "thag2.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Rādhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Rādha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.7_sujato",
+        "segmented": true,
+        "title": "Rādha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.7_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Rādha"
+      }
+    ],
+    "parallel_count": 18,
+    "biblio": null,
+    "num": 7
+  }
+}

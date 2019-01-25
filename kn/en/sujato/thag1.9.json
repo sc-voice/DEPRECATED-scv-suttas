@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thag1.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Pilindavaccha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Puṇṇamāsa (1st)",
+      "uid": "thag1.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vīra",
+      "uid": "thag1.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.9:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.9:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.9:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag1.9:4.1",
+          "pli": "<span class=\"var\" title=\"piḷindavacchattheragāthā (bj)\" id=\"note5\">1.9 Pilindavacchattheragāthā</span>",
+          "en": "1.9. Pilindavaccha"
+        },
+        {
+          "scid": "thag1.9:5.1",
+          "pli": "“Svāgataṃ na <span class=\"var\" title=\"nāpagataṃ (s2, s3, pts1-2)\" id=\"note6\">durāgataṃ</span>,",
+          "en": "It was welcome, not unwelcome,"
+        },
+        {
+          "scid": "thag1.9:5.2",
+          "pli": "<span class=\"var\" title=\"nedaṃ (pts2)\" id=\"note7\">Nayidaṃ</span> dumantitaṃ mama;",
+          "en": "the advice I got was good."
+        },
+        {
+          "scid": "thag1.9:5.3",
+          "pli": "Saṃvibhattesu dhammesu,",
+          "en": "Of things which are shared,"
+        },
+        {
+          "scid": "thag1.9:5.4",
+          "pli": "Yaṃ seṭṭhaṃ tadupāgamin”ti.",
+          "en": "I encountered the best."
+        },
+        {
+          "scid": "thag1.9:6.1",
+          "pli": "Itthaṃ sudaṃ āyasmā <span class=\"var\" title=\"piḷindavaccho (bj)\" id=\"note8\">pilindavaccho</span> thero gāthaṃ abhāsitthāti.",
+          "en": "It was thus that this verse was recited by the senior venerable Pilindavaccha."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.9",
+    "volpages": "pts2",
+    "uid": "thag1.9",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Pilindavacchattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Pilindavaccha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.9_sujato",
+        "segmented": true,
+        "title": "Pilindavaccha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.9_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Pilindavaccha"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

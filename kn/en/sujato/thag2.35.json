@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.35",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.35",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sambulakaccāna",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nitaka",
+      "uid": "thag2.36"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Isidinna",
+      "uid": "thag2.34"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.35:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.35:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.35:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag2.35:4.1",
+          "pli": "2.35. Sambulakaccānattheragāthā",
+          "en": "2.35. Sambulakaccāna"
+        },
+        {
+          "scid": "thag2.35:5.1",
+          "pli": "“Devo ca vassati, devo ca gaḷagaḷāyati,",
+          "en": "The sky rains, the sky thunders down,"
+        },
+        {
+          "scid": "thag2.35:5.2",
+          "pli": "Ekako cāhaṃ bherave bile viharāmi;",
+          "en": "I’m staying alone in a frightful hole."
+        },
+        {
+          "scid": "thag2.35:5.3",
+          "pli": "Tassa mayhaṃ ekakassa bherave bile viharato,",
+          "en": "But while I’m staying alone in that frightful hole,"
+        },
+        {
+          "scid": "thag2.35:5.4",
+          "pli": "Natthi bhayaṃ vā chambhitattaṃ vā lomahaṃso vā.",
+          "en": "I’ve no fear, no dread, no goosebumps."
+        },
+        {
+          "scid": "thag2.35:6.1",
+          "pli": "Dhammatā mamesā yassa me,",
+          "en": "This is my normal state"
+        },
+        {
+          "scid": "thag2.35:6.2",
+          "pli": "Ekakassa bherave bile;",
+          "en": "while staying alone in a frightful hole:"
+        },
+        {
+          "scid": "thag2.35:6.3",
+          "pli": "Viharato natthi bhayaṃ vā,",
+          "en": "I’ve no fear, "
+        },
+        {
+          "scid": "thag2.35:6.4",
+          "pli": "Chambhitattaṃ vā lomahaṃso vā”ti.",
+          "en": "no dread, no goosebumps."
+        },
+        {
+          "scid": "thag2.35:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.35:7.2",
+          "pli": "<span class=\"var\" title=\"sambahulakaccāno (mr)\" id=\"note123\">Sambulakaccāno</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.35/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.35",
+    "volpages": "pts24",
+    "uid": "thag2.35",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sambulakaccānattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sambulakaccāna",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.35_sujato",
+        "segmented": true,
+        "title": "Sambulakaccāna",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.35_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sambulakaccāna"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "thig2.9",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig2.9",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Abhayā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sāmā",
+      "uid": "thig2.10"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Abhaya’s Mother",
+      "uid": "thig2.8"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.9:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig2.9:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thig2.9:3.1",
+          "pli": "9. Abhayātherīgāthā",
+          "en": "2.9. Abhayā"
+        },
+        {
+          "scid": "thig2.9:4.1",
+          "pli": "“Abhaye bhiduro kāyo,",
+          "en": "Abhayā, the body is fragile,"
+        },
+        {
+          "scid": "thig2.9:4.2",
+          "pli": "yattha satā puthujjanā;",
+          "en": "yet ordinary people are attached to it."
+        },
+        {
+          "scid": "thig2.9:4.3",
+          "pli": "Nikkhipissāmimaṃ dehaṃ,",
+          "en": "I'll lay down the body,"
+        },
+        {
+          "scid": "thig2.9:4.4",
+          "pli": "sampajānā satīmatī.",
+          "en": "aware and mindful."
+        },
+        {
+          "scid": "thig2.9:5.1",
+          "pli": "Bahūhi dukkhadhammehi,",
+          "en": "Though subject to so many painful things,"
+        },
+        {
+          "scid": "thig2.9:5.2",
+          "pli": "appamādaratāya me;",
+          "en": "I have, through my love of diligence,"
+        },
+        {
+          "scid": "thig2.9:5.3",
+          "pli": "Taṇhakkhayo anuppatto,",
+          "en": "reached the ending of craving,"
+        },
+        {
+          "scid": "thig2.9:5.4",
+          "pli": "kataṃ buddhassa sāsanan”ti.",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thig2.9:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig2.9:6.2",
+          "pli": "Abhayā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.9/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 2.9",
+    "volpages": "pts127",
+    "uid": "thig2.9",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Abhayātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Abhayā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig2.9_sujato",
+        "segmented": true,
+        "title": "Abhayā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.9_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Abhayā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 9
+  }
+}

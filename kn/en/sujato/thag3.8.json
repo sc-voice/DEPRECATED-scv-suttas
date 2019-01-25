@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Vassika",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Yasoja",
+      "uid": "thag3.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vāraṇa",
+      "uid": "thag3.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.8:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.8:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.8:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.8:4.1",
+          "pli": "<span class=\"var\" title=\"passikattheragāthā (bj)\" id=\"note158\">3.8 Vassikattheragāthā</span>",
+          "en": "3.8. Vassika"
+        },
+        {
+          "scid": "thag3.8:5.1",
+          "pli": "“Ekopi saddho medhāvī,",
+          "en": "I was the only one in my family"
+        },
+        {
+          "scid": "thag3.8:5.2",
+          "pli": "assaddhānīdha ñātinaṃ;",
+          "en": "who had faith and wisdom."
+        },
+        {
+          "scid": "thag3.8:5.3",
+          "pli": "Dhammaṭṭho sīlasampanno,",
+          "en": "It’s good for my relatives that I’m"
+        },
+        {
+          "scid": "thag3.8:5.4",
+          "pli": "hoti atthāya bandhunaṃ.",
+          "en": "firm in Dhamma, and my conduct is virtuous."
+        },
+        {
+          "scid": "thag3.8:6.1",
+          "pli": "Niggayha anukampāya,",
+          "en": "I rebuked my family out of compassion,"
+        },
+        {
+          "scid": "thag3.8:6.2",
+          "pli": "coditā ñātayo mayā;",
+          "en": "telling them off out of love"
+        },
+        {
+          "scid": "thag3.8:6.3",
+          "pli": "Ñātibandhavapemena,",
+          "en": "for my family and relatives."
+        },
+        {
+          "scid": "thag3.8:6.4",
+          "pli": "kāraṃ katvāna bhikkhusu.",
+          "en": "They performed a service for the monks"
+        },
+        {
+          "scid": "thag3.8:7.1",
+          "pli": "Te abbhatītā kālaṅkatā,",
+          "en": "and then they passed away,"
+        },
+        {
+          "scid": "thag3.8:7.2",
+          "pli": "pattā te tidivaṃ sukhaṃ;",
+          "en": "finding happiness in the heaven of the Thirty-three."
+        },
+        {
+          "scid": "thag3.8:7.3",
+          "pli": "Bhātaro mayhaṃ mātā ca,",
+          "en": "There, my brothers and mother"
+        },
+        {
+          "scid": "thag3.8:7.4",
+          "pli": "modanti kāmakāmino”ti.",
+          "en": "enjoy all the pleasures they desire."
+        },
+        {
+          "scid": "thag3.8:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.8:8.2",
+          "pli": "<span class=\"var\" title=\"passiko (bj, s2, s3, pts1-2)\" id=\"note159\">Vassiko</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.8",
+    "volpages": "pts30",
+    "uid": "thag3.8",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vassikattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vassika",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.8_sujato",
+        "segmented": true,
+        "title": "Vassika",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.8_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Vassika"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

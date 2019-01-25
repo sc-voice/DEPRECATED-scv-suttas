@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.104",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.104",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Khitaka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Malitavambha",
+      "uid": "thag1.105"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bandhura",
+      "uid": "thag1.103"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.104:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.104:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.104:3.1",
+          "pli": "Ekādasamavagga",
+          "en": "Chapter Eleven"
+        },
+        {
+          "scid": "thag1.104:4.1",
+          "pli": "1.104. Khitakattheragāthā",
+          "en": "1.104. Khitaka"
+        },
+        {
+          "scid": "thag1.104:5.1",
+          "pli": "“Lahuko vata me kāyo,",
+          "en": "Hey! My body is light,"
+        },
+        {
+          "scid": "thag1.104:5.2",
+          "pli": "Phuṭṭho ca pītisukhena vipulena;",
+          "en": "full of so much rapture and happiness."
+        },
+        {
+          "scid": "thag1.104:5.3",
+          "pli": "Tūlamiva eritaṃ mālutena,",
+          "en": "My body feels like it’s floating,"
+        },
+        {
+          "scid": "thag1.104:5.4",
+          "pli": "Pilavatīva me kāyo”ti.",
+          "en": "like cotton in the wind."
+        },
+        {
+          "scid": "thag1.104:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.104:6.2",
+          "pli": "Khitako thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.104/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.104",
+    "volpages": "pts15",
+    "uid": "thag1.104",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Khitakattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Khitaka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.104_sujato",
+        "segmented": true,
+        "title": "Khitaka",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.104_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Khitaka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

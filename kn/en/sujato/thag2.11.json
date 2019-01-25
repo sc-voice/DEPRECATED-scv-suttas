@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mahācunda",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jotidāsa",
+      "uid": "thag2.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vasabha",
+      "uid": "thag2.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.11:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.11:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.11:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag2.11:4.1",
+          "pli": "2.11. Mahācundattheragāthā",
+          "en": "2.11. Mahācunda"
+        },
+        {
+          "scid": "thag2.11:5.1",
+          "pli": "“Sussūsā sutavaddhanī,",
+          "en": "It’s from wishing to learn that learning grows;"
+        },
+        {
+          "scid": "thag2.11:5.2",
+          "pli": "sutaṃ paññāya vaddhanaṃ;",
+          "en": "when you’re learned, wisdom grows;"
+        },
+        {
+          "scid": "thag2.11:5.3",
+          "pli": "Paññāya atthaṃ jānāti,",
+          "en": "by wisdom, you know the goal;"
+        },
+        {
+          "scid": "thag2.11:5.4",
+          "pli": "ñāto attho sukhāvaho.",
+          "en": "knowing the goal brings happiness."
+        },
+        {
+          "scid": "thag2.11:6.1",
+          "pli": "<span class=\"cross\" title=\"^sn6.13#1 [13. Andhakavindasutta] | ^mi7.6.3#1 [Peṇāhikaṅgapañha]\" id=\"note88\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc142\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts142\"></a>Sevetha pantāni senāsanāni,",
+          "en": "You should frequent remote lodgings"
+        },
+        {
+          "scid": "thag2.11:6.2",
+          "pli": "Careyya saṃyojanavippamokkhaṃ;",
+          "en": "and practice to be released from fetters."
+        },
+        {
+          "scid": "thag2.11:6.3",
+          "pli": "Sace ratiṃ nādhigaccheyya tattha,",
+          "en": "If you don’t find enjoyment there,"
+        },
+        {
+          "scid": "thag2.11:6.4",
+          "pli": "Saṃghe vase rakkhitatto satimā”ti.",
+          "en": "live in the Saṅgha, self-guarded and mindful."
+        },
+        {
+          "scid": "thag2.11:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.11:7.2",
+          "pli": "Mahācundo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.11",
+    "volpages": "pts20",
+    "uid": "thag2.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mahācundattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mahācunda",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.11_sujato",
+        "segmented": true,
+        "title": "Mahācunda",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.11_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mahācunda"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 1
+  }
+}

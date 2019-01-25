@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Upāli",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttarapāla",
+      "uid": "thag3.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sāṭimattiya",
+      "uid": "thag3.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.11:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.11:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.11:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.11:4.1",
+          "pli": "3.11. Upālittheragāthā",
+          "en": "3.11. Upāli"
+        },
+        {
+          "scid": "thag3.11:5.1",
+          "pli": "“Saddhāya abhinikkhamma,",
+          "en": "One newly gone forth,"
+        },
+        {
+          "scid": "thag3.11:5.2",
+          "pli": "navapabbajito navo;",
+          "en": "who has left their home out of faith,"
+        },
+        {
+          "scid": "thag3.11:5.3",
+          "pli": "Mitte bhajeyya kalyāṇe,",
+          "en": "should associate with spiritual friends,"
+        },
+        {
+          "scid": "thag3.11:5.4",
+          "pli": "suddhājīve atandite.",
+          "en": "who are tireless and pure of livelihood."
+        },
+        {
+          "scid": "thag3.11:6.1",
+          "pli": "Saddhāya abhinikkhamma,",
+          "en": "One newly gone forth,"
+        },
+        {
+          "scid": "thag3.11:6.2",
+          "pli": "navapabbajito navo;",
+          "en": "who has left their home out of faith,"
+        },
+        {
+          "scid": "thag3.11:6.3",
+          "pli": "Saṃghasmiṃ viharaṃ bhikkhu,",
+          "en": "a mendicant staying in the Saṅgha,"
+        },
+        {
+          "scid": "thag3.11:6.4",
+          "pli": "sikkhetha vinayaṃ budho.",
+          "en": "being wise, would train in monastic discipline."
+        },
+        {
+          "scid": "thag3.11:7.1",
+          "pli": "Saddhāya abhinikkhamma,",
+          "en": "One newly gone forth,"
+        },
+        {
+          "scid": "thag3.11:7.2",
+          "pli": "navapabbajito navo;",
+          "en": "who has left their home out of faith,"
+        },
+        {
+          "scid": "thag3.11:7.3",
+          "pli": "Kappākappesu kusalo,",
+          "en": "skilled in what is appropriate and what is not,"
+        },
+        {
+          "scid": "thag3.11:7.4",
+          "pli": "careyya apurakkhato”ti.",
+          "en": "would wander undistracted."
+        },
+        {
+          "scid": "thag3.11:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.11:8.2",
+          "pli": "Upālitthero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.11",
+    "volpages": "pts31",
+    "uid": "thag3.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Upālittheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Upāli",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.11_sujato",
+        "segmented": true,
+        "title": "Upāli",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.11_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Upāli"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 11
+  }
+}

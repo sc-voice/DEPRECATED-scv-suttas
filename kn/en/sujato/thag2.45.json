@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.45",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.45",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Visākhapañcālaputta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cūḷaka",
+      "uid": "thag2.46"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mogharāja",
+      "uid": "thag2.44"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.45:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.45:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.45:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag2.45:4.1",
+          "pli": "2.45. Visākhapañcālaputtattheragāthā",
+          "en": "2.45. Visākhapañcālaputta"
+        },
+        {
+          "scid": "thag2.45:5.1",
+          "pli": "“Na ukkhipe no ca parikkhipe pare,",
+          "en": "One should not suspend others from the Saṅgha, nor raise objections against them;"
+        },
+        {
+          "scid": "thag2.45:5.2",
+          "pli": "Na okkhipe pāragataṃ na eraye;",
+          "en": "and neither disparage nor raise one’s voice against one who has crossed to the further shore."
+        },
+        {
+          "scid": "thag2.45:5.3",
+          "pli": "Na <span class=\"var\" title=\"c'atta ... (pts2)\" id=\"note140\">cattavaṇṇaṃ</span> parisāsu byāhare,",
+          "en": "One should not praise oneself among the assemblies,"
+        },
+        {
+          "scid": "thag2.45:5.4",
+          "pli": "Anuddhato sammitabhāṇi subbato.",
+          "en": "but be stable, measured in speech, and true to your vows."
+        },
+        {
+          "scid": "thag2.45:6.1",
+          "pli": "Susukhumanipuṇatthadassinā,",
+          "en": "For one who sees the goal, so very subtle and fine,"
+        },
+        {
+          "scid": "thag2.45:6.2",
+          "pli": "Matikusalena nivātavuttinā;",
+          "en": "who is skilled in thought and humble in manner,"
+        },
+        {
+          "scid": "thag2.45:6.3",
+          "pli": "Saṃsevitavuddhasīlinā,",
+          "en": "who has cultivated mature ethics—"
+        },
+        {
+          "scid": "thag2.45:6.4",
+          "pli": "Nibbānaṃ na hi tena dullabhan”ti.",
+          "en": "it’s not hard to gain extinguishment."
+        },
+        {
+          "scid": "thag2.45:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.45:7.2",
+          "pli": "<span class=\"var\" title=\"visākho pañcālīputto (s2, s3, pts1-2)\" id=\"note141\">Visākho pañcālaputto</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.45/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.45",
+    "volpages": "pts27",
+    "uid": "thag2.45",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Visākhapañcālaputtattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Visākhapañcālaputta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.45_sujato",
+        "segmented": true,
+        "title": "Visākhapañcālaputta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.45_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Visākhapañcālaputta"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.77",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.77",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Hatthārohaputta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Meṇḍasira",
+      "uid": "thag1.78"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Piyañjaha",
+      "uid": "thag1.76"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.77:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.77:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.77:3.1",
+          "pli": "Aṭṭhamavagga",
+          "en": "Chapter Eight"
+        },
+        {
+          "scid": "thag1.77:4.1",
+          "pli": "1.77. Hatthārohaputtattheragāthā",
+          "en": "1.77. Hatthārohaputta"
+        },
+        {
+          "scid": "thag1.77:5.1",
+          "pli": "“Idaṃ pure cittamacāri cārikaṃ,",
+          "en": "In the past my mind wandered"
+        },
+        {
+          "scid": "thag1.77:5.2",
+          "pli": "Yenicchakaṃ yatthakāmaṃ yathāsukhaṃ;",
+          "en": "how it wished, where it liked, as it pleased."
+        },
+        {
+          "scid": "thag1.77:5.3",
+          "pli": "Tadajjahaṃ niggahessāmi yoniso,",
+          "en": "Now I’ll carefully guide it,"
+        },
+        {
+          "scid": "thag1.77:5.4",
+          "pli": "<span class=\"var\" title=\"hatthiṃ pabhinnaṃ (s2, s3, pts2)\" id=\"note59\">Hatthippabhinnaṃ</span> viya aṅkusaggaho”ti.",
+          "en": "as a trainer with a hook guides a rutting elephant."
+        },
+        {
+          "scid": "thag1.77:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.77:6.2",
+          "pli": "Hatthārohaputto thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.77/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.77",
+    "volpages": "pts12",
+    "uid": "thag1.77",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Hatthārohaputtattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Hatthārohaputta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.77_sujato",
+        "segmented": true,
+        "title": "Hatthārohaputta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.77_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Hatthārohaputta"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 7
+  }
+}

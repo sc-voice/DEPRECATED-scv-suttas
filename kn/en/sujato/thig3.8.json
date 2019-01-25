@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thig3.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig3.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Somā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bhaddā Kāpilānī",
+      "uid": "thig4.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Selā",
+      "uid": "thig3.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.8:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig3.8:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thig3.8:3.1",
+          "pli": "8. Somātherīgāthā",
+          "en": "3.8. Somā"
+        },
+        {
+          "scid": "thig3.8:4.1",
+          "pli": "“Yaṃ taṃ isīhi pattabbaṃ,",
+          "en": "“That state’s very challenging;"
+        },
+        {
+          "scid": "thig3.8:4.2",
+          "pli": "ṭhānaṃ durabhisambhavaṃ;",
+          "en": "it’s for the sages to attain."
+        },
+        {
+          "scid": "thig3.8:4.3",
+          "pli": "Na taṃ dvaṅgulapaññāya,",
+          "en": "It’s not possible for a woman,"
+        },
+        {
+          "scid": "thig3.8:4.4",
+          "pli": "sakkā pappotumitthiyā”.",
+          "en": "with her two-fingered wisdom.”"
+        },
+        {
+          "scid": "thig3.8:5.1",
+          "pli": "“Itthibhāvo no kiṃ kayirā,",
+          "en": "“What difference does womanhood make"
+        },
+        {
+          "scid": "thig3.8:5.2",
+          "pli": "cittamhi susamāhite;",
+          "en": "when the mind is serene,"
+        },
+        {
+          "scid": "thig3.8:5.3",
+          "pli": "Ñāṇamhi vattamānamhi,",
+          "en": "and knowledge is present"
+        },
+        {
+          "scid": "thig3.8:5.4",
+          "pli": "sammā dhammaṃ vipassato.",
+          "en": "as you rightly discern the Dhamma."
+        },
+        {
+          "scid": "thig3.8:6.1",
+          "pli": "Sabbattha vihatā <span class=\"var\" title=\"nandi (bj, s2, s3, pts1-2)\" id=\"note28\">nandī</span>,",
+          "en": "Relishing is destroyed in every respect,"
+        },
+        {
+          "scid": "thig3.8:6.2",
+          "pli": "Tamokhandho padālito;",
+          "en": "and the mass of darkness is shattered."
+        },
+        {
+          "scid": "thig3.8:6.3",
+          "pli": "Evaṃ jānāhi pāpima,",
+          "en": "So know this, Wicked One:"
+        },
+        {
+          "scid": "thig3.8:6.4",
+          "pli": "Nihato tvamasi antakā”ti.",
+          "en": "you’re beaten, terminator!”"
+        },
+        {
+          "scid": "thig3.8:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig3.8:7.2",
+          "pli": "Somā therī ….",
+          "en": ""
+        },
+        {
+          "scid": "thig3.8:8.1",
+          "pli": "Tikanipāto niṭṭhito.",
+          "en": "The Book of the Threes is finished."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 3.8",
+    "volpages": "pts130",
+    "uid": "thig3.8",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Somātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Somā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig3.8_sujato",
+        "segmented": true,
+        "title": "Somā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.8_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Somā"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 8
+  }
+}

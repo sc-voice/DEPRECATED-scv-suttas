@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.84",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.84",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Nīta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sunāga",
+      "uid": "thag1.85"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sīha",
+      "uid": "thag1.83"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.84:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.84:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.84:3.1",
+          "pli": "Navamavagga",
+          "en": "Chapter Nine"
+        },
+        {
+          "scid": "thag1.84:4.1",
+          "pli": "1.84. Nītattheragāthā",
+          "en": "1.84. Nīta"
+        },
+        {
+          "scid": "thag1.84:5.1",
+          "pli": "“Sabbarattiṃ supitvāna,",
+          "en": "Sleeping all night,"
+        },
+        {
+          "scid": "thag1.84:5.2",
+          "pli": "divā saṅgaṇike rato;",
+          "en": "happily socializing by day,"
+        },
+        {
+          "scid": "thag1.84:5.3",
+          "pli": "Kudāssu nāma dummedho,",
+          "en": "when will the fool"
+        },
+        {
+          "scid": "thag1.84:5.4",
+          "pli": "dukkhassantaṃ karissatī”ti.",
+          "en": "make an end of suffering?"
+        },
+        {
+          "scid": "thag1.84:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.84:6.2",
+          "pli": "Nīto thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.84/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.84",
+    "volpages": "pts13",
+    "uid": "thag1.84",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Nītattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Nīta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.84_sujato",
+        "segmented": true,
+        "title": "Nīta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.84_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Nīta"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

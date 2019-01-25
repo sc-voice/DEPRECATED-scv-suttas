@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "thig2.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig2.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Cittā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mettikā",
+      "uid": "thig2.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Aḍḍhakāsi",
+      "uid": "thig2.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.5:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig2.5:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thig2.5:3.1",
+          "pli": "5. Cittātherīgāthā",
+          "en": "2.5. Cittā"
+        },
+        {
+          "scid": "thig2.5:4.1",
+          "pli": "“Kiñcāpi khomhi kisikā,",
+          "en": "Though I’m skinny,"
+        },
+        {
+          "scid": "thig2.5:4.2",
+          "pli": "gilānā bāḷhadubbalā;",
+          "en": "sick, and very feeble,"
+        },
+        {
+          "scid": "thig2.5:4.3",
+          "pli": "Daṇḍamolubbha gacchāmi,",
+          "en": "I climb the mountain,"
+        },
+        {
+          "scid": "thig2.5:4.4",
+          "pli": "pabbataṃ abhirūhiya.",
+          "en": "leaning on a staff."
+        },
+        {
+          "scid": "thig2.5:5.1",
+          "pli": "Saṅghāṭiṃ nikkhipitvāna,",
+          "en": "Having laid down my outer robe,"
+        },
+        {
+          "scid": "thig2.5:5.2",
+          "pli": "pattakañca nikujjiya;",
+          "en": "and overturned my bowl,"
+        },
+        {
+          "scid": "thig2.5:5.3",
+          "pli": "Sele khambhesimattānaṃ,",
+          "en": "propping myself against a rock,"
+        },
+        {
+          "scid": "thig2.5:5.4",
+          "pli": "tamokhandhaṃ padāliyā”ti.",
+          "en": "I shattered the mass of darkness."
+        },
+        {
+          "scid": "thig2.5:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig2.5:6.2",
+          "pli": "Cittā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 2.5",
+    "volpages": "pts126",
+    "uid": "thig2.5",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Cittātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Cittā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig2.5_sujato",
+        "segmented": true,
+        "title": "Cittā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.5_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Cittā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

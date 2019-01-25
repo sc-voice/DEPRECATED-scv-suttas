@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.67",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.67",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Ekadhammasavanīya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ekudāniya",
+      "uid": "thag1.68"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Meghiya",
+      "uid": "thag1.66"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.67:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.67:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.67:3.1",
+          "pli": "Sattamavagga",
+          "en": "Chapter Seven"
+        },
+        {
+          "scid": "thag1.67:4.1",
+          "pli": "1.67. Ekadhammasavanīyattheragāthā",
+          "en": "1.67. Ekadhammasavanīya"
+        },
+        {
+          "scid": "thag1.67:5.1",
+          "pli": "“Kilesā jhāpitā mayhaṃ,",
+          "en": "My defilements have been burnt away by practicing absorption—"
+        },
+        {
+          "scid": "thag1.67:5.2",
+          "pli": "bhavā sabbe samūhatā;",
+          "en": "rebirth into all states of existence is eradicated,"
+        },
+        {
+          "scid": "thag1.67:5.3",
+          "pli": "Vikkhīṇo jātisaṃsāro,",
+          "en": "transmigration through births is finished,"
+        },
+        {
+          "scid": "thag1.67:5.4",
+          "pli": "natthi dāni punabbhavo”ti.",
+          "en": "now there are no more future lives."
+        },
+        {
+          "scid": "thag1.67:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.67:6.2",
+          "pli": "<span class=\"var\" title=\"ekadhammasavaniyo (s2, s3)\" id=\"note52\">Ekadhammasavanīyo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.67/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.67",
+    "volpages": "pts10",
+    "uid": "thag1.67",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ekadhammasavanīyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ekadhammasavanīya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.67_sujato",
+        "segmented": true,
+        "title": "Ekadhammasavanīya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.67_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Ekadhammasavanīya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

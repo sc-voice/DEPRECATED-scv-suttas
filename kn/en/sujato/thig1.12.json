@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thig1.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Dhammadinnā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Visākhā",
+      "uid": "thig1.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Muttā (2nd)",
+      "uid": "thig1.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.12:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.12:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.12:3.1",
+          "pli": "12. Dhammadinnātherīgāthā",
+          "en": "1.12. Dhammadinnā"
+        },
+        {
+          "scid": "thig1.12:4.1",
+          "pli": "“Chandajātā avasāyī,",
+          "en": "One who is eager and determined"
+        },
+        {
+          "scid": "thig1.12:4.2",
+          "pli": "Manasā ca <span class=\"var\" title=\"phuṭhā (bj-a) | phuṭṭhā (s2, s3)\" id=\"note7\">phuṭā</span> siyā;",
+          "en": "would be filled with awareness."
+        },
+        {
+          "scid": "thig1.12:4.3",
+          "pli": "Kāmesu <span class=\"var\" title=\"appaṭibandhacittā (mr)\" id=\"note8\">appaṭibaddhacittā</span>,",
+          "en": "One whose mind is not tied up with sensual pleasures"
+        },
+        {
+          "scid": "thig1.12:4.4",
+          "pli": "<span class=\"var\" title=\"uddhaṃsotā vimuccatīti (si, pts1-2) | uddhaṃsotāti vuccati (s2, s3)\" id=\"note9\">Uddhaṃsotāti vuccatī”ti</span>.",
+          "en": "is said to be heading upstream."
+        },
+        {
+          "scid": "thig1.12:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.12:5.2",
+          "pli": "Dhammadinnā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.12",
+    "volpages": "pts124",
+    "uid": "thig1.12",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dhammadinnātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dhammadinnā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.12_sujato",
+        "segmented": true,
+        "title": "Dhammadinnā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.12_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Dhammadinnā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 12
+  }
+}

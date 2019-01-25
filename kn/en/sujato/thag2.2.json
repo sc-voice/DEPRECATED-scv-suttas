@@ -1,0 +1,155 @@
+{
+  "sutta_uid": "thag2.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Piṇḍolabhāradvāja",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Valliya (2nd)",
+      "uid": "thag2.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttara (1st)",
+      "uid": "thag2.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.2:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.2:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.2:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag2.2:4.1",
+          "pli": "2.2. Piṇḍolabhāradvājattheragāthā",
+          "en": "2.2. Piṇḍolabhāradvāja"
+        },
+        {
+          "scid": "thag2.2:5.1",
+          "pli": "“Nayidaṃ anayena jīvitaṃ,",
+          "en": "You can’t live by fasting,"
+        },
+        {
+          "scid": "thag2.2:5.2",
+          "pli": "Nāhāro hadayassa santiko;",
+          "en": "but food doesn’t lead to peace of heart."
+        },
+        {
+          "scid": "thag2.2:5.3",
+          "pli": "Āhāraṭṭhitiko samussayo,",
+          "en": "Seeing how this bag of bones is sustained by food,"
+        },
+        {
+          "scid": "thag2.2:5.4",
+          "pli": "Iti disvāna carāmi esanaṃ.",
+          "en": "I wander, seeking."
+        },
+        {
+          "scid": "thag2.2:6.1",
+          "pli": "Paṅkoti hi naṃ pavedayuṃ,",
+          "en": "They know it’s just a swamp,"
+        },
+        {
+          "scid": "thag2.2:6.2",
+          "pli": "Yāyaṃ vandanapūjanā kulesu;",
+          "en": "this homage and veneration in respectable families."
+        },
+        {
+          "scid": "thag2.2:6.3",
+          "pli": "Sukhumaṃ sallaṃ durubbahaṃ,",
+          "en": "Honor is a subtle dart, hard to extract,"
+        },
+        {
+          "scid": "thag2.2:6.4",
+          "pli": "Sakkāro kāpurisena dujjaho”ti.",
+          "en": "and hard for a sinner to give up."
+        },
+        {
+          "scid": "thag2.2:7.1",
+          "pli": "Itthaṃ sudaṃ āyasmā piṇḍolabhāradvājo thero gāthāyo abhāsitthāti.",
+          "en": "It was thus that these verses were recited by the senior venerable Piṇḍolabhāradvāja."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.2",
+    "volpages": "pts18",
+    "uid": "thag2.2",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Piṇḍolabhāradvājattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Piṇḍolabhāradvāja",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.2_sujato",
+        "segmented": true,
+        "title": "Piṇḍolabhāradvāja",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.2_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Piṇḍolabhāradvāja"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 2
+  }
+}

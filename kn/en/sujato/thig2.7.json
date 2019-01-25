@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "thig2.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig2.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mittā (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Abhaya’s Mother",
+      "uid": "thig2.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mettikā",
+      "uid": "thig2.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.7:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig2.7:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thig2.7:3.1",
+          "pli": "7. Mittātherīgāthā",
+          "en": "2.7. Mittā (2nd)"
+        },
+        {
+          "scid": "thig2.7:4.1",
+          "pli": "<span class=\"cross\" title=\"^vv15#6 [Uttarāvimānavatthu] | ^ja489#14 [Surucijātaka]\" id=\"note20\">*</span> <a class=\"sc\" id=\"1\"></a><a class=\"verse-num-sc\" id=\"verse-num-sc31\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts31\"></a>“Cātuddasiṃ pañcadasiṃ,",
+          "en": "I rejoice in the host of gods,"
+        },
+        {
+          "scid": "thig2.7:4.2",
+          "pli": "yā ca pakkhassa aṭṭhamī;",
+          "en": "having observed the sabbath"
+        },
+        {
+          "scid": "thig2.7:4.3",
+          "pli": "Pāṭihāriyapakkhañca,",
+          "en": "complete in all eight factors,"
+        },
+        {
+          "scid": "thig2.7:4.4",
+          "pli": "aṭṭhaṅgasusamāgataṃ.",
+          "en": "on the fourteenth and the fifteenth days,"
+        },
+        {
+          "scid": "thig2.7:5.1",
+          "pli": "Uposathaṃ upāgacchiṃ,",
+          "en": "and the eighth day of the fortnight,"
+        },
+        {
+          "scid": "thig2.7:5.2",
+          "pli": "devakāyābhinandinī;",
+          "en": "as well as on the fortnightly special displays."
+        },
+        {
+          "scid": "thig2.7:5.3",
+          "pli": "Sājja ekena bhattena,",
+          "en": "Today I eat just once a day,"
+        },
+        {
+          "scid": "thig2.7:5.4",
+          "pli": "muṇḍā saṅghāṭipārutā;",
+          "en": "my head is shaven, I wear the outer robe."
+        },
+        {
+          "scid": "thig2.7:5.5",
+          "pli": "Devakāyaṃ na patthehaṃ,",
+          "en": "I don’t long for the host of gods,"
+        },
+        {
+          "scid": "thig2.7:5.6",
+          "pli": "vineyya hadaye daran”ti.",
+          "en": "for stress has been removed from my heart."
+        },
+        {
+          "scid": "thig2.7:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig2.7:6.2",
+          "pli": "Mittā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 2.7",
+    "volpages": "pts127",
+    "uid": "thig2.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mittātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mittā (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig2.7_sujato",
+        "segmented": true,
+        "title": "Mittā (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.7_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mittā"
+      }
+    ],
+    "parallel_count": 15,
+    "biblio": null,
+    "num": 7
+  }
+}

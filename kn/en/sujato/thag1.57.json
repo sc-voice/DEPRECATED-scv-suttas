@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.57",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.57",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Kuṭivihārin (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ramaṇīyakuṭika",
+      "uid": "thag1.58"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kuṭivihārin (1st)",
+      "uid": "thag1.56"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.57:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.57:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.57:3.1",
+          "pli": "Chaṭṭhavagga",
+          "en": "Chapter Six"
+        },
+        {
+          "scid": "thag1.57:4.1",
+          "pli": "1.57. Dutiyakuṭivihārittheragāthā",
+          "en": "1.57. Kuṭivihārin (2nd)"
+        },
+        {
+          "scid": "thag1.57:5.1",
+          "pli": "“Ayamāhu purāṇiyā kuṭi,",
+          "en": "This was your old hut,"
+        },
+        {
+          "scid": "thag1.57:5.2",
+          "pli": "Aññaṃ patthayase navaṃ kuṭiṃ;",
+          "en": "but you still want a new hut."
+        },
+        {
+          "scid": "thag1.57:5.3",
+          "pli": "Āsaṃ kuṭiyā virājaya,",
+          "en": "Let go of hope for a hut, monk!"
+        },
+        {
+          "scid": "thag1.57:5.4",
+          "pli": "Dukkhā bhikkhu puna navā kuṭī”ti.",
+          "en": "A new hut will only bring more suffering."
+        },
+        {
+          "scid": "thag1.57:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.57:6.2",
+          "pli": "Dutiyakuṭivihāritthero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.57/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.57",
+    "volpages": "pts9",
+    "uid": "thag1.57",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dutiyakuṭivihārittheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kuṭivihārin (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.57_sujato",
+        "segmented": true,
+        "title": "Kuṭivihārin (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.57_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Dutiyakuṭivihāri"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

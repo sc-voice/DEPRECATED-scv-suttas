@@ -1,0 +1,198 @@
+{
+  "sutta_uid": "thig3.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig3.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Uttamā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Another Uttamā",
+      "uid": "thig3.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Another Sāmā",
+      "uid": "thig3.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.2:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig3.2:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thig3.2:3.1",
+          "pli": "2. Uttamātherīgāthā",
+          "en": "3.2. Uttamā"
+        },
+        {
+          "scid": "thig3.2:4.1",
+          "pli": "“Catukkhattuṃ pañcakkhattuṃ,",
+          "en": "Four or five times"
+        },
+        {
+          "scid": "thig3.2:4.2",
+          "pli": "vihārā upanikkhamiṃ;",
+          "en": "I left my dwelling."
+        },
+        {
+          "scid": "thig3.2:4.3",
+          "pli": "Aladdhā cetaso santiṃ,",
+          "en": "I had failed to find peace of heart,"
+        },
+        {
+          "scid": "thig3.2:4.4",
+          "pli": "citte avasavattinī.",
+          "en": "or any control over my mind."
+        },
+        {
+          "scid": "thig3.2:5.1",
+          "pli": "Sā bhikkhuniṃ upagacchiṃ,",
+          "en": "I approached a nun"
+        },
+        {
+          "scid": "thig3.2:5.2",
+          "pli": "yā me saddhāyikā ahu;",
+          "en": "in whom I had faith."
+        },
+        {
+          "scid": "thig3.2:5.3",
+          "pli": "Sā me dhammamadesesi,",
+          "en": "She taught me the Dhamma:"
+        },
+        {
+          "scid": "thig3.2:5.4",
+          "pli": "khandhāyatanadhātuyo.",
+          "en": "the aggregates, sense fields, and elements."
+        },
+        {
+          "scid": "thig3.2:6.1",
+          "pli": "Tassā dhammaṃ suṇitvāna,",
+          "en": "When I had heard her teaching,"
+        },
+        {
+          "scid": "thig3.2:6.2",
+          "pli": "Yathā maṃ anusāsi sā;",
+          "en": "in accordance with her instructions,"
+        },
+        {
+          "scid": "thig3.2:6.3",
+          "pli": "Sattāhaṃ ekapallaṅkena,",
+          "en": "I sat for seven days in the same posture,"
+        },
+        {
+          "scid": "thig3.2:6.4",
+          "pli": "Nisīdiṃ <span class=\"var\" title=\"nisīdiṃ sukhasamappitā (bj) | nisīdiṃ pītisukhamappitā (s2, s3)\" id=\"note21\">pītisukhasamappitā</span>;",
+          "en": "given over to rapture and bliss."
+        },
+        {
+          "scid": "thig3.2:6.5",
+          "pli": "Aṭṭhamiyā pāde pasāresiṃ,",
+          "en": "On the eighth day I stretched out my feet,"
+        },
+        {
+          "scid": "thig3.2:6.6",
+          "pli": "Tamokhandhaṃ padāliyā”ti.",
+          "en": "having shattered the mass of darkness."
+        },
+        {
+          "scid": "thig3.2:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig3.2:7.2",
+          "pli": "Uttamā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 3.2",
+    "volpages": "pts128",
+    "uid": "thig3.2",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uttamātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uttamā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig3.2_sujato",
+        "segmented": true,
+        "title": "Uttamā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.2_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Uttamā"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig3.2_thanissaro",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2005",
+        "segmented": false,
+        "volpage": null,
+        "title": "Uttama"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 2
+  }
+}

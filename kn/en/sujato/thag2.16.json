@@ -1,0 +1,165 @@
+{
+  "sutta_uid": "thag2.16",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.16",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mahākāḷa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Tissa (3rd)",
+      "uid": "thag2.17"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sabbamitta",
+      "uid": "thag2.15"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.16:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.16:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.16:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag2.16:4.1",
+          "pli": "2.16. Mahākāḷattheragāthā",
+          "en": "2.16. Mahākāḷa"
+        },
+        {
+          "scid": "thag2.16:5.1",
+          "pli": "“Kāḷī itthī brahatī dhaṅkarūpā,",
+          "en": "There’s a big black woman who looks like a crow."
+        },
+        {
+          "scid": "thag2.16:5.2",
+          "pli": "Satthiñca bhetvā aparañca satthiṃ;",
+          "en": "She broke off thigh-bones, first one then another;"
+        },
+        {
+          "scid": "thag2.16:5.3",
+          "pli": "Bāhañca bhetvā aparañca <span class=\"var\" title=\"bāhuṃ (bj, s2, s3, pts2)\" id=\"note100\">bāhaṃ</span>,",
+          "en": "she broke off arm-bones, first one then another;"
+        },
+        {
+          "scid": "thag2.16:5.4",
+          "pli": "Sīsañca bhetvā dadhithālakaṃva;",
+          "en": "she broke off a skull like a curd-bowl, and then"
+        },
+        {
+          "scid": "thag2.16:5.5",
+          "pli": "Esā nisinnā <span class=\"var\" title=\"abhisaddahitvā (bj, pts1)\" id=\"note101\">abhisandahitvā</span>.",
+          "en": "arranged them and sat nearby."
+        },
+        {
+          "scid": "thag2.16:6.1",
+          "pli": "Yo ve avidvā upadhiṃ karoti,",
+          "en": "When an ignorant person builds up attachments,"
+        },
+        {
+          "scid": "thag2.16:6.2",
+          "pli": "Punappunaṃ dukkhamupeti mando;",
+          "en": "that idiot returns to suffering again and again."
+        },
+        {
+          "scid": "thag2.16:6.3",
+          "pli": "Tasmā pajānaṃ upadhiṃ na kayirā,",
+          "en": "So let one who understands not build up attachments:"
+        },
+        {
+          "scid": "thag2.16:6.4",
+          "pli": "Māhaṃ puna bhinnasiro <span class=\"var\" title=\"passissanti (mr)\" id=\"note102\">sayissan”ti</span>.",
+          "en": "may I never again lie with a broken skull!"
+        },
+        {
+          "scid": "thag2.16:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.16:7.2",
+          "pli": "<span class=\"var\" title=\"mahākālo (s2, s3, pts1-2)\" id=\"note103\">Mahākāḷo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.16/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.16",
+    "volpages": "pts21",
+    "uid": "thag2.16",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mahākāḷattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mahākāḷa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.16_sujato",
+        "segmented": true,
+        "title": "Mahākāḷa",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.16_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mahākāḷa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

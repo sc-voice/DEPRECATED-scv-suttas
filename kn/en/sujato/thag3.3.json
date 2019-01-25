@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Bākula",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dhaniya",
+      "uid": "thag3.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Paccaya",
+      "uid": "thag3.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.3:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.3:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.3:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.3:4.1",
+          "pli": "<span class=\"var\" title=\"bakkulattheragāthā (bj)\" id=\"note153\">3.3 Bākulattheragāthā</span>",
+          "en": "3.3. Bākula"
+        },
+        {
+          "scid": "thag3.3:5.1",
+          "pli": "“Yo pubbe karaṇīyāni,",
+          "en": "Whoever wishes to do afterwards"
+        },
+        {
+          "scid": "thag3.3:5.2",
+          "pli": "pacchā so kātumicchati;",
+          "en": "what they should have done before"
+        },
+        {
+          "scid": "thag3.3:5.3",
+          "pli": "Sukhā so dhaṃsate ṭhānā,",
+          "en": "has lost the causes for happiness,"
+        },
+        {
+          "scid": "thag3.3:5.4",
+          "pli": "pacchā ca manutappati.",
+          "en": "and afterwards they’re tormented by regrets."
+        },
+        {
+          "scid": "thag3.3:6.1",
+          "pli": "Yañhi kayirā tañhi vade,",
+          "en": "You should only say what you would do;"
+        },
+        {
+          "scid": "thag3.3:6.2",
+          "pli": "yaṃ na kayirā na taṃ vade;",
+          "en": "you shouldn’t say what you wouldn’t do."
+        },
+        {
+          "scid": "thag3.3:6.3",
+          "pli": "Akarontaṃ bhāsamānaṃ,",
+          "en": "The wise will recognize"
+        },
+        {
+          "scid": "thag3.3:6.4",
+          "pli": "parijānanti paṇḍitā.",
+          "en": "one who talks without doing."
+        },
+        {
+          "scid": "thag3.3:7.1",
+          "pli": "<span class=\"cross\" title=\"^thag3.15#3 [Hāritattheragāthā] | ^ne6#336 [Sāsanapaṭṭhāna]\" id=\"note154\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc227\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts227\"></a>Susukhaṃ vata nibbānaṃ,",
+          "en": "Oh! Extinguishment is so very blissful,"
+        },
+        {
+          "scid": "thag3.3:7.2",
+          "pli": "sammāsambuddhadesitaṃ;",
+          "en": "as taught by the fully awakened Buddha:"
+        },
+        {
+          "scid": "thag3.3:7.3",
+          "pli": "Asokaṃ virajaṃ khemaṃ,",
+          "en": "sorrowless, stainless, secure,"
+        },
+        {
+          "scid": "thag3.3:7.4",
+          "pli": "yattha dukkhaṃ nirujjhatī”ti.",
+          "en": "where suffering all ceases."
+        },
+        {
+          "scid": "thag3.3:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.3:8.2",
+          "pli": "<span class=\"var\" title=\"bakkulo (bj)\" id=\"note155\">Bākulo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.3",
+    "volpages": "pts29",
+    "uid": "thag3.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bākulattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bākula",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.3_sujato",
+        "segmented": true,
+        "title": "Bākula",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.3_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Bākula"
+      }
+    ],
+    "parallel_count": 9,
+    "biblio": null,
+    "num": 3
+  }
+}

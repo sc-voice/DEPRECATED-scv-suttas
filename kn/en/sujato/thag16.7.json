@@ -1,0 +1,515 @@
+{
+  "sutta_uid": "thag16.7",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag16.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Kāḷigodhāputtabhaddiya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Aṅgulimāla",
+      "uid": "thag16.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sela",
+      "uid": "thag16.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag16.7:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag16.7:2.1",
+          "pli": "Vīsatinipāta",
+          "en": "The Book of the Twenties"
+        },
+        {
+          "scid": "thag16.7:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag16.7:4.1",
+          "pli": "<span class=\"var\" title=\"bhaddiyattheragāthā (bj)\" id=\"note390\">16.7 Kāḷigodhāputtabhaddiyattheragāthā</span>",
+          "en": "16.7. Kāḷigodhāputtabhaddiya"
+        },
+        {
+          "scid": "thag16.7:5.1",
+          "pli": "“Yātaṃ me hatthigīvāya,",
+          "en": "I rode on an elephant’s neck,"
+        },
+        {
+          "scid": "thag16.7:5.2",
+          "pli": "sukhumā vatthā padhāritā;",
+          "en": "wearing luxurious clothes."
+        },
+        {
+          "scid": "thag16.7:5.3",
+          "pli": "Sālīnaṃ odano bhutto,",
+          "en": "I ate rice congee"
+        },
+        {
+          "scid": "thag16.7:5.4",
+          "pli": "sucimaṃsūpasecano.",
+          "en": "with pure meat sauce."
+        },
+        {
+          "scid": "thag16.7:6.1",
+          "pli": "Sojja bhaddo sātatiko,",
+          "en": "Today I am fortunate, persistent,"
+        },
+        {
+          "scid": "thag16.7:6.2",
+          "pli": "uñchāpattāgate rato;",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:6.3",
+          "pli": "Jhāyati anupādāno,",
+          "en": "Bhaddiya son of Godhā"
+        },
+        {
+          "scid": "thag16.7:6.4",
+          "pli": "putto godhāya bhaddiyo.",
+          "en": "practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:7.1",
+          "pli": "Paṃsukūlī sātatiko,",
+          "en": "Wearing rags, persistent,"
+        },
+        {
+          "scid": "thag16.7:7.2",
+          "pli": "uñchāpattāgate rato;",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:7.3",
+          "pli": "Jhāyati anupādāno,",
+          "en": "Bhaddiya son of Godhā"
+        },
+        {
+          "scid": "thag16.7:7.4",
+          "pli": "putto godhāya bhaddiyo.",
+          "en": "practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:8.1",
+          "pli": "Piṇḍapātī sātatiko,",
+          "en": "Living on alms-food, persistent,"
+        },
+        {
+          "scid": "thag16.7:8.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:8.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:9.1",
+          "pli": "Tecīvarī sātatiko,",
+          "en": "Possessing only three robes, persistent,"
+        },
+        {
+          "scid": "thag16.7:9.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:9.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:10.1",
+          "pli": "Sapadānacārī sātatiko,",
+          "en": "Wandering for alms indiscriminately, persistent,"
+        },
+        {
+          "scid": "thag16.7:10.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:10.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:11.1",
+          "pli": "Ekāsanī sātatiko,",
+          "en": "Sitting alone, persistent,"
+        },
+        {
+          "scid": "thag16.7:11.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:11.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:12.1",
+          "pli": "Pattapiṇḍī sātatiko,",
+          "en": "Eating only what is placed in the alms-bowl, persistent,"
+        },
+        {
+          "scid": "thag16.7:12.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:12.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:13.1",
+          "pli": "Khalupacchābhattī sātatiko,",
+          "en": "Never eating too late, persistent,"
+        },
+        {
+          "scid": "thag16.7:13.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:13.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:14.1",
+          "pli": "Āraññiko sātatiko,",
+          "en": "Living in the wilderness, persistent,"
+        },
+        {
+          "scid": "thag16.7:14.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:14.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:15.1",
+          "pli": "Rukkhamūliko sātatiko,",
+          "en": "Living at the foot of a tree, persistent,"
+        },
+        {
+          "scid": "thag16.7:15.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:15.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:16.1",
+          "pli": "Abbhokāsī sātatiko,",
+          "en": "Living in the open, persistent,"
+        },
+        {
+          "scid": "thag16.7:16.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:16.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:17.1",
+          "pli": "Sosāniko sātatiko,",
+          "en": "Living in a charnel ground, persistent,"
+        },
+        {
+          "scid": "thag16.7:17.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:17.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:18.1",
+          "pli": "Yathāsanthatiko sātatiko,",
+          "en": "Accepting whatever seat is offered, persistent,"
+        },
+        {
+          "scid": "thag16.7:18.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:18.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:19.1",
+          "pli": "Nesajjiko sātatiko,",
+          "en": "Not lying down to sleep, persistent,"
+        },
+        {
+          "scid": "thag16.7:19.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:19.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:20.1",
+          "pli": "Appiccho sātatiko,",
+          "en": "Few in wishes, persistent,"
+        },
+        {
+          "scid": "thag16.7:20.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:20.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:21.1",
+          "pli": "Santuṭṭho sātatiko,",
+          "en": "Content, persistent,"
+        },
+        {
+          "scid": "thag16.7:21.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:21.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:22.1",
+          "pli": "Pavivitto sātatiko,",
+          "en": "Secluded, persistent,"
+        },
+        {
+          "scid": "thag16.7:22.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:22.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:23.1",
+          "pli": "Asaṃsaṭṭho sātatiko,",
+          "en": "Not socializing, persistent,"
+        },
+        {
+          "scid": "thag16.7:23.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:23.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:24.1",
+          "pli": "Āraddhavīriyo sātatiko,",
+          "en": "Energetic, persistent,"
+        },
+        {
+          "scid": "thag16.7:24.2",
+          "pli": "…",
+          "en": "happy with the scraps in my bowl:"
+        },
+        {
+          "scid": "thag16.7:24.3",
+          "pli": "pe …",
+          "en": "Bhaddiya son of Godhā practices absorption without grasping."
+        },
+        {
+          "scid": "thag16.7:25.1",
+          "pli": "Hitvā satapalaṃ kaṃsaṃ,",
+          "en": "Giving up a valuable bronze bowl,"
+        },
+        {
+          "scid": "thag16.7:25.2",
+          "pli": "sovaṇṇaṃ satarājikaṃ;",
+          "en": "and a precious golden one, too,"
+        },
+        {
+          "scid": "thag16.7:25.3",
+          "pli": "Aggahiṃ mattikāpattaṃ,",
+          "en": "I took a bowl made of clay:"
+        },
+        {
+          "scid": "thag16.7:25.4",
+          "pli": "idaṃ dutiyābhisecanaṃ.",
+          "en": "this is my second initiation."
+        },
+        {
+          "scid": "thag16.7:26.1",
+          "pli": "Ucce maṇḍalipākāre,",
+          "en": "I used to live in a citadel with walls so high,"
+        },
+        {
+          "scid": "thag16.7:26.2",
+          "pli": "daḷhamaṭṭālakoṭṭhake;",
+          "en": "with battlements strong and gates,"
+        },
+        {
+          "scid": "thag16.7:26.3",
+          "pli": "Rakkhito khaggahatthehi,",
+          "en": "all guarded by swordsmen—"
+        },
+        {
+          "scid": "thag16.7:26.4",
+          "pli": "uttasaṃ vihariṃ pure.",
+          "en": "and yet I trembled with fear."
+        },
+        {
+          "scid": "thag16.7:27.1",
+          "pli": "Sojja bhaddo anutrāsī,",
+          "en": "Today I am fortunate, free of trembling,"
+        },
+        {
+          "scid": "thag16.7:27.2",
+          "pli": "pahīnabhayabheravo;",
+          "en": "with fear and dread given up."
+        },
+        {
+          "scid": "thag16.7:27.3",
+          "pli": "Jhāyati vanamoggayha,",
+          "en": "Bhaddiya son of Godhā"
+        },
+        {
+          "scid": "thag16.7:27.4",
+          "pli": "putto godhāya bhaddiyo.",
+          "en": "has plunged into the forest and practices absorption."
+        },
+        {
+          "scid": "thag16.7:28.1",
+          "pli": "Sīlakkhandhe patiṭṭhāya,",
+          "en": "Established in the full spectrum of ethics,"
+        },
+        {
+          "scid": "thag16.7:28.2",
+          "pli": "satiṃ paññañca bhāvayaṃ;",
+          "en": "developing the mind and wisdom,"
+        },
+        {
+          "scid": "thag16.7:28.3",
+          "pli": "Pāpuṇiṃ anupubbena,",
+          "en": "gradually I attained"
+        },
+        {
+          "scid": "thag16.7:28.4",
+          "pli": "sabbasaṃyojanakkhayan”ti.",
+          "en": "the ending of all fetters."
+        },
+        {
+          "scid": "thag16.7:29.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag16.7:29.2",
+          "pli": "Bhaddiyo <span class=\"var\" title=\"kāligodhāya (s2, s3, pts1-2)\" id=\"note391\">kāḷigodhāya</span> putto thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag16.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 16.7",
+    "volpages": "pts79",
+    "uid": "thag16.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kāḷigodhāputtabhaddiyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kāḷigodhāputtabhaddiya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag16.7_sujato",
+        "segmented": true,
+        "title": "Kāḷigodhāputtabhaddiya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag16.7_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Kāḷigodhāputtabhaddiya"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 7
+  }
+}

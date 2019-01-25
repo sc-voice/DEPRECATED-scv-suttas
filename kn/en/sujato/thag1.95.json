@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.95",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.95",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Cakkhupāla",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Khaṇḍasumana",
+      "uid": "thag1.96"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mettaji",
+      "uid": "thag1.94"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.95:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.95:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.95:3.1",
+          "pli": "Dasamavagga",
+          "en": "Chapter Ten"
+        },
+        {
+          "scid": "thag1.95:4.1",
+          "pli": "1.95. Cakkhupālattheragāthā",
+          "en": "1.95. Cakkhupāla"
+        },
+        {
+          "scid": "thag1.95:5.1",
+          "pli": "“Andhohaṃ hatanettosmi,",
+          "en": "I’m blind, my eyes are ruined,"
+        },
+        {
+          "scid": "thag1.95:5.2",
+          "pli": "<span class=\"var\" title=\"... pakkhanno (bj, pts1-2) | ... pakkanto (bj-a) | ... pakkhanto (s2, s3)\" id=\"note63\">kantāraddhānapakkhando</span>;",
+          "en": "I’m traveling a desolate road."
+        },
+        {
+          "scid": "thag1.95:5.3",
+          "pli": "Sayamānopi gacchissaṃ,",
+          "en": "Even if I have to crawl I’ll keep going—"
+        },
+        {
+          "scid": "thag1.95:5.4",
+          "pli": "na sahāyena pāpenā”ti.",
+          "en": "though not with wicked companions."
+        },
+        {
+          "scid": "thag1.95:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.95:6.2",
+          "pli": "Cakkhupālo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.95/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.95",
+    "volpages": "pts14",
+    "uid": "thag1.95",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Cakkhupālattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Cakkhupāla",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.95_sujato",
+        "segmented": true,
+        "title": "Cakkhupāla",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.95_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Cakkhupāla"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thig1.14",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.14",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sumanā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttarā (1st)",
+      "uid": "thig1.15"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Visākhā",
+      "uid": "thig1.13"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.14:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.14:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.14:3.1",
+          "pli": "14. Sumanātherīgāthā",
+          "en": "1.14. Sumanā"
+        },
+        {
+          "scid": "thig1.14:4.1",
+          "pli": "“Dhātuyo dukkhato disvā,",
+          "en": "Having seen the elements as suffering,"
+        },
+        {
+          "scid": "thig1.14:4.2",
+          "pli": "mā jātiṃ punarāgami;",
+          "en": "don’t get reborn again."
+        },
+        {
+          "scid": "thig1.14:4.3",
+          "pli": "Bhave chandaṃ virājetvā,",
+          "en": "When you’ve discarded desire for rebirth,"
+        },
+        {
+          "scid": "thig1.14:4.4",
+          "pli": "upasantā carissasī”ti.",
+          "en": "you will live at peace."
+        },
+        {
+          "scid": "thig1.14:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.14:5.2",
+          "pli": "Sumanā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.14/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.14",
+    "volpages": "pts124",
+    "uid": "thig1.14",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sumanātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sumanā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.14_sujato",
+        "segmented": true,
+        "title": "Sumanā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.14_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sumanā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 14
+  }
+}

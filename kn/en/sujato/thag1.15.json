@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.15",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.15",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Kuṇḍadhāna",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Belaṭṭhasīsa",
+      "uid": "thag1.16"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "The Novice Sivaka",
+      "uid": "thag1.14"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.15:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.15:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.15:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag1.15:4.1",
+          "pli": "1.15. Kuṇḍadhānattheragāthā",
+          "en": "1.15. Kuṇḍadhāna"
+        },
+        {
+          "scid": "thag1.15:5.1",
+          "pli": "“Pañca chinde pañca jahe,",
+          "en": "Five to cut, five to drop,"
+        },
+        {
+          "scid": "thag1.15:5.2",
+          "pli": "pañca cuttari bhāvaye;",
+          "en": "and five more to develop."
+        },
+        {
+          "scid": "thag1.15:5.3",
+          "pli": "Pañcasaṅgātigo bhikkhu,",
+          "en": "A monk who has got over five kinds of clinging"
+        },
+        {
+          "scid": "thag1.15:5.4",
+          "pli": "oghatiṇṇoti vuccatī”ti.",
+          "en": "is called “One who has crossed the flood”."
+        },
+        {
+          "scid": "thag1.15:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.15:6.2",
+          "pli": "Kuṇḍadhāno thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.15/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.15",
+    "volpages": "pts3",
+    "uid": "thag1.15",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kuṇḍadhānattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kuṇḍadhāna",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.15_sujato",
+        "segmented": true,
+        "title": "Kuṇḍadhāna",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.15_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Kuṇḍadhāna"
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 5
+  }
+}

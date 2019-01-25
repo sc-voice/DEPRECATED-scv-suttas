@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.63",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.63",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Pakkha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vimalakoṇḍañña",
+      "uid": "thag1.64"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vajjiputta (1st)",
+      "uid": "thag1.62"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.63:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.63:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.63:3.1",
+          "pli": "Sattamavagga",
+          "en": "Chapter Seven"
+        },
+        {
+          "scid": "thag1.63:4.1",
+          "pli": "1.63. Pakkhattheragāthā",
+          "en": "1.63. Pakkha"
+        },
+        {
+          "scid": "thag1.63:5.1",
+          "pli": "“Cutā patanti patitā,",
+          "en": "They fall, collapsed and fallen;"
+        },
+        {
+          "scid": "thag1.63:5.2",
+          "pli": "giddhā ca punarāgatā;",
+          "en": "greedy, they return."
+        },
+        {
+          "scid": "thag1.63:5.3",
+          "pli": "Kataṃ kiccaṃ rataṃ rammaṃ,",
+          "en": "The work is done, the joyful is enjoyed,"
+        },
+        {
+          "scid": "thag1.63:5.4",
+          "pli": "sukhenanvāgataṃ sukhan”ti.",
+          "en": "happiness is found through happiness."
+        },
+        {
+          "scid": "thag1.63:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.63:6.2",
+          "pli": "Pakkho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.63/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.63",
+    "volpages": "pts10",
+    "uid": "thag1.63",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Pakkhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Pakkha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.63_sujato",
+        "segmented": true,
+        "title": "Pakkha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.63_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Pakkha"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

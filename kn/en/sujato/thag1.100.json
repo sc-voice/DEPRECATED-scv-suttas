@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag1.100",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.100",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Devasabha (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Belaṭṭhānika",
+      "uid": "thag1.101"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttiya (3rd)",
+      "uid": "thag1.99"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.100:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.100:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.100:3.1",
+          "pli": "Dasamavagga",
+          "en": "Chapter Ten"
+        },
+        {
+          "scid": "thag1.100:4.1",
+          "pli": "1.100. (Dutiya) Devasabhattheragāthā",
+          "en": "1.100. Devasabha (2nd)"
+        },
+        {
+          "scid": "thag1.100:5.1",
+          "pli": "“Sammappadhānasampanno,",
+          "en": "Accomplished in the four right efforts,"
+        },
+        {
+          "scid": "thag1.100:5.2",
+          "pli": "Satipaṭṭhānagocaro;",
+          "en": "mindfulness meditation is your territory;"
+        },
+        {
+          "scid": "thag1.100:5.3",
+          "pli": "Vimuttikusumasañchanno,",
+          "en": "festooned with the flowers of liberation,"
+        },
+        {
+          "scid": "thag1.100:5.4",
+          "pli": "<span class=\"var\" title=\"parinibbāyissatyanāsavoti (s2, s3) | parinibbātyanāsavoti (pts2)\" id=\"note69\">Parinibbissatyanāsavo”ti</span>.",
+          "en": "you’ll realize quenching without defilements."
+        },
+        {
+          "scid": "thag1.100:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:6.2",
+          "pli": "Devasabho thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:6.3",
+          "pli": "Vaggo dasamo.",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:7.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:8.1",
+          "pli": "Paripuṇṇako ca vijayo,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:8.2",
+          "pli": "erako mettajī muni;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:8.3",
+          "pli": "Cakkhupālo khaṇḍasumano,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:8.4",
+          "pli": "tisso ca abhayo tathā;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:8.5",
+          "pli": "Uttiyo ca mahāpañño,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.100:8.6",
+          "pli": "thero devasabhopi cāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.100/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.100",
+    "volpages": "pts15",
+    "uid": "thag1.100",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "(Dutiya) Devasabhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Devasabha (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.100_sujato",
+        "segmented": true,
+        "title": "Devasabha (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.100_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Devasabha"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.39",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.39",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Usabha (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kappaṭakura",
+      "uid": "thag2.40"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nisabha",
+      "uid": "thag2.38"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.39:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.39:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.39:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag2.39:4.1",
+          "pli": "2.39. Usabhattheragāthā",
+          "en": "2.39. Usabha (2nd)"
+        },
+        {
+          "scid": "thag2.39:5.1",
+          "pli": "“Ambapallavasaṅkāsaṃ,",
+          "en": "Arranging a robe over my shoulder,"
+        },
+        {
+          "scid": "thag2.39:5.2",
+          "pli": "aṃse katvāna cīvaraṃ;",
+          "en": "the color of young mango sprouts,"
+        },
+        {
+          "scid": "thag2.39:5.3",
+          "pli": "Nisinno hatthigīvāyaṃ,",
+          "en": "I entered the village for alms"
+        },
+        {
+          "scid": "thag2.39:5.4",
+          "pli": "gāmaṃ piṇḍāya pāvisiṃ.",
+          "en": "sitting on an elephant’s neck!"
+        },
+        {
+          "scid": "thag2.39:6.1",
+          "pli": "Hatthikkhandhato oruyha,",
+          "en": "But when I dismounted from the elephant,"
+        },
+        {
+          "scid": "thag2.39:6.2",
+          "pli": "saṃvegaṃ alabhiṃ tadā;",
+          "en": "I was struck with a sense of urgency."
+        },
+        {
+          "scid": "thag2.39:6.3",
+          "pli": "Sohaṃ ditto tadā santo,",
+          "en": "I burned with shame, but then I found peace,"
+        },
+        {
+          "scid": "thag2.39:6.4",
+          "pli": "patto me āsavakkhayo”ti.",
+          "en": "and attained the ending of defilements."
+        },
+        {
+          "scid": "thag2.39:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.39:7.2",
+          "pli": "Usabho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.39/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.39",
+    "volpages": "pts25",
+    "uid": "thag2.39",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Usabhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Usabha (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.39_sujato",
+        "segmented": true,
+        "title": "Usabha (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.39_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Usabha"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

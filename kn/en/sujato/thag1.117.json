@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.117",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.117",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Yasa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kimbila (1st)",
+      "uid": "thag1.118"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pārāpariya (1st)",
+      "uid": "thag1.116"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.117:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.117:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.117:3.1",
+          "pli": "Dvādasamavagga",
+          "en": "Chapter Twelve"
+        },
+        {
+          "scid": "thag1.117:4.1",
+          "pli": "1.117. Yasattheragāthā",
+          "en": "1.117. Yasa"
+        },
+        {
+          "scid": "thag1.117:5.1",
+          "pli": "“Suvilitto suvasano,",
+          "en": "I’m well-anointed and well-dressed,"
+        },
+        {
+          "scid": "thag1.117:5.2",
+          "pli": "sabbābharaṇabhūsito;",
+          "en": "adorned with all my jewellery."
+        },
+        {
+          "scid": "thag1.117:5.3",
+          "pli": "Tisso vijjā ajjhagamiṃ,",
+          "en": "I’ve attained the three knowledges"
+        },
+        {
+          "scid": "thag1.117:5.4",
+          "pli": "kataṃ buddhassa sāsanan”ti.",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag1.117:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.117:6.2",
+          "pli": "Yaso thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.117/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.117",
+    "volpages": "pts17",
+    "uid": "thag1.117",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Yasattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Yasa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.117_sujato",
+        "segmented": true,
+        "title": "Yasa",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.117_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Yasa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

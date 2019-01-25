@@ -1,0 +1,600 @@
+{
+  "sutta_uid": "thag16.6",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag16.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sela",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kāḷigodhāputtabhaddiya",
+      "uid": "thag16.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Māluṅkyaputta (2nd)",
+      "uid": "thag16.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag16.6:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag16.6:2.1",
+          "pli": "Vīsatinipāta",
+          "en": "The Book of the Twenties"
+        },
+        {
+          "scid": "thag16.6:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag16.6:4.1",
+          "pli": "16.6. Selattheragāthā",
+          "en": "16.6. Sela"
+        },
+        {
+          "scid": "thag16.6:5.1",
+          "pli": "<span class=\"cross\" title=\"^mn92#16 [Selasutta] | ^snp3.7#637 [Selasutta]\" id=\"note379\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc818\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts818\"></a>“Paripuṇṇakāyo suruci,",
+          "en": "“O Blessed One, your body’s perfect,"
+        },
+        {
+          "scid": "thag16.6:5.2",
+          "pli": "Sujāto cārudassano;",
+          "en": "you’re radiant, handsome, lovely to behold;"
+        },
+        {
+          "scid": "thag16.6:5.3",
+          "pli": "Suvaṇṇavaṇṇosi bhagavā,",
+          "en": "golden colored,"
+        },
+        {
+          "scid": "thag16.6:5.4",
+          "pli": "<span class=\"var\" title=\"susukkadāṭho virīyavā (bj) | susukkadāṭhosi viriyavā (s2, s3, pts1-2)\" id=\"note380\">Susukkadāṭhosi vīriyavā</span>.",
+          "en": "with teeth so white; you’re strong."
+        },
+        {
+          "scid": "thag16.6:6.1",
+          "pli": "Narassa hi sujātassa,",
+          "en": "The characteristics"
+        },
+        {
+          "scid": "thag16.6:6.2",
+          "pli": "ye bhavanti viyañjanā;",
+          "en": "of a handsome man,"
+        },
+        {
+          "scid": "thag16.6:6.3",
+          "pli": "Sabbe te tava kāyasmiṃ,",
+          "en": "the marks of a great man,"
+        },
+        {
+          "scid": "thag16.6:6.4",
+          "pli": "mahāpurisalakkhaṇā.",
+          "en": "are all in your body."
+        },
+        {
+          "scid": "thag16.6:7.1",
+          "pli": "<span class=\"cross\" title=\"^mn92#16 [Selasutta] | ^snp3.7#639 [Selasutta] | ^pe2#118 [Sāsanapaṭṭhānadutiyabhūmi]\" id=\"note381\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc820\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts820\"></a>Pasannanetto sumukho,",
+          "en": "Your eyes are clear, your face is fair,"
+        },
+        {
+          "scid": "thag16.6:7.2",
+          "pli": "brahā uju patāpavā;",
+          "en": "you’re formidable, upright, majestic."
+        },
+        {
+          "scid": "thag16.6:7.3",
+          "pli": "Majjhe samaṇasaṃghassa,",
+          "en": "In the midst of the Saṅgha of ascetics,"
+        },
+        {
+          "scid": "thag16.6:7.4",
+          "pli": "ādiccova virocasi.",
+          "en": "you shine like the sun."
+        },
+        {
+          "scid": "thag16.6:8.1",
+          "pli": "Kalyāṇadassano bhikkhu,",
+          "en": "You’re a mendicant fine to see,"
+        },
+        {
+          "scid": "thag16.6:8.2",
+          "pli": "kañcanasannibhattaco;",
+          "en": "with skin of golden sheen."
+        },
+        {
+          "scid": "thag16.6:8.3",
+          "pli": "Kiṃ te samaṇabhāvena,",
+          "en": "But with such excellent appearance,"
+        },
+        {
+          "scid": "thag16.6:8.4",
+          "pli": "evaṃ uttamavaṇṇino.",
+          "en": "what do you want with the ascetic life?"
+        },
+        {
+          "scid": "thag16.6:9.1",
+          "pli": "Rājā arahasi bhavituṃ,",
+          "en": "You’re fit to be a king,"
+        },
+        {
+          "scid": "thag16.6:9.2",
+          "pli": "cakkavattī rathesabho;",
+          "en": "a wheel-turning monarch, chief of charioteers,"
+        },
+        {
+          "scid": "thag16.6:9.3",
+          "pli": "Cāturanto vijitāvī,",
+          "en": "victorious in the four directions,"
+        },
+        {
+          "scid": "thag16.6:9.4",
+          "pli": "<span class=\"var\" title=\"jambumaṇḍassa (mr)\" id=\"note382\">jambusaṇḍassa</span> issaro.",
+          "en": "lord of all India."
+        },
+        {
+          "scid": "thag16.6:10.1",
+          "pli": "Khattiyā <span class=\"var\" title=\"bhogā rājāno (bj, mr) | bhojarājāno (s2, s3, pts1-2)\" id=\"note383\">bhogī rājāno</span>,",
+          "en": "Aristocrats, nobles, and kings"
+        },
+        {
+          "scid": "thag16.6:10.2",
+          "pli": "anuyantā bhavanti te;",
+          "en": "follow your rule."
+        },
+        {
+          "scid": "thag16.6:10.3",
+          "pli": "<span class=\"var\" title=\"rājādhirājā (bj, mr)\" id=\"note384\">Rājābhirājā</span> manujindo,",
+          "en": "Gotama, you should reign"
+        },
+        {
+          "scid": "thag16.6:10.4",
+          "pli": "rajjaṃ kārehi gotama”.",
+          "en": "as king of kings, lord of men!”"
+        },
+        {
+          "scid": "thag16.6:11.1",
+          "pli": "“Rājāhamasmi sela,<span class=\"gathaQuote\">(selāti bhagavā)</span>",
+          "en": "“Sela, I am a king,” said the Buddha to Sela,"
+        },
+        {
+          "scid": "thag16.6:11.2",
+          "pli": "Dhammarājā anuttaro;",
+          "en": "“the supreme king of the teaching."
+        },
+        {
+          "scid": "thag16.6:11.3",
+          "pli": "Dhammena cakkaṃ vattemi,",
+          "en": "By the teaching I roll forth the wheel"
+        },
+        {
+          "scid": "thag16.6:11.4",
+          "pli": "Cakkaṃ appaṭivattiyaṃ”.",
+          "en": "which cannot be rolled back.”"
+        },
+        {
+          "scid": "thag16.6:12.1",
+          "pli": "“Sambuddho paṭijānāsi,<span class=\"gathaQuote\">(iti selo brāhmaṇo)</span>",
+          "en": "“You claim to be awakened,” said Sela the brahmin,"
+        },
+        {
+          "scid": "thag16.6:12.2",
+          "pli": "Dhammarājā anuttaro;",
+          "en": "“the supreme king of the teaching."
+        },
+        {
+          "scid": "thag16.6:12.3",
+          "pli": "‘Dhammena cakkaṃ vattemi’,",
+          "en": "‘I roll forth the teaching’:"
+        },
+        {
+          "scid": "thag16.6:12.4",
+          "pli": "Iti bhāsatha gotama.",
+          "en": "so you say, Gotama."
+        },
+        {
+          "scid": "thag16.6:13.1",
+          "pli": "Ko nu senāpati bhoto,",
+          "en": "Then who is your general,"
+        },
+        {
+          "scid": "thag16.6:13.2",
+          "pli": "sāvako <span class=\"var\" title=\"satthu anvayo (bj)\" id=\"note385\">satthuranvayo</span>;",
+          "en": "the disciple who follows the Teacher’s way?"
+        },
+        {
+          "scid": "thag16.6:13.3",
+          "pli": "Ko <span class=\"var\" title=\"te maṃ anuvatteti (bj) | imaṃ anuvatteti (pts1) | t'etaṃ anuvatteti (pts2)\" id=\"note386\">tetamanuvatteti</span>,",
+          "en": "Who keeps rolling the wheel"
+        },
+        {
+          "scid": "thag16.6:13.4",
+          "pli": "dhammacakkaṃ pavattitaṃ”.",
+          "en": "of the teaching you rolled forth?”"
+        },
+        {
+          "scid": "thag16.6:14.1",
+          "pli": "“Mayā pavattitaṃ cakkaṃ,<span class=\"gathaQuote\">(selāti bhagavā)</span>",
+          "en": "“By me the wheel was rolled forth,” said the Buddha,"
+        },
+        {
+          "scid": "thag16.6:14.2",
+          "pli": "Dhammacakkaṃ anuttaraṃ;",
+          "en": "“the supreme wheel of the teaching."
+        },
+        {
+          "scid": "thag16.6:14.3",
+          "pli": "Sāriputto anuvatteti,",
+          "en": "Sāriputta, taking after the Realized One,"
+        },
+        {
+          "scid": "thag16.6:14.4",
+          "pli": "Anujāto tathāgataṃ.",
+          "en": "keeps it rolling on."
+        },
+        {
+          "scid": "thag16.6:15.1",
+          "pli": "Abhiññeyyaṃ abhiññātaṃ,",
+          "en": "I have known what should be known,"
+        },
+        {
+          "scid": "thag16.6:15.2",
+          "pli": "bhāvetabbañca bhāvitaṃ;",
+          "en": "and developed what should be developed,"
+        },
+        {
+          "scid": "thag16.6:15.3",
+          "pli": "Pahātabbaṃ pahīnaṃ me,",
+          "en": "and given up what should be given up:"
+        },
+        {
+          "scid": "thag16.6:15.4",
+          "pli": "tasmā buddhosmi brāhmaṇa.",
+          "en": "and so, brahmin, I am a Buddha."
+        },
+        {
+          "scid": "thag16.6:16.1",
+          "pli": "Vinayassu mayi kaṅkhaṃ,",
+          "en": "Dispel your doubt in me—"
+        },
+        {
+          "scid": "thag16.6:16.2",
+          "pli": "adhimuccassu brāhmaṇa;",
+          "en": "make up your mind, brahmin!"
+        },
+        {
+          "scid": "thag16.6:16.3",
+          "pli": "Dullabhaṃ dassanaṃ hoti,",
+          "en": "The sight of a Buddha"
+        },
+        {
+          "scid": "thag16.6:16.4",
+          "pli": "sambuddhānaṃ abhiṇhaso.",
+          "en": "is hard to find again."
+        },
+        {
+          "scid": "thag16.6:17.1",
+          "pli": "Yesaṃ ve dullabho loke,",
+          "en": "I am a Buddha, brahmin,"
+        },
+        {
+          "scid": "thag16.6:17.2",
+          "pli": "pātubhāvo abhiṇhaso;",
+          "en": "the supreme surgeon,"
+        },
+        {
+          "scid": "thag16.6:17.3",
+          "pli": "Sohaṃ brāhmaṇa buddhosmi,",
+          "en": "one of those whose appearance in the world"
+        },
+        {
+          "scid": "thag16.6:17.4",
+          "pli": "sallakatto anuttaro.",
+          "en": "is hard to find again."
+        },
+        {
+          "scid": "thag16.6:18.1",
+          "pli": "Brahmabhūto atitulo,",
+          "en": "Holy, unequaled,"
+        },
+        {
+          "scid": "thag16.6:18.2",
+          "pli": "mārasenappamaddano;",
+          "en": "crusher of Māra’s army;"
+        },
+        {
+          "scid": "thag16.6:18.3",
+          "pli": "Sabbāmitte <span class=\"var\" title=\"vasī (s2, s3, pts1-2, mr ^mn92#16 [Selasutta]; ^snp4.16#875 [Sāriputtasutta])\" id=\"note387\">vase</span> katvā,",
+          "en": "having subdued all my opponents,"
+        },
+        {
+          "scid": "thag16.6:18.4",
+          "pli": "modāmi akutobhayo”.",
+          "en": "I rejoice, fearing nothing from any quarter.”"
+        },
+        {
+          "scid": "thag16.6:19.1",
+          "pli": "“Idaṃ bhonto nisāmetha,",
+          "en": "“Pay heed, sirs, to what"
+        },
+        {
+          "scid": "thag16.6:19.2",
+          "pli": "yathā bhāsati cakkhumā;",
+          "en": "is spoken by the seer."
+        },
+        {
+          "scid": "thag16.6:19.3",
+          "pli": "Sallakatto mahāvīro,",
+          "en": "The surgeon, the great hero,"
+        },
+        {
+          "scid": "thag16.6:19.4",
+          "pli": "sīhova nadatī vane.",
+          "en": "roars like a lion in the jungle."
+        },
+        {
+          "scid": "thag16.6:20.1",
+          "pli": "Brahmabhūtaṃ atitulaṃ,",
+          "en": "Holy, unequaled,"
+        },
+        {
+          "scid": "thag16.6:20.2",
+          "pli": "mārasenappamaddanaṃ;",
+          "en": "crusher of Māra’s army;"
+        },
+        {
+          "scid": "thag16.6:20.3",
+          "pli": "Ko disvā nappasīdeyya,",
+          "en": "who would not be inspired by him,"
+        },
+        {
+          "scid": "thag16.6:20.4",
+          "pli": "api kaṇhābhijātiko.",
+          "en": "even one whose nature is dark?"
+        },
+        {
+          "scid": "thag16.6:21.1",
+          "pli": "Yo maṃ icchati anvetu,",
+          "en": "Those who wish may follow me;"
+        },
+        {
+          "scid": "thag16.6:21.2",
+          "pli": "yo vā nicchati gacchatu;",
+          "en": "those who don’t may go."
+        },
+        {
+          "scid": "thag16.6:21.3",
+          "pli": "Idhāhaṃ pabbajissāmi,",
+          "en": "Right here, I’ll go forth in the presence of him,"
+        },
+        {
+          "scid": "thag16.6:21.4",
+          "pli": "varapaññassa santike”.",
+          "en": "this man of such splendid wisdom.”"
+        },
+        {
+          "scid": "thag16.6:22.1",
+          "pli": "“Etañce ruccati bhoto,",
+          "en": "“Sir, if you like"
+        },
+        {
+          "scid": "thag16.6:22.2",
+          "pli": "sammāsambuddhasāsanaṃ;",
+          "en": "the teaching of the Buddha,"
+        },
+        {
+          "scid": "thag16.6:22.3",
+          "pli": "Mayampi pabbajissāma,",
+          "en": "we’ll also go forth in the presence of him,"
+        },
+        {
+          "scid": "thag16.6:22.4",
+          "pli": "varapaññassa santike”.",
+          "en": "this man of such splendid wisdom.”"
+        },
+        {
+          "scid": "thag16.6:23.1",
+          "pli": "“Brāhmaṇā tisatā ime,",
+          "en": "“These three hundred brahmins"
+        },
+        {
+          "scid": "thag16.6:23.2",
+          "pli": "yācanti pañjalīkatā;",
+          "en": "with joined palms held up, ask:"
+        },
+        {
+          "scid": "thag16.6:23.3",
+          "pli": "‘Brahmacariyaṃ carissāma,",
+          "en": "‘May we lead the spiritual life"
+        },
+        {
+          "scid": "thag16.6:23.4",
+          "pli": "bhagavā tava santike’”.",
+          "en": "in your presence, Blessed One?’”"
+        },
+        {
+          "scid": "thag16.6:24.1",
+          "pli": "“Svākkhātaṃ brahmacariyaṃ,<span class=\"gathaQuote\">(selāti bhagavā)</span>",
+          "en": "“The spiritual life is well explained,” said the Buddha,"
+        },
+        {
+          "scid": "thag16.6:24.2",
+          "pli": "Sandiṭṭhikamakālikaṃ;",
+          "en": "“realizable in this very life, immediately effective."
+        },
+        {
+          "scid": "thag16.6:24.3",
+          "pli": "Yattha amoghā pabbajjā,",
+          "en": "Here the going forth isn’t in vain"
+        },
+        {
+          "scid": "thag16.6:24.4",
+          "pli": "Appamattassa sikkhato”.",
+          "en": "for one who trains with diligence.”"
+        },
+        {
+          "scid": "thag16.6:25.1",
+          "pli": "“Yaṃ taṃ <span class=\"var\" title=\"saraṇamāgamma (bj, s2, s3, pts1)\" id=\"note388\">saraṇamāgamha</span>,",
+          "en": "“This is the eighth day since"
+        },
+        {
+          "scid": "thag16.6:25.2",
+          "pli": "ito <span class=\"var\" title=\"aṭṭhami (s2, s3, pts1-2, mr)\" id=\"note389\">aṭṭhame</span> cakkhuma;",
+          "en": "we went for refuge, O seer."
+        },
+        {
+          "scid": "thag16.6:25.3",
+          "pli": "Sattarattena bhagavā,",
+          "en": "In these seven days, Blessed One,"
+        },
+        {
+          "scid": "thag16.6:25.4",
+          "pli": "dantāmha tava sāsane.",
+          "en": "we’ve become tamed in your teaching."
+        },
+        {
+          "scid": "thag16.6:26.1",
+          "pli": "Tuvaṃ buddho tuvaṃ satthā,",
+          "en": "You are the Buddha, you are the Teacher,"
+        },
+        {
+          "scid": "thag16.6:26.2",
+          "pli": "tuvaṃ mārābhibhū muni;",
+          "en": "you are the sage who has overcome Māra;"
+        },
+        {
+          "scid": "thag16.6:26.3",
+          "pli": "Tuvaṃ anusaye chetvā,",
+          "en": "you have cut off the underlying tendencies,"
+        },
+        {
+          "scid": "thag16.6:26.4",
+          "pli": "tiṇṇo tāresimaṃ pajaṃ.",
+          "en": "you’ve crossed over, and you bring humanity across."
+        },
+        {
+          "scid": "thag16.6:27.1",
+          "pli": "Upadhī te samatikkantā,",
+          "en": "You have transcended attachments,"
+        },
+        {
+          "scid": "thag16.6:27.2",
+          "pli": "āsavā te padālitā;",
+          "en": "your defilements are shattered;"
+        },
+        {
+          "scid": "thag16.6:27.3",
+          "pli": "Sīhova anupādāno,",
+          "en": "by not grasping, like a lion,"
+        },
+        {
+          "scid": "thag16.6:27.4",
+          "pli": "pahīnabhayabheravo.",
+          "en": "you’ve given up fear and dread."
+        },
+        {
+          "scid": "thag16.6:28.1",
+          "pli": "Bhikkhavo tisatā ime,",
+          "en": "These three hundred mendicants"
+        },
+        {
+          "scid": "thag16.6:28.2",
+          "pli": "tiṭṭhanti pañjalīkatā;",
+          "en": "stand with joined palms raised."
+        },
+        {
+          "scid": "thag16.6:28.3",
+          "pli": "Pāde vīra pasārehi,",
+          "en": "Stretch out your feet, great hero:"
+        },
+        {
+          "scid": "thag16.6:28.4",
+          "pli": "nāgā vandantu satthuno”ti.",
+          "en": "let these giants worship the Teacher.”"
+        },
+        {
+          "scid": "thag16.6:29.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag16.6:29.2",
+          "pli": "Selo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag16.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 16.6",
+    "volpages": "pts79",
+    "uid": "thag16.6",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Selattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sela",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag16.6_sujato",
+        "segmented": true,
+        "title": "Sela",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag16.6_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sela"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 6
+  }
+}

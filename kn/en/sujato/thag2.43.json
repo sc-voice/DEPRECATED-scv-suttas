@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.43",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.43",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Brahmāli",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mogharāja",
+      "uid": "thag2.44"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dhammapāla",
+      "uid": "thag2.42"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.43:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.43:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.43:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag2.43:4.1",
+          "pli": "2.43. Brahmālittheragāthā",
+          "en": "2.43. Brahmāli"
+        },
+        {
+          "scid": "thag2.43:5.1",
+          "pli": "“<span class=\"var\" title=\"yassindriyāni (^dhp90-99#94.1 [90. Jīvakapañhavatthu/94. Mahākaccāyanattheravatthu]; ^ne6#321 [Sāsanapaṭṭhāna]; ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi])\" id=\"note136\">Kassindriyāni</span> samathaṅgatāni,",
+          "en": "Whose faculties have become serene,"
+        },
+        {
+          "scid": "thag2.43:5.2",
+          "pli": "Assā yathā sārathinā sudantā;",
+          "en": "like horses tamed by a charioteer?"
+        },
+        {
+          "scid": "thag2.43:5.3",
+          "pli": "Pahīnamānassa anāsavassa,",
+          "en": "Who has abandoned conceit and defilements,"
+        },
+        {
+          "scid": "thag2.43:5.4",
+          "pli": "Devāpi <span class=\"var\" title=\"tassa (bj, s2, s3, pts1)\" id=\"note137\">kassa</span> pihayanti tādinoti.",
+          "en": "becoming such that even the gods envy them?"
+        },
+        {
+          "scid": "thag2.43:6.1",
+          "pli": "<span class=\"cross\" title=\"^dhp90-99#94.1 [90. Jīvakapañhavatthu/94. Mahākaccāyanattheravatthu] | ^ne6#321 [Sāsanapaṭṭhāna] | ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi]\" id=\"note138\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc206\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts206\"></a>Mayhindriyāni samathaṅgatāni,",
+          "en": "My faculties have become serene,"
+        },
+        {
+          "scid": "thag2.43:6.2",
+          "pli": "Assā yathā sārathinā sudantā;",
+          "en": "like horses tamed by a charioteer."
+        },
+        {
+          "scid": "thag2.43:6.3",
+          "pli": "Pahīnamānassa anāsavassa,",
+          "en": "I have abandoned conceit and defilements,"
+        },
+        {
+          "scid": "thag2.43:6.4",
+          "pli": "Devāpi mayhaṃ pihayanti tādino”ti.",
+          "en": "becoming such that even the gods envy me."
+        },
+        {
+          "scid": "thag2.43:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.43:7.2",
+          "pli": "Brahmāli thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.43/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.43",
+    "volpages": "pts26",
+    "uid": "thag2.43",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Brahmālittheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Brahmāli",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.43_sujato",
+        "segmented": true,
+        "title": "Brahmāli",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.43_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Brahmāli"
+      }
+    ],
+    "parallel_count": 8,
+    "biblio": null,
+    "num": 3
+  }
+}

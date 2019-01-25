@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.52",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.52",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Subāhu",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Valliya (1st)",
+      "uid": "thag1.53"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Godhika",
+      "uid": "thag1.51"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.52:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.52:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.52:3.1",
+          "pli": "Chaṭṭhavagga",
+          "en": "Chapter Six"
+        },
+        {
+          "scid": "thag1.52:4.1",
+          "pli": "1.52. Subāhuttheragāthā",
+          "en": "1.52. Subāhu"
+        },
+        {
+          "scid": "thag1.52:5.1",
+          "pli": "“Vassati devo yathā sugītaṃ,",
+          "en": "The sky rains down, like a beautiful song."
+        },
+        {
+          "scid": "thag1.52:5.2",
+          "pli": "Channā me kuṭikā sukhā nivātā;",
+          "en": "My little hut is ro­ofed and pleasant, sheltered from the wind."
+        },
+        {
+          "scid": "thag1.52:5.3",
+          "pli": "Cittaṃ susamāhitañca kāye,",
+          "en": "My mind is immersed in my body:"
+        },
+        {
+          "scid": "thag1.52:5.4",
+          "pli": "Atha ce patthayasi pavassa devā”ti.",
+          "en": "so rain, sky, as you please. "
+        },
+        {
+          "scid": "thag1.52:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.52:6.2",
+          "pli": "Subāhutthero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.52/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.52",
+    "volpages": "pts8",
+    "uid": "thag1.52",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Subāhuttheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Subāhu",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.52_sujato",
+        "segmented": true,
+        "title": "Subāhu",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.52_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Subāhu"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

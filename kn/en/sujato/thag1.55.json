@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.55",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.55",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Añjanavaniya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kuṭivihārin (1st)",
+      "uid": "thag1.56"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Uttiya (2nd)",
+      "uid": "thag1.54"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.55:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.55:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.55:3.1",
+          "pli": "Chaṭṭhavagga",
+          "en": "Chapter Six"
+        },
+        {
+          "scid": "thag1.55:4.1",
+          "pli": "1.55. Añjanavaniyattheragāthā",
+          "en": "1.55. Añjanavaniya"
+        },
+        {
+          "scid": "thag1.55:5.1",
+          "pli": "“Āsandiṃ kuṭikaṃ katvā,",
+          "en": "I plunged into the Añjana forest"
+        },
+        {
+          "scid": "thag1.55:5.2",
+          "pli": "ogayha añjanaṃ vanaṃ;",
+          "en": "and made a little hut to live in."
+        },
+        {
+          "scid": "thag1.55:5.3",
+          "pli": "Tisso vijjā anuppattā,",
+          "en": "I’ve attained the three knowledges"
+        },
+        {
+          "scid": "thag1.55:5.4",
+          "pli": "kataṃ buddhassa sāsanan”ti.",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag1.55:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.55:6.2",
+          "pli": "<span class=\"var\" title=\"añjanāvaniyo (s2, s3, pts1-2)\" id=\"note45\">Añjanavaniyo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.55/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.55",
+    "volpages": "pts9",
+    "uid": "thag1.55",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Añjanavaniyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Añjanavaniya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.55_sujato",
+        "segmented": true,
+        "title": "Añjanavaniya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.55_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Añjanavaniya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

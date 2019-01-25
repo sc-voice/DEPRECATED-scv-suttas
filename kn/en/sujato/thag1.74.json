@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.74",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.74",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Suyāmana",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Susārada",
+      "uid": "thag1.75"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Māṇava",
+      "uid": "thag1.73"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.74:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.74:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.74:3.1",
+          "pli": "Aṭṭhamavagga",
+          "en": "Chapter Eight"
+        },
+        {
+          "scid": "thag1.74:4.1",
+          "pli": "1.74. Suyāmanattheragāthā",
+          "en": "1.74. Suyāmana"
+        },
+        {
+          "scid": "thag1.74:5.1",
+          "pli": "“Kāmacchando ca byāpādo,",
+          "en": "Sensual desire, ill will,"
+        },
+        {
+          "scid": "thag1.74:5.2",
+          "pli": "<span class=\"var\" title=\"thīnamiddhañca (bj, s2, s3, pts1-2)\" id=\"note58\">Thinamiddhañca</span> bhikkhuno;",
+          "en": "dullness and drowsiness,"
+        },
+        {
+          "scid": "thag1.74:5.3",
+          "pli": "Uddhaccaṃ vicikicchā ca,",
+          "en": "restlessness, and doubt"
+        },
+        {
+          "scid": "thag1.74:5.4",
+          "pli": "Sabbasova na vijjatī”ti.",
+          "en": "are not found in a monk at all."
+        },
+        {
+          "scid": "thag1.74:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.74:6.2",
+          "pli": "Suyāmano thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.74/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.74",
+    "volpages": "pts11",
+    "uid": "thag1.74",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Suyāmanattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Suyāmana",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.74_sujato",
+        "segmented": true,
+        "title": "Suyāmana",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.74_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Suyāmana"
+      }
+    ],
+    "parallel_count": 2,
+    "biblio": null,
+    "num": 4
+  }
+}

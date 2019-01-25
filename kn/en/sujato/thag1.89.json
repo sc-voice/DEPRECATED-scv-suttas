@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.89",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.89",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Devasabha (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sāmidatta",
+      "uid": "thag1.90"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ajjuna",
+      "uid": "thag1.88"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.89:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.89:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.89:3.1",
+          "pli": "Navamavagga",
+          "en": "Chapter Nine"
+        },
+        {
+          "scid": "thag1.89:4.1",
+          "pli": "1.89. (Paṭhama) Devasabhattheragāthā",
+          "en": "1.89. Devasabha (1st)"
+        },
+        {
+          "scid": "thag1.89:5.1",
+          "pli": "“Uttiṇṇā paṅkapalipā,",
+          "en": "I’ve crossed the bogs,"
+        },
+        {
+          "scid": "thag1.89:5.2",
+          "pli": "pātālā parivajjitā;",
+          "en": "I’ve avoided the cliffs,"
+        },
+        {
+          "scid": "thag1.89:5.3",
+          "pli": "Mutto oghā ca ganthā ca,",
+          "en": "I’m freed from floods and ties,"
+        },
+        {
+          "scid": "thag1.89:5.4",
+          "pli": "sabbe mānā visaṃhatā”ti.",
+          "en": "and I've wiped out all conceit."
+        },
+        {
+          "scid": "thag1.89:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.89:6.2",
+          "pli": "Devasabho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.89/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.89",
+    "volpages": "pts13",
+    "uid": "thag1.89",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "(Paṭhama) Devasabhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Devasabha (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.89_sujato",
+        "segmented": true,
+        "title": "Devasabha (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.89_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Devasabha"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

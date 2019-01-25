@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "thag1.14",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.14",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "The Novice Sivaka",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kuṇḍadhāna",
+      "uid": "thag1.15"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vanavaccha (1st)",
+      "uid": "thag1.13"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.14:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.14:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.14:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag1.14:4.1",
+          "pli": "1.14. Sivakasāmaṇeragāthā",
+          "en": "1.14. The Novice Sivaka"
+        },
+        {
+          "scid": "thag1.14:5.1",
+          "pli": "“Upajjhāyo maṃ <span class=\"var\" title=\"avacāsi (s2, s3, pts1)\" id=\"note12\">avaca</span>,",
+          "en": "My mentor said to me:"
+        },
+        {
+          "scid": "thag1.14:5.2",
+          "pli": "ito <span class=\"var\" title=\"gacchāmi (s2, s3, pts1)\" id=\"note13\">gacchāma</span> sīvaka;",
+          "en": "“Let’s leave here, Sīvaka.”"
+        },
+        {
+          "scid": "thag1.14:5.3",
+          "pli": "Gāme me vasati kāyo,",
+          "en": "My body lives in the village,"
+        },
+        {
+          "scid": "thag1.14:5.4",
+          "pli": "araññaṃ me gato mano;",
+          "en": "but my mind has gone to the wilderness."
+        },
+        {
+          "scid": "thag1.14:5.5",
+          "pli": "Semānakopi gacchāmi,",
+          "en": "I go there even when lying down—"
+        },
+        {
+          "scid": "thag1.14:5.6",
+          "pli": "natthi saṅgo vijānatan”ti.",
+          "en": "you can't tie down those who know."
+        },
+        {
+          "scid": "thag1.14:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.14:6.2",
+          "pli": "Vanavacchassa therassa (siviko) sāmaṇero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.14/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.14",
+    "volpages": "pts3",
+    "uid": "thag1.14",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sivakasāmaṇeragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "The Novice Sivaka",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.14_sujato",
+        "segmented": true,
+        "title": "The Novice Sivaka",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.14_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Novice Sivaka"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

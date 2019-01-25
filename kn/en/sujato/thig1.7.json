@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thig1.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Vīrā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mittā (1st)",
+      "uid": "thig1.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dhīrā",
+      "uid": "thig1.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.7:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.7:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.7:3.1",
+          "pli": "7. Vīrātherīgāthā",
+          "en": "1.7. Vīrā"
+        },
+        {
+          "scid": "thig1.7:4.1",
+          "pli": "“Vīrā <span class=\"var\" title=\"dhīrā dhīrehi (s2, s3, pts1-2, mr)\" id=\"note4\">vīrehi</span> dhammehi,",
+          "en": "She’s known as Vīrā because of her heroic qualities,"
+        },
+        {
+          "scid": "thig1.7:4.2",
+          "pli": "bhikkhunī bhāvitindriyā;",
+          "en": "a nun with faculties developed."
+        },
+        {
+          "scid": "thig1.7:4.3",
+          "pli": "Dhāreti antimaṃ dehaṃ,",
+          "en": "She bears her final body,"
+        },
+        {
+          "scid": "thig1.7:4.4",
+          "pli": "jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (s2, s3, pts1-2) | savāhananti (mr)\" id=\"note5\">savāhinin”ti</span>.",
+          "en": "having vanquished Māra and his mount."
+        },
+        {
+          "scid": "thig1.7:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.7:5.2",
+          "pli": "<span class=\"var\" title=\"aññatarā dhīrā (s2, s3, pts1-2)\" id=\"note6\">Vīrā</span> therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.7",
+    "volpages": "pts124",
+    "uid": "thig1.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vīrātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vīrā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.7_sujato",
+        "segmented": true,
+        "title": "Vīrā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.7_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Another Sister Dhīrā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

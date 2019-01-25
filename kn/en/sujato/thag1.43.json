@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag1.43",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.43",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sumaṅgala",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sānu",
+      "uid": "thag1.44"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Khadiravaniya",
+      "uid": "thag1.42"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.43:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.43:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.43:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag1.43:4.1",
+          "pli": "1.43. Sumaṅgalattheragāthā",
+          "en": "1.43. Sumaṅgala"
+        },
+        {
+          "scid": "thag1.43:5.1",
+          "pli": "“Sumuttiko sumuttiko,",
+          "en": "Well freed! Well freed!"
+        },
+        {
+          "scid": "thag1.43:5.2",
+          "pli": "Sāhu sumuttikomhi tīhi khujjakehi;",
+          "en": "I’m very well freed from three crooked things:"
+        },
+        {
+          "scid": "thag1.43:5.3",
+          "pli": "Asitāsu mayā naṅgalāsu mayā,",
+          "en": "my sickles, my ploughs,"
+        },
+        {
+          "scid": "thag1.43:5.4",
+          "pli": "Khuddakuddālāsu mayā.",
+          "en": "and my little hoes."
+        },
+        {
+          "scid": "thag1.43:5.5",
+          "pli": "Yadipi idhameva idhameva,",
+          "en": "Even if they were here, right here—"
+        },
+        {
+          "scid": "thag1.43:5.6",
+          "pli": "Atha vāpi alameva alameva;",
+          "en": "I’d be done with them, done!"
+        },
+        {
+          "scid": "thag1.43:5.7",
+          "pli": "Jhāya sumaṅgala jhāya sumaṅgala,",
+          "en": "Practice absorption Sumaṅgala! Practice absorption Sumaṅgala!"
+        },
+        {
+          "scid": "thag1.43:5.8",
+          "pli": "Appamatto vihara sumaṅgalā”ti.",
+          "en": "Stay heedful, Sumaṅgala!"
+        },
+        {
+          "scid": "thag1.43:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.43:6.2",
+          "pli": "Sumaṅgalo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.43/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.43",
+    "volpages": "pts7",
+    "uid": "thag1.43",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sumaṅgalattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sumaṅgala",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.43_sujato",
+        "segmented": true,
+        "title": "Sumaṅgala",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.43_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sumaṅgala"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

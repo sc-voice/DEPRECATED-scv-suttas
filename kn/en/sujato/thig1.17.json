@@ -1,0 +1,158 @@
+{
+  "sutta_uid": "thig1.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Dhammā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Saṃghā",
+      "uid": "thig1.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sumanā, Who Went Forth Late in Life",
+      "uid": "thig1.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.17:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.17:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.17:3.1",
+          "pli": "17. Dhammātherīgāthā",
+          "en": "1.17. Dhammā"
+        },
+        {
+          "scid": "thig1.17:4.1",
+          "pli": "“Piṇḍapātaṃ caritvāna,",
+          "en": "I wandered for alms"
+        },
+        {
+          "scid": "thig1.17:4.2",
+          "pli": "daṇḍamolubbha dubbalā;",
+          "en": "though feeble, leaning on a staff."
+        },
+        {
+          "scid": "thig1.17:4.3",
+          "pli": "Vedhamānehi gattehi,",
+          "en": "My limbs wobbled"
+        },
+        {
+          "scid": "thig1.17:4.4",
+          "pli": "tattheva nipatiṃ chamā;",
+          "en": "and I fell to the ground right there."
+        },
+        {
+          "scid": "thig1.17:4.5",
+          "pli": "Disvā ādīnavaṃ kāye,",
+          "en": "Seeing the danger of the body,"
+        },
+        {
+          "scid": "thig1.17:4.6",
+          "pli": "atha cittaṃ vimucci me”ti.",
+          "en": "my mind was freed."
+        },
+        {
+          "scid": "thig1.17:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.17:5.2",
+          "pli": "Dhammā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.17",
+    "volpages": "pts125",
+    "uid": "thig1.17",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dhammātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dhammā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.17_sujato",
+        "segmented": true,
+        "title": "Dhammā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.17_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Dhammā"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig1.17_thanissaro",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2005",
+        "segmented": false,
+        "volpage": null,
+        "title": "Dhamma"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 17
+  }
+}

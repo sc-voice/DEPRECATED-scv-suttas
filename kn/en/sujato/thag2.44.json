@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.44",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.44",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mogharāja",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Visākhapañcālaputta",
+      "uid": "thag2.45"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Brahmāli",
+      "uid": "thag2.43"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.44:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.44:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.44:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag2.44:4.1",
+          "pli": "2.44. Mogharājattheragāthā",
+          "en": "2.44. Mogharāja"
+        },
+        {
+          "scid": "thag2.44:5.1",
+          "pli": "“Chavipāpaka cittabhaddaka,",
+          "en": "“Your skin is nasty but your heart is good;"
+        },
+        {
+          "scid": "thag2.44:5.2",
+          "pli": "Mogharāja satataṃ samāhito;",
+          "en": "Mogharāja, you’re always immersed in samādhi."
+        },
+        {
+          "scid": "thag2.44:5.3",
+          "pli": "<span class=\"var\" title=\"hemantikakālarattiyo (mr)\" id=\"note139\">Hemantikasītakālarattiyo</span>,",
+          "en": "But in the nights of winter, so dark and cold,"
+        },
+        {
+          "scid": "thag2.44:5.4",
+          "pli": "Bhikkhu tvaṃsi kathaṃ karissasi”.",
+          "en": "how will you get by, monk?”"
+        },
+        {
+          "scid": "thag2.44:6.1",
+          "pli": "“Sampannasassā magadhā,",
+          "en": "“I’ve heard that all the Magadhans"
+        },
+        {
+          "scid": "thag2.44:6.2",
+          "pli": "kevalā iti me sutaṃ;",
+          "en": "have an abundance of grain."
+        },
+        {
+          "scid": "thag2.44:6.3",
+          "pli": "Palālacchannako seyyaṃ,",
+          "en": "I’ll make my bed under a thatched roof,"
+        },
+        {
+          "scid": "thag2.44:6.4",
+          "pli": "yathaññe sukhajīvino”ti.",
+          "en": "just like those who live in comfort.”"
+        },
+        {
+          "scid": "thag2.44:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.44:7.2",
+          "pli": "Mogharājā thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.44/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.44",
+    "volpages": "pts27",
+    "uid": "thag2.44",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mogharājattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mogharāja",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.44_sujato",
+        "segmented": true,
+        "title": "Mogharāja",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.44_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mogharāja"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

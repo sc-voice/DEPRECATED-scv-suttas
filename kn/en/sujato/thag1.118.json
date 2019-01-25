@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.118",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.118",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Kimbila (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vajjiputta (2nd)",
+      "uid": "thag1.119"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Yasa",
+      "uid": "thag1.117"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.118:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.118:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.118:3.1",
+          "pli": "Dvādasamavagga",
+          "en": "Chapter Twelve"
+        },
+        {
+          "scid": "thag1.118:4.1",
+          "pli": "<span class=\"var\" title=\"kimbilattheragāthā (bj)\" id=\"note81\">1.118 Kimilattheragāthā</span>",
+          "en": "1.118 Kimbila (1st)"
+        },
+        {
+          "scid": "thag1.118:5.1",
+          "pli": "“Abhisattova nipatati,",
+          "en": "Old age falls like a curse;"
+        },
+        {
+          "scid": "thag1.118:5.2",
+          "pli": "Vayo rūpaṃ aññamiva tatheva santaṃ;",
+          "en": "it’s the same body, but it seems like someone else’s."
+        },
+        {
+          "scid": "thag1.118:5.3",
+          "pli": "Tasseva sato avippavasato,",
+          "en": "I remember myself as if I were someone else,"
+        },
+        {
+          "scid": "thag1.118:5.4",
+          "pli": "Aññasseva sarāmi attānan”ti.",
+          "en": "but I’m still the same, I haven’t been away."
+        },
+        {
+          "scid": "thag1.118:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.118:6.2",
+          "pli": "<span class=\"var\" title=\"kimbilat (bj, s2, s3, pts1-2)\" id=\"note82\">Kimilo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.118/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.118",
+    "volpages": "pts17",
+    "uid": "thag1.118",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kimilattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kimbila (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.118_sujato",
+        "segmented": true,
+        "title": "Kimbila (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.118_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Kimila"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

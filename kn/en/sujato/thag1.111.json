@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.111",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.111",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Jenta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vacchagotta",
+      "uid": "thag1.112"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Usabha (1st)",
+      "uid": "thag1.110"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.111:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.111:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.111:3.1",
+          "pli": "Dvādasamavagga",
+          "en": "Chapter Twelve"
+        },
+        {
+          "scid": "thag1.111:4.1",
+          "pli": "1.111. Jentattheragāthā",
+          "en": "1.111. Jenta"
+        },
+        {
+          "scid": "thag1.111:5.1",
+          "pli": "“Duppabbajjaṃ ve duradhivāsā gehā,",
+          "en": "Going forth is hard; living at home is hard;"
+        },
+        {
+          "scid": "thag1.111:5.2",
+          "pli": "Dhammo gambhīro duradhigamā bhogā;",
+          "en": "Dhamma is profound; money is hard to come by."
+        },
+        {
+          "scid": "thag1.111:5.3",
+          "pli": "Kicchā vutti no itarītareneva,",
+          "en": "Getting by is difficult for we who accept whatever comes,"
+        },
+        {
+          "scid": "thag1.111:5.4",
+          "pli": "Yuttaṃ cintetuṃ satatamaniccatan”ti.",
+          "en": "so we should always think about impermanence."
+        },
+        {
+          "scid": "thag1.111:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.111:6.2",
+          "pli": "Jento thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.111/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.111",
+    "volpages": "pts16",
+    "uid": "thag1.111",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Jentattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Jenta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.111_sujato",
+        "segmented": true,
+        "title": "Jenta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.111_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Jenta"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

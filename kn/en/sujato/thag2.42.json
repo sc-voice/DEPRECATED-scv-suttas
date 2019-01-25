@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.42",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.42",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Dhammapāla",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Brahmāli",
+      "uid": "thag2.43"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kassapa the Prince",
+      "uid": "thag2.41"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.42:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.42:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.42:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag2.42:4.1",
+          "pli": "2.42. Dhammapālattheragāthā",
+          "en": "2.42. Dhammapāla"
+        },
+        {
+          "scid": "thag2.42:5.1",
+          "pli": "“Yo have daharo bhikkhu,",
+          "en": "The young monk"
+        },
+        {
+          "scid": "thag2.42:5.2",
+          "pli": "yuñjati buddhasāsane;",
+          "en": "who is devoted to the teaching of the Buddha,"
+        },
+        {
+          "scid": "thag2.42:5.3",
+          "pli": "Jāgaro <span class=\"var\" title=\"patisuttesu (bj, pts1, mr)\" id=\"note135\">sa hi suttesu</span>,",
+          "en": "wakeful while others sleep—"
+        },
+        {
+          "scid": "thag2.42:5.4",
+          "pli": "amoghaṃ tassa jīvitaṃ.",
+          "en": "his life is not in vain."
+        },
+        {
+          "scid": "thag2.42:6.1",
+          "pli": "Tasmā saddhañca sīlañca,",
+          "en": "So let the wise devote themselves"
+        },
+        {
+          "scid": "thag2.42:6.2",
+          "pli": "pasādaṃ dhammadassanaṃ;",
+          "en": "to faith, ethical behavior,"
+        },
+        {
+          "scid": "thag2.42:6.3",
+          "pli": "Anuyuñjetha medhāvī,",
+          "en": "confidence, and insight into the teaching,"
+        },
+        {
+          "scid": "thag2.42:6.4",
+          "pli": "saraṃ buddhāna sāsanan”ti.",
+          "en": "remembering the instructions of the Buddhas."
+        },
+        {
+          "scid": "thag2.42:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.42:7.2",
+          "pli": "Dhammapālo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.42/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.42",
+    "volpages": "pts26",
+    "uid": "thag2.42",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dhammapālattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Dhammapāla",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.42_sujato",
+        "segmented": true,
+        "title": "Dhammapāla",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.42_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Dhammapāla"
+      }
+    ],
+    "parallel_count": 9,
+    "biblio": null,
+    "num": 2
+  }
+}

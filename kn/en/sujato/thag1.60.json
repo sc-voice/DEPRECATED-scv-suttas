@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag1.60",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.60",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sīvali",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vappa",
+      "uid": "thag1.61"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kosalavihārin",
+      "uid": "thag1.59"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.60:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.60:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.60:3.1",
+          "pli": "Chaṭṭhavagga",
+          "en": "Chapter Six"
+        },
+        {
+          "scid": "thag1.60:4.1",
+          "pli": "1.60. Sīvalittheragāthā",
+          "en": "1.60. Sīvali"
+        },
+        {
+          "scid": "thag1.60:5.1",
+          "pli": "“Te me ijjhiṃsu saṅkappā,",
+          "en": "My wishes—the purpose I had"
+        },
+        {
+          "scid": "thag1.60:5.2",
+          "pli": "yadattho pāvisiṃ kuṭiṃ;",
+          "en": "for entering this hut—came true."
+        },
+        {
+          "scid": "thag1.60:5.3",
+          "pli": "Vijjāvimuttiṃ paccesaṃ,",
+          "en": "Abandoning the tendency to conceit,"
+        },
+        {
+          "scid": "thag1.60:5.4",
+          "pli": "mānānusayamujjahan”ti.",
+          "en": "I’ll realize knowledge and liberation."
+        },
+        {
+          "scid": "thag1.60:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:6.2",
+          "pli": "Sīvalitthero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:6.3",
+          "pli": "Vaggo chaṭṭho.",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:7.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:8.1",
+          "pli": "Godhiko ca subāhu ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:8.2",
+          "pli": "valliyo uttiyo isi;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:8.3",
+          "pli": "Añjanavaniyo thero,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:8.4",
+          "pli": "duve kuṭivihārino;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:8.5",
+          "pli": "Ramaṇīyakuṭiko ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.60:8.6",
+          "pli": "kosalavhayasīvalīti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.60/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.60",
+    "volpages": "pts9",
+    "uid": "thag1.60",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sīvalittheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sīvali",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.60_sujato",
+        "segmented": true,
+        "title": "Sīvali",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.60_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sīvali"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

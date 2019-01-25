@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.34",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.34",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Isidinna",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sambulakaccāna",
+      "uid": "thag2.35"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Upavāṇa",
+      "uid": "thag2.33"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.34:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.34:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.34:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag2.34:4.1",
+          "pli": "2.34. Isidinnattheragāthā",
+          "en": "2.34. Isidinna"
+        },
+        {
+          "scid": "thag2.34:5.1",
+          "pli": "“Diṭṭhā mayā dhammadharā upāsakā,",
+          "en": "I’ve seen lay disciples who have memorized discourses,"
+        },
+        {
+          "scid": "thag2.34:5.2",
+          "pli": "Kāmā aniccā iti bhāsamānā;",
+          "en": "saying, “Sensual pleasures are impermanent”."
+        },
+        {
+          "scid": "thag2.34:5.3",
+          "pli": "Sārattarattā maṇikuṇḍalesu,",
+          "en": "But they’re obsessed with jewels and earrings,"
+        },
+        {
+          "scid": "thag2.34:5.4",
+          "pli": "Puttesu dāresu ca te apekkhā.",
+          "en": "concerned for their partners and children."
+        },
+        {
+          "scid": "thag2.34:6.1",
+          "pli": "Addhā na jānanti yatodha dhammaṃ,",
+          "en": "To be honest, they don’t know Dhamma,"
+        },
+        {
+          "scid": "thag2.34:6.2",
+          "pli": "Kāmā aniccā iti cāpi āhu;",
+          "en": "even though they say “Sensual pleasures are impermanent”."
+        },
+        {
+          "scid": "thag2.34:6.3",
+          "pli": "Rāgañca tesaṃ na balatthi chettuṃ,",
+          "en": "They don’t have the power to cut their lust,"
+        },
+        {
+          "scid": "thag2.34:6.4",
+          "pli": "Tasmā sitā puttadāraṃ dhanañcā”ti.",
+          "en": "which is why they cling to children, wives, and wealth."
+        },
+        {
+          "scid": "thag2.34:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.34:7.2",
+          "pli": "Isidinno thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.34/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.34",
+    "volpages": "pts24",
+    "uid": "thag2.34",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Isidinnattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Isidinna",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.34_sujato",
+        "segmented": true,
+        "title": "Isidinna",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.34_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Isidinna"
+      }
+    ],
+    "parallel_count": 10,
+    "biblio": null,
+    "num": 4
+  }
+}

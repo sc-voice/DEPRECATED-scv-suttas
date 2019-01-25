@@ -1,0 +1,540 @@
+{
+  "sutta_uid": "thag16.1",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "thag16.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Adhimutta (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pārāpariya (2nd)",
+      "uid": "thag16.2"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Udāyi",
+      "uid": "thag15.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag16.1:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag16.1:2.1",
+          "pli": "Vīsatinipāta",
+          "en": "The Book of the Twenties"
+        },
+        {
+          "scid": "thag16.1:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag16.1:4.1",
+          "pli": "16.1. Adhimuttattheragāthā",
+          "en": "16.1. Adhimutta (2nd)"
+        },
+        {
+          "scid": "thag16.1:5.1",
+          "pli": "“Yaññatthaṃ vā dhanatthaṃ vā,",
+          "en": "“Those who we killed in the past,"
+        },
+        {
+          "scid": "thag16.1:5.2",
+          "pli": "ye hanāma mayaṃ pure;",
+          "en": "whether for sacrifice or for wealth,"
+        },
+        {
+          "scid": "thag16.1:5.3",
+          "pli": "<span class=\"var\" title=\"avase taṃ (bj) | avase'saṃ (pts2) | avasesānaṃ (aṭṭha.)\" id=\"note326\">Avasesaṃ</span> bhayaṃ hoti,",
+          "en": "without exception were afraid;"
+        },
+        {
+          "scid": "thag16.1:5.4",
+          "pli": "vedhanti vilapanti ca.",
+          "en": "they trembled and they squealed."
+        },
+        {
+          "scid": "thag16.1:6.1",
+          "pli": "Tassa te natthi bhītattaṃ,",
+          "en": "But you’re not scared;"
+        },
+        {
+          "scid": "thag16.1:6.2",
+          "pli": "bhiyyo vaṇṇo pasīdati;",
+          "en": "you look even calmer than before."
+        },
+        {
+          "scid": "thag16.1:6.3",
+          "pli": "Kasmā na paridevesi,",
+          "en": "Why don’t you cry out"
+        },
+        {
+          "scid": "thag16.1:6.4",
+          "pli": "evarūpe mahabbhaye”.",
+          "en": "in such a terrifying situation?”"
+        },
+        {
+          "scid": "thag16.1:7.1",
+          "pli": "“Natthi cetasikaṃ dukkhaṃ,",
+          "en": "“There isn’t any mental suffering"
+        },
+        {
+          "scid": "thag16.1:7.2",
+          "pli": "anapekkhassa gāmaṇi;",
+          "en": "for one without hope, village chief."
+        },
+        {
+          "scid": "thag16.1:7.3",
+          "pli": "Atikkantā bhayā sabbe,",
+          "en": "All fears are left behind"
+        },
+        {
+          "scid": "thag16.1:7.4",
+          "pli": "khīṇasaṃyojanassa ve.",
+          "en": "by one whose fetters have ended."
+        },
+        {
+          "scid": "thag16.1:8.1",
+          "pli": "Khīṇāya bhavanettiyā,",
+          "en": "When attachment to rebirth is ended,"
+        },
+        {
+          "scid": "thag16.1:8.2",
+          "pli": "diṭṭhe dhamme yathātathe;",
+          "en": "and the truth is seen as it is,"
+        },
+        {
+          "scid": "thag16.1:8.3",
+          "pli": "Na bhayaṃ maraṇe hoti,",
+          "en": "there is no fear of death;"
+        },
+        {
+          "scid": "thag16.1:8.4",
+          "pli": "bhāranikkhepane yathā.",
+          "en": "it’s like laying down a burden."
+        },
+        {
+          "scid": "thag16.1:9.1",
+          "pli": "Suciṇṇaṃ brahmacariyaṃ me,",
+          "en": "I’ve lived the spiritual life well,"
+        },
+        {
+          "scid": "thag16.1:9.2",
+          "pli": "maggo cāpi subhāvito;",
+          "en": "and developed the path well, too."
+        },
+        {
+          "scid": "thag16.1:9.3",
+          "pli": "Maraṇe me bhayaṃ natthi,",
+          "en": "I do not fear death;"
+        },
+        {
+          "scid": "thag16.1:9.4",
+          "pli": "rogānamiva saṅkhaye.",
+          "en": "it’s like the passing of a disease."
+        },
+        {
+          "scid": "thag16.1:10.1",
+          "pli": "Suciṇṇaṃ brahmacariyaṃ me,",
+          "en": "I’ve lived the spiritual life well,"
+        },
+        {
+          "scid": "thag16.1:10.2",
+          "pli": "maggo cāpi subhāvito;",
+          "en": "and developed the path well, too."
+        },
+        {
+          "scid": "thag16.1:10.3",
+          "pli": "Nirassādā bhavā diṭṭhā,",
+          "en": "I’ve seen that there’s nothing gratifying in existences,"
+        },
+        {
+          "scid": "thag16.1:10.4",
+          "pli": "visaṃ <span class=\"var\" title=\"pītvāva (bj) | pitvāna (s2, s3, pts1)\" id=\"note327\">pitvāva</span> chaḍḍitaṃ.",
+          "en": "like someone who has tasted poison, then thrown it out."
+        },
+        {
+          "scid": "thag16.1:11.1",
+          "pli": "Pāragū anupādāno,",
+          "en": "One who has gone beyond, without grasping,"
+        },
+        {
+          "scid": "thag16.1:11.2",
+          "pli": "katakicco anāsavo;",
+          "en": "they’ve completed the task and are free of defilements."
+        },
+        {
+          "scid": "thag16.1:11.3",
+          "pli": "Tuṭṭho āyukkhayā hoti,",
+          "en": "They are content at the end of life,"
+        },
+        {
+          "scid": "thag16.1:11.4",
+          "pli": "mutto āghātanā yathā.",
+          "en": "like someone released from execution."
+        },
+        {
+          "scid": "thag16.1:12.1",
+          "pli": "Uttamaṃ dhammataṃ patto,",
+          "en": "Having realized the supreme Dhamma,"
+        },
+        {
+          "scid": "thag16.1:12.2",
+          "pli": "sabbaloke anatthiko;",
+          "en": "without needing anything in the whole world,"
+        },
+        {
+          "scid": "thag16.1:12.3",
+          "pli": "Ādittāva gharā mutto,",
+          "en": "one doesn’t grieve at death;"
+        },
+        {
+          "scid": "thag16.1:12.4",
+          "pli": "maraṇasmiṃ na socati.",
+          "en": "for it’s like escaping from a burning house."
+        },
+        {
+          "scid": "thag16.1:13.1",
+          "pli": "Yadatthi saṅgataṃ kiñci,",
+          "en": "Whatever has come to pass,"
+        },
+        {
+          "scid": "thag16.1:13.2",
+          "pli": "bhavo vā yattha labbhati;",
+          "en": "wherever life is obtained,"
+        },
+        {
+          "scid": "thag16.1:13.3",
+          "pli": "Sabbaṃ anissaraṃ etaṃ,",
+          "en": "there is no Lord of all that:"
+        },
+        {
+          "scid": "thag16.1:13.4",
+          "pli": "iti vuttaṃ mahesinā.",
+          "en": "so said the great hermit."
+        },
+        {
+          "scid": "thag16.1:14.1",
+          "pli": "Yo taṃ tathā pajānāti,",
+          "en": "Whoever understands this"
+        },
+        {
+          "scid": "thag16.1:14.2",
+          "pli": "yathā buddhena desitaṃ;",
+          "en": "as it was taught by the Buddha"
+        },
+        {
+          "scid": "thag16.1:14.3",
+          "pli": "Na gaṇhāti bhavaṃ kiñci,",
+          "en": "doesn’t grab on to any new life,"
+        },
+        {
+          "scid": "thag16.1:14.4",
+          "pli": "sutattaṃva ayoguḷaṃ.",
+          "en": "like you wouldn’t grab a hot iron ball."
+        },
+        {
+          "scid": "thag16.1:15.1",
+          "pli": "Na me hoti ‘ahosin’ti,",
+          "en": "It doesn’t occur to me, ‘I existed in the past’;"
+        },
+        {
+          "scid": "thag16.1:15.2",
+          "pli": "‘bhavissan’ti na hoti me;",
+          "en": "nor, ‘I will exist in the future’."
+        },
+        {
+          "scid": "thag16.1:15.3",
+          "pli": "Saṅkhārā vigamissanti,",
+          "en": "All conditions will disappear—"
+        },
+        {
+          "scid": "thag16.1:15.4",
+          "pli": "tattha kā paridevanā.",
+          "en": "why weep over that?"
+        },
+        {
+          "scid": "thag16.1:16.1",
+          "pli": "Suddhaṃ dhammasamuppādaṃ,",
+          "en": "Seeing in accordance with reality"
+        },
+        {
+          "scid": "thag16.1:16.2",
+          "pli": "Suddhaṃ saṅkhārasantatiṃ;",
+          "en": "the bare arising of phenomena,"
+        },
+        {
+          "scid": "thag16.1:16.3",
+          "pli": "Passantassa yathābhūtaṃ,",
+          "en": "and the bare process of conditions,"
+        },
+        {
+          "scid": "thag16.1:16.4",
+          "pli": "Na bhayaṃ hoti gāmaṇi.",
+          "en": "there is no fear, village chief."
+        },
+        {
+          "scid": "thag16.1:17.1",
+          "pli": "Tiṇakaṭṭhasamaṃ lokaṃ,",
+          "en": "The world is like grass and sticks:"
+        },
+        {
+          "scid": "thag16.1:17.2",
+          "pli": "yadā paññāya passati;",
+          "en": "when this is seen with wisdom,"
+        },
+        {
+          "scid": "thag16.1:17.3",
+          "pli": "Mamattaṃ so asaṃvindaṃ,",
+          "en": "not finding anything to be mine,"
+        },
+        {
+          "scid": "thag16.1:17.4",
+          "pli": "‘natthi me’ti na socati.",
+          "en": "thinking ‘it isn’t mine’, one doesn’t grieve."
+        },
+        {
+          "scid": "thag16.1:18.1",
+          "pli": "Ukkaṇṭhāmi sarīrena,",
+          "en": "I’m fed up with the body;"
+        },
+        {
+          "scid": "thag16.1:18.2",
+          "pli": "bhavenamhi anatthiko;",
+          "en": "I don’t need another life."
+        },
+        {
+          "scid": "thag16.1:18.3",
+          "pli": "Soyaṃ bhijjissati kāyo,",
+          "en": "This body will be broken up,"
+        },
+        {
+          "scid": "thag16.1:18.4",
+          "pli": "añño ca na bhavissati.",
+          "en": "and there won’t be another."
+        },
+        {
+          "scid": "thag16.1:19.1",
+          "pli": "Yaṃ vo kiccaṃ sarīrena,",
+          "en": "Do what you want"
+        },
+        {
+          "scid": "thag16.1:19.2",
+          "pli": "taṃ karotha yadicchatha;",
+          "en": "with my corpse."
+        },
+        {
+          "scid": "thag16.1:19.3",
+          "pli": "Na me tappaccayā tattha,",
+          "en": "I won’t be angry or attached"
+        },
+        {
+          "scid": "thag16.1:19.4",
+          "pli": "doso pemañca hehiti”.",
+          "en": "on account of that.”"
+        },
+        {
+          "scid": "thag16.1:20.1",
+          "pli": "Tassa taṃ vacanaṃ sutvā,",
+          "en": "When they heard these words,"
+        },
+        {
+          "scid": "thag16.1:20.2",
+          "pli": "abbhutaṃ lomahaṃsanaṃ;",
+          "en": "so astonishing and hair-raising,"
+        },
+        {
+          "scid": "thag16.1:20.3",
+          "pli": "Satthāni nikkhipitvāna,",
+          "en": "the young men laid down their swords"
+        },
+        {
+          "scid": "thag16.1:20.4",
+          "pli": "māṇavā etadabravuṃ.",
+          "en": "and spoke these words:"
+        },
+        {
+          "scid": "thag16.1:21.1",
+          "pli": "“Kiṃ <span class=\"var\" title=\"bhaddante (bj, pts1)\" id=\"note328\">bhadante</span> karitvāna,",
+          "en": "“What have you practiced, Venerable?"
+        },
+        {
+          "scid": "thag16.1:21.2",
+          "pli": "ko vā ācariyo tava;",
+          "en": "And who is your teacher?"
+        },
+        {
+          "scid": "thag16.1:21.3",
+          "pli": "Kassa sāsanamāgamma,",
+          "en": "Whose instructions do we follow"
+        },
+        {
+          "scid": "thag16.1:21.4",
+          "pli": "labbhate taṃ asokatā”.",
+          "en": "to gain the sorrowless state?”"
+        },
+        {
+          "scid": "thag16.1:22.1",
+          "pli": "“Sabbaññū sabbadassāvī,",
+          "en": "“The knower of all, the seer of all:"
+        },
+        {
+          "scid": "thag16.1:22.2",
+          "pli": "jino ācariyo mama;",
+          "en": "the victor is my teacher."
+        },
+        {
+          "scid": "thag16.1:22.3",
+          "pli": "Mahākāruṇiko satthā,",
+          "en": "He is a Teacher of great compassion,"
+        },
+        {
+          "scid": "thag16.1:22.4",
+          "pli": "sabbalokatikicchako.",
+          "en": "healer of the whole world."
+        },
+        {
+          "scid": "thag16.1:23.1",
+          "pli": "Tenāyaṃ desito dhammo,",
+          "en": "He taught this Dhamma,"
+        },
+        {
+          "scid": "thag16.1:23.2",
+          "pli": "khayagāmī anuttaro;",
+          "en": "leading to ending, unsurpassed."
+        },
+        {
+          "scid": "thag16.1:23.3",
+          "pli": "Tassa sāsanamāgamma,",
+          "en": "Following his instructions,"
+        },
+        {
+          "scid": "thag16.1:23.4",
+          "pli": "labbhate taṃ asokatā”.",
+          "en": "you can gain the sorrowless state.”"
+        },
+        {
+          "scid": "thag16.1:24.1",
+          "pli": "Sutvāna corā isino subhāsitaṃ,",
+          "en": "When the bandits heard the good words of the hermit,"
+        },
+        {
+          "scid": "thag16.1:24.2",
+          "pli": "Nikkhippa satthāni ca āvudhāni ca;",
+          "en": "they laid down their swords and weapons."
+        },
+        {
+          "scid": "thag16.1:24.3",
+          "pli": "Tamhā ca kammā viramiṃsu eke,",
+          "en": "Some refrained from their former deeds,"
+        },
+        {
+          "scid": "thag16.1:24.4",
+          "pli": "Eke ca pabbajjamarocayiṃsu.",
+          "en": "while others chose the going-forth."
+        },
+        {
+          "scid": "thag16.1:25.1",
+          "pli": "Te pabbajitvā sugatassa sāsane,",
+          "en": "When they had gone forth in the teaching of the Holy One,"
+        },
+        {
+          "scid": "thag16.1:25.2",
+          "pli": "Bhāvetva bojjhaṅgabalāni paṇḍitā;",
+          "en": "those astute ones developed the awakening factors and the powers."
+        },
+        {
+          "scid": "thag16.1:25.3",
+          "pli": "Udaggacittā sumanā katindriyā,",
+          "en": "Joyful, happy, their faculties complete,"
+        },
+        {
+          "scid": "thag16.1:25.4",
+          "pli": "Phusiṃsu nibbānapadaṃ asaṅkhatanti.",
+          "en": "they realized the state of quenching, the unconditioned."
+        },
+        {
+          "scid": "thag16.1:26.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag16.1:26.2",
+          "pli": "Adhimutto thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag16.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 16.1",
+    "volpages": "pts71",
+    "uid": "thag16.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Adhimuttattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Adhimutta (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag16.1_sujato",
+        "segmented": true,
+        "title": "Adhimutta (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag16.1_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Adhimutta"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

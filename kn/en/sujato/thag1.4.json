@@ -1,0 +1,145 @@
+{
+  "sutta_uid": "thag1.4",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.4",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Puṇṇa (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dabba",
+      "uid": "thag1.5"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kaṅkhārevata",
+      "uid": "thag1.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.4:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.4:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.4:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag1.4:4.1",
+          "pli": "1.4. Puṇṇattheragāthā",
+          "en": "1.4. Puṇṇa (1st)"
+        },
+        {
+          "scid": "thag1.4:5.1",
+          "pli": "“Sabbhireva samāsetha,",
+          "en": "Associate only with the virtuous,"
+        },
+        {
+          "scid": "thag1.4:5.2",
+          "pli": "paṇḍitehatthadassibhi;",
+          "en": "the astute ones who see the goal."
+        },
+        {
+          "scid": "thag1.4:5.3",
+          "pli": "Atthaṃ mahantaṃ gambhīraṃ,",
+          "en": "The wise ones, diligent and discerning,"
+        },
+        {
+          "scid": "thag1.4:5.4",
+          "pli": "duddasaṃ nipuṇaṃ aṇuṃ;",
+          "en": "realize the goal"
+        },
+        {
+          "scid": "thag1.4:5.5",
+          "pli": "Dhīrā samadhigacchanti,",
+          "en": "so great and profound,"
+        },
+        {
+          "scid": "thag1.4:5.6",
+          "pli": "appamattā vicakkhaṇā”ti.",
+          "en": "hard to see, subtle, and fine."
+        },
+        {
+          "scid": "thag1.4:6.1",
+          "pli": "Itthaṃ sudaṃ āyasmā puṇṇo <span class=\"var\" title=\"mantāniputto (s2, s3, pts1-2, mr)\" id=\"note4\">mantāṇiputto</span> thero gāthaṃ abhāsitthāti.",
+          "en": "It was thus that this verse was recited by the senior venerable Puṇṇa Mantāṇiputta."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.4/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.4",
+    "volpages": "pts2",
+    "uid": "thag1.4",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Puṇṇattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Puṇṇa (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.4_sujato",
+        "segmented": true,
+        "title": "Puṇṇa (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.4_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Puṇṇa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

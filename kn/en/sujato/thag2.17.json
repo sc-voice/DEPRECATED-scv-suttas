@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.17",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.17",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Tissa (3rd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kimbila (2nd)",
+      "uid": "thag2.18"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahākāḷa",
+      "uid": "thag2.16"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.17:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.17:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.17:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag2.17:4.1",
+          "pli": "2.17. Tissattheragāthā",
+          "en": "2.17. Tissa (3rd)"
+        },
+        {
+          "scid": "thag2.17:5.1",
+          "pli": "“Bahū sapatte labhati,",
+          "en": "A shaven one wrapped in the outer robe"
+        },
+        {
+          "scid": "thag2.17:5.2",
+          "pli": "muṇḍo saṅghāṭipāruto;",
+          "en": "gets many enemies"
+        },
+        {
+          "scid": "thag2.17:5.3",
+          "pli": "Lābhī annassa pānassa,",
+          "en": "when they receive food and drink,"
+        },
+        {
+          "scid": "thag2.17:5.4",
+          "pli": "vatthassa sayanassa ca.",
+          "en": "clothes and lodgings."
+        },
+        {
+          "scid": "thag2.17:6.1",
+          "pli": "Etamādīnavaṃ ñatvā,",
+          "en": "Knowing this danger,"
+        },
+        {
+          "scid": "thag2.17:6.2",
+          "pli": "sakkāresu mahabbhayaṃ;",
+          "en": "this great fear in honors,"
+        },
+        {
+          "scid": "thag2.17:6.3",
+          "pli": "Appalābho anavassuto,",
+          "en": "a mendicant should go forth mindfully,"
+        },
+        {
+          "scid": "thag2.17:6.4",
+          "pli": "sato bhikkhu paribbaje”ti.",
+          "en": "with few possessions, not full of desire."
+        },
+        {
+          "scid": "thag2.17:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.17:7.2",
+          "pli": "Tisso thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.17/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.17",
+    "volpages": "pts21",
+    "uid": "thag2.17",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Tissattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Tissa (3rd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.17_sujato",
+        "segmented": true,
+        "title": "Tissa (3rd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.17_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Tissa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

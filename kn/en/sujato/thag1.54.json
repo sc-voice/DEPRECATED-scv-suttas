@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.54",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.54",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Uttiya (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Añjanavaniya",
+      "uid": "thag1.55"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Valliya (1st)",
+      "uid": "thag1.53"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.54:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.54:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.54:3.1",
+          "pli": "Chaṭṭhavagga",
+          "en": "Chapter Six"
+        },
+        {
+          "scid": "thag1.54:4.1",
+          "pli": "1.54. Uttiyattheragāthā",
+          "en": "1.54. Uttiya (2nd)"
+        },
+        {
+          "scid": "thag1.54:5.1",
+          "pli": "“Vassati devo yathā sugītaṃ,",
+          "en": "The sky rains down, like a beautiful song."
+        },
+        {
+          "scid": "thag1.54:5.2",
+          "pli": "Channā me kuṭikā sukhā nivātā;",
+          "en": "My little hut is ro­ofed and pleasant, sheltered from the wind."
+        },
+        {
+          "scid": "thag1.54:5.3",
+          "pli": "Tassaṃ viharāmi adutiyo,",
+          "en": "I dwell there without a partner:"
+        },
+        {
+          "scid": "thag1.54:5.4",
+          "pli": "Atha ce patthayasi pavassa devā”ti.",
+          "en": "so rain, sky, as you please."
+        },
+        {
+          "scid": "thag1.54:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.54:6.2",
+          "pli": "Uttiyo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.54/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.54",
+    "volpages": "pts9",
+    "uid": "thag1.54",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uttiyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uttiya (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.54_sujato",
+        "segmented": true,
+        "title": "Uttiya (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.54_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Uttiya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 4
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sāṭimattiya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Upāli",
+      "uid": "thag3.11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Yasoja",
+      "uid": "thag3.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.10:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.10:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.10:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.10:4.1",
+          "pli": "3.10. Sāṭimattiyattheragāthā",
+          "en": "3.10. Sāṭimattiya"
+        },
+        {
+          "scid": "thag3.10:5.1",
+          "pli": "“Ahu tuyhaṃ pure saddhā,",
+          "en": "In the past you had faith,"
+        },
+        {
+          "scid": "thag3.10:5.2",
+          "pli": "sā te ajja na vijjati;",
+          "en": "today you have none."
+        },
+        {
+          "scid": "thag3.10:5.3",
+          "pli": "Yaṃ tuyhaṃ tuyhamevetaṃ,",
+          "en": "What’s yours is yours alone—"
+        },
+        {
+          "scid": "thag3.10:5.4",
+          "pli": "natthi duccaritaṃ mama.",
+          "en": "I’ve done nothing wrong."
+        },
+        {
+          "scid": "thag3.10:6.1",
+          "pli": "Aniccā hi calā saddhā,",
+          "en": "Faith is impermanent, fickle:"
+        },
+        {
+          "scid": "thag3.10:6.2",
+          "pli": "evaṃ diṭṭhā hi sā mayā;",
+          "en": "or so I have seen."
+        },
+        {
+          "scid": "thag3.10:6.3",
+          "pli": "Rajjantipi virajjanti,",
+          "en": "Passions wax and wane:"
+        },
+        {
+          "scid": "thag3.10:6.4",
+          "pli": "tattha kiṃ jiyyate muni.",
+          "en": "why would a sage waste away on that account?"
+        },
+        {
+          "scid": "thag3.10:7.1",
+          "pli": "Paccati munino bhattaṃ,",
+          "en": "The meal of a sage is cooked"
+        },
+        {
+          "scid": "thag3.10:7.2",
+          "pli": "Thokaṃ thokaṃ kule kule;",
+          "en": "bit by bit in this family or that."
+        },
+        {
+          "scid": "thag3.10:7.3",
+          "pli": "Piṇḍikāya carissāmi,",
+          "en": "I’ll walk for alms,"
+        },
+        {
+          "scid": "thag3.10:7.4",
+          "pli": "Atthi <span class=\"var\" title=\"jaṅghābalaṃ (bj, pts2)\" id=\"note161\">jaṅghabalaṃ</span> mamā”ti.",
+          "en": "for my legs are strong."
+        },
+        {
+          "scid": "thag3.10:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.10:8.2",
+          "pli": "Sāṭimattiyo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.10",
+    "volpages": "pts31",
+    "uid": "thag3.10",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sāṭimattiyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sāṭimattiya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.10_sujato",
+        "segmented": true,
+        "title": "Sāṭimattiya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.10_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sāṭimattiya"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 10
+  }
+}

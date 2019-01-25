@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.85",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.85",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sunāga",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nāgita",
+      "uid": "thag1.86"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nīta",
+      "uid": "thag1.84"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.85:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.85:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.85:3.1",
+          "pli": "Navamavagga",
+          "en": "Chapter Nine"
+        },
+        {
+          "scid": "thag1.85:4.1",
+          "pli": "1.85. Sunāgattheragāthā",
+          "en": "1.85. Sunāga"
+        },
+        {
+          "scid": "thag1.85:5.1",
+          "pli": "“Cittanimittassa kovido,",
+          "en": "Skilled in the patterns of the mind,"
+        },
+        {
+          "scid": "thag1.85:5.2",
+          "pli": "<span class=\"var\" title=\"pavivekassa rasaṃ (pts2)\" id=\"note61\">Pavivekarasaṃ</span> vijāniya;",
+          "en": "understanding the sweetness of seclusion,"
+        },
+        {
+          "scid": "thag1.85:5.3",
+          "pli": "Jhāyaṃ nipako patissato,",
+          "en": "practicing absorption, alert, mindful:"
+        },
+        {
+          "scid": "thag1.85:5.4",
+          "pli": "Adhigaccheyya sukhaṃ nirāmisan”ti.",
+          "en": "such a person would realize spiritual happiness."
+        },
+        {
+          "scid": "thag1.85:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.85:6.2",
+          "pli": "Sunāgo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.85/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.85",
+    "volpages": "pts13",
+    "uid": "thag1.85",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sunāgattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sunāga",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.85_sujato",
+        "segmented": true,
+        "title": "Sunāga",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.85_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sunāga"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

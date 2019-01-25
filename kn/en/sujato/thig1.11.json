@@ -1,0 +1,158 @@
+{
+  "sutta_uid": "thig1.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig1.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Muttā (2nd)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dhammadinnā",
+      "uid": "thig1.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Upasamā",
+      "uid": "thig1.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig1.11:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig1.11:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thig1.11:3.1",
+          "pli": "11. Muttātherīgāthā",
+          "en": "1.11. Muttā (2nd)"
+        },
+        {
+          "scid": "thig1.11:4.1",
+          "pli": "“Sumuttā sādhumuttāmhi,",
+          "en": "I’m well freed, so very well freed,"
+        },
+        {
+          "scid": "thig1.11:4.2",
+          "pli": "tīhi khujjehi muttiyā;",
+          "en": "freed from the three things that bent me over:"
+        },
+        {
+          "scid": "thig1.11:4.3",
+          "pli": "Udukkhalena musalena,",
+          "en": "the mortar, the pestle,"
+        },
+        {
+          "scid": "thig1.11:4.4",
+          "pli": "patinā khujjakena ca;",
+          "en": "and my humpbacked husband."
+        },
+        {
+          "scid": "thig1.11:4.5",
+          "pli": "Muttāmhi jātimaraṇā,",
+          "en": "I’m freed from birth and death;"
+        },
+        {
+          "scid": "thig1.11:4.6",
+          "pli": "bhavanetti samūhatā”ti.",
+          "en": "the attachment to rebirth is eradicated."
+        },
+        {
+          "scid": "thig1.11:5.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig1.11:5.2",
+          "pli": "Muttā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig1.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 1.11",
+    "volpages": "pts124",
+    "uid": "thig1.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Muttātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Muttā (2nd)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig1.11_sujato",
+        "segmented": true,
+        "title": "Muttā (2nd)",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig1.11_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Muttā"
+      },
+      {
+        "author": "Thanissaro Bhikkhu",
+        "author_short": "Thanissaro",
+        "author_uid": "thanissaro",
+        "id": "en_thig1.11_thanissaro",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2005",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mutta"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 11
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.45",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.45",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Ramaṇīyavihārin",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Samiddhi",
+      "uid": "thag1.46"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sānu",
+      "uid": "thag1.44"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.45:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.45:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.45:3.1",
+          "pli": "Pañcamavagga",
+          "en": "Chapter Five"
+        },
+        {
+          "scid": "thag1.45:4.1",
+          "pli": "1.45. Ramaṇīyavihārittheragāthā",
+          "en": "1.45. Ramaṇīyavihārin"
+        },
+        {
+          "scid": "thag1.45:5.1",
+          "pli": "“Yathāpi bhaddo ājañño,",
+          "en": "Though a fine thoroughbred may stumble,"
+        },
+        {
+          "scid": "thag1.45:5.2",
+          "pli": "khalitvā patitiṭṭhati;",
+          "en": "it soon stands firm again."
+        },
+        {
+          "scid": "thag1.45:5.3",
+          "pli": "Evaṃ dassanasampannaṃ,",
+          "en": "Even so is one accomplished in vision,"
+        },
+        {
+          "scid": "thag1.45:5.4",
+          "pli": "sammāsambuddhasāvakan”ti.",
+          "en": "a disciple of the Buddha."
+        },
+        {
+          "scid": "thag1.45:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.45:6.2",
+          "pli": "Ramaṇīyavihāritthero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.45/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.45",
+    "volpages": "pts7",
+    "uid": "thag1.45",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ramaṇīyavihārittheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ramaṇīyavihārin",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.45_sujato",
+        "segmented": true,
+        "title": "Ramaṇīyavihārin",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.45_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Ramaṇīyavihāri"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}

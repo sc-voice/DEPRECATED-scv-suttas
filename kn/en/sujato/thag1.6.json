@@ -1,0 +1,135 @@
+{
+  "sutta_uid": "thag1.6",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.6",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sītavaniya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bhalliya",
+      "uid": "thag1.7"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dabba",
+      "uid": "thag1.5"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.6:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.6:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.6:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag1.6:4.1",
+          "pli": "1.6. Sītavaniyattheragāthā",
+          "en": "1.6. Sītavaniya"
+        },
+        {
+          "scid": "thag1.6:5.1",
+          "pli": "“Yo sītavanaṃ upagā bhikkhu,",
+          "en": "The monk who went to Sītavana is solitary,"
+        },
+        {
+          "scid": "thag1.6:5.2",
+          "pli": "Eko santusito samāhitatto;",
+          "en": "content and serene,"
+        },
+        {
+          "scid": "thag1.6:5.3",
+          "pli": "Vijitāvī apetalomahaṃso,",
+          "en": "victorious, with goosebumps vanished,"
+        },
+        {
+          "scid": "thag1.6:5.4",
+          "pli": "Rakkhaṃ kāyagatāsatiṃ dhitimā”ti.",
+          "en": "guarding mindfulness of the body, resolute."
+        },
+        {
+          "scid": "thag1.6:6.1",
+          "pli": "Itthaṃ sudaṃ āyasmā sītavaniyo thero gāthaṃ abhāsitthāti.",
+          "en": "It was thus that this verse was recited by the senior venerable Sītavaniya."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.6/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.6",
+    "volpages": "pts2",
+    "uid": "thag1.6",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sītavaniyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sītavaniya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.6_sujato",
+        "segmented": true,
+        "title": "Sītavaniya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.6_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sītavaniya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 6
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mātaṅgaputta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Khujjasobhita",
+      "uid": "thag3.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Dhaniya",
+      "uid": "thag3.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.5:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.5:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.5:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.5:4.1",
+          "pli": "3.5. Mātaṅgaputtattheragāthā",
+          "en": "3.5. Mātaṅgaputta"
+        },
+        {
+          "scid": "thag3.5:5.1",
+          "pli": "“Atisītaṃ atiuṇhaṃ,",
+          "en": "“It’s too cold, too hot,"
+        },
+        {
+          "scid": "thag3.5:5.2",
+          "pli": "atisāyamidaṃ ahu;",
+          "en": "too late,” they say."
+        },
+        {
+          "scid": "thag3.5:5.3",
+          "pli": "Iti vissaṭṭhakammante,",
+          "en": "When the young neglect their work like this,"
+        },
+        {
+          "scid": "thag3.5:5.4",
+          "pli": "khaṇā accenti māṇave.",
+          "en": "opportunities pass them by."
+        },
+        {
+          "scid": "thag3.5:6.1",
+          "pli": "Yo ca sītañca uṇhañca,",
+          "en": "But one who considers hot and cold"
+        },
+        {
+          "scid": "thag3.5:6.2",
+          "pli": "tiṇā bhiyyo na maññati;",
+          "en": "as nothing more than blades of grass—"
+        },
+        {
+          "scid": "thag3.5:6.3",
+          "pli": "Karaṃ purisakiccāni,",
+          "en": "he does his manly duty,"
+        },
+        {
+          "scid": "thag3.5:6.4",
+          "pli": "so sukhā na vihāyati.",
+          "en": "and his happiness never fails."
+        },
+        {
+          "scid": "thag3.5:7.1",
+          "pli": "Dabbaṃ kusaṃ poṭakilaṃ,",
+          "en": "With my chest I’ll thrust aside"
+        },
+        {
+          "scid": "thag3.5:7.2",
+          "pli": "usīraṃ muñjapabbajaṃ;",
+          "en": "the grasses, vines, and creepers,"
+        },
+        {
+          "scid": "thag3.5:7.3",
+          "pli": "Urasā <span class=\"var\" title=\"panudahissāmi (s2, s3, pts1)\" id=\"note156\">panudissāmi</span>,",
+          "en": "and foster seclusion."
+        },
+        {
+          "scid": "thag3.5:7.4",
+          "pli": "vivekamanubrūhayan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "thag3.5:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.5:8.2",
+          "pli": "Mātaṅgaputto thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.5",
+    "volpages": "pts30",
+    "uid": "thag3.5",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mātaṅgaputtattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mātaṅgaputta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.5_sujato",
+        "segmented": true,
+        "title": "Mātaṅgaputta",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.5_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mātaṅgaputta"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 5
+  }
+}

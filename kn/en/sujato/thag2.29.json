@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.29",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.29",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Bhāradvāja",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kaṇhadinna",
+      "uid": "thag2.30"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bharata",
+      "uid": "thag2.28"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.29:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.29:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.29:3.1",
+          "pli": "Tatiyavagga",
+          "en": "Chapter Three"
+        },
+        {
+          "scid": "thag2.29:4.1",
+          "pli": "2.29. Bhāradvājattheragāthā",
+          "en": "2.29. Bhāradvāja"
+        },
+        {
+          "scid": "thag2.29:5.1",
+          "pli": "“Nadanti evaṃ sappaññā,",
+          "en": "This is how the wise roar:"
+        },
+        {
+          "scid": "thag2.29:5.2",
+          "pli": "sīhāva girigabbhare;",
+          "en": "like lions in mountain caves,"
+        },
+        {
+          "scid": "thag2.29:5.3",
+          "pli": "Vīrā vijitasaṅgāmā,",
+          "en": "heroes, triumphant in battle,"
+        },
+        {
+          "scid": "thag2.29:5.4",
+          "pli": "jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (si, s2, s3, pts1-2)\" id=\"note113\">savāhiniṃ</span>.",
+          "en": "having vanquished Māra and his mount."
+        },
+        {
+          "scid": "thag2.29:6.1",
+          "pli": "Satthā ca pariciṇṇo me,",
+          "en": "I’ve served the teacher;"
+        },
+        {
+          "scid": "thag2.29:6.2",
+          "pli": "dhammo saṃgho ca pūjito;",
+          "en": "I’ve honored the Dhamma and the Saṅgha;"
+        },
+        {
+          "scid": "thag2.29:6.3",
+          "pli": "Ahañca vitto sumano,",
+          "en": "I’m happy and joyful,"
+        },
+        {
+          "scid": "thag2.29:6.4",
+          "pli": "puttaṃ disvā anāsavan”ti.",
+          "en": "because I’ve seen my son free of defilements."
+        },
+        {
+          "scid": "thag2.29:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.29:7.2",
+          "pli": "Bhāradvājo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.29/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.29",
+    "volpages": "pts23",
+    "uid": "thag2.29",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Bhāradvājattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Bhāradvāja",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.29_sujato",
+        "segmented": true,
+        "title": "Bhāradvāja",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.29_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Bhāradvāja"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 9
+  }
+}

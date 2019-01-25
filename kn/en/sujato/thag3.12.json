@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.12",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.12",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Uttarapāla",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Abhibhūta",
+      "uid": "thag3.13"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Upāli",
+      "uid": "thag3.11"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.12:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.12:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.12:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.12:4.1",
+          "pli": "3.12. Uttarapālattheragāthā",
+          "en": "3.12. Uttarapāla"
+        },
+        {
+          "scid": "thag3.12:5.1",
+          "pli": "“Paṇḍitaṃ vata maṃ santaṃ,",
+          "en": "I was, indeed, an astute scholar,"
+        },
+        {
+          "scid": "thag3.12:5.2",
+          "pli": "alamatthavicintakaṃ;",
+          "en": "competent to think on the meaning."
+        },
+        {
+          "scid": "thag3.12:5.3",
+          "pli": "Pañca kāmaguṇā loke,",
+          "en": "The five kinds of sensual stimulation in the world,"
+        },
+        {
+          "scid": "thag3.12:5.4",
+          "pli": "sammohā pātayiṃsu maṃ.",
+          "en": "so delusory, were my downfall."
+        },
+        {
+          "scid": "thag3.12:6.1",
+          "pli": "Pakkhando māravisaye,",
+          "en": "Leaping into Māra’s domain,"
+        },
+        {
+          "scid": "thag3.12:6.2",
+          "pli": "daḷhasallasamappito;",
+          "en": "I was struck by a powerful dart."
+        },
+        {
+          "scid": "thag3.12:6.3",
+          "pli": "Asakkhiṃ maccurājassa,",
+          "en": "But I was able to free myself"
+        },
+        {
+          "scid": "thag3.12:6.4",
+          "pli": "ahaṃ pāsā pamuccituṃ.",
+          "en": "from the trap laid by the King of Death."
+        },
+        {
+          "scid": "thag3.12:7.1",
+          "pli": "Sabbe kāmā pahīnā me,",
+          "en": "I have given up all sensual pleasures;"
+        },
+        {
+          "scid": "thag3.12:7.2",
+          "pli": "bhavā sabbe <span class=\"var\" title=\"vidālitā (bj, pts2)\" id=\"note162\">padālitā</span>;",
+          "en": "all rebirths are shattered;"
+        },
+        {
+          "scid": "thag3.12:7.3",
+          "pli": "Vikkhīṇo jātisaṃsāro,",
+          "en": "transmigration is finished;"
+        },
+        {
+          "scid": "thag3.12:7.4",
+          "pli": "natthi dāni punabbhavo”ti.",
+          "en": "now there are no more future lives."
+        },
+        {
+          "scid": "thag3.12:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.12:8.2",
+          "pli": "Uttarapālo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.12/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.12",
+    "volpages": "pts31",
+    "uid": "thag3.12",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Uttarapālattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Uttarapāla",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.12_sujato",
+        "segmented": true,
+        "title": "Uttarapāla",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.12_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Uttarapāla"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 12
+  }
+}

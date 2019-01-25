@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag1.20",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.20",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Ajita",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nigrodha",
+      "uid": "thag1.21"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kula",
+      "uid": "thag1.19"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.20:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.20:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.20:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag1.20:4.1",
+          "pli": "1.20. Ajitattheragāthā",
+          "en": "1.20. Ajita"
+        },
+        {
+          "scid": "thag1.20:5.1",
+          "pli": "“Maraṇe me bhayaṃ natthi,",
+          "en": "I do not fear death;"
+        },
+        {
+          "scid": "thag1.20:5.2",
+          "pli": "nikanti natthi jīvite;",
+          "en": "nor do I long for life."
+        },
+        {
+          "scid": "thag1.20:5.3",
+          "pli": "Sandehaṃ nikkhipissāmi,",
+          "en": "I’ll lay down this body,"
+        },
+        {
+          "scid": "thag1.20:5.4",
+          "pli": "sampajāno <span class=\"var\" title=\"patissatoti (bj, s2, s3, pts1-2)\" id=\"note23\">paṭissato”ti</span>.",
+          "en": "aware and mindful."
+        },
+        {
+          "scid": "thag1.20:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:6.2",
+          "pli": "Ajito thero …",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:6.3",
+          "pli": "vaggo dutiyo.",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:7.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:8.1",
+          "pli": "Cūḷavaccho mahāvaccho,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:8.2",
+          "pli": "vanavaccho ca sīvako;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:8.3",
+          "pli": "Kuṇḍadhāno ca belaṭṭhi,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:8.4",
+          "pli": "dāsako ca tatopari;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:8.5",
+          "pli": "Siṅgālapitiko thero,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.20:8.6",
+          "pli": "kulo ca ajito dasāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.20/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.20",
+    "volpages": "pts4",
+    "uid": "thag1.20",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ajitattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ajita",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.20_sujato",
+        "segmented": true,
+        "title": "Ajita",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.20_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Ajita"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

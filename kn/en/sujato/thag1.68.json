@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.68",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.68",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Ekudāniya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Channa",
+      "uid": "thag1.69"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ekadhammasavanīya",
+      "uid": "thag1.67"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.68:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.68:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.68:3.1",
+          "pli": "Sattamavagga",
+          "en": "Chapter Seven"
+        },
+        {
+          "scid": "thag1.68:4.1",
+          "pli": "1.68. Ekudāniyattheragāthā",
+          "en": "1.68. Ekudāniya"
+        },
+        {
+          "scid": "thag1.68:5.1",
+          "pli": "<span class=\"cross\" title=\"^pi-tv-bu-vb-pc22#1 [Pācittiyā 22: Atthaṅgatasikkhāpada] | ^ud4.7#1 [Sāriputtasutta]\" id=\"note53\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc68\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts68\"></a>“Adhicetaso appamajjato,",
+          "en": "For a sage of higher consciousness, diligent,"
+        },
+        {
+          "scid": "thag1.68:5.2",
+          "pli": "Munino monapathesu sikkhato;",
+          "en": "training in the ways of sagacity:"
+        },
+        {
+          "scid": "thag1.68:5.3",
+          "pli": "Sokā na bhavanti tādino,",
+          "en": "there are no sorrows for one so poised,"
+        },
+        {
+          "scid": "thag1.68:5.4",
+          "pli": "Upasantassa sadā satīmato”ti.",
+          "en": "calm and ever mindful."
+        },
+        {
+          "scid": "thag1.68:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.68:6.2",
+          "pli": "<span class=\"var\" title=\"ekuddāniyo (pts1-2)\" id=\"note54\">Ekudāniyo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.68/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.68",
+    "volpages": "pts10",
+    "uid": "thag1.68",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Ekudāniyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Ekudāniya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.68_sujato",
+        "segmented": true,
+        "title": "Ekudāniya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.68_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Ekudāniya"
+      }
+    ],
+    "parallel_count": 11,
+    "biblio": null,
+    "num": 8
+  }
+}

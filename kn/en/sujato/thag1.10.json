@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "thag1.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Puṇṇamāsa (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cūḷavaccha",
+      "uid": "thag1.11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Pilindavaccha",
+      "uid": "thag1.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.10:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.10:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.10:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag1.10:4.1",
+          "pli": "1.10. Puṇṇamāsattheragāthā",
+          "en": "1.10. Puṇṇamāsa (1st)"
+        },
+        {
+          "scid": "thag1.10:5.1",
+          "pli": "“Vihari apekkhaṃ idha vā huraṃ vā,",
+          "en": "A knowledge master, peaceful and restrained,"
+        },
+        {
+          "scid": "thag1.10:5.2",
+          "pli": "Yo vedagū samito yatatto;",
+          "en": "is rid of concern for this world and the world beyond."
+        },
+        {
+          "scid": "thag1.10:5.3",
+          "pli": "Sabbesu dhammesu anūpalitto,",
+          "en": "Unsullied in the midst of all things,"
+        },
+        {
+          "scid": "thag1.10:5.4",
+          "pli": "Lokassa jaññā udayabbayañcā”ti.",
+          "en": "they know the arising and passing of the world."
+        },
+        {
+          "scid": "thag1.10:6.1",
+          "pli": "Itthaṃ sudaṃ āyasmā puṇṇamāso thero gāthaṃ abhāsitthāti.",
+          "en": "It was thus that this verse was recited by the senior venerable Puṇṇamāsa."
+        },
+        {
+          "scid": "thag1.10:7.1",
+          "pli": "Vaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "thag1.10:8.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag1.10:9.1",
+          "pli": "Subhūti koṭṭhiko thero,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.10:9.2",
+          "pli": "kaṅkhārevatasammato;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.10:9.3",
+          "pli": "Mantāṇiputto dabbo ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.10:9.4",
+          "pli": "sītavaniyo ca bhalliyo;",
+          "en": ""
+        },
+        {
+          "scid": "thag1.10:9.5",
+          "pli": "Vīro pilindavaccho ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag1.10:9.6",
+          "pli": "puṇṇamāso tamonudoti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.10",
+    "volpages": "pts3",
+    "uid": "thag1.10",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Puṇṇamāsattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Puṇṇamāsa (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.10_sujato",
+        "segmented": true,
+        "title": "Puṇṇamāsa (1st)",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.10_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Puṇṇamāsa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

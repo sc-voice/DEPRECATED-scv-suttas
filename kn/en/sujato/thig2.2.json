@@ -1,0 +1,150 @@
+{
+  "sutta_uid": "thig2.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig2.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Jentā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sumaṅgala’s Mother",
+      "uid": "thig2.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Abhirūpanandā",
+      "uid": "thig2.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig2.2:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig2.2:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thig2.2:3.1",
+          "pli": "2. Jentātherīgāthā",
+          "en": "2.2. Jentā"
+        },
+        {
+          "scid": "thig2.2:4.1",
+          "pli": "“Ye ime satta bojjhaṅgā,",
+          "en": "Of the seven awakening factors,"
+        },
+        {
+          "scid": "thig2.2:4.2",
+          "pli": "maggā nibbānapattiyā;",
+          "en": "the path for attaining extinguishment,"
+        },
+        {
+          "scid": "thig2.2:4.3",
+          "pli": "Bhāvitā te mayā sabbe,",
+          "en": "I have developed them all,"
+        },
+        {
+          "scid": "thig2.2:4.4",
+          "pli": "yathā buddhena desitā.",
+          "en": "just as the Buddha taught."
+        },
+        {
+          "scid": "thig2.2:5.1",
+          "pli": "Diṭṭho hi me so bhagavā,",
+          "en": "For I have seen the Blessed One,"
+        },
+        {
+          "scid": "thig2.2:5.2",
+          "pli": "antimoyaṃ samussayo;",
+          "en": "and this bag of bones is my last."
+        },
+        {
+          "scid": "thig2.2:5.3",
+          "pli": "Vikkhīṇo jātisaṃsāro,",
+          "en": "Transmigration through births is finished,"
+        },
+        {
+          "scid": "thig2.2:5.4",
+          "pli": "natthi dāni punabbhavo”ti.",
+          "en": "now there are no more future lives."
+        },
+        {
+          "scid": "thig2.2:6.1",
+          "pli": "Itthaṃ sudaṃ <span class=\"var\" title=\"jantā (s2, s3) | jentī (pts1-2)\" id=\"note15\">jentā</span> therī gāthāyo abhāsitthāti.",
+          "en": "It was thus that these verses were recited by the senior nun Jentā."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig2.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 2.2",
+    "volpages": "pts125",
+    "uid": "thig2.2",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Jentātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Jentā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig2.2_sujato",
+        "segmented": true,
+        "title": "Jentā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig2.2_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Jentī or Jentā"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 2
+  }
+}

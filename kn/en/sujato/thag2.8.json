@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.8",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.8",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Surādha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gotama (1st)",
+      "uid": "thag2.9"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Rādha",
+      "uid": "thag2.7"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.8:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.8:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.8:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag2.8:4.1",
+          "pli": "2.8. Surādhattheragāthā",
+          "en": "2.8. Surādha"
+        },
+        {
+          "scid": "thag2.8:5.1",
+          "pli": "“Khīṇā hi mayhaṃ jāti,",
+          "en": "Rebirth is ended for me;"
+        },
+        {
+          "scid": "thag2.8:5.2",
+          "pli": "vusitaṃ jinasāsanaṃ;",
+          "en": "the victor’s instruction is fulfilled;"
+        },
+        {
+          "scid": "thag2.8:5.3",
+          "pli": "Pahīno jālasaṅkhāto,",
+          "en": "what they call a “net” is given up;"
+        },
+        {
+          "scid": "thag2.8:5.4",
+          "pli": "bhavanetti samūhatā.",
+          "en": "the attachment to rebirth is eradicated."
+        },
+        {
+          "scid": "thag2.8:6.1",
+          "pli": "Yassatthāya pabbajito,",
+          "en": "I’ve reached the goal"
+        },
+        {
+          "scid": "thag2.8:6.2",
+          "pli": "agārasmānagāriyaṃ;",
+          "en": "for the sake of which I went forth"
+        },
+        {
+          "scid": "thag2.8:6.3",
+          "pli": "So me attho anuppatto,",
+          "en": "from the lay life to homelessness:"
+        },
+        {
+          "scid": "thag2.8:6.4",
+          "pli": "sabbasaṃyojanakkhayo”ti.",
+          "en": "the ending of all fetters."
+        },
+        {
+          "scid": "thag2.8:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.8:7.2",
+          "pli": "Surādho thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.8/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.8",
+    "volpages": "pts19",
+    "uid": "thag2.8",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Surādhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Surādha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.8_sujato",
+        "segmented": true,
+        "title": "Surādha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.8_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Surādha"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 8
+  }
+}

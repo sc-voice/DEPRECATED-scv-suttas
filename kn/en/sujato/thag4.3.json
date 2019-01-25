@@ -1,0 +1,200 @@
+{
+  "sutta_uid": "thag4.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag4.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sabhiya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nandaka (2nd)",
+      "uid": "thag4.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bhagu",
+      "uid": "thag4.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag4.3:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag4.3:2.1",
+          "pli": "Catukkanipāta",
+          "en": "The Book of the Fours"
+        },
+        {
+          "scid": "thag4.3:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag4.3:4.1",
+          "pli": "4.3. Sabhiyattheragāthā",
+          "en": "4.3. Sabhiya"
+        },
+        {
+          "scid": "thag4.3:5.1",
+          "pli": "<span class=\"cross\" title=\"^dhp1-20#5.1 [1. Cakkhupālattheravatthu/5. Kosambakavatthu]\" id=\"note171\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc275\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts275\"></a>“Pare ca na vijānanti,",
+          "en": "Others don’t understand"
+        },
+        {
+          "scid": "thag4.3:5.2",
+          "pli": "mayamettha yamāmase;",
+          "en": "that our lives must have limits."
+        },
+        {
+          "scid": "thag4.3:5.3",
+          "pli": "Ye ca tattha vijānanti,",
+          "en": "Those who do understand this"
+        },
+        {
+          "scid": "thag4.3:5.4",
+          "pli": "tato sammanti medhagā.",
+          "en": "settle their quarrels right away."
+        },
+        {
+          "scid": "thag4.3:6.1",
+          "pli": "Yadā ca avijānantā,",
+          "en": "And when those who don’t understand"
+        },
+        {
+          "scid": "thag4.3:6.2",
+          "pli": "iriyantyamarā viya;",
+          "en": "behave as though they were immortal,"
+        },
+        {
+          "scid": "thag4.3:6.3",
+          "pli": "Vijānanti ca ye dhammaṃ,",
+          "en": "those who understand the Dhamma"
+        },
+        {
+          "scid": "thag4.3:6.4",
+          "pli": "āturesu anāturā.",
+          "en": "are like the healthy among the sick."
+        },
+        {
+          "scid": "thag4.3:7.1",
+          "pli": "Yaṃ kiñci sithilaṃ kammaṃ,",
+          "en": "Any lax act,"
+        },
+        {
+          "scid": "thag4.3:7.2",
+          "pli": "saṃkiliṭṭhañca yaṃ vataṃ;",
+          "en": "any corrupt observance,"
+        },
+        {
+          "scid": "thag4.3:7.3",
+          "pli": "Saṅkassaraṃ brahmacariyaṃ,",
+          "en": "or suspicious spiritual life,"
+        },
+        {
+          "scid": "thag4.3:7.4",
+          "pli": "na taṃ hoti mahapphalaṃ.",
+          "en": "is not very fruitful."
+        },
+        {
+          "scid": "thag4.3:8.1",
+          "pli": "Yassa sabrahmacārīsu,",
+          "en": "Whoever has no respect"
+        },
+        {
+          "scid": "thag4.3:8.2",
+          "pli": "gāravo nūpalabbhati;",
+          "en": "for their spiritual companions"
+        },
+        {
+          "scid": "thag4.3:8.3",
+          "pli": "Ārakā hoti saddhammā,",
+          "en": "is as far from true Dhamma"
+        },
+        {
+          "scid": "thag4.3:8.4",
+          "pli": "nabhaṃ puthaviyā yathā”ti.",
+          "en": "as the sky from the earth."
+        },
+        {
+          "scid": "thag4.3:9.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag4.3:9.2",
+          "pli": "Sabhiyo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag4.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 4.3",
+    "volpages": "pts33",
+    "uid": "thag4.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sabhiyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sabhiya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag4.3_sujato",
+        "segmented": true,
+        "title": "Sabhiya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag4.3_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Sabhiya"
+      }
+    ],
+    "parallel_count": 27,
+    "biblio": null,
+    "num": 3
+  }
+}

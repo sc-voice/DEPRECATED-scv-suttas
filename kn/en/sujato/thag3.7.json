@@ -1,0 +1,180 @@
+{
+  "sutta_uid": "thag3.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag3.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Vāraṇa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Vassika",
+      "uid": "thag3.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Khujjasobhita",
+      "uid": "thag3.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag3.7:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag3.7:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thag3.7:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag3.7:4.1",
+          "pli": "3.7. Vāraṇattheragāthā",
+          "en": "3.7. Vāraṇa"
+        },
+        {
+          "scid": "thag3.7:5.1",
+          "pli": "“Yodha koci manussesu,",
+          "en": "Anyone among men"
+        },
+        {
+          "scid": "thag3.7:5.2",
+          "pli": "parapāṇāni hiṃsati;",
+          "en": "who harms other creatures:"
+        },
+        {
+          "scid": "thag3.7:5.3",
+          "pli": "Asmā lokā paramhā ca,",
+          "en": "that person will fall"
+        },
+        {
+          "scid": "thag3.7:5.4",
+          "pli": "ubhayā dhaṃsate naro.",
+          "en": "both from this world and the next."
+        },
+        {
+          "scid": "thag3.7:6.1",
+          "pli": "Yo ca mettena cittena,",
+          "en": "But someone with a mind of love,"
+        },
+        {
+          "scid": "thag3.7:6.2",
+          "pli": "sabbapāṇānukampati;",
+          "en": "compassionate for all creatures:"
+        },
+        {
+          "scid": "thag3.7:6.3",
+          "pli": "Bahuñhi so pasavati,",
+          "en": "a person like that"
+        },
+        {
+          "scid": "thag3.7:6.4",
+          "pli": "puññaṃ tādisako naro.",
+          "en": "makes much merit."
+        },
+        {
+          "scid": "thag3.7:7.1",
+          "pli": "Subhāsitassa sikkhetha,",
+          "en": "One should train in following good advice,"
+        },
+        {
+          "scid": "thag3.7:7.2",
+          "pli": "<span class=\"var\" title=\"samaṇupāsanassa (s2, s3, pts1)\" id=\"note157\">samaṇūpāsanassa</span> ca;",
+          "en": "in attending closely to ascetics,"
+        },
+        {
+          "scid": "thag3.7:7.3",
+          "pli": "Ekāsanassa ca raho,",
+          "en": "in sitting alone in hidden places,"
+        },
+        {
+          "scid": "thag3.7:7.4",
+          "pli": "cittavūpasamassa cā”ti.",
+          "en": "and in calming the mind."
+        },
+        {
+          "scid": "thag3.7:8.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag3.7:8.2",
+          "pli": "Vāraṇo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag3.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 3.7",
+    "volpages": "pts30",
+    "uid": "thag3.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vāraṇattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vāraṇa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag3.7_sujato",
+        "segmented": true,
+        "title": "Vāraṇa",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag3.7_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Vāraṇa"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

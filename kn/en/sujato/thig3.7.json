@@ -1,0 +1,175 @@
+{
+  "sutta_uid": "thig3.7",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thig3.7",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Selā",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Somā",
+      "uid": "thig3.8"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sukkā",
+      "uid": "thig3.6"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thig3.7:1.1",
+          "pli": "Therīgāthā",
+          "en": "Verses of the Senior Nuns"
+        },
+        {
+          "scid": "thig3.7:2.1",
+          "pli": "Tikanipāta",
+          "en": "The Book of the Threes"
+        },
+        {
+          "scid": "thig3.7:3.1",
+          "pli": "7. Selātherīgāthā",
+          "en": "3.7. Selā"
+        },
+        {
+          "scid": "thig3.7:4.1",
+          "pli": "“Natthi nissaraṇaṃ loke,",
+          "en": "“There’s no escape in the world,"
+        },
+        {
+          "scid": "thig3.7:4.2",
+          "pli": "kiṃ vivekena kāhasi;",
+          "en": "so what will seclusion do for you?"
+        },
+        {
+          "scid": "thig3.7:4.3",
+          "pli": "Bhuñjāhi kāmaratiyo,",
+          "en": "Enjoy the delights of sensual pleasure;"
+        },
+        {
+          "scid": "thig3.7:4.4",
+          "pli": "māhu pacchānutāpinī”.",
+          "en": "don’t regret it later.”"
+        },
+        {
+          "scid": "thig3.7:5.1",
+          "pli": "“Sattisūlūpamā kāmā,",
+          "en": "“Sensual pleasures are like swords and stakes"
+        },
+        {
+          "scid": "thig3.7:5.2",
+          "pli": "khandhāsaṃ adhikuṭṭanā;",
+          "en": "the aggregates are their chopping block."
+        },
+        {
+          "scid": "thig3.7:5.3",
+          "pli": "Yaṃ tvaṃ ‘kāmaratiṃ’ brūsi,",
+          "en": "What you call sensual delight"
+        },
+        {
+          "scid": "thig3.7:5.4",
+          "pli": "‘aratī’ dāni sā mama.",
+          "en": "is now no delight for me."
+        },
+        {
+          "scid": "thig3.7:6.1",
+          "pli": "Sabbattha vihatā <span class=\"var\" title=\"nandi (bj, s2, s3, pts1-2)\" id=\"note27\">nandī</span>,",
+          "en": "Relishing is destroyed in every respect,"
+        },
+        {
+          "scid": "thig3.7:6.2",
+          "pli": "Tamokhandho padālito;",
+          "en": "and the mass of darkness is shattered."
+        },
+        {
+          "scid": "thig3.7:6.3",
+          "pli": "Evaṃ jānāhi pāpima,",
+          "en": "So know this, Wicked One:"
+        },
+        {
+          "scid": "thig3.7:6.4",
+          "pli": "Nihato tvamasi antakā”ti.",
+          "en": "you’re beaten, terminator!”"
+        },
+        {
+          "scid": "thig3.7:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thig3.7:7.2",
+          "pli": "Selā therī ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Nuns",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thig3.7/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thig 3.7",
+    "volpages": "pts129",
+    "uid": "thig3.7",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Selātherīgāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Selā",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thig3.7_sujato",
+        "segmented": true,
+        "title": "Selā",
+        "volpage": null
+      },
+      {
+        "author": "C.A.F. Rhys Davids",
+        "author_short": "C.A.F. Rhys Davids",
+        "author_uid": "caf_rhysdavids",
+        "id": "en_thig3.7_caf_rhysdavids",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "1909",
+        "segmented": false,
+        "volpage": null,
+        "title": "Selā"
+      }
+    ],
+    "parallel_count": 1,
+    "biblio": null,
+    "num": 7
+  }
+}

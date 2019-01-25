@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.27",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.27",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Lomasakaṅgiya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Jambugāmikaputta",
+      "uid": "thag1.28"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Abhaya",
+      "uid": "thag1.26"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.27:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.27:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.27:3.1",
+          "pli": "Tatiyavagga",
+          "en": "Chapter Three"
+        },
+        {
+          "scid": "thag1.27:4.1",
+          "pli": "1.27. Lomasakaṅgiyattheragāthā",
+          "en": "1.27. Lomasakaṅgiya"
+        },
+        {
+          "scid": "thag1.27:5.1",
+          "pli": "“Dabbaṃ kusaṃ poṭakilaṃ,",
+          "en": "With my chest I’ll thrust aside"
+        },
+        {
+          "scid": "thag1.27:5.2",
+          "pli": "usīraṃ muñjapabbajaṃ;",
+          "en": "the grasses, vines, and creepers,"
+        },
+        {
+          "scid": "thag1.27:5.3",
+          "pli": "Urasā <span class=\"var\" title=\"panudahissāmi (s2, s3, pts1)\" id=\"note27\">panudissāmi</span>,",
+          "en": "and foster seclusion."
+        },
+        {
+          "scid": "thag1.27:5.4",
+          "pli": "vivekamanubrūhayan”ti.",
+          "en": ""
+        },
+        {
+          "scid": "thag1.27:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.27:6.2",
+          "pli": "Lomasakaṅgiyo thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.27/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.27",
+    "volpages": "pts5",
+    "uid": "thag1.27",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Lomasakaṅgiyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Lomasakaṅgiya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.27_sujato",
+        "segmented": true,
+        "title": "Lomasakaṅgiya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.27_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Lomasakaṅgiya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

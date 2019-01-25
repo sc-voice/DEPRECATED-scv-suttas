@@ -1,0 +1,980 @@
+{
+  "sutta_uid": "thag18.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag18.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mahākassapa",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Tālapuṭa",
+      "uid": "thag19.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ānanda",
+      "uid": "thag17.3"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag18.1:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag18.1:2.1",
+          "pli": "Cattālīsanipāta",
+          "en": "The Book of the Forties"
+        },
+        {
+          "scid": "thag18.1:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag18.1:4.1",
+          "pli": "18.1. Mahākassapattheragāthā",
+          "en": "18.1. Mahākassapa"
+        },
+        {
+          "scid": "thag18.1:5.1",
+          "pli": "“Na gaṇena purakkhato care,",
+          "en": "“You shouldn’t live for the adulation of a following;"
+        },
+        {
+          "scid": "thag18.1:5.2",
+          "pli": "Vimano hoti samādhi dullabho;",
+          "en": "it turns your mind, making it hard to get immersion."
+        },
+        {
+          "scid": "thag18.1:5.3",
+          "pli": "Nānājanasaṅgaho dukho,",
+          "en": "Seeing that popularity is suffering,"
+        },
+        {
+          "scid": "thag18.1:5.4",
+          "pli": "Iti disvāna gaṇaṃ na rocaye.",
+          "en": "you shouldn’t consent to a following."
+        },
+        {
+          "scid": "thag18.1:6.1",
+          "pli": "Na kulāni upabbaje muni,",
+          "en": "A sage should not visit respectable families;"
+        },
+        {
+          "scid": "thag18.1:6.2",
+          "pli": "Vimano hoti samādhi dullabho;",
+          "en": "it turns your mind, making it hard to get immersion."
+        },
+        {
+          "scid": "thag18.1:6.3",
+          "pli": "So ussukko rasānugiddho,",
+          "en": "If you’re eager and greedy for flavors,"
+        },
+        {
+          "scid": "thag18.1:6.4",
+          "pli": "Atthaṃ riñcati yo sukhāvaho.",
+          "en": "you’ll miss the goal that brings such happiness."
+        },
+        {
+          "scid": "thag18.1:7.1",
+          "pli": "Paṅkoti hi naṃ avedayuṃ,",
+          "en": "They know it really is a bog,"
+        },
+        {
+          "scid": "thag18.1:7.2",
+          "pli": "Yāyaṃ vandanapūjanā kulesu;",
+          "en": "this homage and veneration in respectable families."
+        },
+        {
+          "scid": "thag18.1:7.3",
+          "pli": "Sukhumaṃ sallaṃ durubbahaṃ,",
+          "en": "Honor is a subtle dart, hard to extract,"
+        },
+        {
+          "scid": "thag18.1:7.4",
+          "pli": "Sakkāro kāpurisena dujjaho.",
+          "en": "and hard for a sinner to give up.”"
+        },
+        {
+          "scid": "thag18.1:8.1",
+          "pli": "<span class=\"cross\" title=\"^mi7.5.6#1 [Jarasiṅgālaṅgapañha]\" id=\"note456\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1058\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1054\"></a>Senāsanamhā oruyha,",
+          "en": "“I came down from my lodging"
+        },
+        {
+          "scid": "thag18.1:8.2",
+          "pli": "nagaraṃ piṇḍāya pāvisiṃ;",
+          "en": "and entered the city for alms."
+        },
+        {
+          "scid": "thag18.1:8.3",
+          "pli": "Bhuñjantaṃ purisaṃ kuṭṭhiṃ,",
+          "en": "I courteously stood by"
+        },
+        {
+          "scid": "thag18.1:8.4",
+          "pli": "sakkaccaṃ taṃ upaṭṭhahiṃ.",
+          "en": "while a leper ate."
+        },
+        {
+          "scid": "thag18.1:9.1",
+          "pli": "So <span class=\"var\" title=\"taṃ (pts1, mr)\" id=\"note457\">me</span> pakkena hatthena,",
+          "en": "With his putrid hand"
+        },
+        {
+          "scid": "thag18.1:9.2",
+          "pli": "ālopaṃ upanāmayi;",
+          "en": "he offered me a morsel."
+        },
+        {
+          "scid": "thag18.1:9.3",
+          "pli": "Ālopaṃ pakkhipantassa,",
+          "en": "Putting the morsel in my bowl,"
+        },
+        {
+          "scid": "thag18.1:9.4",
+          "pli": "<span class=\"var\" title=\"aṅgulī pettha (bj, pts1-2, mr)\" id=\"note458\">aṅguli cettha</span> chijjatha.",
+          "en": "his finger dropped off right there."
+        },
+        {
+          "scid": "thag18.1:10.1",
+          "pli": "<span class=\"var\" title=\"kuḍḍamūlañca (bj, s2, s3, pts1) | kuḍḍamūlaṃ vā (pts2)\" id=\"note459\">Kuṭṭamūlañca</span> nissāya,",
+          "en": "Sitting by a wall,"
+        },
+        {
+          "scid": "thag18.1:10.2",
+          "pli": "ālopaṃ taṃ abhuñjisaṃ;",
+          "en": "I ate that lump of rice."
+        },
+        {
+          "scid": "thag18.1:10.3",
+          "pli": "Bhuñjamāne <span class=\"var\" title=\"va (bj) | ca (s2, s3, pts1)\" id=\"note460\">vā</span> bhutte vā,",
+          "en": "I did not feel any disgust"
+        },
+        {
+          "scid": "thag18.1:10.4",
+          "pli": "jegucchaṃ me na vijjati.",
+          "en": "while eating or afterwards."
+        },
+        {
+          "scid": "thag18.1:11.1",
+          "pli": "Uttiṭṭhapiṇḍo āhāro,",
+          "en": "Anyone who makes use of"
+        },
+        {
+          "scid": "thag18.1:11.2",
+          "pli": "pūtimuttañca osadhaṃ;",
+          "en": "leftovers for food,"
+        },
+        {
+          "scid": "thag18.1:11.3",
+          "pli": "Senāsanaṃ rukkhamūlaṃ,",
+          "en": "fermented urine as medicine,"
+        },
+        {
+          "scid": "thag18.1:11.4",
+          "pli": "paṃsukūlañca cīvaraṃ;",
+          "en": "the root of a tree as lodging,"
+        },
+        {
+          "scid": "thag18.1:11.5",
+          "pli": "Yassete <span class=\"var\" title=\"abhibhuñjati (?)\" id=\"note461\">abhisambhutvā</span>,",
+          "en": "and cast-off rags as robes,"
+        },
+        {
+          "scid": "thag18.1:11.6",
+          "pli": "sa ve cātuddiso naro.",
+          "en": "is at home in any direction.”"
+        },
+        {
+          "scid": "thag18.1:12.1",
+          "pli": "Yattha eke vihaññanti,",
+          "en": "“Where some have fallen to ruin"
+        },
+        {
+          "scid": "thag18.1:12.2",
+          "pli": "āruhantā siluccayaṃ;",
+          "en": "while climbing the mountain,"
+        },
+        {
+          "scid": "thag18.1:12.3",
+          "pli": "<span class=\"var\" title=\"tattha (bj, s2, s3, pts2)\" id=\"note462\">Tassa</span> buddhassa dāyādo,",
+          "en": "there Kassapa ascends;"
+        },
+        {
+          "scid": "thag18.1:12.4",
+          "pli": "sampajāno patissato;",
+          "en": "an heir of the Buddha,"
+        },
+        {
+          "scid": "thag18.1:12.5",
+          "pli": "Iddhibalenupatthaddho,",
+          "en": "aware and mindful,"
+        },
+        {
+          "scid": "thag18.1:12.6",
+          "pli": "kassapo abhirūhati.",
+          "en": "owing to his psychic powers."
+        },
+        {
+          "scid": "thag18.1:13.1",
+          "pli": "Piṇḍapātapaṭikkanto,",
+          "en": "Returning from alms-round,"
+        },
+        {
+          "scid": "thag18.1:13.2",
+          "pli": "selamāruyha kassapo;",
+          "en": "Kassapa ascends the mountain,"
+        },
+        {
+          "scid": "thag18.1:13.3",
+          "pli": "Jhāyati anupādāno,",
+          "en": "and practices absorption without grasping,"
+        },
+        {
+          "scid": "thag18.1:13.4",
+          "pli": "pahīnabhayabheravo.",
+          "en": "with fear and dread given up."
+        },
+        {
+          "scid": "thag18.1:14.1",
+          "pli": "Piṇḍapātapaṭikkanto,",
+          "en": "Returning from alms-round,"
+        },
+        {
+          "scid": "thag18.1:14.2",
+          "pli": "selamāruyha kassapo;",
+          "en": "Kassapa ascends the mountain,"
+        },
+        {
+          "scid": "thag18.1:14.3",
+          "pli": "Jhāyati anupādāno,",
+          "en": "and practices absorption without grasping,"
+        },
+        {
+          "scid": "thag18.1:14.4",
+          "pli": "ḍayhamānesu nibbuto.",
+          "en": "quenched amongst those who burn."
+        },
+        {
+          "scid": "thag18.1:15.1",
+          "pli": "Piṇḍapātapaṭikkanto,",
+          "en": "Returning from alms-round,"
+        },
+        {
+          "scid": "thag18.1:15.2",
+          "pli": "selamāruyha kassapo;",
+          "en": "Kassapa ascends the mountain,"
+        },
+        {
+          "scid": "thag18.1:15.3",
+          "pli": "Jhāyati anupādāno,",
+          "en": "and practices absorption without grasping,"
+        },
+        {
+          "scid": "thag18.1:15.4",
+          "pli": "katakicco anāsavo.",
+          "en": "his task completed, free of defilements.”"
+        },
+        {
+          "scid": "thag18.1:16.1",
+          "pli": "Karerimālāvitatā,",
+          "en": "“Strewn with garlands of the musk-rose tree,"
+        },
+        {
+          "scid": "thag18.1:16.2",
+          "pli": "bhūmibhāgā manoramā;",
+          "en": "these regions are so delightful, so lovely,"
+        },
+        {
+          "scid": "thag18.1:16.3",
+          "pli": "Kuñjarābhirudā rammā,",
+          "en": "echoing with the trumpeting of elephants:"
+        },
+        {
+          "scid": "thag18.1:16.4",
+          "pli": "te selā ramayanti maṃ.",
+          "en": "these rocky crags delight me!"
+        },
+        {
+          "scid": "thag18.1:17.1",
+          "pli": "Nīlabbhavaṇṇā rucirā,",
+          "en": "Glistening, they look like blue storm clouds,"
+        },
+        {
+          "scid": "thag18.1:17.2",
+          "pli": "vārisītā sucindharā;",
+          "en": "with waters cool and streams so clear,"
+        },
+        {
+          "scid": "thag18.1:17.3",
+          "pli": "Indagopakasañchannā,",
+          "en": "and covered all in ladybugs:"
+        },
+        {
+          "scid": "thag18.1:17.4",
+          "pli": "te selā ramayanti maṃ.",
+          "en": "these rocky crags delight me!"
+        },
+        {
+          "scid": "thag18.1:18.1",
+          "pli": "Nīlabbhakūṭasadisā,",
+          "en": "Like the peak of a blue storm cloud,"
+        },
+        {
+          "scid": "thag18.1:18.2",
+          "pli": "kūṭāgāravarūpamā;",
+          "en": "or like a fine bungalow, lovely,"
+        },
+        {
+          "scid": "thag18.1:18.3",
+          "pli": "Vāraṇābhirudā rammā,",
+          "en": "echoing with the trumpeting of elephants:"
+        },
+        {
+          "scid": "thag18.1:18.4",
+          "pli": "te selā ramayanti maṃ.",
+          "en": "these rocky crags delight me!"
+        },
+        {
+          "scid": "thag18.1:19.1",
+          "pli": "Abhivuṭṭhā rammatalā,",
+          "en": "The rain comes down on the lovely flats,"
+        },
+        {
+          "scid": "thag18.1:19.2",
+          "pli": "nagā isibhi sevitā;",
+          "en": "in the mountains frequented by hermits."
+        },
+        {
+          "scid": "thag18.1:19.3",
+          "pli": "Abbhunnaditā sikhīhi,",
+          "en": "Echoing with the cries of peacocks,"
+        },
+        {
+          "scid": "thag18.1:19.4",
+          "pli": "te selā ramayanti maṃ.",
+          "en": "these rocky crags delight me!"
+        },
+        {
+          "scid": "thag18.1:20.1",
+          "pli": "Alaṃ jhāyitukāmassa,",
+          "en": "It’s enough for me,"
+        },
+        {
+          "scid": "thag18.1:20.2",
+          "pli": "pahitattassa me sato;",
+          "en": "who loves absorption and is resolute, to be mindful."
+        },
+        {
+          "scid": "thag18.1:20.3",
+          "pli": "Alaṃ me <span class=\"var\" title=\"attakāmassa (?)\" id=\"note463\">atthakāmassa</span>,",
+          "en": "It’s enough for me,"
+        },
+        {
+          "scid": "thag18.1:20.4",
+          "pli": "pahitattassa bhikkhuno.",
+          "en": "a resolute monk who loves the goal."
+        },
+        {
+          "scid": "thag18.1:21.1",
+          "pli": "Alaṃ me phāsukāmassa,",
+          "en": "It’s enough for me,"
+        },
+        {
+          "scid": "thag18.1:21.2",
+          "pli": "pahitattassa bhikkhuno;",
+          "en": "a resolute monk who loves comfort."
+        },
+        {
+          "scid": "thag18.1:21.3",
+          "pli": "Alaṃ me yogakāmassa,",
+          "en": "It’s enough for me,"
+        },
+        {
+          "scid": "thag18.1:21.4",
+          "pli": "pahitattassa tādino.",
+          "en": "resolute and poised, loving meditation."
+        },
+        {
+          "scid": "thag18.1:22.1",
+          "pli": "Umāpupphena samānā,",
+          "en": "Covered with flowers of flax,"
+        },
+        {
+          "scid": "thag18.1:22.2",
+          "pli": "gaganāvabbhachāditā;",
+          "en": "like the sky covered with clouds,"
+        },
+        {
+          "scid": "thag18.1:22.3",
+          "pli": "Nānādijagaṇākiṇṇā,",
+          "en": "full of flocks of many different birds,"
+        },
+        {
+          "scid": "thag18.1:22.4",
+          "pli": "te selā ramayanti maṃ.",
+          "en": "these rocky crags delight me!"
+        },
+        {
+          "scid": "thag18.1:23.1",
+          "pli": "Anākiṇṇā gahaṭṭhehi,",
+          "en": "Empty of householders,"
+        },
+        {
+          "scid": "thag18.1:23.2",
+          "pli": "migasaṅghanisevitā;",
+          "en": "frequented by herds of deer,"
+        },
+        {
+          "scid": "thag18.1:23.3",
+          "pli": "Nānādijagaṇākiṇṇā,",
+          "en": "full of flocks of many different birds,"
+        },
+        {
+          "scid": "thag18.1:23.4",
+          "pli": "te selā ramayanti maṃ.",
+          "en": "these rocky crags delight me!"
+        },
+        {
+          "scid": "thag18.1:24.1",
+          "pli": "Acchodikā puthusilā,",
+          "en": "The water’s clear and the rocks are broad,"
+        },
+        {
+          "scid": "thag18.1:24.2",
+          "pli": "gonaṅgulamigāyutā;",
+          "en": "monkeys and deer are all around;"
+        },
+        {
+          "scid": "thag18.1:24.3",
+          "pli": "Ambusevālasañchannā,",
+          "en": "festooned with dewy moss,"
+        },
+        {
+          "scid": "thag18.1:24.4",
+          "pli": "te selā ramayanti maṃ.",
+          "en": "these rocky crags delight me!”"
+        },
+        {
+          "scid": "thag18.1:25.1",
+          "pli": "Na pañcaṅgikena turiyena,",
+          "en": "“Even the music of a five-piece band"
+        },
+        {
+          "scid": "thag18.1:25.2",
+          "pli": "Rati me hoti tādisī;",
+          "en": "can never give such pleasure"
+        },
+        {
+          "scid": "thag18.1:25.3",
+          "pli": "Yathā ekaggacittassa,",
+          "en": "as when, with unified mind,"
+        },
+        {
+          "scid": "thag18.1:25.4",
+          "pli": "Sammā dhammaṃ vipassato.",
+          "en": "you rightly discern the Dhamma.”"
+        },
+        {
+          "scid": "thag18.1:26.1",
+          "pli": "Kammaṃ bahukaṃ na kāraye,",
+          "en": "“Don’t get involved in lots of work,"
+        },
+        {
+          "scid": "thag18.1:26.2",
+          "pli": "Parivajjeyya janaṃ na uyyame;",
+          "en": "avoid people, and don’t try to acquire things."
+        },
+        {
+          "scid": "thag18.1:26.3",
+          "pli": "Ussukko so rasānugiddho,",
+          "en": "If you’re eager and greedy for flavors,"
+        },
+        {
+          "scid": "thag18.1:26.4",
+          "pli": "Atthaṃ riñcati yo sukhāvaho.",
+          "en": "you’ll miss the goal that brings such happiness."
+        },
+        {
+          "scid": "thag18.1:27.1",
+          "pli": "Kammaṃ bahukaṃ na kāraye,",
+          "en": "Don’t get involved in lots of work,"
+        },
+        {
+          "scid": "thag18.1:27.2",
+          "pli": "Parivajjeyya anattaneyyametaṃ;",
+          "en": "avoid what doesn’t lead to the goal."
+        },
+        {
+          "scid": "thag18.1:27.3",
+          "pli": "Kicchati kāyo kilamati,",
+          "en": "The body gets worn out and fatigued,"
+        },
+        {
+          "scid": "thag18.1:27.4",
+          "pli": "Dukkhito so samathaṃ na vindati.",
+          "en": "and when you ache, you won’t find serenity.”"
+        },
+        {
+          "scid": "thag18.1:28.1",
+          "pli": "Oṭṭhappahatamattena,",
+          "en": "“You won’t see yourself"
+        },
+        {
+          "scid": "thag18.1:28.2",
+          "pli": "attānampi na passati;",
+          "en": "by merely reciting words,"
+        },
+        {
+          "scid": "thag18.1:28.3",
+          "pli": "Patthaddhagīvo carati,",
+          "en": "wandering stiff-necked"
+        },
+        {
+          "scid": "thag18.1:28.4",
+          "pli": "ahaṃ seyyoti maññati.",
+          "en": "and thinking, ‘I’m better than them.’"
+        },
+        {
+          "scid": "thag18.1:29.1",
+          "pli": "Aseyyo seyyasamānaṃ,",
+          "en": "The fool is no better,"
+        },
+        {
+          "scid": "thag18.1:29.2",
+          "pli": "bālo maññati attānaṃ;",
+          "en": "but they think they are."
+        },
+        {
+          "scid": "thag18.1:29.3",
+          "pli": "Na taṃ viññū pasaṃsanti,",
+          "en": "The wise don’t praise"
+        },
+        {
+          "scid": "thag18.1:29.4",
+          "pli": "patthaddhamānasaṃ naraṃ.",
+          "en": "stuck-up people."
+        },
+        {
+          "scid": "thag18.1:30.1",
+          "pli": "Yo ca seyyohamasmīti,",
+          "en": "Whoever is not affected"
+        },
+        {
+          "scid": "thag18.1:30.2",
+          "pli": "nāhaṃ seyyoti vā pana;",
+          "en": "by the modes of conceit—"
+        },
+        {
+          "scid": "thag18.1:30.3",
+          "pli": "Hīno <span class=\"var\" title=\"hīnohaṃ sadiso (s2, s3, pts1-2)\" id=\"note464\">taṃsadiso</span> vāti,",
+          "en": "‘I am better’, ‘I’m not better’,"
+        },
+        {
+          "scid": "thag18.1:30.4",
+          "pli": "vidhāsu na vikampati.",
+          "en": "‘I am worse’, or ‘I am the same’—"
+        },
+        {
+          "scid": "thag18.1:31.1",
+          "pli": "Paññavantaṃ <span class=\"var\" title=\"tathāvādiṃ (s2, s3, pts1)\" id=\"note465\">tathā tādiṃ</span>,",
+          "en": "with such understanding, poised,"
+        },
+        {
+          "scid": "thag18.1:31.2",
+          "pli": "sīlesu susamāhitaṃ;",
+          "en": "steady in ethics,"
+        },
+        {
+          "scid": "thag18.1:31.3",
+          "pli": "Cetosamathamanuttaṃ,",
+          "en": "and devoted to serenity of mind:"
+        },
+        {
+          "scid": "thag18.1:31.4",
+          "pli": "<span class=\"var\" title=\"taṃ ve (bj, s2, s3, pts2) | tañ ca (pts1)\" id=\"note466\">tañce</span> viññū pasaṃsare.",
+          "en": "that is who the wise praise.”"
+        },
+        {
+          "scid": "thag18.1:32.1",
+          "pli": "Yassa sabrahmacārīsu,",
+          "en": "“Whoever has no respect"
+        },
+        {
+          "scid": "thag18.1:32.2",
+          "pli": "gāravo nūpalabbhati;",
+          "en": "for their spiritual companions"
+        },
+        {
+          "scid": "thag18.1:32.3",
+          "pli": "Ārakā hoti saddhammā,",
+          "en": "is as far from the true teaching"
+        },
+        {
+          "scid": "thag18.1:32.4",
+          "pli": "nabhato puthavī yathā.",
+          "en": "as the earth is from the sky."
+        },
+        {
+          "scid": "thag18.1:33.1",
+          "pli": "Yesañca hiriottappaṃ,",
+          "en": "Those whose conscience and shame"
+        },
+        {
+          "scid": "thag18.1:33.2",
+          "pli": "sadā sammā upaṭṭhitaṃ;",
+          "en": "are always rightly established,"
+        },
+        {
+          "scid": "thag18.1:33.3",
+          "pli": "Virūḷhabrahmacariyā te,",
+          "en": "thrive in the spiritual life;"
+        },
+        {
+          "scid": "thag18.1:33.4",
+          "pli": "tesaṃ khīṇā punabbhavā.",
+          "en": "for them, there are no future lives."
+        },
+        {
+          "scid": "thag18.1:34.1",
+          "pli": "Uddhato capalo bhikkhu,",
+          "en": "When a mendicant who is haughty and fickle"
+        },
+        {
+          "scid": "thag18.1:34.2",
+          "pli": "paṃsukūlena pāruto;",
+          "en": "wears rags from the rubbish-heap,"
+        },
+        {
+          "scid": "thag18.1:34.3",
+          "pli": "Kapīva sīhacammena,",
+          "en": "that doesn’t make them shine:"
+        },
+        {
+          "scid": "thag18.1:34.4",
+          "pli": "na so tenupasobhati.",
+          "en": "they’re like a monkey in a lion skin."
+        },
+        {
+          "scid": "thag18.1:35.1",
+          "pli": "Anuddhato acapalo,",
+          "en": "But if they are steady and stable,"
+        },
+        {
+          "scid": "thag18.1:35.2",
+          "pli": "nipako saṃvutindriyo;",
+          "en": "alert, with senses restrained,"
+        },
+        {
+          "scid": "thag18.1:35.3",
+          "pli": "Sobhati paṃsukūlena,",
+          "en": "then, wearing rags from the rubbish-heap, they shine"
+        },
+        {
+          "scid": "thag18.1:35.4",
+          "pli": "sīhova girigabbhare.",
+          "en": "like a lion in a mountain cave.”"
+        },
+        {
+          "scid": "thag18.1:36.1",
+          "pli": "Ete sambahulā devā,",
+          "en": "“These many gods"
+        },
+        {
+          "scid": "thag18.1:36.2",
+          "pli": "iddhimanto yasassino;",
+          "en": "powerful and glorious,"
+        },
+        {
+          "scid": "thag18.1:36.3",
+          "pli": "Dasadevasahassāni,",
+          "en": "all 10,000 of them,"
+        },
+        {
+          "scid": "thag18.1:36.4",
+          "pli": "sabbe te brahmakāyikā.",
+          "en": "belong to the host of Brahmā."
+        },
+        {
+          "scid": "thag18.1:37.1",
+          "pli": "Dhammasenāpatiṃ <span class=\"var\" title=\"dhīraṃ (s2, s3, pts1)\" id=\"note467\">vīraṃ</span>,",
+          "en": "They stand with joined palms"
+        },
+        {
+          "scid": "thag18.1:37.2",
+          "pli": "mahājhāyiṃ samāhitaṃ;",
+          "en": "honoring Sāriputta,"
+        },
+        {
+          "scid": "thag18.1:37.3",
+          "pli": "Sāriputtaṃ namassantā,",
+          "en": "the general of the Dhamma, the hero,"
+        },
+        {
+          "scid": "thag18.1:37.4",
+          "pli": "tiṭṭhanti pañjalīkatā.",
+          "en": "the serene great meditator:"
+        },
+        {
+          "scid": "thag18.1:38.1",
+          "pli": "‘Namo te purisājañña,",
+          "en": "‘Homage to you, O thoroughbred!"
+        },
+        {
+          "scid": "thag18.1:38.2",
+          "pli": "namo te purisuttama;",
+          "en": "Homage to you, supreme among men!"
+        },
+        {
+          "scid": "thag18.1:38.3",
+          "pli": "Yassa te nābhijānāma,",
+          "en": "We don’t understand"
+        },
+        {
+          "scid": "thag18.1:38.4",
+          "pli": "yampi nissāya <span class=\"var\" title=\"jhāyasi (pts2, Ma-aka)\" id=\"note468\">jhāyati</span>.",
+          "en": "the basis of your absorption."
+        },
+        {
+          "scid": "thag18.1:39.1",
+          "pli": "Accheraṃ vata buddhānaṃ,",
+          "en": "The profound domain of the Buddhas"
+        },
+        {
+          "scid": "thag18.1:39.2",
+          "pli": "gambhīro gocaro sako;",
+          "en": "is truly amazing."
+        },
+        {
+          "scid": "thag18.1:39.3",
+          "pli": "Ye mayaṃ nābhijānāma,",
+          "en": "We don’t understand,"
+        },
+        {
+          "scid": "thag18.1:39.4",
+          "pli": "vālavedhisamāgatā’.",
+          "en": "though we’ve gathered here to split hairs.’"
+        },
+        {
+          "scid": "thag18.1:40.1",
+          "pli": "Taṃ tathā devakāyehi,",
+          "en": "When he saw the host of gods"
+        },
+        {
+          "scid": "thag18.1:40.2",
+          "pli": "pūjitaṃ pūjanārahaṃ;",
+          "en": "paying homage to Sāriputta—"
+        },
+        {
+          "scid": "thag18.1:40.3",
+          "pli": "Sāriputtaṃ tadā disvā,",
+          "en": "who is truly worthy of homage—"
+        },
+        {
+          "scid": "thag18.1:40.4",
+          "pli": "kappinassa sitaṃ ahu.",
+          "en": "Kappina smiled.”"
+        },
+        {
+          "scid": "thag18.1:41.1",
+          "pli": "Yāvatā buddhakhettamhi,",
+          "en": "“As far as the range of the Buddha extends,"
+        },
+        {
+          "scid": "thag18.1:41.2",
+          "pli": "ṭhapayitvā mahāmuniṃ;",
+          "en": "I am outstanding in austerities."
+        },
+        {
+          "scid": "thag18.1:41.3",
+          "pli": "Dhutaguṇe visiṭṭhohaṃ,",
+          "en": "I have no equal,"
+        },
+        {
+          "scid": "thag18.1:41.4",
+          "pli": "sadiso me na vijjati.",
+          "en": "apart from the great sage himself."
+        },
+        {
+          "scid": "thag18.1:42.1",
+          "pli": "Pariciṇṇo mayā satthā,",
+          "en": "I’ve served the teacher"
+        },
+        {
+          "scid": "thag18.1:42.2",
+          "pli": "kataṃ buddhassa sāsanaṃ;",
+          "en": "and fulfilled the Buddha’s instructions."
+        },
+        {
+          "scid": "thag18.1:42.3",
+          "pli": "Ohito garuko bhāro,",
+          "en": "The heavy burden is laid down,"
+        },
+        {
+          "scid": "thag18.1:42.4",
+          "pli": "natthi dāni punabbhavo.",
+          "en": "now there are no more future lives.”"
+        },
+        {
+          "scid": "thag18.1:43.1",
+          "pli": "Na cīvare na sayane,",
+          "en": "“Like a lotus flower"
+        },
+        {
+          "scid": "thag18.1:43.2",
+          "pli": "bhojane nupalimpati;",
+          "en": "to which water will not stick,"
+        },
+        {
+          "scid": "thag18.1:43.3",
+          "pli": "Gotamo anappameyyo,",
+          "en": "Gotama the immeasurable is unstained"
+        },
+        {
+          "scid": "thag18.1:43.4",
+          "pli": "muḷālapupphaṃ vimalaṃva;",
+          "en": "by robes, lodgings, or food."
+        },
+        {
+          "scid": "thag18.1:43.5",
+          "pli": "Ambunā nekkhammaninno,",
+          "en": "He inclines to renunciation,"
+        },
+        {
+          "scid": "thag18.1:43.6",
+          "pli": "tibhavābhinissaṭo.",
+          "en": "and has escaped the three states of existence."
+        },
+        {
+          "scid": "thag18.1:44.1",
+          "pli": "Satipaṭṭhānagīvo so,",
+          "en": "The great sage’s neck is mindfulness meditation;"
+        },
+        {
+          "scid": "thag18.1:44.2",
+          "pli": "saddhāhattho mahāmuni;",
+          "en": "faith is his hands, and wisdom his head."
+        },
+        {
+          "scid": "thag18.1:44.3",
+          "pli": "Paññāsīso mahāñāṇī,",
+          "en": "Having great knowledge,"
+        },
+        {
+          "scid": "thag18.1:44.4",
+          "pli": "sadā carati nibbuto”ti.",
+          "en": "he always wanders, quenched.”"
+        },
+        {
+          "scid": "thag18.1:45.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag18.1:45.2",
+          "pli": "Mahākassapo thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag18.1:46.1",
+          "pli": "Cattālīsanipāto niṭṭhito.",
+          "en": ""
+        },
+        {
+          "scid": "thag18.1:47.1",
+          "pli": "Tatruddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag18.1:48.1",
+          "pli": "Cattālīsanipātamhi,",
+          "en": ""
+        },
+        {
+          "scid": "thag18.1:48.2",
+          "pli": "mahākassapasavhayo;",
+          "en": ""
+        },
+        {
+          "scid": "thag18.1:48.3",
+          "pli": "Ekova thero gāthāyo,",
+          "en": ""
+        },
+        {
+          "scid": "thag18.1:48.4",
+          "pli": "cattālīsa duvepi cāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag18.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 18.1",
+    "volpages": "pts94",
+    "uid": "thag18.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mahākassapattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mahākassapa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag18.1_sujato",
+        "segmented": true,
+        "title": "Mahākassapa",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag18.1_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mahākassapa"
+      }
+    ],
+    "parallel_count": 5,
+    "biblio": null,
+    "num": 1
+  }
+}

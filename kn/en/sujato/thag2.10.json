@@ -1,0 +1,200 @@
+{
+  "sutta_uid": "thag2.10",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.10",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Vasabha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahācunda",
+      "uid": "thag2.11"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Gotama (1st)",
+      "uid": "thag2.9"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.10:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.10:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.10:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag2.10:4.1",
+          "pli": "2.10. Vasabhattheragāthā",
+          "en": "2.10. Vasabha"
+        },
+        {
+          "scid": "thag2.10:5.1",
+          "pli": "“Pubbe hanati attānaṃ,",
+          "en": "First one kills oneself,"
+        },
+        {
+          "scid": "thag2.10:5.2",
+          "pli": "pacchā hanati so pare;",
+          "en": "then one kills others."
+        },
+        {
+          "scid": "thag2.10:5.3",
+          "pli": "Suhataṃ hanti attānaṃ,",
+          "en": "One kills oneself, really dead,"
+        },
+        {
+          "scid": "thag2.10:5.4",
+          "pli": "vītaṃseneva pakkhimā.",
+          "en": "like one who kills birds using a dead bird as a decoy."
+        },
+        {
+          "scid": "thag2.10:6.1",
+          "pli": "Na brāhmaṇo bahivaṇṇo,",
+          "en": "A holy man’s color is not on the outside;"
+        },
+        {
+          "scid": "thag2.10:6.2",
+          "pli": "anto vaṇṇo hi brāhmaṇo;",
+          "en": "a holy man is colored on the inside."
+        },
+        {
+          "scid": "thag2.10:6.3",
+          "pli": "Yasmiṃ pāpāni kammāni,",
+          "en": "Whoever harbors bad deeds"
+        },
+        {
+          "scid": "thag2.10:6.4",
+          "pli": "sa ve kaṇho sujampatī”ti.",
+          "en": "is truly a dark one, Sujampati."
+        },
+        {
+          "scid": "thag2.10:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:7.2",
+          "pli": "Vasabho thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:7.3",
+          "pli": "Vaggo paṭhamo.",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:8.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:9.1",
+          "pli": "Uttaro ceva piṇḍolo,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:9.2",
+          "pli": "valliyo tīriyo isi;",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:9.3",
+          "pli": "Ajino ca meḷajino,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:9.4",
+          "pli": "rādho surādho gotamo;",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:9.5",
+          "pli": "Vasabhena ime honti,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.10:9.6",
+          "pli": "dasa therā mahiddhikāti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.10/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.10",
+    "volpages": "pts19",
+    "uid": "thag2.10",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vasabhattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vasabha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.10_sujato",
+        "segmented": true,
+        "title": "Vasabha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.10_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Vasabha"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

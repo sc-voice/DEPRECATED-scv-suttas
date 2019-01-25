@@ -1,0 +1,200 @@
+{
+  "sutta_uid": "thag2.30",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.30",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Kaṇhadinna",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Migasira",
+      "uid": "thag2.31"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Bhāradvāja",
+      "uid": "thag2.29"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.30:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.30:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.30:3.1",
+          "pli": "Tatiyavagga",
+          "en": "Chapter Three"
+        },
+        {
+          "scid": "thag2.30:4.1",
+          "pli": "2.30. Kaṇhadinnattheragāthā",
+          "en": "2.30. Kaṇhadinna"
+        },
+        {
+          "scid": "thag2.30:5.1",
+          "pli": "“Upāsitā sappurisā,",
+          "en": "I regularly sat close by good people"
+        },
+        {
+          "scid": "thag2.30:5.2",
+          "pli": "sutā dhammā abhiṇhaso;",
+          "en": "and learnt the teaching."
+        },
+        {
+          "scid": "thag2.30:5.3",
+          "pli": "Sutvāna paṭipajjissaṃ,",
+          "en": "What I learned, I practiced,"
+        },
+        {
+          "scid": "thag2.30:5.4",
+          "pli": "añjasaṃ amatogadhaṃ.",
+          "en": "the direct route that culminates in the deathless."
+        },
+        {
+          "scid": "thag2.30:6.1",
+          "pli": "Bhavarāgahatassa me sato,",
+          "en": "I’ve slain the desire to be reborn,"
+        },
+        {
+          "scid": "thag2.30:6.2",
+          "pli": "Bhavarāgo puna me na vijjati;",
+          "en": "it won’t be found in me again."
+        },
+        {
+          "scid": "thag2.30:6.3",
+          "pli": "Na cāhu na ca me bhavissati,",
+          "en": "It was not, and it won’t be in me,"
+        },
+        {
+          "scid": "thag2.30:6.4",
+          "pli": "Na ca me etarahi vijjatī”ti.",
+          "en": "and it isn’t found in me now."
+        },
+        {
+          "scid": "thag2.30:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:7.2",
+          "pli": "Kaṇhadinno thero ….",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:7.3",
+          "pli": "Vaggo tatiyo.",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:8.1",
+          "pli": "Tassuddānaṃ",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:9.1",
+          "pli": "Uttaro bhaddajitthero,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:9.2",
+          "pli": "sobhito valliyo isi;",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:9.3",
+          "pli": "Vītasoko ca yo thero,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:9.4",
+          "pli": "puṇṇamāso ca nandako;",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:9.5",
+          "pli": "Bharato bhāradvājo ca,",
+          "en": ""
+        },
+        {
+          "scid": "thag2.30:9.6",
+          "pli": "kaṇhadinno mahāmunīti.",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.30/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.30",
+    "volpages": "pts23",
+    "uid": "thag2.30",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Kaṇhadinnattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Kaṇhadinna",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.30_sujato",
+        "segmented": true,
+        "title": "Kaṇhadinna",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.30_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Kaṇhadinna"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 10
+  }
+}

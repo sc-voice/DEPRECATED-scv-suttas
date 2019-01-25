@@ -1,0 +1,160 @@
+{
+  "sutta_uid": "thag2.37",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag2.37",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Soṇapoṭiriya",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nisabha",
+      "uid": "thag2.38"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Nitaka",
+      "uid": "thag2.36"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag2.37:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag2.37:2.1",
+          "pli": "Dukanipāta",
+          "en": "The Book of the Twos"
+        },
+        {
+          "scid": "thag2.37:3.1",
+          "pli": "Catutthavagga",
+          "en": "Chapter Four"
+        },
+        {
+          "scid": "thag2.37:4.1",
+          "pli": "<span class=\"var\" title=\"solissariyattheragāthā (bj)\" id=\"note127\">2.37 Soṇapoṭiriyattheragāthā</span>",
+          "en": "2.37. Soṇapoṭiriya"
+        },
+        {
+          "scid": "thag2.37:5.1",
+          "pli": "“Na tāva supituṃ hoti,",
+          "en": "Night, with her garland of stars,"
+        },
+        {
+          "scid": "thag2.37:5.2",
+          "pli": "ratti nakkhattamālinī;",
+          "en": "is not only for sleeping."
+        },
+        {
+          "scid": "thag2.37:5.3",
+          "pli": "Paṭijaggitumevesā,",
+          "en": "For those who know,"
+        },
+        {
+          "scid": "thag2.37:5.4",
+          "pli": "ratti hoti vijānatā”.",
+          "en": "this night is really for waking."
+        },
+        {
+          "scid": "thag2.37:6.1",
+          "pli": "“Hatthikkhandhāvapatitaṃ,",
+          "en": "Were I to fall from the back of an elephant,"
+        },
+        {
+          "scid": "thag2.37:6.2",
+          "pli": "kuñjaro ce anukkame;",
+          "en": "trampled by the tuskers that follow,"
+        },
+        {
+          "scid": "thag2.37:6.3",
+          "pli": "Saṅgāme me mataṃ seyyo,",
+          "en": "better for me to die in battle,"
+        },
+        {
+          "scid": "thag2.37:6.4",
+          "pli": "yañce jīve parājito”ti.",
+          "en": "than to live on in defeat."
+        },
+        {
+          "scid": "thag2.37:7.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag2.37:7.2",
+          "pli": "Soṇo <span class=\"var\" title=\"selissariya (bj) | poṭiriyaputto (s2, s3, pts1-2)\" id=\"note128\">poṭiriyo</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag2.37/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 2.37",
+    "volpages": "pts25",
+    "uid": "thag2.37",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Soṇapoṭiriyattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Soṇapoṭiriya",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag2.37_sujato",
+        "segmented": true,
+        "title": "Soṇapoṭiriya",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag2.37_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Soṇapoṭiriya"
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 7
+  }
+}

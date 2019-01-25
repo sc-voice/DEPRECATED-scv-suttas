@@ -1,0 +1,330 @@
+{
+  "sutta_uid": "thag10.3",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag10.3",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Mahākappina",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Cūḷapanthaka",
+      "uid": "thag10.4"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ekavihāriya",
+      "uid": "thag10.2"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag10.3:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag10.3:2.1",
+          "pli": "Dasakanipāta",
+          "en": "The Book of the Tens"
+        },
+        {
+          "scid": "thag10.3:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag10.3:4.1",
+          "pli": "10.3. Mahākappinattheragāthā",
+          "en": "10.3. Mahākappina"
+        },
+        {
+          "scid": "thag10.3:5.1",
+          "pli": "“Anāgataṃ yo <span class=\"var\" title=\"paṭigacca (bj, pts1)\" id=\"note268\">paṭikacca</span> passati,",
+          "en": "If you’re prepared for the future,"
+        },
+        {
+          "scid": "thag10.3:5.2",
+          "pli": "Hitañca atthaṃ ahitañca taṃ dvayaṃ;",
+          "en": "both the good and the bad,"
+        },
+        {
+          "scid": "thag10.3:5.3",
+          "pli": "Viddesino tassa hitesino vā,",
+          "en": "then those who look for your weakness,"
+        },
+        {
+          "scid": "thag10.3:5.4",
+          "pli": "Randhaṃ na passanti samekkhamānā.",
+          "en": "whether enemies or well-wishers, will find none."
+        },
+        {
+          "scid": "thag10.3:6.1",
+          "pli": "<span class=\"var\" title=\"ānāpānassati (^ps1.3#52 [Ānāpānassatikathā/ Vodānañāṇaniddesa])\" id=\"note269\">Ānāpānasatī</span> yassa,",
+          "en": "One who has fulfilled, developed,"
+        },
+        {
+          "scid": "thag10.3:6.2",
+          "pli": "paripuṇṇā subhāvitā;",
+          "en": "and gradually consolidated"
+        },
+        {
+          "scid": "thag10.3:6.3",
+          "pli": "Anupubbaṃ paricitā,",
+          "en": "mindfulness of breathing"
+        },
+        {
+          "scid": "thag10.3:6.4",
+          "pli": "yathā buddhena desitā;",
+          "en": "as it was taught by the Buddha:"
+        },
+        {
+          "scid": "thag10.3:6.5",
+          "pli": "Somaṃ lokaṃ pabhāseti,",
+          "en": "they light up the world,"
+        },
+        {
+          "scid": "thag10.3:6.6",
+          "pli": "abbhā muttova candimā.",
+          "en": "like the moon freed from a cloud."
+        },
+        {
+          "scid": "thag10.3:7.1",
+          "pli": "Odātaṃ vata me cittaṃ,",
+          "en": "Yes, my mind is clean,"
+        },
+        {
+          "scid": "thag10.3:7.2",
+          "pli": "appamāṇaṃ subhāvitaṃ;",
+          "en": "measureless, and well-developed;"
+        },
+        {
+          "scid": "thag10.3:7.3",
+          "pli": "Nibbiddhaṃ paggahītañca,",
+          "en": "it has broken through and been uplifted—"
+        },
+        {
+          "scid": "thag10.3:7.4",
+          "pli": "sabbā obhāsate disā.",
+          "en": "it radiates in every direction."
+        },
+        {
+          "scid": "thag10.3:8.1",
+          "pli": "Jīvate vāpi sappañño,",
+          "en": "A wise person lives on"
+        },
+        {
+          "scid": "thag10.3:8.2",
+          "pli": "api vittaparikkhayo;",
+          "en": "even after loss of wealth;"
+        },
+        {
+          "scid": "thag10.3:8.3",
+          "pli": "Paññāya ca alābhena,",
+          "en": "but without gaining wisdom,"
+        },
+        {
+          "scid": "thag10.3:8.4",
+          "pli": "vittavāpi na jīvati.",
+          "en": "even a rich person doesn’t really live."
+        },
+        {
+          "scid": "thag10.3:9.1",
+          "pli": "Paññā sutavinicchinī,",
+          "en": "Wisdom questions what is learned;"
+        },
+        {
+          "scid": "thag10.3:9.2",
+          "pli": "Paññā kittisilokavaddhanī;",
+          "en": "wisdom grows fame and reputation;"
+        },
+        {
+          "scid": "thag10.3:9.3",
+          "pli": "Paññāsahito naro idha,",
+          "en": "a person who has wisdom"
+        },
+        {
+          "scid": "thag10.3:9.4",
+          "pli": "Api dukkhesu sukhāni vindati.",
+          "en": "finds happiness even among sufferings."
+        },
+        {
+          "scid": "thag10.3:10.1",
+          "pli": "Nāyaṃ ajjatano dhammo,",
+          "en": "It’s not a teaching just for today;"
+        },
+        {
+          "scid": "thag10.3:10.2",
+          "pli": "nacchero napi abbhuto;",
+          "en": "it isn’t incredible or amazing."
+        },
+        {
+          "scid": "thag10.3:10.3",
+          "pli": "Yattha jāyetha mīyetha,",
+          "en": "When you’re born, you die—"
+        },
+        {
+          "scid": "thag10.3:10.4",
+          "pli": "tattha kiṃ viya abbhutaṃ.",
+          "en": "what’s amazing about that?"
+        },
+        {
+          "scid": "thag10.3:11.1",
+          "pli": "Anantaraṃ hi jātassa,",
+          "en": "For anyone who is born,"
+        },
+        {
+          "scid": "thag10.3:11.2",
+          "pli": "jīvitā maraṇaṃ dhuvaṃ;",
+          "en": "death always follows after life."
+        },
+        {
+          "scid": "thag10.3:11.3",
+          "pli": "Jātā jātā marantīdha,",
+          "en": "Everyone who is born here dies here;"
+        },
+        {
+          "scid": "thag10.3:11.4",
+          "pli": "evaṃdhammā hi pāṇino.",
+          "en": "such is the nature of living creatures."
+        },
+        {
+          "scid": "thag10.3:12.1",
+          "pli": "Na hetadatthāya matassa hoti,",
+          "en": "The things that are useful for the living"
+        },
+        {
+          "scid": "thag10.3:12.2",
+          "pli": "Yaṃ jīvitatthaṃ paraporisānaṃ;",
+          "en": "are of no use for the dead—not fame, not celebrity,"
+        },
+        {
+          "scid": "thag10.3:12.3",
+          "pli": "Matamhi ruṇṇaṃ na yaso na lokyaṃ,",
+          "en": "not praise by ascetics and brahmins."
+        },
+        {
+          "scid": "thag10.3:12.4",
+          "pli": "Na vaṇṇitaṃ samaṇabrāhmaṇehi.",
+          "en": "For the dead, there is only weeping."
+        },
+        {
+          "scid": "thag10.3:13.1",
+          "pli": "Cakkhuṃ sarīraṃ <span class=\"var\" title=\"upahanti ruṇṇaṃ (bj) | upahanti roṇṇaṃ (s2, s3, pts1-2)\" id=\"note270\">upahanti tena</span>,",
+          "en": "And weeping impairs the eye and the body;"
+        },
+        {
+          "scid": "thag10.3:13.2",
+          "pli": "Nihīyati vaṇṇabalaṃ matī ca;",
+          "en": "complexion, health, and intelligence decline."
+        },
+        {
+          "scid": "thag10.3:13.3",
+          "pli": "Ānandino tassa disā bhavanti,",
+          "en": "Your enemies rejoice;"
+        },
+        {
+          "scid": "thag10.3:13.4",
+          "pli": "Hitesino nāssa sukhī bhavanti.",
+          "en": "but your well-wishers are not happy."
+        },
+        {
+          "scid": "thag10.3:14.1",
+          "pli": "Tasmā hi iccheyya kule vasante,",
+          "en": "So you should wish that those who stay in your family"
+        },
+        {
+          "scid": "thag10.3:14.2",
+          "pli": "Medhāvino ceva bahussute ca;",
+          "en": "have intelligence and learning,"
+        },
+        {
+          "scid": "thag10.3:14.3",
+          "pli": "Yesaṃ hi paññāvibhavena kiccaṃ,",
+          "en": "and do their duty through the power of wisdom,"
+        },
+        {
+          "scid": "thag10.3:14.4",
+          "pli": "Taranti nāvāya nadiṃva puṇṇan”ti.",
+          "en": "just as you’d cross a full river by boat."
+        },
+        {
+          "scid": "thag10.3:15.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag10.3:15.2",
+          "pli": "Mahākappino thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag10.3/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 10.3",
+    "volpages": "pts59",
+    "uid": "thag10.3",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mahākappinattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Mahākappina",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag10.3_sujato",
+        "segmented": true,
+        "title": "Mahākappina",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag10.3_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Mahākappina"
+      }
+    ],
+    "parallel_count": 23,
+    "biblio": null,
+    "num": 3
+  }
+}

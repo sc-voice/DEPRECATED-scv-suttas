@@ -1,0 +1,140 @@
+{
+  "sutta_uid": "thag1.11",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag1.11",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by Bhikkhu Sujato, <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Cūḷavaccha",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahāvaccha",
+      "uid": "thag1.12"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Puṇṇamāsa (1st)",
+      "uid": "thag1.10"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag1.11:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag1.11:2.1",
+          "pli": "Ekakanipāta",
+          "en": "The Book of the Ones"
+        },
+        {
+          "scid": "thag1.11:3.1",
+          "pli": "Dutiyavagga",
+          "en": "Chapter Two"
+        },
+        {
+          "scid": "thag1.11:4.1",
+          "pli": "1.11. Cūḷavacchattheragāthā",
+          "en": "1.11. Cūḷavaccha"
+        },
+        {
+          "scid": "thag1.11:5.1",
+          "pli": "“<span class=\"var\" title=\"pāmujjabahulo (s2, s3, pts1-2)\" id=\"note9\">Pāmojjabahulo</span> bhikkhu,",
+          "en": "A monk full of joy"
+        },
+        {
+          "scid": "thag1.11:5.2",
+          "pli": "dhamme buddhappavedite;",
+          "en": "in the teaching proclaimed by the Buddha"
+        },
+        {
+          "scid": "thag1.11:5.3",
+          "pli": "Adhigacche padaṃ santaṃ,",
+          "en": "would realize the peaceful state,"
+        },
+        {
+          "scid": "thag1.11:5.4",
+          "pli": "saṅkhārūpasamaṃ sukhan”ti.",
+          "en": "the blissful stilling of conditions."
+        },
+        {
+          "scid": "thag1.11:6.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag1.11:6.2",
+          "pli": "<span class=\"var\" title=\"cūlagavaccho (si, pts1-2)\" id=\"note10\">Cūḷavaccho</span> thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag1.11/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 1.11",
+    "volpages": "pts3",
+    "uid": "thag1.11",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Cūḷavacchattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Cūḷavaccha",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag1.11_sujato",
+        "segmented": true,
+        "title": "Cūḷavaccha",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Sujato, Jessica Walton",
+        "author_short": "Sujato …",
+        "author_uid": "sujato-walton",
+        "id": "en_thag1.11_sujato-walton",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2014",
+        "segmented": false,
+        "volpage": null,
+        "title": "Cūḷavaccha"
+      }
+    ],
+    "parallel_count": 14,
+    "biblio": null,
+    "num": 1
+  }
+}
