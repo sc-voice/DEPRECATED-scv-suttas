@@ -1,0 +1,142 @@
+{
+  "sutta_uid": "an4.304-783",
+  "support": {
+    "value": "Legacy",
+    "description": "Errors of record in legacy content will not be fixed since they are historical. Only transcription errors from historical source will be corrected."
+  },
+  "translation": {
+    "uid": "an4.304-783",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=\"author\">Bhikkhu Sujato</span>, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Insight into Hate, Etc.",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "In Brief",
+      "uid": "an5.1"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Complete Understanding, Etc.",
+      "uid": "an4.277-303"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an4.304-783:0.1",
+          "pli": "Aṅguttara Nikāya 4",
+          "en": "Numbered Discourses 4"
+        },
+        {
+          "scid": "an4.304-783:0.2",
+          "pli": "28. Rāgapeyyāla",
+          "en": "28. Abbreviated Texts Beginning with Greed"
+        },
+        {
+          "scid": "an4.304-783:0.3",
+          "pli": "304–​783. Dosaabhiññādisutta",
+          "en": "304–783. Insight into Hate, Etc."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 4",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "an4.304-783:1.1",
+          "pli": "“Dosassa … pe … mohassa … kodhassa … upanāhassa … makkhassa … paḷāsassa … issāya … macchariyassa … māyāya … sāṭheyyassa … thambhassa … sārambhassa … mānassa … atimānassa … madassa … pamādassa abhiññāya … pariññāya … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya ime cattāro dhammā bhāvetabbā”ti.",
+          "en": "“Of hate … delusion … anger … hostility … offensiveness … contempt … jealousy … stinginess … deceit … deviousness … obstinacy … aggression … conceit … arrogance … vanity … negligence … for insight … complete understanding … finishing … giving up … ending … vanishing … fading away … cessation … giving away … letting go … four things should be developed.”"
+        },
+        {
+          "scid": "an4.304-783:1.2",
+          "pli": "Dasuttarapañcasatimaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.304-783:1.3",
+          "pli": "Rāgapeyyālaṃ niṭṭhitaṃ.",
+          "en": ""
+        },
+        {
+          "scid": "an4.304-783:1.4",
+          "pli": "Pañcamo paṇṇāsako samatto.",
+          "en": ""
+        },
+        {
+          "scid": "an4.304-783:1.5",
+          "pli": "Catukkanipātapāḷi niṭṭhitā.",
+          "en": "The Book of the Fours is finished."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Of hate … delusion … anger … hostility ……",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an4.304-783/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": "pts-vp-pli2.257",
+    "uid": "an4.304-783",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Dosaabhiññādi Sutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Insight into Hate, Etc.",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2018",
+        "id": "en_an4.304-783_sujato",
+        "segmented": true,
+        "title": "Insight into Hate, Etc.",
+        "volpage": null
+      },
+      {
+        "author": "Bhikkhu Bodhi",
+        "author_short": "Bodhi",
+        "author_uid": "bodhi",
+        "id": "en_an4.304-783_bodhi",
+        "is_root": false,
+        "lang": "en",
+        "lang_name": "English",
+        "publication_date": "2012",
+        "segmented": false,
+        "volpage": null,
+        "title": ""
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 5
+  }
+}
