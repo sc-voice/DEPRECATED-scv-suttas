@@ -10,20 +10,20 @@
     "author_short": "Sujato",
     "author_uid": "sujato",
     "author_blurb": {
-      "en": "Translated for SuttaCentral by <span class=\"author\">Bhikkhu Sujato</span>, <span class=\"publication-date\">2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+      "en": "Translated for SuttaCentral by <span class=”author”>Bhikkhu Sujato</span>, <span class=”publication-date”>2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
     },
     "lang": "en",
-    "title": "Sister",
+    "title": "Sister ",
     "next": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Son",
+      "name": "Son ",
       "uid": "sn15.18"
     },
     "previous": {
       "author_uid": "sujato",
       "lang": "en",
-      "name": "Brother",
+      "name": "Brother ",
       "uid": "sn15.16"
     }
   },
@@ -32,18 +32,18 @@
       "segments": [
         {
           "scid": "sn15.17:0.1",
-          "pli": "Saṃyutta Nikāya 15",
-          "en": "Linked Discourses 15"
+          "pli": "Saṃyutta Nikāya 15 ",
+          "en": "Linked Discourses 15 "
         },
         {
           "scid": "sn15.17:0.2",
-          "pli": "2. Dutiyavagga",
-          "en": "2. The Second Chapter"
+          "pli": "2. Dutiyavagga ",
+          "en": "2. The Second Chapter "
         },
         {
           "scid": "sn15.17:0.3",
-          "pli": "17. Bhaginisutta",
-          "en": "17. Sister"
+          "pli": "17. Bhaginisutta ",
+          "en": "17. Sister "
         }
       ],
       "type": "Section",
@@ -52,29 +52,29 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "Linked Discourses 15",
+      "title": "Linked Discourses 15 ",
       "expandable": false
     },
     {
       "segments": [
         {
           "scid": "sn15.17:1.1",
-          "pli": "Sāvatthiyaṃ viharati … pe …",
-          "en": "At Sāvatthī."
+          "pli": "Sāvatthiyaṃ viharati … pe … ",
+          "en": "At Sāvatthī. "
         },
         {
           "scid": "sn15.17:1.2",
-          "pli": "“na so, bhikkhave, satto sulabharūpo yo nabhaginibhūtapubbo … pe …",
-          "en": "“It’s not easy to find a sentient being who in all this long time has not previously been your sister. …"
+          "pli": "“na so, bhikkhave, satto sulabharūpo yo nabhaginibhūtapubbo … pe … ",
+          "en": "“It’s not easy to find a sentient being who in all this long time has not previously been your sister. … "
         },
         {
           "scid": "sn15.17:1.3",
-          "pli": "alaṃ vimuccitun”ti.",
-          "en": "This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”"
+          "pli": "alaṃ vimuccitun”ti. ",
+          "en": "This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.” "
         },
         {
           "scid": "sn15.17:1.4",
-          "pli": "Sattamaṃ.",
+          "pli": "Sattamaṃ. ",
           "en": ""
         }
       ],
@@ -84,7 +84,7 @@
       "template": [],
       "expanded": false,
       "prop": "en",
-      "title": "At Sāvatthī.",
+      "title": "At Sāvatthī. ",
       "expandable": false
     }
   ],
@@ -101,7 +101,7 @@
     "root_lang_name": "Pāli",
     "type": "text",
     "from": null,
-    "translated_title": "Sister",
+    "translated_title": "Sister ",
     "translations": [
       {
         "lang": "en",
@@ -110,10 +110,10 @@
         "author": "Bhikkhu Sujato",
         "author_short": "Sujato",
         "author_uid": "sujato",
-        "publication_date": "2018",
+        "publication_date": null,
         "id": "en_sn15.17_sujato",
         "segmented": true,
-        "title": "Sister",
+        "title": "Sister ",
         "volpage": null
       }
     ],
