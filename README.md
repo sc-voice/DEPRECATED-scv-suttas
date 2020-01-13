@@ -1,3 +1,6 @@
+# WARNING: This repository is deprecated and no longer in use
+### Please see bilara-data
+
 # scv-suttas
 
 This repository comprises JSON transcriptions 
